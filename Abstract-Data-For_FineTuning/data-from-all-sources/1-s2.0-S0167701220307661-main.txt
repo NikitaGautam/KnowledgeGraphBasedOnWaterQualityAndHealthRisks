@@ -1,0 +1,843 @@
+Journal of Microbiological Methods 177 (2020) 106050
+
+Contents lists available at ScienceDirect
+
+Journal of Microbiological Methods
+journal homepage: www.elsevier.com/locate/jmicmeth
+
+Review
+
+Sequence-enabled community-based microbial source tracking in surface
+waters using machine learning classification: A review
+
+T
+
+Prince P. Mathaia, Christopher Staleya,b, Michael J. Sadowskya,c,d,
+
+⁎
+
+a
+
+BioTechnology Institute, University of Minnesota, St. Paul, MN, USA
+Division of Basic & Translational Research, Department of Surgery, University of Minnesota, Minneapolis, MN, USA
+c
+Department of Soil, Water, and Climate, University of Minnesota, St. Paul, MN, USA
+d
+Department of Plant and Microbial Biology, University of Minnesota, St. Paul, MN, USA
+b
+
+ARTICLE INFO
+
+ABSTRACT
+
+Keywords:
+Fecal contamination
+Microbial source tracking
+High-throughput DNA sequencing
+SourceTracker
+
+The development of Microbial Source Tracking (MST) technologies was borne out of necessity. This was largely
+due to the: 1) inadequacies of the fecal indicator bacterial paradigm, 2) fact that many fecal bacteria can survive
+and often grow in the environment, 3) inability of traditional microbiological methods to attribute source, 4)
+lack of correspondence between numbers of fecal indicator bacteria in waterways and many human pathogens,
+and 5) source allocation requirements and load determinations needed for total maximum daily loads. The MST
+tools have changed over time, evolving from culture-dependent to culture-independent molecular analyses.
+More recently, MST tools based on microbial community analyses, mainly DNA sequencing-based approaches,
+have been developed in an attempt to overcome some of these issues. These approaches generate large data sets
+and require the use of sophisticated machine learning algorithms to allocate potential host sources to contaminated waterways. In this review we discuss the origins and needs for community-based MST methods, as
+well as elaborate on the Bayesian algorithm-based program SourceTracker, which is increasingly being used for
+the determination of sources of fecal contamination of waterways.
+
+1. Microbial water quality
+Clean and safe water for drinking and recreation is paramount for
+modern civilization. In most cases, the safety of water and waterways is
+ascertained by quantifying fecal bacteria, mainly Escherichia coli,
+Enterococcus spp., and, in some instances, viruses (Dufour and Schaub,
+2007). While this indicator paradigm has been used for decades, there is
+ample evidence showing that these bacteria can grow and reproduce in
+the environment, limiting their use as indicators of fecal contamination
+(Byappanahalli et al., 2012; Ishii and Sadowsky, 2008; Jang et al.,
+2017). Moreover, there is often little relationship between pathogen
+loading and the numbers of fecal indicator bacteria (FIB) (Ishii et al.,
+2014; Lemarchand and Lebaron, 2003; Wu et al., 2011). In addition,
+measurements of FIB often rely on the use of culture-based methods
+that are laborious, time sensitive, and do not give results in a timely
+manner (Dorevitch et al., 2017). Moreover, they lack the ability to
+determine source attribution often required for abatement strategies.
+This renders them not useful for their intended purpose and confounds
+their use for water quality monitoring, stormwater and beach management, and load determinations meant to satisfy local, state, or
+
+⁎
+
+federal water quality standards. These major limitations led to the development of microbial source tracking (MST) technologies to identify
+the source(s) of fecal pollution in waterways with the goal to guide
+abatement or remediation strategies (Harwood et al., 2014).
+2. Microbial source tracking
+MST methods were developed somewhat in parallel to those used
+for tracking pathogens in food and human disease outbreaks (Riley and
+Blanton, 2018), as well as to address limitations of traditional fecal
+indicator methods. What differentiates MST use in water quality efforts
+from other approaches is that rather than enumerating general indicator organisms (Fewtrell and Bartram, 2001), such as fecal indicator
+bacteria (Dufour and Schaub, 2007) or non-specific coliphages, efforts
+are placed on identification of microbiota representative of a specific
+host source animal. Although the techniques used have changed over
+time, they have the same goals and are based on the hypothesis that
+microbiota within the gastrointestinal (GI) tracts of animals are the
+source of host-associated microbiota (Kohl et al., 2018). Since it is
+difficult to sample the GI tract directly, feces is used as a representative
+
+Corresponding author at: 1479 Gortner Ave., 140 Gortner Labs, BioTechnology Institute, University of Minnesota, St. Paul, MN 55108, USA.
+E-mail address: sadowsky@umn.edu (M.J. Sadowsky).
+
+https://doi.org/10.1016/j.mimet.2020.106050
+Received 15 May 2020; Received in revised form 27 August 2020; Accepted 1 September 2020
+Available online 04 September 2020
+0167-7012/ © 2020 Elsevier B.V. All rights reserved.
+
+
+
+Journal of Microbiological Methods 177 (2020) 106050
+
+P.P. Mathai, et al.
+
+surrogate for the microbiota found in the intestinal environment
+(Hillman et al., 2017).
+Many of the initial MST methods focused on determining whether
+specific E. coli strains or enterococci grouped together in a host specific
+manner. This was done using several traditional phenotypic and molecular methods and were generally characterized as being culture- and
+library-dependent in nature (Scott et al., 2002; Simpson et al., 2002;
+Stoeckel and Harwood, 2007). In these approaches, a series of E. coli or
+Enterococcus isolates were obtained by culturing from different animal
+feces and these strains were used in a host source library to compare
+against similar characteristics (genotypic or phenotypic) of isolates
+from these genera obtained from environment (Ahmed, 2007). The
+questions asked were fairly simple, mainly, do environmental isolates
+match any of those in the source library? Some of the initial studies
+were done using phenotypic analyses such as antibiotic resistance
+profiles and carbon source utilization patterns (Hagedorn et al., 2003;
+Scott et al., 2002). Due to great heterogeneity and variation in phenotypes among E. coli or Enterococcus strains from the same host source
+group, which was further complicated by variation due to location and
+feeding habits, these approaches lost favor to more molecular-based
+analyses (Myoda et al., 2003). These culture- and library-dependent
+molecular methods included the use of rep-PCR DNA fingerprinting
+(Dombek et al., 2000; Johnson et al., 2004), ribotyping (Scott et al.,
+2003), restriction fragment length polymorphism (Bernhard and Field,
+2000), uidA gene sequencing (Ram et al., 2004), pulsed-field gel electrophoresis (Furukawa and Suzuki, 2013), and host species-specific
+hybridization markers (Hamilton et al., 2006), to name a few. These
+techniques also suffered some of the same limitations as did phenotypic
+methods – small host source library size given genetic diversity, variation due to location and dietary differences, incomplete library
+composition resulting in the inability to characterize a large proportion
+of environmental isolates, and problems associated with cost and
+throughput (Stewart et al., 2003; Stoeckel and Harwood, 2007).
+Taken together, these problems led to a rapid evolution of methods
+to ones favoring culture- and library-independent approaches. Chief
+among these, and the first method to be used, was host source and
+species group specific PCR (and later qPCR) targeting the 16S rRNA
+gene of intestinal bacteria that likely have an evolutionary relationship
+with the host, leading to host source specificity (Unno et al., 2018). This
+marker gene approach was initially directed to Bacteroides spp. strains
+having specificity for the human host, and relied on primer design from
+16S rRNA gene sequence data or subtractive hybridizations (Dick et al.,
+2005b; Field and Samadpour, 2007). This approach was subsequently
+expanded to a variety of bacterial host source-specific marker genes
+using this target bacterium, as well as Bifidobacterium spp., Catellicoccus,
+Bacteroidales, Methanobrevibacter, and Lachnospiraceae (reviewed in
+Harwood et al., 2014). In addition, several species/strain specific PCR
+(and qPCR) assays have also been developed that target marker genes in
+microbes related to non-human host sources such as cows (Shanks et al.,
+2008), birds (Green et al., 2012), pigs (Mieszkin et al., 2009), dogs
+(Dick et al., 2005b), and horses (Dick et al., 2005a). More recent studies
+have used metagenomic and 16S rRNA gene-based amplicon sequencing approaches to define new host-source specific primers (Feng and
+McLellan, 2019). In many respects, qPCR-based MST methods have
+revolutionized the determination of potential sources of microbiota in
+waterways, and are now widely used.
+That said, as with most molecular tools, qPCR-based marker gene
+methods are not without limitations and problems. These include issues
+related to sensitivity, lack of specificity and cross reactivity across animal source groups, PCR inhibition, and the inability to detect recent
+from past contamination events (Unno et al., 2018). In addition, there is
+currently a lack of marker genes for all animal feces contaminating a
+given watershed. Lastly, while it was originally thought that marker
+gene targets would not survive long in the environment, recent studies
+have shown that there is differential decay of these bacteria or their
+DNA targets in the environment (Bae and Wuertz, 2009; Dick et al.,
+
+2010; Korajkic et al., 2019; Schulz and Childers, 2011; Walters et al.,
+2009). Consequently, if host source origin and a time variable are
+needed in the analyses, then one needs to operationally determine the
+decay of a particular marker indicator over time. It should be noted,
+however, that the limitations and problems mentioned above are not
+unique to qPCR-based MST methods.
+3. Community-based MST
+Some of the limitations mentioned above, along with advances in
+DNA sequencing technologies, led to an evolution in culture-independent MST technologies (Tan et al., 2015). This has allowed
+movement away from approaches targeting a single microorganism or
+bacterial taxon to ones involving multiple taxa and microbial community-based approaches (Brown et al., 2019; Cao et al., 2013; Unno et al.,
+2010, 2018). The majority of DNA sequencing technologies revolve
+around relatively rapid, inexpensive, and high-throughput approaches.
+These approaches generally rely on library-based technologies where
+host source-specific fecal taxon libraries (FTL) serve as the comparator
+to those taxa found in waterways. As with previous library-dependent
+MST methods, the FTL used will likely be regionally based and must
+take into account geographic and inter- and intra-animal variability
+with respect to the composition of microbial communities in their feces
+(Brown et al., 2019; Unno et al., 2018). These communities can indeed
+be complex and may contain hundreds to thousands of microbial taxa,
+only some of which can be enumerated by culture. Since only taxonomically relevant sequences are used, mainly those based on 16S
+rRNA genes, the methods do not require microbial growth. The studies
+rely on the basic premise that microbial communities present in waterways are reflective of a community of taxa found in feces from
+known animal sources and present in the initial FTL. While initial
+studies were done using DNA sequencing reads generated using 454
+pyrosequencing technology (Ronaghi, 2001), this platform was largely
+replaced by Illumina-based DNA sequencing systems (Gloor et al.,
+2010). Modern Illumina-based platforms, such as the NovaSeq 6000
+system, can produce several thousands of gigabase pairs (Gbp) of DNA
+sequenced data from a single run (Shendure et al., 2017). However, this
+capacity is not needed for most MST studies as amplicon sequencing
+coupled with barcoded primers allows for ample sequence reads to be
+produced from a large number of samples (Gohl et al., 2016; Unno
+et al., 2010). That said, since community-based MST technologies are
+data heavy, efficient computational routines and algorithms are needed
+to determine potential sources of intestinal microbiota in waterways
+(Knights et al., 2011; Unno et al., 2010).
+4. MST using SourceTracker
+4.1. Methodology
+One of the first machine-learning MST tools utilizing highthroughput sequencing (HTS) data was the program SourceTracker
+(Knights et al., 2011). Although previous methods have been proposed,
+mostly aimed at sequence data generated via the Roche 454 platform
+(Unno et al., 2010), most programs lacked adequate statistical testing
+and technical issues made large scale projects cost prohibitive. The
+SourceTracker program was originally designed to detect small
+amounts of contamination from multiple sources, while also accounting
+for uncertainty in community composition due to potentially unknown
+sources. The program requires that the user input a count table of taxa
+and to define samples as the potential sources of contamination or as
+sinks for the contamination. A Bayesian algorithm then calculates prior
+probabilities that taxa belong to specific source categories in order to
+differentiate them. The source contribution to sink samples is then
+calculated as a mixture of the sources provided. Predicted source allocations were shown by the developers to be more accurate than a
+random forest machine learning approach, or even naïve Bayes
+2
+
+
+
+Journal of Microbiological Methods 177 (2020) 106050
+
+P.P. Mathai, et al.
+
+Table 1
+Previous studies that have utilized the SourceTracker program to identify sources of fecal contamination in surface waters.
+Study
+
+Region
+
+Sink type
+
+Sources evaluated
+
+Sources identified (% contribution)
+
+Shanks et al.
+(2013)
+Newton et al.
+(2013)
+Ahmed et al.
+(2015)
+Henry et al. (2016)
+
+WW influent
+
+Human, cattle
+
+Fecal (4 to 29)
+
+WW influent
+
+Human
+
+Human (≤ 10)
+
+River
+
+Cat, cattle, dog, horse, kangaroo, WW influent
+
+Human (1 to 13)
+
+Recreational beach
+water
+
+River, estuary, greywater, stormwater, raw sewage, treated
+effluent, septic tank, potable water, ground water, avian,
+sand, sediment, native, domestic, and agricultural livestock
+Sheep, pig, human, goose, duck, cow, chicken, WW effluent
+
+Treated effluent (major); Site-specific: raw
+sewage, stormwater, estuary
+
+McCarthy et al.
+(2017)
+
+Multiple
+USA
+Milwaukee
+Wisconsin, USA
+Brisbane River
+QLD, Australia
+Port Philip Bay
+Victoria,
+Australia
+Yangtze River
+Jiangsu, China
+Yarra River
+Australia
+
+Staley et al.
+(2017)
+
+SE Florida
+USA
+
+Reef water, mucus,
+and polyp
+
+Yarra River (0.3 to 88), Gardiners Creek (0 to 90),
+Hawthorn Main Drain (0 to 14), Port Philip Bay (0
+to 65)
+Outfalls (major), inlet (minor)
+
+Ahmed et al.
+(2017)
+Brown et al.
+(2017)
+Baral et al.
+(2018b)
+
+Multiple
+Australia
+Lake Superior
+Minnesota, USA
+Antelope Creek
+Nebraska, USA
+
+Treated WW effluent
+
+Yarra River (freshwater), Gardiners Creek (freshwater),
+Hawthorn Main Drain (stormwater and dry weather
+discharges), Port Philip Bay (marine water)
+Treated WW effluent before oceanic discharge, treated WW
+oceanic outfalls, coastal inlet discharge waters, open ocean
+surface water
+Raw WW influent
+
+O'Dea et al. (2019)
+
+SE QLD
+Australia
+
+Freshwater
+catchments
+
+Li et al. (2020)
+
+Goleta Beach
+California, USA
+
+Surf zone water
+
+Sun et al. (2016)
+
+River
+Estuary
+
+Lake
+Urban stream
+
+Chicken, cow, turkey, swine, beaver, gull, Canada geese,
+rabbit, deer, cat, dog, treated WW effluent
+Embankment soil, Holmes lake, streambed sediment, storm
+drain outfalls, pigeons, swallows, ducks, geese, dogs, horses,
+small mammals
+Chickens, horses, pigs, cats, dogs, humans, WW, cattle, deer,
+sheep, flying foxes, kangaroos, parrots, beavers, birds,
+Canada geese, gulls, possums, rabbits, turkeys
+Disposed sediments, raw sewage, mountain soil, beach sand,
+surf zone water, nearshore water
+
+classification. In addition, the software is capable of determining which
+individual taxa are contributed from each source, potentially allowing
+for inferences related to relative health risks. The SourceTracker program has been utilized to estimate the proportion of microbial contamination that each individual source contributes to surface waters
+(summarized in Table 1) and validated against hydrodynamic modeling
+of source contamination (Henry et al., 2016). While the majority of the
+SourceTracker-based MST studies have been done using 16S rRNA gene
+sequencing analyses, some recent studies have leveraged shotgun sequencing data (Baral et al., 2018a; Chen et al., 2020; Dang et al., 2020;
+Li et al., 2018; McGhee et al., 2020).
+
+WW effluent (25 to 52), cow (18 to 49)
+
+Raw WW influent (9 to 61)
+Treated WW effluent (major), geese and gull
+(occasional)
+Dry weather flows: Holmes lake (93); Wet
+weather flows: Storm drain outfalls (75 to 91)
+WW (< 3), deer and flying fox (occasional)
+Period 1: mountain soils (44), sewage (20) and
+disposed sediments (18); Period 2: nearshore
+water (61), disposed sediments (0.1 to 42)
+
+be dependent on the level of contamination by a particular source
+(Brown et al., 2017; Henry et al., 2016; Knights et al., 2011) as well as
+microbial background composition (Hägglund et al., 2018). The calculation of relative standard deviation (RSD) for each attributed source
+improved overall predictive confidence in the results. For example,
+Brown et al. (2017) showed that the RSD values obtained from the five
+SourceTracker runs were negatively correlated with the size of the
+predicted SourceTracker proportions. The authors reported that larger
+SourceTracker proportions, such as those seen with effluent, had lower
+RSD values, while smaller SourceTracker proportions such as geese and
+gulls had higher RSD values. Therefore, it is likely that SourceTracker
+may only be able to predict the presence of low-abundance sources but
+is unable to provide an accurate quantitative measure of the microbial
+load associated with the fecal input.
+Because community-based microbial signatures are comprised of
+several different taxa, their unique decay rates may affect the ability of
+the SourceTracker program to accurately assign correct sources to
+contamination in a watershed. To test this, Ahmed et al. (2018) examined the decay of sewage-associated bacterial communities in water
+and sediment from marine and freshwater sites. Results showed that
+sewage-associated operational taxonomic units decayed rapidly in all
+mesocosms and were not detectable after day 4. These findings suggest
+that SourceTracker can only detect recent contamination events as the
+death of sewage-associated bacterial communities may occur rapidly in
+the environment followed by DNA degradation (Korajkic et al., 2015;
+Mattioli et al. 2017; Sassoubre et al., 2015; Zhang et al., 2015).
+
+4.2. Efficacy and accuracy of SourceTracker as an MST tool
+The accuracy of SourceTracker was recently tested in a doubleblinded study by Staley et al. (2018) using mixtures of five sources
+spiked into recreational freshwater, at concentrations ranging from
+0.025% to 10% (vol/vol). The tool was shown to be 91% accurate,
+identifying 31 of 34 mixtures correctly with no false negatives. Furthermore, the source contributions predicted were strongly correlated
+with the volumes of fecal materials spiked (ρ = 0.88, P < 0.001). The
+authors compared the use of SourceTracker with more traditional HTS
+approaches to identify source-specific microbial signatures (i.e., biomarkers). While the program utilized abundant taxa that were discriminatory for each source, a large proportion of the SourceTracker
+allocation (≥ 50%) was associated with low-abundance taxa. The authors suggested that this utilization of rare taxa may explain discrepancies between SourceTracker and other molecular MST methods,
+e.g., qPCR, with SourceTracker showing highly specific but less sensitive source identification, since qPCR targets may be nearer the limit of
+detection of HTS. Nevertheless, detection of spiked sources at concentrations as low as 0.025% (vol/vol) suggests the tool is effective at
+identifying biologically relevant levels of fecal contamination in this
+study.
+The accuracy of SourceTracker predictions has also been shown to
+
+4.3. Practical considerations and limitations
+4.3.1. Library configuration
+Brown et al. (2019) found that SourceTracker predictions were
+more spurious when all available sources were included in the FTL,
+regardless if they were in the study area. For example, waterfowl, including gulls and geese, were consistently predicted in several mesocosms even if they were not expected to be present. This is probably
+3
+
+
+
+Journal of Microbiological Methods 177 (2020) 106050
+
+P.P. Mathai, et al.
+
+because waterfowl feces harbor similar bacterial communities compared to freshwater (Brown et al., 2017; Unno et al., 2010). The authors
+also reported that geese samples exhibited the greatest intragroup
+variability among all input sources, which could make it harder for
+SourceTracker to identify waterfowl or other sources which have
+comparable bacterial community structures. Hence, to avoid erroneous
+predictions, it is suggested that sources not likely to be present in the
+study area be excluded from the FTL. However, if a source with high
+intragroup variability (e.g., waterfowl) should be used, it might be
+useful to split the source in smaller groups of the most closely related
+samples, instead of using all the samples as a single source. Brown et al.
+(2019) also demonstrated that SourceTracker yielded inaccurate predictions when known sources were missing. SourceTracker failed to
+distinguish sources which could be easily differentiated when all of the
+known sources were present. Collectively, these findings suggest that
+before using SourceTracker for MST, it is critical to have a good understanding of the potential fecal sources impacting the study region.
+Similarly, Staley et al. (2018) showed that the inclusion of geographically-associated (i.e., local) sources was necessary for accurate
+source assignments. These authors demonstrated that fecal sources
+collected locally could not be identified when tested against a library
+comprised of sources collected from other geographical locations. When
+blinded samples were evaluated using local sources, either alone or in
+the full library of all sources (i.e., composite library), sources in blinded
+samples were unambiguously identified, with no significant difference
+in source assignments between libraries. Thus, the inclusion of nonlocal sources did not compromise the detection of sources in spiked
+samples after the inclusion of local sources in the FTL. It has also been
+reported that there was a low similarity between new and previously
+characterized fecal sources from the same area, which suggests that
+frequent library updates might be required for accurate source assignments (O'Dea et al., 2019), or that a decay function needs to be included
+in analyses.
+The inclusion of background assemblages as negative controls in the
+FTL was found to be especially important when potential source categories are expected to be highly similar to sink communities (e.g., effluent and surface water) as a result of mixing or having a similar environmental background due to dilution (Brown et al., 2019; Hägglund
+et al., 2018; Staley et al., 2017). For example, Staley et al. (2017)
+showed that using “negative control” samples to account for unpolluted
+environmental background communities was necessary for accurate
+source predictions. When open ocean (negative control) samples were
+excluded, a large proportion of source contamination among coral
+samples was attributed to inlet and outfall samples due to the presence
+of ubiquitous aquatic taxa. Similarly, Brown et al. (2019) showed that
+when autochthonous taxa were accounted for, SourceTracker was able
+to consistently predict the presence of most of the expected sources in
+all of the mesocosms and fewer erroneous predictions occurred. These
+results suggest that when SourceTracker is utilized without controlling
+for the environmental context of fecal pollution, the algorithm may
+artificially conflate the environmental signature with the fecal source
+and overestimate the burden of pollution from the source.
+
+individual samples were used among closely-related sources (Staley
+et al., 2018).
+5. Other methodologies and tools
+The aim of this review was to primarily discuss amplicon-based
+sequencing technology and the use of the SourceTracker program for
+application to MST studies. It must be noted, however, that
+SourceTracker is not the only community-based method that has been
+used for source tracking. For example, array-based technologies (Cao
+et al., 2013; Dubinsky et al., 2012; Li et al., 2015) have also been investigated as MST tools. Similarly, several other computational programs have been developed that use machine learning classification for
+MST, including Random Forest (Dubinsky et al., 2016; Roguet et al.,
+2018, 2020; Smith et al., 2010), FEAST (Shenhav et al., 2019), and a
+method utilizing Aitchison distance (Carter et al., 2020). Since most of
+these methods and tools have not been compared with SourceTracker in
+surface waters, or use similar taxonomic breath of libraries, further
+studies are needed to evaluate their efficacy in determining sources of
+microbiota impacting waterways.
+6. Concluding remarks
+We are living in an exciting time and are moving away from using
+single taxa determination of microbial contamination of waterways to
+methods using more community-based approaches. These technologies
+provide promising advantages over traditional culture-based fecal indicator approaches and single-target qPCR assays, which have been
+increasingly employed over the last decades to improve monitoring
+outcomes. Community-based HTS MST will allow for the identification
+and probable quantification of multiple fecal sources of pollution and
+overcome the high resource burdens associated with previous librarybased MST methods due to their high-throughput nature.
+Despite the advantages that these community-based approaches will
+provide to the field of MST, they still have limitations. Many of these
+problems are ubiquitous among MST methods, and generally impact
+our ability to protect water quality and public health. Classical limitations to the introduction of new tools for MST including determining
+nonpoint sources of water contamination, the differential decay of
+bacteria from different sources in waterways, vastly differing amounts
+of fecal microbiota deposited in waterways by different animals
+sources, a lack of clear relationship between pathogen loading and fecal
+bacterial loading, and a lack of information concerning microbial
+community composition and human health implications will need to be
+considered. In addition, library-based considerations including representativeness of the source library as well as temporal and geographical stability of source communities are already recognized limitations that need to be addressed in experimental design (Ahmed,
+2007).
+Importantly, community based HTS MST methods have entered into
+a promising, yet still experimental, stage. These tools will need to be
+incorporated in the MST toolbox as academic centers partner with local
+resource managers to evaluate both the methodological concerns and
+practical efforts necessary to implement these techniques for near-realtime water quality monitoring. Thus, the next steps in this process will
+include not only addressing technical limitations, but in identifying a
+niche for these techniques that are both academically and practically
+useful. While most of these problems are not insurmountable, they will
+require concerted efforts from researchers and resource managers to
+better use this technology.
+
+4.3.2. Required Library size
+Another important consideration with library-dependent sequencebased MST methods is to determine the appropriate library size of
+samples for each source. This can be accomplished by using statistical
+power analysis, which determines whether or not the sample size is
+large enough to be able to detect significant differences between sample
+groups (intra-source variability) (la Rosa et al., 2012). Recently, it has
+been reported that a library size between 10 and 13 samples for each
+source was needed in order to inform a powered analysis of statistically
+significant differences in community composition (Brown et al., 2017;
+Staley et al., 2018). Even though some studies have achieved expected
+results in spite of using just a few individuals (Sun et al., 2016), sink
+predictions were found to be far less accurate when lesser numbers of
+
+Acknowledgements
+This work was funded, in part, from grants from the University of
+Minnesota MNDRIVE Industry and Environment Program and The
+Minnesota Agricultural Experiment Station.
+4
+
+
+
+Journal of Microbiological Methods 177 (2020) 106050
+
+P.P. Mathai, et al.
+
+Declaration of Competing Interest
+
+watersheds using PhyloChip and machine-learning classification. Water Res. 105,
+56–64. https://doi.org/10.1016/j.watres.2016.08.035.
+Dufour, A., Schaub, S., 2007. The evolution of water quality criteria in the United States,
+1922–2003. Stat. Framew. Recreat. Water Qual. https://doi.org/10.1002/
+9780470518328.ch1. Criteria Monit, Wiley Online Books.
+Feng, S., McLellan, S.L., 2019. Highly specific sewage-derived Bacteroides quantitative
+PCR assays target sewage-polluted waters. Appl. Environ. Microbiol. 85https://doi.
+org/10.1128/AEM.02696-18. e02696–18.
+Fewtrell, L., Bartram, J., 2001. Water Quality: Guidelines, Standards and Health :
+Assessment of Risk and Risk Management for Water-Related Infectious Diseases/
+Edited by Lorna Fewtrell and Jamie Bartram. (World Health Organization water
+series).
+Field, K.G., Samadpour, M., 2007. Fecal source tracking, the indicator paradigm, and
+managing water quality. Water Res. 41, 3517–3538. https://doi.org/10.1016/j.
+watres.2007.06.056.
+Furukawa, T., Suzuki, Y., 2013. A proposal for source tracking of fecal pollution in recreational waters by pulsed-field gel electrophoresis. Microbes Environ. 28, 444–449.
+https://doi.org/10.1264/jsme2.ME13075.
+Gloor, G.B., Hummelen, R., Macklaim, J.M., Dickson, R.J., Fernandes, A.D., MacPhee, R.,
+Reid, G., 2010. Microbiome profiling by Illumina sequencing of combinatorial sequence-tagged PCR products. PLoS One 5, e15406.
+Gohl, D.M., Vangay, P., Garbe, J., MacLean, A., Hauge, A., Becker, A., Gould, T.J.,
+Clayton, J.B., Johnson, T.J., Hunter, R., Knights, D., Beckman, K.B., 2016. Systematic
+improvement of amplicon marker gene methods for increased accuracy in microbiome studies. Nat. Biotechnol. 34, 942–949. https://doi.org/10.1038/nbt.3601.
+Green, H.C., Dick, L.K., Gilpin, B., Samadpour, M., Field, K.G., 2012. Genetic markers for
+rapid PCR-based identification of gull, Canada goose, duck, and chicken fecal contamination in water. Appl. Environ. Microbiol. 78, 503–510. https://doi.org/10.
+1128/AEM.05734-11.
+Hagedorn, C., Crozier, J.B., Mentz, K.A., Booth, A.M., Graves, A.K., Nelson, N.J., Reneau
+Jr., R.B., 2003. Carbon source utilization profiles as a method to identify sources of
+faecal pollution in water. J. Appl. Microbiol. 94, 792–799. https://doi.org/10.1046/j.
+1365-2672.2003.01804.x.
+Hägglund, M., Bäckman, S., Macellaro, A., Lindgren, P., Borgmästars, E., Jacobsson, K.,
+Dryselius, R., Stenberg, P., Sjödin, A., Forsman, M., Ahlinder, J., 2018. Accounting for
+bacterial overlap between raw water communities and contaminating sources improves the accuracy of signature-based microbial source tracking. Front. Microbiol. 9,
+1–15. https://doi.org/10.3389/fmicb.2018.02364.
+Hamilton, M.J., Yan, T., Sadowsky, M.J., 2006. Development of goose- and duck-specific
+DNA markers to determine sources of Escherichia coli in waterways. Appl. Environ.
+Microbiol. 72https://doi.org/10.1128/AEM.02764-05. 4012 LP – 4019.
+Harwood, V.J., Staley, C., Badgley, B.D., Borges, K., Korajkic, A., 2014. Microbial source
+tracking markers for detection of fecal contamination in environmental waters: relationships between pathogens and human health outcomes. FEMS Microbiol. Rev.
+38, 1–40. https://doi.org/10.1111/1574-6976.12031.
+Henry, R., Schang, C., Coutts, S., Kolotelo, P., Prosser, T., Crosbie, N., Grant, T., Cottam,
+D., O’Brien, P., Deletic, A., McCarthy, D., 2016. Into the deep: evaluation of
+SourceTracker for assessment of faecal contamination of coastal waters. Water Res.
+93, 242–253. https://doi.org/10.1016/j.watres.2016.02.029.
+Hillman, E.T., Lu, H., Yao, T., Nakatsu, C.H., 2017. Microbial ecology along the gastrointestinal tract. Microbes Environ. 32, 300–313. https://doi.org/10.1264/jsme2.
+ME17017.
+Ishii, S., Sadowsky, M.J., 2008. Escherichia coli in the environment: implications for
+water quality and human health. Microbes Environ. 23, 101–108. https://doi.org/10.
+1264/jsme2.23.101.
+Ishii, S., Nakamura, T., Ozawa, S., Kobayashi, A., Sano, D., Okabe, S., 2014. Water quality
+monitoring and risk assessment by simultaneous multipathogen quantification.
+Environ. Sci. Technol. 48, 4744–4749. https://doi.org/10.1021/es500578s.
+Jang, J., Hur, H.G., Sadowsky, M.J., Byappanahalli, M.N., Yan, T., Ishii, S., 2017.
+Environmental Escherichia coli: ecology and public health implications—a review. J.
+Appl. Microbiol. 123, 570–581. https://doi.org/10.1111/jam.13468.
+Johnson, L.K., Brown, M.B., Carruthers, E.A., Ferguson, J.A., Dombek, P.E., Sadowsky,
+M.J., 2004. Sample size, library composition, and genotypic diversity among natural
+populations of Escherichia coli from different animals influence accuracy of determining sources of fecal pollution. Appl. Environ. Microbiol. 70https://doi.org/10.
+1128/AEM.70.8.4478-4485.2004. 4478 LP – 4485.
+Knights, D., Kuczynski, J., Charlson, E.S., Zaneveld, J., Mozer, M.C., Collman, R.G.,
+Bushman, F.D., Knight, R., Kelley, S.T., Eren, A.M., Maignien, L., Sul, W.J., Murphy,
+L.G., Grim, S.L., Morrison, H.G., Sogin, M.L., Piotrowska, M., Popowska, M., 2011.
+Bayesian community-wide culture-independent microbial source tracking. Nat.
+Methods 8, 761–765. https://doi.org/10.1038/nmeth.1650.
+Kohl, K.D., Dearing, M.D., Bordenstein, S.R., 2018. Microbial communities exhibit host
+species distinguishability and phylosymbiosis along the length of the gastrointestinal
+tract. Mol. Ecol. 27, 1874–1883. https://doi.org/10.1111/mec.14460.
+Korajkic, A., Parfrey, L.W., McMinn, B.R., Baeza, Y.V., VanTeuren, W., Knight, R., Shanks,
+O.C., 2015. Changes in bacterial and eukaryotic communities during sewage decomposition in Mississippi river water. Water Res. 69, 30–39. https://doi.org/10.
+1016/j.watres.2014.11.003.
+Korajkic, A., Wanjugi, P., Brooks, L., Cao, Y., Harwood, V.J., 2019. Persistence and decay
+of fecal microbiota in aquatic habitats. Microbiol. Mol. Biol. Rev. 83,
+e00005–e00019. https://doi.org/10.1128/MMBR.00005-19.
+la Rosa, P.S., Brooks, J.P., Deych, E., Boone, E.L., Edwards, D.J., Wang, Q., Sodergren, E.,
+Weinstock, G., Shannon, W.D., 2012. Hypothesis testing and power calculations for
+taxonomic-based human microbiome data. PLoS One 7, 1–13. https://doi.org/10.
+1371/journal.pone.0052078.
+Lemarchand, K., Lebaron, P., 2003. Occurrence of Salmonella spp. and Cryptosporidium
+
+The authors state that they have no conflicts of interests with respect to the submitted manuscript.
+References
+Ahmed, W., 2007. Limitations of library-dependent microbial source tracking methods.
+Water (Australia) 34, 96–101.
+Ahmed, W., Staley, C., Sadowsky, M.J., Gyawali, P., Sidhu, J., Palmer, A., Beale, D.J.,
+Toze, S., 2015. Toolbox approaches using molecular markers and 16S rRNA gene
+amplicon data sets for identification of fecal pollution in surface water. Appl.
+Environ. Microbiol. 81, 7067–7077. https://doi.org/10.1128/AEM.02032-15.
+Ahmed, W., Staley, C., Sidhu, J., Sadowsky, M., Toze, S., 2017. Amplicon-based profiling
+of bacteria in raw and secondary treated wastewater from treatment plants across
+Australia. Appl. Microbiol. Biotechnol. 101, 1253–1266. https://doi.org/10.1007/
+s00253-016-7959-9.
+Ahmed, W., Staley, C., Kaiser, T., Sadowsky, M.J., Kozak, S., Beale, D., Simpson, S., 2018.
+Decay of sewage-associated bacterial communities in fresh and marine environmental
+waters and sediment. Appl. Microbiol. Biotechnol. 102, 7159–7170. https://doi.org/
+10.1007/s00253-018-9112-4.
+Bae, S., Wuertz, S., 2009. Rapid decay of host-specific fecal Bacteroidales cells in seawater
+as measured by quantitative PCR with propidium monoazide. Water Res. 43,
+4850–4859. https://doi.org/10.1016/j.watres.2009.06.053.
+Baral, D., Dvorak, B.I., Admiraal, D., Jia, S., Zhang, C., Li, X., 2018a. Tracking the sources
+of antibiotic resistance genes in an urban stream during wet weather using shotgun
+metagenomic analyses. Environ. Sci. Technol. 52, 9033–9044. https://doi.org/10.
+1021/acs.est.8b01219.
+Baral, D., Speicher, A., Dvorak, B., Admiraal, D., Li, X., 2018b. Quantifying the relative
+contributions of environmental sources to the microbial community in an urban
+stream under dry and wet weather conditions. Appl. Environ. Microbiol. 84, 1–13.
+https://doi.org/10.1128/AEM.00896-18.
+Bernhard, A.E., Field, K.G., 2000. A PCR assay to discriminate human and ruminant feces
+on the basis of host differences in Bacteroides-Prevotella genes encoding 16S rRNA.
+Appl. Environ. Microbiol. 66https://doi.org/10.1128/AEM.66.10.4571-4574.2000.
+4571 LP – 4574.
+Brown, C.M., Staley, C., Wang, P., Dalzell, B., Chun, C.L., Sadowsky, M.J., 2017. A highthroughput DNA-sequencing approach for determining sources of fecal bacteria in a
+Lake Superior estuary. Environ. Sci. Technol. 51, 8263–8271. https://doi.org/10.
+1021/acs.est.7b01353.
+Brown, C.M., Mathai, P.P., Loesekann, T., Staley, C., Sadowsky, M.J., 2019. Influence of
+library composition on SourceTracker predictions for community-based microbial
+source tracking. Environ. Sci. Technol. 53. https://doi.org/10.1021/acs.est.8b04707.
+Byappanahalli, M.N., Nevers, M.B., Korajkic, A., Staley, Z.R., Harwood, V.J., 2012.
+Enterococci in the environment. Microbiol. Mol. Biol. Rev. 76https://doi.org/10.
+1128/MMBR.00023-12. 685 LP – 706.
+Cao, Y., Van De Werfhorst, L.C., Dubinsky, E.A., Badgley, B.D., Sadowsky, M.J., Andersen,
+G.L., Griffith, J.F., Holden, P.A., 2013. Evaluation of molecular community analysis
+methods for discerning fecal sources and human waste. Water Res. 47, 6862–6872.
+https://doi.org/10.1016/j.watres.2013.02.061.
+Carter, K.M., Lu, M., Luo, Q., Jiang, H., An, L., 2020. Microbial community dissimilarity
+for source tracking with application in forensic studies. PLoS One 15, e0236082.
+Chen, H., Li, Y., Sun, W., Song, L., Zuo, R., Teng, Y., 2020. Characterization and source
+identification of antibiotic resistance genes in the sediments of an interconnected
+river-lake system. Environ. Int. 137, 105538. https://doi.org/10.1016/j.envint.2020.
+105538.
+Dang, C., Xia, Y., Zheng, M., Liu, T., Liu, W., Chen, Q., Ni, J., 2020. Metagenomic insights
+into the profile of antibiotic resistomes in a large drinking water reservoir. Environ.
+Int. 136, 105449. https://doi.org/10.1016/j.envint.2019.105449.
+Dick, L.K., Bernhard, A.E., Brodeur, T.J., Santo Domingo, J.W., Simpson, J.M., Walters,
+S.P., Field, K.G., 2005a. Host distributions of uncultivated fecal Bacteroidales bacteria reveal genetic markers for fecal source identification. Appl. Environ. Microbiol.
+71https://doi.org/10.1128/AEM.71.6.3184-3191.2005. 3184 LP – 3191.
+Dick, L.K., Simonich, M.T., Field, K.G., 2005b. Microplate subtractive hybridization to
+enrich for Bacteroidales genetic markers for fecal source identification. Appl.
+Environ. Microbiol. 71https://doi.org/10.1128/AEM.71.6.3179-3183.2005. 3179 LP
+– 3183.
+Dick, L.K., Stelzer, E.A., Bertke, E.E., Fong, D.L., Stoeckel, D.M., 2010. Relative decay of
+Bacteroidales microbial source tracking markers and cultivated Escherichia coli in
+freshwater microcosms. Appl. Environ. Microbiol. 76https://doi.org/10.1128/AEM.
+02636-09. 3255 LP – 3262.
+Dombek, P.E., Johnson, L.K., Zimmerley, S.T., Sadowsky, M.J., 2000. Use of repetitive
+DNA sequences and the PCR to differentiate Escherichia coli isolates from human and
+animal sources. Appl. Environ. Microbiol. 66, 2572–2577. https://doi.org/10.1128/
+aem.66.6.2572-2577.2000.
+Dorevitch, S., Shrestha, A., DeFlorio-Barker, S., Breitenbach, C., Heimler, I., 2017.
+Monitoring urban beaches with qPCR vs. culture measures of fecal indicator bacteria:
+Implications for public notification. Environ. Heal. 16, 45. https://doi.org/10.1186/
+s12940-017-0256-y.
+Dubinsky, E.A., Esmaili, L., Hulls, J.R., Cao, Y., Griffith, J.F., Andersen, G.L., 2012.
+Application of phylogenetic microarray analysis to discriminate sources of fecal
+pollution. Environ. Sci. Technol. 46, 4340–4347. https://doi.org/10.1021/
+es2040366.
+Dubinsky, E.A., Butkus, S.R., Andersen, G.L., 2016. Microbial source tracking in impaired
+
+5
+
+
+
+Journal of Microbiological Methods 177 (2020) 106050
+
+P.P. Mathai, et al.
+
+68https://doi.org/10.1128/AEM.68.12.5796-5803.2002. 5796 LP – 5803.
+Scott, T.M., Parveen, S., Portier, K.M., Rose, J.B., Tamplin, M.L., Farrah, S.R., Koo, A.,
+Lukasik, J., 2003. Geographical variation in ribotype profiles of Escherichia coli
+isolates from humans, swine, poultry, beef, and dairy cattle in Florida. Appl. Environ.
+Microbiol. 69, 1089–1092. https://doi.org/10.1128/aem.69.2.1089-1092.2003.
+Shanks, O.C., Atikovic, E., Blackwood, A.D., Lu, J., Noble, R.T., Domingo, J.S., Seifring,
+S., Sivaganesan, M., Haugland, R.A., 2008. Quantitative PCR for detection and enumeration of genetic markers of bovine fecal pollution. Appl. Environ. Microbiol. 74,
+745–752. https://doi.org/10.1128/AEM.01843-07.
+Shanks, O.C., Newton, R.J., Kelty, C.A., Huse, S.M., Sogin, M.L., McLellan, S.L., 2013.
+Comparison of the microbial community structures of untreated wastewaters from
+different geographic locales. Appl. Environ. Microbiol. 79, 2906–2913. https://doi.
+org/10.1128/aem.03448-12.
+Shendure, J., Balasubramanian, S., Church, G.M., Gilbert, W., Rogers, J., Schloss, J.A.,
+Waterston, R.H., 2017. DNA sequencing at 40: past, present and future. Nature 550,
+345–353. https://doi.org/10.1038/nature24286.
+Shenhav, L., Thompson, M., Joseph, T.A., Briscoe, L., Furman, O., Bogumil, D., Mizrahi, I.,
+Pe’er, I., Halperin, E., 2019. FEAST: fast expectation-maximization for microbial
+source tracking. Nat. Methods 16, 627–632. https://doi.org/10.1038/s41592-0190431-x.
+Simpson, J.M., Santo Domingo, J.W., Reasoner, D.J., 2002. Microbial source tracking:
+state of the science. Environ. Sci. Technol. 36, 5279–5288. https://doi.org/10.1021/
+es026000b.
+Smith, A., Sterba-Boatwright, B., Mott, J., 2010. Novel application of a statistical technique, random forests, in a bacterial source tracking study. Water Res. 44,
+4067–4076. https://doi.org/10.1016/j.watres.2010.05.019.
+Staley, C., Kaiser, T., Gidley, M.L., Enochs, I.C., Jones, P.R., Goodwin, K.D., Sinigalliano,
+C.D., Sadowsky, M.J., Chun, C.L., 2017. Differential impacts of land-based sources of
+pollution on the microbiota of southeast Florida coral reefs. Appl. Environ. Microbiol.
+83, 1–16. https://doi.org/10.1128/aem.03378-16.
+Staley, C., Kaiser, T., Lobos, A., Ahmed, W., Harwood, V.J., Brown, C.M., Sadowsky, M.J.,
+2018. Application of SourceTracker for accurate identification of fecal pollution in
+recreational freshwater: a double-blinded study. Environ. Sci. Technol. 52,
+4207–4217. https://doi.org/10.1021/acs.est.7b05401.
+Stewart, J.R., Ellender, R.D., Gooch, J.A., Jiang, S., Myoda, S.P., Weisberg, S.B., 2003.
+Recommendations for microbial source tracking: lessons from a methods comparison
+study. J. Water Health 1, 225–231. https://doi.org/10.2166/wh.2003.0023.
+Stoeckel, D.M., Harwood, V.J., 2007. Performance, design, and analysis in microbial
+source tracking studies. Appl. Environ. Microbiol. 73https://doi.org/10.1128/AEM.
+02473-06. 2405 LP – 2415.
+Sun, H., He, X., Ye, L., Zhang, X.-X., Wu, B., Ren, H., 2016. Diversity, abundance, and
+possible sources of fecal bacteria in the Yangtze River. Appl. Microbiol. Biotechnol.
+1–10. https://doi.org/10.1007/s00253-016-7998-2.
+Tan, B., Ng, C., Nshimyimana, J.P., Loh, L.L., Gin, K.Y.-H., Thompson, J.R., 2015. Nextgeneration sequencing (NGS) for assessment of microbial water quality: current
+progress, challenges, and future opportunities. Front. Microbiol. 6. https://doi.org/
+10.3389/fmicb.2015.01027.
+Unno, T., Jang, J., Han, D., Kim, J.H., Sadowsky, M.J., Kim, O.S., Chun, J., Hur, H.G.,
+2010. Use of barcoded pyrosequencing and shared OTUs to determine sources of fecal
+bacteria in watersheds. Environ. Sci. Technol. 44, 7777–7782. https://doi.org/10.
+1021/es101500z.
+Unno, T., Staley, C., Brown, C.M., Han, D., Sadowsky, M.J., Hur, H.G., 2018. Fecal pollution: new trends and challenges in microbial source tracking using next-generation
+sequencing. Environ. Microbiol. 20, 3132–3140. https://doi.org/10.1111/14622920.14281.
+Walters, S.P., Yamahara, K.M., Boehm, A.B., 2009. Persistence of nucleic acid markers of
+health-relevant organisms in seawater microcosms: implications for their use in assessing risk in recreational waters. Water Res. 43, 4929–4939. https://doi.org/10.
+1016/j.watres.2009.05.047.
+Wu, J., Long, S.C., Das, D., Dorner, S.M., 2011. Are microbial indicators and pathogens
+correlated? A statistical analysis of 40 years of research. J Water Health 9, 265–278.
+https://doi.org/10.2166/wh.2011.117.
+Zhang, Q., He, X., Yan, T., 2015. Differential decay of wastewater bacteria and change of
+microbial communities in beach sand and seawater microcosms. Environ. Sci.
+Technol. 49, 8531–8540. https://doi.org/10.1021/acs.est.5b01879.
+
+spp. in a French coastal watershed: relationship with fecal indicators. FEMS
+Microbiol. Lett. 218, 203–209. https://doi.org/10.1111/j.1574-6968.2003.
+tb11519.x.
+Li, X., Harwood, V.J., Nayak, B., Staley, C., Sadowsky, M.J., Weidhaas, J., 2015. A novel
+microbial source tracking microarray for pathogen detection and fecal source identification in environmental systems. Environ. Sci. Technol. 49, 7319–7329. https://
+doi.org/10.1021/acs.est.5b00980.
+Li, L.G., Yin, X., Zhang, T., 2018. Tracking antibiotic resistance gene pollution from
+different sources using machine-learning classification. Microbiome 6, 93. https://
+doi.org/10.1186/s40168-018-0480-x.
+Li, D., Van De Werfhorst, L.C., Dunne, T., Devarajan, N., Ayala, T.G., Holden, P.A., 2020.
+Surf zone microbiological water quality following emergency beach nourishment
+using sediments from a catastrophic debris flow. Water Res. 176, 115733. https://
+doi.org/10.1016/j.watres.2020.115733.
+Mattioli, M.C., Sassoubre, L.M., Russell, T.L., Boehm, A.B., 2017. Decay of sewagesourced microbial source tracking markers and fecal indicator bacteria in marine
+waters. Water Research 108, 106–114. https://doi.org/10.1016/j.watres.2016.10.
+066.
+McCarthy, D.T., Jovanovic, D., Lintern, A., Teakle, I., Barnes, M., Deletic, A., Coleman, R.,
+Rooney, G., Prosser, T., Coutts, S., Hipsey, M.R., Bruce, L.C., Henry, R., 2017. Source
+tracking using microbial community fingerprints: method comparison with hydrodynamic modelling. Water Res. 109, 253–265. https://doi.org/10.1016/j.watres.
+2016.11.043.
+McGhee, J.J., Rawson, N., Bailey, B.A., Fernandez-Guerra, A., Sisk-Hackworth, L., Kelley,
+S.T., 2020. Meta-SourceTracker: application of Bayesian source tracking to shotgun
+metagenomics. PeerJ 8, e8783. https://doi.org/10.7717/peerj.8783.
+Mieszkin, S., Furet, J.-P., Corthier, G., Gourmelon, M., 2009. Estimation of pig fecal
+contamination in a river catchment by real-time PCR using two pig-specific
+Bacteroidales 16S rRNA genetic markers. Appl. Environ. Microbiol. 75https://doi.
+org/10.1128/AEM.02343-08. 3045 LP – 3054.
+Myoda, S.P., Carson, C.A., Fuhrmann, J.J., Hahm, B.-K., Hartel, P.G., Yampara-Iquise, H.,
+Johnson, L., Kuntz, R.L., Nakatsu, C.H., Sadowsky, M.J., Samadpour, M., 2003.
+Comparison of genotypic-based microbial source tracking methods requiring a host
+origin database. J. Water Health 1, 167–180. https://doi.org/10.2166/wh.2003.
+0019.
+Newton, R.J., Bootsma, M.J., Morrison, H.G., Sogin, M.L., McLellan, S.L., 2013. A microbial signature approach to identify fecal pollution in the waters off an urbanized
+coast of Lake Michigan. Microb. Ecol. 65, 1011–1023. https://doi.org/10.1007/
+s00248-013-0200-9.
+O’Dea, C., Zhang, Q., Staley, C., Masters, N., Kuballa, A., Fisher, P., Veal, C., Stratton, H.,
+Sadowsky, M.J., Ahmed, W., Katouli, M., 2019. Compositional and temporal stability
+of fecal taxon libraries for use with SourceTracker in sub-tropical catchments. Water
+Res. 165, 114967. https://doi.org/10.1016/j.watres.2019.114967.
+Ram, J.L., Ritchie, R.P., Fang, J., Gonzales, F.S., Selegean, J.P., 2004. Sequence-based
+source tracking of Escherichia coli based on genetic diversity of β-Glucuronidase. J.
+Environ. Qual. 33, 1024–1032. https://doi.org/10.2134/jeq2004.1024.
+Riley, L.W., Blanton, R.E., 2018. Advances in molecular epidemiology of infectious diseases: definitions, approaches, and scope of the field*. Microbiol. Spectr. 6.
+Roguet, A., Eren, A.M., Newton, R.J., McLellan, S.L., 2018. Fecal source identification
+using random forest. Microbiome 6, 1–15. https://doi.org/10.1186/s40168-0180568-3.
+Roguet, A., Esen, Ö.C., Eren, A.M., Newton, R.J., McLellan, S.L., 2020. FORENSIC: an
+online platform for fecal source identification. mSystems 5https://doi.org/10.1128/
+mSystems.00869-19. e00869-19.
+Ronaghi, M., 2001. Pyrosequencing sheds light on DNA sequencing. Genome Res. 11,
+3–11.
+Sassoubre, L.M., Yamahara, K.M., Boehm, A.B., 2015. Temporal stability of the microbial
+community in sewage-polluted seawater exposed to natural sunlight cycles and
+marine microbiota. Appl. Environ. Microbiol. 81, 2107–2116. https://doi.org/10.
+1128/aem.03950-14.
+Schulz, C.J., Childers, G.W., 2011. Fecal Bacteroidales diversity and decay in response to
+variations in temperature and salinity. Appl. Environ. Microbiol. 77, 2563–2572.
+https://doi.org/10.1128/AEM.01473-10.
+Scott, T.M., Rose, J.B., Jenkins, T.M., Farrah, S.R., Lukasik, J., 2002. Microbial source
+tracking: current methodology and future directions. Appl. Environ. Microbiol.
+
+6
+
+

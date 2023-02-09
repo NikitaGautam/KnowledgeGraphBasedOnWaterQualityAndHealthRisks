@@ -1,0 +1,746 @@
+Food Microbiology 75 (2018) 119e125
+
+Contents lists available at ScienceDirect
+
+Food Microbiology
+journal homepage: www.elsevier.com/locate/fm
+
+Implications of new legislation (US FSMA) and guidelines (EC) on the
+establishment of management systems for agricultural water
+A. Allende a, A.R. Datta b, W.A. Smith c, R. Adonis d, A. MacKay e, A.D. Adell f, *
+a
+
+Research Group on Quality, Safety and Bioactivity of Plant Foods, Department of Food Science and Technology, CEBAS-CSIC, Murcia, Spain
+Center for Food Safety and Applied Nutrition, US Food and Drug Administration, Laurel, MD 20708, USA
+c
+One Health Institute, School of Veterinary Medicine, One Shields Avenue, University of California, Davis, CA 95616, USA
+d
+Fundacion para el Desarrollo Fruticola (FDF), Av Pedro de Valdivia 0193 of 22, Santiago, Chile
+e
+Canadian Food Inspection Agency, Food Safety Science Directorate, 1400Merivale, Ottawa, Ontario, K1A 0Y9, Canada
+f
+Escuela de Medicina Veterinaria, Facultad de Ecologia y Recursos Naturales, Universidad Andres Bello, Republica 440, 8370251 Santiago, Chile
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 11 March 2017
+Received in revised form
+3 October 2017
+Accepted 7 October 2017
+Available online 9 October 2017
+
+This report summarizes key messages related to agricultural water quality as discussed by an ad hoc
+panel at the 1st International Symposium of Food Safety in Santiago, Chile. Participating representatives
+of the academia, industry and government of diverse geographical backgrounds and the audience discussed topics such as (1) implications of the US Food Safety Modernization Act (FSMA: www.fda.gov/
+Food/GuidanceRegulation/FSMA/ucm277706.htm) on the Agricultural Water Quality, (2) comparisons
+between MPN and CFU in analyzing water quality, (3) alternatives to fecal indicator bacteria (FIB) to be
+used as indicators to evaluate water quality, and (4) vegetative buffers as an alternative to reduce
+pathogen loads in agricultural surface waters. Panelists identiﬁed the following key messages for each
+topic discussed that are related to agricultural water quality: (1) the FSMA regulation and the new
+guidance document elaborated by the EC are highly relevant as they provide a deﬁnition of agricultural
+water and speciﬁc criteria for different water uses and circumstances; (2) FSMA supports modiﬁcation
+from MPN to CFU; (3) Growers require more alternatives for treatment of agricultural water; (4) Vegetative buffers are a potential practical and feasible alternative for agriculture producers to reduce the
+pathogen and fecal pollution loads of in their agricultural waters.
+© 2017 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Water quality
+Food safety
+Policy
+Agriculture
+Pathogens
+Indicators
+
+Contents
+1.
+2.
+3.
+4.
+5.
+6.
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+FSMA regulations and its implication in agricultural water . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120
+Comparison between MPN and CFU in analyzing water quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 121
+Alternatives to FIB to be used as indicators of water quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+Vegetative buffers as an alternative to reduce pathogen loads in agricultural waters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 122
+Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+Unlisted references . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 123
+
+1. Introduction
+
+* Corresponding author.
+E-mail addresses: radonis@fdf.cl (R. Adonis), aiko.adell@unab.cl (A.D. Adell).
+https://doi.org/10.1016/j.fm.2017.10.002
+0740-0020/© 2017 Elsevier Ltd. All rights reserved.
+
+In December 2016, during the First International Symposium of
+Food Safety (ISFS) in Santiago (Chile), a round table was organized
+to focus on the topic of safety issues associated with agricultural
+
+
+
+120
+
+A. Allende et al. / Food Microbiology 75 (2018) 119e125
+
+surface waters. This elaborates on the “take-home messages”
+resulting from the discussion panel composed of experts from
+different areas including academia, industry, and institutional organizations. Panelists identiﬁed key messages related to agricultural water quality and the implications of the Food Modernization
+Act (FSMA) Regulation in the food industry. The key messages
+resulting from this discussion panel were: (1) FSMA Regulations
+and its implication in irrigation water and “agricultural water” as
+deﬁned by FSMA; (2) Comparison between Most-Probable-Number
+(MPN) and Colony Forming Units (CFU) in analyzing water quality;
+(3) Alternatives to fecal indicator bacteria (FIB) to be used as indicators to evaluate water quality; and (4) Vegetative buffers as a
+management practice to reduce pathogen loads in agricultural
+waters. The authors of this manuscript were members and facilitators of the panel.
+2. FSMA regulations and its implication in agricultural water
+Chile is an important exporter of fresh fruits to international
+markets such as Europe, the United States (US), and China (USTR,
+2017). Based on the Ofﬁce of the United States Trade Representative (USTR, 2017), the US total imports of agricultural products from
+Chile totaled US$3.1 billion in 2016, making Chile the US’s 9th
+largest supplier of agricultural imports. This situation provides
+context for the Chilean farmers to comply with different food
+quality standards including safety requirements of the importing
+country. The emphasis on food safety requirements for European
+countries currently is on pesticide residues and heavy metals, while
+for the U.S., as per the FSMA and particularly on the Final Role of
+Produce Safety (FDA, 2015), the current emphasis is given to biological hazards, including monitoring of indicator and foodborne
+pathogens. In the case of China, documents that the Chinese
+agencies have issued so far suggest that they will be making food
+safety inspections using legislation that may be based on the preventive concept, an approach similar to FSMA (Ricardo Adonis,
+personal communication, December 7, 2016).
+For agricultural production, water quality is a key risk factor for
+fresh produce food safety; therefore, this section focuses on the
+implication of the FSMA regulation for agricultural waters. The
+FSMA was signed into law (No. 111e353) by President Barack
+Obama on January 4, 2011 after many reported incidents of foodborne illnesses (Drew and Clydesdale, 2015). For the agricultural
+sector, the rule has guided science-based minimum standards for
+the safe growing, harvesting, packing, and holding of fruits and
+vegetables for human consumption. The rule has also given the
+Food and Drug Administration (FDA) new authority to inspect and
+ensure compliance through mandated inspections with frequencies
+based on risk, mandatory recall authority with risk-based priorities,
+and it addressed major weaknesses in import safety assurances
+(Taylor, 2011; Kennedy and Errecaborde, 2014; HHS and FDA, 2015).
+Therefore, the aim of this legislation is to ensure that the US food
+supply is safe by shifting the focus from responding to contamination to preventing it (FDA, 2017).
+The rule includes a hazard assessment of the agricultural water
+used during growing, harvesting, and postharvest of fresh fruits
+and vegetables, which is highly relevant for agricultural production.
+In that context, FSMA deﬁnes agricultural water as the water that
+has direct contact with the produce in any stage of production (HHS
+and FDA, 2015). Based on this deﬁnition, only water that comes in
+contact with the edible part of the produce is subjected to FSMA
+regulation. Therefore, when irrigating trees where water is unlikely
+to make any contact with the fruit, this water is not subjected to the
+regulation. However, water used to spray over the produce or that
+comes in contact with produce during irrigation, or water used to
+refresh produce, must comply with the microbiological parameters
+
+established by the FSMA. Additionally, it is important to emphasize
+that in some cases it is not clear cut to separate both scenarios. For
+instance, it is possible that the water coming from irrigation
+channels or wells is also used for other purposes. In that case,
+irrigation water is considered as agricultural water and must follow
+the FSMA guidelines. If that happens, farmers need to be aware of
+the situation and consider adequate preventive measures to
+maintain water quality.
+The main, and new, distinguishing point of the FSMA ﬁnal rule is
+that it establishes two sets of criteria for microbial quality of agricultural water, both of which are based on the level of generic E. coli
+depending on the uses of the agricultural water. For agricultural
+water that is directly applied to growing produce (other than
+sprouts), a maximum geometric mean (GM) of 126 CFU and a
+maximum statistical threshold (STV) of 410 CFU of generic E. coli in
+100 mL of water has been established (HHS and FDA, 2015). In
+contrast, no detectable generic E. coli has been established as the
+rule for water used during harvest and post-harvest activities
+including washing hands, making ice, etc.
+Food safety of fresh produce has been a long-standing challenge
+in many places. In 2011, an E. coli outbreak occurred in Germany
+affecting up to 5000 people, this was associated with the consumption of sprouted seeds, particularly fenugreek sprouted seeds.
+In the aftermath of this crisis, the European Commission (EC) asked
+the European Food Safety Authority (EFSA) to advise on the public
+health risks posed by pathogens in food of non-animal origin
+(FNAO), identifying the food/pathogen combinations with the
+highest microbiological risks. Additionally, EFSA was asked by the
+EC to answer three speciﬁc questions:
+1) to identify the main risk factors for the speciﬁc food/pathogen
+combinations previously identiﬁed, including agricultural production systems, origin, and further processing;
+2) to recommend possible speciﬁc mitigating options and to assess
+their effectiveness and efﬁciency to reduce the risk for humans
+posed by food/pathogen combinations previously identiﬁed,
+and
+3) to recommend, if considered relevant, microbiological criteria
+for the identiﬁed speciﬁc food/pathogen combinations
+throughout the production chain.
+Based on a multi-criteria analysis model, the published mandate
+by EFSA provided ﬁve scientiﬁc priorities (EFSA, 2014a,b,c,d; EFSA,
+2013; EFSA, 2011) on the following food/pathogen combinations: 1)
+Salmonella and Norovirus in leafy greens eaten raw as salads; 2)
+Salmonella and Norovirus in berries; 3) Salmonella and Norovirus in
+tomatoes; 4) Salmonella in melons; 5) Salmonella, Yersinia, Shigella
+and Norovirus in bulb and stem vegetables, and carrots. The general
+conclusions included in these EFSA opinions were:
+1. Harvested fresh produce are not subjected to physical interventions that completely eliminate microbial contamination.
+2. Appropriate implementation of food safety management systems including Good Agricultural Practices (GAP), Good Hygiene
+Practices (GHP) and Good Manufacturing Practices (GMP)
+should be the primary objective of operators producing fresh
+produce.
+3. As Salmonella and pathogenic E. coli have reservoirs in domestic
+as well as wild animals, birds, and humans, the main mitigation
+options for reducing the risk of contamination of fresh produce
+are to prevent direct contact with feces as well as indirect
+contact through slurries, sewage, sewage sludge, contaminated
+soil, water, equipment or food contact surfaces.
+4. Each farm environment (including open ﬁeld or greenhouse
+production) should be evaluated independently as it represents
+
+
+
+A. Allende et al. / Food Microbiology 75 (2018) 119e125
+
+a unique combination of numerous characteristics that can inﬂuence occurrence and persistence of pathogens in or near
+ﬁelds of fresh produce.
+5. Among the potential interventions, both water treatment and
+efﬁcient drainage systems that take up excess overﬂows are
+needed to prevent the additional dissemination of contaminated water. Since E. coli is an indicator microorganism for fecal
+contamination in irrigation water, growers should arrange for
+periodic testing to be carried out to inform preventive measures.
+6. All persons involved in the handling of leafy greens should
+receive hygiene training appropriate to their tasks and receive
+periodic assessment to ensure good hygiene and use of hygienic
+practices.
+7. The current European legal framework does not include
+microbiological criteria applicable at the primary production
+stage. EFSA proposed to deﬁne criteria to validate and verify GAP
+and GHP. These criteria are designated as Hygiene Criteria and
+are deﬁned as criteria indicating the acceptable functioning at
+pre-harvest, harvest and on farm post-harvest production prior
+to processing.
+8. E. coli was identiﬁed as suitable for a Hygiene Criterion at primary production of fresh produce and could be considered for
+validation and veriﬁcation of GAP and GHP. On this basis,
+growers should take appropriate corrective actions.
+It is important to highlight that following the EFSA Opinion on
+sprouted seeds, four speciﬁc regulations have been adopted:
+Commission Regulations (EU) N 208/2013-/N 209/2013-N 210/
+2013 and N 211/2013 of 11 March 2013 on traceability requirements, on approval, on microbiological criteria, and on certiﬁcation requirements for imports into the European Union of
+sprouts and seeds intended for the production of sprouts.
+Additionally, based on the scientiﬁc evidence highlighted by
+EFSA in these scientiﬁc opinions, in collaboration with experts in
+the ﬁeld and members from different institutional organizations
+and European member states, a guidance document has been
+published by the EC in May 2017 (EC, 2016). This document
+included recommendations for growers and producers addressing
+microbiological risks in fresh fruits and vegetables at primary
+production through good hygiene. The guideline focuses on the
+good hygiene practices (GHP) and good agricultural practices (GAP)
+involved in the production of fresh fruit and vegetables at the
+primary production level, including associated operations, with the
+purpose to control microbiological pathogens causing gastrointestinal illness due to the consumption of fresh fruit and vegetables. In
+this document, sprouted seeds have been excluded, mainly because
+a speciﬁc EU guide for good hygiene practice in the production of
+sprouts and seeds for sprouting is being prepared by the European
+Sprouted Seeds Association.
+In this guideline, important attention is given to the control of
+water quality for primary production and associated operations at
+the place of such production (harvest and post-harvest). The
+guideline includes a matrix that provides growers with a tool to
+perform a risk assessment of the water used in primary agricultural
+production. It sets frequencies (high, medium and low) for analysis
+of E. coli during the use of the water (growing season or period of
+application of the water source) and corresponding thresholds,
+depending on the combination of water source, irrigation method,
+or potential contact with fresh produce and commodity type
+(ready-to-eat or not). The frequently of sampling will be higher on
+those combinations with the highest microbiological risks such as
+the case of fresh produce eaten uncooked. Regarding the moment
+of sampling, water samples should be taken during peak-use period
+for irrigation and if there are crops in summer, samples should be
+collected during this season. When comparing the microbial
+
+121
+
+thresholds for irrigation water included in both, the European
+guideline and the FSMA produce safety role, many similarities can
+be found. For example, in the case of irrigation water that will be in
+direct contact with the edible part of the product, the E. coli
+threshold in the European guideline is 100 cfu/100 mL, and if the
+water source used is rainwater, the frequency of sampling should be
+high, very similar to those established in the FSMA rule. In fact, the
+main difference between both microbial criteria is that the FSMA
+produce safety rule is based on the geometric mean (126 cfu/
+100 mL) of ﬁve samples and a statistical threshold (410 cfu/100 mL),
+while in the case of the European guideline only a maximum E. coli
+level is deﬁned.
+This guidance document should be used in conjunction with
+other applicable guidance documents, and the general hygiene
+requirements laid down in Annex I of Regulation (EC) No 852/2004
+must always be fulﬁlled. However, the main difference with respect
+to the US position is that the recommendations included in this
+document are not of mandatory compliance by growers, but are
+instead a guideline to prevent microbial risks in fresh produce.
+Based on this discussion, the key message identiﬁed by the
+panel was that although the FSMA regulations and EC recommendations may appear to be extremely complex for agriculture, it is a
+highly relevant regulation/guideline that provides a clear deﬁnition
+for agricultural waters. It deﬁnes speciﬁc criteria based on the
+water sources used (e.g. superﬁcial water, wells), the speciﬁc use of
+water (e.g. irrigation, cooling, process wash water) and also on
+whether it would come in contact with the produce or not. These
+situations must be considered to determine the criteria one has to
+follow for each circumstance. Although this could be a challenging
+task for the growers, the outcome could be rewarding in terms of
+production of less contaminated produce, less foodborne disease
+incidents, and less destruction of contaminated foods.
+3. Comparison between MPN and CFU in analyzing water
+quality
+FSMA in particular, and also EC, have established water quality
+criteria for different situations, and have made modiﬁcations on the
+approaches recommended to estimate fecal indicator bacteria (FIB)
+concentrations as measure of fecal pollution. The standard methodologies used to evaluate the presence of FIB in water are the
+Most-Probable-Number (MPN) and Colony Forming Units (CFU).
+The MPN is particularly useful in water and other matrices that
+usually have low concentrations of organisms (<100/g), whose
+particulate matter may interfere with accurate colony counts, and/
+or for bacteria that does not grow well on solid media (Goldman
+and Green, 2008; Blodgett, 2010). The MPN method involves taking the original sample and subdividing it by 10X or 2X order of
+magnitude, and assessing presence/absence in multiple subdivisions, i.e., this method consists of diluting the sample to a degree that absence begins to appear, which indicates that the sample
+has been diluted so much that there are many subsamples in which
+none appear. The test results consists of the number of tubes with
+growth at each dilution, and will represent an estimate of the
+original, undiluted concentration of bacteria in the sample
+(Blodgett, 2010). The CFU method is based on viable cell counts and
+it is mainly used in the enumeration of bacteria that does not grow
+well on liquid media (Goldman and Green, 2008). This methodology consists of counting the number of colonies observed on agar
+plates after they have been cultivated and incubated under speciﬁc
+conditions (Goldman and Green, 2008).
+Before FSMA, in the US and most Latin American countries, the
+microbial loads were evaluated based on the MPN methodology,
+but with FSMA the evaluation must be done by the CFU methodology. In the case of Europe, enumeration of microorganisms,
+
+
+
+122
+
+A. Allende et al. / Food Microbiology 75 (2018) 119e125
+
+particularly indicator microorganisms is performed using plate
+count techniques which give the CFU value. The changes included
+in FSMA have added some challenges to laboratories because of
+additional cost and difﬁculties to handle microbiological methods
+available for water that has some degree of turbidity. During the
+session, the panel discussed the advantages and limitations of these
+two methodologies. The panelists, based on their experience,
+agreed that the results using this analysis vary depending on the
+water source. For instance, Chen et al. (2017) analyzed about 1700
+individual samples from an ice cream outbreak for Listeria using
+the MPN and direct plating for CFU. When combining the data they
+found that the results of both methodologies agreed very well
+(Chen et al., 2017). In contrast, differences between both methodologies have been reported in processing water samples. In a study
+in which the MPN (Colilert-18, IDEXX, chromogenic substrate
+method) and CFU methods for total coliform detection in wetland
+samples were compared, the CFU values (membrane ﬁltration)
+were generally lower than paired MPN value for the same water
+sample (Applied Marine Sciences, 2011). Furthermore, the
+Spearman rank correlations revealed that MPN and CFU values
+were not correlated (Applied Marine Sciences, 2011). Although
+these studies have shown that CFU methodology tend to be more
+accurate than MPN in water, is important to highlight the fact that
+water quality very much affects how well these techniques work.
+For example, if a very turbid water or with abundant debris is
+analyzed with these methods, it will interfere with analysis and
+accuracy of results (Hsu and Huang, 2007; Koompapong et al.,
+2009).
+An explanation for the variability between these methodologies
+is that the intra-sample variability is due to a simple consequence
+of the probabilistic basis for calculating the MPN, rather than by
+human error or laboratory procedure variability (Gronewold and
+Wolpert, 2008; Blodgett, 2010). Another explanation is that one
+of the assumptions required for the MPN is that microorganism are
+separated individually and not clustered together (Gronewold and
+Wolpert, 2008); however many times these microorganism tend to
+clump together and if they are not uniformly separated into single
+unit, then the MPN numbers do not measure up with the actual
+results. The MPN can be estimated using a simple kit and sealer
+method (Colilert-18, IDEXX, chromogenic substrate method) which
+makes it very easy to mix, pour and look up the results the next day,
+therefore some researchers prefers using this system, even though
+it may be not as accurate as the CFU.
+Therefore, the advantage that MPN methodology has compared
+to the CFU methodology is that it is simpler, easier to do and lower
+cost than the CFU, but it also altered the limit of detection. And
+notably, there are other alternatives currently available such as the
+use of membrane ﬁltration to determine populations in fresh produce, that can improve the probability of detection when cell
+density is low (Chain and Fung, 1991; Sbodio et al., 2013).
+In this context, the panelist agreed that choosing between MPN
+and CFU as a methodology to evaluate the presence of FIB depends
+on the matrix to be analyzed, physical parameters of the water
+samples (turbid, with presence of many debris, etc), capability of
+the bacteria to grow in either a liquid or liquid media, ease of
+performing the analysis, and whether an approximation or exact
+result is needed. Nevertheless, the panelists noted that the FSMA
+and EC guidelines stipulate that the results of the water analysis
+must be expressed as CFU.
+
+used because they present low pathogenic potential, are present at
+high levels in sewage and feces, and their presence in water might
+be indicative of the presence of pathogenic bacteria (Harwood et al.,
+2014). Moreover, detection and enumeration of generic E. coli is
+often cheaper and faster compared to concentrating and screening
+for pathogenic microorganisms.
+Although the major FIB to determine water quality used
+worldwide are the fecal bacteria E. coli and Enterococci, there is
+evidence that the biggest limitation of use is that the absence of FIB
+does not necessarily correlate with the absence of pathogens (Lund,
+1996; Lemarchand and Lebaron, 2003; Harwood et al., 2005;
+Schriewer et al., 2010; Ceuppens et al., 2015). An explanation of
+this non-correlation could be that both E. coli and Enterococci
+reproduce outside the animal host, survive, grow, and establish
+populations in natural environments (Savichtcheva and Otake,
+2006; Field and Samadpour, 2007). Furthermore, different
+environment-matrix combinations may favor different organisms,
+allowing detection of pathogens but no E. coli and vice-versa, which
+could explain why not ﬁnding E. coli does not guarantee absence of
+pathogens in the same samples.
+Based on the panel discussion, ideal indicators that are sensitive,
+speciﬁc, and low cost for predicting the presence of pathogenic
+viruses and parasites are lacking. Therefore, despite their limitations, FIB are often used to represent risk from all pathogens,
+regardless if they are parasites, bacteria, or virus. For this reason, a
+number of alternative indicators of fecal contamination have been
+proposed (Figueras and Borrego, 2010; Shahryari et al., 2014; Liang
+et al., 2015; Saxena et al., 2015). Among the possible candidates are
+the class Bacteroidetes with the Bacteroidales genus and Bacteroidetes group.
+The Bacteroidales species are part of a Microbial Source Tracking
+(MST) approach that aims to identify host sources of fecal
+contamination in water samples (Field and Samadpour, 2007).
+Nucleic acid-based methods have been developed targeting
+markers to detect speciﬁc animal sources, such as markers for domestic animals (cattle, poultry, horses, pig and dog), humans, and
+even wildlife (Harwood et al., 2014). Numerous studies have reported the correlation between Bacteroidales and FIB, and even
+with pathogens. Harwood et al. (2014) provides a summary of
+studies that have evaluated the correlation between various Bacteroidales markers and waterborne pathogens. Some Bacteroidales
+have shown positive correlations with waterborne pathogens, for
+instance, Human Bacteroidales were positively correlated with
+Campylobacter (Walters et al., 2007; Viau et al., 2011), enteric viruses including Adenovirus (Mcquaig et al., 2012; Boehm et al.,
+2009; Viau et al., 2011), and pathogenic E. coli and Salmonella
+(Savichtcheva et al., 2007). Although most of the Bacteroidales
+markers presented a negative correlation with the different pathogen evaluated, Harwood et al. (2014) concludes that has limitations now, but it is anticipated that the ﬁeld will rapidly evolve to
+surpass those limitations.
+The panelist agreed that currently fecal coliforms, Enterococci,
+and E. coli are the FIBs that are more widely used, although FSMA
+and EC guidelines indicate that E. coli should be the highest priority.
+However, the panelists anticipate that in the future, new and better
+types of indicators, such as Bacteroidales perhaps, will replace the
+current FIB indicators as a measure of fecal pollution.
+5. Vegetative buffers as an alternative to reduce pathogen
+loads in agricultural waters
+
+4. Alternatives to FIB to be used as indicators of water quality
+To date, many of the programs monitoring water quality focus
+on the measurement of fecal indicator bacteria (FIB) contamination
+to evaluate the presence of fecal contamination. These bacteria are
+
+Chemicals that are chlorine-based are often used to reduce
+microbial populations in produce and from surfaces within produce
+processing facilities, as well as in water used during cleaning and
+packing operations (FDA, 2014). In 1998, the FDA approved the use
+
+
+
+A. Allende et al. / Food Microbiology 75 (2018) 119e125
+
+of Chlorine dioxide (ClO2) solutions for washing fruits and vegetables and; In 2006, the US Environmental Protection Agency (EPA)
+and the US FDA approved its use as an alternative sanitizer for postharvest application to fruits and vegetables (Kim et al., 2016).
+Although chlorine based sanitizers are effective disinfectants for
+bacteria and viruses in some cases, and they have been widely used
+for sanitation purposes in the food industry (FDA, 2014), they still
+have limitations. For example, they are not always effective against
+protozoan parasites such as Cryptosporidium parvum and Giardia
+lamblia. Also, their use results in production of disinfection byproducts (DBPs), which pose potential health risks of their own
+(Ngwenya et al., 2013). For these reasons, agricultural producers are
+searching for alternatives to chlorine to reduce pathogen loads in
+water without introducing any chemical risk.
+Based on the discussion, panelists were in agreement that a
+possible alternative methodology to reduce pathogen loads in
+irrigation water could be the use of ﬁltration, natural or artiﬁcial.
+The most commonly used ﬁltration systems to eliminate microorganisms from irrigation water are sand ﬁlters. These systems are
+well-established, particularly in wastewater treatment plants that
+generate tertiary treated wastewater, which can be applied as
+agricultural water in commercial ﬁelds following current US and
+European legislation. However, vegetative buffer strips seem to be
+an environmentally friendly alternative to reduce contamination of
+water that might be applied to help regenerate irrigation water
+quality.
+Several studies have been done to evaluate the efﬁciency of
+protozoa removal in water of diverse natural ﬁltration systems
+(Atwill et al., 2002; Falabi et al., 2002; Tyrrel and Quinton, 2003;
+Miller et al., 2008; Winkworth et al., 2008; Hogan et al., 2013).
+Atwill et al. (2002) and Tyrrel and Quinton (2003) have shown that
+buffer strips and straw mulch provide surfaces to trap and remove
+oocysts from runoff acting as barriers, as well as slowing down the
+runoff, allowing more time for inﬁltration and sedimentation of
+microorganisms (Miller et al., 2008). Falabi et al. (2002) evaluated
+the ability of duckweed (Lemna gibba L.) ponds to remove Giardia
+cysts, Cryptosporidium oocysts, total coliforms, fecal coliforms, and
+coliphages from domestic waste-water. They found that Giardia
+cysts and Cryptosporidium oocysts were reduced by 98 and 89%,
+respectively, total coliforms by 61%, fecal coliforms by 62%, and
+coliphage by 40%, indicating that although the pond reduced the
+microorganism loads, the removal of larger organisms, such as
+protozoa, in the pond was more effective than the removal of
+smaller bacteria and coliphages (Falabi et al., 2002). Miller et al.
+(2008) evaluated the efﬁciency for reduction of Cryptosporidium
+loading for on-farm beneﬁcial management practices (BMPs) such
+as vegetated buffers, straw mulch application, cattle exclusion, and
+scraping of lots in storm runoff on working dairies. They found that
+only vegetated buffer strips and straw mulch application signiﬁcantly reduced the protozoan concentrations and loads in storm
+runoff, indicating that the application of these BMPs are effective
+practices to reduce the loading of fecal pathogen (Miller et al.,
+2008). Similarly, Winkworth et al. (2008) evaluated the pathogen
+reduction capability of recently planted vegetation strips compared
+to bare soil strips cleared of vegetation. They found that vegetation
+strip signiﬁcantly reduced the detection of Giardia in runoff
+collected from the planted strip (P ¼ 0.006), highlighting the
+beneﬁt of pathogen removal of vegetation planting (Winkworth
+et al., 2008). Hogan et al. (2013) evaluated the effect of the presence and conﬁguration (buffer versus channel) of California bulrush
+(Schoenoplectus californicus) and slough sedge (Carex obnupta) for
+the reduction of protozoan parasites in surface waters using recirculating mesocosm tank experiment. Their ﬁndings showed that
+California bulrush and slough sedge, regardless of their conﬁguration, signiﬁcantly enhanced removal of Giardia lamblia and
+
+123
+
+Toxoplasma gondii surrogates from the surface water in the wetland
+mesocosm tanks, compared to experimental replicates where no
+vegetation was used (Hogan et al., 2013).
+These studies as well as panel experience indicate that vegetative buffers are a viable option to reduce pathogen loads in surface
+waters. The panelists were in agreement that vegetative buffers are
+a potentially practical and feasible alternative for agricultural producers to reduce the pathogen loads in their agricultural waters.
+6. Conclusions
+The discussion panel presented at the ISFS brought together
+experts from diverse food safety ﬁelds to share current ideas on the
+implications of food safety regulations for agricultural water, based
+on published research and their experiences. Furthermore, the
+experts shared practical applications of their research and how
+effective these were in the real-world agricultural practices. We
+highly recommend that future conferences on food safety have a
+space in which discussion panels can further discuss practical issues of concern, especially for the agricultural and food industries.
+In summary, the main messages obtain from this discussion
+panels were (1) the FSMA regulation and the new guidance document elaborated by the EC are highly relevant preventative approaches for agricultural production. Both documents provide a
+deﬁnition of agricultural water and provide speciﬁc criteria for
+different water uses and circumstances; (2) FSMA recommends
+modifying the unit used to estimate FIB concentration from MPN to
+CFU, which must now be followed; (3) Growers need more alternatives for treatment of agricultural water to maintain high water
+quality, especially for surface waters that have not been treated.
+Vegetative buffers show promise as a practical alternative for
+agricultural producers to reduce the loads of fecal pollution in
+agricultural waters, and further research on many of these topics is
+warranted to further reﬁne the knowledge and guidance.
+Unlisted references
+Adonis, 2017.
+Acknowledgments
+The Symposium was sponsored by the OECD Co-operative
+Research Programme on Biological Resource Management for
+Sustainable Agricultural Systems, whose ﬁnancial support made it
+possible for all co-authors of this report and invited speakers to
+participate in the 1st International Symposium of Food Safety
+(ISFS). We acknowledge the ﬁnancial support received from Fondecyt Research Initiation grant (Grant Number 11160116) for AA’s
+project that allowed her to give an oral presentation at the ISFS
+symposium.
+References
+Applied Marine Sciences Inc, Davis UC, California Department of Fish and Game
+Marine Wildlife Veterinary Care & Research Center, 2011. Monitoring and
+Mitigation to Address Fecal Pathogen Pollution along California Coast. Proposition 50 Coastal Management Program California State Water Board agreement
+no. 06-076-553. California Department of Fish and Wildlife, pp. 4e38. http://
+www.cclean.org/ftp/Prop50%20Fecal%20Pathogen%20Final%20Report%20copy.
+pdf (Accessed 22 February 2017).
+Atwill, E.R., Hou, L., Karle, B.M., Harter, T., Tate, K.W., Dahlgren, R.A., 2002. Transport
+of Cryptosporidium parvum oocysts through vegetated buffer strips and estimated ﬁltration efﬁciency. Appl. Environ. Microbiol. 68, 5517e5527. https://
+doi.org/10.1128/AEM.68.11.5517.
+Blodgett, R., 2010. FDA, Bacterial Analytical Manual, Appendix 2 Most Probable
+Number from Serial Dilutions. http://www.fda.gov/Food/FoodScienceResearch/
+LaboratoryMethods/ucm109656.htm (Accessed 26 February 2017).
+Boehm, A.B., Yamahara, K.M., Love, D.C., Peterson, B.M., McNeill, K., Nelson, K.L.,
+
+
+
+124
+
+A. Allende et al. / Food Microbiology 75 (2018) 119e125
+
+2009. Covariation and photoinactivation of traditional and novel indicator organisms and human viruses at a sewage-impacted marine beach. Environ. Sci.
+Technol. 43, 8046e8052. https://doi.org/10.1021/es9015124.
+Ceuppens, S., Johannessen, G.S., Allende, A., Tondo, E.C., El-Tahan, F., Sampers, I.,
+Jacxsens, L., Uyttendaele, M., 2015. Risk factors for Salmonella, shiga toxinproducing Escherichia coli and Campylobacter occurrence in primary production of leafy greens and strawberries. Int. J. Environ. Res. Public Health 12,
+9809e9831. https://doi.org/10.3390/ijerph120809809.
+Chain, V.S., Fung, D.Y.C., 1991. Comparison of Redigel, petriﬁlm, spiral plate system,
+isogrid, and aerobic plate count for determining the numbers of aerobic bacteria in selected foods. J. Food Prot. 54, 208e211. https://doi.org/10.4315/0362028X-54.3.208.
+Chen, Y., Pouillot, R.S., Burall, L., Strain, E.A., Van Doren, J.M., De Jesus, A.J., Laasri, A.,
+Wang, H., Ali, L., Tatavarthy, A., Zhang, G., Hu, L., Day, J., Sheth, I., Kang, J.,
+Sahu, S., Srinivasan, D., Brown, E.W., Parish, M., Zink, D.L., Datta, A.R.,
+Hammack, T.S., Macarisin, D., 2017. Comparative evaluation of direct plating and
+most probable number for enumeration of low levels of Listeria monocytogenes
+in naturally contaminated ice cream products. Int. J. Food Microbiol. 241, 15e22.
+https://doi.org/10.1016/j.ijfoodmicro.2016.09.021.
+Drew, C.A., Clydesdale, F.M., 2015. New food safety law: effectiveness on the ground.
+Crit. Rev. Food Sci. Nutr. 55, 689e700. https://doi.org/10.1080/
+10408398.2011.654368.
+EC, 2016. Commission Notice on Guidance Document on Addressing Microbiological
+Risks in Fresh Fruit and Vegetables at Primary Production through Good Hygiene. https://ec.europa.eu/food/sites/food/ﬁles/safety/docs/biosafety_fh_legis_
+guidance_sante-10470-2016_en.pdf (Accessed 3 October 2017).
+EFSA Panel on Biological Hazards (BIOHAZ), 2011. Scientiﬁc opinion on the risk
+posed by Shiga toxin producing Escherichia coli (STEC) and other pathogenic
+bacteria in seeds and sprouted seeds. EFSA J. 9 (11), 2011, 2424, 101 pp.
+EFSA Panel on Biological Hazards (BIOHAZ), 2013. Scientiﬁc opinion on the risk
+posed by pathogens in food of non-animal origin. Part 1 (outbreak data analysis
+and risk ranking of food/pathogen combinations). EFSA J. 11 (1), 2013, 3025, 138
+pp.
+EFSA BIOHAZ Panel (EFSA Panel on Biological Hazards), 2014a. Scientiﬁc opinion on
+the risk posed by pathogens in food of non-animal origin. Part 2 (Salmonella in
+melons). EFSA J. 12 (10), 3831, 2014.
+EFSA BIOHAZ Panel (EFSA Panel on Biological Hazards), 2014b. Scientiﬁc opinion on
+the risk posed by pathogens in food of non-animal origin. Part 2 (Salmonella
+and Norovirus in berries). EFSA J. 12 (6), 2014, 3706, 95 pp.
+EFSA BIOHAZ Panel (EFSA Panel on Biological Hazards), 2014c. Scientiﬁc opinion on
+the risk posed by pathogens in food of non-animal origin. Part 2 (Salmonella
+and Norovirus in tomatoes). EFSA J. 12 (10), 3832, 2014.
+EFSA BIOHAZ Panel (EFSA Panel on Biological Hazards), 2014d. Scientiﬁc opinion on
+the risk posed by pathogens in food of non-animal origin. Part 2 (Salmonella
+and Norovirus in leafy greens eaten raw as salads). EFSA J. 12 (3), 2014, 3600,
+118 pp.
+Falabi, J.A., Gerba, C.P., Karpiscak, M.M., 2002. Giardia and Cryptosporidium removal
+from waste-water by a duckweed (Lemna gibba L.) covered pond. Lett. Appl.
+Microbiol. 34, 384e387. https://doi.org/10.1046/j.1472-765X.2002.01104.x.
+FDA, 2014. Safe Practices for Food Processes. Chapter V. Methods to Reduce/eliminate Pathogens from Produce and Fresh-cut Produce. In: www.fda.gov/Food/
+FoodScienceResearch/SafePracticesforFoodProcesses/ucm091363.htm
+(Accessed 24 February 2017).
+FDA, 2017. FDA Food Safety Modernization Act (FSMA). https://www.fda.gov/Food/
+GuidanceRegulation/FSMA/default.htm (Accessed 26 February 2017).
+FDA (U.S. Food and Drug Administration), 2015. Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption. Final Rule,
+Docket No. FDAe2011eNe0921. https://www.federalregister.gov/documents/
+2015/11/27/2015-28159/standards-for-the-growing-harvesting-packing-andholding-of-produce-for-human-consumption (Accessed 25 February 2017).
+Field, K.G., Samadpour, M., 2007. Fecal source tracking, the indicator paradigm, and
+managing water quality. Water Res. 41, 3517e3538. https://doi.org/10.1016/
+j.watres.2007.06.056.
+Figueras, J.M., Borrego, J.J., 2010. New perspectives in monitoring drinking water
+microbial quality. Int. J. Environ. Res. Public Health 7, 4179e4202. https://
+doi.org/10.3390/ijerph7124179.
+Goldman, E., Green, L.H., 2008. Practical Handbook of Microbiology, second ed. CRC
+Press, Taylor and Francis Group, Boca Raton, Florida, pp. 16e18. ISBN 978-08493-9365-5.
+https://books.google.cl/books?
+id¼qVyPr57Q2lUC&pg¼PA18&lpg¼PA18&dq¼manualþforþtotal
+þbacterialþcolonyþcounts&source¼bl&ots¼WWfWjjnd_Q&sig¼oMO3tmrr0QE_yt8EzxWfYFyF54&hl¼en&sa¼X&ei¼aqE_VJn-Asrg7Qbyz4HgBA&redir_
+esc¼y#v¼onepage&q¼MPN&f¼false. (Accessed 26 February 2017).
+Gronewold, A.D., Wolpert, R.L., 2008. Modeling the relationship between most
+probable number (MPN) and colony-forming unit (CFU) estimates of fecal
+coliform concentration. Water Res. 42, 3327e3334. https://doi.org/10.1016/
+j.watres.2008.04.011.
+Harwood, V.J., Levine, A.D., Scott, T.M., Chivukula, V., Lukasik, J., Farrah, S.R.,
+Rose, J.B., 2005. Validity of the indicator organism paradigm for pathogen
+reduction in reclaimed water and public health protection. Appl. Environ.
+Microbiol. 71, 3163e3170. https://doi.org/10.1128/AEM.71.6.3163.
+Harwood, V.J., Staley, C., Badgley, B.D., Borges, K., Korajkic, A., 2014. Microbial source
+tracking markers for detection of fecal contamination in environmental waters:
+relationships between pathogens and human health outcomes. FEMS Microbiol.
+Rev. 38, 1e40. https://doi.org/10.1111/1574-6976.12031.
+
+HHS (U.S. Department of Health & Human Services), FDA (U.S. Food & Drug
+Administration), 2015. Federal Register/Vol. 80, No. 228/Friday, November 27,
+2015/Rules and Regulations. Standards for the Growing, Harvesting, Packing,
+and Holding of Produce for Human Consumption. https://www.gpo.gov/fdsys/
+pkg/FR-2015-11-27/pdf/2015-28159.pdf (Accessed 3 October 2017).
+Hogan, J.N., Daniels, M.E., Watson, F.G., Oates, S.C., Miller, M.A., Conrad, P.A.,
+Shapiro, K., Hardin, D., Dominik, C., Melli, A., Jessup, D.A., Miller, W.A., 2013.
+Hydrologic and vegetative removal of Cryptosporidium parvum, Giardia lamblia,
+and Toxoplasma gondii surrogate microspheres in coastal wetlands. Appl. Environ. Microbiol. 79, 1859e1865. https://doi.org/10.1128/AEM.03251-12.
+Hsu, B.M., Huang, C., 2007. IMS method performance analyses for Giardia in water
+under differing conditions. Environ. Monit. Assess. 131, 129e134. https://
+doi.org/10.1007/s10661-006-9462-8.
+Kennedy, S., Errecaborde, K.M., 2014. General Overview of the Food Safety
+Modernization Act. Food Policy Research Center, University of Minnesota.
+http://www.foodpolicy.umn.edu/sites/foodpolicy.umn.edu/ﬁles/food-safetymodernization-act-overview.pdf (Accessed 26 February 2017).
+Kim, H., Yum, B., Yoon, S., Song, K., Kim, J., Myeong, D., Chang, B., Choe, N., 2016.
+Inactivation of Salmonella on erggshells by chlorine dioxide gas. Korean J. Food
+Sci. Anim. Resour. 36, 100e108. https://doi.org/10.5851/kosfa.2016.36.1.100.
+Koompapong, K., Sutthikornchai, C., Sukthana, Y., 2009. Cryptosporidium oocyst
+detection in water samples: ﬂoatation technique enhanced with immunoﬂuorescence is as effective as immunomagnetic separation method. Korean J. Parasitol. 47, 353e357. https://doi.org/10.3347/kjp.2009.47.4.353.
+Lemarchand, K., Lebaron, P., 2003. Occurrence of Salmonella spp. and Cryptosporidium spp. in a French coastal watershed: relationship with fecal indicators.
+FEMS Microbiol. Lett. 218, 203e209. https://doi.org/10.1016/S0378-1097(02)
+01135-7.
+Liang, L., Goh, S.G., Vergara, G.G.R.V., Fang, H.M., Rezaeinejad, S., Chang, S.Y.,
+Bayen, S., Lee, W.A., Sobsey, M.D., Rose, J.B., Gin, K.Y.H., 2015. Alternative fecal
+indicators and their empirical relationships with enteric viruses, Salmonella
+enterica, and Pseudomonas aeruginosa in surface waters of a tropical urban
+catchment. Appl. Environ. Microbiol. 81, 850e860. https://doi.org/10.1128/
+AEM.02670-14.
+Lund, V., 1996. Evaluation of E. coli as an indicator for the presence of Campylobacter
+jejuni and Yersinia enterocolitica in chlorinated and untreated oligotrophic lake
+water. Water Res. 30, 1528e1534. https://doi.org/10.1016/0043-1354(96)
+00034-6.
+Mcquaig, S., Grifﬁth, J., Harwood, V.J., 2012. Association of fecal indicator bacteria
+with human viruses and microbial source tracking markers at coastal beaches
+impacted by non point source pollution. Appl. Environ. Microbiol. 78,
+6423e6432. https://doi.org/10.1128/AEM.00024-12.
+Miller, W.A., Lewis, D.J., Pereira, M.D.G., Lennox, M., Conrad, P.A., Tate, K.W.,
+Atwill, E.R., 2008. Farm factors associated with reducing loading in storm runoff
+from dairies. J. Environ. Qual. 37, 1875e1882. https://doi.org/10.2134/
+jeq2007.0413.
+Ngwenya, N., Ncube, E.J., Parsons, J., 2013. Recent advances in drinking water
+disinfection: successes and challenges. Rev. Environ. Contam. Toxicol. 222,
+111e170.
+Savichtcheva, O., Otake, S., 2006. Alternative Indicators of fecal pollution: Relations
+with pathogens and conventional indicators, current methodologies for direct
+pathogen monitoring and Future Application Perspectives. Water res. 40,
+2463e2476. https://doi.org/10.1016/j.watres.2006.04.040.
+Savichtcheva O., Okayama N. and Otake S., Relationships between Bacteroides 16S
+rRNA genetic markers and presence of bacterial enteric pathogens and conventional fecal indicators. In: Liang L., Goh S.G., Vergara G.G.R.V., Fang H.M.,
+Rezaeinejad S., Chang S.Y., Bayen S., Lee W.A., Sobsey M.D., Rose J.B. and Gin
+K.Y.H., Alternative fecal indicators and their empirical relationships with enteric
+viruses, Salmonella enterica, and Pseudomonas aeruginosa in surface waters of a
+tropical urban catchment, Appl. Environ. Microbiol. 81, 2015, 850e860, https://
+doi.org/10.1128/AEM.02670-14.
+Saxena, G., Bharagava, R.N., Kaithwas, G., Raj, A., 2015. Microbial indicators, pathogens and methods for their monitoring in water environment. J. Water Health
+13, 319e339. https://doi.org/10.2166/wh.2014.275.
+Schriewer, A., Miller, W.A., Byrne, B.A., Miller, M.A., Oates, S., Conrad, P.A., Hardin, D.,
+Yang, H.H., Chouicha, N., Melli, A., Jessup, D., Dominik, C., Wuertz, S., 2010.
+Presence of Bacteroidales as a predictor of pathogens in surface waters of the
+central California coast. Appl. Environ. Microbiol. 76, 5802e5814. https://
+doi.org/10.1128/AEM.00635-10.
+Shahryari, A., Nikaeen, M., Khiadani (Hajian), M., Nabavi, F., Hatamzadeh, M.,
+Hassanzadeh, A., 2014. Applicability of universal Bacteroidales genetic marker
+for microbial monitoring of drinking water sources in comparison to conventional indicators. Environ. Monit. Assess. 2014 (186), 7055e7062. https://
+doi.org/10.1007/s10661-014-3910-7.
+Sbodio, A., Maeda, S., Lopez-Velasco, G., Suslow, T.V., 2013. Modiﬁed moore swab
+optimization and validation in capturing E. coli O157: H7 and Salmonella
+enterica in large volume ﬁeld samples of irrigation water. Food Res. Int. 51,
+654e662. https://doi.org/10.1016/j.foodres.2013.01.011.
+Taylor, M.R., Jan. 27, 2011. The FDA Food Safety Modernization Act: Putting Ideas
+into Action, Presentation to the Food & Drug Law Institute Food Safety Conference.
+https://www.fda.gov/downloads/aboutfda/centersofﬁces/
+ofﬁceoffoods/ucm254885.pdf (Accessed 22 Feburary 2017).
+Tyrrel, S.F., Quinton, J.N., 2003. Overland ﬂow transport of pathogens from agricultural land receiving faecal wastes. J. Appl. Microbiol. 94 (Suppl. l), 87Se93S.
+https://doi.org/10.1046/j.1365-2672.94.s1.10.x.
+
+
+
+A. Allende et al. / Food Microbiology 75 (2018) 119e125
+United States Trade Representative (USTR, 2017. U.S. Chile Trade Facts. https://ustr.
+gov/countries-regions/americas/chile (Accessed 28 September 2017).
+Viau, E.J., Lee, D., Boehm, A.B., 2011. Swimmer risk of gastrointestinal illness from
+exposure to tropical coastal waters impacted by terrestrial dry-weather runoff.
+Environ. Sci. 41, 7158e7165.
+Walters, S.P., Gannon, V.P.J., Field, K.G., 2007. Detection of Bacteroidales fecal
+
+125
+
+indicators and the zoonotic Salmonella, and Campylobacter in river water. Environ. Sci. Technol. 41, 1856e1862.
+Winkworth, C.L., Matthaei, C.D., Townsend, C.R., 2008. Recently planted vegetation
+strips reduce Giardia runoff reaching waterways. J. Environ. Qual. 37,
+2256e2263. https://doi.org/10.2134/jeq2008.0045.
+
+

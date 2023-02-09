@@ -1,0 +1,2455 @@
+International Journal of EnvironmentalH~alth Research8. 173-189 (1998)
+
+~
+
+CARFAX
+
+aIth,
+
+Health effects of marine bathing in
+New Zealand
+:nvlronmentalHealth
+
+I
+~~:2
+2
+G.B. MCBRIDE.
+C.E. SALMOJ."u-.
+D.R. BANDARANAYAKE
+. SJ. TURNER3.
+G.D. LEWIs4 andD.G. ~s
+INlWA (NationalllLJtilJlte of ~r
+imd AtmoIpMric Rueon:h LId), PO Bo% 11-115, HDmilton, 2WeUington School
+of Medicine, Otago Ulliwrsity, Wellington, 3AIICklaIId Reglollal ColmCil (now School of Biological Sciences.
+University of Auckland, New Zealand), 4EnvirollPltental S~
+University of AJlCkIOIId, 'ESR (Envirollmental
+Science and Resean:h LId), Communicable Disease C~
+Porinta, Wellington, (IIOW private consldtQnt,
+Wellington). New Zealand
+
+lharia Sanitaria e
+
+zi1
+
+nd Public
+
+Prospectiveepidemiological ~tudieson ~ possible health effects from sea bathing were canied out at
+seven popular New Zealandbathing beachesover the 1995 summer.The associationof gastrointestinaV
+respiratcxysymptomsor other infections witIi'human or animal faecal contaminationof the beachwater
+was examined.Beachuserswere interviewed at the beachand then followed up within 5 daysto asceJ:tain
+any illness symptoms. On each of the 107 interview days multiple samplesof the beach water were
+examinedfor three faecal indicators (faecal colifonns, E. coli, enrerococci).Of the usableresponses,2307
+usersdid not enter ~ water; 1577did. Log-linear modelling showedthat enterococciwas most strongly
+and consistently associatedwith illness risk for the exposedgroups, particularly for respiratory illness
+among paddlersand long-duratioo swimmers.Crude risk differencesfor thesetwo groups were 7 and 33
+per 1<XX>
+individuals, rising to 62 and 87 per 1<XX>
+individuals for the highest enterococciquartile. No
+substantialdifferencesin illness risks were found~tween the humanand animal wasteimpactedbeaches,
+d1Oughboth were markedly different from the control beaches.The results ~ being used to develop
+recommendations for sampling design and use of single-sample maxima in new bathing-water
+guidelines.
+Keywords: epidemiology,swimming, p~ng,
+
+respiratmy illness, faecal contamination,enterococci.
+
+th, Mexico
+JSA
+
+:e.
+ec,Canada
+
+Ute Research,
+
+Introduction
+New Zealand'scoastalwatersarehighly valued asrecreationalresourcesand arewidely utilised
+for a range of activities including bathing, sailing, boating, various forms of surfmg, and
+underwaterdiving. The maintenanceand protection of recreationalwater quality is integral to
+the continued use of coastalwaters for thesepurposesand is thereforea major environmental
+health and resourcemanagementissue affecting m~y New Zealanders.
+For severaldecadesmanagementof such waters has relied upon the use of microbiological
+indicators for assessmentof suitability of waters for bathing in terms of public health risk.
+Explicit indicator limits were containedin previous statutes,but their applicationto a particular
+water body was optional. Currentlegislation (the ResourceManagementAct 1991) still CQntains
+optional standardsbut does not prescribe compliancein explicit numerical terms, or restrict
+control to microbiological contaminantS.Rather, the standardis presentedin narrative terms:
+COO'CSpondence:G.B. McBride.
+0960-3123/97/030173-17$7.00 0 1998 Carfax Publishing Ltd
+
+
+
+174
+
+McBride et al.
+
+'The water shall not be renderedunsuitablefor bathing by the presenceof contaminants'.To
+give effect to this requirement,information is needed to translateit into explicit measurable
+terms.
+Previouslegislation specifiedoptional recreationalwater quality standardsin terms of faecal
+coliforms (requiring that the median of not less than five samplesin no more than 30 days be
+less than 200 faecal coliforms per lOOmL). The suitability of faecal coliforms as a health risk
+indicator for coastalbeacheshas beenbrought into questionby Cabelli et aL (1982) and Cabelli
+(1983, 1989) whose studies indicated that enterococci were a much better indicator of
+gastrointestinalillness risk than faecal coliforms at the USA coastal beachesstudied. These
+findings subsequentlyled to the United States Environmental Protection Agency (USEPA)
+promulgating new 'criteria' for coastal waters (USEPA 1986) which use enterococci as the
+health effects indicator.
+In light of this the New ZealandDepartmentof Health publishedprovisional guidelines for
+the microbiological quality of recreationalwaters(Departmentof Health 1992),which arebased
+on the USEPA criteria. They are 'provisional' for two reasons.First, while the data from the
+USA studieswere consideredto be the most comprehensiveavailable at the time, a number of
+other epidemiologicalstudieswere underway,particularly in the UK. It was thereforepossible
+that the results of thesestudiesmight provide further insights into developmentof appropriate
+criteria for New Zealand.Second,and most importantly, it was recognisedthat the findings of
+overseasresearchmay not apply equally to the New Zealand situation. Three reasonswere
+advancedfor this:
+(i)
+
+New Zealand's recreational waters are more frequently impacted by catchment-derived
+wastes(e.g. rural runoff) rather than municipal discharges,so one may expect a higher
+proportion of animal faecal material to b\ present(there are about 11 million cattle and
+dairy cows in New Zealand,each of which contributesa wasteoutput equivalentto seven
+humans,aswell asup to 50 million sheep- in contrastthe humanpopulation is about 3.5
+
+million).
+(ii) Most of the beachesstudied overseaswere impactedby large municipal wastedischarges
+resulting from treatment processesnot common here (e.g. activated sludge) and using
+chlorination (seldom used for coastaldischargesin New Zealand).In contrast, oxidation
+pond treatmentsystemsare more commonly usedin New Zealand.In 1987,for example,
+62% of the communities with population greater than 1<XX>
+were serviced by oxidation
+ponds (Fitzmaurice 1987).
+(ill) New Zealand diseaseand immunity ratesmay be different from USA and other countries
+whereepidemiologicalstudieshave beenundertaken;indeedstudiesreport a wide rangeof
+illness rates betweennations.
+For thesereasonstl1erewas interest in conductinga local study.
+Feasibility of a New Zealand study
+Before recommendinga New Zealandstudy,overseasfindings were reviewed.The main points
+emergingfrom that analysis were as follows.
+(i)
+
+Most data show that there is a swimming-associatedpollution-related illness risk, though
+results are equivocal for the two studiesthat have included findings for beachesimpacted
+by animal faecal material. In the Hong Kong study (Cheung et aL 1988, Holmes 1989)
+
+Health effectsof ma
+
+(ii)
+
+(iii)
+
+(iv)
+
+(v)
+
+(vi)
+
+illness ratesfor
+for the other sc
+statistically si~
+(Calderon et a
+densitiesof fae
+Some form of
+concentration (
+streptococciex.
+found that in,
+symptoms,but
+The reportedsl.
+gastrointestinal
+Israel and USA
+studies(El-Shw
+streptococci,of
+illness.
+Eye, ear,skin a
+Seyfried et al. :
+be attributed t<
+reasonis not c)
+Comparisonof
+different perlO<
+study (Seyfrie<J
+1996).
+Indicator conce
+runs the risk (
+study.
+
+In the light of these
+desirable. with the
+concentrations for 81
+New Zealand condit
+illness rates and the
+animal sources. Tb
+preliminary studies
+obtained.
+
+Methods
+Studydesign
+A modified proSpeCI
+of bathers and non.
+Samplesof the beac
+Three to five days:
+askedwhat illness t
+associatedillness ri
+(swimming and pad
+
+
+
+McBride eta).
+
+Health effects of marine bathing in New Zealand
+
+contaminants'.To
+tplicit measurable
+in terms of faecal
+'Cthan 30 days be
+ns as a health risk
+:1982)and Cabelli
+etter indicator of
+1e5sbldied. These
+Agency (USEPA)
+:nterococci as the
+mal guidelinesfor
+). which are based
+the data from the
+time. a number of
+thereforepossible
+ent of appropriate
+181the findings of
+1reereasonswere
+
+illness rates for d1e two marine beaches impacted by animal (pig) wastes were lower than
+for the other seven beac~ (although total swimming-associated illness rates were still
+
+(ii)
+
+(iii)
+
+(iv)
+
+(v)
+
+:atchment-derived
+y expect a higher
+million cattle and
+quivalent to seven
+lation is about 3.5
+I wastedischarges
+dudge) and using
+:onb'ast,oxidation
+987, for example,
+iced by oxidation
+nd other countries
+)It a wide rangeof
+
+175
+
+(vi)
+
+statistically significantly different from zero). In the Connecticut freshwater study
+(Calderon et aL 1991) a finding of no association of gastrointestinal illness ,risk with
+densities of faecal indicator bacteria has been disputed (McBride 1993).
+Some foMl of swimming-associated gastrointestinal illness is well correlated to faecal
+concentration (e.g. Kay et aL 1994, who reported adverse heald1 effects when fa«al
+streptococci exceeded 32 per lOOmL); others are more equivocal (e.g. Corbett et al. 1993
+found that increasing bacterial counts were associated with respiratory and odler
+symptoms, but not with gastrointestinal symptoms).
+The reported slope of the relationship between 'gastrointestinal' illness or 'highly credible'
+gastrointestinal illness (OI/HCOI) and indicator concentration can vary widely - high in
+Israel and USA studies (Cabelli 1983, Fattal et al. 1986); low in Hong Kong and Egypt
+studies (EI-Shark:awi and Hassan 1982, Cabelli 1983, Holmes 1989). Enterococci (or faecal
+streptococci, of which enterococci is a major subgroup) is usually the best indicator of OJ
+illness.
+Eye, ear, skin and wound infections can be related to swimmer density. Some studies (e.g.
+Seyfried et a1. 1985b, Calderon et aL 1991) also suggest that swimming-associated OJ can
+be attributed to swimmer density rather than faecaJ indicator concentration, though the
+reason is not clear.
+Comparison of results of studies is made difficult by the range in sample sizes used, and
+different periods of follow-up: e.g. the Israel sbJdy (Fattal et aL 1986), and the Ontario
+study (Seyfried et aL 1985a, b) used 3-4 days; others have used longer (Fleisher etal.
+1996) .
+Indicator concentration at a beach can vary substantially from year to year, so one always
+runs the risk of not getting a sufficiently wide range of indicator densities during a
+study.
+\
+
+In the light of thesesix points it was decidedthat a New Zealandstudy was both feasible and
+desirable, with die aim of detennining the most Ajijii:\JPiiatemicrobial indicators and their
+concentrationsfor assessment
+of healthrisk associatedwith marine reaeational water useunder
+New Zealandconditions.The objective was to determineany associationbetweenbeachusers'
+illness rates and the degreeof faecal contaminationof the beach water from ei~ human or
+animal sources. The study was carried out in the 1994/95 summer, after completion of
+preliminalY sbldies in the two previous summers. Appropriate ethical approvals wete
+obtained.
+Methods
+
+L The main points
+
+.1nessrisk. dtOUgh
+beaches impacted
+~8, Holmes 1989)
+
+Study design
+A modified prospective'Cabelli protocol' study designwas used(WHO 1986),in which groups
+of bathers and non-batherswere interviewed at each beach, using a standardquestionnaire.
+Samplesof the beachwater were taken on the sameday and analysedfor indicator organisms.
+Three to five days after the initial beach interview the participants were contactedagain and
+askedwhat illness they may have experiencedand when the symptomsbegan.A swimmingassociatedillness risk was determined by comparison of illness risks between the exposed
+(swimming and paddling) and non-exposedgroups.
+
+
+
+~
+
+176
+
+McBride et aI.
+
+Three categoriesof beacheswere selected:two were 'conb'Ol' (minimal impact), two were
+'rural' (animal wasteimpact) and three were 'oxidation pond' (humanwasteimpacted).Figure
+1 shows their locations.
+Rlnesscategories
+Five categorieswere used
+(i)
+
+(ii)
+
+(ill)
+(iv)
+
+(v)
+
+'Highly Credible GastrointestinalDlncss' (HCG!) was associatedwidt fever or vomiting,
+being defmed as anyone or more of: (1) vomiting; (2) loose bowel with fever; (3) loose
+bowel with 'disability' (i.e. 1 or more days away becauseof illness, or days unable to do
+normal activities, or sought medical advice, or hospitalised);(4) nauseawith fever; (5)
+indigestion with fever.
+'PossibleGastrointestinalDlness' (POSSG!),which recogniscsthat self-diagnosismay fail
+to detectfever, and so was defined as anyone or more of: (1) loose bowel without fever;
+(2) nauseawithout fever; (3) indigestion widtout fev~ (4) loss of appetitewith: tiredness
+and dizziness,or tirednessand aching arms, or tirednessand blurrcd vision, or headache
+and dizziness.
+'Any Gastrointcstinalll1Dess'(ANYGI) was defined as either HCGI or POSSGI.
+'Other Significant People-RelatedIllncss' (OSPRI) was included becausebad1erdensity
+may be related to illness, and so was defined as anyone or more of: (1) ear infection; (2)
+eye infection; (3) sore throat; (4) skin rash.
+'Respiratory 1l1Dess'(RESPI) was defined following the Cabelli protocol. It was not
+restrictedto only thosesymptomsaccompaniedby fever (as it was the UK studies,Fleisher
+et al. 1996)becauseof d1epossibility of the above-notedfailure of self-diagnosisof fever,
+and also becausesome respiratory illness is not accompaniedby fever (for example
+responseto allergenic materiaI resulting from micrObial and fungal elements, asthma).
+Accmdingly RESPI was definedas anyone or ~
+of: (1) dry cough; (2) cough with spit;
+(3) shortnessof breath; (4) chest pain with fever.
+
+Questionnaires
+Information was required from participants at two stagesof the study: at the beach when
+participantswere recruited and severaldays later when participantswere queried about health
+effects.Structuredquestionnaireswere used.The French stlKlies(Foulon et aL 1983) indicated
+a generally poor responseto postal questionnairesand therefore emphasis was placed on
+obtaining follow-up information by structuredtelephoneinterview.
+The first questionnairewas designedto: (I) record basicfield data;(2) ascertaineligibility for
+d1esurvey; (3) obtain basic demographicinformation; (4) completea check-list of foods eaten
+in the past three days that could causesymptomssimiIar to those likely from the effects of
+bacterially or virally contaminatedseawater; (5) obtain sufficient details to enabletelephoneor
+postal follow-up. Questionnaireswere rebJrnedto the central office at the end of each day and
+somefield checking was done at this point.
+Follow-up infonnation was obtainedby telephoneor postal questionnairesdesignedto: (I)
+distinguish beach swimmers and paddlersfrom non-swimmersand establishcharacteristicsof
+swimming, including whether the head was ever under water; (2) completea check-list of any
+relevant symptomsexperiencedsince the time at the beach.including the timing, duration and
+severityof symptoms;(3) elicit (througha check-list)foods eatensincethe time at the beachthat
+
+Health effect.fof mar
+might have caused5Y
+the householdbad e:
+source;(5) establishv
+(pets were excluded
+regular contact with :
+Surveys
+Survey supervisorsf
+water samplingtechn
+interviewers were rt
+authorsensuredmini
+Surveys were scbl
+February 1995,whicl
+that bathing occurs (
+warrant the addition!
+The survey SCbedl
+interviews complete<
+the study period, OD
+holiday period'. The
+days at sevenbeach<
+would be usable,d18
+to the initial intervie
+of age were exclud
+provide any more us
+on symptomsand e)
+
+Subsurface
+water;
+(at 1100and 1500 b
+water (approximate)
+Samplesfcx each dc
+when significant baI
+Microbiological ant
+Indicators were m(
+standard~~ods (J
+andDonnison 1994:
+mE. EIA (for ente
+practicality. Baeten;
+grow on the media
+verify the identity 0
+of theseorganisms.
+PrelimiDaIYsurv.
+Staphylococcusaui
+important humanpi
+strUctureand envir
+frequently.Staphylc
+~thods when appl
+
+
+
+~
+
+McBride et 81.
+
+Health effeCtfof marine bathing in New ZealLmd
+
+impact), two were
+impacted). Figure
+
+177
+
+might have causedsymptomssimilar to thoseexperienced;{4) establishwhetheranyoneelse in
+the household ~ experi~
+similar symptoms which could have arisen from a common
+source;(5) establishwhetheranimal contactcould be an explanationfor the observedsymptoms
+(pets were excluded from this question. in the expectationthat most individuals would have
+regular contact with a pet).
+Surveys
+Survey supervisorsfor each beach were trained (by the first three authors) in interview and
+water samplingtechniques,for which they also w~ given a manual.Subsequently,threeto five
+interviewers were recruited and trained by each supervisor.Further on-site ttaining by the
+authors ensuredminimal study design biases.
+Surveys were scheduledfor ~h beach during d1eperiod from early January 1995 to 28
+February 1995,which is when bathing numbersare generallyhighest.Although it was accepted
+that bathing occurs outside of this period, bather numbersare not consistentlyhigh enoughto
+warrant the additional cost and resourcesrequired to run the survey at thesetimes.
+The survey schedulewas designedto maximise d1enumber of survey days and number of
+interviews completedon each day. This generally entailedsampling each weekendthroughout
+the study period, on public holidays, and on selectedweekdaysduring the January 'school
+holiday period'. The expectationfor the numberof useableresponseswas around()(XX);i.e. 18
+days at sevenbeachesfor 100 subjectsper day, from whom 50% of final questionnaireresults
+would be usable,that is, the subjectswould not have visited anotherbeacheither 3 days prior
+to the initial interview, nor in the period before the follow-up interview. alildren under 5 years
+of age were excluded from the survey population as inclusion was consideredunlikely to
+provide any more useful information due to the difficulties envisagedin obtaining accuratedata
+on symptomsand exlX>Sure.
+Subsudacewater samples(about 10cm below the waterswf~) were collectedtwice per day
+(at 1100 and 1500 hours) from adult chest depth water (approximately 1.0m) and knee-depth
+water (approximately 0.3 m) generally at three locations, spacedevenly along each beach.
+Samplesfor each depth and time were pooled for analysis.Sampling was performed on days
+when significant bathing occurred,regardlessof weather.
+
+fever or vomiting,
+d1fever; (3) lapse
+days unable to do
+ea with fever; (5)
+diagnosismay fail
+wel widtout.fever;
+:ite with: tiredness
+ision, or headache
+POSSGI.
+18ebather density
+I earinfection;(2)
+
+tacol. It was not
+:{ studies,Aeisher
+liagnosis of fever,
+vcr (for example
+lemeots, asthma).
+~)cough with spit;
+
+. the beach when
+med about health
+L 1983)indicated
+.s was placed on
+
+Microbiological analyses
+Indicators were measuredusing membrane {"tItration techniques generally in accord with
+standardmethods(APHA 1989),as documentedin a manualpreparedfor thesestudies(Lewis
+and DonnisOn1994).The media usedwere: mTEC (for E. coli), mR: (for f~
+colifonns) and
+mE, EIA (for enterococci). These represent the best balance of selective capability with
+practicality. Bacteria from within the indicator groupsbut not directly of faecal origin will also
+grow on the media selectedand therefore be included in analysis. Our inclusion of stepsto
+verify die identity of specific indicator bacteriaallowed assessment
+of the extent of the presence
+of theseorganisms.Laboratory staff were given specific training and an instroction manual.
+Preliminary surveys had also included F-specitic RNA bacteriophage(FRNA phage) and
+Staphylococcusau~us. The former have an advantagein better resembling some of die
+important humanpathogens(e.g. Norwalk md Norwalk-like viruses) in terms of both physical
+strocture and environmental persistence(IAWPRC 1991). However, they were not detected
+frequently. Staphylococcusaureuswas discontinuedbecanseof the poor specificity of available
+mediods when applied to analysisof environmentalsamples.
+
+1aineligibility for
+istof foods eaten
+om the effects of
+lable telephoneor
+:t of eachday and
+J designedto: (1)
+characteristicsof
+check-list of any
+ling. duration and
+eat the beachthat
+
+1
+
+
+
+178
+
+McBrldeetal
+Data analysis
+Data were checked.enteredand storedusing Bpi Info (Deanet al. 1994).Absolute risk and risk
+diff~
+were calculated.Having excludedprevalencecaseswe deterDlinedthe cumulative
+incidence rates. We thefuf~ estimatedrelative risks directly using a log-linear generalised
+linear model assuminga binomial distribution of illness risk. Calculationswere performed with
+standardsoftware (SAS 1993).The referentgroup was all the non-exposcd(i.e. those who did
+not enter d1ewater). We defined faecal indicator densitiesas exposurevariables;paddling and
+duration of swimming Wele defined as effect modifiers.
+Becauseepidemiological studiesoften are concernedwith thresholdeffects,commencingan
+analysisby attemptingto fit a linear model diJectlycan obscurethe main patternsof association
+in the data.Accordingly, in the main analysis we replacedeach faecal indicator concentration
+datum by dummy variables indicating the quartile the datum occupied.The actual data were
+only used in modelling if a progressive increase in risk through the quartiles was found
+Statistically significant (at a 5% significancelevel) relative risks were also re-expressedas risk
+differencesfor any exposurecategory,with adjustmentfor confounders(such as gender and
+food intake), using the sparsedatasetmethod of Greenlandand Robins (1985) to obtain the
+~
+approximateconfidenceintelVals.
+
+Health effectsof ma
+
+Tasman:
+
+Results
+Bacteriological data
+
+~
+
+40.5
+
+There were 107 beach-interview days, for each of which four samples (two times at two depths)
+wece analysed for three indicators; 1284 total data (33 were reported as 'missing', two were
+reported as 'greater than' a limit (>300 E. coli and >200 enterococci per lOOmL at
+Paraparaumu on 15 January 1995); d1esedata have been replaced by dJat limit in all analyses
+reported herein. A further 123 data were reported as < I per lOOmL; ~
+have all been
+replaced by O.S per lOOmL. Some 51 data were reported as zeros.
+All water sample data are summarised in boxplot fonn on Fig. 2, plotted on a logarithmic axis
+to minimise the Stroog skew of the data disbibutions (which is typical for aquatic bacteriological
+data). The boxplot medians give the most appropriate indication of typical indicator values for
+the seven beaches. Indicator concentrations at the putatively impacted beaches tended to be
+surprisingly low, most particularly for the Paraparawno Beach (e.g. 8.5 enterococci pec lOOmL)
+which had shown rather higher summer medians in p-evious years. NevMbeless, there were
+occasional breaches of the single-sample maximum for a designated bathing beach (104
+enterococci per lOOmL. Department of Health 1992). Some of these at least (especially at
+Rabbit Island) were the after-effects of wet weather. The physical pooling of samples for each
+depd1 aDd time may have ~~-OO further breaches of individual samples.
+The standard deviation of the logarithms for each beach is typically around 0.6-0.8, similar
+to d1c results of CabeIli (1983), and disbibutions are approximately log-DOImal. Indicator
+densities in d1e morning samples tended to be higher than those collected in the afternoon (by
+40, 50 and 20% for faecal coliforms, E. coli and enterococci respectively). This is a likely
+consequence of factors such as tidal effects, the afternoon samples having greater exposure to
+sunlight Indicator densities from knee-depth water were coosisteody higher: dJaD those from
+chest-depth water (by 60, SOand SO%for faecal coliforms, Eo coli and enterococci respectively).
+Similar patterns have been observed elsewhere (Jones et al. 1989). These proportional
+differences tended to increase with indicator concentration.
+
+p
+fig. L Location of t
+'rural' beaches ObI
+
+P~umu
+
+.
+
+andRaJ
+
+
+
+McB~
+
+179
+
+eta!,
+
+olute risk andrisk
+~ the cumulative
+lineargeneralised
+~ perfonnedwith
+..e.thosewho did
+lIes;paddling and
+
+South Pacific Ocean
+
+.
+
+cornmencingan
+ms of association
+Itorconcenb'ation
+actual data were
+:tiles was found.
+
+ex~asrisk
+
+~ as genderand
+85) to obtain the
+
+es at two depths)
+ssing', two were
+per lOOmL at
+it in all analyses
+Ie have all been
+logarithmic axis
+c bacteriological
+icator valuesfCK
+ICStended to be
+xci per lOOmL)
+~Iess.there were
+jog beach (104
+st (especially at
+:amplesfor each
+0.6-0.8. similar
+)nna1. Indicator
+~ afternoon(by
+This is a likely
+ater exposureto
+tbandlOsefrom
+~i respectively).
+se proportional
+
+1ro-E
+
+175-e
+
+0I
+
+~..
+I
+
+FIg. 1. Locatioo of the sevenNew 7-1aod bcacbca;'control' bcacbcs,Rabbit Island and Wendcrbolm;
+'rural' beacbes, Obopc and Spcnccrville; 'oxidation pond' beaches, Omaou (Mount Maunganui),
+ParaparaumuaDdRaglan.
+
+1
+
+
+
+McBride et aI.
+
+180
+
+Table 1. Faecalindic
+
+10000
+...
+
+E
+oS
+"i
+c.I
+";
+c.I
+
+~
+
+Health effects of nit
+
+1000
+
+Statistic
+100
+
+O%ile (minimum)
+25%ile (lower quartill
+50%ile (median)
+75%ile (upper quartill
+lOO%ile(maximum)
+
+10
+
+.
+~
+
+I
+
+Derived from daily arith
+
+10000
+
+In modelling, tht
+used (becausethe r
+could not associate
+missing values (2.~
+'daily meanfor eact
+1 displays key perl
+different from thoS4
+
+1000
+==
+
+e
+~
+
+100
+10
+I
+
+Table 2. Beach and
+
+10000
+
+1000
+100
+
+Usable responses
+no. of interview dl
+total records
+disqualified
+remaining for anal
+
+10
+
+1
+
+~
+
+/"-
+
+(1)
+
+(2)
+
+CONTROL
+
+/
+
+(3)
+
+RURAL
+
+/
+(4)
+
+(5)
+
+(6)
+
+OXIDATION
+
+(7)
+
+POND
+
+Fig. 2. Boxplots of the three faecal indicator densities at the seven beaches. Logarithmic axes are used to
+reduce skewness (and so aIlS1 zeroes in the dataset have been replaced by 0.5). All data are shown (i.e.
+before daily means for each beach have been computed), regardless of time or depth of sampling.
+Horizontal lines display the historical median faecal coliform limit for classified waters (200 per 100mL
+for ~ 5 samples in S 30 days); enterococci median badting season limit and single sample maximum for
+a designated bathing beach for current guidelines (35 and 104 per 100mL respectively, De~nt
+of
+Health 1m).
+
+Number of illnesses
+HCGI
+POSSGI
+ANYGI
+RESPI
+OSPRI
+Absolute illness risk!
+HCGI
+POSSGI
+ANYGI
+RESPI
+
+
+
+McBride et aI.
+
+181
+
+Health effects of marine bathing in New Zealand
+Table 1. Faecalindicatorquartilesusedin modelling
+E. coli
+(per 100mL)
+
+F Mcal coli/omr.r
+
+Statistic
+
+I
+
+I
+
+0%i1e(minimwn)
+25%ile (lower quartile)
+50%ile (median)
+75%ile (Oppel'quartile)
+lOO%ile(maximwn)
+
+(~r ]OOmL)
+
+0.375
+3..5
+8
+3.1
+724
+
+EntmKocci
+
+(per 100mL)
+0
+1.5
+3.75
+13
+232.2S
+
+0
+3
+6
+28.25
+552
+
+.;
+~
+
+..
+.
+.
+
+"
+
+tn.D daily 8ritbmetic meaaab e8C:hbe8I:h(107 beD-days in tOC8l,~
+
+Table 2).
+
+In modelling, the arithmetic meanindicator concentrationfor each beach for ~h day was
+used (becausethe mobility of swimmersand their variable times of swimming meant that we
+could not associateparticular swim events with a particular sample).The small proportion of
+missing values (2.6%) meant that there were always sufficient data to enablecalculation of a
+daily mean for eachbeach,though occasionallythis was the meanof thtee or two values.Table
+I displays key percentilesfor thesedaily beach means.The medians for these data are little
+different from those foc the raw data.
+
+Table 2. Beach aOOfollow-up interviews; illness frequenciesand risks
+
+Beach
+
+rJ
+,
+(7)
+
+~
+!Caxes are used to
+Ita are shown (i.e.
+'Pth of sampling.
+; (200 per lOOmL
+!pIe maximum for
+
+(y, Departmentof
+
+Usable responses
+no. of interview days
+totalrecords
+disqualified
+remaining fCKanalysis
+
+1
+
+2
+
+J
+
+4
+
+s
+
+20
+56S
+168
+391
+
+14
+1488
+366
+1122
+
+16
+912
+281
+631
+
+8
+218
+107
+111
+
+9.10
+3'1
+'99
+
+10
+IS
+2S
+13
+20
+
+17
+11
+28
+20
+38
+
+7
+4
+11
+10
+14
+
+14
+24
+38
+19
+36
+
+9
+13
+
+27
+17
+44
+32
+60
+
+63
+36
+99
+90
+126
+
+23
+40
+63
+32
+60
+
+Number of illDeSses
+HCGI
+POSSGI
+ANYGI
+RF3PI
+OSPRI
+
+4
+9
+8
+11
+
+Absolute illness riskI per 1<XX>
+individuals
+HOOI
+POSSGI
+ANYGI
+RESPI
+OSPRI
+
+13
+10
+23
+20
+28
+
+oS
+
+2212
+18
+
+17
+
+6
+
+1
+
+Total
+
+17
+IS
+836 S64
+241 132
+S9S 432
+
+107
+5533
+1646
+3887
+
+12
+12
+24
+14
+~
+
+8
+20
+28
+27
+24
+
+73
+90
+163
+III
+163
+
+20
+20
+40
+24
+34
+
+19
+46
+65
+63
+56
+
+19
+23
+42
+29
+42
+
+
+
+182
+
+McBride et at
+
+Table 3. Absolute risb in the four quartiles of enterococciconcentration
+
+Health effects of m
+Table 4. Crude risk I
+
+Enterococd quartile
+ExpoSUR
+
+Low.st
+
+Second
+
+~
+
+T1u"ni
+
+TotaF
+
+Highut
+
+Paddlers
+
+HCGI
+
+Swimmen
+
+non-exposed
+paddlers
+swimJDerW
+swam < 30 min
+swam > 30 min
+
+InlSb
+9
+10080 26
+41214 19
+6/166 36
+
+ANYGI
+non-exposed
+paddlers
+swiJDmen
+swam < 30 min
+swam> 30min
+~PI
+non-exposed
+paddlers
+swimmers
+swam < 30 min
+swam > 30 min
+
+VIIS
+9/380
+4/214
+S/I66
+
+. TIwee ~~
+
+17
+
+1/93
+~27
+3/166
+3/161
+
+11
+18
+18
+19
+
+3I8.S
+5/311
+2/146
+3/165
+
+3S
+16
+14
+18
+
+211380 55
+12fl14 56
+9/166 54
+
+2J93 22
+18/327 SS
+9/166 54
+9/161 .16
+
+3I8S 3S
+20011 64
+SII46 34
+1S116S91
+
+9
+24
+19
+30
+
+1m
+11
+12/327 37
+SII66 30
+
+2J8S
+13/311
+2/146
+lUI6S
+
+2/115
+
+7/161
+
+43
+
+f8iIed to reJ'(Kt die durMion of lwimming:
+
+3184
+4/182
+2/100
+2/82
+
+36
+22
+20
+24
+
+4M3O7 17
+8/377 21
+25/1200 21
+11/626 18
+14/514 24
+
+3/84
+1'11182
+5/100
+7/82
+
+36
+66
+SO
+85
+
+81/2307 3S
+10/377 27
+7UI200 59
+3U626 SO
+4fYS74 70
+
+24
+42
+14
+67
+
+7/84
+83
+13/182 71
+4/100
+40
+9/82
+110
+DOlle repcwIed HOOI, ODe~
+
+swam
+
+significant finding~
+further analysis bec
+illness risks in the c
+did not show an ur
+are not discussed f
+risks for exposed f
+faecal indicator COI
+
+S2/2307 23
+Iltm
+29
+47/1200 39
+1S/626 24
+31JS14 S6
+ANYGI
+
+< 30 min
+
+swam>30min
+
+Modelling
+Adjustment of res!
+confounders- geo(
+all individuals repo
+interview; only fly(
+
+md
+
+one repcxted RESPI.
+
+bRatio iI numberof cuel/number of iDdivldu8ll; UDgJenumben ~ nab per 1000 iDdividuala.
+
+Table 5. Relative rif
+
+Beachand follow-up interviews
+Table 2 suuunarisesdie basic data for the 107 beach-interviewdays over die seven beaches.
+Tb~ were no interviews at Spencervillebetween181anuaryand 18 Februarybecauseof poor
+weather.Most beachusersagreedto be interviewed. Of the 5533 completedfollow-up (postal
+or telephone)interviews some 30% were not usable, becauseof: duplicate records (28), no
+follow-up (56), swam in the next 3 days (1540), pre-existing symptoms (19), and
+incomprehensibledata (3). Of the remaining 3887 responses2407 were femalesand 1480 were
+
+males.
+
+All-exposedgrollpS
+by enterococci
+quartile" V" nonexposedgroup
+based011n =
+
+387.98
+All groups
+
+)
+
+non-exposed
+lowest quartile
+secondquartile
+third quartile
+highest quartile
+
+Defining 'exposure' to be the act of entering the water.there were 1577exposedindividuals,
+of whom 1200 were swimmers (immersing the head).Paddlers(not immersing the head) were
+not concenttatedin any particular age group.
+
+age-adjusted
+lowest quartile
+secoDdquartile
+tbirdquartile
+highest quartile
+
+Absolute and relative risks
+Table2 also gives absoluteillness risks, regardlessof whethersubjectsenteredthe water,being:
+19,23,42,29 and 42 per I(xx) individuals for HCGI. POSSGI,ANYGI, RESPI, and OSPRI,
+~tively.
+Absoluterisks for HCGI. ANYGI and RESPIfor subjectsin the different exposure
+categcxiesquartiles are given in Table 3. HCGI is of particular interest becauseof its preeminencein a number of studies; the latter two are included becauseour results demonstrate
+
+. Eight recxJrdshad IDi1
+p-value ~ probability .
+
+CI = confidence
+i~
+
+1
+1
+
+
+
+~
+
+McBride et al.
+
+183
+
+Health effects of marine bathing in New kaland
+Table 4. Cmde risk differences(unadjusted)per 1,000 individuals
+Group
+
+Tota..
+
+Paddlms
+Swimmen
+swam<30min
+swam>30min
+
+40123(17 17
+8/377
+21
+25/1200 21
+11/626 18
+1074
+24
+
+3
+1
+)
+)
+
+8112307
+10077
+71/1200
+31/626
+4G'S74
+
+3S
+27
+S9
+~
+70
+
+'2/23(17
+
+23
+
+11/377
+47/1200
+lW26
+311514
+
+29
+39
+24
+~
+
+t1ed ANYOI
+
+:he water, being:
+:PI, and OSPRI.
+fferent exposure
+ause of its pre11tsdemonstrate
+
+3.9
+3.5
+0.3
+7.1
+
+negative
+24.1
+14.4
+34.6
+
+6.7
+16.7
+1.5
+33.2
+
+Table5. Relativerisksof HCGI.ANYGI AU-c:rpo.red
+
+~the head) were
+
+RESPI
+
+Modelling
+Adjustment of results for the age confounder was always found to be necessary.The other
+confounders
+- gender,food intake and animal contact- had very little effe(:t on results.Nearly
+all individuals reporting illness consumedpotentially illne5s-causingfoods before or after beach
+interview; only five individuals of all 3887 ate none of thesefoods. Contactwith animals(other
+1
+
+>sedindividuals.
+
+ANYGI
+
+significant findings for them, particularly for RESPI. OSPRI and POSSGI are excluded from
+further analysisbecausesignificant resultswere not obtainedfor them. Table 3 gives thesethree
+illness risks in the enterocOC(:i
+quartilesonly. The other indicators (faecalcolifonns and E. coli)
+did not show an unequivocalincreasein illness risks dJrougbd1equartiles, so results for them
+are not discussedfurther. Table 4 shows crude risk differences(i.e. d1edifference in absolute
+risks for exposedand noo-exposedindividuals, unadjustedfor confoundersand regardlessof
+faecal indicator concentration).Theseare derived from the absoluterisks given on Table 3.
+
+8IMI
+
+~sevenbeaches.
+becauseof poor
+ollow-up (postal
+records(28), no
+oms (19), and
+s and 1480we('e
+
+HCGI
+
+RESPIb aJI-expo8ed.
+by enterococci
+quartile
+
+gmIIp.f
+
+by mterococci
+quartile.r v.r lIOII~'n)IIp
+ba.red on PI =
+
+3879"
+
+RESPI
+
+ANYGI
+
+HOOf
+Risk
+ratio p-value 951J1a
+
+Risk
+ratio p-value 95C11
+a
+
+Risk
+ratio p-value 95., CI
+
+1.0
+
+All groups
+non-exposed
+lowest quartile
+secondquartile
+thirdquartiJe
+highest quartile
+
+1.28
+0.97
+1.16
+1.52
+
+0.46
+0.93
+0.69
+0.30
+
+0.66-2.48
+0.44-2.14
+0.s~-2..7
+0.69-3.36
+
+1.0
+1.32
+1.29
+1.~
+1.61
+
+0.23
+0.30
+0.029
+0.~1
+
+0.84-208
+0.79-211
+1.05-2.59
+0.94-275
+
+1.0
+0.90 0.75 0.46-1.75
+1.38 0.29 0.76-2.51
+1.68 0.072 0.95-2.95
+3.35 <0.001 2.03-5.51
+
+age-adjusted
+lowest quartile
+secondquartile
+third quartile
+higbestquartile
+
+1.13
+0.84
+1.00
+1.38
+
+0.73
+0.68
+0.99
+0.43
+
+0.58-220
+0.38-1.89
+0.47-2.15
+0.62-3.07
+
+1.18
+1.13
+1.43
+1.44
+
+0.49
+0.64
+0.12
+0.19
+
+0.74-1.8S
+0.69-1.84
+0.91-2.26
+0.84-2.46
+
+0.77 0.46 0.40-1.51
+1.18 0.59 0.65-2.15
+1.40 0.1.4 0.M)-2..7
+2.91 <0.001 1.77-4-.77
+
+.
+
+Blbt ~
+badmissina~.
+p-value = probability of getting a risk ratio aleut
+C! . confidenceiDtCIVal,
+
+this far from 1,0 if die tnIC ratio were 1.0.
+
+
+
+~
+
+184
+
+McBride et 81.
+
+Health effectsof n
+
+Thble 6. Relative risk of illness for groups exposedto enterococciquartiles. comparedto non-exposed.
+by the addedexposuresof paddling and swimming
+E:.tpo~ classfor illness category
+
+Quartile]
+
+Qua11ile2
+
+HCGI
+All exposed
+without head under ('paddlers')
+with headunder
+with head under, swam < 30 min
+with head under, swam> 30min
+
+1.13
+0.52
+1.28
+0.94
+1.69
+
+ANYGI
+All exposed
+without head under ('paddlers')
+with head under
+with head under, swam < 30 min
+with head under, swam> 30 min
+RESPI
+All exposed
+without head under ('paddlers')
+with headunder
+with head UDder.swam < 30 min
+with head under, swam> 30 min
+
+. Statistically significant
+= 3879 (eight records
+
+n
+
+Quartik3
+
+Quartile 4
+
+0.84
+0.67
+0.88
+0.91
+0.86
+
+1.00
+2.13
+0.76
+0.71
+0;81
+
+1.38
+2.30
+1.06
+1.05
+1.08
+
+1.18
+0.50
+1.36
+1.42
+1.30
+
+1.13
+0.65
+1.25
+1.19
+1.33
+
+1.43
+1.~
+1.54
+0.90
+2.04-
+
+1.44
+1.09
+1.58
+1.28
+1.91
+
+0.77
+0.41
+0.86
+0.71
+1.~
+
+1.18
+0.54
+1.30
+1.08
+1.58
+
+1.40
+1.22
+1.43
+0.53
+2.14*
+
+2.91.
+4.53.
+2.46.
+1.59
+
+~
+c
+
+a
+!
+1
+c
+a
+
+Fig. 3. Respiratory
+
+Variation among t
+Table 8 showsthat
+pond' and 'rural' 1
+for the other illne1
+pond and rural ~
+the log-linear moc:
+similar results (no
+
+3.31.
+
+at die S% level (9S% CI excludes 1.0).
+had missing information).
+
+d1anpets) was made by 433 individuals, but illness reporting risks with and without contact
+were very similar.
+Results of modelling relative risk for the three remaining illness risks (HCGI, ANYGI.
+~PI)
+for all the exposedgroups versusenterococciquartile are shown on Table 5, for both
+raw and age-adjustedresults.This showsclear evidenceof a statistically significant association
+betweenrespiratoryillness (RESPI) and enterococciconcentration.Similar tablesfor the other
+two indicators failed to show any such pattern; faecal colifonns and E. coli tendedto exhibit
+anomalouslyhigh risks in the first andthird quartiIes.Table6 displayshow the predictedrelative
+risks varied amongdegreesof exposure,showingthat RESPIincreasedthroughthe quartilesfor
+all casesexceptfor subjectswho swamfor a short period (where thereis a drop in relative risk
+betweenthe secondand third quartiles).The RESPI results are also demonstratedon Figure 3.
+The relative risk for RESPI for groups exposed to enterococci quartiles were consistently
+significantly elevatedin the upper (fourth) quartile.The relative risk of ANYGI is only elevated
+significantly in the third enterococciquartile for thoseat greatestrisk (long-durationswimmers),
+although the risk is similar, but not significant. in the fourth quartile.
+The statisticallysignificant relative risks for RESPIhavebeenre-expressedasrisk differences
+on Table 7, ranging from 42 to 75 casesper 1000 individuals.
+Modelling using deciles to identify some fonn of linear relationship between RESPI and
+enterococci did not generate consistent results, i.e. illness risk did not uniformly increase
+through the deciIes. Similar inconsistency was found when using the actual enterococci
+concentrationdata.
+
+Discussion
+The numberof usa
+of the study.Then
+individuals had sv
+
+Table 7. Risk diffa
+Illne.rs
+
+1
+1
+1
+~
+
+EIIl
+
+ANYOI
+RESPI
+RESPI
+RESPI
+RESPI
+RESPI
+
+.
+
+risk differeIK:eper I,
+
+b age-adjusted approxil
+
+
+
+~
+McBride et aL
+d to non-exposed,
+
+~
+~
+
+3
+
+Quartile 4
+
+1.38
+2.30
+1.06
+1.05
+1.08
+1.44
+1.00
+1.58
+1.28
+1.91
+2.91*
+4.53*
+2.46.
+1.59
+3.31*
+
+~
+
+4
+
+,
+
+"
+~
+
+~
+
+~
+"&
+"i
+~
+
+~
+
+~
+
+I
+
+.
+.
+
+1
+
+~
+
+0
+
+Respiratory
+
+illness
+
+..,
+
+:
+
+2
+
+Enterococci
+
+3.
+
+/v~
+~
+
+1
+
+Fig.
+
+.
+.
+
+,-:::~~~~Jr:~~:::f::
+~~
+~=- - --: --
+
+2
+
+.
+
+~
+
+18S
+
+Health effects of marine bathing in New Ze4land
+5 I
+~--
+
+risks
+
+through
+
+the
+
+enterococci
+
+:
+
+,
+
+4
+
+3
+
+quartile
+
+quartiles.
+
+~
+~
+~
+
+~
+
+Variation among the beachesand with depth
+Table 8 showsthat predictedrelative risks for RESPI were significantly higher at the 'oxidation
+pond' and 'rural' beachtypes comparedto die 'control' beaches.Similar results were obtained
+for the other illness categories.Respiratoryillness risk was very significant at both oxidation
+pond and roral beacheswhen in the highest enterococciquartile. Relative risks calculatedwith
+the log-linear model when using only the 'child depth' or 'adult depth' enterococcidata gave
+similar results (not shown).
+
+without contact
+flCGI, ANYGI,
+'able5, for both
+cant association
+leg for the other
+:nded to exhibit
+redictedrelative
+the quartiJesfor
+) in relative risk
+:edon Figure 3.
+~ consistently
+is only elevated
+ion swimmers),
+
+~
+
+Discussion
+
+~
+
+The numberof usableresponseswas fewer than that hopedfor (about6000),reducingthe power
+of the study.There were three main reasonsfor the short-fall: (1) it was often found that many
+individuals had swum in the previous 3 days, and so were immediately disqualified from the
+
+~
+-1
+
+~
+
+~
+~
+
+risk differences
+:en RmPI and
+'ormIy increase
+Ja1 enterococci
+
+~
+
+.
+~
+~
+'*
+
+Table 7. Risk differencesfor significant results on Table 6
+
+Illness
+
+Enterococciquartile
+
+ANYGI
+RESPI
+RESPI
+RESPI
+RasPI
+RasPI
+
+3
+4
+4
+4
+3
+4
+
+a ri&k difference F
+
+Exposed
+Swam> 30 min
+All
+PaddJer
+Swimmer
+Swam> 3Omin
+Swam> 3Omin
+
+l,<XX>individuals; number in ~dICaes
+
+b age-adjusted approximate confidence intervals (using ~and
+
+Risk difference"
+
+9SCJI
+cP
+
+48 (56)
+49 (53)
+66 (62)
+42 (49)
+36 (44)
+75 (87)
+
+4-92
+17-80
+9-123
+
+is raw value before adjustment
+and Robbins 1985).
+
+S-79
+-2-74
+
+9-141
+
+
+
+~
+
+186
+
+McBride et aI.
+
+Health effects of nil
+
+Table8. Age-adjusted
+relativerisk of RESPIfrx alI-exposed,
+by beachandenterococci
+quartile
+Exposedgroups by
+enterococci
+q~l1iles vs nonexposedgroup by
+beach based on n
+
+= 3879"
+Lowest quartile
+Secondquartile
+Third quartile
+Highest quartile
+
+.
+
+Control beachu
+
+Risk
+
+Risk
+
+ratio p-~
+0.60" 0.27
+0.53
+0.28
+O.76b 0.79
+
+Oxidation pond beaches
+
+95~ CI
+
+ratio p-value
+
+95/11CI
+
+0.24-1.49 1.15 0.78 0.43-3.10
+0.17-1.68 1.89 0.13 0.84-4.28
+0.11-5.37 1.66 0.13 0.85-3:21
+3.17 <0.001 1.81-5.55
+
+among paddlers. a
+
+1000 individuals (;
+enterococciquartile
+The aetiological
+althoughit is genet
+respiratoryillness (
+of the genusKlebsi
+of aerosolscontaini
+1990, Grimont et (
+generatedaerosols
+the observedcorrel:
+explanationthat C8I
+presenceof a respi
+The results of th
+guidelines (Departl
+depthto kneedepth
+will be welcomed1
+no separationbetwl
+differencebetween
+guidelinesis being
+before the median
+
+RJIrDl beociru
+
+Risk
+ratio p-value 95.., C1
+0.88
+1.86
+1.05
+2.97
+
+Eight ~rds
+had missing jnfomlation.
+b The upper two quartiles were combined for control beaches (for technical reasons). p-value
+
+=
+
+0.90
+0.22
+0.92
+0.008
+
+0.13-6.11
+0.69-4.99
+0.39-2.85
+1.33-6.60
+
+probability
+
+of
+
+getting a risk ratio at least d1is far from 1.0 if d)e true ratio were 1.0.
+
+study; (2) towardsthe end of the study it was increasinglyfound that an individual approached
+at the beachhad already been interviewed on a previous day; (3) poor weatherat Spencerville
+meant that this beach was often poorly patronised.
+The study designsoughtto minimise the effect of confounding,e.g. interviewer bias (asfound
+by Lightfoot 1989). We removed the main alternative source of possible gastrointestinal
+infection on or after the interview day by excluding personswho had swum anywherein the 3
+days precedingor following the beachencounter.We could not control for food sourcessince
+almosteveryonehad eatenfoods that could potentially causesuchillness during thosedays.The
+alternative 'controlled cohort' design, in which volunteersare split at random into swimming
+and non-swimming cohorts, has some considerableadvantages(see especially Fleisher et aL
+1996). It was not favoured for this study becauseit does not representthe nonnal usageof a
+beachfor which, ultimately, policy guidelinesare required.
+The study analysishas also considereda number of possibleconfounders(age, food intake,
+gender,animal contact).The analysishasusedthe poolednon-exposedillness ratesfor all seven
+beaches.At six of those beachesthe non-exposedpopulationshad similar ratesof HCGI (and
+RESPI). The seventhbeachhad a significantly higher rate. However, this beachhad between
+one-quarterand one-tenththe study size of the other beaches- just S3 non-exposedpersonsof
+whom threereportedHCGI (six had RESPI).As the non-exposedrate for this beachis far less
+reliable thanratesat the other six beachesthis small aberrantresult wasnot consideredsufficient
+to discountdle assumptionof a constantbackgroundrate of GI or RESPI usedin the study.This
+rate was therefore estimated from the non-exposedpersons at all beaches. (It could be
+speculatedthat the causeof the higher 'non-exposed'rates at this beach could be the poorer
+weatherexperiencedthere, so that the non-exposedpaddledin normal clothes and were in fact
+exposedlike paddlers;this possibility was not coveredby the questionnaire- it may be wise for
+future studiesto do so).
+The illness risk that may be attributableto swinuning is of primary interestin this study. On
+an internationalscale,theserepresentrather low risks (i.e. the crude risk differencesshown on
+Table 4), consistentwith relatively uncontaminatedwater. Nevertheless,elevatedillness risks
+for thosewho swam for more than half an hour is notable,as is also the respiratoryillness risk
+
+Conclusions
+An association ~
+no unequivocal ass
+were for respira~
+more than 30 miD).
+illness and enteroc
+No evidence has
+basis of the type 0
+treating human was
+significantly lower
+
+.,
+
+,
+t
+
+Raglan, Paraparam
+significant differeD
+The ability to
+relationship, wasC«
+at the impacted hi
+quartiles of indica
+would require a gf(
+1994/95 studies, as
+may not be feasibl
+could .make such c
+These results ar
+relative culturabilit
+and because of the 1
+the most commonl:
+
+
+
+Health effects of marine OOthingin New Zealand
+
+McBride et al
+cci quartile
+
+187
+
+among paddlers.Crude (unadjusted)risk differencesfor dlese two groups were 7 and 33 per
+l(xx) individuals (see Table 4), rising to 62 and 87 per 1<XX>
+individuals for die highest
+enterococciquartile (fable 7).
+The aetiological agent(s)of the respiratory symptomsrecordedin this study are unknown.
+although it is generally recognisedd1ata number of ~al
+and viral pathogenswhich cause
+respiratory illness (e.g. membersof the enterovirusand adenovirusgroups,and certain species
+of the genusKlebsiella) are shedin faecal matter.Infection is generally acquiredby i!l1!alation
+of aerosolscontaining theseinfectious particles(Horwitz 1990,Melnick 1990,1)ler and Fields
+1990, Grimont et aL 1992), and the potential for transmissionof viral pathogensvia wavegeneratedaerosolshas beendemonstrated(Baylc:.:et aL 1977).While this explanationsupports
+the observedcorrelationbetweenrespiratorysymptomsand faecalcontamination,an alternative
+explanationthat cannotbe overlookedis that someproportion of the symptomswere due to the
+presenceof a respiratory irritant rather than an infectious agent
+The results of thesestudies are being used for proposedchangesto the cuaent provisional
+guidelines (Departmentof Health 1992). Sampling depths will be changed from adult chest
+depth to kneedepth (the resultsbetweenthe two depthswere little different in this study), which
+will be welcomedby thosedoing the samplingas safer and more practical. Also, there will be
+no separationbetweenanimal-impactedand human-impactedbeaches(the results showedlittle
+diffeIeDCebetweenthesetwo categories).The formulation of single-samplemaxima in current
+guidelines is being revised,becauseresults (Fig. 2) show that exceedancesoccur considerably
+before die median limit is approached.
+
+WmlbeQcAu
+-
+
+95* CI
+0.90 0.13-6.11
+0.22 0.69-4.99
+0.92 0.39-2.85
+O.<m 1.33-6.60
+
+pnIbIbilityoi
+
+idual approached
+~ at Spencerville
+(er bias (asfound
+: gastrointestinal
+nywhere in the 3
+00 sourcessince
+~ thosedays.The
+} into swimming
+Iy Fleisher et al.
+)rma1usageof a
+
+ConclusiolW
+An association between illness and enterococci (mE, EIA method) concenttation was found, but
+no unequivocal associations were found for otbtt indicators. The most significant associations
+were for respiratory illness among paddlers and long-duration swimmers (those swimming for
+more than 30 miD). To a lesser extent, an association between symptoms of 'any' gastrointestinal
+illness and enterococci concentration was detected for the long-duration swimmers.
+No evidence has been found to suggest any merit in ~parating beachgoers' illness risks on the
+basis of the type of faecal material pesent (i.e. from nIra1 areas versus from oxidation ponds
+treating human wastes). Dlness risks at d1econb'Ol beaches (Wenderholm and Rabbit Island) were
+significantly lower than at beaches believed to be impacted by oxidation pond effluent (Omanu,
+Raglan, ParaparaDmu) and by rural runoff (Obope and Spencerville). There was, however, no
+significant difference in illness risks between the two types of impacted beaches.
+The ability to detect more significant health effects, and to quantify a dose-response
+relationship, was compromised by the (unexpectedly) low levels of indicator 0Iganisms detected
+at the impacted beaches surveyed. This has meant that our analysis has been restricted to
+quartiles of indicator densities. Any future studies aimed at strengthening these conclusions
+would require a greater:range of faecal contaminAtion than occun'ed at the chosen beaches in the
+1994/95 studies, as well as a sufficient number of bathers being available at such beaches. This
+may not be feasible, particularly as continuing improve~nts in waste beatment and disposal
+could.make such conditions unlikely.
+These results are not applicable to recreational use of freshwater, particularly because die
+relative culturability of enterococci versus otbtt indicators is different for fresh and saline waters
+and because of the possible existence of enterococci of non-faecal origin in freshwater. In general.
+the most commonly used indicators of faecal pollution are more persistent in freshwaters.
+
+age, food intake,
+ties for all seven
+:s of HCGI (and
+iCh bad between
+posedpersonsof
+beachis far less
+.ideredsufficient
+In the study.This
+'8. (It could be
+Id be the poorer
+and were in f~t
+may be wise for
+in this study.On
+rencesshown on
+!led illness risks
+atory illness risk
+1
+..
+
+
+
+~
+
+.188
+
+McBride et al.
+
+Health effectsof
+
+Acknowledgements
+
+Fleisher.
+
+Dr AndreaDonnisoncollaboratedwith Dr Gillian Lewis in organisingandrunning the analytical
+workshop. Mr Murray Cameron (Ministry for the Environment) co-ordinated multi-agency
+input. Mr Chris Hatton (Auckland Regional Council) provided the impetus for the work. Field
+supervisorswere: Ms JaneMacGibbon,Ms Fiona Young,MrTIm Bartley, Dr JoanneDeely, Mr
+Neil Pilbrow, Ms Shirley Hayward,Ms Jude.Brown,Mr MUITaYBoardmanandMr SteveWhite.
+Analytical supportwas given by: Mr Ron Fyfe, Mr Bruce Fletcher,Mr Dave Bassett,Mr Neil
+Pilbrow, Ms Shirley Hayward,Ms Helen Sillars, Mr Jim May, Mr Ian Buchanan.Reviews were
+obtainedfrom Dr Edmund Pike (WaterResearchCentre,Medmenham,England)and Dr Robin
+Philipp (Director, WHO CollaborativeCentrefor EnvironmentalHealth Promotion & Ecology,
+Bristol). Dr Michael Taylor (Ministry of Health) provided useful input to the discussion.
+Funding for these studieswas obtainedthrough the New ZealandPublic Health Commission,
+the New Zealand Department of Health, the New Zealand Ministry for the Environment,
+Auckland RegionalCouncil. the Australia andNew ZealandEnvironmentConservationCouncil
+and the New ZealandFoundation for Research,Scienceand Technology(contract COl403).
+
+References
+APHA (1989)StandardMethodsfor the Examinationof Waterand Wastewater,17thedn.Washington,DC:
+American Public Health Association.
+Baylor, E.R., Baylor, M.B., Blanchard,D.C., Syzdek,L.D. andAppel, C. (1977) Vnus transfer from surf
+to wind. Science198, 575-80.
+Cabelli, VJ. (1983) Health Effects Criteria for Marine Recreational Waters. EPA-600/1-80-031.
+Cincinnati, OH: US EnvironmentalProtectionAgency.
+Cabelli, VJ. (1989) Swimming-associatedillness and recreationalwater quality criteria. WaterSci. Tech.
+11, 13-21.
+Cabelli, VJ., Dufour, A.P.,McCabe,LJ. and Levin, MA. (1982) Swimming-associatedgastroenteritisand
+water quality. Am. J. Epidemiol. 115, 606-16.
+Calderon,R.L., Mood. E.W. and Dufour A.P. (1991) Health effects of swimmersand nonpoint sourcesof
+contaminAtedwater. Int. J. Environ. Health Res. 1, 21-31.
+Cheung,W.H.S. (1988) Health effects of beachwater pollution in Hong Kong. In Pollution in the Urban
+Environment,Polmet, voL 88 (p. Hills, ed.), pp. 376-83. Hong Kong: Vmcent Blue Copy Co.
+Corbett, SJ., Rubin, G.L., Curry, G.K., Kleinbaum, D.G. and the Sydney Beach userS Study Advisory
+Group (1993) The health effects of swimming at Sydneybeaches.Am. J. Public Health 83 (12),
+1701-6.
+Dean,AG., Dean,lA., Coulombiec,D., Burton, AH., Brendel. KA., Smith, D.C., Dicker, R.C., Sullivan,
+K.M. and Fagan, R.F. (1994) Epi Info, Version 6. A word-processing,database,and statistics
+program for public health on mM-compatible microcomputers.Atlanta, GA: Centersfor Disease
+Control and Prevention.
+.
+Departmentof Health (1992) Provisional Microbiological WaterQuality Guidelinesfor Recreationaland
+Shellfish-gatheringWatersin New baland. Wellington: Public Health Services.
+El-Sharbwi, F. and Hassan,M.N.E.R. (1982) The relation betweenthe state of pollution in Alexandria
+swimming beachesand the OCCUITence
+of typhoid among bathers.BulL High Inst. Public Health
+Alexandria 12, 337-51.
+Fattal, B., Peleg-Olevsky,E., Yoshpe-PurerY. and Shuval H.I. (1986) The associationbetweenmorbidity
+among bathersand microbial quality of seawater.WaterSci. Tech18, 59-69.
+Fitzmaurice, l.R. (1987) Municipal wastewaterdisposal in New Zealand. Trans. Inst. Prof Eng. New
+baland 14 (1/CF;),9-21.
+
+J .M.. Ka~
+
+contamiDal
+United Kit
+Foulon. G., MauricI
+of warer aI
+~d,
+Soand
+data.Biom
+Grimont. F., Grim<
+(A. Balow
+York: Spri
+Holmes. P.R.(198!
+Manage. 3
+Horwitz, M.S. (1~
+Melnick, I
+
+IAWPRC(1991)]
+
+i
+~
+
+RelatedW
+Jones. F.. Kay. D
+epidemiol(
+of Wales.
+Kay. D.. Fleisher,.
+
+(1994) Pr
+exposure.
+Lewis, G.D. and
+waters.WI
+Lightfoot.N.E. (1
+
+t
+
+~
+
+t
+
+t
+~
+!
+
+Soudtern(
+McBride. G.B. (IS
+water', by
+Melnick, J.L. (199
+In "",log:
+SAS (1993) SASn
+Seyfried. PL.. Too
+illness. L :
+Seyfried,PL..Tob
+illness. ll.
+1071-6.
+Tyler, K.L. and Fie
+others, ed!
+USEPA(1986) Qu
+Protection
+WHO (1986) Con
+Copeohagt
+
+
+
+~
+McBride et aI.
+
+ling the analytical
+ted multi-agency
+Ir the work. Field
+JoanneDeely,Mr
+I Mr SteveWhite.
+Bassett,Mr Neil
+In. Reviewswere
+1d) and Dr Robin
+otion & Ecology,
+) the discussion.
+11thCommission,
+he Environment,
+;ervationCouncil
+ltract COl403).
+
+~
+f;:)o
+
+(:>
+
+~
+Washington,DC:
+transfer from surf
+?A-6OO'I-80-03 1,
+
+a. WaterSci. Tech.
+gastroenteritisand
+onpoint sourcesof
+Won in the UrbmI
+t Blue Copy Co.
+rs Study Advisory
+~c Health 83 (12),
+
+~. R.C..
+Sullivan,
+18se.and statistics
+~tcrs fOJ
+rDisease
+
+Recreationaland
+tion in Alexandria
+rrst.Public Health
+letween morbidity
+
+P"'fi Eng. New
+
+Health effects of marine bathing in New Zealand
+
+189
+
+Fleisher, JM., Kay, D., Salmon, R.L., Jones, F., Wyer, M.D. and Godfree, A.F. (1996) Marine waters
+contaminatedwith domestic sewage:nonentericillnessesassociatedwidt bather exposurein the
+United Kingdom. Am. J. Public Health 86 (9), 1228-34.
+Foulon, G., Mauri.n,1., Quoi, N. and Martin-Boyer, G. (1983) Relationshipbetweenthe microbial quality
+of water and health effects. Rev.Ftanfaise des Sciencesde l'&u 2, 127-43.
+Greenland,S. and Robins, I.M. (1985) Estimation of a common effect parameterfrom sparsefollow-up
+data. Biometrics 41, 55-68.
+Grimont, F., Grimont, P.A.D. and Richald. C. (1992) The GeDUSKlebsiella. In The Prokaryotes,2nd edn
+(A. Balows, H.G. Truper, M. Dworkin, W. Harder and K.-H. Schleifer, cds), pp. 2673-774. New
+York: Springer-Verlag.
+Holmes, P.R. (1989) ResearchiDtohealth risks at badling beachesin Hong Kong. J. Inst. WaterEnviron.
+Manage. 3, 488-95.
+Horwitz, M.S. (1990) Adenoviruses.In Virology,2nd edn B.N. Fields, D.M. Knipe, RM. O1annock.JL.
+Melnick. B. Roizman and R.E. Shope,eds), pp. 1723-43. New Yolk.: Raven Press.
+IAWPRC (1991) Bacteriophagesas model viruses in water quality control. (Study Group on Health
+RelatedWater Microbiology, A.H. Havelaar,cd). WaterRes. 7.5,529-45.
+lones, F., Kay, D., Stanwell-SmidI, R and Wyer, M. (1989) The Langland Bay controlled cohort
+epidemiological study, Final Report. Lampeter,Wales: St David's University College, University
+of Wales.
+Kay, D., Fleisher,I.M., Salmon,RL., Wyer, M.D., Godfree,A.F., Zelenauch-IacquoUe,Z. and Shore,R.
+(1994) Predicting likelihood of gasttoenteritis from sea badling: results from randomised
+exposure.Lancet 344,905-9.
+Lewis, G.D. and DoDnison,AM. (1994) Microbiological methods for monitoring saline recIeational
+waters. Wellington: Ministry of Health.
+Lightfoot, N.H. (1989) A prospective study of swimming related illness at six freshwater beachesiD
+SouthernOntario. UDpublishedPhD thesis, University of Toronto,
+McBride, G.B. (1993) Discussionof 'Health effects of swimmersand noDpointsourcesof CODtaminated
+water', by R.L. Calderon.H.W. Mood andA.P. Dufour. Int. J. EnvirorL Health Res.3,115-16.
+Melnick, IL. (1990) Enteroviruses:polioviruses,coxsackieviruses,echoviruses,and newer enteroviruses.
+In Virology, 2nd edn (B.N. Fields, and others,eds), pp. 549-606. New Yolk.: Raven Press.
+gAS (1993) SAS/INSIGHT User's Guide, Version 6, 2nd edn. Cary, NC: SAS Institute, Inc.
+Seyfried, P.L., Tobin, R.S., Brown. N.H. and Ness,P.F.(1985a)A prospectivestudy of swimming-related
+illness. I. Swimming-associatedhealth risk. Am. J. Public Health 75, 1068-70.
+Seyfried, P.L, TobiD,RS., Brown, N.E. and Ness,P.F.(1985b)A prospectivestudy of swimming-related
+illness. ll. Morbidity and the microbiological quality' of water. Am. J. Public Health 75,
+1071-6.
+lYler, K.L and Fields, B.N. (1990) PathogenesisofYiral infections. In Virology,2nd edn (B.N. Fields, and
+others, eds), pp. 191-240. New York: Raven Press.
+USEPA Protection
+(1986) Quality
+criteria for water 1986.EPA 440/5-86-001.
+Washington,DC: US Environmental
+Agency.
+.
+WHO (1986) Correlation betweencoastal water quality and healdt effects. Report ICP/CEH 001 m06.
+Copenhagen:World Health Organisation.
+
+

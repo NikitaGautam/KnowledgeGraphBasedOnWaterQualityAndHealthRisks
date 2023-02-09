@@ -1,0 +1,1304 @@
+Journal of Applied Microbiology ISSN 1364-5072
+
+ORIGINAL ARTICLE
+
+Effectiveness of qPCR permutations, internal controls and
+dilution as means for minimizing the impact of inhibition
+while measuring Enterococcus in environmental waters
+Y. Cao1, J.F. Griffith1, S. Dorevitch2 and S.B. Weisberg1
+1 Southern California Coastal Water Research Project, Costa Mesa, CA, USA
+2 Division of Environmental and Occupational Health Sciences, Institute for Environmental Science and Policy, University of Illinois at Chicago
+School of Public Health, Chicago, IL, USA
+
+Keywords
+Enterococcus, indicators, inhibition, PCR,
+qPCR, rapid methods, recreational water,
+water quality.
+Correspondence
+Yiping Cao, Southern California Coastal
+Water Research Project, 3535 Harbor Blvd,
+Suite 110, Costa Mesa, CA 92626, USA.
+E-mail: yipingc@sccwrp.org
+
+2012 ⁄ 0123: received 19 January 2012,
+revised 2 April 2012 and accepted 2 April
+2012
+doi:10.1111/j.1365-2672.2012.05305.x
+
+Abstract
+Aims: Draft criteria for the optional use of qPCR for recreational water quality
+monitoring have been published in the United States. One concern is that inhibition of the qPCR assay can lead to false-negative results and potentially inadequate public health protection. We evaluate the effectiveness of strategies for
+minimizing the impact of inhibition.
+Methods and Results: Five qPCR method permutations for measuring Enterococcus were challenged with 133 potentially inhibitory fresh and marine water
+samples. Serial dilutions were conducted to assess Enterococcus target assay
+inhibition, to which inhibition identified using four internal controls (IC) was
+compared. The frequency and magnitude of inhibition varied considerably
+among qPCR methods, with the permutation using an environmental master
+mix performing substantially better. Fivefold dilution was also effective at
+reducing inhibition in most samples (>78%). ICs were variable and somewhat
+ineffective, with 54–85% agreement between ICs and serial dilution.
+Conclusions: The current IC methods appear to not accurately predict Enterococcus inhibition and should be used with caution; fivefold dilution and the
+use of reagents designed for environmental sample analysis (i.e. more robust
+qPCR chemistry) may be preferable.
+Significance and Impact of the Study: Suitable approaches for defining, detecting and reducing inhibition will improve implementation of qPCR for water
+monitoring.
+
+Introduction
+Quantitative polymerase chain reaction (qPCR) offers
+the possibility of providing results of beach water testing
+within a few hours, compared with the 18–96 h
+required for culture-based methods (Haugland et al.
+2005; Noble et al. 2010). This speed provides the opportunity for beach managers to issue swim advisories on
+the same day that water samples are collected, potentially reducing swimmer exposure to poor quality water
+(Wade et al. 2008; Colford et al. 2012). As a result,
+ª 2012 The Authors
+Journal of Applied Microbiology ª 2012 The Society for Applied Microbiology
+
+these methods are already being used by health departments in demonstration projects (Griffith and Weisberg
+2011) and EPA has recently published draft Recreational
+Water Quality Criteria incorporating this technology
+(US EPA 2011a).
+A significant hurdle to be overcome before qPCR
+methods are widely implemented for water quality testing
+is the inhibition of the qPCR assay by interfering substances in water samples (Dorevitch et al. 2010; Griffith
+and Weisberg 2011; US EPA 2011a,b). The recently
+published draft Recreational Water Quality Criteria
+1
+
+
+
+Enterococcus qPCR inhibition
+
+recommends that ‘States evaluate qPCR performance with
+respect to sample interference prior to developing new or
+revised standards relying on this method for the purposes
+of beach monitoring’. However, the EPA has not provided guidance about how to evaluate qPCR performance
+with respect to inhibition.
+Inhibition occurs when substances present in a water
+sample interfere with PCR amplification, leading to target
+underestimation, which can, in turn, lead to false-negative
+results when applied to a beach closure scenario (i.e.
+keeping a beach open that should be closed). Inhibition
+can be caused by a range of physical, biological and
+chemical mechanisms. While inhibition is an issue for all
+qPCR methods in many application fields, there are a
+number of concerns particular to recreational water quality testing. First, ambient water is compositionally complex, containing many types of potential inhibitory
+substances, that is, inhibitors. Second, DNA purification,
+which commonly uses commercial DNA extraction kits to
+remove inhibitors, is not a simple option in this application because the added processing time leads to health
+warnings being posted too late in the day to adequately
+protect swimmers (Griffith and Weisberg 2011) and the
+extra laboratory steps associated with commercial extraction kits can add to measurement error (Noble et al.
+2010). Unpurified sample DNA is, therefore, used for the
+monitoring of bacteria concentrations in beach water (US
+EPA 2010).
+Other options for minimizing the effect of inhibition
+include dilution of the inhibitory sample (Haugland et al.
+2005) and use of internal controls (Haugland et al. 2005;
+Shanks et al. 2008; Noble et al. 2010). However, each of
+these options has potential shortcomings. For instance,
+dilution alleviates inhibition by reducing concentrations
+of inhibitors, but also lowers the target concentration
+potentially below detection limit. Similarly, internal controls (IC) are utilized on the premise that the IC and target assays respond to inhibitors the same way, which may
+not be assumed for a given pair of reactions (Huggett
+et al. 2008). Alternatively, qPCR condition such as composition of reaction mixture may be varied to increase
+the robustness of an assay to inhibition.
+The objective of this study was to examine the effectiveness of dilution, use of IC and varying qPCR conditions (composition of reaction mixtures including
+alternative primer ⁄ probes) in minimizing the impact of
+inhibition on applying qPCR methods for recreational
+water quality monitoring. We investigated the relative
+susceptibility to inhibition of five qPCR method permutations for enumerating Enterococcus for surface water quality applications, and we evaluated the effectiveness of
+dilution and IC as a means of resolving or identifying
+inhibition when it does occur.
+2
+
+Y. Cao et al.
+
+Materials and methods
+Approach
+Inhibition was assessed for 133 samples from diverse
+waters in two ways. The first was based on examining linearity of response in Enterococcus cycle threshold (Ct) values across four fivefold serial dilutions of the unpurified
+sample DNA. A fivefold dilution is expected to delay the
+detection of the target by 2Æ32 cycles, as 22Æ32 = 5 assuming 100% amplification efficiency (i.e. perfect doubling of
+target concentration with each qPCR cycle). The sample
+was deemed inhibited if the Enterococcus Ct difference
+between this dilution and the next serial fivefold dilution
+was one cycle less than expected without inhibition (i.e.
+one cycle <2Æ32 = log25). More details on this assessment
+of inhibition are available in Supporting Information. The
+second was inhibition detected by the IC assays. For each
+IC assay in each qPCR method, a sample was deemed
+inhibited if the IC Ct in the sample increased by a threshold (3Æ0, 1Æ7 or 1Æ0 cycles) from an uninhibited reference
+analysed on the same plate. The thresholds 3Æ0 and 1Æ7
+were selected based on literature (as used in US EPA draft
+Recreational Water Quality Criteria (US EPA 2011a)
+and ⁄ or previous studies (Haugland et al. 2005; Griffith
+and Weisberg 2011)). The threshold 1Æ0 was selected
+because one may not expect Ct difference between an
+uninhibited sample and a reference to be more than one
+cycle if assuming 0Æ5 cycle variability between qPCR replicates (1Æ0 cycle = 2 · 0Æ5 cycle). For samples in which an
+IC was not amplified, the maximum number of cycles
+was assigned as the Ct value. All qPCRs (for samples,
+standard curves, uninhibited references and no-template
+controls) were run in triplicates. Data from the whole
+plate were discarded and analysis redone if any no-template control was amplified. Figure 1 shows the overall
+experimental design and sample processing procedure.
+Samples
+Sixty-one of the samples were collected from 24 marine
+beach sites in Southern California between 2008 and
+2010. Fifty-nine samples were collected from 15 freshwater sites in the Greater Chicago area from April through
+July, 2009. Another 13 samples (storm drain water, sewage and elutriate from washing algae and sediment, or
+combined sewage overflow; one from Chicago area and
+12 from California) were also included as potential
+sources for beach contamination and ⁄ or inhibitory substances. A flow chart for sample processing is presented
+in Fig. 1. Briefly, all samples were filtered within 6 h of
+collection and stored at )80C until extraction. Unpurified DNA extracts were obtained via bead beating and
+ª 2012 The Authors
+Journal of Applied Microbiology ª 2012 The Society for Applied Microbiology
+
+
+
+Y. Cao et al.
+
+Enterococcus qPCR inhibition
+
+Water sample
+Filtration: 100 ml/filter onto isopore polycarbonate
+filter (47 mm dia., 0·45 µm pore size)
+Filter in beaded tube
+Extraction: add 600 µl AE buffer, bead beating 1 min, centrifuge
+(1 min,12 000 g), transfer supernatant into another microtube,
+centrifuge again (5 min, 12 000 g), recover 400 µl
+Unpurified
+DNA Extracts
+setup
+assays,
+add IC
+qPCR
+(Enterococcus
+and IC assays)
+
+Spike if
+needed*
+
+Undiluted
+
+5X diluted
+(in AE buffer)
+
+25X diluted
+(in AE buffer)
+
+125X diluted
+(in AE buffer)
+
+TaqRegular Sketa, UCP
+
+TaqRegular Sketa, UCP
+
+TaqRegular
+
+TaqRegular
+
+TaqFast
+
+TaqFast
+
+TaqFast
+
+TaqFast
+
+Sketa, UCP
+
+Sketa, UCP
+
+TaqFastfast Sketa, UCP
+
+TaqFastfast Sketa, UCP
+
+TaqFastfast
+
+TaqFastfast
+
+TaqEnviron
+
+Sketa, UCP
+
+TaqEnviron
+
+Sketa, UCP
+
+TaqEnviron
+
+TaqEnviron
+
+ScorpionN
+
+Sketa, IAC, SSC ScorpionN
+
+Sketa, IAC, SSC
+
+ScorpionN
+
+ScorpionN
+
+Undiluted
+Directly
+observed
+inhibition
+
+Undiluted
+Inhibition
+determined
+by IC
+
+5X
+Directly
+observed
+inhibition
+
+5X
+Inhibition
+determined
+by IC
+
+25X
+Directly
+observed
+inhibition
+
+Figure 1 Diagram depicting sample processing and experimental design. Abbreviations for qPCR (Enterococcus and IC assays) are as specified in
+Materials and Methods. *The samples with insufficient Enterococcus concentrations (<1500 cells per 100 ml) to allow precise Ct results at higher
+dilutions (25· or 125·) were spiked with genomic DNA equivalent to 1500 Enterococcus cells prior to inhibition analysis.
+
+centrifugation from the filters as described in EPA
+Method A (US EPA 2010), with the exception of the step
+at which a particular internal control was added (Fig. 1,
+and described later in this manuscript). Extracts were
+stored at 4C and analysed within 8 h. About 31% of the
+samples had insufficient Enterococcus concentrations
+(<1500 cells per 100 ml, screened by culture or qPCR
+methods prior to inhibition analysis) to allow precise Ct
+measurements at higher dilutions (25· and 125·). In an
+effort not to exclude these samples, the unpurified DNA
+extracts (400 ll) from samples with insufficient Enterococcus concentrations were spiked with genomic DNA equivalent to 1500 Enterococcus cells prior to inhibition
+analysis (5 ll extract used in each 25 ll qPCR). Mixed
+genomic DNA from three common Enterococcus species
+(E. faecalis ATCC 29212, E. faecium ATCC 35667 and
+E. casseliflavus ATCC 700327) was used for spiking.
+qPCR methods
+Five Enterococcus qPCR methods (Table 1) were included
+in this study. The TaqRegular (i.e. EPA Method A
+ª 2012 The Authors
+Journal of Applied Microbiology ª 2012 The Society for Applied Microbiology
+
+(Haugland et al. 2005; US EPA 2010) and ScorpionN
+(Noble et al. 2010) methods were as described previously.
+Three variations of the regular TaqMan method (TaqFast, TaqFastfast and TaqEnviron with either faster
+cycling time or potentially more robust reaction mixture)
+were also included to evaluate how differing master mixes
+and thermal cycling times affected inhibition. Briefly, the
+qPCR mixture (25 ll including 5 ll DNA template) for
+the four TaqMan methods contained: 1· corresponding
+master mix (Applied Biosystems, Carlsbad, CA),
+0Æ2 mg ml)1 bovine serum albumin (Sigma, St Louis, MO),
+1 lmol l)1 of each primer and 0Æ08 lmol l)1 of TaqMan
+probe (Applied Biosystems); for the ScorpionN method, 1·
+OmniMix HS (Cepheid, Sunnyvale, CA, USA),
+0Æ25 lmol l)1 primer and 0Æ25 lmol l)1 Scorpion probe
+(Biosearch, Novato, CA). Thermal protocols (Table S1)
+and primer ⁄ probe sequences (Table S2) for each qPCR
+method are provided in Supporting Information.
+Standard curves (eight points with fivefold serial dilution from 1Æ57 · 106 cells per filter to 20 cells per filter in
+triplicate at each point) of reference material were performed to confirm performance of each qPCR method
+
+3
+
+
+
+Enterococcus qPCR inhibition
+
+Y. Cao et al.
+
+Table 1 Description of the five qPCR methods
+qPCR method
+TaqRegular
+TaqFast
+TaqFastfast
+TaqEnviron
+ScorpionN
+
+Master mix*
+
+
+TaqMan Universal PCR Master Mix
+TaqMan Universal PCR Master Mix
+TaqMan Fast Universal PCR Master Mix
+TaqMan Environmental Master Mix 2.0
+OmniMix HS
+
+Ramping speed
+
+Average running time
+
+qPCR platform
+
+Regular
+Fast
+Fast
+Fast
+Fast
+
+1 h 41 min
+1 h 26 min
+52 min
+1 h 33 min
+1 h 13 min
+
+Applied Biosystems 7500 fast
+
+Bio-Rad CFX96
+
+*According to the manufacturer, the TaqMan Environmental Master Mix 2.0 is specially formulated for qPCR in the presence of high levels of
+inhibitors.
+Ramping speed is determined by the qPCR platforms and refers to how fast the temperature of the thermal block is raised and lowered.
+The threshold crossing method was used to determine Ct on both platforms. Thresholds of 0Æ03 DRn and 100 RFU were empirically determined
+and used throughout the study for AB7500 fast and Bio-Rad CFX96, respectively.
+
+before the analyses of samples. Reference materials were
+also analysed in triplicate on each sample plate for quality
+control. The reference material was purified genomic
+DNA from frozen filters with Enterococcus faecalis
+(ATCC29212, 1Æ57 · 106 cells per filter) as described previously (Griffith and Weisberg 2011). For environmental
+water samples, unpurified DNA extracts were analysed by
+each of the Enterococcus qPCR method at four fivefold
+serial dilutions (undiluted, 5·, 25·, 125·) (Fig. 1).
+Internal controls
+Four ICs were tested in this study: Salmon testes DNA
+(US EPA 2010), a plasmid DNA composite construct
+(Shanks et al. 2008), and two commercially available ICs:
+BioGx IAC (Cat no. 700-003; BioGX Inc., Birmingham,
+AL, USA) and Super Smart Control SSC (lyophilized
+beads with premixed primers ⁄ probe, Cat no. QC-DNASSC; Cepheid). For simplicity, these ICs were referred to,
+in the order above, by abbreviations of their qPCR probes
+or of their commercial product names, as Sketa (for salmon testes DNA), UCP (for the plasmid DNA composite
+construct), IAC and SSC, respectively. Based on common
+usage in practice, Sketa, IAC and SSC were evaluated in
+the ScorpionN method; Sketa and UCP were tested in all
+four TaqMan qPCR methods (Fig. 1). Note that, under
+the current protocol (US EPA 2010), salmon testes DNA
+is added prior to DNA extraction and the Sketa result is
+used as a combined sample processing and inhibition
+control to control for both DNA recovery and presence
+of inhibition (US EPA 2010). In this study, salmon testes
+DNA were added to the final reaction mixture (described
+later in this manuscript), rather than before DNA extraction, such that its efficacy as an inhibition control alone
+could be assessed. Additionally, although SSC is a TaqMan-based chemistry, it was included for evaluation in
+ScorpionN, which uses a master mix in lyophilized bead
+form (produced by Cepheid; the same company that produces SSC), in anticipation of complete dry chemistry for
+4
+
+the duplex qPCR method in the future. All IC assays were
+duplex with the Enterococcus target assay, except for Sketa, which were simplex assays for all five qPCR methods.
+Reaction conditions were as described previously
+(Shanks et al. 2008; US EPA 2010) or per manufacturer’s
+instructions. Briefly, for the simplex Sketa assay in all
+four TaqMan methods, reaction mixtures (25 ll) contained 1· corresponding master mix (Applied Biosystems), 0Æ2 mg ml)1 bovine serum albumin (Sigma),
+1 lmol l)1 of each primer, 0Æ08 lmol l)1 of TaqMan
+probe (Applied Biosystems), and 0Æ04 ng ll)1 salmon testes DNA (Sigma). For the duplex UCP assay in all four
+TaqMan methods, additional reagents included
+0Æ08 lmol l)1 of probe for the IC and 50 copies of the
+IC. For the simplex Sketa assay in the ScorpionN method,
+reaction mixtures (25 ll) contained 1· OmniMix HS
+(Cepheid), 0Æ25 lmol l)1 primer and 0Æ25 lmol l)1 Scorpion probe (Biosearch), and 0Æ04 ng ll)1 salmon testes
+DNA (Sigma). For the duplex IAC assay, additional
+reagents included 0Æ08 lmol l)1 Scorpion primer,
+0Æ08 lmol l)1 Scorpion probe and 100 copies of the IAC
+as specified by the manufacturer. For the duplex SSC
+assay, lyophilized beads containing premixed (10·) primer, probe and IC were used in reaction set-up to
+achieve a 1· concentration in the final duplex reaction
+mixture.
+Standard curves using reference materials (as described
+previously in this manuscript) were also performed to
+confirm performance of ICs and the concentration ranges
+where quantification of Enterococcus and IC does not
+interfere with each other. For environmental water samples, unpurified DNA extracts were analysed by the IC
+assays undiluted and at 5· dilution.
+Data analysis
+We compared (i) directly observed inhibition (by serial
+dilution) among five Enterococcus qPCR methods to assess
+their robustness against inhibition; (ii) directly observed
+ª 2012 The Authors
+Journal of Applied Microbiology ª 2012 The Society for Applied Microbiology
+
+
+
+Y. Cao et al.
+
+inhibition against inhibition detected by IC within each
+qPCR method to assess reliability of ICs; and (iii) directly
+observed inhibition between undiluted and diluted sample
+DNA, as well as inhibition detected by ICs between undiluted and diluted sample DNA, within each qPCR
+method to assess how well dilution resolved these two
+assessments of inhibition. The EPA method A was used
+as the benchmark and the other four qPCR methods were
+referred as the variant qPCR methods. An IC was considered to have missed inhibition (i.e. false negative) if it
+failed to identify inhibition that had been identified using
+the serial dilution approach. An IC was considered to
+have given a false alarm (i.e. false positive) if it indicated
+inhibition while the serial dilution approach did not.
+ancova was used to compare standard curves generated by different qPCR methods and between simplex
+and duplex Enterococcus assays within a qPCR method.
+To define the range where competition from an Enterococcus assay did not interfere with quantification of ICs,
+anova with Tukey’s HSD test was used to compare Ct
+values from a fixed amount of IC in the presence of different concentrations of Enterococcus. Because a balanced
+data set (i.e. the same number of uninhibited and inhibited samples for the Enterococcus target assay) is required
+(Kubat et al. 1998) for adequately assessing the reliability
+of IC to reflect inhibition in the Enterococcus target assay,
+random sampling without replacement of the observed
+results (from all analysed water samples) was performed
+100 times, and the results were averaged. All statistical
+analyses were performed in R ver. 2.11.1 (R Core Development Team 2011).
+Results
+All Enterococcus and IC assays had amplification efficiency
+>1Æ90, except for UCP in some qPCR methods. For the
+simplex Enterococcus assay, all qPCR methods had standard curves with comparable slopes (P > 0Æ05) but different intercepts (P < 0Æ001). Raw Ct values from ScorpionN
+and TaqEnviron were approximately 2 and 1Æ5 cycles
+higher, respectively, than raw Ct values from the other
+three qPCR methods. Amplification efficiency of ICs was
+also checked using serial dilutions of the ICs in simplex
+assays. All ICs had high amplification efficiency (>1Æ95)
+except for UCP, the efficiency of which varied with qPCR
+method: TaqRegular (1Æ81 ± 0Æ03), TaqFast (1Æ80 ± 0Æ04),
+TaqFastfast (1Æ65 ± 0Æ005) and TaqEnviron (1Æ99 ± 0Æ01).
+Note that in this study, amplification efficiency is reported
+as amplification factor (1–2) instead of percentage efficiency (0–100%). All standard curve equations (and R2)
+are provided in Supporting Information (Table S3).
+In addition to amplification efficiency, the potential for
+substrate competition (Hoorfar et al. 2004) between
+ª 2012 The Authors
+Journal of Applied Microbiology ª 2012 The Society for Applied Microbiology
+
+Enterococcus qPCR inhibition
+
+Enterococcus and IC in duplex reactions was determined
+using noninhibitory reference materials. Duplexing did
+not affect amplification efficiency of the Enterococcus
+assays (P > 0Æ05). Duplexing also did not affect quantification of low Enterococcus concentrations with any of the
+ICs, except that duplexing with SSC in the ScorpionN
+method led to Enterococcus becoming undetectable at the
+lowest dilution of 20 cells per filter. The Enterococcus concentration ranges where IC quantification was unaffected
+varied with IC and sometimes with qPCR method. For
+most ICs, the ranges were similar among qPCR methods,
+ranking from the full range tested (up to 1Æ57 · 106 cells
+per filter) to the narrowest (<1Æ26 · 104 cells per filter) as
+follows: SSC > UCP (excluding TaqEnviron) >IAC. Interestingly, UCP quantification was unaffected throughout
+the full range of Enterococcus concentrations tested when
+using the TaqEnviron qPCR method. More details on the
+ICs’ application ranges are provided in Supporting Information (Fig. S1).
+Susceptibility to inhibition differed substantially among
+the Enterococcus qPCR methods. TaqEnviron was the
+most robust, with only four samples inhibited (Table 2).
+TaqEnviron, TaqFast, ScorpionN and TaqFastfast were
+0Æ2, 1Æ3, 2Æ0 and 3Æ0 times as likely to be inhibited, respectively, compared with TaqRegular. Susceptibility to inhibition was similar between freshwater and marine samples
+for all five qPCR methods.
+None of the ICs accurately reflected the presence or
+absence of Enterococcus target assay inhibition for more
+than 85% of the samples, and this overall accuracy varied
+with the different qPCR methods and IC thresholds for
+the same IC (Table 3). While ICs overall averaged 70%
+agreement with inhibition detected by serial dilution, the
+errors by ICs were generally unbalanced with respect to
+missed inhibition (i.e. false negative) and false alarm (i.e.
+false positive). Sketa and SSC appeared insensitive with
+high specificity: they largely had very few false alarms, but
+failed to identify about half to two-third of the inhibited
+samples, except for Sketa in ScorpionN. In contrast, UCP
+and IAC appeared sensitive with low specificity: they
+
+Table 2 Percentage of
+undiluted sample DNA
+
+Enterococcus
+
+target
+
+assay
+
+inhibition
+
+in
+
+The variant qPCR
+method*
+
+Sample
+size
+
+% Inhibited in the
+TaqRegular method
+
+% Inhibited by
+the variant
+qPCR method
+
+TaqFast
+TaqFastfast
+TaqEnviron
+ScorpionN
+
+92
+110
+73
+100
+
+33
+27
+29
+28
+
+41
+82
+5
+57
+
+*TaqRegular was used as the benchmark.
+
+5
+
+
+
+Enterococcus qPCR inhibition
+
+Y. Cao et al.
+
+Table 3 Reliability of IC for detecting inhibition on the Enterococcus target assays
+
+IC
+
+IC Threshold
+(cycles)
+
+Sketa
+
+3
+
+1Æ7
+
+1
+
+UCP
+
+3
+
+1Æ7
+
+1
+
+IAC
+
+SSC
+
+3
+1Æ7
+1
+3
+1Æ7
+1
+
+qPCR method*
+
+n
+
+False
+negative (%)
+
+False
+positive§ (%)
+
+Overall
+accuracy– (%)
+
+TaqRegular
+TaqFast
+TaqFastfast
+ScorpionN
+TaqRegular
+TaqFast
+TaqFastfast
+ScorpionN
+TaqRegular
+TaqFast
+TaqFastfast
+ScorpionN
+TaqRegular
+TaqFast
+TaqFastfast
+TaqRegular
+TaqFast
+TaqFastfast
+TaqRegular
+TaqFast
+TaqFastfast
+ScorpionN
+ScorpionN
+ScorpionN
+ScorpionN
+ScorpionN
+ScorpionN
+
+78
+82
+42
+104
+78
+82
+42
+104
+78
+82
+42
+104
+78
+80
+42
+78
+80
+42
+78
+80
+42
+100
+100
+100
+108
+108
+108
+
+74
+73
+72
+26
+64
+66
+65
+11
+59
+51
+52
+4
+44
+20
+8
+26
+10
+2
+23
+10
+1
+28
+22
+8
+61
+54
+45
+
+0
+0
+5
+4
+0
+0
+5
+40
+0
+0
+5
+67
+15
+40
+38
+29
+55
+67
+39
+72
+90
+24
+44
+60
+6
+7
+9
+
+63
+63
+62
+85
+68
+67
+65
+74
+71
+74
+71
+64
+71
+70
+77
+72
+67
+66
+69
+59
+54
+74
+67
+66
+67
+69
+73
+
+*TaqEnviron was not included because of small number of undiluted samples (n = 4) exhibiting Enterococcus target assay inhibition.
+As described in the Materials and Methods, because a balanced data set is required for adequately assessing reliability of IC in reflecting Enterococcus target assay inhibition, random sampling without replacement (n out of results from all samples) was performed to ensure n ⁄ 2 samples
+were inhibited and n ⁄ 2 samples were uninhibited for the Enterococcus qPCR assays.
+False negative: percentages of samples (out of n ⁄ 2) that were inhibited for Enterococcus qPCR but the inhibition was not detected by IC.
+§False positive: percentages of samples (out of n ⁄ 2) that were not inhibited for Enterococcus qPCR but were flagged as inhibited by IC.
+–Overall accuracy: percentage of samples (out of n) for which IC reliably reflected either the presence or the absence of inhibition on the Enterococcus assay, that is, % true positives + % true negatives.
+
+usually gave false alarms more frequently than missed
+inhibition, except for with IC threshold of 3Æ0 cycles.
+In the absence of inhibition (i.e. with uninhibited reference materials), most ICs produced Ct values of 30–34
+with low variability (average within-plate standard deviation ranged from 0Æ27 to 0Æ5 cycles). However, Sketa
+assays produced Ct of approximately 21 (in the four TaqMan qPCR methods) or 27 (in the ScorpionN method)
+with minimal variability (average within-plate standard
+deviation ranged from 0Æ06 to 0Æ09 cycles). This perhaps
+reflected the relative high concentration (hence smaller Ct
+with low variability) of salmon testes DNA used for the
+Sketa assay as this assay was typically used as a combined
+sample processing and inhibition control (US EPA 2010).
+Note that Sketa in the four TaqMan methods vs that in
+the ScorpionN method were two different assays (based
+6
+
+on TaqMan vs Scorpion probe chemistry, respectively)
+of the same internal control (i.e. salmon testes DNA),
+which may explain the Sketa Ct difference above (21 vs
+27). Additionally, little difference in Ct variability was
+observed for a given IC across the five (Sketa) or four
+(UCP) qPCR methods. Nevertheless, UCP appeared to
+have more stable Ct values in TaqEnviron than in others
+(Table S4).
+Fivefold dilution of the unpurified and undiluted DNA
+extracts resolved inhibition for 78-100% of the samples,
+depending on the qPCR method (Table 4). Effectiveness
+of further dilutions was not evaluated, as the 1 : 5 dilution was already effective. Additionally, assessment of
+dilution effectiveness for TaqEnviron was limited because
+only four samples were inhibited when undiluted. However, inhibition detected by ICs responded to the fivefold
+ª 2012 The Authors
+Journal of Applied Microbiology ª 2012 The Society for Applied Microbiology
+
+
+
+Y. Cao et al.
+
+Enterococcus qPCR inhibition
+
+Table 4 Effectiveness of a fivefold dilution on resolving inhibition on
+Enterococcus qPCR in undiluted sample DNA
+
+qPCR method
+
+No. sample inhibited
+when undiluted
+
+% inhibition resolved
+by 1 : 5 dilution
+
+TaqRegular
+TaqFast
+TaqFastfast
+TaqEnviron
+ScorpionN
+
+38
+41
+89
+4
+68
+
+95
+95
+79
+100
+78
+
+Table 5 Effectiveness of a fivefold dilution on resolving inhibition
+detected by IC in undiluted sample DNA
+
+qPCR method
+
+IC
+
+TaqRegular
+
+Sketa
+
+UCP
+
+TaqFast
+
+dilution differently than did the Enterococcus target assay
+inhibition. For example, the fivefold dilution resolved
+95% of the true inhibition for TaqRegular (Table 4), but
+only relieved <84% of the inhibition detected by UCP
+(Table 5). In contrast, for TaqFastfast, the fivefold dilution was more effective on resolving inhibition detected
+by Sketa (>87%) than resolving inhibition of the Enterococcus assay (79%).
+Discussion
+This is the first study to compare IC and directly
+observed inhibition across qPCR permutations. Directly
+observed inhibition was defined by qPCR detection
+occurring earlier than expected following sample dilution;
+qPCR permutations included assay reagents and cycling
+time. We found considerable difference in susceptibility
+to inhibition among the five qPCR method permutations
+we tested. Reagent mixtures were important. The TaqEnviron method was the least susceptible to inhibition, with
+the improved performance likely resulting from the polymerase used (in the TaqMan Environmental Master Mix
+2.0, Table 1), as polymerases have been found to be differentially susceptible to various inhibitors (Abu Al-Soud
+and Radstrom 1998; Eilert and Foran 2009). The bovine
+serum albumin added in the four TaqMan methods has
+also been considered a common PCR facilitator in the
+presence of inhibitors, presumably due to its stabilizing
+effect on polymerase and ⁄ or the DNA template (Kreader
+1996; Wilson 1997). The TaqMan and ScorpionN methods also differed in their primers and probes, and primer-probe properties were suggested to affect inhibition
+through altered annealing and extension efficiency in the
+presence of inhibitors (Chung 2004).
+In terms of cycling time, there appeared to be a tradeoff between speed and sensitivity to inhibitory compounds; this trade-off may need to be seriously considered to make implementation practical. Methods using a
+shorter running time (TaqFast, TaqFastfast and ScorpionN; Table 1) had higher susceptibility to inhibition, possibly because more time allows the reaction to achieve
+ª 2012 The Authors
+Journal of Applied Microbiology ª 2012 The Society for Applied Microbiology
+
+Sketa
+
+UCP
+
+TaqFastfast
+
+Sketa
+
+UCP
+
+TaqEnviron
+
+Sketa
+
+UCP
+
+ScorpionN*
+
+Sketa
+
+IAC
+
+IC threshold
+(cycles)
+
+No. sample
+inhibited
+when undiluted
+
+% inhibition
+resolved by
+1 : 5 dilution
+
+3
+1Æ7
+1
+3
+1Æ7
+1
+3
+1Æ7
+1
+3
+1Æ7
+1
+3
+1Æ7
+1
+3
+1Æ7
+1
+3
+1Æ7
+1
+3
+1Æ7
+1
+3
+1Æ7
+1
+3
+1Æ7
+1
+
+10
+14
+16
+35
+56
+66
+12
+15
+21
+57
+70
+82
+31
+38
+52
+107
+120
+126
+0
+1
+3
+1
+1
+1
+56
+88
+108
+61
+75
+92
+
+90
+93
+94
+83
+84
+79
+92
+93
+95
+86
+84
+83
+90
+89
+87
+67
+58
+46
+n⁄a
+0
+33
+100
+100
+0
+89
+69
+58
+79
+68
+61
+
+*SSC in ScorpionN was not included owing to limited data at the
+1 : 5 dilution.
+
+full replication at each cycle even in the presence of
+inhibitors. Longer extension time has been found to
+improve PCR efficiency (Wei et al. 2008). While timing is
+crucial for rapid recreational water monitoring, slightly
+slower but more robust qPCR methods might still allow
+same day water quality warnings (Griffith and Weisberg
+2011) with lower probability of qPCR results being
+affected by inhibition. Additionally, inhibition can be
+chronic (i.e. inhibition consistently occurs over time at
+certain sites), so it maybe that the trade-off between time
+and relieving inhibition need only be made at a subset of
+sites. Further work is being conducted to assess robustness (against inhibition) of an even faster version (possibly < 1 h) of the TaqEnviron method (currently 1 h
+33 min).
+A frequent approach to mitigating inhibition is to
+adjust the results based on the performance of an assay
+7
+
+
+
+Enterococcus qPCR inhibition
+
+for exogenous DNA that serves as a control. The foundation of this approach is the assumption that the exogenous DNA assay is inhibited the same way as the target
+assay (Huggett et al. 2008). Our results suggest that this
+is an imperfect approach with the ICs we tested, as they
+all detected inhibition inconsistently with that identified
+through dilution on the Enterococcus target assays
+(Table 3). Additionally, disagreement between inhibition
+detected by ICs and inhibition on Enterococcus qPCR was
+not resolved by simple linear offsets of IC threshold
+(from 3Æ0 to 1Æ0 cycles), nor did the two assessments of
+inhibition respond to fivefold dilution to the same extents
+(Tables 4 and 5), further indicating inhibition on ICs and
+Enterococcus were mechanistically different in the ambient
+samples. While the ICs may reflect target assay inhibition
+if inhibitors are affecting the polymerase alone, exogenous
+DNA would likely respond to inhibitors differently than
+target DNA if the inhibition effect is through inhibitor
+interacting with DNA template or DNA-polymerase complex (Opel et al. 2010). In the latter case, a competitive IC
+designed to share more sequence similarity with the target
+DNA would be more reliable than ICs that share little
+sequence similarity with the target DNA (Hoorfar et al.
+2004). This may explain why UCP, which is a competitive
+IC, performed slightly better than the other IC in the TaqMan methods, though only <80% of target assay inhibition was reliably reflected even by UCP. Thus, use of any
+of the four ICs we tested to numerically correct for inhibition for the Enterococcus assay may not be appropriate.
+Further studies with more samples from wider geographic
+regions will shed additional light on this subject.
+Nevertheless, the decision to use any of the four ICs we
+tested for detecting inhibition for the Enterococcus assay
+may be one for end users, who must decide if the frequencies of missing and ⁄ or falsely identifying inhibition
+by ICs are acceptable for their research or monitoring
+applications. Simulation assessing the impact of inhibition
+can assist such decision-making (An example of such a
+simulation is provided as Appendix S1 in Supporting
+Information). Consideration of application ranges (Hoorfar et al. 2004) and preference of duplex vs simplex assays
+(Shanks et al. 2008) is also needed in choosing ICs for
+detecting inhibition. Although it is important to note that
+different concentrations of the same IC can affect performance of the IC, the IC assays in this study were used as
+optimized by the corresponding assay developer or manufacturer. Regardless, it is important that an IC is specifically evaluated for its reliability in mimicking inhibition
+of the target assays.
+One alternative to ICs would be assess inhibition on
+the target assay itself using a spiking-followed by dilution
+approach. If a DNA sample is inhibited, then the difference between Ct values of this DNA sample and its fur8
+
+Y. Cao et al.
+
+ther dilution will be smaller than expected for samples
+not inhibited. However, to ensure that the diluted DNA
+(if not inhibited) has enough targets to produce a reliable
+Ct (low target concentration lead to high variability in
+Ct), a fixed amount of reference material (i.e. that used as
+standard for quantification in the given qPCR method) is
+spiked into the DNA sample prior to dilution. A full protocol for conducting such an approach is provided as
+Appendix S2 in Supporting Information. Because spiking
+and dilution add analysis time and supply cost, this
+approach may not be appropriate for routine ambient
+water monitoring. Yet, it may be useful for applications
+in microbial source tracking (Silkie and Nelson 2009) and
+clinical diagnosis (Paiva-Cavalcanti et al. 2010) where
+timing and cost may be of lesser concern and it is not
+feasible to design and conduct comprehensive evaluation
+of ICs for every given qPCR assay.
+We also found that a fivefold dilution of the unpurified
+DNA extract was effective in resolving inhibition in the
+samples we tested, but this approach has drawbacks
+because dilution reduces method sensitivity. The theoretical detection limit for TaqRegular is 27 cells per 100 ml
+following the standard filtration and extraction protocol
+(Haugland et al. 2005). Implementing a fivefold dilution
+would raise the detection limit to 135 cells per 100 ml,
+above the current recreational water quality criteria of
+104 Enterococcus per 100 ml. Additionally, qPCR variability greatly increases when the target concentrations are
+low (Whitman et al. 2010; Griffith and Weisberg 2011).
+DNA amplification relies on the target coming into contact with the reactive agents (primer, polymerase etc.).
+When target concentration is low, amplification becomes
+stochastic resulting in higher variability in Ct values (Sivaganesan et al. 2010). Although dilution can be an effective
+mechanism for reducing inhibition, the resulting low precision may be undesirable for beach management decisions unless the measured concentrations far exceed the
+present concentration for public health notification. Careful characterization of study sites would help to determine strategies that minimize the impact of inhibition. In
+situations where a fivefold dilution can be effective, it is
+suggested to perform qPCR with both undiluted and
+diluted sample DNA if one suspects high probability of
+inhibition at certain monitoring sites. This will avoid
+delaying production of usable qPCR results owing to the
+need to dilute and reanalyse inhibited samples.
+Inhibition can result from several potentially interactive
+mechanisms (Opel et al. 2010), including: (i) reducing
+polymerase activity; (ii) reducing availability of DNA
+template for amplification through interaction of inhibitors with the DNA; and (iii) interfering with primer
+extension of the polymerase-DNA complex. While most
+inhibition occurs during qPCR, which is the focus of our
+ª 2012 The Authors
+Journal of Applied Microbiology ª 2012 The Society for Applied Microbiology
+
+
+
+Y. Cao et al.
+
+and most other investigations, mechanism b could also
+have an effect during DNA extraction, prior to qPCR. It
+is possible that inhibitors such as humic substances may
+bind to double-stranded DNA (dsDNA) during the
+extraction step when dsDNA is released by cell lysis, making it unavailable for subsequent qPCR. The inhibition
+assessment by dilution (this study) may account for this
+type of pre-qPCR inhibition if dilution shifts the binding
+equilibrium (between inhibitor and dsDNA) and frees
+some dsDNA. However, as the thermodynamics for interaction between humic substances and dsDNA remain
+unclear (Sutlovic et al. 2008), we consider this type of
+pre-qPCR inhibition beyond the scope of our study.
+Although this study focused on Enterococcus qPCR, our
+findings provide useful guidance in broader applications.
+We demonstrated that inhibition compatibility between
+IC and target assays cannot be assumed. While a more
+susceptible IC can be employed to screen samples for
+inhibition for less susceptible target assays, using one IC
+for identifying inhibition in multiple target qPCR assays,
+or using an IC to numerically adjust qPCR results without comprehensive validation, should be discouraged.
+Additionally, the spiking-followed-by-inhibition approach
+(Appendix S2) can be a useful tool to detect inhibition
+for a variety of qPCR applications (e.g. microbial source
+tracking or clinic diagnosis) where turnaround time and
+cost are of relatively lesser concern as compared to recreational water quality monitoring.
+As US regulators move towards recommendation of
+qPCR-based methods for Enterococcus quantification in
+ambient waters, it is imperative to establish a uniform definition of inhibition and to recommend specific approaches
+to mitigating inhibition. Our work suggests that the salmon
+testes DNA (i.e. Sketa), which is specified in the EPA
+Method A as a sample processing and inhibition internal
+control, does not reliably reflect Enterococcus inhibition.
+The potential impacts of using Sketa for adjusting Enterococcus qPCR results via the DDCt approach need to be comprehensively evaluated prior to routine usage. The use of
+the dilution method described here, along with the use of
+reagents designed for the analysis of environmental samples
+may offer a more consistent and accurate approach for
+identifying and mitigating qPCR assay interference.
+Acknowledgements
+The authors would like to thank Richard Haugland for helpful review comments, Denene Blackwood, Wayne Litaker,
+King-Teh Lin, Rachel Noble and Orin Shanks for insightful
+discussion, Martin Getrich, Jian Peng, Charles McGee
+and Theodore von Bitner for assisting sampling in Southern
+California, and Meredith Raith, Darcy Ebentier and Elizabeth
+Scott for technical assistance. Additionally, Dr Dorevitch’s
+ª 2012 The Authors
+Journal of Applied Microbiology ª 2012 The Society for Applied Microbiology
+
+Enterococcus qPCR inhibition
+
+effort and the sampling of Chicago area samples was supported by the Metropolian Water Reclamation District of
+Greater Chicago.
+References
+Abu Al-Soud, W. and Radstrom, P. (1998) Capacity of nine
+thermostable DNA polymerases to mediate DNA amplification in the presence of PCR-inhibiting samples. Appl
+Environ Microbiol 64, 3748–3753.
+Chung, D.T. (2004) The development of novel STR primer sets
+for the analysis of degraded and compromised DNA samples.
+PhD Dissertation, Ohio University, Athens, OH.
+Colford, J.M., Schiff, K.C., Griffith, J.F., Yau, V., Arnold, B.F.,
+Wright, C.C., Gruber, J.S., Wade, T.J. et al. (2012) Using
+rapid indicators for enterococcus to assess the risk of illness after exposure to urban runoff contaminated marine
+water. Water Res 46, 2176–2186.
+Dorevitch, S., Ashbolt, N.J., Ferguson, C.M., Fujioka, R.,
+McGee, C.D., Soller, J.A. and Whitman, R.L. (2010) Meeting report: knowledge and gaps in developing microbial
+criteria for inland recreational waters. Environ Health
+Perspect 118, 871–876.
+Eilert, K.D. and Foran, D.R. (2009) Polymerase resistance to
+polymerase chain reaction inhibitors in bone. J Forensic Sci
+54, 1001–1007.
+Griffith, J.F. and Weisberg, S.B. (2011) Challenges in implementing new technology for beach water quality monitoring: lessons from a California demonstration project. Mar
+Technol Soc J 45, 65–73.
+Haugland, R.A., Siefring, S.C., Wymer, L.J., Brenner, K.P. and
+Dufour, A.P. (2005) Comparison of Enterococcus measurements in freshwater at two recreational beaches by quantitative polymerase chain reaction and membrane filter
+culture analysis. Water Res 39, 559–568.
+Hoorfar, J., Malorny, B., Abdulmawjood, A., Cook, N., Wagner, M. and Fach, P. (2004) Practical considerations in
+design of internal amplification controls for diagnostic
+PCR assays. J Clin Microbiol 42, 1863–1868.
+Huggett, J., Novak, T., Garson, J., Green, C., Morris-Jones, S.,
+Miller, R. and Zumla, A. (2008) Differential susceptibility
+of PCR reactions to inhibitors: an important and unrecognised phenomenon. BMC Res Notes 1, 70.
+Kreader, C.A. (1996) Relief of amplification inhibition in PCR
+with bovine serum albumin or T4 gene 32 protein. Appl
+Environ Microbiol 62, 1102–1106.
+Kubat, M., Holte, R.C. and Matwin, S. (1998) Machine learning for the detection of oil spills in satellite radar images.
+Mach Learn 30, 195–215.
+Noble, R.T., Blackwood, A.D., Griffith, J.F., McGee, C.D.
+and Weisberg, S.B. (2010) Comparison of rapid
+QPCR-based and conventional culture-based methods for
+enumeration of Enterococcus spp. and Escherichia coli in
+recreational waters. Appl Environ Microbiol 76,
+7437–7443.
+
+9
+
+
+
+Enterococcus qPCR inhibition
+
+Opel, K.L., Chung, D. and McCord, B.R. (2010) A study of
+PCR inhibition mechanisms using real time PCR. J Forensic Sci 55, 25–33.
+Paiva-Cavalcanti, M., Regis-da-Silva, C.G. and Gomes, Y.M.
+(2010) Comparison of real-time PCR and conventional
+PCR for detection of Leishmania (Leishmania) infantum
+infection: a mini-review. J Venom Anim Toxins Incl Trop
+Dis 16, 537–542.
+R Core Development Team (2011) R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. http://www.R-project.org.
+Shanks, O.C., Atikovic, E., Blackwood, A.D., Lu, J., Noble,
+R.T., Domingo, J.S., Seifring, S., Sivaganesan, M. et al.
+(2008) Quantitative PCR for detection and enumeration of
+genetic markers of bovine fecal pollution. Appl Environ
+Microbiol 74, 745–752.
+Silkie, S.S. and Nelson, K.L. (2009) Concentrations of hostspecific and generic fecal markers measured by quantitative
+PCR in raw sewage and fresh animal feces. Water Res 43,
+4860–4871.
+Sivaganesan, M., Haugland, R.A., Chern, E.C. and Shanks,
+O.C. (2010) Improved strategies and optimization of calibration models for real-time PCR absolute quantification.
+Water Res 44, 4726–4735.
+Sutlovic, D., Gamulin, S., Definis-Gojanovic, M., Gugic, D.
+and Andjelinovic, S. (2008) Interaction of humic acids
+with human DNA: proposed mechanisms and kinetics.
+Electrophoresis 29, 1467–1472.
+US EPA (2010) Method A: Enterococci in Water by TaqMan
+Quantitative Polymerase Chain Reaction (qPCR) Assay.
+EPA-821-R-10-004. Washington, DC: Office of Water.
+US EPA (2011a) (EPA–OW–2011–0466; FRL–9609–3), Notice
+of Availability of Draft Recreational Water Quality Criteria
+and Request for Scientific Views. Federal Register 76 (2011)
+79176-79177.
+US EPA (2011b) Meeting report for the Peer Review of EPA’s
+Draft Recreational Water Quality Criteria (RWQC)
+Document. EPA-HQ-OW-2011-0466-0107. Washington,
+DC: Office of Water.
+Wade, T.J., Calderon, R.L., Brenner, K.P., Sams, E., Beach, M.,
+Haugland, R., Wymer, L. and Dufour, A.P. (2008) High
+sensitivity of children to swim ming-associated gastrointestinal illness: results using a rapid assay of recreational
+water quality. Epidemiology 19, 375–383.
+
+10
+
+Y. Cao et al.
+
+Wei, T., Lu, G. and Clover, G. (2008) Novel approaches to
+mitigate primer interaction and eliminate inhibitors in
+multiplex PCR, demonstrated using an assay for detection of three strawberry viruses. J Virol Methods 151,
+132–139.
+Whitman, R.L., Ge, Z.F., Nevers, M.B., Boehm, A.B., Chern,
+E.C., Haugland, R.A., Lukasik, A.M., Molina, M. et al.
+(2010) Relationship and variation of qPCR and culturable
+Enterococci estimates in ambient surface waters are predictable. Environ Sci Technol 44, 5049–5054.
+Wilson, I.G. (1997) Inhibition and facilitation of nucleic acid
+amplification. Appl Environ Microbiol 63, 3741–3751.
+
+Supporting Information
+Additional Supporting Information may be found in the
+online version of this article:
+Figure S1 Quantification of (A) ICA and SSC, (B)
+UCP, and (C) Sketa in presence of various concentrations
+of Enterococcus. Error bars represent standard deviation.
+Table S1 Thermal conditions for the five qPCR
+methods.
+Table S2 Primer and probe sequences. All sequences for
+the ScorpionN method are proprietary and not listed here.
+Table S3 Standard curves for all qPCR assays
+Table S4 Internal control Ct values for uninhibited reference materials.
+Table S5 Enterococcus concentration (calibrator cell
+equivalent per 100 ml) by qPCR from selected environmental water samples, based on qPCR screening results
+prior to inhibition analysis.
+Appendix S1. An example of using simulation to assess
+impact of Enterococcus qPCR inhibition in ambient water
+monitoring
+Appendix S2 Standard operating procedure for a spiking-followed-by-dilution approach to detect inhibition for
+qPCR assays
+Please note: Wiley-Blackwell are not responsible for the
+content or functionality of any supporting materials supplied by the authors. Any queries (other than missing
+material) should be directed to the corresponding author
+for the article.
+
+ª 2012 The Authors
+Journal of Applied Microbiology ª 2012 The Society for Applied Microbiology
+
+

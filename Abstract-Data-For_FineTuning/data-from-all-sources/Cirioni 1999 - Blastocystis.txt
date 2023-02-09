@@ -1,0 +1,663 @@
+European Journal of Epidemiology 15: 389±393, 1999.
+Ó 1999 Kluwer Academic Publishers. Printed in the Netherlands.
+
+Prevalence and clinical relevance of Blastocystis hominis
+in diverse patient cohorts
+Oscar Cirioni, Andrea Giacometti, Davide Drenaggi, Fausto Ancarani & Giorgio Scalise
+
+Institute of Infectious Diseases & Public Health, University of Ancona, c/o Azienda Ospedaliera Umberto I, Ancona, Italy
+Accepted in revised form 21 December 1998
+
+Abstract. The pathogenicity of Blastocystis hominis
+is extensively debated in the medical literature.
+Therefore, we did a prevalence study to investigate
+the association between the presence of several intestinal parasites and gastrointestinal symptoms in
+diverse patient cohorts. The study population consisted of 1216 adults, including immunocompromised
+patients, institutionalized psychiatric or elder subjects, immigrants from developing countries, travellers to developing tropical countries and controls.
+Several variables for each risk group were considered.
+Stools specimens, collected in triplicate, were processed by the same technicians. Clinical data about
+each subject were provided by standardized questionnaires. The presence of gastrointestinal symp-
+
+toms were related to the presence of any parasite. In
+addition, on the basis of microbiological results, ®ve
+subgroups of subjects were evaluated. The results
+showed a high prevalence of parasites in all the risk
+groups. Immunocompromised status, recent arrival
+from developing countries and the presence of behavioural aberrations were signi®cantly related to
+presence of parasites. B. hominis was the parasite
+most frequently detected in each studied group.
+B. hominis showed a signi®cant correlation with
+gastrointestinal symptoms only when detected in the
+group including subjects with a severe immunodepression. Immunodepression seems to be a factor
+of primary importance of the pathogenic role of
+B. hominis.
+
+Key words: Blastocystis hominis, Clinical features, Prevalence, Selected group
+
+Introduction
+
+Methods
+
+Blastocystis hominis, an eukariotic organism frequently found in the intestinal tract of humans and
+many other animals, has long been described as a
+harmless intestinal yeast or protozoa, until recently it
+has been classi®ed into the group of Stramenopiles
+(diatoms, oomycetes, labyrinthulids, brown algae and
+chrysophytes) by analyzing the rRNA genes [1±3].
+Controversy surrounds its pathogenicity: several researchers consider it a commensal organism, others
+believe it is pathogenic although the question of
+pathogenicity is unsettled [4±6]. Limitations of previous studies included lack of properly controlled
+prospective investigations, lack of predetermined
+de®nition of symptoms, lack of comprehensive bacteriology to rule out other etiologies of diarrhoea, lack
+of quantitative data on the concentration of B. hominis, and failure to show an immune or histopathological response [7, 8]. Recent reports described there
+are probably pathogenic and non-pathogenic types of
+B. hominis [9]. This study was undertaken to investigate the carrier rate of B. hominis in selected groups of
+subjects and its association with gastrointestinal
+symptoms.
+
+The study population consisted of ®ve patient cohorts
+and control group enrolled between September 1994
+and July 1997. The ®rst cohort included 238 adults
+(mean age 64.7 years, 112 males and 126 females)
+housed in four Italian residential facilities for the
+psychiatric diseases. The second included 110 elder
+individuals (mean age 68.3 years, 57 females and 53
+males) housed in an Italian residential centre. The
+third cohort included 208 HIV-positive immunocompromised patients (mean age 34.5 years, 121
+males and 87 females). The fourth cohort included
+146 immigrants from developing countries (mean age
+38.8 years, 82 males and 64 females). The ®fth cohort
+included 409 subjects (mean age 38.9 years, 241 males
+and 168 females) who had a history of travel (about
+two weeks) from Italy to developing tropical countries within the 1-month period before being tested.
+The control group included 105 HIV-negative Italian
+patients (mean age 54.2 years, 53 males and 51 females) without a history of travel from Italy to developing tropical countries within 1-month period
+before being tested and without underlying psychiatric diseases who had admitted to our department.
+
+
+
+390
+Stools were collected in triplicate from each subject. Initially a direct smear examination from fresh
+fecal specimens was performed. Specimens were then
+concentrated by formalin-ethylacetate technique
+using screw cap vials containing 10 ml of ®xative
+solution and multiple slides were prepared from each
+stool sample. A direct examination by saline wet
+mounts were made mixing a small volume of pellet
+with a drop of physiological saline on a glass microscope slide. Iodine wet mounts were prepared by
+adding 50 ll of pellet to a drop of Lugol's iodine.
+These wet mounts were microsocpically screened
+initially by using a low-power (10´) objective and
+then using a high-power (40´) objective of a light
+microscope. Smears were also dried, ®xed in methanol for 10 min, stained by a modi®ed acid fast
+method and then examined for the presence of
+Cryptosporidium spp. and other coccidia. Besides
+Cryptosporidium parvum and Giardia lamblia were
+detected by an immuno¯uorescent assay. As an additional procedure, the modi®ed trichrome staining
+method for microsporidia was used. Contemporaneusly, a `comprehensive' microbiological investigation
+(standard
+culture,
+biochemical
+techniques, viral detection and pathogenic E. coli
+identi®cation) were performed to rule out Salmonella
+spp., Shigella spp., Yersinia enterocolitica, Vibrio
+spp., Campylobacter jejuni, pathogenic E. coli, Aeromonas spp., Adenoviruses, Rotaviruses, and Enteroviruses. Clinical data about each subject have been
+provided by standardized questionnaires.
+Statistical analyses for discrete variables were done
+using a two-tailed v2 (Yates's corrected); a p-value of
+O0:05 was considered as signi®cant.
+Results
+B. hominis was found in the stools of 165 (13.6%) of
+1216 subjects (Table 1). Among the 1111 subjects of
+the ®ve patient cohorts and the 105 controls there
+were no signi®cant dierences with respect to age, sex
+and travel history between those who had B. hominis
+detected and those who did not. On the contrary,
+signi®cant dierences were revealed with respect to
+residential status. Actually, the highest prevalence
+was found in the cohort of the institutionalized psychiatric patients: B. hominis was recovered in the fecal
+samples from 76 (31.9%) out of 238 individuals.
+However, the prevalence of B. hominis was similar
+among 110 elder individuals (13.6%), 208 HIV-positive patients (13.5%), and 146 immigrants from developing countries (19.2%). Unexpectedly, the group
+of the travelers from Italy to developing tropical
+countries showed lower B. hominis prevalence (2.9%)
+than the control group (5.7%). Overall, in 45 individuals B. hominis was found in conjunction with
+other organisms: in 42 cases it was associated with
+intestinal protozoa, in 2 cases with Salmonella ent-
+
+erica subsp. enterica, and in 1 case with Aeromonas
+hydrophila. In 33 individuals it was associated with
+nonpathogenic protozoa (Entamoeba coli, 11 cases;
+Endolimax nana, 6 cases; Iodamoeba buÈtschlii, 5 cases;
+Enteromonas hominis, 4 cases; Chilomastix mesnili, 4
+cases; Retortamonas intestinalis, 3 cases), while in 9
+individuals it was associated with pathogenic parasites (G. lamblia, 7 cases; C. parvum, one case; Trichuris trichiura, one case). Nevertheless, most of the
+individuals with B. hominis colonization did not have
+concurrent parasites in stools specimens. In 23 of the
+165 B. hominis carriers, the average number of organisms was equal or exceeded 5 per 400 ®eld (range,
+5 to 25; average, 7). B. hominis represented the only
+intestinal parasite in 16 of these 23 subjects.
+A total of 190 of these 1216 subjects were symptomatic, and B. hominis represented the only intestinal organism in 18 of these symptomatic patients
+(Table 2). The major symptoms in these 18 patients
+were abdominal pain (12 patients), mild diarrhoea (11
+patients aected by three to six bowel movements
+daily), fatigue (9 patients), anorexia (9 patients), and
+nausea (8 patients). Nevertheless, there were no signi®cant dierences in prevalence of symptoms between those subjects who had B. hominis, alone or in
+association with other organisms, in their stools and
+those who did not, with the exception of the immunocompromised patients. The HIV-positive patients
+were divided on the basis of the CD4+ cell count:
+114 subjects (54.8%) had a CD4+ cell count
+<200 ´ 106/l, while 94 (45.2%) had a CD4+ cell
+count between 200 and 500 ´ 106/l. Successively, data
+from any risk group were analyzed by microbiological result (A: subjects with no parasite detected; B:
+subjects positive for B. hominis only; C: subjects
+positive for B. hominis and pathogenic organisms; D:
+subjects positive for B. hominis and nonpathogenic
+organisms). B. hominis in combination with intestinal
+pathogens (subgroup C) resulted signi®cantly associated with presence of symptoms. On the contrary
+there was no signi®cant association with presence of
+symptoms among the subjects of the subgroups B and
+D, with the exception, within the subgroup B, of the
+signi®cant association between detection of B. hominis and presence of symptoms in the patients with
+CD4+ cell count <200 ´ 106/l. Although the number of symptomatic B. hominis carriers within subgroup B was small (18 individuals out of 123), our
+data suggested that symptomatic carriers were more
+likely than symptom-free individuals to have P5
+B. hominis organisms per ®eld: 7(38.9%) out of 18
+cases versus 9 (8.6%) out of 105 cases.
+Discussion
+B. hominis is often observed in routine stool examination from symptomatic and asymptomatic subjects. Numerous reports have been published that
+
+
+
+391
+Table 1. Prevalance of intestinal organisms among controls and ®ve selected cohorts of individuals
+
+B. hominis
+Pathogenic protozoa
+G. lamblia
+C. parvum
+B. colif
+C. cayetanensisg
+Nonpathogenic protozoa
+E. coli
+E. nanus
+E. hominis
+I. buÈtschlii
+C. mesnili
+E. hartmanni
+R. intestinalis
+D. fragilis
+Helminths
+T. trichiura
+S. stercoralis
+Bacteria
+Salmonella spp.
+Pathogenic E. coli
+S. ¯exneri
+A. hydrophila
+Viruses
+Rotavirus
+Adenovirus
+
+Total
+
+First
+cohorta
+
+Second
+cohortb
+
+Third
+cohortc
+
+Fourth
+cohortd
+
+Fifth
+cohorte
+
+Controls
+
+165
+
+76
+
+15
+
+28
+
+28
+
+12
+
+6
+
+23
+14
+2
+1
+
+6
+2
+)
+)
+
+3
+)
+)
+)
+
+6
+9
+1
+)
+
+3
+)
+1
+)
+
+4
+3
+)
+1
+
+1
+)
+)
+)
+
+35
+18
+14
+14
+13
+9
+7
+2
+
+23
+9
+4
+5
+5
+4
+2
+2
+
+3
+2
+3
+4
+3
+1
+2
+)
+
+5
+3
+2
+1
+1
+1
+1
+)
+
+2
+2
+1
+3
+2
+2
+1
+)
+
+1
+2
+3
+1
+2
+1
+1
+)
+
+1
+)
+1
+)
+)
+)
+)
+)
+
+7
+2
+
+6
+)
+
+)
+)
+
+)
+1
+
+1
+1
+
+)
+)
+
+)
+)
+
+7
+5
+1
+1
+
+1
+)
+)
+)
+
+)
+)
+)
+)
+
+1
+)
+1
+)
+
+1
+)
+)
+)
+
+4
+5
+)
+1
+
+)
+)
+)
+)
+
+1
+1
+
+)
+)
+
+)
+)
+
+)
+)
+
+)
+1
+
+1
+)
+
+)
+)
+
+a
+
+Individuals housed in residential facilities for psychiatric diseases.
+Elder individuals housed in a residential centre.
+c
+HIV-positive immunocompromised patients.
+d
+Immigrants from developing countries.
+e
+Travelers to developing tropical countries.
+f
+Balantidium coli.
+g
+Cyclospora cayetanensis.
+b
+
+arm and deny the pathogenic signi®cance of this
+organism. In this study, we determined the prevalence
+of B. hominis in the stools of 1216 subjects. Our data
+showed a high prevalence of B. hominis in diverse
+patient cohorts: a ®nding that con®rms the results of
+several previous reports [5±8, 10, 11].
+Our results showed a statistically signi®cant association between presence of B. hominis and the presence of symptoms only among the severely
+immunocompromised individuals with a CD4+ cell
+count <200 ´ 106/l. Pathogenic potential of B. hominis might depend on host factors such as lowered
+immunity or on disturbances of gastrointestinal
+function or ¯ora. Besides, apart from symptomatic
+courses of infection due to large number of parasites,
+pathological eects might depend on toxic-allergic
+action of B. hominis [12]. Nevertheless, no toxin elaboration has been demonstrated and, therefore, no
+puri®ed-toxin studies have been reported to date.
+Recent investigations have identi®ed two variants of
+B. hominis on the basis of dierent polypeptide patterns and DNA polymorphisms [13, 14]. Other authors
+demonstrated that there are at least 5±7 subgroups of
+
+B. hominis, but probably no `pathogenic' and `nonpathogenic' subspecies of this organism. It was showed
+also that the human isolates even dier more amongst
+themselves than they dier from Guinea pig sequences
+in rRNA genes [15, 16]. These ®ndings may indicate
+the possibility of intraspeci®c variation of the organism, the existence of zoonotic and human strains, and
+the possibility that virulence factors of the parasite are
+strain speci®c, which may explain why some subjects
+are symptomatic and others are not. Actually, the
+correlation between the occurrence of B. hominis and
+gastrointestinal symptoms in HIV-seropositive individuals is still debated and con¯icting evidence exists
+as to whether the organism should also be included
+among the infectious agents capable of causing HIVrelated diarrhoea [11, 17, 18]. We found the highest
+prevalence of the organism in the group of the institutionalized psychiatric patients, but it was not associated with gastrointestinal symptoms: in this cohort
+of individuals the presence of B. hominis is probably
+related to the presence of behavioral aberrations and
+fecal contamination of the environment, therefore the
+organism might be considered as an environmental
+
+
+
+392
+Table 2. Correlation between presence of B. hominis and gastroenteric symptoms
+Subgroup A
+Institutionalized
+psychiatric patients
+Symptomatic
+Institutionalized elder
+individuals
+Symptomatic
+HIV-seropositive
+CD4+ O 200 ´ 106/l
+Symptomatic
+200 < CD4+ O 500 ´ 106/l
+Symptomatic
+Immigrants
+Symptomatic
+Travelers
+Symptomatic
+Controls
+Symptomatic
+Total
+Symptomatic
+
+Subgroup B
+
+Subgroup C
+
+Subgroup D
+
+110
+8
+
+64
+6
+
+3
+3*
+
+12
+1
+
+86
+9
+
+7
+0
+
+0
+0
+
+4
+0
+
+76
+9
+63
+6
+98
+10
+376
+44
+99
+2
+908
+88
+
+11
+8*
+10
+2
+22
+1
+7
+1
+2
+0
+123
+18
+
+3
+3*
+4
+4*
+1
+0
+1
+1*
+0
+0
+12
+11*
+
+4
+1
+5
+1
+3
+0
+5
+0
+0
+0
+33
+4
+
+Subgroup A: no presence of parasite; Subgroup B: subjects positive for Blastocystis hominis only; Subgroup C: subjects
+positive for Blastocystis hominis and pathogenic organisms; Subgroup D: subjects positive for Blastocystis hominis and
+nonpathogenic organisms.
+* p O 0:05.
+
+indicator. The prevalence of B. hominis was lower and
+similar among elder individuals, HIV-positive patients
+and immigrants from developing countries. Interestingly, the lowest prevalence of B. hominis was found in
+the group of the travellers from Italy to developing
+tropical countries. These ®ndings are controversial in
+relation to several studies previously performed on
+travellers [4, 19, 20]. This could probably due to a
+correct counselling activity realized with a travel information service by the Centre for traveller's disease
+prevention of the Institute of Infectious Disease and
+Public Health of the University of Ancona to whom
+the majority of the travellers referred. Our data show
+the association of B. hominis and symptoms only in
+severely immunosuppressed patients, although this
+conclusion is based on a small number of individuals.
+Besides, it is well known that, in these patients, gastrointestinal symptoms may be caused by medications
+such as antibiotics and antiretrovirals. Nevertheless in
+most of our cases the presence of B. hominis was not
+associated with gastrointestinal symptoms: we believe
+that occasionally the organism may become an opportunistic pathogen and may contribute to illness as a
+part of a larger picture.
+Acknowledgements
+This work was in part supported by a grant from
+Istituto Superiore di SanitaÁ, Rome, Italy, (IX AIDS
+project). Oscar Cirioni is the recipient of a scholarship from Istituto Superiore di SanitaÁ, Rome, Italy.
+
+References
+1. Stenzel DJ, Boreham PFL. Blastocystis hominis rivisited. Clin Microbiol Rev 1996; 9: 563±584.
+2. Sogin ML, Morrison HG, Hinkle G, Silberman JD.
+Ancestral relationships of the major eukaryotic lineages. Microbiologia 1996; 12: 17±28.
+3. Silberman JD, Sogin ML, Leipe DD, Clark CG. Human parasite ®nds taxonomic home. Nature 1996; 380:
+398.
+4. Miller RA, Minshew BH. Blastocystis hominis: An organism in search of a disease. Rev Infect Dis 1988; 10:
+930±937.
+5. Udkow PM, Markell EK. Blastocystis hominis: Prevalence in asymptomatic versus symptomatic hosts. J Infect Dis 1993; 168: 242±244.
+6. Boreham RE, Benson S, Stenzel DJ, Boreham PFL.
+Blastocystis hominis infection. Lancet 1996; 348:
+272±273.
+7. Anonimous. Blastocystis hominis: Commensal or
+pathogen? Lancet 1991; 337: 521±522.
+8. Shlim DR, Hoge CW, Rajah R, Rabold JG, Echeverria
+P. Is Blastocystis hominis a cause of diarrhea in travelers? A prospective controlled study in Nepal. Clin Infect
+Dis 1994; 21: 97±101.
+9. Garavelli PL. Blastocystosis or Zierdt±Garavelli disease. Press Med 1996; 25: 777.
+10. Nimri L, Batchoun R. Intestinal colonization of
+symptomatic and asymptomatic schoolchildren with
+Blastocystis hominis. J. Clin Microbiol 1994; 32: 2865±
+2866.
+11. Morgan D, Whitworth J, Eotu H, Omoding N, Moore
+M. Gastrointestinal parasite infections. Lancet 1996;
+348: 965±966.
+
+
+
+393
+12. Zierdt CH. Blastocystis hominis as a human pathogen.
+Rev Infect Dis 1989; 11: 661±662.
+13. Kukoschke KG, MuÈller HE. SDS-PAGE and immunological analysis of dierent axenic Blastocystis hominis strains. J Med Microbiol 1991; 35: 35±39.
+14. Yoshikawa H, Nagono I, Yap EH, Singh M, Takahashi
+Y. DNA polymorphism revealed by arbitrary primers
+polymerase chain reaction among Blastocystis strains
+isolated from humans, a chicken, and a reptile. J Eukaryot Microbiol 1996; 43: 127±130.
+15. Clark CG. Extensive genetic didversity in Blastocystis
+hominis. Mol Biochem Parasitol 1997; 87: 79±83.
+16. BoÈhm-Glonong B, Knobloch J, Walderich B. Five
+subgroups of Blastocystis hominis from symptomatic
+and asymptomatic patients revealed by restriction site
+analysis of PCR-ampli®ed 16S-like rDNA. Trop Med
+Int Health 1997; 2: 771±778.
+17. Albrecht H, Stellbrink HJ, Koperski K, Greten H.
+Blastocystis hominis in human immunode®ciency virusrelated diarrhea. Scand J Gastroenterol 1995; 30:909±914.
+
+18. Storgaard M, Lauren AL, Anderson PL. The occurrence of Blastocystis hominis in HIV-infected patients.
+AIDS 1996; 10: 444±445.
+19. Jelinek T, Peyerl G, LoÈscher T, von Sonnenburg F,
+Nothdurft HD. The role of Blastocystis hominis as a
+possible intestinal pathogens in travellers. J Infect 1997;
+35: 63±66.
+20. Herwaldt B, De Arroyave K, Wahlquist S, Du Pee L,
+Eng T, Juranek D. Infections with intestinal parasites in
+peace corps volunteers in Guatemala. J Clin Microbiol
+1994; 32: 1376±1378.
+
+Address for correspondence: Oscar Cirioni, Istituto di
+Malattie Infettive e Medicina Pubblica, c/o Azienda Ospedaliera Umberto I, Piazza Cappelli, 1, I-60121 Ancona AN,
+Italy
+Phone: +39/71/5963467; Fax: +39/71/5963468
+E-mail: cmalinf@popcsi.unian.it
+
+

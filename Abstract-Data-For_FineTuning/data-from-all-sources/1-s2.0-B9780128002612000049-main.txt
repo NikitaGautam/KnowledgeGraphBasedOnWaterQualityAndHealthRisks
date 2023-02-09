@@ -1,0 +1,1901 @@
+CHAPTER FOUR
+
+Environmental and
+Animal-Associated Enterococci
+Christopher Staley*, Gary M. Dunny†, Michael J. Sadowsky*,{,1
+*BioTechnology Institute, University of Minnesota, St. Paul, Minnesota, USA
+†
+Department of Microbiology, University of Minnesota, Minneapolis, Minnesota, USA
+{
+Department of Soil, Water and Climate, University of Minnesota, St. Paul, Minnesota, USA
+1
+Corresponding author: e-mail address: sadowsky@umn.edu
+
+Contents
+1. Introduction
+2. Host-Associated Enterococci
+2.1 Summary of species found in various animal hosts
+2.2 Genetic/genomic analysis of host specificity, virulence, and drug resistance
+2.3 Transmission of strains and genes between different hosts
+3. Enterococci in Extra-Enteric Habitats
+3.1 Soil
+3.2 Sediment
+3.3 Freshwater
+3.4 Marine water
+3.5 Beach sand
+3.6 Vegetation
+4. Factors Influencing the Ecology of Enterococci in Extra-Enteric Habitats
+4.1 Sunlight
+4.2 Salinity
+4.3 Starvation
+4.4 Predation
+References
+
+148
+150
+152
+156
+158
+159
+159
+163
+165
+166
+168
+170
+172
+172
+175
+176
+177
+178
+
+Abstract
+Enterococci are generally commensal bacteria inhabiting the gastrointestinal tract of
+humans and animals. They have, however, been implicated as the etiological agent
+of a variety of illnesses and nosocomial infections. In addition to pathogenic potential,
+there is growing concern regarding the incidence of antibiotic resistance and genetic
+exchange among Enterococcus spp. within and among a variety of animal hosts. While
+primarily considered an enteric group, extra-enteric habitats in which enterococci persist and potentially grow have been studied for decades. Although many biotic (e.g.,
+predation) and abiotic (e.g., sunlight, nutrients, and salinity) stressors have been thought
+to limit the success of enterococci in these secondary habitats, a growing body of evidence suggests that certain strains may become naturalized to environmental habitats.
+Advances in Applied Microbiology, Volume 87
+ISSN 0065-2164
+http://dx.doi.org/10.1016/B978-0-12-800261-2.00004-9
+
+# 2014 Elsevier Inc.
+
+All rights reserved.
+
+147
+
+
+
+148
+
+Christopher Staley et al.
+
+Enterococci have also been used for decades as indicators of fecal contamination in
+recreational waters where increased concentrations of this group have been linked
+to the incidence of illness in humans following recreational use of these waters. Persistence of enterococci in secondary habitats, however, suggests that their presence in
+ambient waters may prove to be a poor indicator of actual risks to public health. In this
+chapter, we provide a review of the existing body of literature concerning animal host
+associations, genetic exchange is reviewed, and emphasis is placed on the growing
+body of evidence for the persistence and growth of enterococci in secondary habitats.
+
+1. INTRODUCTION
+The enterococci are members of the genus Enterococcus [formerly
+referred to as enteric members of genus Streptococcus or fecal streptococci
+(Collins, Jones, Farrow, Kilpper-Bläz, & Schleifer, 1984; Schleifer &
+Kilpper-Bälz, 1984)] that have been historically described as bacteria capable
+of growth between 10 and 45  C, in 6.5% NaCl, and at pH 9.6 (Sherman,
+1937). They are gram-positive bacteria and appear as spherical or ovoid cells
+that are arranged as single cells, in pairs, or in short chains (Byappanahalli,
+Nevers, Korajkic, Staley, & Harwood, 2012; Murray, 1990). The enterococci are obligate fermentative bacteria. While a few species produce
+pseudocatalase (Schleifer & Kilpper-Bälz, 1984), they are generally
+catalase-negative (Byappanahalli, Nevers, et al., 2012; Murray, 1990).
+Motility and pigmentation of enterococci vary by species (Collins,
+Farrow, & Jones, 1986; de Vaux, Laguerre, Divies, & Prevost, 1998;
+Martinez-Murcia & Collins, 1991). Currently, 36 species of Enterococcus
+have been identified from a variety of habitats and are classified into five
+groups, with varying pathogenic potential toward humans (Byappanahalli,
+Nevers, et al., 2012).
+While many Enterococcus spp. are generally commensal bacteria, several
+species have been described as human pathogens (Moellering, 1992).
+Enterococci have been implicated as etiological agents of endocarditis,
+enterococcal bacteremia, neonatal infections, central nervous system
+infections, and abdominal and pelvic infections (Buchino, Ciambarella, &
+Light, 1979; Eigler, Wellman, Rooke, Keith, & Svien, 1961; Garrison,
+Fry, Berberich, & Polk, 1982; Gross, Harkavy, Barden, & Flower, 1976;
+Moellering, Watson, & Kunz, 1974; Murray, 1990). Perhaps of greatest
+concern, however, is the widespread implication of enterococci, especially
+Enterococcus faecalis and Enterococcus faecium, in nosocomial infections and their
+
+
+
+Environmental and Animal-Associated Enterococci
+
+149
+
+increasing resistance to numerous antibiotics (Tendolkar, Baghdayan, &
+Shankar, 2003).
+Enterococcus spp. strains have been well characterized and are known to
+inhabit the gut of humans and a variety of animals (de Graef et al., 2003;
+de Vaux et al., 1998; Devriese, Ceyssens, Rodrigues, & Collins, 1990;
+Noble, 1978). Due to their prevalence and abundance in feces, these bacteria
+have been used for decades as indicators of sewage or fecal contamination
+(fecal indicator bacteria; FIB) in recreational waters (United States
+Environmental Protection Agency, 1986). The US Environmental Protection
+Agency (EPA) has suggested that coastal states and those bordering the Great
+Lakes states use enterococci as an alternative indicator of fecal contamination
+(United States Environmental Protection Agency, 2012). Epidemiological
+studies done in marine and fresh waters have shown that there is a strong positive correlation with enterococcal concentration and the risk of gastroenteritis
+associated with swimming (Cabelli, Dufour, McCabe, & Levin, 1982; Wade
+et al., 2008, 2006; Wade, Pai, Eisenberg, & Colford, 2003).
+One major limitation of current FIB methods, including those used for
+enterococci, is that the bacteria require approximately 24 h to grow and
+enumerate, providing antecedent estimates of water quality. This may lead
+to unnecessary beach closures, exposure of swimmers and recreationists to
+poor-quality water, and skepticism among the public. The BEACH Act,
+passed by Congress in 2000, resulted in EPA’s development of a rapid, quantitative polymerase chain reaction method to quantify enterococci in 2 h in
+recreational waters (Santo Domingo, Siefring, & Haugland, 2003). This
+rapid method is now being considered for use in California to reduce the
+time it takes to notify swimmers of poor water quality and to protect public
+health (Griffith & Weisberg, 2011).
+Enterococci have also been found in a variety of environmental habitats
+including soils (Mundt, 1961), sediments (Gary & Adams, 1985; ObiriDanso & Jones, 2000), freshwater (Gary & Adams, 1985), marine waters
+(Boehm et al., 2002), beach sand (Sanchez, Agudo, Castro, Alves, &
+Martins, 1986), and a variety plants and aquatic vegetation (Muller,
+Ulrich, Ott, & Muller, 2001; Mundt, 1961; Whitman, Shively, Pawlik,
+Nevers, & Byappanahalli, 2003). These environmental habitats often have
+limited exposure to human inputs.
+The presumption to date has been that when enterococci are shed from
+the gastrointestinal tract of animal hosts, they will decay in secondary environmental habitats due to ecological stressors, such as nutrient depravation,
+predation, or ultraviolet radiation. More recently, however, the occurrence,
+
+
+
+150
+
+Christopher Staley et al.
+
+persistence, and population dynamics of enterococci in extra-enteric, environmental habitats have received increasing attention (Byappanahalli,
+Nevers, et al., 2012). Recent characterization of enterococci in extra-enteric
+habitats has revealed the presence of apparently stable, potentially naturalized, environmental populations (Badgley, Thomas, & Harwood, 2010),
+and such populations may confound the use of enterococci as FIB if they
+are present in high abundance in the absence of fecal contamination and
+human pathogens.
+
+2. HOST-ASSOCIATED ENTEROCOCCI
+The enterococci are ubiquitous and hardy cocci that are part of the
+gastrointestinal microbiota of many if not most metazoans. While most
+strains require numerous growth factors, such as vitamins and amino acids,
+the enterococci are remarkably resistant to numerous environmental stresses,
+and remarkably adaptable to survival and growth in diverse ecological
+niches. This is illustrated by major diagnostic phenotypes, such as growth
+at temperatures ranging from 10 to 45  C and resistance to bile salts, sodium
+chloride, and desiccation (as reviewed by Huycke, 2002). The cumulative
+body of literature from published studies characterizing enterococci isolated
+from host-associated and environmental niches (see Aarestrup, Butaye, &
+Witte, 2002; Tannock & Cook, 2002 for reviews) indicate that the most
+commonly identified species are E. faecalis and E. faecium. While numerous
+additional species have been proposed over the past century, it is only within
+the past decade that phylogenetic studies based on analysis of ribosomal
+RNA gene sequences, and of a few other highly conserved reference genes,
+have been widely applied to a large number of enterococcal isolates of
+diverse origin (McBride, Fischetti, Leblanc, Moellering, & Gilmore,
+2007; Naser et al., 2005; Willems et al., 2012). More recently, complete
+genome sequences for numerous E. faecalis and E. faecium strains, as well
+as sequences of a few strains of other species, have become available
+(Aakra et al., 2005; Bourgogne et al., 2008; Palmer, Carniol, et al., 2010;
+Palmer et al., 2012; Paulsen et al., 2003). Results of these analyses suggest
+that this genus is comprised of about 5–6 major groups, with E. faeciumand E. faecalis-like strains comprising the groups containing the mostfrequently identified species (Gilmore, Lebreton, & van Schaik, 2013,
+Naser et al., 2005).
+The first comprehensive efforts by Mundt and coworkers (Martin &
+Mundt, 1972; Mundt, 1963a) to culture and characterize enterococci from
+
+
+
+Environmental and Animal-Associated Enterococci
+
+151
+
+the gastrointestinal tracts of animal species including mammals, reptiles,
+birds, and insects had success rates ranging from 32% to 86%. Gilmore
+et al. noted that since culture-based methods significantly underestimate
+the true carriage rate (Gilmore et al., 2013), it is conceivable that enterococci
+may have been members of the gut microbiota of all of these diverse animals
+since before they diverged from their last common ancestor over 400 million
+years ago. While it is increasingly clear that strains endemic to particular
+niches have evolved genotypes that optimize their competitive fitness in
+those niches, the inherent robustness common to all of these organisms
+translates into significant potential for movement between diverse niches,
+including between hosts and from a host to the environment. This complicates the definition of the host range of various species and genotypes. Thus,
+the “predominant” species associated with a given animal host should not be
+considered as a complete set of all possible isolates capable of colonizing that
+host. Given the propensity of the enterococci to harbor various mobile
+genetic elements (Gentry-Weeks, Coburn, & Gilmore, 2002; Gilmore
+et al., 2013; Palmer, Kos, & Gilmore, 2010; Paulsen et al., 2003;
+Tremblay, Letellier, Quessy, Daignault, & Archambault, 2012), their natural
+resiliency, adaptability, and ability to transit between distinct niches also
+makes them major players in the evolutionary processes mediated by lateral
+gene transfer.
+In addition to their adaptability to different environments, another
+important trait of these organisms is that they can rapidly change from a
+low-abundance commensal to a predominant population of the microbiota,
+with a frequent consequence being pathogenic effects on the host (Gilmore
+et al., 2013). These changes typically result from homeostatic disturbances of
+the host or the microbial community, including, but not limited to, antibiotic exposure. The research literature on environmental enterococci discussed elsewhere in this chapter suggests the likelihood that similar
+increases in enterococcal populations likely result from perturbing nonhostassociated environments as well. The cumulative data from numerous
+studies suggest that these organisms may have evolved an “under the radar”
+lifestyle of persistence at relatively low levels, while begin poised to take
+advantage of various stresses that are harmful to many microbes inhabiting
+the same niches. Consequently, disturbance of the natural homeostatic
+mechanisms that maintain the natural community allows the enterococcal
+residents to proliferate in this disturbed niche. This proliferation is frequently
+accompanied by the spread of the enterococcal strains to new niches
+(Gilmore et al., 2013; Palmer et al., 2012; Tannock & Cook, 2002;
+
+
+
+152
+
+Christopher Staley et al.
+
+Whitman et al., 1996), and in some cases resulting in a diseased state. Under
+these conditions, the transfer of mobile elements may also increase and
+confer additional selective benefits for the recipients of these elements.
+In spite of the increasing prevalence of multiply-resistant enterococci in
+life-threatening infections of hospital patients, our understanding of the
+genetic basis and phenotypic basis for either the commensal or pathogenic
+lifestyles of the enterococci is still quite limited. However, these questions
+are beginning to be addressed for the predominant human and animal species
+(E. faecalis and E. faecium) using genomic approaches, and there is great
+promise that continued efforts will eventually elucidate these issues. Below
+we summarize what is known about the enterococcal flora of various human
+and nonhuman hosts, and we review emerging work examining the genotypic basis for colonization and virulence in humans and animals, as well as
+the transmission of strains and genes between different reservoirs.
+
+2.1. Summary of species found in various animal hosts
+The vast majority of the studies of host-associated enterococci have focused
+on the intestinal microbiota of healthy humans and individuals treated with
+antibiotics, as well as on isolates obtained from human infections. Most isolates in the latter category were from opportunistic infections occurring in
+hospital patients or in other individuals with chronic conditions that compromised the function of their normal immune defenses. As indicated in
+Table 4.1, the predominant intestinal species, E. faecalis, is found in healthy
+individuals as well as those persons treated with antibiotics other than the
+glycopeptides vancomycin or teicoplanin. Likewise, E. faecalis is responsible
+for a large majority of the total set of enterococcal infections (Bennett &
+Dunny, 2010; Gilmore, Coburn, Nallapareddy, & Murray, 2002;
+Lempiainen, Kinnunen, Mertanen, & Wright, 2005; Shankar,
+Baghdayan, & Gilmore, 2002; Tendolkar et al., 2003). However,
+vancomycin-resistant E. faecium shows a strong predilection for becoming
+dominant in the intestinal tract of vancomycin-treated individuals, and is
+the most commonly isolated vancomycin-resistant Enterococcus species from
+human infections (Table 4.2).
+The intestinal tract is generally considered the major natural habitat for
+human-associated enterococci, but it is clear that they are commonly present
+at low numbers in niches such as the oral cavity, where they can become
+more prominent in the context of endodontic infections (Ferrari, Cai, &
+Bombana, 2005; Sedgley, Lennan, & Clewell, 2004) or oral tumors
+
+
+
+Table 4.1 Commensal association of enterococci with various hosts**
+Animal host
+
+Comments or
+characteristics
+
+Enterococcus species
+E. faecalis E. faecium E. durans E. hirae E. mundtii E. cecorum E. columbae E. casseliflavis E. gallinarum E. avium E. raffinosus
+
+þþ
+
+þ
+
+þ*
+
+þþ*
+
+Dog or cat
+
+þ
+
+þ
+
+þ
+
+Chicken
+
+þþ
+
+þþ
+
+þþ
+
+Pig
+
+þþ
+
+þ
+
+Calf
+
+þþ
+
+þþ
+
+Cow
+
+þ
+
+þ
+
+Wild birds
+
+þþ
+
+Human
+
+Invertebrates þþ
+
+þ
+þ
+þþ
+
+þ
+
+þ
+
+þþ
+
+þ
+
+þ
+
+þ
+þ
+
+Succession of
+species from day 1
+(faecalis)–day
+10 (facium group)
+to adult (cecorum)
+E. faecalis higher in
+intestine than
+feces. E. faecium
+higher in feces
+than intestine
+
+þ
+
+þ
+
+þþ
+
+þþ
+
+þ
+
+S. bovis tends to
+replace
+enterococci in
+adult cattle
+E. faecalis
+predominant in
+ducks; columbae
+predominant in
+pigeons
+
+þþ
+
+þþ: predominant isolate; þ: occasional isolate; þþ*: predominant following vancomycin treatment; þ*: occasional following vancomycin treatment; **: compiled from cumulative data reviewed by Aarestrup et al.
+(2002), Facklam (2002), Tannock and Cook (2002), and Gilmore et al. (2013).
+
+
+
+Table 4.2 Enterococcal species associated with infections**
+Animal host
+
+Comments or
+characteristics
+
+Enterococcus species
+E. faecalis E. faecium E. durans E. hirae E. mundtii E. casseliflavis E. gallinarum E. avium E. raffinosus
+
+Human
+
+þþ
+
+þ
+
+þ*
+
+þþ*
+
+Dog or cat
+
+þ*
+
+þ*
+
+þ
+
+þ
+
+Chicken
+
+þ
+
+þ
+
+þ
+
+Pig
+
+þ
+
+þ
+
+þ
+
+Cattle
+(mastitis)
+
+þþ
+
+þ
+
+þ
+
+þ
+
+þ
+
+þþ
+
+Cattle
+(intestinal
+infections)
+Wild animals
+
+Invertebrates þ
+
+þ*
+
+þ*
+
+þ*
+
+þ*
+
+þ*
+
+Bloodstream, wounds,
+endocarditis, urinary tract
+
+þ
+
+Sporadic enterococcal
+isolates from infected fish
+and other animals. Strains
+not well characterized
+þ
+
+Isolates from infected
+wild insects. Also can
+produce experimental
+infections in larvae and
+worms
+
+þþ: predominant isolate; þ: occasional isolate; þþ*: predominant in vancomycin-treated patients; þ*: occasional vancomycin-treated patients; **: compiled from cumulative data
+reviewed by Aarestrup et al. (2002), Gilmore et al. (2002), and Gilmore et al. (2013).
+
+
+
+Environmental and Animal-Associated Enterococci
+
+155
+
+(Boonanantanasarn et al., 2012). The human intestinal tract is likely to harbor additional enterococcal species (e.g., Enterococcus durans, Enterococcus
+hirae, Enterococcus mundtii, Enterococcus casseliflavus, Enterococcus gallinarum, or
+Enterococcus avium) at very low numbers, as evidenced by their regular isolation from vancomycin-resistant hospital infections.
+Much of the analysis of the enterococci associated with nonhuman hosts
+has focused on farm animals and pets. E. faecalis, E. faecium, and several other
+species are commonly identified as members of the normal intestinal flora of
+numerous animal species. Certain species and age groups exhibit trends, but
+not absolute specificity, for presence in a particular host or a particular subpopulation of a given host. Among farm animals, the predominant enterococci in pigs are most similar to those of humans (Devriese, Hommez, Pot, &
+Haesebrouck, 1994). It is also interesting to note that age-related succession
+in the predominant enterococcal species has been well documented. For
+example, newly hatched chicks are colonized by E. faecalis, which tend to
+be replaced quickly by E. faecium-like strains, and are subsequently
+succeeded by Enterococcus cecorum in adults (Devriese, Hommez,
+Wijfels, & Haesebrouck, 1991; Devriese, Laurier, De Herdt, &
+Haesebrouck, 1992). Likewise, in cattle, E. faecium and E. faecalis predominate in young calves. These strains, along with a few additional species, persist at reduced numbers as the animals age, but in mature adults Streptococcus
+bovis appears to succeed the enterococci as the predominant species in the
+intestine. While there is not extensive evidence for strong host-specific
+enterococci, it has been reported that ducks preferentially harbor
+E. faecalis and pigeons are specifically colonized by Enterococcus columbae. Relatively little is known about the genetic and phenotypic basis for preferential
+association of enterococcal species with any of these animal hosts. Although
+not shown in Table 4.1, it should also be noted that enterococci of diverse
+species can be isolated from the guts of insects and nematodes (Martin &
+Mundt, 1972), and the close interactions of these organisms with other
+microbes derived from the soil may serve as a conduit for transmission of
+antibiotic resistance genes into the enterococci.
+While the enterococci have become increasingly important as causative
+agents of serious human infection, reports of animal infections attributed to
+enterococci are much more sporadic (Table 4.2). Although studies of naturally occurring enterococcal infections in nonhuman hosts are not extensive, it is likely that most diseases of animals and invertebrates ascribed to
+enterococci represent opportunistic infections resulting from some
+predisposing factor compromising the host immune system. However, it
+
+
+
+156
+
+Christopher Staley et al.
+
+should be pointed out that experimental infection models employing
+rodents, insects, and worms (Garsin et al., 2001; Mason et al., 2011) have
+proven very useful in evaluating the contribution of specific determinants
+to the virulence of the bacteria.
+
+2.2. Genetic/genomic analysis of host specificity, virulence,
+and drug resistance
+Historically, studies of nonhuman, host-associated enterococcal species have
+primarily relied on classical microbiological methods, such as microscopy,
+growth requirements, and metabolic tests. Since the 1980s, sequencing of
+ribosomal genes has been an important means of classification for most
+enterococcal species. However, the total number of strains subjected to this
+analysis from the less common species groups is still relatively low. Recent
+comparative genomic analyses of E. faecium and E. faecalis using ribosomal
+gene sequencing, multilocus sequence typing (MLST), and, increasingly,
+total genome sequencing (De Leener et al., 2005; Leavis et al., 2004;
+McBride et al., 2009; Palmer, Carniol, et al., 2010; Palmer et al., 2012;
+Palmer, Kos, et al., 2010) are yielding important insights into the evolution
+and ecology of these organisms in different environments, the critical genetic
+determinants of commensal and pathogenic lifestyles, and the transmission of
+both strains and genes between different niches (Hammerum, 2012; Jensen,
+Hammerum, Poulsen, & Westh, 1999).
+Recently, Palmer et al. (Palmer, Carniol, et al., 2010; Palmer et al., 2012)
+published the results of a comprehensive comparative genome analysis based
+on newly generated sequences of 28 enterococcal strains (16 E. faecalis,
+8 E. faecium, 3 E. casseliflavus, and 1 E. gallinarum) from diverse clinical
+and nonclinical sources, as well as comparisons with previous genome
+sequences and MLST analyses. While predominant epidemic clones associated with hospital infections with wide geographic distribution have been
+identified for both E. faecalis (Huycke, Spiegel, & Gilmore, 1991; Murray
+et al., 1991) and E. faecium (Chow et al., 1993; Heikens, van Schaik,
+Leavis, Bonten, & Willems, 2008; Willems et al., 2005), the detailed comparative analysis reported by Palmer et al. revealed interesting differences
+between the evolution and genomic organization of the two species.
+The individual gene sequences and organization of the core genomes of
+all E. faecalis strains, regardless of source, are highly conserved and can be
+grouped into a single clade. Intestinal isolates not associated with antibiotic
+selective pressure or linked to opportunistic infections carry a minimal
+genome with relatively small numbers of mobile elements. This minimal
+
+
+
+Environmental and Animal-Associated Enterococci
+
+157
+
+genome serves as a platform for evolutionary processes associated with
+increased pathogenicity that involve acquisition of multiple mobile elements
+including integrated phages, pathogenicity islands, transposons, and plasmids as well as autonomously replicating plasmids. In contrast, the
+E. faecium isolates revealed a bimodal distribution of sequence conservation
+within the genes comprising the core genome resulting in the grouping of
+this species into two major clades, with the epidemic vancomycin-resistant
+clinical isolates falling into Clade A and the nonresistant fecal isolates analyzed grouped into Clade B. For both species, it was suggested that integrated mobile elements encoding resistance or virulence genes, along
+with flanking core genes, could be transferred horizontally by Hfr-like
+mechanisms that had been reported previously for E. faecalis (Manson,
+Hancock, & Gilmore, 2010). In the case of E. faecium, this type of transfer
+between clades may have generated mosaic genomes comprised primarily of
+core genes from one clade, but with “patches” of genes apparently acquired
+from the other clade. E. faecalis strains generally carry one or more
+CRISPR-cas loci that encode production of small RNAs that can confer
+immunity to infection by phages and other mobile elements, whereas these
+elements are less common in E. faecium. CRISPR-cas immunity has been
+proposed as a mechanism limiting the acquisition of vancomycin resistance
+in E. faecalis (Palmer & Gilmore, 2010; Palmer, Kos, et al., 2010). The
+cumulative analysis of CRISPR loci carried out by Palmer et al. confirmed
+that the probability of specific mobile elements was inversely related to the
+presence of CRISPR loci carrying spacer sequences complementary to
+these elements. However, in spite of CRISPRs, clinical isolates of both species are enriched for mobile elements, suggesting that they are strongly
+selected for during the evolution of virulent, disseminated clones. Interestingly, there is evidence that acquisition of multiple mobile elements, including those conferring vancomycin resistance, may be accompanied by
+deletion of segments of mobile elements encoding virulence genes
+(Gilmore et al., 2013). It should, however, be kept in mind that the number
+of enterococcal genes whose role in pathogenesis have been rigorously
+tested is still fairly small, and genes may have different functions in different
+hosts. Comparative genomic analyses are likely to inform functional studies
+to better define the roles of potential virulence factors, such as cell wall and
+capsular polysaccharides and surface protein adhesins, especially in
+E. faecium, whose pathogenesis has not been studied as extensively as
+E. faecalis. The proteins required for production of these components
+may be attractive targets for drug or vaccine development.
+
+
+
+158
+
+Christopher Staley et al.
+
+2.3. Transmission of strains and genes between different hosts
+One of the main questions being addressed by the comparative genomics
+research summarized above is the extent of transmission of enterococcal
+strains, mobile elements, and genes encoding antibiotic resistance and virulence traits between strains in different hosts and environments. An area of
+particular focus has been transmission from reservoirs associated with the
+raising of farm animals to humans, including individuals susceptible to
+opportunistic infections in hospitals and other health care facilities. This
+has been a particularly active area of investigation for enterococcal
+researchers in Europe, who have published numerous studies of the comparative functional genomics of human and animal-associated enterococci.
+These research groups have also examined the transfer of antibiotic resistance plasmids in the human and animal intestinal tracts. Much of this work
+stemmed from the possible effect of the use of growth-promoting agents
+such as avoparcin on the emergence of resistance to critical antimicrobial
+agents in human medicine such as vancomycin (Butaye et al., 2000;
+Johnsen et al., 2005; Kuhn et al., 2005). As described in detail in an excellent
+review (Hammerum, 2012), this work has clearly established that the intestinal tracts of humans and animals serve as suitable environments for conjugative transfer of resistance elements (Bourgeois-Nicolaos, Moubareck,
+Mangeney, Butel, & Doucet-Populaire, 2006; Lester, Frimodt-Møller,
+Sørensen, Monnet, & Hammerum, 2006), and there is substantial evidence
+for the movement of specific resistance determinants of animal origin into
+human strains (Jensen, 1998).
+Comparative genomic analyses based mostly on MLST of E. faecium have
+identified some strains isolated from humans that resemble the predominant
+clonal complexes from farm animals (Freitas et al., 2011). However, the
+most abundant sequence types of human origin are distinct from those of
+animal origin. Thus the transmission of both strains and mobile elements
+between the human and animal reservoirs clearly occurs, but the frequency
+of such transmission may be relatively low. This does not imply that these
+transmissions are not clinically and evolutionarily significant, given the tremendous selective pressures operative in both human medicine and modern
+agriculture.
+The analytical tools and insights that have been derived from the comparative genomics of human and animal-associated enterococci provide a
+great foundation for more extensive studies of enterococci from environmental sources, discussed in the following sections.
+
+
+
+Environmental and Animal-Associated Enterococci
+
+159
+
+3. ENTEROCOCCI IN EXTRA-ENTERIC HABITATS
+Enterococci have been detected in a variety of extra-intestinal habitats
+and are believed to have originated from animal sources from fecal pollution.
+Once introduced to secondary, environmental habitats, the ability of enterococci to grow and the mechanisms by which enterococci are transmitted
+vary depending on characteristics of the habitat that may afford protection
+from ecological stressors (Table 4.3). Methods of enumeration vary as a
+result of matrix type (e.g., different methods of elutriation from soils and sediment have been used) as well as culture method [e.g., most probable number (MPN) or colony forming units (CFU) in various media] depending
+upon the availability of various media at the time of the study. To maintain
+accuracy, units presented below are those from original reports and may not
+be directly comparable between studies employing differing methods of
+enumeration.
+
+3.1. Soil
+Enterococci are known to occur in a variety of soil types in tropical and temperate climates (Byappanahalli, Roll, et al., 2012; Desmarais et al., 2002;
+Fujioka et al., 1999; Mundt, 1961; Ran et al., 2013). An early study of
+enterococci in soils found that, when detected, concentrations ranged from
+approximately 101 to 103 MPN g1 of soil, and suggested that dispersal of
+enterococci could be attributed to effects of wind, gravity, and rain
+(Mundt, 1961). In a soil study done in Guam, that included enumeration
+of enterococci at varying depths, enterococci were found to be most numerous in surface soils (approximately 700 MPN 100 g1) with concentrations
+dropping to 20–60 MPN 100 g1 at depths of 18 and 36 cm (Fujioka et al.,
+1999), and these results were similar to an earlier study conducted in Hawaii
+(Hardina & Fujioka, 1991). More recently, a mean of approximately
+103 MPN 100 g1 of enterococci was reported in seven Hawaiian soil types,
+and showed no significant variation in concentration due to soil type
+(Byappanahalli, Roll, et al., 2012). In a Florida study done along a river
+bank, enterococci were detected at concentrations <102 cells g1 with little
+variability (Desmarais et al., 2002). In the same study, enterococci were also
+detected in remote soils at highly variable concentrations (>103 cells g1 to
+<101 cells g1). Finally, enterococci were detected in soil samples near Lake
+Superior at concentrations ranging from approximately 103 to 105 MPN
+
+
+
+Table 4.3 Distribution, growth, and transport mechanisms of enterococci in extra-enteric habitats
+Environmental
+Habitat
+Distribution
+Growth
+transport
+References
+
+Soil
+
+Tropical and temperate soils Possible if indigenous microbiota Wind
+are inhibited
+Gravity
+Highest concentrations
+Precipitation
+found in surface soils
+
+Byappanahalli and Fujioka (2004),
+Byappanahalli, Roll, and Fujioka
+(2012), Desmarais, Solo-Gabriele, and
+Palmer (2002), Fujioka and
+Byappanahalli (2001), Fujioka et al.
+(1999), Mundt (1961), Ran et al.
+(2013)
+
+Sediment
+
+Ubiquitous in surface
+sediments
+Undetectable at depth
+>5 cm
+
+Suggested but not demonstrated Sediment
+resuspension
+Precipitation
+
+Ferguson, Moore, Getrich, and
+Zhowandai (2005), Gary and Adams
+(1985), Le Fevre and Lewis (2003),
+Obiri-Danso and Jones (2000), Staley,
+Reckhow, Lukasik, and Harwood
+(2012)
+
+River flow
+Lake currents
+Precipitation
+
+Byappanahalli, Shively, Nevers,
+Sadowsky, and Whitman (2003),
+Fujioka, Sian-Denton, Borja, Castro,
+and Morphew (1999), Haack, Fogarty,
+and Wright (2003), Jenkins, Scott,
+Morgan, and Rose (2005), Knee,
+Layton, Street, Boehm, and Paytan
+(2008), Ran, Badgley, Dillon, Dunny,
+and Sadowsky (2013), Staley et al.
+(2012)
+
+Freshwater Tropical and temperate
+waters
+
+Unlikely, but may occur
+sporadically in the presence of
+excess nutrients
+
+
+
+Boehm et al. (2002), Korajkic, Badgley,
+Brownell, and Harwood (2009),
+Korajkic, Brownell, and Harwood
+(2011), Shibata, Solo-Gabriele,
+Fleming, and Elmir (2004)
+
+Unlikely
+
+Wave action
+Precipitation
+
+Beach sand Tropical and temperate
+sands
+Higher concentrations in
+surface sand and nearer to
+shoreline
+
+Demonstrated in vitro
+
+Tidal washing Byappanahalli et al. (2006), Halliday
+Precipitation and Gast (2011), Hartz et al. (2008),
+Phillips, Solo-Gabriele, Piggot, Klaus,
+and Zhang (2011), Yamahara, Layton,
+Santoro, and Boehm (2007)
+
+Vegetation Patchy distribution on
+terrestrial plants
+High concentrations in
+submerged vegetation
+
+Unlikely on terrestrial vegetation Wind
+Possible on aquatic vegetation
+Gravity
+Water current
+Wave action
+
+Marine
+water
+
+Tropical and temperate
+waters
+Higher concentration in
+nearshore waters
+Low to undetectable
+concentrations in offshore
+waters
+
+Anderson, Turner, and Lewis (1997),
+Badgley, Nayak, and Harwood (2010),
+Badgley, Thomas, et al. (2010),
+Imamura, Thompson, Boehm, and Jay
+(2011), Muller et al. (2001), Mundt
+(1961, 1963b), Ott et al. (2001), Staley
+et al. (2012), Whitman et al. (2003)
+
+
+
+162
+
+Christopher Staley et al.
+
+100 g1, and concentrations were positively correlated with soil temperature (Ran et al., 2013).
+3.1.1 Persistence and survival in soils
+Enterococci derived from sewage contamination are able to persist for
+extended periods of time in a variety of soil types and may constitute a
+minority of the indigenous microbial assemblage of soils in tropical climates
+(Byappanahalli & Fujioka, 2004; Mallmann & Litsky, 1951). An early study
+tested the persistence of enterococci from sewage or sludge in a sandy loam
+soil in lysimeters maintained outside in a temperate climate (Mallmann &
+Litsky, 1951). The study demonstrated that enterococci from sewage
+declined to undetectable levels after 14 days in 100 g samples. When sludge
+was mixed with soil, the enterococci persisted for 70 days declining by two
+orders of magnitude—the authors suggest that the presence of organic matter from the sludge facilitated survival (Mallmann & Litsky, 1951).
+Enterococci are also able to survive in tropical soil environments,
+although the environment is suboptimal and growth is limited by competition for nutrients with the indigenous microbiota (Byappanahalli & Fujioka,
+2004; Fujioka & Byappanahalli, 2001). While gram-negative bacteria, such
+as Escherichia coli, tend to be susceptible to the moisture content of soils
+(declining with lower moisture), enterococci have been shown to maintain
+relatively consistent concentrations in tropical soil as moisture decreased
+from 35% to 11% (Byappanahalli & Fujioka, 2004).
+3.1.2 Growth in soils
+In addition to persistence, enterococci are able to grow in soils when indigenous microorganisms are inhibited or eliminated (Byappanahalli & Fujioka,
+2004; Byappanahalli, Roll, et al., 2012). Inhibition of indigenous microorganisms with bile salts has been shown to promote the growth of E. coli in
+soils with concentrations increasing by nearly three orders of magnitude
+(Byappanahalli & Fujioka, 2004). While enterococci were not measured
+in the bile salts experiment, it is likely that a similar increase in concentration
+would occur if the indigenous soil assemblage is inhibited. For example,
+when sewage-contaminated soil was mixed 1:10 (wt/wt) with autoclaved
+stream bank soil, enterococci concentrations increased nearly 100-fold over
+4 days (Byappanahalli, Roll, et al., 2012).
+3.1.3 Population genetics in soils
+Speciation of enterococci from soils has revealed that as many as eight different species may be present and that strains are metabolically diverse
+
+
+
+Environmental and Animal-Associated Enterococci
+
+163
+
+(Byappanahalli, Roll, et al., 2012; Ran et al., 2013). In temperate soils from
+two locations, eight species were identified including E. faecalis, E. faecium,
+E. casseliflavus, E. hirae, E. mundtii, E. gallinarum, E. durans, and E. avium, and
+the dominant species varied by sampling site (Ran et al., 2013). In contrast,
+in temperate soils, E. hirae and E. mundtii were not identified (Byappanahalli,
+Roll, et al., 2012). Among 227 E. faecalis isolates identified in temperate soils
+over 4 months, 46 distinct genotypes were identified by DNA fingerprinting
+(Ran et al., 2013). Isolates having one of eight genotypes were identified
+during multiple months of the study period, and these isolates clustered
+together, accounted for 52% of total isolates, and were suggested to represent
+a group of persistent E. faecalis strains.
+
+3.2. Sediment
+Both freshwater and marine sediments are globally established, extra-enteric
+reservoirs of enterococci (Ferguson et al., 2005; Gary & Adams, 1985; Le
+Fevre & Lewis, 2003; Obiri-Danso & Jones, 2000; Staley et al., 2012). Concentrations of enterococci in freshwater stream and lake sediments have been
+reported at concentrations ranging from 101 to 104 CFU 100 g1, and disturbance of sediment in both biomes has resulted in significant increases in
+enterococci concentrations in the water (Gary & Adams, 1985; Staley et al.,
+2012). These studies suggest that enterococci adsorb to sediment particles
+and are able to be resuspended in the water column upon disturbance. Furthermore, exposure to fecal contamination has been shown to result in concentrations of enterococci 100-fold greater than when the same site was
+unimpacted (Gary & Adams, 1985).
+Concentrations of enterococci have also been shown to be highly variable with sediments acting as sinks of enterococci from a variety of input
+sources (Ferguson et al., 2005; Le Fevre & Lewis, 2003; Obiri-Danso &
+Jones, 2000). Enterococci in intertidal sediments at three sites in northwest
+England were on the order of 101–102 CFU g1 and fluctuated very little in
+response to tidal cover (Obiri-Danso & Jones, 2000). At one site in this
+study, significantly greater enterococci were present in sediments during
+winter months compared to summer, although no seasonal variability was
+detected at the other two. Enterococci concentrations in sediments have
+been shown to increase in response to discharges from sources including
+wastewater treatment plants, streams, and stormwater (Ferguson et al.,
+2005; Le Fevre & Lewis, 2003; Obiri-Danso & Jones, 2000).
+Rainfall was also shown to increase enterococcal concentrations in sediments (Le Fevre & Lewis, 2003), and the authors suggest that deposition of
+
+
+
+164
+
+Christopher Staley et al.
+
+enterococci in the sediment was a major mechanism of their removal from
+the water column. Furthermore, wave action resulted in resuspension of
+enterococci from sediment indicating an interaction between populations
+of enterococci and the overlaying water column (Ferguson et al., 2005;
+Le Fevre & Lewis, 2003).
+3.2.1 Persistence and survival in sediments
+Enterococci maintain relatively low, yet stable, concentrations in sediments
+and generally persist at greater concentrations than do other FIB (Sayler,
+Nelson, Justice, & Colwell, 1975). Analysis of sediment depth revealed that
+enterococci persist at higher numbers in surface sediments and are generally
+undetectable below 5 cm (Obiri-Danso & Jones, 2000). Furthermore,
+enterococci tend to persist longer in sediments than the overlaying water
+column, although in mesocosm studies, decay rates of inoculated enterococci in sediments and either freshwater or saltwater did not differ significantly (Anderson, Whitlock, & Harwood, 2005). Decay rates of
+enterococci in both marine and freshwater sediments are generally less than
+those for E. coli (Davies, Long, Donald, & Ashbolt, 1995; Lee et al., 2006).
+Furthermore, the extent of reduction in enterococci concentration is generally less in freshwater sediment (one order of magnitude) than in marine
+sediment (up to two to three orders of magnitude) (Davies et al., 1995).
+3.2.2 Growth in sediments
+Growth of enterococci in both freshwater and marine sediments has been
+suggested (Desmarais et al., 2002; Ferguson et al., 2005; Gary & Adams,
+1985). In freshwater streams, downstream waters harbored 1.1–19.5-fold
+greater enterococci concentrations than those upstream, and the increase
+was attributed to growth and resuspension of enterococci from sediments
+(Gary & Adams, 1985). Addition of larger amounts of sterile sediment to river
+water resulted in more rapid increase and greater enterococci concentrations
+further suggesting that sediments support growth of enterococci (Desmarais
+et al., 2002). Consistently high concentrations of enterococci in marine sediments (104–106 CFU 100 g1) have also been suggested to imply growth
+(Ferguson et al., 2005). While it seems likely that under certain conditions
+enterococci are capable of growth in sediment, further study is necessary
+to assess growth dynamics of these species in sediments.
+3.2.3 Population genetics in sediments
+E. faecalis and E. faecium have been reported to be among the most abundant
+species of enterococci in marine and intertidal sediments (Ferguson et al.,
+
+
+
+Environmental and Animal-Associated Enterococci
+
+165
+
+2005). Other species identified in these sediments and the overlaying water
+include E. hirae, E. casseliflavus, E. mundtii, and to a lesser extent
+E. gallinarum, E. durans, and E. avium. These species were also identified
+in sediments from Lake Superior, and temporal shifts in their relative abundance were observed with no discernible trend (Ran et al., 2013).
+
+3.3. Freshwater
+Enterococci have long been used as indicators of fecal contamination in
+ambient and recreational fresh waters (United States Environmental
+Protection Agency, 1986); however, environmental reservoirs such as sediments (Gary & Adams, 1985; Staley et al., 2012) or vegetation (Whitman
+et al., 2003) may also contribute enterococci in freshwater systems. Both
+temperate and tropical freshwater bodies have been shown to harbor
+populations of enterococci (Byappanahalli et al., 2003; Fujioka et al.,
+1999; Haack et al., 2003; Jenkins et al., 2005; Knee et al., 2008; Ran
+et al., 2013; Staley et al., 2012). Enumeration of Enterococcus spp. from
+streams in Guam revealed their presence in 88.5% of samples, at concentrations on the order of 103 CFU 100 ml1 (Fujioka et al., 1999). Moreover,
+about 104 CFU enterococci per 100 ml were reported in a freshwater lake in
+Florida (Staley et al., 2012). Concentrations of enterococci in temperate
+lakes and rivers are generally lower and rarely exceed 103 CFU per
+100 ml (Jenkins et al., 2005; Ran et al., 2013), but may be elevated in
+response to meteorological events (Haack et al., 2003).
+3.3.1 Persistence and survival in freshwater
+Variable persistence and survival patterns have been observed for enterococci in freshwater as a result of inoculum source and seasonality
+(Anderson et al., 2005; Sinton, Hall, Lynch, & Davies-Colley, 2002).
+Enterococci inoculated from waste stabilization pond (WSP) effluent
+showed faster decay rates when inoculated in river water mesocosms
+[90% reduction (T90) in 3 h] than enterococci from raw sewage
+(T90 ¼ 6.4 h) when exposed to natural sunlight during the summer
+(Sinton et al., 2002). In winter, however, enterococci from WSP effluent
+persisted longer (T90 ¼ 14.5 h) compared to the inoculum from sewage
+(T90 ¼ 12.6 h). Decay of enterococci from contaminated soil, wastewater,
+and dog feces was also tested in freshwater mesocosms (Anderson et al.,
+2005). Enterococci from wastewater showed the smallest decay rate
+(0.31 log10 CFU 100 ml1 per day) while those from dog feces decayed
+fastest (1.49 log10 CFU 100 ml1 per day). The authors, however, noted
+
+
+
+166
+
+Christopher Staley et al.
+
+differences in inoculum amount and organic carbon that may have
+influenced decay.
+3.3.2 Growth in freshwater
+Enterococcus spp. strains are generally regarded as commensal bacteria and are
+expected to decay in the environment as a result of stressors (see Section 4).
+Freshwater habitats generally do not support the growth of enterococci,
+where their presence is generally regarded as evidence of point or nonpoint
+source pollution and/or resuspension from environmental reservoirs
+(Byappanahalli, Nevers, et al., 2012). Recent investigation of the association
+of enterococci with Cladophora, however, suggests that decomposition of
+aquatic vegetation may provide nutrients suitable to support intermittent
+growth of enterococci (Byappanahalli et al., 2003). It is possible that in
+the presence of other nutrient-rich inputs, enterococci may show shortlived periods of growth, however, this has yet to be demonstrated.
+3.3.3 Population genetics in freshwater
+The population structure of enterococci has been shown to be highly variable at a variety of freshwater sites regardless of season (Badgley, Nayak,
+et al., 2010). E. casseliflavus, E. faecalis, E. faecium, E. hirae, and E. mundtii
+were isolated from rivers and lakes, but the sample size was not large enough
+to determine relative abundance of these species in samples (Badgley, Nayak,
+et al., 2010). The source(s) of fecal contamination as well as environmental
+reservoirs contributing enterococci to the water column have been shown to
+greatly influence the strains present (Ahmed & Katouli, 2008). In a study of
+six catchments in Southeastern Queensland, Australia, biochemical fingerprinting of approximately 4000 enterococci isolates revealed that roughly
+95% matched fingerprints from a host library of isolates from 10 animal
+sources suggesting that the majority of the population was of fecal origin
+(Ahmed & Katouli, 2008). In mesocosm studies containing water, sediment,
+and submerged aquatic vegetation (SAV), however, a single strain of
+E. casseliflavus accounted for 96.5% of all enterococci types (Badgley,
+Thomas, et al., 2010). This result suggests that potentially naturalized
+populations persisting in environmental reservoirs may help structure the
+enterococci population in the water column in the absence of fecal inputs.
+
+3.4. Marine water
+Enterococci are also known to be widely distributed in estuarine and marine
+waters and generally do not exceed densities on the order of 103 CFU
+
+
+
+Environmental and Animal-Associated Enterococci
+
+167
+
+100 ml1, even with evidence of fecal contamination (Boehm et al., 2002;
+Korajkic et al., 2009, 2011; Shibata et al., 2004). Concentrations of enterococci in the surf zone have been demonstrated to display diurnal variability
+with concentrations declining in the middle of the day and rebounding at
+night (Boehm et al., 2002). Furthermore, this study also demonstrated that
+enterococci exhibit shorter term variability in concentrations as a result of
+transport by wave action (Boehm et al., 2002). Enterococci concentrations
+have been reported to be greatest during high tide and are spatially variable
+along the same shoreline (Shibata et al., 2004). However, concentrations of
+enterococci in offshore waters are generally lower than those at the shoreline
+and may be undetectable (Shibata et al., 2004).
+3.4.1 Persistence and survival in marine waters
+Similar to observations in freshwater (see Section 3.3.1), the survival of
+enterococci in estuarine and marine waters varies as a result of exposure
+to sunlight, temperature, and inoculation source (Anderson et al., 2005;
+Lessard & Sieburth, 1983). Enterococci from sewage had T90 of 29 and
+122 h when observed in diffusion chambers maintained in an estuary and
+salt marsh, respectively, and decay rates were significantly correlated with
+temperature (i.e., faster decay at higher temperature) (Lessard & Sieburth,
+1983). In the same study, decay rates of enterococci in diffusion chambers
+were not related to light exposure or intensity; however, in batch chambers,
+enterococci in dark chambers survived longer than those exposed to light
+(Lessard & Sieburth, 1983). In separate mesocosm studies, enterococci inoculated from contaminated soils persisted longer than enterococci from
+wastewater and much longer than those from dog feces (decay rates of
+0.99, 1.05, and 4.2 log10 CFU 100 ml1 per day, respectively)
+(Anderson et al., 2005).
+3.4.2 Growth in marine waters
+Enterococci have been suggested to be incapable of growth in ambient
+marine waters based on the results of mesocosm experiments (Boehm
+et al., 2002). This suggestion is supported by the observation that enterococci were undetectable in offshore marine waters (Shibata et al., 2004).
+However, enterococci may be continually introduced to marine waters
+by pollution sources and reservoirs in or near the surf zone (Boehm et al.,
+2002; Grant et al., 2001). Beach sands (see Section 3.5) and vegetation
+(see Section 3.6) have been implicated as potential reservoirs and habitats
+
+
+
+168
+
+Christopher Staley et al.
+
+supporting growth of enterococci from which the bacteria may be
+resuspended in marine waters (Imamura et al., 2011; Yamahara et al., 2007).
+3.4.3 Population genetics in marine waters
+The structure of enterococci populations in estuarine and marine waters has
+not been studied extensively. Diversity of the Enterococcus population has
+been shown to increase during wet weather conditions as determined by
+genetic fingerprinting (Shannon–Weiner indices of 1.88 and 2.65 for dry
+and wet conditions, respectively) (Brownell et al., 2007). A similar study
+found that diversity did not display any seasonal trend (Badgley, Nayak,
+et al., 2010). Furthermore, a large proportion of strains typed in this study
+were only isolated during a single season over a year-long sampling period
+(Badgley, Nayak, et al., 2010). Species identified as E. casseliflavus, E. faecalis,
+E. faecium, E. hirae, and E. mundtii were suggested to have a relatively cosmopolitan distribution across a variety of water types and matrices (i.e.,
+water, sediment, and vegetation) implying the likely presence of these species in estuarine and marine waters (Badgley, Nayak, et al., 2010).
+
+3.5. Beach sand
+Both freshwater and marine beach sands harbor populations of enterococci
+(Byappanahalli et al., 2006; Halliday & Gast, 2011; Hartz et al., 2008; Phillips
+et al., 2011; Yamahara et al., 2007). Concentrations of enterococci range
+from 102 to 106 CFU 100 g1 depending on the location and type of sand
+sampled (Halliday & Gast, 2011). While temporal variability of enterococci
+densities has been observed, seasonal trends influencing Enterococcus concentrations in sand have not been demonstrated (Byappanahalli et al., 2006).
+Exposed sand, however, has been shown to harbor higher densities of
+enterococci than submerged sand and concentrations were higher near
+the high tide mark (Phillips et al., 2011; Yamahara et al., 2007). In a separate
+study, however, concentrations of enterococci were shown to decline with
+distance (10–20 m) from the shoreline (Hartz et al., 2008). Factors such as
+tide, degree of wave shelter, current, groundwater, and surrounding land
+use are among parameters that have been suggested to affect the distribution
+of enterococci in sands (Halliday & Gast, 2011; Yamahara et al., 2007).
+3.5.1 Persistence and survival in beach sand
+Persistence of enterococci in natural beach sands has been demonstrated for
+freshwater and marine beaches (Byappanahalli et al., 2006; Hartz et al.,
+2008). Enterococci could be detected for over a year in backshore,
+
+
+
+Environmental and Animal-Associated Enterococci
+
+169
+
+freshwater beach sand collected 20 m from the shoreline near groundwater
+(Byappanahalli et al., 2006). In addition, in mesocosm experiments using
+natural marine beach sand, enterococci were shown to survive for up to
+2 weeks (the duration of the study) (Hartz et al., 2008). A comparison of
+gentle shaking versus intense shaking was also performed in this study to
+assess differences in free-living versus tightly attached enterococci, respectively. Approximately 4-times more enterococci were found to be tightly
+attached to wet sand compared to free, and in dry sand, approximately
+64-times more enterococci were tightly attached (Hartz et al., 2008). These
+findings and the nearly ubiquitous detection of enterococci from beach sand
+samples in California and southern Florida highly suggest the capability of
+enterococci to survive in sands (Phillips et al., 2011; Yamahara et al., 2007).
+3.5.2 Growth in beach sand
+The persistence of enterococci in natural sand samples, often at relatively
+high concentrations, indicates that growth may be supported in many types
+of beach sand (Halliday & Gast, 2011). In mesocosm studies of sterile sand,
+enterococci concentrations (inoculated from natural populations) were
+found to increase by two orders of magnitude within the first 3 days, and
+elevated temperature sped the rate of increase (Hartz et al., 2008). Furthermore, when enterococci cultured from human feces were used as the inoculum, similar growth was observed. When natural beach sand (without
+sterilization) was used in mesocosms, however, growth was not observed
+and this is suspected to be due to competition with the indigenous sand community as well as predation (Hartz et al., 2008). While growth of enterococci
+in sand seems likely, particularly following wetting due to tidal influence or
+precipitation, the paucity of in situ growth studies leaves this conclusion
+somewhat speculative.
+3.5.3 Population genetics in beach sand
+E. faecium has been reported to be the primary species associated with freshwater beach sands (92% of confirmed Enterococcus isolates) with E. casseliflavus
+and E. durans also present in low proportions (Byappanahalli et al., 2006).
+E. faecalis and E. hirae were found to be the predominant species in another
+study of shoreline and nearshore sand on Lake Superior, with E. mundtii and
+E. avium also identified in some samples (Ran et al., 2013). The species distribution of enterococci varied temporally as well as by location showing no
+clear trends (Ran et al., 2013). The enterococcal surface protein (esp) gene of
+E. faecium was detected in sand samples along the coast of California
+
+
+
+170
+
+Christopher Staley et al.
+
+suggesting the presence of this species in marine beach sands, as well as a
+human source (Yamahara et al., 2007). To date, the population structure
+of enterococci in estuarine and marine beach sands remains relatively
+understudied.
+
+3.6. Vegetation
+Terrestrial vegetation (e.g., flowering plants and forage crops) has long been
+known to harbor populations of enterococci (Muller et al., 2001; Mundt,
+1961, 1963b; Ott et al., 2001). Among the first studies of epiphytic enterococci on plants, enterococci were found on between 28.1% and 95.6% of
+varying parts of corn flowers and on 65.8% of corn over a two and a half month
+period (Mundt, 1961). Concentrations were reported as high as
+3.0  105 MPN g1, and enterococci were presumed to be deposited on
+plants via insect and wind dispersal (Mundt, 1961). In a subsequent study,
+enterococci were found on 14% of flowers in an area with minimal human
+contact, and detection was positively correlated with temperature and negatively correlated with canopy cover and elevation (Mundt, 1963b). Epiphytic
+enterococci have also been isolated from forage grass at concentrations of
+about 101–104 CFU g1 (Muller et al., 2001; Ott et al., 2001).
+More recently, aquatic vegetation including algae, wrack (seaweed), and
+SAV have received attention as reservoirs of enterococci that facilitate the
+persistence of populations in the water column (Anderson et al., 1997;
+Badgley, Nayak, et al., 2010; Badgley, Thomas, et al., 2010; Imamura
+et al., 2011; Staley et al., 2012; Whitman et al., 2003). Cladophora mats have
+been reported to contain high concentrations of enterococci (mean of
+4.8 log10 CFU g1), but concentrations were highly variable ranging from
+<101 to nearly 106 CFU g1 depending on the site sampled (Whitman et al.,
+2003). In a study in New Zealand, decaying seaweed was found to harbor
+enterococci concentrations two to four orders of magnitude greater than
+that found in nearby seawater (Anderson et al., 1997). A similar study of
+beach wrack found that dry wrack supported significantly higher densities
+of enterococci (103–104 CFU g1) than wet wrack (101–102 CFU g1),
+which also had higher concentrations than wrack in the surf
+(<101 CFU g1) (Imamura et al., 2011). SAV (primarily Hydrilla) has also
+been shown to sustain higher Enterococcus densities than sediment (see
+Section 3.2) ranging from 102 to 104 CFU 100 g1 with lower concentrations in estuarine waters versus freshwater (Badgley, Nayak, et al., 2010;
+Staley et al., 2012).
+
+
+
+Environmental and Animal-Associated Enterococci
+
+171
+
+3.6.1 Persistence and survival in vegetation
+While survival of enterococci on terrestrial vegetation has remained relatively understudied, Enterococcus spp. have been shown to persist for several
+days to several months on dried algae or SAV (Badgley, Nayak, et al., 2010;
+Badgley, Thomas, et al., 2010; Whitman et al., 2003). Cladophora mat thickness contributes to extended survival of higher concentrations of enterococci
+and reduces the magnitude of initial decline of the population when mats are
+exposed to direct sunlight following removal from the water (Byappanahalli
+et al., 2006). Regardless of mat thickness (ranging from 1 to 6 mm), enterococci remained detectable after 4 days representing 28 h exposure to sunlight.
+Enterococci on SAV have been shown to survive in freshwater mesocosms
+for a period of 2 weeks, although elevated temperature and light intensity
+resulted in more highly variable concentrations of enterococci during the
+2-week interval (Badgley, Thomas, et al., 2010). In a similar study, enterococci were also enumerated from SAV over a year-long sampling period from
+a variety of freshwater and estuarine sights suggesting in situ persistence,
+although the possibility of reinoculation of SAV from other sources could
+not be excluded (Badgley, Nayak, et al., 2010).
+3.6.2 Growth in vegetation
+Aquatic vegetation has been described as a permissive habitat able to support
+the growth of enterococci (Byappanahalli et al., 2003). The most convincing
+evidence of enterococcal growth on aquatic vegetation was observed in
+studies of Cladophora in which sun-dried algae stored for 6 months supported
+growth of enterococci to a density of 107 CFU g1 (Whitman et al., 2003).
+Furthermore, enterococci were shown to grow on Cladophora leachate
+exhibiting a similar growth profile to that observed on microbiological
+media (Byappanahalli et al., 2003). The possibility of growth on SAV
+remains more speculative, but has also been suggested based on higher concentrations of enterococci in SAV compared to either sediment or the water
+column in addition to the previous observations of growth on Cladophora
+(Badgley, Nayak, et al., 2010). This hypothesis is also supported by the
+observation of a highly clonal population of E. casseliflavus in mesocosms
+containing SAV and water from a freshwater Florida lake, suggesting replication of the strain within the mesocosms (Badgley, Thomas, et al., 2010).
+3.6.3 Population genetics in vegetation
+Earlier work characterizing enterococci recovered from the phyllosphere
+was limited to species identification (Muller et al., 2001; Ott et al., 2001).
+
+
+
+172
+
+Christopher Staley et al.
+
+In these studies, only a minority of epiphytic enterococci could be assigned
+to known species including E. faecalis, E. mundtii, E. casseliflavus, E. faecium,
+and Enterococcus sulfureus (Muller et al., 2001; Ott et al., 2001). In these studies, however, a majority of isolates (69.7% in Ott et al., 2001) shared a similar
+16S rDNA genotype (genotype VI) that was found to be most similar to that
+of E. faecalis. This finding is similar to later work on SAV (primarily Hydrilla)
+which appeared to support a highly clonal population of E. casseliflavus
+(Badgley, Nayak, et al., 2010). These findings suggest that Enterococcus
+populations on vegetation may be dominated by naturalized strains capable
+of extended persistence and potentially growth on in these habitats.
+
+4. FACTORS INFLUENCING THE ECOLOGY OF
+ENTEROCOCCI IN EXTRA-ENTERIC HABITATS
+In most extra-enteric environments, the growth and often the persistence of enterococci are generally limited as a result of abiotic as well as
+biotic stressors (Byappanahalli, Nevers, et al., 2012). While many of these
+environments, such as soil, sediment, sand, and vegetation provide some
+protection from many of the abiotic stressors (e.g., sunlight and salinity),
+competition for nutrients with and predation by indigenous microorganisms
+in these environments often limits the success of enterococci in secondary
+habitats. Furthermore, interaction of these stressors may enhance the decay
+of enterococci in less protected habitats (Table 4.4). Even given these limitations, however, certain strains of enterococci have been successful at establishing seemingly naturalized populations that generally constitute a
+minority of the bacterial community in these environments (discussed in
+Section 3).
+
+4.1. Sunlight
+The bactericidal effect of sunlight on enterococci in various water types has
+been well established and investigated under a variety of experimental conditions (Fujioka et al, 1981; Kay et al., 2005; Noble et al., 2004; Sinton et al.,
+1994; Sinton et al., 2002). In addition to solar irradiation intensity (Noble
+et al., 2004; Sinton et al., 1994), the predominant factors affecting the decay
+of enterococci include salinity (i.e., fresh or marine waters) (Fujioka et al.,
+1981; Sinton et al., 2002), temperature (Noble et al., 2004; Sinton et al.,
+1994, 2002), and inoculation source (Fujioka et al., 1981; Sinton et al.,
+2002). Other parameters such as the physiochemical parameters of the water
+have been shown to significantly impact decay rates as well (Kay et al., 2005).
+
+
+
+173
+
+Environmental and Animal-Associated Enterococci
+
+Table 4.4 Primary ecological stressors of enterococci and interaction with other
+environmental parameters
+Stressor
+Interaction with other factors
+References
+
+Sunlight
+
+Fujioka, Hashimoto, Siwak, and
+More rapid decay as salinity
+Young (1981), Kay et al. (2005),
+increases
+Noble, Lee, and Schiff (2004),
+More rapid decay at higher
+Sinton, Daviescolley, and Bell
+temperature
+(1994), Sinton et al. (2002)
+Differential decay rates of
+enterococci from various sources
+Increased turbidity and suspended
+solids may provide protection
+from sunlight
+
+Salinity
+
+Differential decay rates of
+Anderson et al. (2005), Carr,
+enterococci from various sources Wang, McLean, Flood, and
+Ellender (2010), Davies et al.
+(1995), Dorsey, Carter, Bergquist,
+and Sagarin (2010), Kay et al.
+(2005), Sinton et al. (2002), Viau
+et al. (2011)
+
+Starvation Decay may be faster at elevated
+temperature
+Species-specific differences in
+response
+
+Heim, Lleo, Bonato, Guzman, and
+Canepari (2002), Lleò, Bonato,
+Benedetti, and Canepari (2005),
+Lleò et al. (2001), Lleò, Tafi, and
+Canepari (1998)
+
+Predation Potentially affected by water type Boehm, Keymer, and
+(e.g., fresh vs. marine waters)
+Shellenbarger (2005), Davies et al.
+(1995), Menon, Billen, and Servais
+(2003), Purnell, Ebdon, and Taylor
+(2011), Surbeck, Jiang, and Grant
+(2010), Wanjugi and Harwood
+(2013)
+
+The decay rates of enterococci and the extent to which these factors are
+shown to interact and influence rates of inactivation vary. Decay rates, however, often depend on the experimental design and the geographic location
+of the study.
+4.1.1 Inactivation of enterococci in varying water types
+Decay of enterococci in estuarine and marine waters is often reported to be
+more rapid than in freshwater (Fujioka et al., 1981; Sinton et al., 2002). In a
+Hawaii mesocosm study, the T90 (time required for 90% inactivation) of
+
+
+
+174
+
+Christopher Staley et al.
+
+enterococci from diluted sewage inocula was between 60 and 180 min in
+seawater and phosphate-buffered saline, and enterococci were completely
+inactivated after 3 h. In contrast, however, in freshwater only 55% of enterococci from the initial inoculum were inactivated after 3 h (Fujioka et al.,
+1981). Inactivation of enterococci was also shown to be more rapid in seawater compared to fresh water or a 50:50 mix of both under cloudy and clear
+conditions, when either raw sewage or WSP effluent was used as an inoculation source (Sinton et al., 2002). Conversely, when seawater and freshwater mesocosms were compared in a separate California study, under both
+low (winter) and high (summer) solar irradiation, differences in decay
+between water types were not significant under either condition (Noble
+et al., 2004). In this experiment, however, the intensity of solar irradiation
+significantly affected decay: under low solar irradiation, enterococci T90
+values were 9.46 h in both water types compared to 8.95 and 8.45 h in seawater and freshwater, respectively, under high solar irradiation.
+4.1.2 Impact of temperature on enterococci inactivation rates
+Higher temperatures also generally result in more rapid decay of enterococci
+than cooler temperatures (Noble et al., 2004; Sinton et al., 1994, 2002).
+A series of experiments in New Zealand assessing decay of enterococci from
+sewage and meatwork effluents in seawater found significantly faster decay of
+enterococci in both effluent types in the summer versus winter, with no significant differences between effluent sources (mean T90 ¼ 6.4 and 5.2 h in
+summer, respective to effluent type vs. T90 ¼ 12.0 and 7.3 h in winter)
+(Sinton et al., 1994). A similar observation was observed using WSP effluent
+and sewage inoculated in river water with summer T90 ¼ 3.0 and 6.4 h,
+respectively, compared to winter T90 ¼ 14.5 and 12.6 h (Sinton et al.,
+2002). Faster decay of enterococci was also observed at higher temperatures
+(20  C vs. 14  C, summer vs. winter water temperature) in seawater mesocosms in California inoculated with sewage effluent or influent (Noble et al.,
+2004). In the experiments described above, higher temperatures were a
+result of seasonality, which likely also resulted in concurrent increase in solar
+irradiation. The association between decay rate and temperature, however,
+has also been demonstrated in dark experiments (Sinton et al., 1994, 2002).
+4.1.3 Inactivation of enterococci from varying inoculum types
+The rate of inactivation of enterococci when exposed to sunlight is variable
+based on the type of inoculum or pollution source, and in some cases, may be
+related to combined effects of seasonality and water type (Fujioka et al.,
+1981; Korajkic et al., 2013; Sinton et al., 1994, 2002). In a Hawaiian
+
+
+
+Environmental and Animal-Associated Enterococci
+
+175
+
+mesocosm study, enterococci from humans (sewage), chicken, and cattle
+fecal samples were found to show similar decay rates in seawater, although
+the enterococci from sewage were slightly more resistant to inactivation
+(Fujioka et al., 1981). In studies performed in New Zealand, enterococci
+from sewage exhibited a slower decay than those from WSP effluent in fresh
+(river) water when exposed to sunlight (Sinton et al., 2002); however, this
+was only observed during summer months. In a winter study, enterococci
+from sewage and WSP effluent showed similar decay rates. Similarly, enterococci from wastewater influent, effluent, and untreated urban runoff showed
+similar decay rates in a California study, and the initial concentration of
+enterococci also did not affect inactivation rate (Noble et al., 2004).
+Recently, a study comparing decay of enterococci from either sewage effluent or composite cow manure samples found that enterococci from cow
+manure persisted significantly longer in freshwater than did those from sewage, but the effect of inoculum source on decay was not significant in marine
+water (Korajkic et al., 2013). The findings of these studies suggest an interaction among water type, inoculation source, and season influencing the
+overall inactivation rate of enterococci exposed to sunlight.
+4.1.4 Contribution of physicochemical parameters to inactivation
+of enterococci
+Several studies have investigated how physicochemical characteristics of water
+samples such as nutrient content, total suspended solids (TSS), and turbidity
+contribute to enterococcal decay in sunlight (Noble et al., 2004). In a California mesocosm study, nutrient content (NO3, NO2, PO4, SiO4, and
+NH4 þ ) and TSS concentrations were manipulated to simulate ambient conditions versus those experienced as a result of runoff contribution to seawater.
+Neither condition, however, was found to significantly influence inactivation
+rates of enterococci (Noble et al., 2004). In the same study, TSS concentrations also did not impact decay rates of enterococci in freshwater. Conversely,
+in estuarine and coastal waters collected in the southwest of the United Kingdom, turbidity and suspended solids concentration in the water were correlated with T90 values indicating less rapid inactivation at higher turbidity and
+greater suspended solids (Kay et al., 2005). Salinity, conductivity, and total dissolved solids were negatively correlated with T90 in the same study.
+
+4.2. Salinity
+While the enterococci are characterized by the ability to grow at elevated salt
+concentrations (6.5% NaCl), several mesocosm studies have documented a
+detrimental effect of salinity on survival of enterococci in a variety of
+
+
+
+176
+
+Christopher Staley et al.
+
+matrices (Anderson et al., 2005; Davies et al., 1995; Kay et al., 2005; Sinton
+et al., 2002). In microcosm survival studies, enterococci concentrations in
+marine sediments declined one to two orders of magnitude more than
+the decline observed in freshwater sediments (Davies et al., 1995).
+A separate set of mesocosm experiments assessing enterococci survival from
+dog feces, wastewater, and contaminated soils also showed a decline at least
+twice as rapid in marine water and sediments compared to either matrix in
+freshwater (Anderson et al., 2005). Enterococci from either raw sewage or
+WSP effluent showed faster inactivation rates in seawater versus freshwater
+in a New Zealand study, as well (Sinton et al., 2002). Similarly, T90 values of
+enterococci from sewage were negatively correlated with salinity when
+inoculated in ambient estuarine to marine waters (salinities ranging from
+6.0% to 40.3%) indicating that salinity was contributing to more rapid inactivation of the organisms (Kay et al., 2005).
+In situ effects of salinity on Enterococcus densities have also been observed
+in field studies (Carr et al, 2010; Dorsey et al., 2010; Viau et al., 2011).
+Enterococcal concentrations in the coastal waters of Mississippi were significantly negatively correlated with salinity over a 13-month period (salinity
+range from 0.0% to 26.4%; r ¼ 0.70) (Carr et al., 2010). Similarly, in a
+study of a California salt marsh, enterococci were significantly negatively
+correlated with salinity over one 24 h tidal cycle (r ¼ 0.66; mean salinity
+30.5  2.9%), but this relationship was not significant during a second
+observation (r ¼ 0.33; mean salinity 29.4  0.2%) (Dorsey et al., 2010).
+A significant negative correlation between enterococci concentrations and
+salinity (as well as temperature and dissolved oxygen; r ¼ 0.32) was also
+observed in a study of 22 streams in Hawaii with salinity ranging from
+0.6% to 37.3% (Viau et al., 2011).
+
+4.3. Starvation
+One of the greatest variations between the enteric environment versus environmental habitats is the availability of nutrients to enterococci. This is
+either due to natural limitation or competition with indigenous microorganisms. An early study demonstrated that a strain of Streptococcus faecalis (now
+E. faecalis) was capable of extended survival (up to 12 days) when inoculated
+in sterile sewage (Sinclair & Alexander, 1984). The same strain showed rapid
+decline when inoculated in sterile lake water, however, and was not detectable at day 3, and the authors attribute differences in survival to the presence
+of organic nutrients in the sewage. Enterococci have also been shown to
+
+
+
+Environmental and Animal-Associated Enterococci
+
+177
+
+persist for weeks in other environmental habitats that are likely to have
+greater nutrient contents than oligotrophic fresh or marine waters, including
+soil, sediment, and sand (Byappanahalli & Fujioka, 2004; Byappanahalli
+et al., 2006; Davies et al., 1995; Hartz et al., 2008; Lee et al., 2006;
+Mallmann & Litsky, 1951). However, growth in these matrices was only
+observed with indigenous microorganisms which were inhibited or eliminated suggesting that competition for nutrients is an important limiting factor (Byappanahalli, Roll, et al., 2012; Desmarais et al., 2002; Hartz
+et al., 2008).
+Enterococci have also been demonstrated to enter the viable but nonculturable (VBNC) state in response to environmental stressors in lake
+waters (Lleò et al., 1998). Over a 60-day period, a strain of E. faecalis inoculated into sterilized like water maintained a consistent concentration near
+106 CFU ml1 at 4 and 7  C by three cell count methods (Lleò et al., 1998).
+After 5 days, however, culturable concentrations on two nutrient-rich agar
+media declined to 103 CFU ml1 and enterococci were undetectable by
+culture after 15 and 20 days at 4 and 7  C incubation temperatures, respectively. The strain was able to regrow from 7  C incubation when nutrient
+concentrations in the water were increased and incubation was performed at
+room temperature (Lleò et al., 1998). Investigation of protein expression
+patterns of E. faecalis in either a starvation or VBNC state has revealed that
+the two conditions represent different adaptations to environmental stress,
+however (Heim et al., 2002). Adaptation of enterococci to the starvation
+versus the VBNC state has been shown to be dependent on the type of environmental stress (e.g., UV exposure and temperature) with UV exposure
+generally resulting in a loss of culturability (Lleò et al., 2005). Furthermore,
+the time to reach nonculturability has been shown to be species-specific
+(Lleò et al., 2001), and the enterococci can be divided into three distinct
+groups based on the time required to reach this state as well as their ability
+to be resuscitated in environmental simulations (Lleò et al., 2005).
+
+4.4. Predation
+Mortality of enterococci in response to predation by protozoa and/or infection and lysis by bacteriophage is thought to be a major reason for their
+decline in the environment (Boehm e al., 2005; Davies et al., 1995;
+Menon et al., 2003; Purnell et al., 2011; Surbeck et al., 2010; Wanjugi &
+Harwood, 2013). In Australian sediment microcosm studies, enterococci
+were able to persist at greater densities in freshwater sediments when
+
+
+
+178
+
+Christopher Staley et al.
+
+protozoan predators were inactivated with cyclohexamide, but no difference in survival density was observed in marine sediments with or without
+cyclohexamide (Davies et al., 1995). In contrast, a Belgian study comparing
+freshwater and marine mortality rates of E. faecium, predation by protozoa,
+was found to be lower, accounting for a mean of 76% of overall mortality, in
+the freshwater river compared to 93% overall mortality at a marine site
+(Menon et al., 2003). A model of factors contributing to enterococci die
+off in the surf zone in California, however, revealed that grazing was a tertiary factor with dilution and inactivation by various environmental stressors
+(e.g., sunlight, salinity, and starvation) having a greater impact (Boehm et al.,
+2005). In addition to protozoa, bacteriophage specific to enterococci have
+been identified, however, enterococci mortality as a result of lysis remains to
+be studied directly (Purnell et al., 2011). While these studies have demonstrated that predation is an important top-down control of enterococci concentrations in environmental habitats, the specific role of various types of
+predation in these habitats is only beginning to be understood.
+
+REFERENCES
+Aakra, A., Vebo, H., Snipen, L., Hirt, H., Aastveit, A., Kapur, V., et al. (2005). Transcriptional response of Enterococcus faecalis V583 to erythromycin. Antimicrobial Agents and Chemotherapy, 49, 2246–2259.
+Aarestrup, F. M., Butaye, P., & Witte, W. (2002). Nonhuman reservoirs of enterococci. In
+M. S. Glimore, D. B. Clewell, P. Courvalin, G. M. Dunny, B. E. Murray, & L. B. Rice
+(Eds.), The enterococci: Pathogenesis, molecular biology and antibiotic resistance (pp. 55–100).
+Washington, DC: American Society for Microbiology Press.
+Ahmed, W., & Katouli, M. (2008). Phenotypic variations of enterococci in surface waters:
+Analysis of biochemical fingerprinting data from multi-catchments. Journal of Applied
+Microbiology, 105, 452–458.
+Anderson, S. A., Turner, S. J., & Lewis, G. D. (1997). Enterococci in the New Zealand environment: Implications for water quality monitoring. Water Science and Technology, 35,
+325–331.
+Anderson, K. L., Whitlock, J. E., & Harwood, V. J. (2005). Persistence and differential survival of fecal indicator bacteria in subtropical waters and sediments. Applied and Environmental Microbiology, 71, 3041–3048.
+Badgley, B. D., Nayak, B. S., & Harwood, V. J. (2010). The importance of sediment and
+submerged aquatic vegetation as potential habitats for persistent strains of enterococci
+in a subtropical watershed. Water Research, 44, 5857–5866.
+Badgley, B. D., Thomas, F. I. M., & Harwood, V. J. (2010). The effects of submerged aquatic
+vegetation on the persistence of environmental populations of Enterococcus spp. Environmental Microbiology, 12, 1271–1281.
+Bennett, R. J., & Dunny, G. M. (2010). Analogous telesensing pathways regulate mating and
+virulence in two opportunistic human pathogens. mBio, 1, e00181–10.
+Boehm, A. B., Grant, S. B., Kim, J. H., Mowbray, S. L., McGee, C. D., Clark, C. D., et al.
+(2002). Decadal and shorter period variability of surf zone water quality at Huntington
+Beach, California. Environmental Science & Technology, 36, 3885–3892.
+
+
+
+Environmental and Animal-Associated Enterococci
+
+179
+
+Boehm, A. B., Keymer, D. P., & Shellenbarger, G. G. (2005). An analytical model of enterococci inactivation, grazing, and transport in the surf zone of a marine beach. Water
+Research, 39, 3565–3578.
+Boonanantanasarn, K., Gill, A. L., Yap, Y., Jayaprakash, V., Sullivan, M. A., & Gill, S. R.
+(2012). Enterococcus faecalis enhances cell proliferation through hydrogen peroxidemediated epidermal growth factor receptor activation. Infection and Immunity, 80,
+3545–3558.
+Bourgeois-Nicolaos, N., Moubareck, C., Mangeney, N., Butel, M. J., & Doucet-Populaire, F.
+(2006). Comparative study of vanA gene transfer from Enterococcus faecium to Enterococcus
+faecalis and to Enterococcus faecium in the intestine of mice. FEMS Microbiology Letters, 254,
+27–33.
+Bourgogne, A., Garsin, D. A., Qin, X., Singh, K. V., Sillanpaa, J., Yerrapragada, S., et al.
+(2008). Large scale variation in Enterococcus faecalis illustrated by the genome analysis of
+strain OG1RF. Genome Biology, 9, R110.
+Brownell, M. J., Harwood, V. J., Kurz, R. C., McQuaig, S. M., Lukasik, J., & Scott, T. M.
+(2007). Confirmation of putative stormwater impact on water quality at a Florida beach
+by microbial source tracking methods and structure of indicator organism populations.
+Water Research, 41, 3747–3757.
+Buchino, J. J., Ciambarella, E., & Light, I. (1979). Systemic group D streptococcal infection
+in newborn infants. American Journal of Diseases of Children, 133, 270–273.
+Butaye, P., Van Damme, K., Devriese, L. A., Van Damme, L., Bael, M., Lauwers, S., et al.
+(2000). In vitro susceptibility of Enterococcus faecium isolated from food to growthpromoting and therapeutic antibiotics. International Journal of Food Microbiology, 54,
+181–187.
+Byappanahalli, M., & Fujioka, R. (2004). Indigenous soil bacteria and low moisture may limit
+but allow faecal bacteria to multiply and become a minor population in tropical soils.
+Water Science and Technology, 50, 27–32.
+Byappanahalli, M. N., Nevers, M. B., Korajkic, A., Staley, Z. R., & Harwood, V. J. (2012).
+Enterococci in the environment. Microbiology and Molecular Biology Reviews, 76, 685–706.
+Byappanahalli, M. N., Roll, B. M., & Fujioka, R. S. (2012). Evidence for occurrence, persistence, and growth potential of Escherichia coli and enterococci in Hawaii’s soil environments. Microbes and Environments, 27, 164–170.
+Byappanahalli, M. N., Shively, D. A., Nevers, M. B., Sadowsky, M. J., & Whitman, R. L.
+(2003). Growth and survival of Escherichia coli and enterococci populations in the macroalga Cladophora (Chlorophyta). FEMS Microbiology Ecology, 46, 203–211.
+Byappanahalli, M. N., Whitman, R. L., Shively, D. A., Ting, W. T., Tseng, C. C., &
+Nevers, M. B. (2006). Seasonal persistence and population characteristics of Escherichia
+coli and enterococci in deep backshore sand of two freshwater beaches. Journal of Water
+Health, 4, 313–320.
+Cabelli, V. J., Dufour, A. P., McCabe, L. J., & Levin, M. A. (1982). Swimming-associated
+gastroenteritis and water quality. American Journal of Epidemiology, 115, 606–616.
+Carr, M. R., Wang, S. Y., McLean, T. I., Flood, C. J., & Ellender, R. D. (2010). Salmonella
+rarely detected in Mississippi coastal waters and sediment. Journal of Applied Microbiology,
+109, 2191–2199.
+Chow, J. W., Kuritza, A., Shlaes, D. M., Green, M., Sahm, D. F., & Zervos, M. J. (1993).
+Clonal spread of vancomycin-resistant Enterococcus faecium between patients in three hospitals in two states. Journal of Clinical Microbiology, 31, 1609–1611.
+Collins, M. D., Farrow, J. A. E., & Jones, D. (1986). Enterococcus mundtii sp. nov. International
+Journal of Systematic Bacteriology, 36, 8–12.
+Collins, M. D., Jones, D., Farrow, J. A. E., Kilpper-Bläz, R., & Schleifer, K. H. (1984).
+Enterococcus avium nom. rev., comb. nov.; Enterococcus casseliflavus nom. rev., comb.
+nov.; Enterococcus durans nom. rev., comb. nov.; Enterococcus gallinarum comb. nov.;
+
+
+
+180
+
+Christopher Staley et al.
+
+and Enterococcus malodoratus sp. nov. International Journal of Systematic Bacteriology, 34,
+220–223.
+Davies, C. M., Long, J. A. H., Donald, M., & Ashbolt, N. J. (1995). Survival of fecal microorganisms in marine and fresh water sediments. Applied and Environmental Microbiology,
+61, 1888–1896.
+de Graef, E. M., Devriese, L. A., Vancanneyt, M., Baele, M., Collins, M. D., Lefebvre, K.,
+et al. (2003). Description of Enterococcus canis sp. nov. from dogs and reclassification of
+Enterococcus porcinus Teixeira et al. 2001 as a junior synonym of Enterococcus villorum
+Vancanneyt et al. 2001. International Journal of Systematic and Evolutionary Microbiology,
+53, 1069–1074.
+De Leener, E., Martel, A., De Graef, E. M., Top, J., Butaye, P., Haesebrouck, F., et al.
+(2005). Molecular analysis of human, porcine, and poultry Enterococcus faecium isolates
+and their erm(B) genes. Applied and Environmental Microbiology, 71, 2766–2770.
+de Vaux, A., Laguerre, G., Divies, C., & Prevost, H. (1998). Enterococcus asini sp. nov. isolated
+from the caecum of donkeys (Equus asinus). International Journal of Systematic Bacteriology,
+48, 383–387.
+Desmarais, T. R., Solo-Gabriele, H. M., & Palmer, C. J. (2002). Influence of soil on fecal
+indicator organisms in a tidally influenced subtropical environment. Applied and Environmental Microbiology, 68, 1165–1172.
+Devriese, L. A., Ceyssens, K., Rodrigues, U. M., & Collins, M. D. (1990). Enterococcus columbae, a species from pigeon intestines. FEMS Microbiology Letters, 71, 247–252.
+Devriese, L. A., Hommez, J., Pot, B., & Haesebrouck, F. (1994). Identification and composition of the streptococcal and enterococcal flora of tonsils, intestines and faeces of pigs.
+The Journal of Applied Bacteriology, 77, 31–36.
+Devriese, L. A., Hommez, J., Wijfels, R., & Haesebrouck, F. (1991). Composition of the
+enterococcal and streptococcal intestinal flora of poultry. The Journal of Applied Bacteriology, 71, 46–50.
+Devriese, L. A., Laurier, L., De Herdt, P., & Haesebrouck, F. (1992). Enterococcal and streptococcal species isolated from faeces of calves, young cattle and dairy cows. The Journal of
+Applied Bacteriology, 72, 29–31.
+Dorsey, J. H., Carter, P. M., Bergquist, S., & Sagarin, R. (2010). Reduction of fecal indicator
+bacteria (FIB) in the Ballona Wetlands saltwater marsh (Los Angeles County, California,
+USA) with implications for restoration actions. Water Research, 44, 4630–4642.
+Eigler, J. O., Wellman, W. E., Rooke, E. D., Keith, H. M., & Svien, H. J. (1961). Bacterial
+meningits: General review (294 cases). Mayo Clinic Proceedings, 36, 357–365.
+Facklam, R. (2002). History, taxonomy, biochemical characteristics and antibiotic susceptibility testing of enterococci. In M. S. Gilmore, D. B. Clewell, P. Courvalin,
+G. M. Dunny, B. E. Murray, & L. B. Rice (Eds.), The enterococci: Pathogenesis, molecular
+biology and antibiotic resistance (pp. 1–54). Washington, DC: American Society for
+Microbiology Press.
+Ferguson, D. M., Moore, D. F., Getrich, M. A., & Zhowandai, M. H. (2005). Enumeration
+and speciation of enterococci found in marine and intertidal sediments and coastal water
+in southern California. Journal of Applied Microbiology, 99, 598–608.
+Ferrari, P. H., Cai, S., & Bombana, A. C. (2005). Effect of endodontic procedures on enterococci, enteric bacteria and yeasts in primary endodontic infections. International Endodontic Journal, 38, 372–380.
+Freitas, A. R., Coque, T. M., Novais, C., Hammerum, A. M., Lester, C. H., Zervos, M. J.,
+et al. (2011). Human and swine hosts share vancomycin-resistant Enterococcus faecium
+CC17 and CC5 and Enterococcus faecalis CC2 clonal clusters harboring Tn1546 on indistinguishable plasmids. Journal of Clinical Microbiology, 49, 925–931.
+Fujioka, R., & Byappanahalli, M. (2001). Microbial ecology controls the establishment of
+faecal bacteria in tropical soil environment. In T. Matsuo, K. Hanaki, S. Takizawa, &
+
+
+
+Environmental and Animal-Associated Enterococci
+
+181
+
+A. H. Satoh (Eds.), Advances in water and wastewater treatment technology (pp. 273–283).
+Tokyo: Elsevier.
+Fujioka, R. S., Hashimoto, H. H., Siwak, E. B., & Young, R. H. F. (1981). Effect of sunlight
+on survival of indicator bacteria in seawater. Applied and Environmental Microbiology, 41,
+690–696.
+Fujioka, R., Sian-Denton, C., Borja, M., Castro, J., & Morphew, K. (1999). Soil: The environmental source of Escherichia coli and enterococci in Guam’s streams. Journal of Applied
+Microbiology, 85, 83s–89s.
+Garrison, R. N., Fry, D. E., Berberich, S., & Polk, H. C. (1982). Enterococcal bacteremia—
+Clinical implications and determinants of death. Annals of Surgery, 196, 43–47.
+Garsin, D. A., Sifri, C. D., Mylonakis, E., Qin, X., Singh, K. V., Murray, B. E., et al. (2001).
+A simple model host for identifying gram-positive virulence factors. Proceedings of the
+National Academy of Sciences of the United States of America, 98, 10892–10897.
+Gary, H. L., & Adams, J. C. (1985). Indicator bacteria in water and stream sediments near the
+snowy range in southern Wyoming. Water Air and Soil Pollution, 25, 133–144.
+Gentry-Weeks, C., Coburn, P. S., & Gilmore, M. S. (2002). Phages and other mobile virulence elements in gram-positive pathogens. Current Topics in Microbiology and Immunology, 264, 79–94.
+Gilmore, M. S., Coburn, P. S., Nallapareddy, S. R., & Murray, B. E. (2002). Enterococcal
+virulence. In M. S. Gilmore (Ed.), The enterococci: Pathogenesis, molecular biology and antibiotic
+resistance (pp. 301–354). Washington, DC: American Society for Microbiology Press.
+Gilmore, M. S., Lebreton, F., & van Schaik, W. (2013). Genomic transition of enterococci
+from gut commensals to leading causes of multidrug-resistant hospital infection in the
+antibiotic era. Current Opinion in Microbiology, 16, 10–16.
+Grant, S. B., Sanders, B. F., Boehm, A. B., Redman, J. A., Kim, J. H., Mrse, R. D., et al.
+(2001). Generation of enterococci bacteria in a coastal saltwater marsh and its impact on
+surf zone water quality. Environmental Science & Technology, 35, 2407–2416.
+Griffith, J. F., & Weisberg, S. B. (2011). Challenges in implementing new technology for
+beach water quality monitoring: Lessons from a California demonstration project. Marine
+Technology Society Journal, 45, 65–73.
+Gross, P. A., Harkavy, L. M., Barden, G. E., & Flower, M. F. (1976). Epidemiology of nosocomial enterococcal urinary tract infection. American Journal of the Medical Sciences, 272,
+75–81.
+Haack, S. K., Fogarty, L. R., & Wright, C. (2003). Escherichia coli and enterococci at beaches
+in the Grand Traverse Bay, Lake Michigan: Sources, characteristics, and environmental
+pathways. Environmental Science & Technology, 37, 3275–3282.
+Halliday, E., & Gast, R. J. (2011). Bacteria in beach sands: An emerging challenge in
+protecting coastal water quality and bather health. Environmental Science & Technology,
+45, 370–379.
+Hammerum, A. M. (2012). Enterococci of animal origin and their significance for public
+health. Clinical Microbiology and Infection, 18, 619–625.
+Hardina, C. M., & Fujioka, R. S. (1991). Soil: The environmental source of Escherichia coli and
+enterococci in Hawaii streams. Environmental Toxicology and Water Quality, 6, 185–195.
+Hartz, A., Cuvelier, M., Nowosielski, K., Bonilla, T. D., Green, M., Esiobu, N., et al.
+(2008). Survival potential of Escherichia coli and enterococci in subtropical beach sand:
+Implications for water quality managers. Journal of Environmental Quality, 37, 898–905.
+Heikens, E., van Schaik, W., Leavis, H. L., Bonten, M. J., & Willems, R. J. (2008). Identification of a novel genomic island specific to hospital-acquired clonal complex
+17 Enterococcus faecium isolates. Applied and Environmental Microbiology, 74, 7094–7097.
+Heim, S., Lleo, M., Bonato, B., Guzman, C. A., & Canepari, P. (2002). The viable but nonculturable state and starvation are different stress responses of Enterococcus faecalis, as determined by proteome analysis. Journal of Bacteriology, 184, 6739–6745.
+
+
+
+182
+
+Christopher Staley et al.
+
+Huycke, M. M. (2002). Physiology of enterococci. In M. S. Gilmore, D. B. Clewell,
+P. Courvalin, G. M. Dunny, B. E. Murray, & L. B. Rice (Eds.), The enterococci: Pathogenesis, molecular biology and antibiotic resistance (pp. 133–176). Washington, DC: American
+Society for Microbiology Press.
+Huycke, M. M., Spiegel, C. A., & Gilmore, M. S. (1991). Bacteremia caused by hemolytic,
+high-level gentamicin-resistant Enterococcus faecalis. Antimicrobial Agents and Chemotherapy,
+35, 1626–1634.
+Imamura, G. J., Thompson, R. S., Boehm, A. B., & Jay, J. A. (2011). Wrack promotes the
+persistence of fecal indicator bacteria in marine sands and seawater. FEMS Microbiology
+Ecology, 77, 40–49.
+Jenkins, T. A. M., Scott, T. M., Morgan, M. R., & Rose, J. B. (2005). Occurrence of alternative fecal indicators and enteric viruses in Michigan rivers. Journal of Great Lakes
+Research, 31, 22–31.
+Jensen, L. B. (1998). Differences in the occurrence of two base pair variants of Tn1546 from
+vancomycin-resistant enterococci from humans, pigs, and poultry. Antimicrobial Agents
+and Chemotherapy, 42, 2463–2464.
+Jensen, L. B., Hammerum, A. M., Poulsen, R. L., & Westh, H. (1999). Vancomycinresistant Enterococcus faecium strains with highly similar pulsed-field gel electrophoresis
+patterns containing similar Tn1546-like elements isolated from a hospitalized patient
+and pigs in Denmark. Antimicrobial Agents and Chemotherapy, 43, 724–725.
+Johnsen, P. J., Osterhus, J. I., Sletvold, H., Sorum, M., Kruse, H., Nielsen, K., et al. (2005).
+Persistence of animal and human glycopeptide-resistant enterococci on two Norwegian
+poultry farms formerly exposed to avoparcin is associated with a widespread plasmidmediated vanA element within a polyclonal Enterococcus faecium population. Applied
+and Environmental Microbiology, 71, 159–168.
+Kay, D., Stapleton, C. M., Wyer, M. D., Mcdonald, A. T., Crowther, J., Paul, N., et al.
+(2005). Decay of intestinal enterococci concentrations in high-energy estuarine and
+coastal waters: Towards real-time T90 values for modeling faecal indicators in recreational waters. Water Research, 39, 655–667.
+Knee, K. L., Layton, B. A., Street, J. H., Boehm, A. B., & Paytan, A. (2008). Sources of
+nutrients and fecal indicator bacteria to nearshore waters on the north shore of Kauai
+(Hawaii, USA). Estuaries and Coasts, 31, 607–622.
+Korajkic, A., Badgley, B. D., Brownell, M. J., & Harwood, V. J. (2009). Application of
+microbial source tracking methods in a Gulf of Mexico field setting. Journal of Applied
+Microbiology, 107, 1518–1527.
+Korajkic, A., Brownell, M. J., & Harwood, V. J. (2011). Investigation of human sewage pollution and pathogen analysis at Florida Gulf coast beaches. Journal of Applied Microbiology,
+110, 174–183.
+Korajkic, A., McMinn, B. R., Harwood, V. J., Shanks, O. C., Fout, G. S., & Ashbolt, N. J.
+(2013). Differential decay of enterococci and Escherichia coli originating from two fecal
+pollution sources. Applied and Environmental Microbiology, 79, 2488–2492.
+Kuhn, I., Iversen, A., Finn, M., Greko, C., Burman, L. G., Blanch, A. R., et al. (2005).
+Occurrence and relatedness of vancomycin-resistant enterococci in animals, humans,
+and the environment in different European regions. Applied and Environmental Microbiology, 71, 5383–5390.
+Le Fevre, N. M., & Lewis, G. D. (2003). The role of resuspension in enterococci distribution
+in water at an urban beach. Water Science and Technology, 47, 205–210.
+Leavis, H., Top, J., Shankar, N., Borgen, K., Bonten, M., van Embden, J., et al. (2004).
+A novel putative enterococcal pathogenicity island linked to the esp virulence gene
+of Enterococcus faecium and associated with epidemicity. Journal of Bacteriology, 186,
+672–682.
+
+
+
+Environmental and Animal-Associated Enterococci
+
+183
+
+Lee, C. M., Lin, T. Y., Lin, C. C., Kohbodi, G. A., Bhattl, A., Lee, R., et al. (2006). Persistence of fecal indicator bacteria in Santa Monica Bay beach sediments. Water Research,
+40, 2593–2602.
+Lempiainen, H., Kinnunen, K., Mertanen, A., & Wright, A. (2005). Occurrence of virulence
+factors among human intestinal enterococcal isolates. Letters in Applied Microbiology, 41,
+341–344.
+Lessard, E. J., & Sieburth, J. M. (1983). Survival of natural sewage populations of enteric bacteria in diffusion and batch chambers in the marine environment. Applied and Environmental Microbiology, 45, 950–959.
+Lester, C. H., Frimodt-Møller, N., Sørensen, T. L., Monnet, D. L., & Hammerum, A. M.
+(2006). In vivo transfer of the vanA resistance gene from an Enterococcus faecium isolate of
+animal origin to an E. faecium isolate of human origin in the intestines of human volunteers. Antimicrobial Agents and Chemotherapy, 50, 596–599.
+Lleò, M. M., Bonato, B., Benedetti, D., & Canepari, P. (2005). Survival of enterococcal species in aquatic environments. FEMS Microbiology Ecology, 54, 189–196.
+Lleò, M. M., Bonato, B., Tafi, M. C., Signoretto, C., Boaretti, M., & Canepari, P. (2001).
+Resuscitation rate in different enterococcal species in the viable but non-culturable state.
+Journal of Applied Microbiology, 91, 1095–1102.
+Lleò, M. M., Tafi, M. C., & Canepari, P. (1998). Nonculturable Enterococcus faecalis cells are
+metabolically active and capable of resuming active growth. Systematic and Applied Microbiology, 21, 333–339.
+Mallmann, W. L., & Litsky, W. (1951). Survival of selected enteric organisms in various types
+of soil. American Journal of Public Health, 41, 38–44.
+Manson, J. M., Hancock, L. E., & Gilmore, M. S. (2010). Mechanism of chromosomal transfer of Enterococcus faecalis pathogenicity island, capsule, antimicrobial resistance, and other
+traits. Proceedings of the National Academy of Sciences of the United States of America, 107,
+12269–12274.
+Martin, J. D., & Mundt, J. O. (1972). Enterococci in insects. Applied Microbiology, 24, 575–580.
+Martinez-Murcia, A. J., & Collins, M. D. (1991). Enterococcus sulfureus, a new yellowpigmented Enterococcus species. FEMS Microbiology Letters, 80, 69–73.
+Mason, K. L., Stepien, T. A., Blum, J. E., Holt, J. F., Labbe, N. H., Rush, J. S., et al. (2011).
+From commensal to pathogen: Translocation of Enterococcus faecalis from the midgut to
+the hemocoel of Manduca sexta. mBio, 2, e00065-00011.
+McBride, S. M., Coburn, P. S., Baghdayan, A. S., Willems, R. J., Grande, M. J., Shankar, N.,
+et al. (2009). Genetic variation and evolution of the pathogenicity island of Enterococcus
+faecalis. Journal of Bacteriology, 191, 3392–3402.
+McBride, S. M., Fischetti, V. A., Leblanc, D. J., Moellering, R. C., Jr., & Gilmore, M. S.
+(2007). Genetic diversity among Enterococcus faecalis. PLoS One, 2, e582.
+Menon, P., Billen, G., & Servais, P. (2003). Mortality rates of autochthonous and fecal bacteria in natural aquatic ecosystems. Water Research, 37, 4151–4158.
+Moellering, R. C. (1992). Emergence of Enterococcus as a significant pathogen. Clinical Infectious Diseases, 14, 1173–1176.
+Moellering, R. C., Jr., Watson, B. K., & Kunz, L. J. (1974). Endocarditis due to group
+D streptococci. Comparison of disease caused by Streptococcus bovis with that produced
+by the enterococci. American Journal of Medicine, 57, 239–250.
+Muller, T., Ulrich, A., Ott, E. M., & Muller, M. (2001). Identification of plant-associated
+enterococci. Journal of Applied Microbiology, 91, 268–278.
+Mundt, J. O. (1961). Occurrence of enterococci: Bud, blossom, and soil studies. Applied
+Microbiology, 9, 541–544.
+Mundt, J. O. (1963a). Occurrence of enterococci in animals in a wild environment. Applied
+Microbiology, 11, 136–140.
+
+
+
+184
+
+Christopher Staley et al.
+
+Mundt, J. O. (1963b). Occurrence of enterococci on plants in a wild environment. Applied
+Microbiology, 11, 141–144.
+Murray, B. E. (1990). The life and times of the Enterococcus. Clinical Microbiology Reviews, 3,
+46–65.
+Murray, B. E., Singh, K. V., Markowitz, S. M., Lopardo, H. A., Patterson, J. E.,
+Zervos, M. J., et al. (1991). Evidence for clonal spread of a single strain of b-lactamaseproducing Enterococcus (Streptococcus) faecalis to six hospitals in five states. Journal of Infectious
+Disease, 163, 780–785.
+Naser, S., Thompson, F. L., Hoste, B., Gevers, D., Vandemeulebroecke, K., Cleenwerck, I.,
+et al. (2005). Phylogeny and identification of enterococci by atpA gene sequence analysis.
+Journal of Clinical Microbiology, 43, 2224–2230.
+Noble, C. J. (1978). Carriage of group D streptococci in the human bowel. Journal of Clinical
+Pathology, 31, 1182–1186.
+Noble, R. T., Lee, I. M., & Schiff, K. C. (2004). Inactivation of indicator micro-organisms
+from various sources of faecal contamination in seawater and freshwater. Journal of Applied
+Microbiology, 96, 464–472.
+Obiri-Danso, K., & Jones, K. (2000). Intertidal sediments as reservoirs for hippurate negative
+campylobacters, salmonellae and faecal indicators in three EU recognised bathing waters
+in North West England. Water Research, 34, 519–527.
+Ott, E. M., Muller, T., Muller, M., Franz, C. M. A. P., Ulrich, A., Gabel, M., et al. (2001).
+Population dynamics and antagonistic potential of enterococci colonizing the
+phyllosphere of grasses. Journal of Applied Microbiology, 91, 54–66.
+Palmer, K. L., Carniol, K., Manson, J. M., Heiman, D., Shea, T., Young, S., et al. (2010).
+High-quality draft genome sequences of 28 Enterococcus sp. isolates. Journal of Bacteriology, 192, 2469–2470.
+Palmer, K. L., & Gilmore, M. S. (2010). Multidrug-resistant enterococci lack CRISPR-cas.
+mBio, 1, e00227–10.
+Palmer, K. L., Godfrey, P., Griggs, A., Kos, V. N., Zucker, J., Desjardins, C., et al. (2012).
+Comparative genomics of enterococci: Variation in Enterococcus faecalis, clade structure in
+E. faecium, and defining characteristics of E. gallinarum and E. casseliflavus. mBio, 3,
+e00318-00311.
+Palmer, K. L., Kos, V. N., & Gilmore, M. S. (2010). Horizontal gene transfer and the
+genomics of enterococcal antibiotic resistance. Current Opinion in Microbiology, 13,
+632–639.
+Paulsen, I. T., Banerjei, L., Myers, G. S., Nelson, K. E., Seshadri, R., Read, T. D., et al.
+(2003). Role of mobile DNA in the evolution of vancomycin-resistant Enterococcus
+faecalis. Science, 299, 2071–2074.
+Phillips, M. C., Solo-Gabriele, H. M., Piggot, A. M., Klaus, J. S., & Zhang, Y. F. (2011).
+Relationships between sand and water quality at recreational beaches. Water Research,
+45, 6763–6769.
+Purnell, S. E., Ebdon, J. E., & Taylor, H. D. (2011). Bacteriophage lysis of Enterococcus host
+strains: A tool for microbial source tracking? Environmental Science & Technology, 45,
+10699–10705.
+Ran, Q. H., Badgley, B. D., Dillon, N., Dunny, G. M., & Sadowsky, M. J. (2013). Occurrence, genetic diversity, and persistence of enterococci in a Lake Superior watershed.
+Applied and Environmental Microbiology, 79, 3067–3075.
+Sanchez, P. S., Agudo, E. G., Castro, F. G., Alves, M. N., & Martins, M. T. (1986). Evaluation of the sanitary quality of marine recreational waters and sands from beaches of the
+Sao Paulo State, Brazil. Water Science and Technology, 18, 61–72.
+Santo Domingo, J. W., Siefring, S. C., & Haugland, R. A. (2003). Real-time PCR method
+to detect Enterococcus faecalis in water. Biotechnology Letters, 25, 261–265.
+
+
+
+Environmental and Animal-Associated Enterococci
+
+185
+
+Sayler, G. S., Nelson, J. D., Jr., Justice, A., & Colwell, R. R. (1975). Distribution and significance of fecal indicator organisms in the Upper Chesapeake Bay. Applied Microbiology,
+30, 625–638.
+Schleifer, K. H., & Kilpper-Bälz, R. (1984). Transfer of Streptococcus faecalis and Streptococcus
+faecium to the genus Enterococcus nom. rev. as Enterococcus faecalis comb. nov. and Enterococcus faecium comb. nov. International Journal of Systematic Bacteriology, 34, 31–34.
+Sedgley, C. M., Lennan, S. L., & Clewell, D. B. (2004). Prevalence, phenotype and genotype
+of oral enterococci. Oral Microbiology and Immunology, 19, 95–101.
+Shankar, N., Baghdayan, A. S., & Gilmore, M. S. (2002). Modulation of virulence within a
+pathogenicity island in vancomycin-resistant Enterococcus faecalis. Nature, 417, 746–750.
+Sherman, J. M. (1937). The streptococci. Bacteriology Reviews, 1, 3–97.
+Shibata, T., Solo-Gabriele, H. M., Fleming, L. E., & Elmir, S. (2004). Monitoring marine
+recreational water quality using multiple microbial indicators in an urban tropical environment. Water Research, 38, 3119–3131.
+Sinclair, J. L., & Alexander, M. (1984). Role of resistance to starvation in bacterial survival in
+sewage and lake water. Applied and Environmental Microbiology, 48, 410–415.
+Sinton, L. W., Daviescolley, R. J., & Bell, R. G. (1994). Inactivation of enterococci and fecal
+coliforms from sewage and meatworks effluents in seawater chambers. Applied and Environmental Microbiology, 60, 2040–2048.
+Sinton, L. W., Hall, C. H., Lynch, P. A., & Davies-Colley, R. J. (2002). Sunlight inactivation
+of fecal indicator bacteria and bacteriophages from waste stabilization pond effluent in
+fresh and saline waters. Applied and Environmental Microbiology, 68, 1122–1131.
+Staley, C., Reckhow, K. H., Lukasik, J., & Harwood, V. J. (2012). Assessment of sources of
+human pathogens and fecal contamination in a Florida freshwater lake. Water Research,
+46, 5799–5812.
+Surbeck, C. Q., Jiang, S. C., & Grant, S. B. (2010). Ecological control of fecal indicator bacteria in an urban stream. Environmental Science & Technology, 44, 631–637.
+Tannock, G. W., & Cook, G. (2002). Enterococci as members of the intestinal microflora of
+humans. In M. S. Gilmore, D. B. Clewell, P. Courvalin, G. M. Dunny, B. E. Murray, &
+L. B. Rice (Eds.), The enterococci: Pathogenesis, molecular biology and antibiotic resistance
+(pp. 101–132). Washington, DC: American Society for Microbiology Press.
+Tendolkar, P. M., Baghdayan, A. S., & Shankar, N. (2003). Pathogenic enterococci: New
+developments in the 21st century. Cellular and Molecular Life Sciences, 60, 2622–2636.
+Tremblay, C. L., Letellier, A., Quessy, S., Daignault, D., & Archambault, M. (2012).
+Antibiotic-resistant Enterococcus faecalis in abattoir pigs and plasmid colocalization and
+cotransfer of tet(M) and erm(B) genes. Journal of Food Protection, 75, 1595–1602.
+United States Environmental Protection Agency (1986). Ambient water quality criteria for bacteria 1986. EPA 440/5-84-002. Washington, DC: Office of Water Regulations and
+Standards, US Environmental Protection Agency.
+United States Environmental Protection Agency (2012). Recreational water quality criteria. 820F-12-058. Washington, DC: Office of Water Regulations and Standards, US
+Environmental Protection Agency.
+Viau, E. J., Goodwin, K. D., Yamahara, K. M., Layton, B. A., Sassoubre, L. M., Burns, S. L.,
+et al. (2011). Bacterial pathogens in Hawaiian coastal streams—Associations with fecal
+indicators, land cover, and water quality. Water Research, 45, 3279–3290.
+Wade, T. J., Calderon, R. L., Brenner, K. P., Sams, E., Beach, M., Haugland, R., et al.
+(2008). High sensitivity of children to swimming-associated gastrointestinal illness:
+Results using a rapid assay of recreational water quality. Epidemiology, 19, 375–383.
+Wade, T. J., Calderon, R. L., Sams, E., Beach, M., Brenner, K. P., Williams, A. H., et al.
+(2006). Rapidly measured indicators of recreational water quality are predictive of
+swimming-associated gastrointestinal illness. Environmental Health Perspectives, 114, 24–28.
+
+
+
+186
+
+Christopher Staley et al.
+
+Wade, T. J., Pai, N., Eisenberg, J. N. S., & Colford, J. M. (2003). Do U.S. Environmental
+Protection Agency water quality guidelines for recreational waters prevent gastrointestinal illness? A systematic review and meta-analysis. Environmental Health Perspectives, 111,
+1102–1109.
+Wanjugi, P., & Harwood, V. J. (2013). The influence of predation and competition on the
+survival of commensal and pathogenic fecal bacteria in aquatic habitats. Environmental
+Microbiology, 15, 517–526.
+Whitman, M. S., Pitsakis, P. G., DeJesus, E., Osborne, A. J., Levison, M. E., &
+Johnson, C. C. (1996). Gastrointestinal tract colonization with vancomycin-resistant
+Enterococcus faecium in an animal model. Antimicrobial Agents and Chemotherapy, 40,
+1526–1530.
+Whitman, R. L., Shively, D. A., Pawlik, H., Nevers, M. B., & Byappanahalli, M. N. (2003).
+Occurrence of Escherichia coli and enterococci in Cladophora (Chlorophyta) in nearshore
+water and beach sand of Lake Michigan. Applied and Environmental Microbiology, 69,
+4714–4719.
+Willems, R. J., Top, J., van Santen, M., Robinson, D. A., Coque, T. M., Baquero, F., et al.
+(2005). Clonal spread of nacomycin-resistant Enterococcus faecium from distinct nosocomial genetic complex. Emerging Infectious Diseases, 11, 821–828.
+Willems, R. J., Top, J., van Schaik, W., Leavis, H., Bonten, M., Siren, J., et al. (2012).
+Restricted gene flow among hospital subpopulations of Enterococcus faecium. mBio, 3,
+e00151-00112.
+Yamahara, K. M., Layton, B. A., Santoro, A. E., & Boehm, A. B. (2007). Beach sands along
+the California coast are diffuse sources of fecal bacteria to coastal waters. Environmental
+Science & Technology, 41, 4515–4521.
+
+

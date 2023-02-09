@@ -1,0 +1,646 @@
+Am. J. Trop. Med. Hyg., 103(3), 2020, pp. 1043–1049
+doi:10.4269/ajtmh.19-0768
+Copyright © 2020 by The American Society of Tropical Medicine and Hygiene
+
+Heavy Rainfall Events and Diarrheal Diseases: The Role of Urban–Rural Geography
+Aniruddha Deshpande,1 Howard H. Chang,2 and Karen Levy3,4*
+1
+
+Department of Epidemiology, Emory University, Atlanta, Georgia; 2Department of Biostatistics and Bioinformatics, Emory University, Atlanta,
+Georgia; 3Gangarosa Department of Environmental Health, Emory University, Atlanta, Georgia; 4Department of Environmental and Occupational
+Health Sciences, University of Washington, Seattle, Washington
+
+Abstract. Diarrheal diseases remain a signiﬁcant contributor to the global burden of disease. Climate change may
+increase their incidence by altering the epidemiology of waterborne pathogens through changes in rainfall patterns. To
+assess potential impacts of future changes in rainfall patterns, we analyzed 33,927 cases of diarrhea across all Ministry of
+Health clinical facilities in Esmeraldas Province, Ecuador, for a 24-month period from 2013 to 2014, using mixed-effects
+Poisson regression. We assessed the association between the incidence of diarrheal diseases and heavy rainfall events
+(HREs) and antecedent rainfall conditions. In rural areas, we found no signiﬁcant associations between HREs and
+incidence. In urban areas, dry antecedent conditions were associated with higher incidence than wet conditions. In
+addition, HREs with dry antecedent conditions were associated with elevated incidence by up to 1.35 (incidence rate ratio,
+95% CI: 1.14–1.60) times compared with similar conditions without HREs. These patterns may be driven by accumulation
+of fecal contamination during dry periods, followed by a ﬂushing effect during HREs. This phenomenon is more important
+in dense urban environments with more impervious surfaces. These ﬁndings suggest that projected increases in rainfall
+variability and HREs may increase diarrhea burden in urban regions, which are rapidly expanding globally.
+
+household water treatment.21 In addition, several other studies
+have found an association between rainfall following a dry period and elevated rates of diarrhea.10 The Intergovernmental
+Panel on Climate Change estimates an increase in the frequency of extreme weather events such as drought and HREs
+due to changes in the water cycle from climate change.22
+Therefore, it is critical to disentangle the role of rainfall in the
+epidemiology of diarrheal diseases such that appropriate policies and interventions can be designed to mitigate risk of diarrheal disease morbidity and mortality under current and future
+climate conditions.
+Given that both rainfall extremes may be associated with
+increased risk for diarrheal diseases, it is important to consider
+the factors that contribute to a community’s vulnerability and
+coping capacity. Access to safe drinking water and sanitation
+is core to a community’s ability to reduce the burden of diarrheal diseases, as these factors directly affect the transmission of enteric pathogens.23,24 There are large gaps across
+the urban–rural gradient in access to safe drinking water and
+sanitation as well as other risk factors for diarrheal diseases
+such as education.25,26 It is therefore important to consider
+how meteorological factors such as rainfall might differentially
+affect urban compared with rural areas.
+Previous studies have analyzed the association of heavy or
+low rainfall with diarrheal diseases within speciﬁc contexts10
+or contextualized the relationship of HREs within wet or dry
+seasonal periods,21 but we are not familiar with studies that
+have speciﬁcally examined the inﬂuence of HREs within urban
+versus rural contexts. In this study, we have analyzed 33,927
+cases of diarrheal diseases in Esmeraldas Province, Ecuador,
+over a 2-year period to assess how the relationship between
+HREs and diarrhea is modiﬁed by antecedent rainfall conditions in urban versus rural contexts.
+
+INTRODUCTION
+Diarrheal diseases remain a signiﬁcant cause of mortality
+and morbidity, causing more than 81.0 million disabilityadjusted life years (DALYs) in 2017. Importantly, children
+younger than 5 years bear a disproportionate amount of this
+burden (48.3 million DALYs (59.6%) and more than 533,000
+deaths).1,2 In addition to causing acute diarrhea, enteric
+pathogens have been linked to long-term health outcomes
+such as child growth failure.3–6 The incidence of diarrheal
+diseases is expected to increase with climate change.7,8
+Considering the large burden of disease associated with diarrhea, it is critical to understand the role of climatic drivers in
+the epidemiology of diarrheal diseases, and social factors that
+may affect this burden.9
+Rainfall and temperature are major environmental factors
+linked to the incidence of diarrheal diseases.10,11 Increases in
+temperatures have been associated with increases in the incidence of all-cause and bacterial diarrhea. The relationship
+between temperature and diarrhea has received more attention than the relationship between rainfall and diarrhea,10,12 in
+part because the latter is more complex.12,13 Low rainfall and
+drought conditions can lead to water scarcity, lower water
+quality, and increased risk for diarrheal diseases.13 For example, studies in Bangladesh14 and the Paciﬁc Islands15 have
+documented associations between low rainfall and diarrheal
+diseases. On the other hand, high rainfall and ﬂooding may
+ﬂush enteric pathogens into waterways used for drinking
+water, leading to greater exposure and in turn higher risk of
+diarrhea, as seen in North America,16,17 Bangladesh,18,19 and
+Mozambique.20 Previous studies have demonstrated the risk
+for diarrhea at both ends of rainfall extremes, and the reported
+measures of association vary widely. In a previous study in
+Esmeraldas Province, we found that the relationship between
+heavy rainfall events (HREs) and diarrhea incidence was
+modiﬁed by both antecedent rainfall conditions and the type of
+
+MATERIALS AND METHODS
+Health outcome data. Ecuador is subdivided into provinces which are further subdivided into cantons and then
+parishes. We used health records from all public hospitals and
+clinics in Esmeraldas Province reported by the Ecuadorian
+
+* Address correspondence to Karen Levy, Department of Environmental and Occupational Health Sciences, University of Washington,
+4225 Roosevelt Way, Seattle, WA 98105. E-mail: klevyx@uw.edu
+
+1043
+
+
+
+1044
+
+DESHPANDE AND OTHERS
+
+Ministry of Health from January 8, 2013 to December 31, 2014.
+The records comprised all data from this time period across
+Esmeraldas Province, collected from the seven cantons and
+63 parishes of the province. Cases were categorized by the
+International Classiﬁcation of Diseases-10 system.27 Cases
+with a primary, secondary, or tertiary ICD-10 code of A09.X,
+designating “gastroenteritis of infectious origin,” were considered as cases of diarrhea. In instances where A09X was
+only applied to the secondary or tertiary diagnosis, the primary
+diagnosis was veriﬁed by expert review to be related to diarrhea (e.g., amebiasis). We categorized cases as younger or
+older than 5 years, and the race of the patient as “black,”
+“white/other,” “mixed race,” or “indigenous”.
+The parishes of Esmeraldas Province were categorized as
+urban or rural by the Ecuadorian census bureau (Instituto
+Nacional de Estadistica y Census) for 2012.28 Cases of diarrhea were aggregated for each parish by age, gender, and
+race categories to generate time series of case data spanning
+the observational period and further classiﬁed by urban–rural
+status.
+Rainfall data. Gridded estimates of total daily rainfall were
+obtained for the study period across Esmeraldas Province at a
+spatial resolution of 0.25 × 0.25° from the Tropical Rainfall
+Measuring Mission 3B42 real time satellite data.29 These estimates were spatially aggregated for each parish using
+shapeﬁles of administrative boundaries,28 to generate rainfall
+time series for each parish at the daily resolution.
+An HRE was deﬁned as any day with rainfall exceeding the
+90th percentile of daily rainfall across the study period for a
+given parish. Rolling sums were calculated across a window of
+the previous 8 weeks for the time series to characterize antecedent rainfall conditions. Sums of rainfall over the previous
+8 weeks were considered “wet” antecedent conditions if they
+exceeded the 67th percentile, “dry” if below the 33rd percentile, and “medium” otherwise. In this manner, a binomial
+variable of the HRE and an ordinal multinomial variable of
+antecedent conditions were created across the entire time
+series for each parish.
+Statistical analyses. We ﬁt mixed-effects Poisson loglinear models to daily counts of cases of diarrheal diseases to
+assess the relationship between HREs, antecedent rainfall
+conditions, and incidence of diarrheal diseases. Separate
+models were run by urban and rural stratiﬁcation. Gender,
+age, and racial categorization were used as covariates to
+control for potential confounding. In addition, rolling sums
+were calculated for the number of cases observed over the
+previous 7 days. These sums were used as a covariate to
+control for potential temporal confounding. The model also
+included random intercepts by parish to control for residual
+spatial confounding. In addition, time was included as a linear covariate to control for any potential mean temporal
+trends in the data. Heavy rainfall events and antecedent
+conditions were included as ﬁxed effects to assess their relationship with diarrheal diseases, as well as an interaction
+term between HREs and antecedent conditions to assess
+any effect modiﬁcation of the HRE–diarrhea relationship by
+antecedent conditions.
+To consider lagged effects of rainfall on diarrhea, data on
+HREs and antecedent conditions were lagged from one to
+14 days because we determined that up to a 14-day lag is
+plausible for a case to be detected at a health facility considering infection dynamics, pathogen incubation period, and
+
+time until case detection. The aforementioned regression
+models were separately ﬁt for each of the 14 different lags of
+rainfall data as well as with 0-lag exposure, and incidence rate
+ratios (IRRs) were estimated for each environmental condition
+considered.
+RESULTS
+Most of the 33,927 cases of diarrheal diseases analyzed
+comprised children younger than ﬁve years (20,818 [61.4%]),
+as expected with diarrheal diseases. The dataset was balanced with respect to sex. The patients were predominantly
+identiﬁed as mixed race (21,140 [62.3%]), with black patients
+(10,425 [30.7%]) comprising the second highest racial category, reﬂecting the demographic composition of Esmeraldas
+Province (Table 1).
+Urban areas comprised 40.2% of cases, and rural areas
+comprised 59.8%. The urban parish of Esmeraldas (20.5%)
+and the rural parishes of Quininde (16.2%) contained the
+overall highest number of cases (Table 2, Figure 1). The urban
+parish of Esmeraldas is the capital of the province, and
+therefore, the high number of cases is related to the large
+population residing there.
+There was a slight seasonality to the case counts of diarrheal
+diseases, with most (59.7%) of the cases occurring between
+June and November, which is the dry season in Esmeraldas.
+The seasonal pattern was consistent between urban and rural
+areas (Figure 2).
+The results of our multivariate Poisson log-linear models are
+shown in Figure 3. In addition, the complete set of IRRs and
+their associated CIs, for all environmental conditions considered across all lags and urban/rural conditions, can be found in
+the Supplemental Data. In urban areas, across all lags tested,
+wet conditions with or without an HRE were associated with
+signiﬁcantly lower case counts of diarrheal disease than dry
+antecedent conditions without HREs, and the strength of the
+inverse association tended to be weaker and more uncertain
+with HREs compared with without. The opposite was observed when considering dry conditions. For 14 of 15 lags
+tested, an IRR of > 1 was found when comparing dry conditions with HREs with dry conditions without HREs. These
+associations were found to be statistically signiﬁcant for lags
+of 11 (IRR = 1.20, 95% CI: 1.02–1.42) and 14 days (IRR = 1.35,
+95% CI: 1.14–1.60).
+
+TABLE 1
+Distribution of cases of diarrhea by demographic characteristics,
+Esmeraldas Province, Ecuador, January 8, 2013–December 31,
+2014
+Characteristic
+
+Number of cases of diarrhea (n [%])
+
+Total
+Age (years)
+<5
+³5
+Sex
+Male
+Female
+Race
+Black
+Indigenous
+Mixed race
+White/other
+
+33,927 (100.0)
+20,818 (61.4)
+13,109 (38.6)
+16,927 (49.9)
+17,000 (50.1)
+10,425 (30.7)
+1,726 (5.1)
+21,140 (62.3)
+636 (1.9)
+
+
+
+1045
+
+HEAVY RAINFALL EVENTS AND DIARRHEAL DISEASES
+
+TABLE 2
+Cases of diarrhea and temporal sparsity of data by canton administrative unit and urban/rural status, Esmeraldas Province, Ecuador, January 8,
+2013–December 31, 2014
+Urban/rural status
+
+Urban
+
+Rural
+
+Canton (administrative unit)
+
+Number of cases of diarrhea (n [% of total])
+
+Number of parishes (n)
+
+Number of days with 0 cases (n [%])
+
+–
+Atacames
+Eloy Alfaro
+Esmeraldas
+Muisne
+Quininde
+Rioverde
+San Lorenzo
+–
+Atacames
+Eloy Alfaro
+Esmeraldas
+Muisne
+Quininde
+Rioverde
+San Lorenzo
+
+13,638 (40.2)
+482 (1.4)
+822 (2.4)
+6,964 (20.5)
+286 (0.8)
+2,833 (8.4)
+1,138 (3.4)
+1,113 (3.3)
+20,289 (59.8)
+1,574 (4.6)
+3,981 (11.7)
+3,034 (8.9)
+2,612 (7.7)
+5,484 (16.2)
+1,957 (5.8)
+1,647 (4.9)
+
+–
+1
+1
+1
+1
+1
+1
+1
+–
+4
+14
+8
+8
+5
+5
+12
+
+–
+443 (61.3)
+371 (51.3)
+162 (22.4)
+570 (78.8)
+114 (15.8)
+270 (37.3)
+365 (50.5)
+–
+271 (37.5)
+46 (6.4)
+172 (23.8)
+135 (18.7)
+72 (10.0)
+195 (27.0)
+224 (31.0)
+
+In rural areas, on the other hand, we found no statistically
+signiﬁcant associations between HREs and incidence of diarrhea disease under any lag or either antecedent rainfall
+condition considered. The measures of association were very
+close to 1.0, with a range of 0.07 (0.97–1.04) under all conditions considered. Wet antecedent conditions with no HRE
+trended toward being slightly protective, and associations
+across the lags for HREs with dry antecedent conditions had
+consistently wider CIs, suggesting a similar trend as in the
+urban areas, although not strong enough for HREs to signiﬁcantly affect diarrhea incidence as it did in urban areas.
+DISCUSSION
+In this study, we found that HREs and antecedent rainfall
+conditions had differential impacts on diarrhea incidence
+across urban compared with rural parishes of Esmeraldas
+
+Province, Ecuador. In urban areas, dry conditions were associated with increased risk of diarrhea, and this effect was
+exacerbated under the inﬂuence of an HRE, particularly when
+it occurred 11 and 14 days before. By contrast, in rural areas,
+neither antecedent rainfall conditions nor HREs impacted diarrhea counts.
+This is suggestive of a mechanism inﬂuenced by population density and/or the built environment. The impact of
+environmental conditions such as rainfall may be less in
+rural areas relative to urban areas because of a geographically sparse population distribution and more porous
+surfaces. A sparser population allows for fewer transmission events of enteric pathogens than the rates in denser
+urban areas. This could cause a lower marginal difference in
+rates of diarrhea at the community level because of distal
+environmental factors such as rainfall. In addition, urban
+areas contain more impervious surface areas allowing for
+
+FIGURE 1. Spatial distribution of cases of diarrheal diseases by parish in Esmeraldas Province, Ecuador, across the study period (January 8,
+2013–December 15, 2014). This ﬁgure appears in color at www.ajtmh.org.
+
+
+
+1046
+
+DESHPANDE AND OTHERS
+
+FIGURE 2. The distribution of cases of diarrheal diseases and total rainfall in millimeters is displayed by month across the observational period of
+January 8, 2013–December 31, 2014. The distribution is separately displayed for urban and rural and further subdivided by canton for comparison.
+This ﬁgure appears in color at www.ajtmh.org.
+
+farther transmission of contamination via runoff after rainfall. Whereas Carlton et al.21 observed an effect on diarrheal
+incidence after heavy rainfall in a rural area, the lack of a
+signiﬁcant effect in rural areas observed in our study may be
+a result of different data sources on diarrhea. In Carlton
+et al.,21 diarrhea was measured from household visits which
+could have a higher sensitivity to mild cases of diarrhea and
+nuanced ﬂuctuations in diarrheal rates, whereas our study
+used data from clinics and hospitals which could have a bias
+toward a low sensitivity to mild cases and high sensitivity to
+severe cases of diarrhea. In addition, there could be unmeasured factors driving the differential effects observed
+between urban and rural areas, beyond the built environment or population density.
+The incidence of diarrhea in urban areas did not statistically signiﬁcantly differ with HREs versus without HREs in
+wet periods. Overall diarrhea incidence were attenuated in
+wet periods compared with dry periods, suggesting that
+environmental fecal contamination in the community is
+regularly ﬂushed out of the system by regular rainfall, and
+additional rain to such a system results in a negligible increase in relative risk. With dry antecedent conditions,
+HREs were associated with higher incidence of diarrhea,
+especially with lags of 11 and 14 days. Dry conditions could
+result in water scarcity and/or increased accumulation of
+
+fecal contamination in the environment.13 An HRE in such
+conditions could result in mobilization of these accumulated contaminants, resulting in increased transmission to
+inhabitants of urban areas, and ultimately elevated counts
+of diarrheal diseases. Carlton et al.21 also found a delay in
+the effect of HREs, with effects observed at 2-week, but not
+1-week, lags, suggesting that the effects of HREs might be
+in secondary rather than primary transmission events. This
+may further explain why effects are more prominent in dense
+urban environments, than rural environments, where lower
+rates of transmission may not lead to sufﬁcient buildup of
+localized epidemics.
+Limitations. The limitations of our study should be considered while interpreting the results. First, we only controlled
+for individual-level confounding from age, gender, and racial
+characteristics. However, the use of aggregated case counts
+for each parish has the advantage in examining time-varying
+environmental exposures that the underlying population
+serves as its own control across time, such that potential
+confounders (e.g. diet and comorbidity) that do not vary at the
+same temporal scale as the exposure can be controlled for by
+the inclusion of a temporal trend. Second, considering our
+case counts were from public hospitals and clinics, there is a
+potential for selection bias toward more severe cases of diarrhea. There could be many more cases of diarrheal diseases
+
+
+
+1047
+
+HEAVY RAINFALL EVENTS AND DIARRHEAL DISEASES
+
+FIGURE 3. Incidence rate ratios are reported for urban (right) vs. rural (left) conditions, environmental conditions, and exposure lags of 0–14 days
+from Poisson regression for case counts of diarrheal diseases. Rate ratios are reported for dry antecedent conditions with heavy rainfall events
+(HREs) (top), wet antecedent conditions with HREs (middle), and wet antecedent conditions without HREs (bottom) compared with dry antecedent
+conditions without HREs. This ﬁgure appears in color at www.ajtmh.org.
+
+that are less severe for which patients did not seek treatment
+and therefore were not included in our study. Furthermore,
+there is a small risk of confounding if changes in healthcare
+seeking due to environmental conditions vary differentially
+within urban and rural areas. Considering HREs occurred
+throughout the year in the analysis, the relative variation in
+healthcare seeking behavior week to week across the year is
+unlikely to have a major impact on the observed effects. Third,
+we used a satellite product for assessing rainfall exposure,
+which may contain a level of error in relation to the rainfall
+received on the ground.30 Because of limited access to rain
+gauge data across all study sites, the satellite product provided the best spatial coverage for our analysis. In addition,
+our analysis used relative measures of exposure, each calculated separately for each parish, limiting the potential for
+bias from errors in satellite measurements.
+In our study, cases were divided approximately equally
+between the genders and disproportionately from ages less
+than 5 years, matching the established epidemiological
+characteristics of diarrheal diseases. Furthermore, most of
+the cases were from black and mestizo populations, as
+expected from Esmeraldas Province of Ecuador. This indicated there is minimal selection bias along age, gender, or
+race characteristics in our data. The overall temporal trends
+
+in rainfall and case burden were similar across urban and
+rural areas, ensuring comparability of urban and rural results
+from statistical analyses.
+CONCLUSIONS
+Our results indicate diarrheal incidence was elevated by up
+to 1.35 times (95% CI: 1.14–1.60) with HREs following dry
+periods in urban areas of this region of Ecuador. This ﬁnding is
+of concern, given anticipated future climate changes that are
+expected to increase rainfall variability and the frequency of
+HREs in this and other regions.31,32 The occurrence of this
+phenomenon in urban, but not rural areas, is of particular
+concern, given the increasing global trend of urbanization in
+low- and middle-income countries.33 Considering the large
+global burden of diarrheal mortality and morbidity, even relatively small percentage increases could have dramatic implications for child health.34,35 Further research is needed to
+elucidate the mechanisms driving the relationship between
+rainfall and incidence of diarrheal diseases in urban areas and
+to inform policy for assessing vulnerability and building coping
+mechanisms to ensure that climate change does not reverse
+the substantial progress made in recent decades in reducing
+the global burden of diarrhea disease.
+
+
+
+1048
+
+DESHPANDE AND OTHERS
+
+Received October 15, 2019. Accepted for publication May 18, 2020.
+Published online July 20, 2020.
+
+15.
+
+Note: Supplemental data appears at www.ajtmh.org.
+Acknowledgment: This work was supported by the National Institute
+for Allergy and Infectious Diseases [Grant number 1K01AI103544].
+
+16.
+
+Disclaimer: The content is solely the responsibility of the authors and
+does not necessarily represent the ofﬁcial views of the funders.
+Authors’ addresses: Aniruddha Deshpande, Department of Epidemiology, Emory University, Atlanta, GA, E-mail: avdeshp@emory.edu.
+Howard H. Chang, Department of Biostatistics and Bioinformatics,
+Emory University, Atlanta, GA, E-mail: howard.chang@emory.edu.
+Karen Levy, Gangarosa Department of Environmental Health, Emory
+University, Atlanta, GA, and Department of Environmental and Occupational Health, University of Washington, Seattle, WA, E-mail:
+klevyx@emory.edu.
+
+17.
+
+18.
+
+19.
+
+REFERENCES
+1. Kyu HH et al., 2018. Global, regional, and national disabilityadjusted life-years (DALYs) for 359 diseases and injuries and
+healthy life expectancy (HALE) for 195 countries and territories,
+1990–2017: a systematic analysis for the Global Burden of
+Disease Study 2017. Lancet 392: 1859–1922.
+2. Roth GA et al., 2018. Global, regional, and national age-sexspeciﬁc mortality for 282 causes of death in 195 countries and
+territories, 1980–2017: a systematic analysis for the global
+burden of disease study 2017. Lancet 392: 1736–1788.
+3. Lindsay JA, 1997. Chronic sequelae of foodborne disease. Emerg
+Infect Dis 3: 443–452.
+4. Schlaudecker EP, Steinhoff MC, Moore SR, 2011. Interactions of
+diarrhea, pneumonia, and malnutrition in childhood. Curr Opin
+Infect Dis 24: 496–502.
+5. Humphrey JH, 2009. Child undernutrition, tropical enteropathy,
+toilets, and handwashing. Lancet 374: 1032–1035.
+6. Guerrant RL, Deboer MD, Moore SR, Scharf RJ, Lima AAM. 2013.
+The impoverished gut - a triple burden of diarrhoea, stunting and
+chronic disease. Nat Rev Gastroenterol Hepatol 10: 220–229.
+7. Trtanj J et al., 2016. Chapter 6: climate impacts on water-related
+illness. The impacts of climate change on human health in the
+United States: a scientiﬁc assessment. The Impacts of Climate
+Change on Human Health in the United States: A Scientiﬁc
+Assessment. Washington, DC: U.S. Global Change Research
+Program, 157–188.
+8. Ebi KL, Balbus J, Luber G, Bole A, Crimmins AR, Glass GE, Saha
+S, Shimamoto MM, Trtanj JM, White-Newsome JL, 2018.
+Chapter 14 : Human Health. Impacts, Risks, and Adaptation in
+the United States: The Fourth National Climate Assessment,
+Volume II. Washington, DC: U.S. Global Change Research
+Program.
+9. Levy K, Smith SM, Carlton EJ, 2018. Climate change impacts on
+waterborne diseases: moving toward designing interventions.
+Curr Environ Health Rep 5: 272–282.
+10. Levy K, Woster AP, Goldstein RS, Carlton EJ, 2016. Untangling
+the impacts of climate change on waterborne diseases: a
+systematic review of relationships between diarrheal diseases
+and temperature, rainfall, ﬂooding, and drought. Environ Sci
+Technol 50: 4905–4922.
+11. Carlton EJ, Woster AP, DeWitt P, Goldstein RS, Levy K, 2016. A
+systematic review and meta-analysis of ambient temperature
+and diarrhoeal diseases. Int J Epidemiol 45: 117–130.
+12. Lo Iacono G, Armstrong B, Fleming LE, Elson R, Kovats S,
+Vardoulakis S, Nichols GL, 2017. Challenges in developing
+methods for quantifying the effects of weather and climate on
+water-associated diseases: a systematic review. PLoS Negl
+Trop Dis 11: e0005659.
+13. Mellor JE et al., 2016. Planning for climate change: the need for
+mechanistic systems-based approaches to study climate
+change impacts on diarrheal diseases. Sci Total Environ
+548–549: 82–90.
+14. Hashizume M, Armstrong B, Hajat S, Wagatsuma Y, Faruque
+ASG, Hayashi T, Sack DA, 2007. Association between climate
+variability and hospital visits for non-cholera diarrhoea in
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+Bangladesh: effects and vulnerable groups. Int J Epidemiol 36:
+1030–1037.
+Singh RB, Hales S, de Wet N, Raj R, Hearnden M, Weinstein P,
+2001. The inﬂuence of climate variation and change on diarrheal
+disease in the Paciﬁc Islands. Environ Health Perspect 109:
+155–159.
+Thomas KM, Charron DF, Waltner-Toews D, Schuster C, Maarouf
+AR, Holt JD, 2006. A role of high impact weather events in
+waterborne disease outbreaks in Canada, 1975–2001. Int J
+Environ Health Res 16: 167–180.
+Curriero FC, Patz JA, Rose JB, Lele S, 2001. The association
+between extreme precipitation and waterborne disease outbreaks in the United States, 1948–1994. Am J Public Health 91:
+1194–1199.
+Hashizume M, Wagatsuma Y, Faruque ASG, Hayashi T, Hunter
+PR, Armstrong B, Sack DA, 2008. Factors determining vulnerability to diarrhoea during and after severe ﬂoods in Bangladesh. J Water Health 6: 323–332.
+Schwartz BS et al., 2006. Diarrheal epidemics in Dhaka, Bangladesh, during three consecutive ﬂoods: 1988, 1998, and 2004.
+Am J Trop Med Hyg 74: 1067–1073.
+Kondo H, Seo N, Yasuda T, Hasizume M, Koido Y, Ninomiya N,
+Yamamoto Y, 2002. Post-ﬂood-Infectious diseases in Mozambique. Prehosp Disaster Med 17: 126–133.
+Carlton EJ, Eisenberg JNS, Goldstick J, Cevallos W, Trostle J,
+Levy K, 2014. Heavy rainfall events and diarrhea incidence: the
+role of social and environmental factors. Am J Epidemiol 179:
+344–352.
+Kirtman B et al., 2013. 11. Near-term climate change: projections
+and predictability. Climate Change 2013 the Physical Science
+Basis: Working Group I Contribution to the Fifth Assessment
+Report of the Intergovernmental Panel on Climate Change.
+Cambridge, United Kingdom and New York, NY: Cambridge
+University Press: 953–1028.
+Troeger C et al., 2018. Estimates of the global, regional, and
+national morbidity, mortality, and aetiologies of diarrhoea
+in 195 countries: a systematic analysis for the global
+burden of disease study 2016. Lancet Infect Dis 18:
+1211–1228.
+Wolf J et al., 2014. Systematic review: assessing the impact of
+drinking water and sanitation on diarrhoeal disease in low- and
+middle-income settings: systematic review and meta-regression. Trop Med Int Health 19: 928–942.
+United Nations Educational Scientiﬁc and Cultural Organization,
+2016. Global Education Monitoring Report 2016. Gender Review: Creating Sustainable Futures for All. Available at: http://
+unesdoc.unesco.org/images/0026/002615/261593e.pdf.
+Accessed September 27, 2018.
+WHO/UNICEF Joint Monitoring Programme for Water Supply S and
+H (JMP), 2017. WHO/UNICEF JMP 2017 Annual Report. Available at: https://washdata.org/sites/default/ﬁles/documents/
+reports/2018-07/JMP-2017-annual-report.pdf. Accessed September 27, 2018.
+World Health Organization, 2018. ICD-10 Version:2016. Available
+at: http://apps.who.int/classiﬁcations/icd10/browse/2016/en.
+Accessed September 27, 2018.
+Hogar IDEL, 2007, Estadı́sticas INDE. Instituto Nacional de
+Estadı́stica. (Instituto Nacional de Estadı́stica). Sedico.Campeche.
+Gob.Mx. Available at: http://www.ine.es/jaxi/tabla.do. Accessed
+September 27, 2018.
+Goddard Earth Sciences Data and Information Services
+Center, 2016. Savtchenko A, Greenbelt MD, eds. TRMM
+(TMPA-RT) Near Real-Time Precipitation L3 1 Day 0.25
+degree x 0.25 degree V7. Greenbelt, MD: Goddard Earth
+Sciences Data and Information Services Center (GES
+DISC).
+Levy MC, Collender PA, Carlton EJ, Chang HH, Strickland
+MJ, Eisenberg JNS, Remais JV, 2019. Spatiotemporal error
+in rainfall data: consequences for epidemiologic analysis of
+waterborne diseases. Am J Epidemiol 188: 950–959.
+Magrin GO et al., 2014. Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part B: Regional Aspects.
+Contribution of Working Group II to the Fifth Assessment
+Report of the Intergovernmental Panel of Climate Change.
+
+
+
+HEAVY RAINFALL EVENTS AND DIARRHEAL DISEASES
+
+Cambridge, United Kingdom and New York, NY: Cambridge University Press, 1499–1566.
+32. Smith KR et al., 2014. Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects.
+Contribution of Working Group II to the Fifth Assessment
+Report of the Intergovernmental Panel of Climate Change.
+Cambridge, United Kingdom and New York, NY: Cambridge
+University Press, 709–754.
+
+1049
+
+33. World Bank, International Monetary Fund, 2013. Global Monitoring Report 2013: Rural-Urban Dynamics and the Millennium
+Development Goals. Washington, DC: World Bank.
+34. Levy K, 2017. Reducing health regrets in a changing climate.
+J Infect Dis 215: 14–16.
+35. Philipsborn R, Ahmed SM, Brosi BJ, Levy K, 2016. Climatic drivers
+of diarrheagenic Escherichia coli incidence: a systematic review
+and meta-analysis. J Infect Dis 214: 6–15.
+
+

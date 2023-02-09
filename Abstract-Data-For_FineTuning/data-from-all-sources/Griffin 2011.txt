@@ -1,0 +1,1234 @@
+Journal of Immunological Methods 364 (2011) 83–93
+
+Contents lists available at ScienceDirect
+
+Journal of Immunological Methods
+j o u r n a l h o m e p a g e : w w w. e l s ev i e r. c o m / l o c a t e / j i m
+
+Research paper
+
+Development of a multiplex microsphere immunoassay for the quantitation
+of salivary antibody responses to selected waterborne pathogens
+Shannon M. Grifﬁn a,b, Ing M. Chen c, G. Shay Fout b, Timothy J. Wade d, Andrey I. Egorov d,⁎
+a
+b
+c
+d
+
+Oak Ridge Institute for Science and Education, Oak Ridge, TN, USA
+National Exposure Research Laboratory, USEPA, Cincinnati, OH, USA
+Self-employed student contractor with USEPA, Cincinnati, OH, USA
+National Health and Environmental Effects Research Laboratory, USEPA, 109 T.W. Alexander Drive, MD 58C, Research Triangle Park, NC 27711, USA
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 5 August 2010
+Received in revised form 1 November 2010
+Accepted 10 November 2010
+Available online 18 November 2010
+Keywords:
+Luminex immunoassay
+Salivary antibody
+Waterborne
+Helicobacter pylori
+Toxoplasma gondii
+Noroviruses
+Cryptosporidium
+
+a b s t r a c t
+Saliva has an important advantage over serum as a medium for antibody detection due to noninvasive sampling, which is critical for community-based epidemiological surveys. The
+development of a Luminex multiplex immunoassay for measurement of salivary IgG and IgA
+responses to potentially waterborne pathogens, Helicobacter pylori, Toxoplasma gondii,
+Cryptosporidium, and four noroviruses, involved selection of antigens and optimization of
+antigen coupling to Luminex microspheres. Coupling conﬁrmation was conducted using
+antigen speciﬁc antibody or control sera at serial dilutions. Dose–response curves
+corresponding to different coupling conditions were compared using statistical tests. Control
+proteins in the speciﬁc antibody assay and a separate duplex assay for total immunoglobulins G
+and A were employed to assess antibody cross-reactivity and variability in saliva composition.
+200 saliva samples prospectively collected from 20 adult volunteers and 10 paired sera from a
+subset of these volunteers were used to test this method. For chronic infections, H. pylori and
+T. gondii, individuals who tested IgG seropositive using commercial diagnostic ELISA also had
+the strongest salivary antibody responses in salivary antibody tests. A steep increase in antinorovirus salivary antibody response (immunoconversion) was observed after an episode of
+acute diarrhea and vomiting in a volunteer. The Luminex assay also detected seroconversions
+to Cryptosporidium using control sera from infected children. Ongoing efforts involve further
+veriﬁcation of salivary antibody tests and their application in larger pilot community studies.
+Published by Elsevier B.V.
+
+1. Introduction
+Waterborne infections can be caused by a number of
+bacterial, protozoan, and viral pathogens (Reynolds et al.,
+2008). Outbreaks of waterborne infections in the US are
+typically associated with treatment failures, contamination of
+untreated groundwater, or secondary contamination of
+Abbreviations: USEPA, US Environmental Protection Agency; CCL,
+contaminant candidate list; SAPE, streptavidin R-phycoerythrin conjugate;
+MFI, median ﬂuorescence intensity; OD, optical density; GST, glutathione Stransferase; VLP, virus-like particle; CI, conﬁdence interval; CoV, coefﬁcient
+of variation.
+⁎ Corresponding author. Tel.: + 49 228 815 0416.
+E-mail address: andegorov@gmail.com (A.I. Egorov).
+0022-1759/$ – see front matter. Published by Elsevier B.V.
+doi:10.1016/j.jim.2010.11.005
+
+drinking water in the distribution system (Liang et al.,
+2006; USEPA, 2007). Low levels of pathogens can also be
+present in drinking water during normal operation of public
+water systems. It has been estimated that millions of sporadic
+waterborne infections occur annually in the US (Messner
+et al., 2006; Colford et al., 2006). In order to reduce public
+health burden of waterborne infections, USEPA promulgated
+new regulations that imposed more stringent treatment and
+monitoring requirements on public water systems (USEPA,
+2006a,b).
+Risk assessments provide theoretical estimates of public
+health effects of drinking water pollution that are used in
+support of USEPA's rulemaking. The Safe Drinking Water Act
+also mandates USEPA to conduct epidemiological studies of
+
+
+
+84
+
+S.M. Grifﬁn et al. / Journal of Immunological Methods 364 (2011) 83–93
+
+Acambis, Cambridge, MA) and sera from children diagnosed
+with Cryptosporidium, collected before and after infection (gift
+of Dr. Honorine Ward, Tufts Medical Center, Boston, MA).
+
+waterborne infections to verify these risk assessments (104th
+Congress, 1996). However, a randomized prospective intervention study in a US community did not demonstrate an
+association between tap water consumption and sporadic
+self-reported gastroenteritis (Colford et al., 2005), while
+earlier studies in other countries produced inconsistent
+results (Payment et al., 1991, 1997; Hellard et al., 2001).
+Using fecal sampling in such prospective studies proved to be
+problematic due to low rates of compliance and pathogen
+detection. The invasive nature of blood sampling also limited
+the application of serology in prospective surveys, especially
+in children.
+Oral ﬂuid (hereafter referred to as “saliva”) is a promising
+alternative to serum in evaluating immune responses to
+common waterborne infections (Gammie et al., 2002; McKie
+et al., 2002). Because it is easy and safe to collect, saliva has been
+used in large-scale, inexpensive, cross-sectional population
+surveys of several infections (Morris-Cunnington et al., 2004a,
+b; Quoilin et al., 2007). These previous studies used monoplex
+salivary immunoassays. A multiplex assay capable of simultaneous quantitation of salivary antibody responses to several
+pathogens would be highly advantageous. In this project, a
+multiplex immunoassay was developed using Luminex xMAP
+microsphere-based technology (Luminex Corp., Austin, TX).
+Several pathogens transmissible through drinking water were
+chosen based on their importance for public health, prior
+research on salivary antibody responses, and availability of
+puriﬁed or recombinant immunogenic proteins. Selection
+included causative agents of chronic or latent infection
+(Helicobacter pylori and Toxoplasma gondii), and transient
+acute infection (noroviruses and Cryptosporidium).
+
+Proteins were conjugated to unique sets of ﬂuorescent
+Luminex microspheres according to manufacturer's recommendations. Brieﬂy, 5 × 106 carboxylated microspheres were
+pelleted by centrifugation and washed in 100 μL of reagent
+grade water. For surface activation, beads were resuspended
+in 80 μL of 100 mM monobasic sodium phosphate, pH 7.4
+with subsequent addition of 10 μL of 50 mg/mL N-hydroxysulfosuccinimide (NHS; Pierce Biotechnology, Rockford, IL)
+and 10 μL of 50 mg/mL 1-ethyl-3-(3-dimethylaminopropyl)
+carbodiimide hydrochloride (EDC, Pierce), followed by
+20 min incubation at room temperature.
+Four buffers were tested for coupling proteins to microspheres: (i) 50 mM 2-(N-morpholino) ethanesulfonic acid
+(MES), pH 5.0; (ii) 100 mM MES, pH 6.1; (iii) phosphatebuffered saline (PBS), pH 7.4; and (iv) 100 mM NaCl, 100 mM
+NaHCO3, pH 9.5. Activated beads were washed twice in 250 μL
+of coupling buffer and resuspended in 100 μL of coupling
+buffer. Varying amounts of each protein were added to
+determine an optimal coupling concentration. Total volume
+was brought to 500 μL with coupling buffer, followed by
+rotational mixing for 2 h at room temperature. Beads were
+then pelleted and resuspended in blocking buffer (PBS, 0.1%
+BSA, 0.05% sodium azide, 0.02% Tween 20, pH 7.4), washed
+twice and resuspended in 1 mL of the same buffer, and stored
+at 4 °C.
+
+2. Materials and methods
+
+2.3. Luminex analysis
+
+The multiplex assay to measure speciﬁc salivary antibody
+responses employed a mixture of different sets of microbeads
+with unique ﬂuorescent characteristics, each set coupled to a
+speciﬁc antigen. Two versions of this assay using isotypespeciﬁc detection antibodies were developed for measuring
+speciﬁc IgG and IgA responses. A supplemental duplex assay
+with two sets of beads coupled to anti-human IgG and IgA
+capture antibodies was also developed to measure total
+salivary immunoglobulins and quantify speciﬁc antibody
+responses in relation to the total isotype-speciﬁc immunoglobulin content of the sample.
+
+MultiScreen BV 1.2 μm ﬁlter microplates (Millipore, Billerica,
+MA) were washed with 200 μL of wash buffer (PBS-0.05%
+Tween 20) and aspirated by vacuum manifold. Microspheres
+were diluted to a concentration of 100 microspheres of
+each type per μL in dilution buffer (PBS-1% BSA). Then, 50 μL
+of bead mixture and 50 μL of sample (primary antibody,
+diluted serum or saliva) were added to wells. Plates were
+incubated on a shaker for 1 h at room temperature at 500 rpm,
+washed 3 times, and beads resuspended in 50 μL of dilution
+buffer. Next, 50 μL of biotinylated detection antibody in
+dilution buffer was added to wells, followed by incubation
+for 30 min at room temperature at 500 rpm and three washes.
+Beads were resuspended in 50 μL of dilution buffer, then 50 μL
+of dilution buffer with streptavidin R-phycoerythrin conjugate (SAPE; Invitrogen, Carlsbad, CA) was added to wells. After
+incubation for 30 min at the previous conditions and three
+washes, beads resuspended in 100 μL of dilution buffer were
+analyzed using a Luminex-100 ﬂow cytometer at default
+settings. Median Fluorescence Intensity (MFI) of the reporter
+signal estimated from at least 100 beads of each type was used
+in data analysis.
+
+2.1. Saliva and serum samples
+Twenty USEPA scientists donated 200 saliva samples on
+a weekly or monthly basis over two weeks to nine months.
+Saliva was collected by rubbing the gums with an Oracol
+sampler sponge (Malvern Medical Developments, Worcester,
+UK) for 1 min, separated from sponges by centrifugation,
+and stored at − 80 °C until use. Ten volunteers also donated
+ﬁnger tip blood samples. Human study protocols were
+approved by the Institutional Review Board at University of
+North Carolina, Chapel Hill, operating under an agreement
+with USEPA. Written informed consent was acquired from all
+volunteers.
+This project also employed de-identiﬁed human sera from
+individuals seropositive to H. pylori (gift of Dr. Harry Kleanthous,
+
+2.2. Coupling proteins to microspheres
+
+2.4. Data analysis
+Luminex output data were analyzed using SAS 9.2 (SAS
+Institute, Cary, NC). Four-parameter S-shaped weighted
+logistic dose–response curves (De Lean et al., 1978; Plikaytis
+
+
+
+S.M. Grifﬁn et al. / Journal of Immunological Methods 364 (2011) 83–93
+
+et al., 1991; Findlay and Dillard, 2007) were ﬁtted using PROC
+NLIN. The basic four parameter logistic equation is as follows:
+Y =a+
+
+b−a
+ d
+X
+1+
+c
+
+where Y is Median Fluorescence Intensity (MFI), X is
+concentration of primary antibody or sample dilution factor,
+a and b are the lower and upper asymptotes respectively, c is
+the location parameter (same units as X), and d is the
+dimensionless shape parameter. The weighting function was
+chosen based on variability in the response and set equal to 1/
+(Y)1.8 (Marchese et al., 2009).
+Dose–response curves for each protein were compared to
+identify the coupling conditions producing the highest
+reactivity of primary antibody at the lowest concentrations.
+Regression models that allowed individual parameters a, b, c,
+and d for each coupling condition were initially ﬁtted to the
+data. These full models were compared with reduced
+(constrained) models that forced one or more parameter(s)
+to be shared by all curves using standard F tests as previously
+described (De Lean et al., 1978).
+Below is an example of a curve equation with common
+parameters a, b, and d for all k coupling conditions, and
+condition-speciﬁc parameter c:
+b−a
+d
+X
+c0 + m1 Z1 + … + mk−1 Zk−1
+
+
+
+Y =a+
+1+
+
+where c0 is the location parameter for the reference category,
+Z1 to Zk − 1 are binary indicators for k coupling condition
+categories and m1 to mk − 1 are parameters reﬂecting the
+effect of changing coupling conditions on the location
+parameter c.
+The reference category was always deﬁned as coupling
+buffer pH 5.0 and the highest protein coupling concentration
+tested. If a higher pH was not associated with a signiﬁcantly
+(α b 0.05) better result, the default pH 5.0 was selected as
+“optimal”. The highest concentration of protein tested was
+assumed “optimal” if the second highest concentration
+produced signiﬁcantly worse results. If the difference was
+not signiﬁcant, the next highest concentration was selected
+until the effect of reducing the protein concentration became
+signiﬁcant.
+Four-parameter logistic dose–response curves were also
+ﬁtted to puriﬁed human antibody data obtained from the
+total immunoglobulin assay. The resulting equations were
+then rearranged and applied to the results of saliva analyses
+to estimate concentrations of salivary immunoglobulins from
+the MFI data.
+2.5. Development of a multiplex speciﬁc antibody assay
+2.5.1. Antigens and primary detection antibodies
+2.5.1.1. Helicobacter pylori. Detergent extract of whole H.
+pylori (strain 43504) cell sonicate (R92101, Meridian Life
+Science, Saco, ME), puriﬁed recombinant urease expressed in
+E. coli as described by Lee et al. (1995) (gift of Dr. Harry
+
+85
+
+Kleanthous, Acambis), recombinant ﬂagellin, Vac toxin, and
+small subunit urease (HPA-5040-5, HPA-5010-5 and HPA5020-5 respectively, Austral Biologicals, San Ramon, CA) were
+coupled to different sets of microbeads. Coupling conﬁrmation
+tests were conducted using de-identiﬁed positive control sera
+(gift of H. Kleanthous), rabbit anti-H. pylori polyclonal antibody
+(B92310R, Meridian Life Science), rabbit anti-Vac polyclonal
+antibody, and mouse anti-small subunit urease monoclonal
+antibody (HPP-5013-9 and HPM-5021-5 respectively, Austral
+Biologicals).
+2.5.1.2. Toxoplasma gondii. Protein coupling experiments
+involved soluble protein extract of strain RH tachyzoites
+(R9A350, Meridian Life Science) and three sources of
+immunogenic p30 membrane protein (all from Meridian):
+(i) recombinant from E. coli (R18426), (ii) puriﬁed from
+infected HeLa cells (R9A300), and (iii) puriﬁed from infected
+mice (R86300). Recombinant p30 and p30 from mice were
+dialyzed at 4 °C overnight against PBS (1 change) using SlideA-Lyzer 10 K molecular weight cut-off (MWCO) dialysis
+cassettes (Pierce) to remove storage buffers containing
+primary amines, which can bind to carboxyl groups on the
+microsphere surface. Mouse monoclonal antibody to T. gondii
+p30 protein (C86319M, Meridian Life Science) and goat
+polyclonal antibody raised against tachyzoites of T. gondii
+strain RH (OBT0969, AbD Serotec, Raleigh, NC) were used for
+coupling conﬁrmation.
+2.5.1.3. Noroviruses. Puriﬁed recombinant P domains of major
+capsid proteins from three noroviruses, Norwalk (genogroup
+I, subgroup 1, GI.1), VA387 (GII.4), and VA207 (GII.9), and a
+polyclonal antibody raised in guinea pigs against noroviruses
+were gifts of Dr. Xi Jiang of Cincinnati Children's Hospital
+Medical Center (Cincinnati, OH). Puriﬁcation of these GSTtagged proteins from E. coli and removal of GST tags were
+performed as previously described; puriﬁed proteins formed
+5 nm P-particles comprised of 12 P dimers (Tan and Jiang,
+2005; Tan et al., 2008). Norovirus GII.4 Minerva virus-like
+particles (VLPs) and two different polyclonal sera raised
+against Minerva VLPs, one from guinea pig and another from
+rabbit, were gifts of Dr. Alec Sutherland (Arizona State
+University). These VLPs were prepared using a baculovirus
+expression system as previously described (Jiang et al., 1992;
+Jiang et al., 1995).
+2.5.1.4. Cryptosporidium. Puriﬁed recombinant gp15 (15 kDa)
+protein of C. hominis TU502 isolate and mouse anti-C. hominis
+gp15 monoclonal antibody were gifts of Dr. Honorine Ward
+(Tufts Medical Center). The protein containing thioredoxin,
+His, and S tags, was cloned and puriﬁed as described
+previously (Cevallos et al., 2000; Preidis et al., 2007).
+Transformed E. coli strain BL21 culture expressing the
+recombinant C. parvum 27 kDa protein with N-terminal
+glutathione S-transferase (GST) tag and ascites ﬂuid containing mouse monoclonal antibody to this protein were gifts of
+Dr. Jeffrey Priest (Centers for Disease Control and Prevention,
+Atlanta, GA). The protein was expressed and puriﬁed as
+described previously (Priest et al., 1999; Moss et al., 2004).
+Goat anti-C. parvum polyclonal IgG antibody (ab20787,
+Abcam, Cambridge, MA) was also used for coupling
+conﬁrmation.
+
+
+
+86
+
+S.M. Grifﬁn et al. / Journal of Immunological Methods 364 (2011) 83–93
+
+2.5.1.5. Internal controls. A set of beads coupled to GST (20237,
+Pierce) was included in the multiplex assays to control for
+non-speciﬁc reactivity, particularly with GST tags of certain
+recombinant proteins. Rabbit anti-GST antibody (A-5800,
+Invitrogen, Carlsbad, CA) was used in coupling conﬁrmation
+experiments. Beads coupled to bovine serum albumin (BSA,
+A7030, Sigma-Aldrich, St. Louis, MO) were also included in
+multiplex assays to assess potential non-speciﬁc reactivity of
+salivary antibodies with BSA-blocked microbeads.
+
+2.6. Serological ELISA assays
+
+2.5.2. Secondary antibodies and reporter
+The following biotinylated secondary antibodies were
+used in coupling conﬁrmation tests: donkey anti-goat IgG
+(ab6884) from Abcam; goat anti-mouse IgG Fc-speciﬁc (115065-071), donkey anti-guinea pig IgG (706-065-148), donkey
+anti-rabbit IgG (H + L) (711-065-152), and donkey antihuman IgG Fc-speciﬁc (709-065-098), all from Jackson
+ImmunoResearch Laboratories, West Grove, PA. Concentrations were prepared at 8 μg/mL for all secondary detection
+antibodies and 10 μg/mL for SAPE.
+Secondary detection antibodies for analysis of human saliva
+were selected from among ﬁve biotinylated anti-human IgG
+and three biotinylated anti-human IgA antibodies: donkey antihuman IgG Fc-speciﬁc (709-065-098), donkey anti-human IgG
+H + L (709-065-149), goat anti-human IgG H + L (109-065003), all from Jackson ImmunoResearch, goat anti-human IgG
+H + L (81-7140, Invitrogen), goat anti-human IgGγ (16-10-02,
+KPL, Gaithersburg, MD), goat anti-human IgAα (109-065-011,
+Jackson ImmunoResearch), goat anti-human IgA F(ab)′2
+(AHI1109, Invitrogen), and goat anti-human IgA (16-10-01,
+KPL). To determine an optimal antibody concentration, selected
+detection antibodies were assayed at 7.5 to 37.5 μg/mL with
+several serially diluted saliva samples. Next, a concentration of
+SAPE was selected from a 2.5 to 17.5 μg/mL range at a constant
+concentration of detection antibody.
+
+2.7. Development of a duplex assay for total immunoglobulins
+G and A
+
+IgG responses to H. pylori and T. gondii in serum samples
+collected from EPA volunteers were measured using commercial diagnostic ELISA kits (IB79236, IBL-America, Minneapolis,
+MN and EG 127, Viro-Immun Labor-Diagnostika GmbH,
+Oberursel, Germany, respectively) according to the manufacturers' instructions. Plates were read at 450 nm on a BioTek
+Synergy HT (Winooski, VT) microplate reader.
+
+2.7.1. Anti-human capture antibodies
+Afﬁnity puriﬁed goat anti-human antibodies (capture
+antibodies), speciﬁc to human IgGγ and IgAα (01-10-02
+and 01-10-01, KPL) were used in this assay. Coupling
+conﬁrmation tests were conducted using puriﬁed human
+IgG and IgA (009-000-001, 009-000-012, Jackson ImmunoResearch) assayed at serial concentrations.
+
+2.7.2. Secondary antibodies and reporter
+Anti-human IgG and IgA detection antibodies had to be
+from the same species (goat) as both capture antibodies in
+order to avoid cross-reactivity. Biotinylated goat anti-human
+IgG and IgA detection antibodies (16-10-02 and 16-10-01,
+KPL) were used in this assay. To determine optimal secondary
+antibody concentrations, saliva samples were tested with a
+range of concentrations of each detection antibody, while
+SAPE concentration was held constant at 8 μg/mL. At the next
+step, saliva samples were analyzed with a constant concentration of detection antibodies and a range of SAPE concentrations from 1 to 10 μg/mL in order to select the optimal
+SAPE concentration.
+
+Table 1
+Protein coupling conditions for speciﬁc antibody and total antibody assays.
+Protein
+
+Protein concentration
+(μg per 500 μL)
+
+Coupling
+buffer pH
+
+Conﬁrmation tests (primary and secondary antibodies)
+
+Speciﬁc antibody assay
+H. pylori whole cell sonicate
+H. pylori recombinant urease
+T. gondii soluble protein extract
+T. gondii p30 from HeLa cells
+
+25
+5
+100
+5
+
+5.0
+5.0
+5.0
+5.0
+
+Norwalk virus P-particles
+Norovirus VA387 P-particles
+Norovirus VA207 P-particles
+Norovirus Minerva VLPs
+
+10
+10
+10
+90
+
+5.0
+5.0
+5.0
+5.0
+
+C. hominis recombinant gp15 protein
+C. parvum recombinant 27 kDa protein
+
+5
+25
+
+5.0
+5.0
+
+5
+25
+
+5.0
+5.0
+
+Rabbit anti-H. pylori + biotin donkey anti-rabbit
+Positive control sera + biotin donkey anti-human IgG
+Goat anti-T. gondii + biotin donkey anti-goat
+1) Mouse anti-p30 + biotin goat anti-mouse;
+2) Goat anti-T. gondii + biotin donkey anti-goat
+Guinea pig anti-norovirus + biotin donkey anti-guinea pig
+Guinea pig anti-norovirus + biotin donkey anti-guinea pig
+Guinea pig anti-norovirus + biotin donkey anti-guinea pig
+1) Guinea pig anti-Minerva + biotin donkey anti-guinea pig;
+2) Rabbit anti-Minerva + biotin donkey anti-rabbit
+Mouse anti-gp15 + biotin goat anti-mouse;
+1) Mouse anti-27 kDa + biotin goat anti-mouse;
+2) Goat anti-C. parvum + biotin donkey anti-goat
+Rabbit anti-GST + biotin donkey anti-rabbit
+Not applicable
+
+25
+25
+
+5.0
+5.0
+
+Puriﬁed human IgG + biotin goat anti-human IgG
+Puriﬁed human IgA + biotin goat anti-human IgA
+
+Glutathione-S-transferase (GST)
+BSA
+Total antibody assay
+Goat anti-human IgG γ
+Goat anti-human IgA α
+
+
+
+S.M. Grifﬁn et al. / Journal of Immunological Methods 364 (2011) 83–93
+
+87
+
+Fig. 1. Conﬁrmation of coupling H. pylori whole cell sonicate to microbeads using anti-H. pylori antibody at serial dilutions: observed ﬂuorescence data and ﬁtted
+four-parameter logistic dose–response curves. These curves shared lower asymptote a and upper asymptote b. Values of the location parameters c are curvespeciﬁc. Two values of the shape parameter d were used: one for pH 5.0 to 7.4 and another for pH 9.5.
+
+3. Results
+3.1. Multiplex assay for IgG and IgA responses to microbial
+antigens
+The ﬁnal assay composition and coupling conditions for
+each protein are described below and presented in Table 1.
+Results pertaining to H. pylori sonicate are presented in greater
+detail to demonstrate the methodology, while results for other
+proteins are described more succinctly with additional
+information available in on-line Supplementary materials.
+3.1.1. H. pylori
+For whole cell sonicate, coupling experiments were conducted at 25 and 100 μg/500 μL, and pH values 5.0, 6.1, 7.4, and
+9.5. Coupling conﬁrmation tests using rabbit anti-H. pylori
+polyclonal antibody demonstrated that optimal coupling
+conditions were pH 5.0 and 100 μg/500 μL (Fig. 1, Table 2). A
+reduced model with a common upper asymptote parameter b
+
+did not differ signiﬁcantly from a full model. The 31,519 MFI
+upper asymptote value approximates the maximum ﬂuorescence intensity for Luminex assays using biotinylated detection
+antibodies and SAPE (manufacturer's data). Two dose–
+response curves for experiments conducted at pH 9.5 were
+signiﬁcantly less steep (smaller absolute value of d) than the
+other six curves. A common value of d for these two curves was
+justiﬁable (p N 0.05 for the difference). The smallest estimated
+value of the location parameter c, suggesting the most efﬁcient
+protein coupling, corresponded to pH 5.0 and 100 μg/500 μL
+(reference category). Since values of c for higher pH buffers
+were greater indicating less efﬁcient coupling, the default pH
+5.0 was selected as “optimal”. The effect of using 25 μg/500 μL
+of protein at pH 5.0 on c was short of being signiﬁcant,
+suggesting that this lower concentration can be used to reduce
+the expenditure of proteins (Table 1). However, since H. pylori
+detergent extract is inexpensive and readily available from a
+commercial source, using a higher protein concentration may
+also be justiﬁable.
+
+Table 2
+Parameter estimates for four-parameter logistic dose–response curves ﬁtted to the coupling conﬁrmation test data for H. pylori whole cell sonicate. All curves had
+common lower asymptote a and upper asymptote b parameters. Two shape parameters d were used: one for pH 5.0 to 7.4 and another for pH 9.5. Each curve had a
+unique location parameter c. P values are provided for contrasts with the reference category (coupling buffer pH 5.0, concentration of protein 100 μg/500 μL).
+Protein coupling
+conditions
+pH
+
+5.0
+5.0
+6.1
+6.1
+7.4
+7.4
+9.5
+9.5
+
+Dose–response curve parameters
+Concentration,
+μg/500 μL
+
+Lower asymptote
+a (95% CI), MFI
+
+100
+25
+100
+25
+100
+25
+100
+25
+
+50.7 (20.8, 80.5)
+Same as above
+Same as above
+Same as above
+Same as above
+Same as above
+Same as above
+Same as above
+
+Upper asymptote
+b (95% CI), MFI
+
+31,519 (27,910, 35,128)
+Same as above
+Same as above
+Same as above
+Same as above
+Same as above
+Same as above
+Same as above
+
+Location parameter c
+
+Shape parameter d
+
+Parameter estimate
+(95% CI), μg/mL
+
+P value for
+contrast
+
+Parameter
+estimate (95% CI)
+
+P value for
+contrast
+
+0.045
+0.058
+0.076
+0.057
+1.55
+2.36
+19.4
+38.5
+
+Reference
+0.11
+0.002
+0.14
+0.0006
+b0.0001
+0.0005
+0.002
+
+− 1.38 (− 1.52, − 1.24)
+Same as above
+Same as above
+Same as above
+Same as above
+Same as above
+−0.91 (− 1.18, − 0.65)
+same as above
+
+Reference
+
+(0.031, 0.058)
+(0.041, 0.075)
+(0.053, 0.098)
+(0.040, 0.074)
+(0.74, 2.36)
+(1.41, 3.30)
+(9.27, 29.4)
+(15.8, 61.2)
+
+0.003
+
+
+
+88
+
+S.M. Grifﬁn et al. / Journal of Immunological Methods 364 (2011) 83–93
+
+Saliva Luminex, MFI
+
+30000
+
+compromising the assay performance (Table 1). Optimal
+coupling conditions for small subunit urease, Vac, and
+ﬂagellin were pH 5.0 and 25 μg/500 μL of protein (not
+shown).
+Serial dilutions of saliva from seropositive individuals
+were analyzed using a multiplex assay that included all of
+the above antigens (Fig. 4). Salivary antibody responses to
+H. pylori whole cell sonicate and recombinant urease were
+strongest; therefore, these two were included in the ﬁnal
+assay (Table 1).
+
+25000
+20000
+
+Seronega10000 tive
+15000
+
+Seropositive
+
+5000
+0
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+Serum ELISA, OD at 450 nm
+Fig. 2. Veriﬁcation of Luminex test for salivary IgG responses to H. pylori
+whole cell sonicate using diagnostic IgG ELISA of paired serum samples.
+Saliva was analyzed at 1:4 dilution in the Luminex assay; serum was
+analyzed at 1:100 dilution in ELISA.
+
+Two EPA volunteers who tested seropositive using
+diagnostic ELISA likewise had the strongest salivary IgG
+responses to H. pylori sonicate (Fig. 2). Analysis of serially
+diluted saliva samples from both seropositive (“infected”)
+and selected seronegative (“not infected”) individuals using
+the multiplex assay which included antigens of other
+pathogens and internal controls demonstrated that salivary
+IgG responses remained much stronger in seropositive
+individuals, even at a 1:1024 dilution of saliva (Fig. 3).
+For H. pylori urease, nine coupling experiments were
+conducted at concentrations of 1, 5, and 25 μg/500 μL and pH
+values of 5.0, 6.1, and 7.4. Coupling conﬁrmation tests
+conducted using positive control sera demonstrated that the
+best results were produced using pH 5.0 and 25 μg/500 μL
+(reference category). However, results of coupling at pH 5.0
+and 5 μg/500 μL were not signiﬁcantly different from the
+reference category (Supplementary Table 1 and Supplementary Fig. 1). Therefore, use of pH 5.0 and 5 μg/500 μL of urease
+at coupling can minimize use of this protein without
+
+3.1.2. T. gondii
+For soluble protein extract of tachyzoites, optimal coupling conditions occurred at a protein concentration of
+100 μg/500 μL and pH 5.0 (Supplementary Fig. 2). Coupling
+conﬁrmation tests indicated that only p30 protein from HeLa
+cells produced satisfactory results compared to other sources
+of this protein. Optimal coupling conditions for the p30
+protein were 5 μg/500 μL at pH 5.0 (Table 1); increasing
+protein concentration did not improve coupling efﬁciency
+(not shown).
+Two of 10 EPA volunteers who tested seropositive to
+T. gondii using diagnostic serological ELISA, likewise had the
+strongest salivary IgG responses to this parasite (Supplementary Fig. 3). Using the multiplex assay, salivary IgG responses
+to soluble T. gondii proteins remained markedly higher in
+both seropositive individuals compared to seronegative
+controls at 1:64 dilution; in one seropositive individual, IgG
+response remained elevated at 1:1,024 dilution of saliva
+(Supplementary Fig. 4).
+3.1.3. Noroviruses
+Recombinant P-particles of Norwalk, VA387, and VA207
+viruses, and VLPs of Minerva virus were coupled to microbeads
+at pH 5.0 only. Concentrations at coupling varied from 1 to
+10 μg/500 μL for P-particles and from 5 to 90 μg/500 μL for
+Minerva VLPs. Analysis of dose–response curves (results for
+VA207 are shown on Supplementary Fig. 5) indicated that
+
+Fig. 3. Salivary IgG responses to H. pylori whole cell sonicate in two seropositive and three seronegative individuals at serial dilutions of saliva samples. Smooth
+curves were ﬁtted using four-parameter logistic functions.
+
+
+
+S.M. Grifﬁn et al. / Journal of Immunological Methods 364 (2011) 83–93
+
+89
+
+Fig. 4. Comparison of IgG responses to H. pylori whole cell sonicate and various recombinant proteins in saliva from a seropositive volunteer at serial dilutions.
+Smooth curves were ﬁtted using the spline method.
+
+coupling at 10 μg/500 μL produced signiﬁcantly (p b 0.05) better
+results than at 5 μg/500 μL, although these improvements
+were not substantial. While 10 μg/500 μL, is optimal, coupling
+at 5 μg/500 μL can minimize the use of valuable P-particles.
+Anti-GST antibodies reacted strongly with beads coupled to
+these norovirus proteins suggesting incomplete removal of
+the GST tag during puriﬁcation. In further tests, salivary
+antibody reactivity with GST-coupled beads was used as assay
+background.
+For Minerva VLPs, results of coupling at 5 μg/500 μL were
+unsatisfactory, probably due to the much larger size of VLPs
+compared to P-particles (30 nm vs. 5 nm). A substantially
+higher concentration of VLPs at coupling, 90 μg/500 μL, was
+selected for the ﬁnal assay (Table 1). Tests using the multiplex
+assay showed that anti-Minerva antibodies cross-reacted
+strongly with VA387 (both GII.4 noroviruses), but not with
+Norwalk and VA207 antigens (Supplementary Fig. 6).
+
+For analysis of immunoconversions, all saliva samples
+from each EPA volunteer were assayed on one plate after the
+end of follow-up. Two of 20 volunteers reported episodes of
+acute diarrhea and vomiting, typical symptoms of norovirus
+infection. One individual exhibited a characteristic steep
+increase and subsequent gradual decline in salivary IgG and
+IgA responses to VA387 norovirus after an episode of
+symptoms (Fig. 5). Antibody responses to all other pathogens
+in the assay, including Norwalk virus, remained practically
+unchanged or slightly declined.
+Convalescent phase paired serum and saliva samples from
+this individual were analyzed for IgG and IgA responses at serial
+dilutions using the multiplex assay. Ratios of antibody responses
+to VA387 P-particles and GST were the greatest at 1:4 dilution of
+saliva suggesting that this dilution was optimal in this case.
+Salivary IgA exhibited a stronger non-speciﬁc reactivity than
+IgG. For serum, optimal sample dilution was approximately
+
+Fig. 5. Temporal patterns of salivary antibody responses to norovirus VA387 P-particles and selected other antigens in an EPA volunteer who had an episode of
+diarrhea and vomiting (1:4 dilution of saliva samples).
+
+
+
+90
+
+S.M. Grifﬁn et al. / Journal of Immunological Methods 364 (2011) 83–93
+
+1:30,000 for IgA tests and N60,000 for IgG, demonstrating a high
+intensity antibody response (Supplementary Fig. 7).
+3.1.4. Cryptosporidium
+Two recombinant proteins of Cryptosporidium spp.,
+C. parvum 27 kDa protein and C. hominis gp15 (15 kDa),
+were each coupled at pH 5.0, 6.1, and 7.4 and protein
+concentrations 1, 5, and 25 μg/500 μL. For gp15 protein, best
+coupling results were produced at pH 5.0 and 25 μg/500 μL.
+However, results at pH 5.0 and 5 μg/500 μL were not
+signiﬁcantly worse (Supplementary Fig. 8). Therefore, these
+conditions are recommended when protein availability is
+limited (Table 1). For the 27 kDa protein, optimal coupling
+conditions were pH 5.0 and 25 μg/500 μL (not shown).
+Control pre-infection and post-infection serum samples
+from two Cryptosporidium-diagnosed children were analyzed
+at serial dilutions from 1:100 to 1:409,600 using the
+multiplex assay. Since the recombinant protein of C. parvum
+contained a GST tag, the results for this protein and, for
+consistency, the C. hominis gp15 protein, were expressed as
+ratios of anti-Cryptosporidium and anti-GST antibody reactions. Both children seroconverted to both proteins following
+infection (Fig. 6), but did not experience increases in antibody
+reactivity with other antigens in the multiplex assay (not
+shown). Pearson correlation between log-transformed speciﬁc antibody responses to Cryptosporidium in paired sera and
+saliva from EPA volunteers was approximately 0.9 for IgA and
+IgG antibodies.
+
+Ratio of responses to Crypto
+antigen and GST
+
+3.1.5. Selection and optimization of secondary antibodies
+To select best performing anti-human IgG and IgA
+detection antibodies for the multiplex assay, saliva samples
+from volunteers with strong salivary anti-H. pylori, antiT. gondii, and anti-norovirus VA387 responses were assayed
+at 1:4 to 1:1,024 dilutions and analyzed using ﬁve different
+anti-human IgG antibodies and three anti-human IgA antibodies (see Section 2.5.2). All ﬁve anti-human IgG antibodies
+produced similar MFI for antibody responses to the target
+antigens in all positive individuals. However, biotinylated
+donkey anti-human IgG Fc-speciﬁc antibody (Jackson
+ImmunoResearch) consistently produced two to three times
+
+90
+80
+
+IgA before
+
+70
+
+IgA after
+IgG before
+
+60
+
+IgG after
+
+50
+40
+30
+20
+10
+0
+Cp 27 kDa
+child 1
+
+Ch gp15
+child 1
+
+Cp 27 kDa
+child 2
+
+Ch gp15
+child 2
+
+Fig. 6. Serum antibody responses to C. parvum (Cp) 27 kDa and C. hominis
+(Ch) gp15 recombinant proteins in two children before and after diagnosed
+Cryptosporidium infections at 400x (for IgA) and 1600x (for IgG) serum
+dilutions.
+
+lower reactivity with GST and BSA, as well as Cryptosporidium
+27 kDa protein compared with other four anti-human IgG
+antibodies. All three anti-human IgA antibodies produced
+similar results; goat anti-IgAα (Jackson ImmunoResearch)
+was selected due to its slightly lower cross-reactivity and
+lower cost. Optimal results were produced using 30 μg/mL of
+these anti-IgG and anti-IgA antibodies; improvement due to
+higher antibody concentrations was not signiﬁcant. The effect
+of increasing SAPE concentration leveled off at 10 μg/mL (not
+shown). All tests of saliva and serum samples described above
+were conducted using the optimized multiplex assay.
+3.1.6. Effects of multiplexing
+Aliquots of saliva samples from individuals with strong
+antibody responses to H. pylori, T. gondii, and VA387 norovirus
+were analyzed using monoplex assays for these pathogens
+and the full optimized multiplex assay. The effects of
+multiplexing on antibody responses to H. pylori and T. gondii
+were not detectable; however, there was approximately 15%
+reduction in measured anti-VA387 antibody responses.
+3.2. Supplementary duplex assay for total immunoglobulins
+G and A
+Goat anti-human capture antibodies were coupled to
+microbeads at pH 5.0 (Luminex-recommended pH for
+immunoglobulins) and concentrations from 5 to 125 μg/
+500 μL. Coupling conﬁrmation tests using puriﬁed human
+immunoglobulins indicated that optimal concentration of
+both antibodies at coupling was 25 μg/500 μL (Table 1).
+Higher concentrations did not result in signiﬁcant improvement (p N 0.05). The optimal concentration for each antihuman IgG and anti-human IgA secondary detection antibody
+was 4 μg/mL, while optimal SAPE concentration was 8 μg/mL.
+Cross-reactivity tests using serial dilutions of puriﬁed
+human IgG or IgA demonstrated that, for each antibody
+isotype, cross-reactivity with another isotype accounted for
+less than 0.1% of the estimated antibody concentration.
+Average intra-plate and inter-plate coefﬁcients of variation
+(CoV) were 5.4% and 11.4%, respectively, for IgG, and 4.5% and
+11.7% for IgA. The quantitation ranges for puriﬁed human IgG
+were from 0.2 ng/mL to 10 ng/mL and from 0.2 ng/mL to
+80 ng/mL for IgA (Fig. 7). Total salivary IgG and IgA
+concentrations were quantiﬁable in the dilution range from
+1:5,000 to 1:200,000 (Supplementary Fig. 9). An optimal
+dilution of saliva for the duplex total IgG and IgA assay was
+between 1:20,000 and 1:60,000.
+Volumes of saliva samples collected from EPA volunteers
+using Oracol samplers were approximately normally distributed with mean 0.71 mL, standard deviation 0.33 mL, and
+range 0.01–1.50 ml. Considering losses during sample preparation, a minimum initial saliva volume of 0.2 mL was
+necessary to conduct all three tests (speciﬁc IgG and IgA, and
+total immunoglobulins). Five percent of samples had volumes
+less than 0.2 mL.
+Concentrations of total IgG and IgA in saliva samples
+approximated a log-normal distribution with geometric
+mean (geometric standard deviation) 21 (2.6) and 50 (2.2)
+μg/mL, respectively. Random intercept regression analysis
+demonstrated that larger sample volumes were associated
+with lower antibody concentrations: IgG and IgA were 43%
+
+
+
+S.M. Grifﬁn et al. / Journal of Immunological Methods 364 (2011) 83–93
+
+91
+
+Fig. 7. Duplex assay for total IgG and IgA: four-parameter logistic dose–response curves ﬁtted to the puriﬁed human immunoglobulins G and A data.
+
+(95% CI 34%, 51%) and 34% (22%, 44%) lower at the 75th
+percentile of sample volume distribution compared to the
+25th percentile.
+4. Discussion
+This manuscript presents the ﬁrst stage of a pilot, proofof-concept project to develop a non-invasive salivary antibody technique for surveillance of waterborne infections. The
+Luminex ﬂuorescent microsphere suspension method was
+selected due to its multiplexing capabilities, which can
+greatly reduce analysis costs and the necessary volume of
+saliva.
+Previous research demonstrated that pH 5.0 is optimal for
+binding immunoglobulins to Luminex beads because it allows
+for lysine residues in the antibody's constant region to bind
+carboxyl groups on the bead surface. This orientates the
+antibody binding region away from the surface (Martins et al.,
+2006). Different pH values may be optimal for coupling other
+proteins to beads (Martins et al., 2006). In this study, several
+unrelated puriﬁed proteins were coupled to beads at pH
+values from 5.0 to 9.5; pH 5.0 was selected as an optimal
+condition for all proteins.
+Salivary and serological IgG tests for H. pylori tend to have
+similarly high sensitivity and speciﬁcity values (Luzza et al.,
+1997; Reilly et al., 1997; Bode et al., 2002). Limited existing
+data suggest that salivary IgG responses to several antigens of
+T. gondii strongly correlate with systemic antibody responses
+(Stroehle et al., 2005). In this study, results of Luminex tests
+for salivary IgG antibodies to H. pylori and T. gondii matched
+those of diagnostic serological ELISA tests. However, further
+validation using a larger set of samples is necessary to
+evaluate sensitivity and speciﬁcity of the Luminex assay.
+Diagnostic serological tests for acute short-term infections, norovirus and Cryptosporidium, are not available.
+Incidence of these infections cannot be reliably elucidated
+from cross-sectional antibody data. While seroconversion can
+serve as an indicator of incident infections, prospective
+serological studies are few due to the invasive nature of
+
+blood sampling. The non-invasive salivary antibody method
+lends itself to prospective studies.
+Serum and salivary anti-norovirus IgA antibodies increase
+steeply within several days after infection and start to decline
+within two weeks, while IgG antibodies typically peak
+between two and three weeks post-infection, and then
+gradually decline (Erdman et al., 1989; Lindesmith et al.,
+2003, 2005). Previous studies deﬁned immunoconversion as
+at least a fourfold increase in serum or salivary anti-norovirus
+antibody responses (Monroe et al., 1993; Moe et al., 2004). In
+this project, one volunteer experienced an immunoconversion to norovirus VA387 after an episode of symptoms typical
+of norovirus infection. The large magnitude of an increase in
+anti-VA387 antibody with no concurrent increases in
+responses to Norwalk virus or other pathogens in the assay
+provides strong evidence of infection with a genogroup II
+norovirus (these samples were not tested for responses to
+VA207 and Minerva noroviruses, which were added to the
+multiplex assay at a later stage).
+Two Cryptosporidium proteins that were included in this
+assay have been shown to induce strong antibody responses
+in humans (Moss et al., 1994, 1998a). The median half-life of
+serum IgG to these proteins can vary from 12 weeks (Priest
+et al., 2001) to almost 15 months (Sandhu et al., 2006), while
+serum IgA response can decay to a non-detectable level
+within 10 weeks post-infection (Moss et al., 1998a,b). In this
+study, the multiplex immunoassay detected concurrent seroconversions to both C. parvum 27 kDa and C. hominis 15 kDa
+proteins in two children with conﬁrmed Cryptosporidium
+infections (species not determined). These results are consistent with previous research indicating the lack of species
+speciﬁcity of antibody responses to these proteins (Sandhu
+et al., 2006; Priest et al., 2006).
+This salivary antibody assay remains to be validated using
+saliva from individuals with diagnosed Cryptosporidium
+infections. Previous research demonstrated elevated antiCryptosporidium salivary IgG and IgA responses in recently
+infected individuals (Cozon et al., 1994; Moss et al., 2004).
+Elevated salivary IgG responses to the gp15 protein have also
+
+
+
+92
+
+S.M. Grifﬁn et al. / Journal of Immunological Methods 364 (2011) 83–93
+
+been statistically associated with recent episodes of diarrhea
+(Egorov et al., 2010).
+The Oracol samplers, designed to collect crevicular ﬂuid
+enriched with serum antibodies (Nishanian et al., 1998; McKie
+et al., 2002), are well accepted across age groups (Nokes et al.,
+1998). This method produces higher titers of total IgG
+compared with other saliva/oral ﬂuid sampling methods
+(Vyse et al., 2001). The present study using Oracol samplers
+demonstrated an inverse association between sample volume
+(a function of sampling technique and individual saliva
+output) and concentration of total salivary immunoglobulins.
+Quantifying speciﬁc antibody responses in relation to the total
+immunoglobulin content helped to account for sample-tosample variability in saliva composition and demonstrate a
+strong association between episodes of diagnosed infections
+or acute gastrointestinal symptoms and salivary antibody
+immunoconversions to speciﬁc pathogens in subsequent pilot
+surveys (manuscripts in preparation).
+In summary, this project demonstrates that salivary
+antibody has the potential to serve as a useful bioindicator
+of selected infections. After further validation, this noninvasive method may facilitate relatively low cost epidemiological studies involving adults and children.
+Supplementary materials related to this article can be
+found online at doi:10.1016/j.jim.2010.11.005.
+Acknowledgements
+Shannon Grifﬁn was supported through an appointment
+to the Research Participation Program at the U.S. Environmental Protection Agency administered by the Oak Ridge
+Institute for Science and Education through an interagency
+agreement between the U.S. Department of Energy and
+USEPA. The authors are grateful to Drs. Jeffrey Priest, Jan
+Vinje, Harry Kleanthous, Honorine Ward, Xi Jiang, and Alec
+Sutherland for kindly providing proteins, antibodies, or
+control sera for this study, and Eric Rhodes, Jeffrey Swartout,
+and Swinburne Augustine for critical review of this manuscript. Although this work was reviewed by USEPA and
+approved for publication, it represents views of its authors
+and does not reﬂect ofﬁcial Agency policy. The mention of
+trade names or commercial products does not constitute
+endorsement or recommendation for use.
+References
+Bode, G., Marchildon, P., Peacock, J., Brenner, H., Rothenbacher, D., 2002.
+Diagnosis of Helicobacter pylori infection in children: comparison of a
+salivary immunoglobulin G antibody test with the [13C]urea breath test.
+Clin. Diagn. Lab. Immunol. 9, 493.
+Cevallos, A.M., Zhang, X., Waldor, M.K., Jaison, S., Zhou, X., Tzipori, S., Neutra,
+M.R., Ward, H.D., 2000. Molecular cloning and expression of a gene
+encoding Cryptosporidium parvum glycoproteins gp40 and gp15. Infect.
+Immun. 68, 4108.
+Colford Jr., J.M., Roy, S., Beach, M.J., Hightower, A., Shaw, S.E., Wade, T.J., 2006.
+A review of household drinking water intervention trials and an
+approach to the estimation of endemic waterborne gastroenteritis in
+the United States. J. Water Health 4 (Suppl 2), 71.
+Colford Jr., J.M., Wade, T.J., Sandhu, S.K., Wright, C.C., Lee, S., Shaw, S., Fox, K.,
+Burns, S., Benker, A., Brookhart, M.A., van der Laan, M., Levy, D.A., 2005. A
+randomized, controlled trial of in-home drinking water intervention to
+reduce gastrointestinal illness. Am. J. Epidemiol. 161, 472.
+Cozon, G., Biron, F., Jeannin, M., Cannella, D., Revillard, J.P., 1994. Secretory
+IgA antibodies to Cryptosporidium parvum in AIDS patients with chronic
+cryptosporidiosis. J. Infect. Dis. 169, 696.
+
+DeLean, A., Munson, P.J., Rodbard, D., 1978. Simultaneous analysis of families
+of sigmoidal curves: application to bioassay, radioligand assay, and
+physiological dose–response curves. Am. J. Physiol. 235, E97.
+Egorov, A.I., Montuori Trimble, L.M., Ascolillo, L., Ward, H.D., Levy, D.A.,
+Morris, R.D., Naumova, E.N., Grifﬁths, J.K., 2010. Recent diarrhea is
+associated with elevated salivary IgG responses to Cryptosporidium
+in residents of an Eastern Massachusetts community. Infection 38,
+117.
+Erdman, D.D., Gary, G.W., Anderson, L.J., 1989. Serum immunoglobulin A
+response to Norwalk virus infection. J. Clin. Microbiol. 27, 1417.
+Findlay, J.W., Dillard, R.F., 2007. Appropriate calibration curve ﬁtting in ligand
+binding assays. AAPS J. 9, E260.
+Gammie, A., Morris, R., Wyn-Jones, A.P., 2002. Antibodies in crevicular ﬂuid:
+an epidemiological tool for investigation of waterborne disease.
+Epidemiol. Infect. 128, 245.
+Hellard, M.E., Sinclair, M.I., Forbes, A.B., Fairley, C.K., 2001. A randomized,
+blinded, controlled trial investigating the gastrointestinal health effects
+of drinking water quality. Environ. Health Perspect. 109, 773.
+Jiang, X., Matson, D.O., Ruiz-Palacios, G.M., Hu, J., Treanor, J., Pickering, L.K.,
+1995. Expression, self-assembly, and antigenicity of a Snow Mountain
+agent-like Calicivirus capsid protein. J. Clin. Microbiol. 33, 1452.
+Jiang, X., Wang, M., Graham, D.Y., Estes, M.K., 1992. Expression, selfassembly, and antigenicity of the Norwalk virus capsid protein. J. Virol.
+66, 6527.
+Lee, C.K., Weltzin, R., Thomas Jr., W.D., Kleanthous, H., Ermak, T.H., Soman, G.,
+Hill, J.E., Ackerman, S.K., Monath, T.P., 1995. Oral immunization with
+recombinant Helicobacter pylori urease induces secretory IgA antibodies
+and protects mice from challenge with Helicobacter felis. J. Infect. Dis.
+172, 161.
+Liang, J.L., Dziuban, E.J., Craun, G.F., Hill, V., Moore, M.R., Gelting, R.J.,
+Calderon, R.L., Beach, M.J., Roy, S.L., Centers for Disease Control and
+Prevention (CDC), 2006. Surveillance for waterborne disease and
+outbreaks associated with drinking water and water not intended for
+drinking — United States, 2003–2004. MMWR Surveill. Summ. 55, 31.
+Lindesmith, L., Moe, C., Lependu, J., Frelinger, J.A., Treanor, J., Baric, R.S., 2005.
+Cellular and humoral immunity following Snow Mountain virus
+challenge. J. Virol. 79, 2900.
+Lindesmith, L., Moe, C., Marionneau, S., Ruvoen, N., Jiang, X., Lindblad, L.,
+Stewart, P., LePendu, J., Baric, R., 2003. Human susceptibility and
+resistance to Norwalk virus infection. Nat. Med. 9, 548.
+Luzza, F., Oderda, G., Maletta, M., Imeneo, M., Mesuraca, L., Chioboli, E., Lerro,
+P., Guandalini, S., Pallone, F., 1997. Salivary immunoglobulin G assay to
+diagnose Helicobacter pylori infection in children. J. Clin. Microbiol. 35,
+3358.
+Marchese, R.D., Puchalski, D., Miller, P., Antonello, J., Hammond, O., Green, T.,
+Rubinstein, L.J., Caulﬁeld, M.J., Sikkema, D., 2009. Optimization and
+validation of a multiplex, electrochemiluminescence-based detection
+assay for the quantitation of immunoglobulin G serotype-speciﬁc
+antipneumococcal antibodies in human serum. Clin. Vaccine Immunol.
+16, 387.
+Martins, T.B., Augustine, N.H., Hill, H.R., 2006. Development of a multiplexed
+ﬂuorescent immunoassay for the quantitation of antibody responses to
+group A streptococci. J. Immunol. Methods 316, 97.
+McKie, A., Vyse, A., Maple, C., 2002. Novel methods for the detection of
+microbial antibodies in oral ﬂuid. Lancet Infect. Dis. 2, 18.
+Messner, M., Shaw, S., Regli, S., Rotert, K., Blank, V., Soller, J., 2006. An
+approach for developing a national estimate of waterborne disease due
+to drinking water and a national estimate model application. J. Water
+Health 4 (Suppl 2), 201.
+Moe, C.L., Sair, A., Lindesmith, L., Estes, M.K., Jaykus, L.A., 2004. Diagnosis of
+Norwalk virus infection by indirect enzyme immunoassay detection of
+salivary antibodies to recombinant Norwalk virus antigen. Clin. Diagn.
+Lab. Immunol. 11, 1028.
+Monroe, S.S., Stine, S.E., Jiang, X., Estes, M.K., Glass, R.I., 1993. Detection of
+antibody to recombinant Norwalk virus antigen in specimens from
+outbreaks of gastroenteritis. J. Clin. Microbiol. 31, 2866.
+Morris-Cunnington, M.C., Edmunds, W.J., Miller, E., Brown, D.W., 2004a. A
+novel method of oral ﬂuid collection to monitor immunity to common
+viral infections. Epidemiol. Infect. 132, 35.
+Morris-Cunnington, M.C., Edmunds, W.J., Miller, E., Brown, D.W., 2004b. A
+population-based seroprevalence study of hepatitis A virus using oral
+ﬂuid in England and Wales. Am. J. Epidemiol. 159, 786.
+Moss, D.M., Bennett, S.N., Arrowood, M.J., Hurd, M.R., Lammie, P.J., Wahlquist,
+S.P., Addiss, D.G., 1994. Kinetic and isotypic analysis of speciﬁc
+immunoglobulins from crew members with cryptosporidiosis on a U.S.
+Coast Guard cutter. J. Eukaryot. Microbiol. 41, 52S.
+Moss, D.M., Bennett, S.N., Arrowood, M.J., Wahlquist, S.P., Lammie, P.J., 1998a.
+Enzyme-linked immunoelectrotransfer blot analysis of a cryptosporidiosis
+outbreak on a United States Coast Guard cutter. Am. J. Trop. Med. Hyg. 58,
+110.
+
+
+
+S.M. Grifﬁn et al. / Journal of Immunological Methods 364 (2011) 83–93
+Moss, D.M., Chappell, C.L., Okhuysen, P.C., DuPont, H.L., Arrowood, M.J.,
+Hightower, A.W., Lammie, P.J., 1998b. The antibody response to 27-, 17-,
+and 15-kDa Cryptosporidium antigens following experimental infection
+in humans. J. Infect. Dis. 178, 827.
+Moss, D.M., Montgomery, J.M., Newland, S.V., Priest, J.W., Lammie, P.J., 2004.
+Detection of Cryptosporidium antibodies in sera and oral ﬂuids using
+multiplex bead assay. J. Parasitol. 90, 397.
+Nishanian, P., Aziz, N., Chung, J., Detels, R., Fahey, J.L., 1998. Oral ﬂuids as an
+alternative to serum for measurement of markers of immune activation.
+Clin. Diagn. Lab. Immunol. 5, 507.
+Nokes, D.J., Enquselassie, F., Vyse, A., Nigatu, W., Cutts, F.T., Brown, D.W.,
+1998. An evaluation of oral-ﬂuid collection devices for the determination
+of rubella antibody status in a rural Ethiopian community. Trans. R. Soc.
+Trop. Med. Hyg. 92, 679.
+Payment, P., Richardson, L., Siemiatycki, J., Dewar, R., Edwardes, M., Franco,
+E., 1991. A randomized trial to evaluate the risk of gastrointestinal
+disease due to consumption of drinking water meeting current
+microbiological standards. Am. J. Public Health 81, 703.
+Payment, P., Siemiatycki, J., Richardson, L., Renaud, G., Franco, E., Prevost, M.,
+1997. A prospective epidemiological study of gastrointestinal health
+effects due to the consumption of drinking water. Int. J. Environ. Health
+Res. 7, 5.
+Plikaytis, B.D., Turner, S.H., Gheesling, L.L., Carlone, G.M., 1991. Comparisons
+of standard curve-ﬁtting methods to quantitate Neisseria meningitidis
+group A polysaccharide antibody levels by enzyme-linked immunosorbent assay. J. Clin. Microbiol. 29, 1439.
+Preidis, G.A., Wang, H.-C., Lewis, D.E., Castellanos-Gonzalez, A., Rogers, K.A.,
+Graviss, E.A., Ward, H.D., White Jr., A.C., 2007. Seropositive human
+subjects produce interferon gamma after stimulation with recombinant
+Cryptosporidium hominis gp15. Am. J. Trop. Med. Hyg. 77, 583.
+Priest, J.W., Bern, C., Xiao, L., Roberts, J.M., Kwon, J.P., Lescano, A.G., Checkley,
+W., Cabrera, L., Moss, D.M., Arrowood, M.J., Sterling, C.R., Gilman, R.H.,
+Lammie, P.J., 2006. Longitudinal analysis of Cryptosporidium speciesspeciﬁc immunoglobulin G antibody responses in Peruvian children.
+Clin. Vaccine Immunol. 13, 123.
+Priest, J.W., Kwon, J.P., Moss, D.M., Roberts, J.M., Arrowood, M.J., Dworkin, M.S.,
+Juranek, D.D., Lammie, P.J., 1999. Detection by enzyme immunoassay of
+serum immunoglobulin G antibodies that recognize speciﬁc Cryptosporidium
+parvum antigens. J. Clin. Microbiol. 37, 1385.
+Priest, J.W., Li, A., Khan, M., Arrowood, M.J., Lammie, P.J., Ong, C.S., Roberts, J.M.,
+Isaac-Renton, J., 2001. Enzyme immunoassay detection of antigen-speciﬁc
+immunoglobulin G antibodies in longitudinal serum samples from patients
+with cryptosporidiosis. Clin. Diagn. Lab. Immunol. 8, 415.
+
+93
+
+Quoilin, S., Hutse, V., Vandenberghe, H., Claeys, F., Verhaegen, E., De Cock, L.,
+Van Loock, F., Top, G., Van Damme, P., Vranckx, R., Van Oyen, H., 2007. A
+population-based prevalence study of hepatitis A, B and C virus using
+oral ﬂuid in Flanders, Belgium. Eur. J. Epidemiol. 22, 195.
+Reilly, T.G., Poxon, V., Sanders, D.S., Elliott, T.S., Walt, R.P., 1997. Comparison
+of serum, salivary, and rapid whole blood diagnostic tests for
+Helicobacter pylori and their validation against endoscopy based tests.
+Gut 40, 454.
+Reynolds, K.A., Mena, K.D., Gerba, C.P., 2008. Risk of waterborne illness via
+drinking water in the United States. Rev. Environ. Contam. Toxicol. 192,
+117.
+Sandhu, S.K., Priest, J.W., Lammie, P.J., Hubbard, A., Colford Jr, J.M., Eisenberg
+Jr., J.N., 2006. The natural history of antibody responses to Cryptosporidium parasites in men at high risk of HIV infection. J. Infect. Dis. 194, 1428.
+Stroehle, A., Schmid, K., Heinzer, I., Naguleswaran, A., Hemphill, A., 2005.
+Performance of a Western immunoblot assay to detect speciﬁc antiToxoplasma gondii IgG antibodies in human saliva. J. Parasitol. 91, 561.
+Tan, M., Fang, P., Chachiyo, T., Xia, M., Huang, P., Fang, Z., Jiang, W., Jiang, X.,
+2008. Noroviral P particle: structure, function and applications in virushost interaction. Virology 382, 115.
+Tan, M., Jiang, X., 2005. The p domain of norovirus capsid protein forms a
+subviral particle that binds to histo-blood group antigen receptors.
+J. Virol. 79, 14017.
+USEPA, 2006a. GWR 40 CFR Parts 9, 141, and 142 national primary drinking
+water regulations: ground water rule; ﬁnal rule. Federal Register/Vol. 71,
+No. 216.
+USEPA, 2006b. LT2 40 CFR Parts 9, 141, and 142 national primary drinking
+water regulations: long term 2 enhanced surface water treatment rule;
+ﬁnal rule. Federal Register/Vol. 71, No. 3.
+USEPA, 2007. Estimating the burden of disease associated with outbreaks
+reported to the U.S. waterborne disease outbreak surveillance system:
+identifying limitations and improvements. U.S. Environmental Protection Agency, National Center for Environmental Assessment, Cincinnati,
+OH. EPA/600/R-06/069. http://cfpub.epa.gov/ncea/cfm/recordisplay.
+cfm?deid=156410.
+Vyse, A.J., Cohen, B.J., Ramsay, M.E., 2001. A comparison of oral ﬂuid
+collection devices for use in the surveillance of virus diseases in children.
+Public Health 115, 201.
+104th Congress, August 6, 1996. Safe Drinking Water Act Amendments of
+1996. Public Law 104–182. Summary at http://www.epa.gov/OGWDW/
+sdwa/summ.html#3D.
+
+

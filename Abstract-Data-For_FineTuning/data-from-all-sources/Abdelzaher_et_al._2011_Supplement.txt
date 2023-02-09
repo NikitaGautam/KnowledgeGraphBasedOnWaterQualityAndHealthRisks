@@ -1,0 +1,1545 @@
+Supplemental Text for
+Daily Measures of Microbes and Human Health at a
+Non-point Source Marine Beach
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+Submitted by:
+
+Amir M. Abdelzaher1, 2, Mary E. Wright1, 2 , Cristina Ortega1, 2, A. Rasem Hasan1, 2, Tomoyoki Shibata1,3,
+Helena M. Solo-Gabriele 1, 2, *, Jonathan Kish1, Kelly Withum1, Guoqing He1,Samir M. Elmir1,4,5, J.
+Alfredo Bonilla1,6, Tonya D. Bonilla 1,6, Carol J. Palmer1 ,Troy M. Scott1,2,7, Jerzy Lukasik 8, Valerie J.
+Harwood9, Shannon McQuaig9, Christopher D. Sinigalliano1,10, Maribeth L. Gidley 110, David Wanless1,10,
+1
+Lisa R. W. Plano1,11, Anna C. Garza , Xiaofang Zhu 1,12, Jill R. Stewart13,14, Jerold W. Dickerson, Jr.13,
+15
+Helen Yampara-Iquise , Charles Carson15, Jay M. Fleisher 1,16, Lora E. Fleming 1,17
+1
+
+NSF NIEHS Oceans and Human Health Center, University of Miami, 4600 Rickenbacker Causeway Miami, FL
+33149
+2
+Department of Civil, Arch., and Environmental Engineering, University of Miami, 1251 Memorial Drive,
+Coral Gables, FL 33146
+3
+Northern Illinois University, DeKalb, IL 60115
+4
+Miami Dade County Health Department, 1725 NW 167 St., Miami, FL 33056
+5
+Florida Department of Health, Bureau of Laboratories-Miami, 1350 N.W. 14th St., Miami, FL 33125 6Department
+of Infectious Diseases and Pathology, University of Florida, 2015 SW 16th Ave Gainesville, FL 32608
+7
+BCS Laboratories Inc., 4842 SW 74th Court, Miami, FL 33155
+8
+BCS Laboratories Inc., 4641 NW 6th St. Suite C, Gainesville, FL 32609
+9
+Department of Integrative Biology, University of South Florida, 4202 East Fowler Ave, SCA110, Tampa, FL 33620
+10
+National Oceanic and Atmospheric Administration, Atlantic Oceanographic and Meteorological Laboratories,
+Ocean Chemistry Division, 4301 Rickenbacker Cswy., Miami, FL 33149
+11
+Department of Microbiology and Immunology, University of Miami, 1600 N.W. 10th Avenue,
+Miami, FL 33136
+12
+Division of Applied Marine Physics, University of Miami, 4600 Rickenbacker Causeway, Miami, FL 33149
+13
+NOAA National Ocean Service, Center for Coastal Environmental Health and Biomolecular Research,
+Charleston, 219 Fort Johnson Road, Charleston, SC 29412-9110
+14
+Department of Environmental Sciences and Engineering, University of North Carolina, 135 Dauer Drive, Chapel
+Hill, NC 27599-7431
+15
+Department of Veterinary Pathobiology, University of Missouri, 1600 East Rollins, Columbia, MO 65211
+16
+Department of Public Health, Nova Southeastern University, 3200 S. University Drive, Ft. Lauderdale, FL 33328
+17
+Department of Epidemiology & Public Health and Marine Biology & Fisheries University of Miami, 4600
+Rickenbacker Causeway, Miami, FL 33149
+
+Revision Date: January 3, 2011
+For Consideration for Possible Publication in
+
+39
+
+Journal of Water and Health
+
+40
+
+Short title: Microbes and Human Health at a Non-point Source Marine Beach
+
+41
+42
+43
+
+*Corresponding author. Mailing address: University of Miami, Department of Civil, Arch., and
+Environmental Engineering, P.O. Box 248294, Coral Gables, Florida 33124-0630, Phone (305) 284-2908;
+Fax (305) 284-3492; email: hmsolo@miami.edu.
+
+44
+
+1
+
+
+
+45
+46
+47
+48
+
+Microbes and human health at a non-point source marine beach
+Methods Supplement
+Abdelzaher et al, 201X.
+
+49
+
+Concentration and analysis of bather-collected composite samples
+
+50
+
+Bather-collected composites were analyzed for many different microbes including the EPA-recommended
+
+51
+
+marine bacterial indicator, enterococci, using three methods: membrane filtration (MF), chromogenic
+
+52
+
+substrate (CS), and quantitative polymerase chain reaction (qPCR), additional microbial indicators (fecal
+
+53
+
+coliform, E. coli, C. perfringens, and coliphage), human and dog-associated microbial source tracking
+
+54
+
+(MST) markers including Bacteriodales (B. thetaiotaomicron , BacHum-UCD, HF8, and Dog-specific),
+
+55
+
+human polyomavirus (HPyVs) and the esp gene of Enterococcus faecium. Pathogens evaluated included:
+
+56
+
+bacteria (S. aureus by MF, and Vibrio vulnificus by MF with confirmation by PCR); protozoa
+
+57
+
+(Cryptosporidium spp. and Giardia spp. via microscopy and qPCR); and viruses (pan enterovirus,
+
+58
+
+norovirus, and hepatitis A via qPCR). Given the range of microbes analyzed, 30 to 50 L bather-collected
+
+59
+
+composite water samples were split between several laboratories to facilitate analysis as follows. One liter
+
+60
+
+was used for the analysis of enterococci (MF), fecal coliform, E. coli, C. perfringens and S.aureus at the
+
+61
+
+University of Miami. Three liters were aliquoted to the National Oceanographic and Atmospheric
+
+62
+
+Administration (NOAA) Hollings Marine Laboratory Center of Excellence located in Charleston, SC, for
+
+63
+
+the analysis of coliphage while 1 liter was aliquoted to the University of South Florida for the analysis of
+
+64
+
+polyomavirus. Six liters were used for the analysis of enterococci(CS), enterococci(qPCR), and
+
+65
+
+Bacteriodales (BacHum-UCD, HF8, and Dog-specific) at the NOAA, Miami lab. Enterococci(qPCR) and
+
+66
+
+these Bacteriodales analyses resulted from the same DNA extraction. One liter was aliquoted to the
+
+67
+
+University of Missouri for the analysis of B. thetaiotaomicron and one liter was used by BCS laboratories
+
+68
+
+for the analysis of Vibrio vulnificus and Enterococcus faecium esp gene. Finally ten liters were used for
+
+69
+
+the analysis of protozoa and viruses by PCR at the University of Florida laboratories. The actual volumes
+
+70
+
+analyzed for each microbe, as well as the methods used in the analysis, are summarized below.
+
+2
+
+
+
+71
+
+Fecal indicator microbes. Fecal coliform, E.coli, C. perfringens and enterococci (MF) were analyzed in
+
+72
+
+triplicate for the composite samples by standard MF methods. In brief, water samples were vacuum
+
+73
+
+filtered through 0.45μm pore size, 47 mm membranes. Sample volumes analyzed ranged from 5 to 50 ml
+
+74
+
+to allow for detection of a wide range of concentrations. Sample volumes below 50 ml were raised to 50
+
+75
+
+ml using PBS to allow for a more uniform distribution of colonies on the filter. Filter membranes for
+
+76
+
+fecal coliform analyses were placed on mFC agar and incubated for 24 h at 44.5 ± 0.2°C. Target blue
+
+77
+
+colonies were counted and reported as colony forming units (CFU) 100 ml-1 as per Standard Method 9222
+
+78
+
+D (APHA 1998). Filter membranes for E. coli analyses were placed on selective and differential medium,
+
+79
+
+modified mTEC agar, incubated at 35 ± 0.5°C for 2 h to resuscitate the injured or stressed bacteria, and
+
+80
+
+then incubated at 44.5 ± 0.2°C for 22 h. Target red or magenta colonies were counted and reported as
+
+81
+
+CFU 100 ml-1 as per USEPA Method 1603 (USEPA 2002). Filter membranes for C. perfringens analyses
+
+82
+
+were placed on mCP agar and incubated anaerobically for 24 h at 44.5 ± 0.2°C. Upon exposure to
+
+83
+
+ammonium hydroxide, yellow straw-colored colonies, which turned dark pink to magenta, were counted
+
+84
+
+as C. perfringens and reported as CFU 100 ml-1 (USEPA 1995). Filter membranes for enterococci
+
+85
+
+analyses were placed on mEI agar and incubated for 24 hours at 41 + 0.5 ºC. Target blue colonies and
+
+86
+
+colonies with blue halos were counted and reported as colony forming units CFU 100 ml-1 as per USEPA
+
+87
+
+Method 1600 (USEPA 2002).
+
+88
+
+Enterococci were also analyzed in triplicate by the chromogenic substrate (CS) method and by
+
+89
+
+qPCR. CS analysis followed the manufacturer’s instructions with sample volumes of 10 and 2 ml diluted
+
+90
+
+to 100 ml and placed in a tray (Quantitray-2000™, IDEXX™, Westbrook, ME), which distributed the
+
+91
+
+sample into a series of wells which permitted for enumeration based upon a most probable number
+
+92
+
+(MPN). The analysis of enterococci by qPCR was conducted by filtering 1000 ml of the water sample
+
+93
+
+through 0.45 μm pore size, 47 mm membranes. The filters were then rolled up and placed in bead beating
+
+94
+
+tubes. Whole cells of Lactococcus lactis (105) were added to each filter to provide a measure for
+
+95
+
+extraction efficiency and inihibition. DNA was extracted from the filters into a 100 µl volume solution
+
+96
+
+using the Fast DNA® Spin Kit (Cat# 6540-600, MP Biomedicals). Specifically, 1.0 µl of the sample,
+3
+
+
+
+97
+
+0.125 µl each of forward and reverse primers, 0.100 µl of TaqMan probe, 12.5 µl of two times master mix
+
+98
+
+(Qiagen Quantitect Cat#204343), and 11.15 µl of sterile PCR grade water (from master mix kit) were
+
+99
+
+used giving a total volume of 25 µl. The primers and probes followed those as specified by Haugland et
+
+100
+
+al. (2005). Enterococcus faecalis cultures from American Type Culture Collection (ATCC) were used as
+
+101
+
+genomic control standards. Values for qPCR analysis were reported in units of genome equivalence units
+
+102
+
+(GEU) per 100 ml. More details are available in the supplement to Sinigalliano et al. 2010.
+
+103
+
+Both male-specific (F+) and somatic (F-) coliphages were enumerated in this study following US
+
+104
+
+EPA Method 1602, the Single Agar Layer Procedure (USEPA 2001). Coliphage are viruses that infect E.
+
+105
+
+coli and other coliform bacteria. Male-specific coliphage (F+) infect their bacterial hosts by attachment
+
+106
+
+to the F- pilus of the cell. They can only infect hosts which contain the F+ plasmid. Somatic coliphages
+
+107
+
+(F-) infect bacterial hosts by direct attachment to cell walls and not through an F- pilus. Briefly, water
+
+108
+
+samples were mixed with host bacteria, magnesium chlorine and double strength molten agar medium.
+
+109
+
+The host used for enumeration of F+ coliphages was E. coli Famp (ATCC 700891) while somatic
+
+110
+
+coliphages were isolated on E. coli CN13 (700609). To prohibit growth from other bacteria within each
+
+111
+
+water sample, culture media for detection of F+ coliphages was supplemented with streptomycin (final
+
+112
+
+concentration 15µg/mL) and ampicillin (final concentration 15µg/mL). Culture media for somatic
+
+113
+
+coliphages was supplemented with nalidixic acid (final concentration 100µg/mL). Sample mixtures were
+
+114
+
+then poured into 5-6 large Petri dishes. The plates were allowed to dry, and then incubated overnight at
+
+115
+
+37oC. All plates from a single sample were examined for plaque formation, as indicated by zones of
+
+116
+
+clearning on the bacterial host lawn. Plaques were totaled per sample, and the coliphage concentration
+
+117
+
+was expressed as plaque forming units (PFU) per 100 mL.
+
+118
+119
+
+MST Markers. Bacteroidales were analyzed in triplicate using qPCR while using a set of three different
+
+120
+
+primers, two for human-specific Bacteriodales (HF-8, Bernhard and Field 2000 a,b and BacHum-UCD,
+
+121
+
+Kildare et al. 2007) and one for the dog-specific Bacteroidales (Dick et al. 2005). One microliter aliquots
+
+122
+
+of the DNA extract described earlier for the enterococci analysis via qPCR were used for Bacteroidales
+4
+
+
+
+123
+
+analysis. The remaining steps were the same as for enterococci with the exception of the primers, probes,
+
+124
+
+and the controls. Bacteroides dorei cultures were used as genomic controls for both human specific
+
+125
+
+Bacteroidales (HF-8 and BacHum-UCD), and Invitrogen pCR-Blunt2-topo plasmid was used as the
+
+126
+
+control for the dog-specific Bacteroidales. The HF-8 and BacHum-UCD values are reported in GEU per
+
+127
+
+100 ml and the dog-specific values are reported in target sequence copies (TSC) per 100 ml. More details
+
+128
+
+are available in the supplement to Sinigalliano et al. 2010.
+
+129
+
+For B. thetaiotaomicron analysis, 400 mL of water from each sample was filtered through a 0.20
+
+130
+
+μm polycarbonate filter (Millipore Corp., Billerica, MA). The polycarbonate filter was placed into a
+
+131
+
+15mL conical tube. The tube was vortexed for 2 minutes and the filter removed. Conical tubes were first
+
+132
+
+concentrated by centrifugation at 2052 g for 15 minutes at 4ºC. The supernatant was discarded, except for
+
+133
+
+200 μl, which was used to resuspend the pellet. DNA was extracted with the Powersoil DNA Extraction
+
+134
+
+Kit (MoBio Laboratories, Inc.). The extracted DNA was analyzed for presence of B. thetaiotaomicron by
+
+135
+
+PCR (Eppendorf Master Mix 2.5, Brinkman Instruments, Inc, Westbury, NY) with primers (B.thetaF and
+
+136
+
+B.thetaR).
+
+137
+
+The presence of the E. faecium esp gene was assessed in water and sand eluate samples according
+
+138
+
+to previously published methods with some modifications (Scott et al. 2005). Specifically, following
+
+139
+
+filtration of 300 ml and 20 ml of water and sand eluate samples, respectively, mEI plates were incubated
+
+140
+
+at 37°C rather than 41°C and following this incubation, the membranes were lifted, placed into azide
+
+141
+
+dextrose broth (BD BBL™, Franklin Lakes, NJ) and incubated for an additional 6 hours to enrich the
+
+142
+
+culture prior to DNA extraction. The incubation temperature was decreased because it was found to
+
+143
+
+enhance the recovery of enterococci which possess the esp gene.
+
+144
+
+Human polyomaviruses (HPyVs) were concentrated from 600 ml of water samples. Briefly, the
+
+145
+
+pH of the samples were adjusted to 9.5 using 1M NaOH and the samples were then passed through a pre-
+
+146
+
+filter to prevent clogging at the final filtration step. Next, the pH of the eluate was adjusted to 3.5 using
+
+147
+
+2N HCl to promote electrostatic interactions between the viral capsid and filter. The viruses were then
+
+148
+
+concentrated on 47-mm, 0.45µm nitrocellulose filters. The filters were placed into 30-ml polypropylene
+5
+
+
+
+149
+
+tubes and the viruses were eluted off the filters using 2-ml of 3% beef extract (pH 9.3). DNA was
+
+150
+
+extracted from the beef extract eluent using QIAamp DNA Blood Midi Kit (Qiagen™, Valencia, CA).
+
+151
+
+HPyVs were detected using a nested PCR assay according to a pre-published method (McQuaig et al.
+
+152
+
+2006).
+
+153
+154
+
+Pathogens. S. aureus was isolated in triplicate from 50 mL water samples using a standard membrane
+
+155
+
+filter (MF) followed by growth on selective media, Baird Parker agar (Becton, Dickinson and Company,
+
+156
+
+Sparks, MD) with Egg Yolk (EY) Tellurite Enrichment (Becton, Dickinson and Company, Sparks, MD).
+
+157
+
+Filter membranes were incubated aerobically at 37 °C for a minimum of 24h. After incubation, colonies
+
+158
+
+found to be black, shiny, convex, 2-5mm in diameter, and surrounded by clear zones (BP) were
+
+159
+
+considered presumptive S. aureus, and subjected to confirmatory tests. Presumptive positive isolates
+
+160
+
+were transferred to Mannitol Salt agar for the determination of mannitol fermentation, and incubated
+
+161
+
+aerobically at 37 °C for 16-24h. Mannitol-fermenting isolates were transferred to Trypticase Soy Agar
+
+162
+
+with 5% Sheep Blood (TSA II, Becton, Dickinson and Company, Sparks, MD) and subjected to latex
+
+163
+
+agglutination test for clumping factor and protein A using the Remel BactiStaph Latex Agglutination Test
+
+164
+
+(Thermo Fisher Scientific, Lenexa, KS). Whole cell extract of each positive isolate was obtained using the
+
+165
+
+Amplicor MTB Sputum Specimen Preparation Kit (Roche Molecular Systems, Inc., Indianapolis, IN)
+
+166
+
+according to the manufacture’s recommendations, and served as template DNA in real-time polymerase
+
+167
+
+chain reactions (PCR) to amplify the S. aureus specific gyrA gene for organism confirmation.
+
+168
+
+Oligonucleotide primers and thermal cycling conditions were used as described previously (Mertz et al.
+
+169
+
+2007), with the minor modification that 5-µl of crude lysate was used as template in initial PCR reactions
+
+170
+
+instead of purified chromosomal DNA. Bacterial isolates determined to be positive for S. aureus specific
+
+171
+
+gyrA were subjected to additional PCR to test for the methicillin resistance gene, mecA, as a marker for
+
+172
+
+MRSA (Mertz et al. 2007).
+
+6
+
+
+
+173
+
+V. vulnificus was analyzed by filtering 300 ml of water onto a 0.45 µm nitrocellulose filter.
+
+174
+
+Filters were then placed on VVA agar, prepared as per the Bacteriological Analytical Manual Online to
+
+175
+
+isolate V. vulnificus (Kaysner and DePaola 2008). Yellow colonies were counted as presumptive V.
+
+176
+
+vulnificus. Genomic DNA was extracted from all the filters using the Qiagen™ QiaAmp DNA Mini Kit
+
+177
+
+following manufacturer’s instructions and DNA extracts were confirmed for the presence of V. vulnificus
+
+178
+
+DNA as per Gordon et al. 2008. Cryptosporidium spp. and Giardia spp, Pan enterovirus, norovirus, and
+
+179
+
+hepatitis A virus were concentrated using five liter filtrations through the bi-layer filtration system and
+
+180
+
+analyzed via qPCR. The bi-layer filtration system (Abdelzaher et al. 2008; Abdelzaher et al. 2009)
+
+181
+
+utilizes two 0.45 μm, 90 mm membranes placed in series in a stainless steel filter holder. The top PVDF
+
+182
+
+filter captured protozoa by size exclusion while the bottom HA-type membrane captured viruses using
+
+183
+
+electrostatic forces. Filtration volumes were 2 to 5 L for water and 450 to 1000 ml for sand eluates.
+
+184
+
+Filtration progressed until 20 to 40 ml of the sample volume remained suspended above the top
+
+185
+
+membrane. This suspension was collected for protozoan analysis. The top membrane was eluted with 10
+
+186
+
+ml followed by 5 ml of PBS +0.01% Tween 20 solution adapted from the IDEXX™ FiltaMax™ method.
+
+187
+
+This was done by placing the membrane in a sterile Whirlpack™ bag and rubbing for 3 minutes then
+
+188
+
+adding the eluent to the 20 to 40 ml suspended volume for a concentrate of less than 50 ml. The DNA
+
+189
+
+from the sample was extracted using the PowerSoil DNA kit (MO BIO Laboratories™, Carlsbad, CA)
+
+190
+
+according to the manufacturer’s protocol with a few modifications. Briefly, 10 freeze/thaw steps
+
+191
+
+alternating between liquid nitrogen and 65°C were performed in the kit’s lysis buffer supplemented with
+
+192
+
+100μg/mL proteinase K. The purified DNA was then subjected to qPCR analysis using primers described
+
+193
+
+in pre-published methods (Guy et al. 2003).
+
+194
+195
+
+The bottom membrane was eluted first with 7 ml then another 3 ml of guanidinium hydrochloride
+
+196
+
+detergent solution (AL/ASL solution in a 1:1 ratio from the Qiagen Blood kit plus 0.1 ml of Antifoam A
+
+197
+
+per 120 ml of elution solution to prevent foaming). This combined solution was intended to inactivate as
+
+198
+
+well as elute the viruses from the membrane, which passed the top membrane and were captured on the
+7
+
+
+
+199
+
+bottom. The elution was accomplished by placing the bottom membrane in a sterile Whirlpack™ bag
+
+200
+
+along with the elution solution and rubbing for 3 minutes for a final volume of less than 10 ml. These
+
+201
+
+eluates were then subjected to additional concentration by the Qiagen Blood kit following the
+
+202
+
+manufacturer’s instructions. The purified and concentrated RNA was then further processed using Trizol
+
+203
+
+reagent (Invitrogen™, Carlsbad, CA) and the RNA pellet was re-suspended in nuclease-free water. RNA
+
+204
+
+was reversed transcribed using the cDNA First Strand Synthesis Kit (Invitrogen™, Carlsbad, CA) with
+
+205
+
+random hexamers. The cDNA was analyzed by qPCR using primers and probes previously described for
+
+206
+
+norovirus, hepatitius A, and enterovirus (DeLeon et al. 1990).
+
+207
+208
+
+Concentration and analysis of personnel-collected composite samples
+
+209
+210
+
+Personnel-collected composite samples consisted of two large drums of approximately 225 L. The water
+
+211
+
+in one of the drums was used for protozoan analysis (Cryptosporidium spp. and Giardia spp) while the
+
+212
+
+water in the other was used for enterovirus analysis. These larger volume samples were used in order to
+
+213
+
+detect lower concentrations which would not be possible with the bi-layer filtration method for the bather-
+
+214
+
+collected composite samples. Protozoan filtration and analysis for Cryptosporidium spp. and Giardia
+
+215
+
+spp. utilized PALL™ Envirocheck™ filters, with subsequent elution and analysis using EPA Method 1623
+
+216
+
+(USEPA 2005). In brief, the filtration was conducted at an average flow rate of 2L/min and the operating
+
+217
+
+pressure did not exceed 75 psi. An exception to the EPA Method 1623 filtration setup was the addition of
+
+218
+
+an overflow valve installed upstream of the filter to provide for more control on the flow rate and filter
+
+219
+
+pressure. Filters were eluted, the pellet was concentrated, and Cryptosporidium spp. and Giardia spp
+
+220
+
+were purified using immuno-magnetic separation. The purified pellet was stained with a fluorescent
+
+221
+
+antibody and the numbers of oocysts/cysts were counted using a microscope. Positive and negative
+
+222
+
+controls were included in the analysis as per standard protocols.
+
+223
+
+Virus concentration and analysis was conducted predominantly as per USEPA 600/R-95/178 (ICR
+
+224
+
+Microbial Laboratory Manual1996). However, electronegative filters (0.45 um pleated fiberglass filter
+8
+
+
+
+225
+
+cartridges, Pall Corporation, USA) were utilized in this study because electropositive filters lack the
+
+226
+
+efficiency in salt water systems. This was conducted as per Standard Methods for the Analysis of Water
+
+227
+
+and Wastewater, Section 9510 C (APHA 2005). The pH of the filtered water was adjusted to 3.5 by the
+
+228
+
+addition of 1 N hydrochloric acid as described in SM 9510 (APHA 2005). Salt addition was not
+
+229
+
+necessary due to the salinity of the filtered marine water. Acid was added using an equilibration basin
+
+230
+
+instead of a fluid proportioned system as this was found to be easier to control. The elution of
+
+231
+
+viruses from the filters was conducted using US EPA 600/R-95/178. In brief, collected filters were held
+
+232
+
+at 4 °C until processing. Filters were eluted at the laboratory with 3.0% beef extract solution containing
+
+233
+
+glycine. The eluant was concentrated by organic flocculation, and the concentrate was assayed for total
+
+234
+
+culturable enteroviruses using BGM and MA104 cells as the host culture. Cultures were examined
+
+235
+
+periodically for 14 days post inoculation for cytopathic effect (CPE) development. During the incubation,
+
+236
+
+the media was changed regularly. Following the incubation period, the flasks were frozen at - 70 °C and
+
+237
+
+thawed rapidly at 37 °C for a total of two cycles. Ten percent of the media from each culture flask was
+
+238
+
+passaged onto a new (< 3 day) culture. These cultures were incubated and monitored for an additional 14
+
+239
+
+days . Samples were recorded based on cytopathic effect development as "positive" or "negative". For
+
+240
+
+samples demonstrating positive CPE, the most probable number (MPN) of infectious units per volume of
+
+241
+
+sample analyzed was calculated using EPA MPNCALC software. Positive and negative controls were
+
+242
+
+included in the analysis as per standard protocols.
+
+243
+244
+
+9
+
+
+
+245
+246
+247
+248
+249
+250
+
+Indicator Microbes, Pathogens, and Human Health at a Non-point Source Subtropical
+Marine Recreational Beach
+Results Supplement
+Abdelzaher et al, 2010.
+
+251
+
+Table 1- Environmental parameters in bather-collected composite samples over the 15 study days.
+
+252
+
+Date
+
+pH
+
+Salinity
+‰
+
+Temp
+°C
+
+Turbidity
+(NTU)
+
+Wind
+Speed
+(m/s)
+
+Solar
+Radiation
+(W/m2)
+
+Previous
+48 hour
+Rainfall
+(cm)
+
+Tidal
+height
+(m)
+
+Post-HT
+Sampling
+(%)
+
+12/15/07
+
+7.58
+
+32.52
+
+25.9
+
+12.3
+
+11.87
+
+241
+
+0.28
+
+0.41
+
+0%
+
+1/12/08
+
+8.61
+
+n/a
+
+24.4
+
+10.9
+
+6.94
+
+230
+
+0
+
+0.50
+
+0%
+
+1/26/08
+
+7.82
+
+35.89
+
+24.3
+
+16.8
+
+7.50
+
+325
+
+0
+
+0.60
+
+0%
+
+2/16/08
+
+8.17
+
+35.55
+
+27.4
+
+20
+
+5.94
+
+449
+
+0
+
+0.05
+
+0%
+
+2/23/08
+
+7.81
+
+34.15
+
+26.3
+
+19.8
+
+7.23
+
+383
+
+0
+
+0.47
+
+21%
+
+3/8/08
+
+7.87
+
+35.83
+
+19.3
+
+64.4
+
+10.43
+
+260
+
+1.17
+
+0.45
+
+84%
+
+3/22/08
+
+7.82
+
+37.58
+
+24.6
+
+7.3
+
+5.76
+
+190
+
+0.36
+
+0.57
+
+29%
+
+3/29/08
+
+7.73
+
+35.78
+
+25.2
+
+8.9
+
+5.05
+
+352
+
+0
+
+0.15
+
+0%
+
+4/12/08
+
+7.74
+
+35.84
+
+27.4
+
+2.8
+
+7.33
+
+312
+
+0
+
+0.27
+
+0%
+
+5/10/08
+
+8.23
+
+34.70
+
+29.1
+
+12.8
+
+2.40
+
+366
+
+2.82
+
+0.03
+
+0%
+
+5/18/08
+
+8.22
+
+35.85
+
+28.1
+
+7.5
+
+7.45
+
+378
+
+0
+
+0.53
+
+77%
+
+6/1/08
+
+8.04
+
+35.65
+
+30.8
+
+4.0
+
+6.53
+
+393
+
+0.28
+
+0.33
+
+0%
+
+6/7/08
+
+8.35
+
+37.12
+
+30.3
+
+12.6
+
+9.02
+
+380
+
+0
+
+0.28
+
+0%
+
+6/13/08
+
+8.06
+
+38.07
+
+24.0
+
+7.2
+
+6.54
+
+113
+
+0.86
+
+0.19
+
+0%
+
+6/21/08
+
+7.90
+
+34.39
+
+28.9
+
+10.2
+
+4.47
+
+236
+
+1.37
+
+0.45
+
+0%
+
+253
+254
+
+N/A = Not Available
+
+255
+
+10
+
+
+
+256
+257
+
+REFERENCES
+
+258
+259
+
+Abdelzaher, A.M., Solo-Gabriele, H.M., Wright, M.E., & Palmer, C.J. 2008 Sequential
+
+260
+
+Concentration of Bacteria and Viruses from Marine Waters using a Dual Membrane System.
+
+261
+
+Journal of Environmental Quality. 37, 1648-1655.
+
+262
+263
+
+Abdelzaher, A.M., Solo-Gabriele, H.M., Palmer, C.J., & Scott, T.M. 2009 Simultaneous
+
+264
+
+Concentration of Enterococci and Coliphage from Marine Waters using a Dual Layer Filtration
+
+265
+
+System. Journal of Environmental Quality. 38, 2468-2473.
+
+266
+267
+268
+
+American Public Health Association. 1998 Standard methods for the examination of water and
+wastewater, 20th ed. American Public Health Association, Washington, D.C.
+
+269
+270
+271
+
+American Public Health Association. 2005 Standard Methods for the Examination of Water and
+Wastewater, 21st ed. American Public Health Association, Washington, DC.
+
+272
+273
+
+DeLeon R, Shieh, Y.S., Baric, R.S. & Sobsey, M.D. 1990 Detection of enteroviruses and hepatitis A
+
+274
+
+virus in environmental samples by gene probes and polymerase chain reaction. In: Proceedings of
+
+275
+
+Water Quality Conference: 1990; San Diego: American Water Works Association;: 833-853.
+
+276
+277
+
+Dick, L. K., Simonich, M. D., & Field, K. G. 2005 Microplate Subtractive Hybridizatoin To Enrich for
+
+278
+
+Bacteroidales Genetic Markers for Fecal Source Identification. Applied and Environmental
+
+279
+
+Microbiology. 71, 3179-3183.
+
+280
+11
+
+
+
+281
+282
+
+Gordon, K.V., Vickery, M. C., DePaola, A., Staley, C., & Harwood, V. J. 2008 Real-time PCR Assays
+
+283
+
+for Quantification and Differentiation of V. vulnificus Strains in Oysters and Water. Appl. Env.
+
+284
+
+Microbiol. 74, 1704-09.
+
+285
+286
+
+Guy, R.A., Payment, P., Krull, U.J., & Horgen, P.A. 2003 Real-time PCR for quantification of Giardia
+
+287
+
+and Cryptosporidium in environmental water samples and sewage. Appl Environ Microbiol 69(9),
+
+288
+
+5178-5185.
+
+289
+290
+
+Haughland, R.A., Seifring, S.C., Wymer, L.J., Brenner, K.P. & Dufour, A.P. 2005 Comparison of
+
+291
+
+Enterococcus measurements in freshwater at two recreational beaches by quantitative polymerase
+
+292
+
+chain reaction and membrane filter culture analysis. Water Res. 39, 559–568.
+
+293
+294
+295
+
+Kaysner, C. A. & DePaola, A.. “Bacteriological Analytical Manual Online: Chapter 9 Vibrio”. 2004.
+U.S. FDA. 21 May. 2008. <http://www.cfsan.fda.gov/~ebam/bam-9.html>.
+
+296
+297
+
+McQuaig, S. M., Scott, T. M., Harwood, V. J., Farrah, S. R, & Lukasik, J. O. 2006 Detection of
+
+298
+
+human-derived fecal pollution in environmental waters by use of a PCR based human
+
+299
+
+polyomavirus assay. Appl. Environ. Microbiol. 72, 7567-7574.
+
+300
+301
+
+Mertz, P.M., Cardenas, T.C., Snyder, R.V., Kinney, M.A., Davis, S.C. & Plano, L.R. 2007
+
+302
+
+Staphylococcus aureus virulence factors associated with infected skin lesions: influence on the
+
+303
+
+local immune response. Arch. Dermatol. 143(10), 1259-1263.
+
+304
+
+12
+
+
+
+305
+
+Scott, T.M., Jenkins, T.M., Lukasik, J. & Rose, J.B. 2005 Potential Use of a host associated molecular
+
+306
+
+marker in Enterococcus faecium as an index of human fecal pollution. Environmental Science &
+
+307
+
+Technology. 39(1), 283-287.
+
+308
+
+Sinigalliano, C.D., Fleisher, J.M., Gidley, M.L., Solo-Gabriele, H.M., Shibata, T., Plano, L., Elmir,
+
+309
+
+S.M., Wang, J.D., Wanless, D., Bartowiak, J., Boiteau, R., Withum, K., Abdelzaher, A., He, G.,
+
+310
+
+Ortega, C., Zhu, X., Wright, M., Kish, J., Hollenbeck, J., Backer, L. & Fleming, L.E. 2010
+
+311
+
+Traditional and Molecular Analyses for Fecal Indicator Bacteria in Non-point Source Subtropical
+
+312
+
+Recreational Marine Waters. Water Research. 44, 3763-72.
+
+313
+314
+
+U.S. Environmental Protection Agency, 1995 Method for Detection and Enumeration of Clostridium
+
+315
+
+perfringens in water and sediments by membrane filtration. U.S. EPA Office of Research and
+
+316
+
+Development, Washington, D.C. EPA/600-R-95/030.
+
+317
+318
+319
+
+U.S. Environmental Protection Agency. 1996 USEPA ICR microbial laboratory manual. EPA/600/R95/178. US Environmental Protection Agency, Washington, DC.
+
+320
+321
+
+U.S. Environmental Protection Agency. 2001 Method 1602: Detection of Male-specific (F+) and
+
+322
+
+Somatic Coliphage in Water by Single Agar Layer (SAL) Procedure. EPA 821-R-01-029. Office of
+
+323
+
+Water, Engineering and Analysis Division Washington, DC.
+
+324
+325
+
+U.S. Environmental Protection Agency, 2002 Escherichia coli (E. coli) in water by membrane
+
+326
+
+filtration Using modified membrane-thermotolerant Escherichia coli Agar (modified mTEC). U.S.
+
+327
+
+EPA Office of Research and Development, Washington, D.C. EPA 821-R-02-023.
+
+328
+
+13
+
+
+
+329
+
+U.S. Environmental Protection Agency. 2002 Method 1600: membrane filter test method for
+
+330
+
+enterococci in water. EPA-821-R-02-022. U.S. Environmental Protection Agency, Washington,
+
+331
+
+D.C.
+
+332
+333
+334
+
+U.S. Environmental Protection Agency. 2005 Method 1623: Cryptosporidium and Giardia in water by
+filtration/IMS/FA. EPA 815-R-05-002. U.S. Environmental Protection Agency, Washington, D.C.
+
+335
+336
+
+14
+
+

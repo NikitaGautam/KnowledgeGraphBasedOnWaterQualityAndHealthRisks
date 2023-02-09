@@ -1,0 +1,520 @@
+Blackwell Science, LtdOxford, UKJGHJournal of Gastroenterology and Hepatology0815-93192005 Blackwell Publishing Asia Pty Ltd 200520913901394Original ArticleNo correlation of symptoms and Blastocystis hominisK Leder et al.
+
+Journal of Gastroenterology and Hepatology (2005) 20, 1390–1394
+
+DOI: 10.1111/j.1440-1746.2005.03868.x
+
+GASTROENTEROLOGY
+
+No correlation between clinical symptoms and Blastocystis hominis
+in immunocompetent individuals
+KARIN LEDER, MARGARET E HELLARD, MARTHA I SINCLAIR,
+CHRISTOPHER K FAIRLEY AND RORY WOLFE
+
+Department of Epidemiology and Preventive Medicine, Monash University, The Alfred Hospital, Melbourne,
+Victoria, Australia
+
+Abstract
+Background and Aim: Previous reports regarding the clinical significance and pathogenicity of Blastocystis hominis have been contradictory. The aim of this study was to examine the association between
+Blastocystis and gastrointestinal symptoms in immunocompetent individuals.
+Methods: We monitored over 2800 healthy people for a period of 15 months, and took stool specimens
+during both asymptomatic periods and during periods of gastrointestinal symptoms.
+Results: After exclusion of individuals who had simultaneous identification of other fecal pathogens, we
+compared the proportions of asymptomatic versus symptomatic individuals positive for Blastocystis and
+found no significant difference (P = 0.5). Symptom status did not correlate with parasite abundance. We
+found that some individuals were likely to have Blastocystis detected during both asymptomatic and
+symptomatic periods, possibly suggesting carriage of the organism.
+Conclusion: In conclusion, we found no correlation between clinical symptoms and the presence or
+absence of Blastocystis among this healthy cohort.
+© 2005 Blackwell Publishing Asia Pty Ltd
+Key words: Blastocystis hominis, healthy individuals, symptoms.
+
+INTRODUCTION
+Blastocystis hominis is an intestinal protozoan parasite
+that is frequently identified in human stool specimens.
+Despite a surge of information over recent years, data
+regarding the role of Blastocystis in causing disease in
+humans are still inconclusive and often contradictory,
+and its clinical relevance remains controversial.1,2
+Whereas some clinical and epidemiological studies
+implicate the parasite as a potential pathogen,3–10 others
+exonerate it as a cause of intestinal symptoms, particularly in the absence of immunosuppression.11–15 Symptoms previously reported to be associated with
+Blastocystis infection include acute or chronic diarrhea,
+flatulence, nausea, abdominal pain, and anorexia, but
+whether its role is one of association or causation has
+not been definitively determined. Symptomless infections are also common and no doubt are frequently
+undetected.
+
+We report our findings of Blastocystis in a cohort of
+people monitored for a period of 15 months, many of
+whom had stool specimens taken both when asymptomatic (baseline specimens) and during periods of gastrointestinal symptoms (study specimens). Comparison
+of baseline and study specimens enables examination of
+the association of Blastocystis with symptoms in this
+cohort.
+
+METHODS
+As part of a community-based study assessing the relationship between drinking water quality and human
+health effects, we enrolled 600 families with at least two
+children 1–15 years of age. The community is supplied
+by high quality chlorinated drinking water from protected catchments. The family members were followed
+
+Correspondence: Dr Karin Leder, Department of Epidemiology and Preventive Medicine, Monash University, Central
+and Eastern Clinical School, Alfred Hospital, Commercial Road, Melbourne, Victoria 3004, Australia. Email:
+karin.leder@med.monash.edu.au
+Accepted for publication 31 August 2004.
+
+
+
+No correlation of symptoms and Blastocystis hominis
+
+1391
+
+with a weekly health diary for 15 months (68 weeks).
+The full methodology and study design have been
+reported previously.16 In brief, each participating
+household had a nominated member who completed a
+weekly questionnaire regarding presence or absence,
+duration, and severity of gastrointestinal symptoms.
+Fecal specimens were taken from a convenience sample
+of participants at baseline. In addition, all participants
+were instructed to collect stool samples within 1 week of
+onset of gastroenteritis episodes during the study. Gastroenteritis was defined as two or more loose stools, two
+or more episodes of vomiting, one loose stool together
+with abdominal pain or nausea or vomiting, or one episode of vomiting with abdominal pain or nausea, within
+a 24-h period.
+Individuals with underlying immunosuppression, a
+chronic illness involving frequent episodes of diarrhea,
+or those on long-term antibiotic therapy were excluded
+from the study.
+
+Methods for identification of fecal pathogens
+and detection of blastocystis
+Analysis of fecal specimens
+Bacterial isolation included culture for Salmonella sp.,
+Shigella spp., Yersinia spp., Campylobacter spp., Vibrio
+spp., Aeromonas spp., and Plesiomonas spp., and Clostridium difficile culture and toxin. Details of the methodology for testing for bacteria have been described
+previously.17 Testing for pathogenic Escherichia coli
+(defined as enteropathogenic, enteroaggregative,
+enterotoxigenic, enterohemorrhagic, and enteroinvasive
+types) was carried out using PCR to detect specific virulence genes.18,19 Rotavirus and Adenovirus 40/41 were
+tested using a Rota-Adeno latex kit.20 Testing for
+Norwalk-like-virus was carried out using reverse transcription and a hemi-nested polymerase chain reaction,21
+although only 703 of the 791 study specimens had sufficient material for analysis. An Evergreen kit was used
+to detect parasites.22,23 Specimens were filtered and centrifuged, the supernatant was decanted, and a drop of
+sediment was placed on a slide for staining with Modified Iron hematoxylin to enable detection of Blastocystis
+and other parasites. Slides were viewed under a micro-
+
+Table 1
+
+scope at ¥54 and ¥100. Results for Blastocystis were
+reported as rare (1–2 organism(s) in every 10 hp fields),
+few to moderate (1 organism in every 1–5 hp fields), or
+abundant (≥ 5 organisms per hp field).
+
+Statistical analysis
+The results of baseline stool specimens were compared
+between demographic groups using c2 tests. The same
+analysis procedure was used for study specimens. Comparisons adjusted for other covariates were performed
+using logistic regression with standard errors calculated
+using robust standard errors to allow for likely correlation between repeat specimens from the same person.
+The software package Stata 8 was used for all analyses.24
+
+RESULTS
+There were 600 families included in the study comprising 2811 participants. A total of 173 298 person-weeks
+of health diary data were recorded out of a possible
+191 148 (91%). Of the 2811 study participants,
+648 participants (23%) were aged 5 or less, 928 (33%)
+were aged 6–15 years, 895 (32%) were aged 16–39, and
+340 (12%) were 40 or older.
+
+Baseline specimens in individuals
+asymptomatic for gastroenteritis
+Baseline specimens were taken in 1089 individuals
+(39%) in the 3-month period prior to the commencement of the study data collection. Of these, 66 (6.1%)
+individuals had a specimen positive for Blastocystis, 63
+(5.8%) showing no other enteric pathogens (Table 1).
+Forty-two people (64%) with Blastocystis identified at
+baseline were male and the age range was 1–49 (mean:
+18.9, median: 11 years). Males were more likely than
+females to have had a positive specimen (7.8% vs 4.4%,
+respectively, P = 0.02). While positive tests were also
+more common among young people under 16 years of
+age than adults (7.0% vs 4.9%, respectively), this could
+have been a chance finding (P = 0.15).
+
+Proportion of individuals positive for Blastocystis
+
+Individuals who submitted specimens
+Individuals positive for Blastocystis (Total)
+Individuals positive for Blastocystis only
+(i.e. without simultaneous identification
+of another microorganism)
+
+Baseline/asymptomatic
+[number (%)]
+
+Study/symptomatic
+[number (%)]
+
+P-value*
+
+1089
+66 (6.1%)
+63 (5.8%)
+
+535
+47 (8.8%)
+36 (6.7%)
+
+0.03†
+0.5‡
+
+*P-values from logistic regression of symptoms by positive/negative status for Blastocystis; †Without adjusting for other pathogens; ‡After adjustment for other pathogens.
+
+
+
+1392
+
+Study specimens in individuals with
+symptoms of gastroenteritis
+Of the 1407 individuals who experienced gastroenteritis at least once during the 15 month observation
+period, 535 individuals (38%) submitted one or more
+fecal specimens (range of 1–10 specimens per person).
+Of symptomatic individuals who submitted at least one
+fecal sample, 47 people were found to have Blastocystis
+in their stool (8.8%) (Table 1), of whom 23 (49%)
+were male. The age range for those with Blastocystis
+was 1–44 (mean: 15.1, median: 8 years). Neither the
+proportion of positive specimens by age or gender differed from the age and sex distribution of the group
+submitting study specimens (P = 0.62, P = 0.98,
+respectively).
+Of the 47 people with symptoms and Blastocystis in
+their stool (7 of whom had Blastocystis identified more
+than once), 11 individuals had another pathogen(s)
+identified concurrently with Blastocystis which could
+have caused or contributed to symptoms. These
+pathogens were E. coli (n = 7), Campylobacter jejuni
+(n = 1), Cryptosporidium (n = 2), Giardia (n = 2), and
+Norwalk virus (n = 6). More than one other fecal
+pathogen was found per specimen in a few cases. The
+other 36 individuals with Blastocystis had no other
+microorganism identified to account for their
+symptoms.
+The 36 individuals with fecal specimens positive for
+Blastocystis without other pathogens were examined for
+symptoms reported during the week prior to or the
+week of the specimen collection. Three cases were
+associated with 1 day of diarrhea as the only symptom.
+An additional 22 cases were associated with diarrhea
+plus vomiting, nausea and/or abdominal pain, ranging
+from 1 to 5 days duration (mean: 2.1 days). Five cases
+were associated with 2–3 days of vomiting, nausea
+and/or abdominal pain without diarrhea. An additional
+six cases were associated with fever as well as gastrointestinal symptoms (duration: 1–8 days, mean
+3.7 days).
+
+K Leder et al.
+
+Comparison of results from asymptomatic
+versus symptomatic individuals with
+Blastocystis
+When the proportion of asymptomatic versus symptomatic individuals with fecal specimens positive for Blastocystis were compared, a significant difference was
+detected (6.1% and 8.8%, respectively, P = 0.03). However, after adjusting for the co-presence of other fecal
+pathogens, this significance was lost and there was no
+difference in the proportion of individuals with Blastocystis who were asymptomatic versus symptomatic
+(5.8% vs 6.7%, respectively, P = 0.5) (Table 1). In other
+words, after consideration of co-pathogens, there was
+no significant correlation found between the presence of
+symptoms and the presence of Blastocystis in a stool
+specimen. After adjusting for age, gender, and presence
+of other pathogens, the relative odds of symptoms in
+people who had Blastocystis identified compared to
+those without Blastocystis was 0.90 (95% CI: 0.55, 1.49,
+P = 0.6). There also was no significant difference in the
+proportion of submitted specimens positive for Blastocystis between asymptomatic and symptomatic individuals (6.0 vs 6.8%, P = 0.5).
+
+Correlation between laboratory
+quantification of Blastocystis and symptoms
+Of the 63 individuals with baseline specimens positive
+for Blastocystis without another identified pathogen, six
+(10%) were reported as having abundant parasites, 44
+(70%) as few to moderate, 13 (21%) as rare. Of the
+36 symptomatic individuals with specimens positive
+only for Blastocystis, two (6%) were reported as having
+abundant parasites, 28 (78%) as few to moderate, five
+as rare (14%), and one case had no quantification. The
+proportion of individuals with and without symptoms
+who had abundant, few to moderate, or rare parasites
+was not different (P = 0.99).
+
+Persistence of Blastocystis
+
+DISCUSSION
+
+Of the 66 individuals with Blastocystis in their stool at
+baseline, 20 submitted one or more additional specimens during symptomatic periods of the study. Nine
+(45%) of these individuals still had Blastocystis present
+in one or more fecal specimens, indicating they had
+Blastocystis present during both symptomatic and
+asymptomatic periods. In contrast, of 1023 people who
+submitted a baseline specimen negative for Blastocystis,
+303 submitted a study specimen, 19 of which were positive (6.3%). Thus, those with Blastocystis at baseline
+who submitted further specimens during symptomatic
+periods of the study were significantly more likely to
+have Blastocystis detected on subsequent specimens
+than were individuals who were negative for Blastocystis
+at baseline (P < 0.001).
+
+In this study, we monitored a cohort of over 2800 people for 15 months. We took fecal specimens from a proportion of these individuals at baseline when all were
+free of gastrointestinal symptoms as well as from individuals during symptomatic periods. Overall, after
+excluding episodes in which other pathogens were
+found, 5.8% of asymptomatic individuals had Blastocystis detected. This compared to detection of Blastocystis
+in 6.7% of symptomatic individuals. Thus, the proportions of asymptomatic versus symptomatic individuals
+positive for Blastocystis were not significantly different
+(P = 0.5). In addition, the proportion of specimens submitted for analysis that were positive for Blastocystis did
+not differ by the symptom status of the participants.
+It is interesting that, of individuals with baseline specimens positive for Blastocystis who also submitted a subsequent study specimen, 45% had Blastocystis found in
+specimens taken when symptomatic. In contrast, of
+
+
+
+No correlation of symptoms and Blastocystis hominis
+those with baseline specimens negative for Blastocystis
+who submitted study specimens, only 6% of specimens
+associated with symptoms were positive for Blastocystis.
+This could imply that some individuals have Blastocystis
+carriage, and that for these individuals, detection of
+Blastocystis is common during both symptomatic and
+asymptomatic periods.
+Many previous studies examining the potential
+pathogenicity of Blastocystis hominis have been limited
+by a lack of predetermined definition of symptoms and
+lack of comprehensive investigations to exclude other
+causes of diarrhea. Many have been just case reports or
+case series, often in a hospital setting or in the setting of
+stools submitted for laboratory examination in symptomatic individuals, which biases results towards finding an association with clinical symptoms. Only a few
+studies have examined the prevalence of Blastocystis
+among people with gastrointestinal symptoms compared with a control group of asymptomatic individuals,
+and the results have been inconsistent.3,11,25–30 In a
+recent study of enteropathogens in Swedish adults,
+Blastocystis was found twice as commonly in controls as
+in patients with diarrhea (9% vs 4%, respectively,
+P = 0.005).31 Our study adds further evidence to a lack
+of detectable association between Blastocystis and gastrointestinal symptoms in immunocompetent hosts.
+Several theories have been proposed to explain the
+different clinical outcomes of Blastocystis infection.
+Some studies have suggested that a higher concentration of parasites is more likely to be associated with
+symptoms than a lower number of parasites,11,32,33 but
+this was not supported by our findings and has been disputed by others.34–36 A genetic distinction between subgroups leading to variable virulence has also been
+proposed to explain the inconsistent pathogenic potential reported,1,37 although again there is disagreement.38,39 Differences in host immune responses and
+the presence of immunodeficiency have also been suggested to influence the presence and/or severity of
+symptoms.27,40
+We found Blastocystis in 6.4% of all specimens, which
+is consistent with previous reports.41–43 Reported prevalence rates vary from 1.4 to 18% in developed countries, with much higher rates of 30–50% in developing
+countries.44 Blastocystis is transmitted by the fecal-oral
+route, and water-borne, food-borne, and person-toperson transmission have also been suggested.8,45,46
+Our study has a number of limitations. First, the
+group under observation were primarily being studied
+to determine whether an association could be found
+between drinking water and rates of gastrointestinal
+symptoms. Consequently, there were some inclusion
+criteria for participation, including a requirement for
+participating families to have a minimum of four household members and at least two children aged 1–
+15 years, which skewed the age distribution of the study
+participants compared to the general population.
+Higher prevalence rates of Blastocystis have previously
+been reported in adults than children.44 In addition,
+occupants needed to own or be in the process of buying
+their home, which may mean participants were of a
+higher socioeconomic status. Our study was also limited
+to individuals without immune suppression or other
+
+1393
+chronic illnesses. A history of receiving antimicrobial
+treatment could not be elicited. Because of practical
+and cost limitations, a convenience sample comprising
+only 39% of participants submitted a baseline specimen, and 38% submitted a specimen during symptomatic periods, which limits our study power. In addition,
+only one stool specimen was requested during symptomatic episodes.
+In conclusion, we report our findings from a cohort of
+people monitored during both asymptomatic and symptomatic periods and conclude that there was no correlation between clinical symptoms and the presence or
+absence of Blastocystis among this immunocompetent
+group of people.
+
+ACKNOWLEDGMENTS
+We extend special thanks to Pamela Lightbody for her
+assistance with preparation of the manuscript. We also
+thank all the Water Quality Study team. We acknowledge the Cooperative Research Center for Water Quality
+and Treatment, the Water Services Association of
+Australia, the Victorian Department of Human
+Services, Melbourne Water Corporation, South-east
+Water Limited,Yarra Valley Water Limited and City West
+Water Limited who supported the study.
+
+REFERENCES
+1 Tan KS, Singh M, Yap EH. Recent advances in Blastocystis hominis research: hot spots in terra incognita. Int. J.
+Parasitol. 2002; 32: 789–804.
+2 Zierdt CH. Blastocystis hominis – past and future. Clin.
+Microbiol. Rev. 1991; 4: 61–79.
+3 Jelinek T, Peyerl G, Loscher T, von Sonnenburg F, Nothdurft HD. The role of Blastocystis hominis as a possible
+intestinal pathogen in travellers. J. Infect. 1997; 35: 63–6.
+4 Vannatta JB, Adamson D, Mullican K. Blastocystis hominis infection presenting as recurrent diarrhea. Ann.
+Intern. Med. 1985; 102: 495–6.
+5 Sheehan DJ, Raucher BG, McKitrick JC. Association of
+Blastocystis hominis with signs and symptoms of human
+disease. J. Clin. Microbiol. 1986; 24: 548–50.
+6 Ricci N, Toma P, Furlani M, Caselli M, Gullini S. Blastocystis hominis: a neglected cause of diarrhoea? Lancet
+1984; 1: 966.
+7 Russo AR, Stone SL, Taplin ME, Snapper HJ, Doern GV.
+Presumptive evidence for Blastocystis hominis as a cause
+of colitis. Arch. Intern. Med. 1988; 148: 1064.
+8 Nimri L, Batchoun R. Intestinal colonization of symptomatic and asymptomatic schoolchildren with Blastocystis
+hominis. J. Clin. Microbiol. 1994; 32: 2865–6.
+9 Qadri SM, al-Okaili GA, al-Dayel F. Clinical significance
+of Blastocystis hominis. [Comment]. J. Clin. Microbiol.
+1989; 27: 2407–9.
+10 Babb RR, Wagener S. Blastocystis hominis – a potential
+intestinal pathogen. [Comment]. West. J. Med. 1989; 151:
+518–19.
+11 Shlim DR, Hoge CW, Rajah R, Rabold JG, Echeverria P.
+Is Blastocystis hominis a cause of diarrhea in travelers? A
+
+
+
+1394
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+25
+
+26
+
+27
+
+28
+
+prospective controlled study in Nepal. [Comment]. Clin.
+Infect. Dis. 1995; 21: 97–101.
+Sun T, Katz S, Tanenbaum B, Schenone C. Questionable
+clinical significance of Blastocystis hominis infection. Am.
+J. Gastroenterol. 1989; 84: 1543–7.
+Senay H, MacPherson D. Blastocystis hominis: epidemiology and natural history. J. Infect. Dis. 1990; 162: 987–
+90.
+Miller RA, Minshew BH. Blastocystis hominis: an organism in search of a disease. [Comment]. Rev. Infect. Dis.
+1988; 10: 930–8.
+Markell EK, Udkow MP. Blastocystis hominis: pathogen
+or fellow traveler? Am. J. Trop. Med. Hyg. 1986; 35: 1023–
+6.
+Hellard ME, Sinclair MI, Forbes AB, Fairley CK. A randomized, blinded, controlled trial investigating the gastrointestinal health effects of drinking water quality.
+Environ. Health Perspect. 2001; 109: 773–8.
+Hellard ME, Sinclair MI, Hogg GG, Fairley CK. Prevalence of enteric pathogens among community based
+asymptomatic individuals. J. Gastroenterol. Hepatol. 2000;
+15: 290–3.
+Paton AW, Paton JC. Detection and characterization of
+Shiga toxigenic Escherichia coli by using multiplex PCR
+assays for stx1, stx2, eaeA, enterohemorrhagic E. coli
+hlyA, rfbO111, and rfbO157. J. Clin. Microbiol. 1998; 36:
+598–602.
+Robins-Browne RM, Yam WC, O’Gorman LE, Bettelheim KA. Examination of archetypal strains of enteropathogenic Escherichia coli for properties associated with
+bacterial virulence. J. Med. Microbiol. 1993; 38: 222–6.
+Bryden AS. The evaluation of a combined ‘dry’ latex
+agglutination test for detecting rotaviruses and adenoviruses in faeces. Immunother. Infect. Dis. 1995; 7: 129–
+31.
+Yuen LK, Catton MG, Cox BJ, Wright PJ, Marshall JA.
+Heminested multiplex reverse transcription-PCR for
+detection and differentiation of Norwalk-like virus genogroups 1 and 2 in fecal samples. J. Clin. Microbiol. 2001;
+39: 2690–4.
+Perry JL, Matthews JS, Miller GR. Parasite detection efficiencies of five stool concentration systems. J. Clin. Microbiol. 1990; 28: 1094–7.
+Zierdt WS. Concentration and identification of
+cryptosporidium sp. by use of a parasite concentrator. J.
+Clin. Microbiol. 1984; 20: 860–1.
+StataCorp. Stata Statistical Software (Release 8.0 edn).
+College Station, TX: Stata Corporation, 2003.
+Udkow MP, Markell EK. Blastocystis hominis: prevalence in asymptomatic versus symptomatic hosts. J. Infect.
+Dis. 1993; 168: 242–4.
+Kukoschke KG, Muller HE. Varying incidence of Blastocystis hominis in cultures from faeces of patients with
+diarrhoea and from healthy persons. Zentralblatt fur Bakteriologie 1992; 277: 112–18.
+Cirioni O, Giacometti A, Drenaggi D, Ancarani F, Scalise
+G. Prevalence and clinical relevance of Blastocystis hominis in diverse patient cohorts. Eur. J. Epidemiol. 1999; 15:
+389–93.
+Ashford RW, Atkinson EA. Epidemiology of Blastocystis
+hominis infection in Papua New Guinea: age–prevalence
+and associations with other parasites. Ann. Trop. Med. Parasitol. 1992; 86: 129–36.
+
+K Leder et al.
+29 Martin-Sanchez AM, Canut-Blasco A, RodriguezHernandez J, Montes-Martinez I, Garcia-Rodriguez JA.
+Epidemiology and clinical significance of Blastocystis
+hominis in different population groups in Salamanca
+(Spain). Eur. J. Epidemiol. 1992; 8: 553–9.
+30 Carbajal JA, Villar J, Lanuza MD, Esteban JG, Munoz C,
+Borras R. [Clinical significance of Blastocystis hominis
+infection: epidemiologic study]. Med. Clin. (Barc.) 1997;
+108: 608–12.
+31 Svenungsson B, Lagergren A, Ekwall E et al. Enteropathogens in adult patients with diarrhea and healthy control
+subjects: a 1-year prospective study in a Swedish clinic for
+infectious diseases. Clin. Infect. Dis. 2000; 30: 770–8.
+32 Nimri LF. Evidence of an epidemic of Blastocystis hominis infections in preschool children in northern Jordan. J.
+Clin. Microbiol. 1993; 31: 2706–8.
+33 Diaczok BJ, Rival J. Diarrhea due to Blastocystis hominis:
+an old organism revisited. Southern Med. J. 1987; 80:
+931–2.
+34 Kain KC, Noble MA, Freeman HJ, Barteluk RL. Epidemiology and clinical features associated with Blastocystis
+hominis infection. Diagn. Microbiol. Infect. Dis. 1987; 8:
+235–44.
+35 Doyle PW, Helgason MM, Mathias RG, Proctor EM.
+Epidemiology and pathogenicity of Blastocystis hominis.
+J. Clin. Microbiol. 1990; 28: 116–21.
+36 Grossman I, Weiss LM, Simon D, Tanowitz HB, Wittner
+M. Blastocystis hominis in hospital employees. Am. J.
+Gastroenterol. 1992; 87: 729–32.
+37 Clark CG. Extensive genetic diversity in Blastocystis hominis. Mol. Biochem. Parasitol. 1997; 87: 79–83.
+38 Gericke AS, Burchard GD, Knobloch J, Walderich B.
+Isoenzyme patterns of Blastocystis hominis patient isolates derived from symptomatic and healthy carriers. Trop.
+Med. Int. Health 1997; 2: 245–53.
+39 Bohm-Gloning B, Knobloch J, Walderich B. Five subgroups of Blastocystis hominis from symptomatic and
+asymptomatic patients revealed by restriction site analysis
+of PCR-amplified 16S-like rDNA. Trop. Med. Int. Health
+1997; 2: 771–8.
+40 Garavelli PL, Scaglione L, Bicocchi R, Libanore M. Blastocystosis: a new disease in the acquired immunodeficiency syndrome? Int. J. STD AIDS 1990; 1: 134–5.
+41 Zuckerman MJ, Ho H, Hooper L, Anderson B, Polly SM.
+Frequency of recovery of Blastocystis hominis in clinical
+practice. J. Clin. Gastroenterol. 1990; 12: 525–32.
+42 Windsor JJ, Macfarlane L, Hughes-Thapa G, Jones SK,
+Whiteside TM. Incidence of Blastocystis hominis in faecal
+samples, submitted for routine microbiological analysis.
+Br. J. Biomed. Sci. 2002; 59: 154–7.
+43 Waring L, Reed C. Blastocystis hominis. Causative organism or harmless commensal? Aust. Fam. Physician 2001;
+30: 374, quiz 378.
+44 Stenzel DJ, Boreham PF. Blastocystis hominis revisited.
+Clin. Microbiol. Rev. 1996; 9: 563–84.
+45 Taamasri P, Mungthin M, Rangsin R, Tongupprakarn B,
+Areekul W, Leelayoova S. Transmission of intestinal blastocystosis related to the quality of drinking water. Southeast Asian J. Trop. Med. Public Health 2000; 31: 112–17.
+46 Yoshikawa H, Abe N, Iwasawa M et al. Genomic analysis
+of Blastocystis hominis strains isolated from two longterm health care facilities. J. Clin. Microbiol. 2000; 38:
+1324–30.
+
+
+
+

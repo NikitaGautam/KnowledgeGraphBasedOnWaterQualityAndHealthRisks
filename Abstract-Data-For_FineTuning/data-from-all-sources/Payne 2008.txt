@@ -1,0 +1,1181 @@
+Active, Population-Based Surveillance for Severe Rotavirus Gastroenteritis in
+Children in the United States
+Daniel C. Payne, Mary Allen Staat, Kathryn M. Edwards, Peter G. Szilagyi, Jon R.
+Gentsch, Lauren J. Stockman, Aaron T. Curns, Marie Griffin, Geoffrey A. Weinberg,
+Caroline B. Hall, Gerry Fairbrother, James Alexander and Umesh D. Parashar
+Pediatrics 2008;122;1235
+DOI: 10.1542/peds.2007-3378
+
+The online version of this article, along with updated information and services, is
+located on the World Wide Web at:
+http://pediatrics.aappublications.org/content/122/6/1235.full.html
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+publication, it has been published continuously since 1948. PEDIATRICS is owned,
+published, and trademarked by the American Academy of Pediatrics, 141 Northwest Point
+Boulevard, Elk Grove Village, Illinois, 60007. Copyright © 2008 by the American Academy
+of Pediatrics. All rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+
+
+ARTICLE
+
+Active, Population-Based Surveillance for Severe
+Rotavirus Gastroenteritis in Children in the
+United States
+Daniel C. Payne, PhD, MSPHa, Mary Allen Staat, MD, MPHb, Kathryn M. Edwards, MDc,d,e, Peter G. Szilagyi, MD, MPHf, Jon R. Gentsch, PhDg,
+Lauren J. Stockman, MPHa,h, Aaron T. Curns, MPHa, Marie Griffin, MD, MPHc,d,e, Geoffrey A. Weinberg, MDf, Caroline B. Hall, MDf,
+Gerry Fairbrother, PhDb, James Alexander, MDa, Umesh D. Parashar, MBBS, MPHa
+a
+
+Epidemiology Branch and gGastroenteritis and Respiratory Viruses Laboratory Branch, Division of Viral Diseases, National Center for Immunizations and Respiratory
+Disease, Centers for Disease Control and Prevention, Atlanta, Georgia; bDepartment of Pediatrics, Cincinnati Children’s Hospital Medical Center, University of Cincinnati
+College of Medicine, Cincinnati, Ohio; Departments of cPediatrics, dMedicine, and ePreventive Medicine, Vanderbilt University Medical Center, Nashville, Tennessee;
+fDepartment of Pediatrics, University of Rochester School of Medicine and Dentistry, Rochester, New York; hAtlanta Research and Education Foundation, Decatur, Georgia
+The authors have indicated they have no ﬁnancial relationships relevant to this article to disclose.
+
+What’s Known on This Subject
+
+What This Study Adds
+
+The US rotavirus disease burden is estimated to be high, but estimates are based largely
+on indirect data. We know of no other prospective, population-based surveillance for
+rotavirus in multiple US counties.
+
+Our work presents the disease burden and characteristics of severe rotavirus illness in
+the last season before the widespread uptake of rotavirus vaccine, providing important
+baseline measurements.
+
+ABSTRACT
+OBJECTIVES. Routine vaccination of US infants against rotavirus was implemented in
+2006, prompting the Centers for Disease Control and Prevention New Vaccine
+Surveillance Network to begin population-based acute gastroenteritis surveillance
+among US children ⬍3 years of age. This surveillance system establishes baseline
+estimates of rotavirus disease burden and allows for the prospective monitoring of
+rotavirus vaccination impact.
+METHODS. Eligible children with acute gastroenteritis (ⱖ3 episodes of diarrhea and/or
+
+any vomiting in a 24-hour period) who were hospitalized, were seen in emergency
+departments, or visited selected outpatient clinics in 3 US counties during the period
+of January through June 2006 were enrolled. Epidemiological and clinical information
+was obtained through parental interview and medical chart review, and stool specimens
+were tested for rotavirus with enzyme immunoassays. Rotavirus-positive specimens
+were genotyped by using reverse transcription-polymerase chain reaction assays.
+RESULTS. Stool specimens were collected from 516 of the 739 enrolled children with
+
+acute gastroenteritis (181 inpatient, 201 emergency department, and 134 outpatient)
+and 44% tested positive for rotavirus (227 of 516 specimens). The most common
+strain was P[8]G1 (84%), followed by P[4]G2 (5%) and P[6]G12 (4%). None of the
+516 children had received rotavirus vaccine. The rotavirus detection rate was 50%
+for hospitalized acute gastroenteritis cases, 50% for emergency department visits,
+and 27% for outpatient visits. Rotavirus-related acute gastroenteritis cases were
+more likely than non–rotavirus-related acute gastroenteritis cases to present with
+vomiting, diarrhea, fever, and lethargy. Directly calculated, population-based rates
+for rotavirus hospitalizations and emergency department visits were 22.5 hospitalizations and 301.0 emergency department visits per 10 000 children ⬍3 years of age,
+respectively. A sentinel outpatient clinic visit rate of 311.9 outpatient visits per
+10 000 children ⬍3 years of age was observed.
+CONCLUSIONS. Population-based, laboratory-confirmed rotavirus surveillance in the fi-
+
+nal rotavirus season before implementation of the US rotavirus vaccine program
+indicated a considerable burden of disease on the US health care system. Pediatrics
+2008;122:1235–1243
+
+www.pediatrics.org/cgi/doi/10.1542/
+peds.2007-3378
+doi:10.1542/peds.2007-3378
+The ﬁndings and conclusions in this report
+are those of the authors and do not
+necessarily represent the views of the
+Centers for Disease Control and Prevention.
+Key Words
+rotavirus, acute gastroenteritis, disease
+burden, population-based surveillance
+Abbreviations
+CDC—Centers for Disease Control and
+Prevention
+NVSN—New Vaccine Surveillance Network
+AGE—acute gastroenteritis
+ED— emergency department
+EIA— enzyme immunoassay
+RT—reverse transcription
+PCR—polymerase chain reaction
+CI— conﬁdence interval
+NHAMCS—National Hospital Ambulatory
+Medical Care Survey
+Accepted for publication Mar 10, 2008
+Address correspondence to Daniel C. Payne,
+PhD, MSPH, Epidemiology Branch, Division of
+Viral Diseases, National Center for
+Immunizations and Respiratory Disease,
+Centers for Disease Control and Prevention,
+1600 Clifton Rd, NE, MS-A34, Atlanta, GA
+30333. E-mail: dvp6@cdc.gov
+PEDIATRICS (ISSN Numbers: Print, 0031-4005;
+Online, 1098-4275). Copyright © 2008 by the
+American Academy of Pediatrics
+
+I
+
+N 2006, A new vaccine for the prevention of acute gastroenteritis (AGE) caused by rotavirus (RotaTeq; Merck,
+
+Whitehouse Station, NJ) was licensed in the United States and was recommended by the US Advisory Committee
+for Immunization Practices and the American Academy of Pediatrics for routine immunization of all US children.1
+PEDIATRICS Volume 122, Number 6, December 2008
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+1235
+
+
+
+This decision was based in part on the considerable
+burden of rotavirus-related AGE on the US health care
+system,2–7 primarily assessed through large linked databases (eg, national hospital discharge data) and the use
+of indirect approaches to estimate the proportion of AGE
+events attributable to rotavirus. Because limited population-based, laboratory-confirmed, active surveillance
+data on severe rotavirus existed,8 the Centers for Disease
+Control and Prevention (CDC) New Vaccine Surveillance Network (NVSN) undertook such an effort. This
+surveillance is needed to assess the effectiveness of vaccination through prospective, direct monitoring of the
+burden of disease caused by rotavirus and the genotypes
+of circulating rotavirus strains. This article presents the
+results from the first season of AGE surveillance through
+NVSN, which was also the final rotavirus season before
+widespread implementation of the US rotavirus vaccine
+program.
+METHODS
+The NVSN conducted prospective, population-based,
+AGE surveillance in 3 US counties from January 1, 2006,
+through June 30, 2006. Surveillance was conducted in
+hospitals, emergency departments (EDs), and outpatient
+clinics, with institutional review board approval from
+the CDC and each participating NVSN site. These NVSN
+sites include Vanderbilt University Medical Center (Davidson County, Tennessee), Cincinnati Children’s Hospital Medical Center (Hamilton County, Ohio), and the
+University of Rochester Medical Center (Monroe
+County, New York).
+Children 14 days to 3 years of age were considered
+eligible for enrollment if they presented to these health
+care facilities with AGE, defined as ⱖ3 loose stools
+and/or ⱖ1 episode of vomiting within 24 hours. They
+were required to be residents of the specified counties, to
+have experienced onset of their gastroenteritis AGE
+symptoms ⱕ10 days before seeking health care, and to
+have informed consent from a parent or guardian. Children were ineligible if they had a noninfectious disease
+cause, were immunocompromised, were enrolled previously with the same episode of gastroenteritis, or were
+transferred from another hospital after an admission of
+⬎48 hours. Children who were enrolled as ED patients
+and then experienced escalation to inpatient status during surveillance hours were categorized as hospitalized.
+A standardized questionnaire administered to the
+consenting parent or guardian collected demographic,
+medical history, and socioeconomic data, and medical
+chart reviews ascertained clinical data and vaccination
+status. We attempted to collect a whole stool sample
+within 14 days after disease onset, and specimens were
+tested by using a commercial rotavirus enzyme immunoassay (EIA). EIA-positive specimens were analyzed by
+the CDC for determination of rotavirus genotypes,
+through multiplex, reverse transcription (RT)-polymerase chain reaction (PCR) methods and nucleotide sequencing.9–12 Statistical analyses were conducted by using SAS 9.1 (SAS Institute, Cary, NC). Comparisons
+were made by using Pearson’s ␹2 test and Student’s t test.
+Participating NVSN hospitals capture ⬎95% of all
+1236
+
+PAYNE et al
+
+pediatric hospital admissions in their respective counties.
+These 3 counties include ⬃85 000 children ⬍3 years of
+age. Population-based hospitalization rates were calculated as the weighted number of AGE hospitalizations
+with laboratory-confirmed rotavirus divided by the
+number of children within the age cohort in the county
+population (as determined in the 2000 US Census), multiplied by 10 000. Weights were calculated to account for
+the number of days when AGE surveillance was conducted, the proportion of eligible children enrolled in the
+study, and the different specimen collection rates at the
+NVSN sites. The 95% confidence intervals (CIs) were determined by using 1000 bootstrap samples for each rate,
+with the resulting 2.5th and 97.5th percentile values as the
+lower and upper limits, respectively, of the CIs.13
+Population-based ED rotavirus visit rates were estimated by correcting the number of AGE-related ED visits
+among children ⬍3 years of age for the 24-hour surveillance periods, to account for the days that surveillance
+was not conducted in a given week and to account for
+the estimated ED visit proportions at the NVSN ED facilities in the 3 counties (Davidson County, Tennessee,
+54% at Vanderbilt University Medical Center ED; Hamilton County, Ohio, 95% at Cincinnati Children’s Hospital Medical Center ED; Monroe County, New York,
+70% at Strong Memorial ED and 25% at Rochester
+General ED). The weighted totals according to month
+were multiplied by the monthly proportion of rotaviruspositive specimens among study participants at each
+NVSN ED, to obtain the estimated number of rotavirusrelated ED visits.14 Population-based ED rates were calculated by using the method described for the population-based hospitalization rates.
+For comparison with our NVSN rotavirus-related ED
+rates, we calculated rotavirus-related ED visit rates indirectly by using National Hospital Ambulatory Medical
+Care Survey (NHAMCS) data. All NHAMCS ED visits
+attributable to AGE among children ⬍3 years of age
+between January 1 and June 30 were identified for 2003
+through 2005.15 These ED visits were identified by selecting International Classification of Diseases, Ninth Revision, Clinical Modification codes for AGE in any 1 of
+the 3 physician diagnosis fields. SEs for the weighted
+estimates were calculated by using SUDAAN 9.0 (Research Triangle Institute, Research Triangle Park, NC).
+The weighted estimate of AGE visits among children ⬍3
+years of age was multiplied by the proportion of rotavirus-positive specimens observed at the NVSN sites during the coinciding period of January 1 to June 30, 2006,
+to obtain the estimated number and US rate of ED visits
+attributable to rotavirus-related AGE. The National Center for Health Statistics bridged-race intercensal estimates of US children ⬍3 years of age for 2003 through
+2005 were used as the denominators in our rate calculations.16
+Outpatient NVSN data are sentinel and not population-based, as are our ED and hospitalization data, but
+they represent an important component of the estimated
+burden of severe rotavirus gastroenteritis. We approximated a rotavirus outpatient rate for the United States
+by multiplying the proportion of laboratory-confirmed
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+
+
+FIGURE 1
+Flowchart of eligible NVSN surveillance subjects, enrollment status, and specimens collected, according to provider type.
+
+rotavirus outpatient visits from our 6-month period
+(January through June) of NVSN AGE surveillance by
+the number of outpatient visits (NHAMCS, 2003–2005)
+plus medical office visits (National Ambulatory Medical
+Care Survey, 2003–2005) among US children ⬍3 years
+of age in January through June. We then calculated the
+US rate by using the same method as used for the US ED
+rates. All rates were annualized as visits per 10 000
+children per year except for monthly rates, which are
+reported according to 10 000 child-years. Extrapolations
+to the US population were calculated by applying NVSN
+rates to the annual US birth cohort of ⬃4 million.
+
+Rotavirus Detection Through EIA
+Across all surveillance sites and all provider settings,
+44% of NVSN stool specimens (227 of 516 specimens)
+tested positive for rotavirus. Rotavirus detection rates for
+AGE inpatient and ED visits were both 50% and the
+outpatient clinic detection rate was 27%, which was
+statistically lower (P ⬍ .001). The proportions of inpatient, ED, and outpatient specimens that tested positive
+for rotavirus were not statistically different across the 3
+surveillance sites (inpatient: P ⫽ .668; ED: P ⫽ .259;
+outpatient: P ⫽ .068) (Table 1).
+Rotavirus-positive subjects were statistically different
+from rotavirus-negative subjects with respect to age
+
+RESULTS
+Study Group
+Of 1042 inpatient, ED, and outpatient children screened
+for participation in this study, 838 (80%) were determined to be eligible. We obtained consent for 729 of
+those children (87%), who were then enrolled as NVSN
+AGE surveillance study subjects. Stool specimens were
+collected from 516 (71%) of the 729 study participants,
+that is, 181 from the inpatient setting, 201 from EDs, and
+134 from sentinel outpatient clinics (Fig 1). None of
+these children had received rotavirus vaccine.
+Comparison of Study Participants
+Stool specimens were more likely to be collected from
+hospitalized enrolled subjects (91%) than from ED and
+outpatient enrolled subjects (61% and 66%, respectively; P ⬍ .001). Enrolled study participants were statistically similar to nonenrolled subjects with respect to provider type, age, and gender, but significant differences
+were observed with respect to ethnicity; 27% of nonenrolled subjects were Hispanic, compared with 12% of
+enrolled study participants (P ⬍ .001), and 18% of
+nonenrolled subjects were uninsured, compared with
+6% of enrolled study participants (P ⬍ .001). Reasons
+for nonenrollment included the following: parent or
+guardian refusal, non–English-speaking, no parent or
+legal guardian available, and patient discharged before
+enrollment.
+
+TABLE 1 Numbers of Specimens Collected From Inpatient, ED, and
+Outpatient Settings and Proportions Rotavirus-Positive,
+According to Provider Type and Surveillance Site
+Provider Type and Site
+
+Inpatient
+Vanderbilt University Medical Center
+Cincinnati Children’s Hospital
+Medical Center
+University of Rochester Medical
+Center
+Total Inpatient
+Emergency department
+Vanderbilt University Medical Center
+Cincinnati Children’s Hospital
+Medical Center
+University of Rochester Medical
+Center
+Total Emergency department
+Outpatient clinic
+Vanderbilt University Medical Center
+Cincinnati Children’s Hospital
+Medical Center
+University of Rochester Medical
+Center
+Total Outpatient Clinic
+
+No. Enrolled
+With
+Specimens
+(N ⫽ 516)
+
+Proportion
+RotavirusPositive
+(N ⫽ 227), %
+
+47
+99
+
+55
+47
+
+35
+
+51
+
+181
+
+50
+
+71
+111
+
+44
+55
+
+19
+
+42
+
+201
+
+50
+
+57
+48
+
+33
+29
+
+29
+
+10
+
+134
+
+27
+
+PEDIATRICS Volume 122, Number 6, December 2008
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+1237
+
+
+
+children. Stool specimens from children 6 to 12 months
+of age were statistically more likely to test positive for
+rotavirus than were those from infants ⬍6 months of age
+(43% vs 31%; P ⫽ .013). Rotavirus-positive subjects
+were more likely to be privately insured than were rotavirus-negative patients (37% vs 20%). No statistical
+differences in rotavirus EIA results according to race (P
+⫽ .196), ethnicity (P ⫽ .207), or gender (P ⫽ .918) were
+observed.
+
+TABLE 2 Characteristics of Patients With AGE Who Had Stool
+Specimens Collected, According to Rotavirus EIA Results
+(N ⴝ 516)
+Characteristic
+
+Provider type
+Inpatient
+ED
+Outpatient clinic
+NVSN surveillance site
+Vanderbilt
+Rochester
+Cincinnati
+Age group
+⬍6 mo
+6 to ⬍12 mo
+12 to ⬍18 mo
+18 to ⬍24 mo
+24 to ⬍30 mo
+30 to ⬍36 mo
+Race
+White
+Black
+Asian
+Other
+Unknown
+Ethnicity
+Non-Hispanic
+Hispanic
+Unknown
+Gender
+Male
+Female
+Insurance status
+Public only
+Private only
+Mixture of public and private
+Uninsured
+Unknown
+
+Rotavirus EIA Result, n (%)
+Negative
+(N ⫽ 289)
+
+Positive
+(N ⫽ 227)
+
+90 (31.1)
+101 (35.0)
+98 (33.9)
+
+91 (40.1)
+100 (44.1)
+36 (15.9)
+
+99 (34.3)
+54 (18.7)
+136 (47.1)
+
+76 (33.5)
+29 (12.8)
+122 (53.7)
+
+92 (31.8)
+78 (27.0)
+45 (15.6)
+31 (10.7)
+25 (8.7)
+18 (6.2)
+
+41 (18.1)
+58 (25.6)
+59 (26.0)
+39 (17.2)
+18 (7.9)
+12 (5.3)
+
+97 (33.6)
+132 (45.7)
+3 (1.0)
+56 (19.4)
+1 (0.4)
+
+97 (42.7)
+95 (41.9)
+1 (0.4)
+34 (15.0)
+0 (0.0)
+
+248 (85.8)
+41 (14.2)
+0 (0.0)
+
+203 (89.4)
+23 (10.1)
+1 (0.4)
+
+140 (48.4)
+149 (51.6)
+
+111 (48.9)
+116 (51.1)
+
+213 (73.7)
+58 (20.1)
+4 (1.4)
+13 (4.5)
+1 (0.4)
+
+125 (55.1)
+84 (37.0)
+2 (0.9)
+16 (7.1)
+0 (0)
+
+P
+
+⬍.001
+
+.141
+
+Rotavirus-Related Hospitalization Rate
+The estimated rotavirus-related hospitalization rate was
+22.5 admissions per 10 000 children ⬍3 years of age in
+the 3 surveillance counties, with a 95% CI of 19.2 to
+25.7 admissions per 10 000 children. Rotavirus hospitalization rates varied according to NVSN site, with 23.1
+admissions per 10 000 children ⬍3 years of age (95% CI:
+17.2–28.7 admissions per 10 000 children) in Davidson
+County, Tennessee (Vanderbilt), 30.9 admissions per
+10 000 children ⬍3 years of age (95% CI: 24.6 –36.9
+admissions per 10 000 children) in Hamilton County,
+Ohio (Cincinnati), and 11.8 admissions per 10 000 children ⬍3 years of age (95% CI: 8.1–15.1 admissions per
+10 000 children) in Monroe County, New York (Rochester) (Fig 2).
+According to age category, the weighted hospitalization rates for rotavirus were lowest for children 30 to 36
+months of age (7.1 admissions per 10 000 children) and
+highest for children 12 to 18 months of age (42.5 admissions per 10 000 children) (Fig 3). Comparatively, the
+30- to 36-month-old category also had the lowest hospitalization rate for rotavirus-negative AGE (7.0 admissions per 10 000 children), but hospital rates for infections with nonrotavirus pathogens peaked in the first 6
+months of life (54.7 admissions per 10 000 children).
+The hospitalization rate attributed to rotavirus was highest during the months of February (70.3 admissions per
+10 000 child-years), March (111.3 admissions per 10 000
+child-years), and April (46.9 admissions per 10 000 childyears), whereas the surveillance months of January, May,
+and June averaged 13.8 admissions per 10 000 child-years
+(Fig 4).
+
+⬍.001
+
+.196
+
+.207
+
+.918
+
+⬍.001
+
+P values were determined for ␹2 tests.
+
+group (P ⬍ .001) and insurance status (P ⬍ .001) (Table
+2). The mean age of rotavirus-positive children was 13.6
+months (SD: 8.2 months), compared with a mean age of
+11.7 months (SD: 9.4 months) for rotavirus-negative
+
+Hospital Rate
+
+ED Rate
+
+FIGURE 2
+Rotavirus-related AGE hospitalization and ED visit rates per 10 000
+children ⬍3 years of age, according to NVSN site.
+
+Rotavirus AGE rate per 10,000
+children <3 yrs
+
+450
+400
+401.5
+
+350
+357.3
+
+300
+301.0
+
+250
+200
+150
+100
+50
+
+131.1
+22.5
+
+23.1
+
+30.9
+
+0
+Total
+
+Davidson Co, TN
+
+Hamilton Co, OH
+
+11.8
+Monroe Co, NY
+
+NVSN Site
+
+1238
+
+PAYNE et al
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+
+
+Rotavirus AGE
+
+Non-rotavirus AGE
+
+FIGURE 3
+Rotavirus-related and non–rotavirus-related AGE hospitalization rates per
+10 000 children ⬍3 years of age, with 95% CIs, according to age group.
+
+Hospitalization rate per 10 000
+children < 3 yrs
+
+70
+60
+50
+40
+30
+20
+10
+0
+<6
+
+6 - < 12
+
+12 - < 18
+
+18 - < 24
+
+24 - < 30
+
+30 - < 36
+
+Age, mos
+
+Rotavirus-Related ED and Outpatient Visit Rates
+In active, population-based, NVSN surveillance, 301.0
+per 10 000 children ⬍3 years of age had ED visits attributable to rotavirus-related AGE. Our directly obtained
+rate was higher than the 3-year average rate we calculated from NHAMCS data (171.7 ED visits per 10 000
+children ⬍3 years of age for January to June, 2003–
+2005; 95% CI: 136.5–207.0 ED visits per 10 000 children). Between 2005 and 2003, single-year national ED
+rates from NHAMCS data ranged from 140.0 ED visits
+per 10 000 children (95% CI: 78.7–201.2 ED visits per
+10 000 children) to 205.9 ED visits per 10 000 children
+(95% CI: 136.7–275.1 ED visits per 10 000 children).
+NVSN ED rates for rotavirus-related AGE among chil-
+
+A
+
+Hospitalization rate per 10 000 child
+years aged <3 yrs
+
+Total Hospital Rate
+
+Davidson Co, TN
+
+Hamilton Co, OH
+
+dren ⬍3 years of age varied across the NVSN sites, that
+is, 357.3 ED visits per 10 000 children for Davidson
+County, Tennessee, 401.5 ED visits per 10 000 children
+for Hamilton County, Ohio, and 131.1 ED visits per
+10 000 children for Monroe County, New York (Fig 2).
+Consistent with the seasonal pattern for rotavirus hospitalizations, the ED visit rate for rotavirus-related AGE
+was highest during the months of February (858.3 ED
+visits per 10 000 children), March (1557.1 ED visits per
+10 000 children), and April (727.0 ED visits per 10 000
+children), compared with an average rate of 156.7 ED
+visits per 10 000 children for January, May, and June
+(Fig 4). Among NVSN sentinel outpatient clinics, the rate
+of outpatient visits attributable to rotavirus gastroenter-
+
+Monroe Co, NY
+
+150
+120
+90
+60
+30
+0
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+May
+
+Jun
+
+mo, 2006
+
+B
+
+ED and Hospitalization rates per
+10 000 child years aged <3 yrs
+
+Hospital rate
+
+ED rate
+
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+0
+Jan
+
+Feb
+
+Mar
+
+Apr
+mo, 2006
+
+FIGURE 4
+Rotavirus-related AGE hospitalization rates per 10 000 child-years for children ⬍3 years of age, according to month and NVSN site (A), and comparison of hospitalization and ED rates
+per 10 000 child-years for children ⬍3 years of age, according to month (B).
+
+PEDIATRICS Volume 122, Number 6, December 2008
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+1239
+
+
+
+Number (%) Among AGE,
+Rotavirus-Negative n=289
+
+Number (%) Among AGE,
+Rotavirus-Positive n=227
+
+Vomiting
+Diarrhea
+
+Vomiting
+Diarrhea
+
+FIGURE 5
+23
+Venn diagram of diarrhea, vomiting, and fever for rotavirus-negative AGE(8%)
+surveillance subjects versus rotavirus-positive subjects.
+39
+(14%)
+
+61
+(21%)
+120
+(42%)
+
+0
+Fever
+
+itis was 311.9 outpatient visits per 10 000 children ⬍3
+years of age (95% CI: 199.0 – 424.9 outpatient visits per
+10 000 children).
+Rotavirus Severity
+Rotavirus-related AGE symptoms were generally more
+serious than non–rotavirus-related AGE symptoms and
+were more likely to include vomiting (95% vs 79%; P ⬍
+.001), diarrhea (92% vs 84%; P ⫽ .006), fever (78% vs
+63%; P ⫽ .001), and lethargy (53% vs 27%; P ⬍ .001).
+The average number of vomiting episodes per day was
+higher for rotavirus-related AGE cases, compared with
+non–rotavirus-related AGE cases (7.5 vs 5.6 episodes per
+day; P ⬍ .001), as was the average number of diarrheal
+episodes per day (9.0 vs 6.4 episodes per day; P ⫽ .001).
+Symptoms of AGE illness for rotavirus-positive and rotavirus-negative AGE surveillance subjects are illustrated in Fig 5 (it should be noted that fever was not a
+surveillance inclusion requirement). More than 70%
+of rotavirus-positive subjects had combined symptoms of
+diarrhea, vomiting, and fever, compared with 42% of
+rotavirus-negative AGE surveillance subjects. A rotavirus-positive presentation of diarrhea alone was rare
+(0.4%), but this symptom was present alone for 8% of
+the rotavirus-negative surveillance subjects. No deaths
+occurred among our surveillance subjects.
+
+21
+(7%)
+25
+(9%)
+
+1
+(0%)
+11
+(5%)
+
+37
+(16%)
+158
+(70%)
+
+10
+(4%)
+8
+(4%)
+
+0
+Fever
+
+Strain Detection
+Among the 225 rotavirus-positive specimens submitted
+to the CDC for strain identification with RT-PCR techniques, the most prevalent strain observed was genotype
+P[8]G1 (189 specimens, 84.0%), followed distantly by
+P[4]G2 (11 specimens, 4.9%) and P[6]G12 (8 specimens, 3.6%). P[6]G1 was detected less commonly (4
+specimens, 1.8%), and 1 observation (0.4%) was noted
+for each of the following: P[8]G2, P[8]G12, P[6]G9, and
+P[4]G1. Four percent of our sample had mixed rotavirus
+infections with ⬎1 genotype (Fig 6).
+DISCUSSION
+This study clearly illustrates the substantial health burden of rotavirus-related AGE among US children and the
+potential benefits of vaccination. Laboratory-confirmed
+rotavirus infections accounted for 50% of all AGE hospitalizations and ED visits and 27% of AGE outpatient
+visits during our 6 months of active surveillance. With
+extrapolation of our population-based findings from
+these 3 counties to US children ⬍3 years of age for the
+purpose of comparison, our overall hospitalization rate
+of 22.5 hospitalizations per 10 000 children would translate to ⬃27 000 rotavirus hospitalizations per year and
+our ED rate of 301.0 ED visits per 10 000 children would
+translate to ⬎361 000 ED visits per year. Our sentinel
+
+FIGURE 6
+Rotavirus serotypes detected from rotavirus-positive specimens
+(n ⫽ 225).
+
+1240
+
+PAYNE et al
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+
+
+1 in 11 children visited an
+emergency department for
+rotavirus
+
+FIGURE 7
+Estimates of annual rotavirus infection burden for US children ⬍3 years of age,
+approximated from CDC NVSN data, 2006.
+
+1 in 11 children visited an
+outpatient clinic for rotavirus
+1 in 150 children were
+hospitalized for rotavirus
+
+outpatient clinic rate of 311.9 visits per 10 000 would
+approximate 374 000 outpatient visits per year attributable to rotavirus-related AGE among US children ⬍3
+years of age. With application to a US birth cohort of 4
+million, each year rotavirus-related AGE would be expected to cause 1 in 150 US children ⬍3 years of age to be
+hospitalized and 1 in 11 to visit either an ED or an outpatient clinic (Fig 7). Furthermore, children with rotavirusrelated AGE exhibited symptoms (diarrhea, vomiting, fever, and lethargy) with significantly greater frequency and
+intensity than did those with non–rotavirus-related AGE,
+which emphasizes the severity and health burden of this
+disease. More than 8 in 10 of our patients with laboratoryconfirmed rotavirus, all of whom were unvaccinated in this
+baseline surveillance year, were ⬎6 months of age, when
+the rotavirus vaccine series would be completed, which
+indicates that an effective vaccine should prevent a substantial proportion of severe rotavirus-related disease.
+Our finding that 50% of children ⬍3 years of age who
+were hospitalized for AGE in January to June had laboratory-confirmed rotavirus demonstrates, as suspected,
+that the rotavirus-specific International Classification of
+Diseases, 9th Revision, Clinical Modification code likely
+captures only a fraction of all rotavirus-related hospitalizations. Previous studies using health care utilization
+data reported substantially smaller proportions (12%–
+20%) of AGE hospital discharges coded as rotavirus.17,18
+However, Staat et al,8 in direct surveillance of children
+⬍5 years of age hospitalized with AGE, noted a rotavirus
+detection rate of 56% during the rotavirus season, and
+Canadian surveillance indicated that ⬃40% of ED visits
+attributable to AGE during the winter rotavirus season
+are rotavirus-positive.19 Our rotavirus detection rates are
+consistent with both of those studies. Our report that
+27% of sentinel outpatient AGE visits among children
+⬍3 years of age were attributable to laboratory-confirmed rotavirus infection is lower than the value of 40%
+reported by Coffin et al20 but still indicates a sizeable
+burden of rotavirus in pediatric outpatient practices,
+
+similar to national burden estimates produced by
+Parashar et al.1
+When we extrapolated our active, population-based,
+surveillance data to US children ⬍3 years of age, we
+noted that our estimation of rotavirus-attributable US
+hospitalization rates, although substantial, was lower
+than recent indirect measures from national data sets,
+which calculated rates for US children ⬍5 years of age of
+47 000 to 67 000 hospitalizations per year4,5,18,21; the age
+difference would be expected to result in NVSN hospitalization rates ⬃10% to 15% lower than these national
+values. Some of the variation might be explained by the
+underlying assumptions used for national data set analyses, such as assumptions regarding the proportions of
+medically attended AGE cases that are rotavirus-positive. Nonetheless, our measure of rotavirus hospitalization burden seems to be considerably offset by our estimated finding of 361 000 US ED visits per year
+attributable to rotavirus, a figure higher than existing
+national estimates (205 000 –272 000 ED visits per
+year1). In our own comparison, our NVSN rate for rotavirus-attributable ED visits was higher than indirect ED
+rates we calculated from the most recently available
+national data for children ⬍3 years of age (NHAMCS,
+January to June, 2003–2005), although there was substantial fluctuation in national rates over this 3-year
+period (140.0 –205.9 ED visits per 10 000 children ⬍3
+years of age). Our single-year observations from NVSN
+data might reflect the considerable annual rate fluctuations seen on the national level or might indicate other
+health care utilization dynamics, such as possible substitution of disease burden between hospital and ED health
+care settings at NVSN sites. Hospital and ED rates varied
+substantially according to NVSN site, but the ratios of ED
+rates to hospital rates remained similar (ED rates 11–15
+times higher than hospitalization rates). It is notable that
+the rates of ED visits and outpatient clinic visits attributable to rotavirus-related AGE were similar, and our
+data portray rotavirus as posing a very large and typically
+PEDIATRICS Volume 122, Number 6, December 2008
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+1241
+
+
+
+underappreciated burden of disease in the ED setting.
+Overall, these data confirm that disease rates for population-based rotavirus surveillance in both hospital and
+ED health care settings is needed to gauge fully the
+burden of severe rotavirus-related AGE, and they suggest that additional study of rotavirus-related ED burden
+is warranted.
+Approximately 96% of the circulating strains we detected had either a G or P antigen directly included in
+Merck’s pentavalent rotavirus vaccine RotaTeq, the current, US-licensed, rotavirus vaccine. A monovalent rotavirus vaccine which obtained US licensure in 2008,
+Rotarix (GlaxoSmithKline Biologicals, Rixensart, Belgium), contains a single attenuated human rotavirus
+strain (P[8]G1) that was directly observed in 84% of our
+specimens and corresponded to either a G or P antigen
+for ⬃91% of our circulating strains. Some degree of
+protection against severe infection by other rotavirus
+types has been indicated in clinical trials.22
+Compared with US national laboratory rotavirus
+strain surveillance results from 1996 –1999,23 we more
+frequently detected the strain P[8]G1 (84.0% vs 75.5%).
+We found a comparatively smaller proportion of P[4]G2
+(4.9% vs 10.9%). Of the strains usually described as
+“uncommon” in the United States, we reported fewer
+P[6]G9-positive test results (0.4% vs 3.2%), but otherwise our results were comparable to national surveillance data. We detected 2 strains that have been hypothesized to represent globally emerging serotypes, on the
+basis of increasing detection in recent years,11,24 that is,
+P[8]G12 (0.4%) and P[6]G12 (3.6%). The single case of
+P[8]G12 was observed in Hamilton County, Ohio (Cincinnati), and P[6]G12 cases were observed in all 3 surveillance areas. Children for whom mixed rotavirus infections were detected (4.0%) might have had
+concomitant acute rotavirus infections or, perhaps an
+acute rotavirus infection combined with rotaviral shedding from an earlier infection. Continued surveillance is
+necessary to measure trends in circulating rotavirus
+strains from year to year, to monitor for possible changes
+resulting from implementation of vaccination, and to
+assess the effectiveness of vaccination against different
+strains.
+Some limitations should be considered in the interpretation of our findings. First, this report summarizes
+results from only 1 season of AGE surveillance. Considerable geographic and temporal variations in rotavirus
+activity are known to occur,25,26 and we observed this
+apparent natural variability across the 3 surveillance
+sites. It remains to be seen how the impact of widespread
+vaccination may modify this geographic and temporal
+phenomenon in future rotavirus seasons. Second, although we conducted population-based surveillance in
+counties located in Southern, Midwestern, and Northeastern states, extrapolations to the US population have
+been used for comparative purposes, and these locations
+may not be representative of the entire US population.
+Compared with the US population of children ⬍3 years
+of age from the 2000 US Census, the ⬃85 000 children
+living in the 3 NVSN counties were similar in distribution according to age, gender, and white race. However,
+1242
+
+PAYNE et al
+
+children in these NVSN catchment areas were less likely
+to be Hispanic (6% in the NVSN areas, compared with
+20% in the United States) and were more likely to be
+black (27% in the NVSN areas, compared with 14% in
+the United States). Third, study enrollment was limited
+to children whose parent or guardian consented to the
+study in English. The difference in enrollment according
+to Hispanic ethnicity that we observed led us to develop
+a Spanish-language consent form and interview, to facilitate inclusion of non–English-speaking Hispanic parents or guardians in future surveillance. Fourth, because
+of logistic constraints, we conducted surveillance during
+6 calendar months encompassing the winter season,
+when rotavirus is usually most prevalent. On the basis of
+the historical seasonal patterns of rotavirus disease in the
+United States, we are confident that we captured the
+vast majority of rotavirus cases at these 3 surveillance
+sites, although our rotavirus-related AGE rates are likely
+underestimated if we failed to capture cases outside the
+surveillance period. Fifth, our demonstration of disease
+severity did not include a clinical assessment of dehydration status.
+By August 2008, ⬎21 million doses of rotavirus vaccine had been distributed throughout the United
+States.27 As the proportion of US infants vaccinated for
+rotavirus increases, our NVSN surveillance platform continues to collect prospective epidemiological, clinical,
+and laboratory data in hospital and ED settings and in
+sentinel outpatient clinics. Using parental interviews,
+medical chart abstractions, laboratory confirmation of
+rotavirus disease status, and identification of rotavirus
+genotypes by using RT-PCR, NVSN is uniquely prepared
+to monitor the impact of vaccination on epidemiological
+and clinical disease trends, to detect changes in circulating viral genotypes, and to make robust assessments of
+population-based postmarketing vaccine effectiveness.
+During this last rotavirus season prior to the widespread implementation of the US rotavirus vaccine program, NVSN surveillance directly confirms the rotavirusrelated AGE has a significant health burden among US
+children. This provides important baseline information
+on the epidemiological and clinical features of severe
+rotavirus-related AGE, should allow assessment of the
+impact of vaccination in the future.
+ACKNOWLEDGMENTS
+We extend special acknowledgment to Elizabeth Teel
+and Jennifer Hull (CDC), who performed the rotavirus
+genotyping, to Dr Marika Iwane (CDC), for NVSN methodologic and technical expertise, and to the NVSN site
+coordinators for AGE surveillance, Diane Kent (Vanderbilt University Medical Center), Michol Holloway (Cincinnati Children’s Hospital Medical Center), and Dr
+Gerry Loftus (University of Rochester School of Medicine and Dentistry), who managed study enrollment,
+data collection, and laboratory coordination at the NVSN
+sites.
+REFERENCES
+1. Parashar UD, Alexander JP, Glass RI; Advisory Committee on
+Immunization Practices; Centers for Disease Control and Pre-
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+vention. Prevention of rotavirus gastroenteritis among infants
+and children: recommendations of the Advisory Committee on
+Immunization Practices (ACIP). MMWR Recomm Rep. 2006;
+55(RR-12):1–13
+Parashar UD, Holman RC, Clarke MJ, et al. Hospitalizations
+associated with rotavirus diarrhea in the United States, 1993
+through 1995: surveillance based on the new ICD-9-CM rotavirus-specific diagnostic code. J Infect Dis. 1998;177(1):13–17
+Tucker AW, Haddix AC, Bresee JS, et al. Cost-effectiveness
+analysis of a rotavirus immunization program for the United
+States. JAMA. 1998;279(17):1371–1376
+Charles MD, Holman RC, Curns AT, et al. Hospitalizations
+associated with rotavirus gastroenteritis in the United States,
+1993–2002. Pediatr Infect Dis J. 2006;25(6):489 – 493
+Malek MA, Curns AT, Holman RC, et al. Diarrhea- and rotavirus-associated hospitalizations among children less than 5
+years of age: United States, 1997 and 2000. Pediatrics. 2006;
+117(6):1887–1892
+Kilgore PE, Holman RC, Clarke MJ, Glass RI. Trends of diarrheal disease-associated mortality in US children, 1968
+through 1991. JAMA. 1995;274(14):1143–1148
+Parashar UD, Hummelman EG, Bresee JS, et al. Global illness
+and deaths caused by rotavirus disease in children. Emerg Infect
+Dis. 2003;9(5):565–572
+Staat MA, Azimi PH, Berke T, et al. Clinical presentations of
+rotavirus infection among hospitalized children. Pediatr Infect
+Dis J. 2002;21(3):221–227
+Gouvea V, Glass RI, Woods P, et al. Polymerase chain reaction
+amplification and typing of rotavirus nucleic acid from stool
+specimens. J Clin Microbiol. 1990;28(2):276 –282
+Gentsch JR, Glass RI, Woods P, et al. Identification of group A
+rotavirus gene 4 types by polymerase chain reaction. J Clin
+Microbiol. 1992;30(6):1365–1373
+Griffin DD, Nakagomi T, Hoshino Y, et al. Characterization of
+nontypeable rotavirus strains from the United States: identification of a new rotavirus reassortant (P2A[6], G12) and rare
+P3[9] strains related to bovine rotaviruses. Virology. 2002;
+294(2):256 –269
+Das BK, Gentsch JR, Cicirello HG, et al. Characterization of
+rotavirus strains from newborns in New Delhi, India. J Clin
+Microbiol. 1994;32(7):1820 –1822
+Iwane MK, Edwards KM, Szilagyi PG, et al. Population-based
+surveillance for hospitalizations associated with respiratory
+syncytial virus, influenza virus, and parainfluenza viruses
+among young children. Pediatrics. 2004;113(6):1758 –1764
+Poehling KA, Edwards KM, Weinberg GA, et al. The underrecognized burden of influenza in young children. N Engl J Med.
+2006;355(1):21–30
+
+15. National Center for Health Statistics. National Hospital Ambulatory Health Care Data. Available at: www.cdc.gov/nchs/
+about/major/ahcd/ahcd1.htm. Accessed September 20, 2007
+16. National Center for Health Statistics. US Census populations
+with bridged race categories. Available at: www.cdc.gov/nchs/
+about/major/dvs/popbridge/popbridge.htm. Accessed September 20, 2007
+17. Hsu V, Staat MA, Roberts N, et al. Use of active surveillance to
+validate International Classification of Diseases code estimates of
+rotavirus hospitalizations in children. Pediatrics. 2005;115(1):
+78 – 82
+18. Fischer TK, Viboud C, Parashar U, et al. Hospitalizations and
+deaths from diarrhea and rotavirus among children ⬍5 years of
+age in the United States, 1993–2003. J Infect Dis. 2007;195(8):
+1117–1125
+19. Waters V, Ford-Jones EL, Petric M, et al. Etiology of community-acquired pediatric viral diarrhea: a prospective longitudinal study in hospitals, emergency departments, pediatric practices and child care centers during the winter rotavirus
+outbreak, 1997–1998. Pediatr Infect Dis J. 2000;19(9):843– 848
+20. Coffin SE, Elser J, Marchant C, et al. Impact of rotavirus
+gastroenteritis on pediatric outpatient practices in the United
+States. Pediatr Infect Dis J. 2006;25(7):584 –589
+21. Widdowson MA, Meltzer MI, Zhang X, et al. Cost-effectiveness
+and potential impact of rotavirus vaccination in the United
+States. Pediatrics. 2007;119(4):684 – 697
+22. Vesikari T, Karvonen A, Prymula R, et al. Efficacy of human
+rotavirus vaccine against rotavirus gastroenteritis during the
+first 2 years of life in European infants: randomized, doubleblinded controlled study. Lancet. 2007;370(9601):1757–1763
+23. Griffin DD, Kirkwood CD, Parashar UD, et al. Surveillance of
+rotavirus strains in the United States: identification of unusual
+strains. J Clin Microbiol. 2000;38(7):2784 –2787
+24. Das S, Varghese V, Chaudhury S, et al. Emergence of novel
+human group A rotavirus G12 strains in India. J Clin Microbiol.
+2003;41(6):2760 –2762
+25. LeBaron CW, Lew J, Glass RI, et al. Annual rotavirus epidemic
+patterns in North America: results of a five-year retrospective
+survey of 88 centers in Canada, Mexico, and the United States.
+JAMA. 1990;264(8):983–988
+26. Turcios RM, Curns AT, Holman RC, et al. Temporal and geographic trends of rotavirus activity in the United States,
+1997–2004. Pediatr Infect Dis J. 2006;25(5):451– 454
+27. Haber P, Patel M, Hua W, et al. Monitoring intussusception
+following RotaTeq vaccination. Data from the US Vaccine Adverse Event Reporting System, 2/2006 – 01/2008. Presented at
+the ICAAC/IDSA 2008 Joint Meeting; October 25–28, 2008;
+Washington DC
+
+PEDIATRICS Volume 122, Number 6, December 2008
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+1243
+
+
+
+Active, Population-Based Surveillance for Severe Rotavirus Gastroenteritis in
+Children in the United States
+Daniel C. Payne, Mary Allen Staat, Kathryn M. Edwards, Peter G. Szilagyi, Jon R.
+Gentsch, Lauren J. Stockman, Aaron T. Curns, Marie Griffin, Geoffrey A. Weinberg,
+Caroline B. Hall, Gerry Fairbrother, James Alexander and Umesh D. Parashar
+Pediatrics 2008;122;1235
+DOI: 10.1542/peds.2007-3378
+Updated Information &
+Services
+
+including high resolution figures, can be found at:
+http://pediatrics.aappublications.org/content/122/6/1235.full.h
+tml
+
+References
+
+This article cites 24 articles, 14 of which can be accessed free
+at:
+http://pediatrics.aappublications.org/content/122/6/1235.full.h
+tml#ref-list-1
+
+Citations
+
+This article has been cited by 14 HighWire-hosted articles:
+http://pediatrics.aappublications.org/content/122/6/1235.full.h
+tml#related-urls
+
+Subspecialty Collections
+
+This article, along with others on similar topics, appears in
+the following collection(s):
+Infectious Disease & Immunity
+http://pediatrics.aappublications.org/cgi/collection/infectious_
+disease
+
+Permissions & Licensing
+
+Information about reproducing this article in parts (figures,
+tables) or in its entirety can be found online at:
+http://pediatrics.aappublications.org/site/misc/Permissions.xht
+ml
+
+Reprints
+
+Information about ordering reprints can be found online:
+http://pediatrics.aappublications.org/site/misc/reprints.xhtml
+
+PEDIATRICS is the official journal of the American Academy of Pediatrics. A monthly
+publication, it has been published continuously since 1948. PEDIATRICS is owned, published,
+and trademarked by the American Academy of Pediatrics, 141 Northwest Point Boulevard, Elk
+Grove Village, Illinois, 60007. Copyright © 2008 by the American Academy of Pediatrics. All
+rights reserved. Print ISSN: 0031-4005. Online ISSN: 1098-4275.
+
+Downloaded from pediatrics.aappublications.org at University of Illinois at Chicago Library on March 22, 2012
+
+

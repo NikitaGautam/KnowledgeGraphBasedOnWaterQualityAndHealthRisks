@@ -1,0 +1,5178 @@
+International Journal of
+
+Environmental Research
+and Public Health
+Review
+
+Relationships between Microbial Indicators and
+Pathogens in Recreational Water Settings
+Asja Korajkic 1, *, Brian R. McMinn 1 and Valerie J. Harwood 2
+1
+2
+
+*
+
+National Exposure Research Laboratory, Office of Research and Development, United States Environmental
+Protection Agency, 26 West Martin Luther King Drive, Cincinnati, OH 45268, USA; mcminn.brian@epa.gov
+Department of Integrative Biology, University of South Florida, 4202 East Fowler Ave, SCA 110, Tampa,
+FL 33620, USA; vharwood@usf.edu
+Correspondence: korajkic.asja@epa.gov
+
+Received: 16 November 2018; Accepted: 11 December 2018; Published: 13 December 2018
+
+
+
+
+Abstract: Fecal pollution of recreational waters can cause scenic blight and pose a threat to public
+health, resulting in beach advisories and closures. Fecal indicator bacteria (total and fecal coliforms,
+Escherichia coli, and enterococci), and alternative indicators of fecal pollution (Clostridium perfringens
+and bacteriophages) are routinely used in the assessment of sanitary quality of recreational waters.
+However, fecal indicator bacteria (FIB), and alternative indicators are found in the gastrointestinal
+tract of humans, and many other animals and therefore are considered general indicators of fecal
+pollution. As such, there is room for improvement in terms of their use for informing risk assessment
+and remediation strategies. Microbial source tracking (MST) genetic markers are closely associated
+with animal hosts and are used to identify fecal pollution sources. In this review, we examine
+73 papers generated over 40 years that reported the relationship between at least one indicator
+and one pathogen group or species. Nearly half of the reports did not include statistical analysis,
+while the remainder were almost equally split between those that observed statistically significant
+relationships and those that did not. Statistical significance was reported less frequently in marine
+and brackish waters compared to freshwater, and the number of statistically significant relationships
+was considerably higher in freshwater (p < 0.0001). Overall, significant relationships were more
+commonly reported between FIB and pathogenic bacteria or protozoa, compared to pathogenic
+viruses (p: 0.0022–0.0005), and this was more pronounced in freshwater compared to marine.
+Statistically significant relationships were typically noted following wet weather events and at
+sites known to be impacted by recent fecal pollution. Among the studies that reported frequency
+of detection, FIB were detected most consistently, followed by alternative indicators. MST markers
+and the three pathogen groups were detected least frequently. This trend was mirrored by reported
+concentrations for each group of organisms (FIB > alternative indicators > MST markers > pathogens).
+Thus, while FIB, alternative indicators, and MST markers continue to be suitable indicators of fecal
+pollution, their relationship with waterborne pathogens, particularly viruses, is tenuous at best
+and influenced by many different factors such as frequency of detection, variable shedding rates,
+differential fate and transport characteristics, as well as a broad range of site-specific factors such
+as the potential for the presence of a complex mixture of multiple sources of fecal contamination
+and pathogens.
+Keywords: recreational water; fecal indicators; pathogens; relationships
+
+1. Introduction
+Approximately 39% of the United States (US) population and more than 50% of the global
+population live near a coastal area [1,2]. Coastal tourism accounts for 85% of all tourism revenue
+Int. J. Environ. Res. Public Health 2018, 15, 2842; doi:10.3390/ijerph15122842
+
+www.mdpi.com/journal/ijerph
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+2 of 39
+
+in the US [3], with the average beachgoer spending ~$35 per beach visit [4], resulting in a massive
+contribution to local economy and national gross domestic product [5,6]. During 2013, approximately
+10% of US beach samples (out of total 116,230 samples collected) at 3485 beaches exceeded the US
+Environmental Protection Agency beach action value (BAV) for fecal indicator bacteria (FIB), indicating
+unacceptable water quality [5]. Similarly, a more recent report for the European Union (EU) indicated
+that ~15% of beach samples failed to meet the most stringent “excellent” quality standard at nearly
+22,000 coastal beaches and inland sites across EU [7].
+Because of a wide array of potential pathogens and typically low concentrations in environmental
+waters, direct monitoring of waterborne pathogens can be costly, technically challenging, and in
+some cases not feasible. Therefore, recreational waters are typically monitored for FIB levels instead.
+Monitoring is intended to ensure that the water body is safe for human recreational contact, and the
+resulting data are used to determine whether beach advisories or closures are needed. General FIB such
+as total coliforms, fecal coliforms, Escherichia coli and enterococci have been used worldwide for over a
+century in sanitary assessment of recreational waters [8–12]. The type of FIB measured and values used
+in recreational water guidelines vary by country [13]. Other general fecal microorganisms, such as
+Clostridium perfringens and various bacteriophages, are considered alternative indicator organisms,
+and are also frequently measured in various water quality monitoring programs worldwide [13–19].
+However, FIB and alternative indicator organisms are common inhabitants of gastrointestinal tracts
+of mammals and birds [14,20], and their detection in environmental waters provides no information
+about the source of pollution. Considering that ambient waters can be influenced by multiple point
+and non-point pollution sources, identification of source is crucial for any remedial efforts and risk
+assessment determinations since not all fecal sources pose the same risk to human health. For example,
+human fecal pollution typically presents the greatest risk because of the possible presence of human
+viral pathogens, while cattle manure may be a close second because of the possible presence of zoonotic
+pathogens such as Cryptosporidium spp. and enteropathogenic E. coli [21]. Exposure to gull, chicken,
+and pig feces carries a known risk, because of possible presence of zoonotic pathogens associated
+with these animals including hepatitis E virus [22], Campylobacter spp., Brucella spp., pathogenic E. coli
+and Salmonella spp. [23–25]. Microbial source tracking (MST) has emerged in response to a need to
+identify the source(s) of fecal pollution to better safeguard human health and aid in remediation
+efforts. The majority of MST genetic markers target the 16S rRNA gene of Bacteroides spp., although
+some amplify other genes and, in some instances, viral targets [13,14]. Earlier technology centered on
+end-point PCR, which provides a binary, presence/absence result, but more recent studies estimate
+the concentration of a given MST genetic marker via real-time quantitative PCR (qPCR) [14]. Of note,
+more rapid technology in lieu of molecular enrichment followed by qPCR is also being developed for
+monitoring of Staphylococcus aureus and Pseudomonas aeruginosa, indicator species used to monitor the
+water quality in swimming pools [26].
+The majority of waterborne disease outbreaks associated with recreational use of untreated
+waters (e.g., lakes and oceans) are caused by pathogenic microorganisms including bacteria, parasites,
+and viruses, while chemicals (including toxins) accounted for approximately 6% of outbreaks with
+confirmed etiology [27]. Among the pathogenic bacteria, virulent Escherichia coli serotypes (e.g.,
+O157:H7), Campylobacter spp., Legionella spp., Shigella spp., Salmonella spp., and Pseudomonas spp. were
+most commonly identified etiologic agents [28–32]. While other protozoan species are occasionally
+identified as the cause (e.g., Naegleria spp.), [27,30], Cryptosporidium spp., followed by Giardia spp.
+are etiological agents for the majority of recreational waterborne outbreaks [28,29,31,32]. Regarding
+viral pathogens, noroviruses and adenoviruses were most frequently identified as causative agents
+in outbreaks where etiology was confirmed [27,30,32,33]. In treated waters (e.g., swimming pools
+and spas), Cryptosporidium spp. are most often identified as etiological agents [30–32], although
+noroviruses and adenoviruses are becoming more frequently detected [33]. It is important to note
+that etiological agents in nearly 30% of outbreaks in the US alone remain unidentified [27], and that
+sporadic recreational waterborne illnesses not associated with outbreaks are excluded from this report.
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+3 of 39
+
+Even though the concepts of FIB, alternative indicators, and MST markers were developed
+to indicate fecal contamination and its sources, the same paradigm is often employed to indicate
+pathogen presence under the assumption that indicators consistently covary with pathogen presence.
+The goals of this review are: (1) to examine reported relationships between various indicators and
+pathogen species to determine the feasibility of indicators as pathogen sentinels in recreational
+waters; and (2) to identify factors that affect this relationship (or lack thereof). In addition, we
+also queried epidemiological studies to determine which indicator(s) most commonly correlated
+with illness in recreational waters. Our search criteria mandated that each study measured at least
+one indicator (FIB or alternative) or MST marker along with at least one pathogen. We focused
+on studies conducted in waters intended for primary human contact (e.g., swimming, wading,
+diving, Int.
+and
+surfing)
+such
+and swimming pools, but also included 3ambient
+waters
+J. Environ.
+Res. Public
+Health as
+2018,beaches
+15, x
+of 40
+used for secondary or non-contact (e.g., boating, fishing) human activities. Our methodology for
+the the
+feasibility
+of indicators
+as pathogen
+sentinels in“PubMed”
+recreational waters;
+and (2) to identify factors that affect
+collecting
+manuscripts
+involved
+querying
+(www.ncbi.nlm.nih.gov/pubmed/)
+and
+this relationship (or lack thereof). In addition, we also queried epidemiological studies to determine which
+“Googleindicator(s)
+Scholar”most
+(https://scholar.google.com/)
+databases for following keywords: “recreational
+commonly correlated with illness in recreational waters. Our search criteria mandated
+water pathogens”,
+“recreational
+water
+viral
+pathogens”,
+“recreational
+water
+pathogens”,
+that each study measured at least one indicator (FIB or alternative)
+or MST marker
+alongbacterial
+with at least
+one
+pathogen.
+We
+focused
+on
+studies
+conducted
+in
+waters
+intended
+for
+primary
+human
+contact
+(e.g.,
+swimming,
+“recreational water protozoan pathogens”, “recreational water fungal pathogens”, “swimming pools
+wading,
+diving, and surfing)
+such aspathogens”,
+beaches and swimming
+pools,pools
+but also
+included ambient
+waters“swimming
+used
+pathogens”,
+“swimming
+pools viral
+“swimming
+bacterial
+pathogens,
+for secondary or non-contact (e.g., boating, fishing) human activities. Our methodology for collecting the
+pools protozoan
+pathogens” and “swimming pools fungal pathogens” regardless of the year published.
+manuscripts involved querying “PubMed” (www.ncbi.nlm.nih.gov/pubmed/) and “Google Scholar”
+For the purposes
+of this review, databases
+a relationship
+is identified
+as a significant
+(e.g., Pearson
+(https://scholar.google.com/)
+for following
+keywords:
+“recreationalcorrelation
+water pathogens”,
+viral pathogens”,
+water
+bacterial
+water
+Product“recreational
+Momentumwater
+Correlation,
+Wilcoxon“recreational
+signed-rank
+tests)
+and/orpathogens”,
+significant“recreational
+predictive relationship
+protozoan
+pathogens”,
+“recreational
+water
+fungal
+pathogens”,
+“swimming
+pools
+pathogens”,
+“swimming
+(e.g., binary and other logistic regression modelling). Assumptions made in our analyses included
+pools viral pathogens”, “swimming pools bacterial pathogens, “swimming pools protozoan pathogens”
+the following:
+(1) all measurement strategies yielded equivalent results (e.g., various culture-based,
+and “swimming pools fungal pathogens” regardless of the year published. For the purposes of this review,
+molecular
+and
+microscopy
+were
+sensitive);
+and
+(2)Pearson
+data were
+notMomentum
+affected by
+characteristics
+a relationship
+is identified
+as equally
+a significant
+correlation
+(e.g.,
+Product
+Correlation,
+Wilcoxon
+signed-rank
+tests)
+and/or
+significant
+predictive
+relationship
+(e.g.,
+binary
+and
+other
+logistic
+of the water samples (e.g., we assumed that the water chemistry did not influence performance
+regression
+modelling).
+Assumptions
+made
+in
+our
+analyses
+included
+the
+following:
+(1)
+all
+measurement
+of the methods). In total, we collected 73 papers spanning over four decades of research from
+strategies yielded equivalent results (e.g., various culture-based, molecular and microscopy were equally
+25 countries:
+Argentina, Australia, Bolivia, Brazil, Canada, China, Cyprus, Democratic Republic of
+sensitive); and (2) data were not affected by characteristics of the water samples (e.g., we assumed that the
+Congo, water
+France,
+Greece,
+Italy, Japan,
+Luxembourg,
+Netherlands,
+chemistry
+did Germany,
+not influenceHungary,
+performanceIceland,
+of the methods).
+In total, we
+collected 73 papers
+spanning New
+four decades
+of research
+from 25Taiwan,
+countries:United
+Argentina,
+Australia,
+Bolivia,
+Brazil, Canada,
+China,
+Zealand,over
+Poland,
+Portugal,
+South Africa,
+Kingdom,
+US,
+and Venezuela.
+The
+majority of
+Cyprus,
+Democratic
+Republic
+of
+Congo,
+France,
+Greece,
+Germany,
+Hungary,
+Iceland,
+Italy,
+Japan,
+studies were conducted in freshwaters (lakes, rivers and streams), followed by marine/brackish
+Luxembourg, Netherlands, New Zealand, Poland, Portugal, South Africa, Taiwan, United Kingdom, US,
+waters and
+swimming pools (Figure 1). Since some studies were conducted in both fresh and
+and Venezuela. The majority of studies were conducted in freshwaters (lakes, rivers and streams), followed
+marine/brackish
+waters,
+they
+included
+in each
+water
+type
+in were
+Figure
+1. This
+resulted
+in a
+by marine/brackish
+waters
+andwere
+swimming
+pools (Figure
+1). Since
+some
+studies
+conducted
+in both
+fresh
+and
+marine/brackish
+waters,
+they
+were
+included
+in
+each
+water
+type
+in
+Figure
+1.
+This
+resulted
+in
+a
+total
+of
+total of 126 observations (i.e., report on a relationship between indicator and pathogen) since some
+observations
+(i.e.,in
+report
+on marine
+a relationship
+indicator
+and pathogen)
+sincemore
+some studies
+weretype of
+studies 126
+were
+conducted
+both,
+and between
+freshwater,
+and/or
+measured
+than one
+conducted in both, marine and freshwater, and/or measured more than one type of indicator or pathogen.
+indicator
+or pathogen. The majority of observations (n = 52) did not report any relationship between
+The majority of observations (n = 52) did not report any relationship between indicator(s) and pathogen(s),
+indicator(s)
+those
+that did,
+into relationships
+that
+were
+whileand
+thosepathogen(s),
+that did, were while
+split into
+relationships
+thatwere
+were split
+statistically
+significant (n = 30)
+and
+thosestatistically
+that
+were(nnot
+significant
+relationships
+the lack thereof)
+and rationale
+for the observed
+significant
+= (n
+30)= 44).
+andStatistically
+those that
+were not
+(n = 44). (or
+Statistically
+significant
+relationships
+(or the lack
+are further examined in the following sections.
+thereof)trends
+and rationale
+for the observed trends are further examined in the following sections.
+
+Figure 1. Documented relationships between various indicators and pathogens in freshwaters (n = 45),
+Figure 1. Documented relationships between various indicators and pathogens in freshwaters (n = 45),
+marine/brackish
+waters (n = 29) and swimming pools (n = 3).
+marine/brackish waters (n = 29) and swimming pools (n = 3).
+2. Relationships between Indicators and Pathogens in Recreational Waters
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+4 of 39
+
+2. Relationships between Indicators and Pathogens in Recreational Waters
+We queried studies conducted in marine, brackish, freshwater, and swimming pool waters
+meeting our search criteria for FIB, alternative indicators, MST markers, and pathogen data. FIB levels
+were typically reported as colony forming units (CFU), or most probable number (MPN), depending
+whether studies measured concentrations using membrane filtration on selective-differential media or
+defined substrate technology (e.g., Enterolert and Colilert), respectively (Tables 1 and 2). However,
+a few studies quantified general FIB using qPCR and expressed concentrations usually as gene copies
+per unit volume (Tables 1 and 2). Alternative indicators of fecal pollution such as C. perfringens
+and different bacteriophages [34] were also of interest for inclusion to assess their reliability for
+estimating pathogen presence compared to general FIB. C. perfringens was measured using membrane
+filtration on selective-differential media with concentrations expressed as CFU per unit volume, while
+bacteriophage concentrations were usually measured via single or double agar layer (SAL, DAL)
+techniques, with data expressed as plaque forming units (PFU) per unit volume (Table 3).
+Lastly, studies using molecular assays targeting MST markers were gathered to determine
+any potential relationships with pathogenic organisms. Depending on the detection assay used,
+MST data was reported as either presence/absence (end-point PCR) or as gene copies (qPCR)
+per unit volume. Assays for general MST markers included those targeting 16S rRNA gene of
+Bacteroidales spp. (i.e., Bac23F, GenBac3, AllBac), and pepper mild mottle viruses (PMMoV) (Table 4).
+For human-associated MST markers, most assays targeted 16S rRNA or other functional genes
+of Bacteroidales or Bacteroidales-like organisms (e.g., HF183, gyrB, Bfra, HF134, B. thetaiotamicron,
+BacHum-UCD, B. dorei, B. uniformis, B. stericoris, HumM2, HumM19), as well as 16S rRNA of human
+-associated C. coccoides, nifH gene of Methanobrevibacter smithii, and esp gene of Enterococcus faecium
+(Table 4). Bovine/ruminant-associated MST markers typically target 16S rRNA genes of Bacteroidales
+spp. (e.g., BacCow, CF128, and CF193) or toxin-genes of E. coli (e.g., LTIIa), while swine-associated
+MST markers target Bacteroidales spp. (e.g., PF163) or E. coli (e.g., STII) (Table 4). Since pets and
+waterfowl can influence water quality, dog-associated markers have been developed targeting 16S
+rRNA of Bacteroidales spp. (BacCan and DogBac), as well as seagull associated markers targeting 16S
+rRNA from Catelicoccus marimammalium or Bacteroides spp. (Gull) (Table 4).
+We also gathered data for various bacterial, viral, and protozoan pathogens. For bacterial
+pathogens, we collected data on 10 genera (Vibrio, Salmonella, Shigella, Mycobacteria, Pseudomonas,
+Escherichia, Aeromonas, Campylobacter, Legionella, and Listeria). Measurement strategies ranged from
+culture-based (data reported as CFU, MPN or presence/absence) to end-point PCR (presence/absence)
+and qPCR (gene copies) (Tables 1–4). For viral pathogens, we collected data on eight different species
+including enteroviruses, adenoviruses, noroviruses, hepatitis A and E, astroviruses, rotaviruses,
+reoviruses, and sapoviruses. Viral data were expressed as MPN (infectious viruses, ICC-[RT]-PCR),
+presence/absence (PCR) or gene copies (qPCR) (Tables 1–4). The most frequently measured protozoan
+pathogens, Cryptosporidium spp. and Giardia spp. (oo)cysts, were usually enumerated using
+immunomagnetic separation, followed by staining, although in some instances, qPCR was also
+performed (Tables 1–4). Enterocytozoon bieneusi was measured using similar detection methods to that
+of Cryptosporidium and Giardia (oo)cysts (Table 2), while two pathogenic amoeba species (Acanthamoeba
+spp. and Naegleria fowleri) were reported as presence/absence (i.e., PCR) (Table 1). Lastly, Candida
+spp. were enumerated using membrane filtration on selective-differential media and reported as
+CFU (Table 2). Sections below summarize our results regarding relationships that FIB, alternative
+indicators and MST markers have with pathogens and waterborne illness occurrence in freshwater,
+marine/brackish waters and swimming pools.
+3. FIB and Pathogens in Freshwater
+The relationships between FIB and various pathogens in freshwater, and the individual studies
+from which they were derived, are summarized in Table 1. Of the 41 studies, approximately one
+third (n = 18) [35–52] did not report any relationship between indicators and pathogens measured.
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+5 of 39
+
+Of the remaining 23 studies, thirteen reported positive relationship between at least one indicator
+and one pathogen [53–65], while ten did not find significant relationships [66–75]. Please see Table 1
+(“relationship” and “comments” columns) for summary of relationships and other comments regarding
+studies that found no significant relationship or those that did not report it.
+Studies that found significant, positive relationships most commonly reported it for
+Cryptosporidium/Giardia (oo)cysts and pathogenic E. coli spp., followed by Salmonella spp. and
+Campylobacter spp. (Table 1). Relationships were less frequently noted for Shigella spp. and
+adenoviruses, as well as non-fecal pathogens such as Legionella spp. and Acanthamoeba spp. (Table 1).
+E. coli was the FIB with the greatest number of significant relationships, followed by enterococci, fecal
+and total coliforms (Table 1). Significant relationships were reported between E. coli and pathogenic
+E. coli spp. (n = 7), Cryptosporidium/Giardia (oo)cysts (n = 6), Salmonella spp. (n = 6), Campylobacter
+spp. (n = 4), and adenoviruses (n = 2) (Table 1). Enterococci also had the greatest number of
+statistically significant relationships with pathogenic E. coli spp. (n = 5), Cryptosporidium/Giardia
+(oo)cysts (n = 4), Salmonella spp. (n = 3), Campylobacter spp. (n = 2), and adenoviruses (n = 1) (Table 1).
+Fecal coliforms correlated with pathogenic E. coli spp. (n = 5), followed by Salmonella spp. (n = 3),
+Cryptosporidium/Giardia (oo)cysts (n = 2), and Campylobacter and Shigella spp. (n = 1 each) (Table 1).
+Statistically significant relationships between total coliforms and different pathogens (pathogenic
+E. coli spp., Salmonella spp., Campylobacter spp., Legionella, and Acanthamoeba spp.) were reported only
+once for each pathogen (Table 1). The methodology employed did not appear to influence the outcome,
+as significant relationships were not more likely when both indicator and pathogen were measured by
+a similar technique (Table 1).
+The frequency of significant relationships of FIB with bacterial or protozoan pathogens was
+similar; however, significant relationships with viral pathogens were less frequent (Fisher’s exact test,
+p: 0.0005–0.0022). While lack of relationship between FIB and pathogenic viruses is not surprising
+given the enormous differences between the two groups in terms of persistence in the environment
+and low levels of viral pathogens typically found in ambient waters, correlations between FIB and
+protozoan pathogens are more difficult to understand. Interestingly, when Cryptosporidium and
+Giardia spp. were detected, they were generally present in higher concentrations compared to viral
+pathogens. Significant relationships were reported more commonly for rivers and streams compared
+to lakes [58–60,62], but this trend was not statistically significant (Fisher’s exact test, two-tailed
+p = 0.085). Correlations appeared to be influenced by weather conditions, as most occurred during wet
+seasons and/or following rainfall events [53,61,63,67,75]. Not surprisingly, correlations were also more
+likely following sewage spills and/or wastewater discharges [54,56,57,61] and in waters impacted
+by agricultural operations [57,61], likely due to elevated FIB concentrations, greater likelihood of
+pathogen presence and the potential for location to be dominated by single fecal source.
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+6 of 39
+
+Table 1. Relationships between fecal indicator bacteria and various pathogens in freshwater.
+Indicator(s) 1
+
+Pathogen(s) 1
+
+Location
+
+Relationship 2
+
+Comments
+
+Reference
+[35]
+
+E. coli a
+
+V. cholerae b , Salmonella spp. b ,
+Shigella spp. b
+
+Apies River and tributaries,
+South Africa
+
+NR
+
+All three pathogens frequently co-detected.
+Concentrations of E. coli and pathogens higher during
+wet season.
+
+E. coli a
+
+Cryptosporidium and
+Giardia (oo)cysts c
+
+Sure River and tributaries,
+Luxembourg
+
+Cryptosporidium and Giardia oo(cysts)
+correlated with each other and with E. coli.
+
+Cryptosporidium and Giardia oo(cysts) frequently co-detected.
+Concentrations highest during the wet season.
+
+[53]
+
+E. coli d
+
+M. avium d , P. aeruginosa d ,
+Salmonella spp. d
+
+“Aohai See” Lake, China
+
+No significant correlation.
+
+All three pathogens frequently co-detected.
+Different seasonal patterns observed for E. coli and all
+three pathogens.
+
+[66]
+
+E. coli e
+
+Campylobacter spp. a , Giardia and
+Cryptosporidium (oo)cysts c
+
+Avon River, New Zealand
+
+E. coli strongly correlated with the all
+three pathogens.
+
+All three pathogens frequently detected in samples where
+E. coli > 550 CFU.
+Higher concentrations of all pathogens found in samples
+during a large sewage discharge due to earthquake.
+
+[54]
+
+E. coli a
+
+Giardia and
+Cryptosporidium (oo)cysts c
+
+Canals connecting Rapipat and
+Rangsit canals, Thailand
+
+NR
+
+Highest levels of FIB and pathogens found in the most
+populated area.
+
+[36]
+
+E. coli e,d ,
+enterococci e,d
+
+Cryptosporidium and
+Giardia (oo)cysts c
+
+Chicago area waterways system,
+various rivers and lakes, USA states
+
+Stronger correlations between FIB and
+Giardia spp. than Cryptosporidium spp.
+
+Correlations generally stronger in samples not impacted by the
+wastewater effluent.
+Associations between pathogens and enterococci generally
+stronger than with E. coli
+
+[55]
+
+Fecal coliforms e ,
+E. coli e and
+enterococci e
+
+Pathogenic E. coli b
+
+St Joseph River and Galien River
+watersheds in Michigan and
+Indiana, USA
+
+No significant correlation.
+
+Two or more virulence genes frequently co-detected.
+Samples with lower FIB levels, typically had a lower
+proportion of virulence genes.
+
+[67]
+
+E. coli e , enterococci e
+
+Pathogenic E. coli b , Cryptosporidium
+and Giardia (oo)cysts c
+
+Various streams in
+Pennsylvania, USA
+
+FIB correlated with all pathogens.
+
+Samples exceeding recreational water quality guidelines more
+likely to contain pathogenic E. coli genes but not
+Cryptosporidium and Giardia (oo)cysts.
+Affected by non-point source and run-off following snow melt
+and rain events as well.
+
+[56]
+
+E. coli d
+
+S. enterica d , Aeromonas spp. d ,
+M. avium d , P. aeruginosa d
+
+Ao, Hong and Tao lakes in
+Beijing, China
+
+No significant correlation.
+
+E. coli and Aeromonas spp. co-detected in all samples.
+Higher concentrations of E. coli and pathogens in particle
+attached fraction of the sample.
+
+[68]
+
+Total coliforms a ,
+E. colia , enterococci a
+
+P. aeruginosa a
+
+Sauce Grande lagoon, Argentina
+
+NR
+
+Pseudomonas aeruginosa was co-detected with all FIB in
+all samples.
+All FIB positively correlated with temperature.
+
+[37]
+
+Total coliforms a , fecal
+coliforms a
+
+Human enteroviruses b ,
+adenoviruses b
+
+Altamaha River, USA
+
+No significant correlation.
+
+Viruses co-detected in 26% of samples.
+Presence of viruses directly related to dissolved oxygen and
+streamflow, but inversely related to temperature, rainfall in the
+last 30 days.
+
+[69]
+
+NR
+
+Presence of Salmonella spp., Staphylococcus aureus and
+enterococci frequently coincided with fecal coliform and E. coli
+levels above 1000 MPN/100 mL.
+Salmonella spp. not detected in drier, colder months when fecal
+coliform and E. coli levels were below 1000 MPN/100 mL.
+
+[38]
+
+Total coliforms a , fecal
+coliforms a , E. coli a ,
+enterococci e
+
+Salmonella spp. b , S. aureus b
+
+Msunduzi River, South Africa
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+7 of 39
+
+Table 1. Cont.
+Indicator(s) 1
+
+Pathogen(s) 1
+
+Location
+
+Relationship 2
+
+Comments
+
+Reference
+
+Only eaeA gene positively correlated
+with FIB.
+
+Multiple pathogenic genes co-detected in samples meeting and
+exceeding FIB guidelines.
+Some pathogenic genes also detected in three samples that met
+FIB guidelines.
+All sites known to be impacted by human fecal pollution and
+agricultural operations (upstream).
+
+[57]
+
+[70]
+
+Fecal coliforms e ,
+E. colie , enterococci e
+
+Pathogenic E. coli b
+
+Various rivers in Georgia, Kansas,
+Michigan, North Carolina,
+New Jersey, Ohio, South Dakota,
+Tennessee, Texas and Virginia, USA
+
+Enterococci e
+
+Campylobacter spp. d
+
+Various ponds, rivers and creeks in
+Florida, USA
+
+No significant correlation.
+
+Enterococci and Campylobacter spp. frequently co-detected, but
+enterococci were also detected in samples negative
+for Campylobacter.
+Florida DOH guidelines would not indicate
+Campylobacter spp. presence.
+
+Fecal coliforms e ,
+enterococci e
+
+Infectious enteroviruses a , total
+enteroviruses d , hepatitis A d ,
+Norwalk I and II d , astroviruses d ,
+rotaviruses d
+
+Rivers in France
+
+NR
+
+Infectious enteroviruses were not detected in samples with
+elevated fecal coliforms concentrations.
+Fecal coliforms, but not enterococci fluctuated seasonally.
+
+[39]
+
+Total coliforms e
+
+Legionella spp. d
+
+Hot spring recreational facilities,
+Taiwan
+
+NR
+
+Most samples failed to meet Taiwan CDC guidelines of 0 total
+coliforms per 100 mL.
+No Legionella spp. detected in two samples that met Taiwan
+CDC coliform guidelines.
+
+[40]
+
+E. coli a
+
+Pathogenic E. coli d ,
+Shigella spp. d , Salmonella spp. d ,
+C. jejuni d ,
+L. pneumophila d , L. monocytogenes d ,
+V. cholerae d , and
+V. parahaemolyticus d
+
+Various streams around Lake
+Miyajimanuma, Japan
+
+No significant correlation.
+
+Various pathogen genes frequently co-detected.
+Temporal variation in pathogen concentration was observed
+with higher levels detected in colder months and when geese
+were present (not significant).
+
+[71]
+
+E. coli d
+
+Human adenovirus d , Giardia and
+Cryptosporidium (oo)cystsc
+
+Rivers in France
+
+NR
+
+Highest concentration of adenovirus found at two urban sites.
+Generally higher concentration of Giardia compared to
+Cryptosporidium.
+
+[41]
+
+Total coliforms e
+
+Acanthamoeba spp. b,d ,
+Naegleria spp. b,d , Legionella spp. b,d
+
+Puzih River and two hot springs
+recreational facilities, Taiwan
+
+Acanthamoeba spp. and Legionella spp.
+significantly associated with total
+coliforms in hot spring samples but not
+river. No significant correlation for
+Naegleria spp.
+
+Legionella detection was significantly correlated with water
+temperature and more likely in the presence of
+Vermamoeba vermiformis.
+
+[58]
+
+E. coli a , enterococci a
+
+Human adenoviruses b,d ,
+noroviruses GII b , and
+enteroviruses b
+
+Danube, Berettyo, Koros and Tisza
+Rivers and two rivulets (Koloska
+and Keki), Hungary
+
+NR
+
+In ~1/3 of samples at least two viral targets were co-detected.
+~42%, 12% and 14% of designated recreational waters
+contained adenoviruses, enteroviruses and noroviruses.
+
+[42]
+
+E. coli a , enterococci e
+
+Salmonella spp. b
+
+Transitional and inland waters,
+Portugal
+
+Significant correlation commonly observed
+in waters classified as “poor” and
+“sufficient” but also seen in waters
+classified as “good” or “excellent”
+
+Higher geometric mean of FIB in Salmonella spp. positive
+samples than in Salmonella spp. negative samples.
+Even though significant correlation was reported, Salmonella
+was also detected in water samples with “good” and
+“excellent” water quality.
+
+[59]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+8 of 39
+
+Table 1. Cont.
+Indicator(s) 1
+Total coliforms e ,
+E. coli e
+
+Pathogen(s) 1
+Pathogenic E. coli b
+
+Location
+Sauce Chico River, El Belisario
+Stream and San Bernardo Stream,
+Argentina
+
+Relationship 2
+
+Comments
+
+Reference
+
+NR
+
+Shiga-toxin producing E. coli found in samples where E. coli
+counts generally exceeded or were close to the US EPA
+recommended limits.
+High E. coli counts correlated with rainy season.
+
+[43]
+
+[73]
+
+Total coliforms a ,
+fecal coliforms e
+
+Rotavirus b , human Adenovirus b ,
+human Astrovirus b , Norovirus b
+
+Rivers and streams, Brazil
+
+No significant correlation.
+
+Rotaviruses detected most frequently, followed
+by adenoviruses.
+The majority of samples exceeded recommendations for
+recreational waters from the standard methods used for the
+examination of water and wastewater of 5000 and 1000 MPN
+per 100 mL for total and fecal coliforms.
+
+E. coli e , enterococci e
+
+Pseudomonas spp. e
+
+Lake Ma Vallee, Democratic
+Republic of Congo
+
+NR
+
+Samples met European Directive 2006/7/CE for E. coli
+and enterococci.
+Pseudomonas spp. detected at only one site which coincidentally
+had the highest E. coli and enterococci concentrations.
+
+[44]
+
+E. coli a
+
+Pathogenic E. coli d , C. jejuni d ,
+Shigella spp. d , Salmonella spp. d
+
+Michigan, Superior, Huron and
+Erie lakes, USA
+
+Beach seasonal mean C, jejuni abundance
+correlated with beach seasonal E. coli
+concentration and at one beach pathogenic
+E. coli abundance was positively correlated
+with daily E. coli concentrations
+
+High degree of beach specific temporal variability in
+pathogenic gene concentrations.
+
+[60]
+
+Fecal coliforms a
+
+Pathogenic E. coli b , Shigella spp. b
+and Salmonella spp. b
+
+La Paz River basin, Bolivia
+
+The occurrence of pathogenic bacteria
+associated with fecal coliform densities.
+
+Approximately 50% of pathogenic bacteria resistant to at least
+two antibiotics.
+Pathogens were frequently detected during rainy season at
+sites impacted by anthropogenic activities.
+
+[61]
+
+E. coli a , enterococci a ,
+fecal coliforms a
+
+Cryptosporidium spp. c , Salmonella
+spp. b , Campylobacter spp. a
+
+Lake Parramatta, Australia
+
+NR
+
+Only Salmonella spp., detected sporadically in waters with
+relatively low FIB concentrations.
+FIB concentration higher during wet weather.
+
+[45]
+
+E. coli e
+
+d , adenovirus d , Cryptosporidium spp.
+
+River, lake ponds and a wadi in
+Netherlands
+
+NR
+
+Campylobacter spp. detected in all samples, Cryptosporidium spp.
+never detected, other pathogens detected sporadically.
+
+[46]
+
+[47]
+
+[62]
+
+Campylobacter spp. d , Legionella spp.
+d
+
+Fecal coliforms e ,
+E. colie , enterococci e
+
+Campylobacter spp. b ,
+Salmonella spp. b , E. coli O157:H7 d ,
+Cryptosporidium and Giardia
+(oo)cysts c , astroviruses b ,
+hepatitis A b and E b viruses,
+rotavirus b , norovirus b ,
+enterovirus b
+
+Canals and lakes, Netherlands
+
+NR
+
+Arboviruses, hepatitis A and E viruses and E. coli O157:H7
+were not detected in any of the samples. Rotavirus, norovirus,
+enterovirus Salmonella and Campylobacter spp.
+detected sporadically.
+Infectious enteroviruses found in one sample.
+Low concentration of Cryptosporidium and Giardia (oo)cysts
+detected in samples that complied with the European bathing
+water legislation.
+
+Total coliforms e
+
+L. pneumophila d
+
+Puzih River and hot spring
+recreational areas, Taiwan
+
+Total coliforms and L. pneumophila
+significantly correlated.
+
+L. pneumophila detected in > 90% of samples.
+L. pneumophila and total coliforms also correlated with turbidity.
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+9 of 39
+
+Table 1. Cont.
+Indicator(s) 1
+
+Pathogen(s) 1
+
+Location
+
+Relationship 2
+
+Comments
+
+Reference
+
+[74]
+
+E. coli e , enterococci e
+
+Shiga toxin genes d
+
+Lake Erie and tributaries, USA
+
+No significant correlation.
+
+Abundance and distributions of shiga-toxin genes
+highly variable.
+The majority of samples positive for shiga toxin genes were
+below the advisory threshold levels for E. coli and enterococci.
+
+E. coli e , enterococci e ,
+fecal coliforms e
+
+Cryptosporidium and
+Giardia (oo)cysts c , infectious
+enteroviruses a , Salmonella spp a
+
+Lake Carroll, Tampa, FL
+
+NR
+
+Higher concentrations of indicators and more frequent
+pathogen detection following rain events.
+
+[48]
+
+E. coli e
+
+Human adenovirus d , human
+enterovirus d , Norovirus GI and
+GII d
+
+Delaware Lake, Madison Lake and
+East Fork Lake, USA
+
+No significant correlation.
+
+Adenoviruses detected more frequently than enteroviruses,
+followed by noroviruses.
+Human adenovirus and enterovirus correlated.
+
+[72]
+
+[49]
+
+Campylobacter spp. a ,
+Salmonella spp. a , P. aeruginosa a ,
+Cryptosporidium and Giardia
+(oo)cysts c , Aeromonas spp. e
+
+River Ruhr and barrier lakes,
+Germany
+
+NR
+
+All sampling sites achieved “sufficient” bathing water quality
+for enterococci but not E. coli.
+With the exception of Aeromonas spp., detection of all other
+pathogens was sporadic.
+Precipitation preceding sampling event resulted in elevated
+concentration of total coliforms, E. coli, enterococci, Aeromonas
+spp. and Cryptosporidium and Giardia (oo)cysts.
+
+E. coli e , enterococci e
+
+Pseudomonas spp. e , Norovirus d
+
+Geothermal pools, Iceland
+
+NR
+
+High concentrations of Pseudomonas spp. detected in samples
+that also contained high FIB counts.
+Norovirus was not detected.
+
+[50]
+
+E. coli d , enterococci d
+
+S. aureus d , Salmonella spp. d ,
+noroviruses d
+
+Prickett Creek, USA
+
+NR
+
+No correlation between E. coli and enterococci.
+
+[51]
+
+Total coliforms e , fecal
+coliforms e , E. coli e ,
+enterococci e
+
+L. monocytogenes b , Salmonella spp. b ,
+E. coli O157:H7 b , Campylobacter
+spp. b , Cryptosporidium and
+Giardia (oo)cysts c
+
+South Nation River basin, Canada
+
+Weak relationships, but mostly positive
+(except L. monocytogenes).
+
+The fraction of samples that contained an indicator when
+pathogen was detected was highest for the protozoan parasites.
+Relationships dependent on season and site.
+
+[63]
+
+E. coli a , enterococci a
+
+Human adenoviruses b
+
+Various rivers and lakes in France,
+Germany, Italy, Netherlands, Poland,
+United Kingdom
+
+Concentrations of all indicators correlated
+with frequency of adenovirus detection.
+
+> 50% of samples positive for adenovirus.E. coli concentrations
+higher than enterococci.
+
+[64]
+
+E. coli a , enterococci a
+
+Adenoviruses d,f , norovirus GI b
+and GII b
+
+Various rivers and lakes in France,
+Germany, Italy, Netherlands, Poland,
+United Kingdom
+
+NR
+
+Both viruses frequently detected in samples that met “good”
+water quality guidelines for both E. coli and enterococci.
+Adenoviruses detected more frequently than noroviruses.
+
+[52]
+
+Total coliforms a , fecal
+coliforms a , E. coli a ,
+enterococci e
+
+Salmonella spp. f , pathogenic E. coli f ,
+Cryptosporidium and Giardia
+(oo)cysts c
+
+Wanzhou watershed, China
+
+Significant but weak correlations between
+indicators and Salmonella spp. and
+pathogenic E. coli.
+
+Cryptosporidium and Giardia (oo)cysts detected in samples with
+low indicator concentrations.
+Concentrations of indicators influenced by rainfall.
+
+[65]
+
+Total coliforms a
+
+Cryptosporidium and Giardia
+(oo)cysts c
+
+Lake Tianjin, China
+
+No significant correlation
+
+Significant correlation between Cryptosporidium and
+Giardia (oocysts).
+Giardia detected more frequently.
+
+[75]
+
+E. coli a , total
+coliforms a ,
+enterococci e
+
+1 Data reporting: most probable number (MPN) a , Presence/absence b , total (oo)cysts c , gene copies d , colony forming units (CFU) e , Integrated cell culture (ICC)/MPN PCR f .
+2 NR (not reported).
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+10 of 39
+
+4. FIB and Pathogens in Marine and Brackish Water
+Table 2 lists general FIB and pathogen relationships reported in the datasets analyzed for marine
+and brackish waters. Of the 29 studies reviewed, almost half (n = 13) did not report statistical analysis of
+the relationships [52,76–87]. Within the remaining studies, ten did not find a relationship [64,70,88–95]
+while six reported a positive relationship between at least one indicator and one pathogen [59,96–100].
+Statistical significance was reported less frequently in marine and brackish waters compared to
+freshwater (17 vs. 44) and the proportion of statistically significant relationships (compared to
+non-significant) was considerably higher in freshwater (Fisher’s exact test, p < 0.0001). Please see
+Table 2 (“relationship” and “comments” columns) for a summary of relationships and other comments
+regarding studies that found no significant relationship or those that did not report it.
+Significant relationships with FIB were most commonly reported for Salmonella spp., followed
+by adenoviruses, and Campylobacter spp., Vibrio spp., S. aureus, and protozoan pathogens (Table 2).
+The most significant relationships with pathogens were reported for enterococci (n = 11), followed
+by E. coli (n = 4), and fecal coliforms (n = 2). No statistically significant relationships were reported
+for total coliforms. Significant relationships were reported between enterococci and adenoviruses
+(n = 8), Salmonella spp. (n = 4), Cryptosporidium/Giardia (oo)cysts (n = 4), Campylobacter spp. (n = 3), and
+Candida spp., Vibrio spp., S. aureus, noroviruses, and E. bieneusi (one observation each) (Table 2). E. coli
+formed significant relationships with Salmonella spp. and Vibrio spp. (n = 1 each) and adenoviruses
+(n = 2). Statistically significant relationships with fecal coliforms were reported only for adenoviruses
+(28.6%, n = 7). The methodology employed did not appear to influence the outcome; significant
+relationships were not more likely when both indicator and pathogen were measured by a similar
+technique (Table 2).
+As expected, FIB had more significant relationships with bacterial pathogens compared to viral
+pathogens (Fisher’s exact, p = 0.0069), but there was no significant difference in other comparisons (i.e.,
+FIB relationships with bacterial compared to protozoan pathogens, or FIB relationships with protozoan
+compared to viral pathogens). Of note, FIB most likely to correlate with pathogens were enterococci,
+which supports its recommended use to monitor marine recreational water quality. No clear trend for
+different marine water types (e.g., brackish waters and coastal beaches) was observed with respect to
+statistically significant indicator/pathogen relationships [59,96,98–101], suggesting that hydrological
+factors play less of a role compared to freshwaters. Similar to freshwater, the common trend among
+the studies reporting significant relationships was that they were conducted in waters impacted by
+fecal contamination [96,98,99], and when bather numbers were high [97], conditions likely to result in
+elevated FIB and pathogen levels.
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+11 of 39
+
+Table 2. Relationships between fecal indicator bacteria and various pathogens in brackish and marine waters.
+Indicator(s) 1
+
+Pathogen(s) 1
+
+Location
+
+Relationship 2
+
+Comments
+
+Reference
+
+[77]
+
+Fecal coliforms e ,
+E. coli e , enterococci a,d,e
+
+V. vulnificus b , S. aureus e , enterovirus d ,
+norovirus d , hepatitis A virus d ,
+Cryptosporidium and Giardia (oo)cysts c
+
+Virginia Key Beach, Florida,
+USA
+
+NR
+
+When HPyV, V. vulnificus, and Giardia spp. were
+detected so were all indicators and
+alternative indicators.
+When FIB levels exceeded regulatory standards,
+HPyVs and pathogens also detected.
+
+Fecal coliforms e , E. coli e ,
+enterococci d,e
+
+V. vulnificus b , S. aureus e , enterovirus d ,
+norovirus d , hepatitis A virus d ,
+Cryptosporidium and Giardia (oo)cysts c
+
+Coastal Beaches, Miami Dade
+County, Florida, USA
+
+NR
+
+When enterococci levels by qPCR and CS exceeded
+MDL, Cryptospordium, Giardia, enteroviruses and
+V. vulnificus were co-detected.
+
+[76]
+
+Enterococci e
+
+Cryptosporidium and Giardia (oo)cysts c
+
+Coastal beaches, Venezuela
+
+No significant correlation.
+
+Presence of Cryptosporidium and Giardia were
+significantly correlated.
+
+[88]
+
+E. coli e , enterococci e
+
+C. albicans b , Salmonella spp. b
+
+Saronicos Gulf, Athens, Greece
+
+Enterococci but not E. coli
+correlated with Salmonella spp.,
+but not C. albicans.
+
+Pathogens detected in waters of “good” and
+“excellent” quality.
+
+[96]
+
+Total coliforms a , fecal
+coliforms a
+
+Salmonella spp. b
+
+Canals around Galveston Bay,
+TX, USA
+
+NR
+
+Salmonella spp. detection occurred (nearly 100%)
+when FC concentrations >2000/100 mL.
+
+[78]
+
+Enterococci a
+
+C. parvum c , G. lamblia c , G. duodenalis c
+E. bieneusi c
+
+Maryland, US Chesapeake Bay,
+USA
+
+C. parvum, G. duodenalis and E.
+bieneusi correlated with
+enterococci counts.
+
+Correlations observed especially apparent with high
+bather numbers in water.
+
+[97]
+
+Enterococci a,d , E. coli a,d ,
+fecal coliforms a , total
+coliforms a
+
+L. pneumophila b , S. aureus b , MRSA b ,
+adenovirus b , enterovirus d ,
+Hepatitis A d , Norovirus d
+
+Malibu beach, California USA
+
+NR
+
+No indicator used had a significant correlation with
+GI illness in swimmers or any reference pathogen.
+
+[79]
+
+Enterococci e
+
+Campylobacter spp. d ,
+
+Florida, Quietwater Beach, USA
+
+No significant correlation.
+
+Enterococci co-detected with pathogenic
+Campylobacter spp., but levels of enterococci were
+not indicative of levels of Campylobacter present.
+
+[70]
+
+E. coli a , enterococci a
+
+Salmonella spp. b , Campylobacter spp. a ,
+Cryptosporidium and Giardia (oo)cysts c ,
+adenoviruses a enteroviruses a
+
+Estuaries, Melbourne Australia
+
+No significant correlation.
+
+Changes in FIB concentrations associated with
+changes in temperature, flow, humidity and rainfall.
+
+[89]
+
+Total coliforms e , fecal
+coliforms e , E. coli e ,
+enterococci e
+
+Adenoviruses a
+
+Southern California coastal
+waters, USA
+
+No significant correlation.
+
+5 of 12 sites, FIB exceeded CA recreational water
+quality limits.
+
+[90]
+
+Total coliforms e , fecal
+coliforms e , enterococci e
+
+Adenoviruses b , enteroviruses b ,
+hepatitis A b
+
+Rivers and creeks in California,
+USA
+
+No significant correlation.
+
+FIB and viral pathogen detection associated with
+storm events.
+Total and fecal coliforms correlated with each other
+but not enterococci.
+
+[91]
+
+Total coliforms a , fecal
+coliforms a , enterococci a
+
+Enterovirus b , adenoviruses b
+
+Newport Bay, California, USA
+
+No significant correlation
+
+FIB concentrations showed strong seasonal pattern,
+associated with winter storms
+Total and fecal coliforms correlated with each other
+but not enterococci.
+
+[92]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+12 of 39
+
+Table 2. Cont.
+Indicator(s) 1
+
+Pathogen(s) 1
+
+Location
+
+Relationship 2
+
+Comments
+
+Reference
+[80]
+
+Fecal coliforms e ,
+E. coli e , enterococci e
+
+Salmonella spp. b , enteric viruses b
+
+Ben T. Davis and Bahia beaches,
+Florida, USA
+
+NR
+
+Salmonella spp. not detected.
+Coxsackie B4 detected following major sewage spill
+FIB correlated with rainfall.
+
+Fecal coliforms e ,
+enterococci e
+
+Cryptosporidium and Giardia (oo)cysts c
+enteroviruses a
+
+Sarasota Bay, Florida, USA
+
+NR
+
+FIB co-detected with all samples positive for
+enteric pathogens.
+
+[81]
+
+E. coli e , enterococci e
+
+Salmonella spp. e
+
+Coastal Waters, Portugal
+
+Levels of FIB correlated with
+presence of Salmonella spp.,
+especially in waters deemed
+“poor” or “sufficient” compared
+to “excellent”.
+
+Salmonella spp. also detected in samples classified as
+“Good” or “Excellent”.
+
+[59]
+
+Fecal coliforms e
+E. coli e , enterococci e
+
+Adenovirus b
+
+Hillsborough River and St.
+Johns River, Florida, USA
+
+Presence of adenovirus strongly
+correlated with concentrations
+of all three FIB.
+
+Samples collected in waters with known human
+fecal pollution, all FIB exceeded regulatory
+standards.
+
+[98]
+
+E. coli e ,
+fecal coliforms e ,
+enterococci e
+
+Adenovirus b
+
+Hillsborough River, FL
+Tampa Bay Beach, Florida, USA
+
+E. coli, enterococci and fecal
+coliforms correlated with
+adenovirus.
+
+All FIB concentrations exceeded regulatory
+standards in samples.
+
+[99]
+
+Enterococci e ,
+fecal coliforms e ,
+total coliforms e , E. coli e
+
+Adenovirus b
+
+Avalon and Doheny Beaches,
+California
+
+No significant correlation.
+
+FIB concentrations frequently exceeded recreational
+water quality guidelines.
+Adenoviruses frequently detected at Doheny beach,
+but not Avalon.
+
+[93]
+
+Total coliforms e ,
+fecal coliforms e ,
+enterococci e , E. coli e
+
+Enteroviruses e
+
+Coastal beaches, Barcelona,
+Spain
+
+NR
+
+All samples with elevated FIB levels also had high
+levels of somatic and F-specific phage present.
+55% of samples having infectious virus beach
+quality was within EU standards for levels of FIB.
+
+[82]
+
+Enterococci e ,
+fecal coliforms a ,
+E. coli a , total coliforms a
+
+Enterovirus a , Cryptosporidium and
+Giardia (oo)cysts c
+
+St. Lucie Estuary, Florida, USA
+
+No significant correlation.
+
+Viruses detected in samples where FIB levels were
+within regulatory limits.
+
+[94]
+
+Enterococci a,d
+
+Adenovirus b , Norovirus d ,
+Cryptosporidium and Giardia (oo)cysts c ,
+C. jejuni, Salmonella spp. b , S. aureus b ,
+E. coli 0157-H7 b
+
+Coastal beaches, Florida, USA
+
+NR
+
+FIB and pathogens co-detected
+Seawater samples taken near sewage discharges.
+
+[83]
+
+Enterococci e
+
+V. vulnificus e ,
+V. parahaemolyticus e
+
+Chesapeake, Bay, MD, USA
+
+NR
+
+Enterococci were co-detected with V. vulnificus and
+V. parahaemolyticus.
+
+[84]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+13 of 39
+
+Table 2. Cont.
+Indicator(s) 1
+
+Pathogen(s) 1
+
+Location
+
+Relationship 2
+
+Comments
+
+Reference
+
+[85]
+
+Enterococci e
+
+V. vulnificus e ,
+V. parahaemolyticus e
+
+Chesapeake, Bay MD, USA
+
+NR
+
+Enterococci were co-detected with V. vulnificus and
+V. parahaemolyticus.
+All V. vulnificus isolates susceptible to 14 of
+26 antibiotics and V. parahaemolyticus to 11 of
+26 antibiotics.
+All samples positive for enterococci and Vibrio spp.
+and within local recreational water quality
+guidelines.
+
+Total coliforms e , fecal
+coliforms e , E. coli e ,
+enterococci e
+
+Hepatitis A b , Norovirus GI b
+
+Coastal beaches, Lisbon,
+Portugal
+
+No significant correlation.
+
+All samples considered “good” quality based on
+local recreational water quality guidelines.
+
+[95]
+
+Enterococci a,e
+
+S. aureus e
+
+Coastal beaches, Miami,
+Florida, USA
+
+NR
+
+S. aureus was found in 37% of total samples,
+1.1% positive for MRSA.
+Enterococci had a positive correlation with reports
+of skin illness.
+
+[86]
+
+S. aureus e , V. vulnificus e ,
+V. parahaemolyticus e
+
+Hawaii streams, USA
+
+Salmonella, Campylobacter and C.
+jejuni positively associated with
+enterococci and marginally
+associated with S. aureus.
+V. vulnificus was positively
+associated with all FIB, V.
+parahaemolyticus with E. coli.
+
+Detection of at least one pathogens occurred in 21 of
+22 streams tested.
+
+[100]
+
+Fecal coliforms e ,
+enterococci e
+
+Enteroviruses b
+
+Florida Keys, Florida, USA
+
+NR
+
+Enterovirus co-detected with fecal coliforms,
+enterococci.
+No sites in violation of water quality standards.
+
+[87]
+
+E. coli a , enterococci a
+
+Human Adenovirus b
+
+Coastal beaches in Cyprus, Italy,
+Portugal, Spain and
+United Kingdom
+
+No significant correlation.
+
+FIB levels significantly lower in seawater than in
+freshwater samples.
+
+[64]
+
+E. coli e , enterococci e
+
+Human adenovirus b norovirus b
+GI and GII
+
+Coastal beaches in Cyprus, Italy,
+Portugal, Spain and United
+Kingdom
+
+NR
+
+Beaches considered “clean” based on FIB levels
+were positive for both adenovirus and noroviruses.
+Freshwater sites had higher frequency of virus
+detection than marine sites.
+
+[52]
+
+Salmonella spp. a , Campylobacter spp. a ,
+E.coli e , enterococci e
+
+1 Data reporting: most probable number (MPN) a , Presence/absence b , total (oo)cysts c , gene copies d , colony forming units or plaque forming units (CFU/PFU) e , Integrated cell culture
+(ICC)/MPN PCR f . 2 NR (not reported).
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+14 of 39
+
+5. Alternative Indicators and Pathogens in Marine, Brackish and Freshwater
+Ten studies conducted in freshwater and fourteen studies conducted in brackish and marine
+waters measured at least one alternative indicator and one pathogen. In freshwater, four studies
+measured C. perfringens, five studies measured bacteriophage, and one study measured both (Table 3).
+In brackish/marine waters, the majority (n = 12) of studies measured coliphage (somatic, F-specific),
+followed by C. perfringens (n = 7), and phages infecting Bacteroides thetaiotaomicron (n = 1) (Table 3).
+Similar to FIB, more statistically significant relationships were reported in freshwater compared
+to brackish/marine waters (Fisher’s exact test, p = 0.0057). Please see Table 3 (“relationship” and
+“comments” columns) for summary of relationships and other comments regarding studies that found
+no significant relationship or those that did not report it.
+In freshwater, half of studies (n = 5) did not report statistical analysis [41,45,47,49,102], four
+reported at least one statistically significant relationship [54,63,64,103], while a single study reported a
+non-significant relationship [39] (Table 3). Statistically significant relationships were reported more
+frequently for C. perfringens, followed by F-specific and somatic coliphages (Table 3). C. perfringens
+had positive relationships with Campylobacter spp. (n = 2), and Listeria spp., Salmonella spp. and
+pathogenic E. coli spp. (one observation each). F-specific coliphage correlated with noroviruses,
+Cryptosporidium/Giardia (oo)cysts, and Campylobacter spp. (one observation each) while somatic
+coliphage correlated only with adenoviruses (n = 2). Similar to FIB, the observed correlations occurred
+in waters affected by sewage discharge [54], following rainfall events [103], and were affected by
+season and sampling site [63].
+In marine and brackish waters, approximately, half of studies (n = 6) did not report any statistical
+analysis [76,77,81,82,87,89], while three reported statistically significant relationships [79,90,100], and
+five reported non-significant relationships [64,88,91,92,94]. Two studies found significant relationships
+between F-specific coliphage and pathogens; one reported it with methicillin resistant S. aureus (MRSA),
+and S. aureus at a marine beach affected by fecal-impacted freshwater intrusion [79], while a second
+reported it for adenoviruses in water impacted by urban run-off [90] (Table 3). No studies noted
+a significant relationship between somatic coliphage and pathogens (Table 3). Only a single study
+conducted in Hawaii [100], a state that recommends using C. perfringens for monitoring ambient
+waters [104], found a relationship between this indicator, and two pathogens (Campylobacter spp., and
+V. parahaemolyticus) (Table 3). The methodology employed did not appear to influence the outcome in
+marine or freshwaters; significant relationships were not more likely when both indicator and pathogen
+were measured by a similar technique (Table 3). While there were insufficient data to perform statistical
+analyses regarding relationship of alternative indicators and different pathogen groups, F-specific
+coliphage tended to perform better compared to somatic coliphage and C. perfringens.
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+15 of 39
+
+Table 3. Relationship of alternative indicators of fecal pollution and pathogens in freshwater and marine/brackish waters.
+Indicator(s) 1
+
+Pathogen(s) 1
+
+Relationship 2
+
+Comments
+
+Reference
+
+C. perfringens e ,
+
+Campylobacter spp. a , Giardia and
+
+F-RNA coliphage e
+
+Cryptosporidium (oo)cysts c
+
+F-RNA more strongly
+correlated with all three
+pathogens than C. perfringens.
+
+F-RNA concentrations typically higher than
+C. perfringens.
+Study conducted in river affected by sewage discharge.
+
+[54]
+
+Somatic coliphage e
+
+Infectious enteroviruses a , total
+enteroviruses d , hepatitis Ad , Norwalk
+I and II d , astroviruses d , rotaviruses d
+
+No significant correlation.
+
+Enterovirus genomes and somatic coliphage
+frequently co-detected.
+Infectious enteroviruses and hepatitis A, Norwalk I and
+II, astroviruses, rotaviruses detected in only one or
+two samples.
+
+[39]
+
+C. perfringens e
+
+Human adenovirus d , Giardia and
+Cryptosporidium (oo)cysts c
+
+Rivers in France
+
+NR
+
+Highest concentration of protozoan parasites and
+C. perfringens found at the site with high proportion of
+agricultural operations, forests and semi-natural
+environments.
+
+[41]
+
+Somatic and F+ coliphage e
+
+Noroviruses f , rotaviruses f , infectious
+reoviruses and enteroviruses a
+
+Maas and Waal Rivers,
+Netherlands
+
+NR
+
+Both coliphages and all viruses co-detected in
+all samples.
+Coliphage concentrations higher than pathogenic virus
+concentrations.
+
+[102]
+
+astroviruses d , rotaviruses d
+
+Marine Reservoir and
+tributaries, Singapore
+
+F+ coliphage positively
+correlated with norovirus
+concentrations.
+
+Higher statistical correlation observed between enteric
+viruses than between enteric viruses and coliphages.
+Noroviruses most abundant, followed by rotaviruses.
+Wet weather concentration of coliphage and viruses
+higher than dry weather concentration, but difference is
+not statistically significant.
+
+[103]
+
+C. perfringens e
+
+Cryptosporidium spp. c , Salmonella
+spp. b , Campylobacter spp. a
+
+Lake Parramatta,
+Australia
+
+NR
+
+No Cryptosporidium detected which coincided with the
+low C. perfringens concentrations.
+C. perfringens concentration lower than FIB.
+
+[45]
+
+Somatic and F+ coliphages e
+
+Campylobacter spp. a , Salmonella spp. b ,
+E. coli O157:H7 d , Cryptosporidium and
+Giardia (oo)cysts c , astroviruses b ,
+hepatitis A and E viruses b , rotavirus b ,
+norovirus b , enterovirus a
+
+Canals and lakes,
+Netherlands
+
+NR
+
+Somatic coliphage detected more frequently and at
+higher concentrations compared to F+ coliphage.
+Highest concentrations of bacteriophages occurred
+following a heavy rainfall.
+
+[47]
+
+C. perfringens e
+
+Campylobacter spp. a , Salmonella spp. a ,
+P. aeruginosaa , Cryptosporidium and
+Giardia (oo)cysts c , Aeromonas spp. e
+
+River Ruhr and barrier
+lakes, Germany
+
+NR
+
+Concentrations typically lower and less variable
+compared to the FIB.
+No association with precipitation.
+
+[49]
+
+Location
+Freshwater
+
+Somatic and F+ coliphage e
+
+Noroviruses d , adenoviruses d ,
+
+Avon River, Christchurch,
+New Zealand
+
+Rivers in France
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+16 of 39
+
+Table 3. Cont.
+Indicator(s) 1
+
+Pathogen(s) 1
+L. monocytogenes b , Salmonella spp. b ,
+
+Location
+
+Relationship 2
+
+Comments
+
+Reference
+
+South Nation River basin,
+Canada
+
+Positive, but weak relationships
+with pathogens.
+
+Correlations with FIB were also weak but positive.
+
+[63]
+
+Various rivers and lakes
+in France, Germany, Italy,
+Netherlands, Poland,
+United Kingdom
+
+Concentrations of somatic
+coliphage correlated with
+frequency of adenovirus
+detection.
+
+FIB showed better correlation with adenovirus than
+somatic coliphage.
+Somatic coliphage concentrations comparable to E. coli
+concentrations.
+
+[64]
+
+C. perfringens e
+
+E. coli O157:H7 b , Campylobacter spp. b ,
+Cryptosporidium and Giardia (oo)cysts c
+
+Somatic coliphage e
+
+Human adenoviruses b
+
+C. perfringens e
+
+V. vulnificus b , S. aureus e , enterovirus d ,
+norovirus d , hepatitis A virus d ,
+Cryptosporidium and Giardia (oo)cysts c
+
+Virginia Key Beach,
+Florida, USA
+
+NR
+
+Higher concentrations in high tide samples as opposed
+to low tide.
+Not correlated with FIB.
+
+[77]
+
+C. perfringens e , F+
+coliphage e
+
+V. vulnificus b , S. aureus e , enterovirus d ,
+norovirus d , hepatitis A virus d ,
+Cryptosporidium and Giardia (oo)cysts c
+
+Coastal Beaches, Miami
+Dade County, Florida,
+USA
+
+NR
+
+High levels of C. perfringens also signaled high levels of
+all FIB.
+
+[76]
+
+C. perfringens a
+
+Cryptosporidium and Giardia (oo)cysts c
+
+Coastal beaches,
+Venezuela
+
+No significant correlation.
+
+Detection of C. perfringens coincided with
+human-associated MST markers.
+
+[88]
+
+adenovirus b , enterovirus d ,
+Hepatitis A d , Norovirus d
+
+Malibu beach, California
+USA
+
+F+ coliphage had strong
+association with MRSA and
+S. aureus presence.
+
+F+ coliphage had strong association with GI illness.
+
+[79]
+
+C. perfringens e and
+F+ coliphage e
+
+Salmonella spp. b , Campylobacter spp. a ,
+Cryptosporidium and Giardia (oo)cysts c ,
+adenoviruses a , enteroviruses a
+
+Docklands, South Yarra
+and Abbotsford estuaries,
+Melbourne Australia
+
+NR
+
+Positive correlation between the presence of
+C. perfringens and F+ coliphage.
+
+[89]
+
+Somatic e and
+F+ coliphage e
+
+Adenoviruses a
+
+Southern California
+coastal waters, USA
+
+Presence of adenovirus was
+significantly correlated with
+F-specific coliphage.
+
+No correlation between two coliphage types.
+
+[90]
+
+Somatic e and
+F+ coliphage e
+
+Adenoviruses b , enteroviruses b ,
+hepatitis A b
+
+Rivers and creeks in
+California, USA
+
+No significant correlation.
+
+Somatic coliphages detected more frequently than F+.
+Somatic coliphage were not correlated with total
+coliforms, but F+ coliphage were positively correlated
+with total/fecal coliforms but not enterococci.
+
+[91]
+
+F+ coliphage a
+
+Enterovirus b , adenoviruses b
+
+Newport Bay, California,
+USA
+
+No significant correlation.
+
+Peak concentrations of FIB and F+ coliphage associated
+with winter storms.
+
+[92]
+
+C. perfringens e and
+coliphage e
+
+Cryptosporidium and Giardia (oo)cysts c ,
+enteroviruses a
+
+Sarasota Bay, Florida,
+USA
+
+NR
+
+Alternative indicators for co-detected in samples
+positive for enteric pathogens.
+Coliphage levels were significantly influenced by
+salinity and turbidity.
+
+[81]
+
+Marine, and brackish waters
+
+F+ coliphage e
+
+L. pneumophila b , S. aureus b , MRSA b ,
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+17 of 39
+
+Table 3. Cont.
+Indicator(s) 1
+
+Pathogen(s) 1
+
+Location
+
+Relationship 2
+
+Comments
+
+Reference
+
+[82]
+
+Marine, and brackish waters
+
+Enteroviruses e
+
+Coastal Waters, Portugal
+
+NR
+
+Enteroviruses were co-detected with FIB.
+Genogroup I and II F-specific RNA more common in
+samples the others.
+Densities of somatic coliphage were higher than FIB
+densities and did not correlate with them.
+
+Somatic e and
+F+ coliphage e
+
+Enterovirusa , Cryptosporidium and
+Giardia (oo)cysts c
+
+St. Lucie Estuary, Florida,
+USA
+
+No significant correlation.
+
+Somatic coliphage concentrations higher than
+F+ coliphage.
+Somatic coliphage correlated with the total coliform
+concentrations.
+
+[94]
+
+C. perfringens e and
+F+ coliphage e
+
+Salmonella spp. a , Campylobacter spp. a ,
+S. aureus e ,
+V. vulnificus e ,
+V. parahaemolyticus e
+
+Hawaii streams, USA
+
+C. perfringens was marginally
+associated with Campylobacter
+spp. and
+V. parahaemolyticus.
+
+Concentrations of C. perfringens and F+ coliphage
+comparable.
+
+[100]
+
+C. perfringens e ,
+F+ coliphage e
+
+Enteroviruses b
+
+Florida Keys, Florida,
+USA
+
+NR
+
+Enteroviruses co-detected with C. perfringens
+and coliphage.
+
+[87]
+
+Somatic coliphage e
+
+Human Adenovirus b
+
+Coastal beaches in
+Cyprus, Italy, Portugal,
+Spain and
+United Kingdom
+
+No significant correlation.
+
+Somatic coliphage concentrations lower than FIB.
+
+[64]
+
+Somatic e and
+F+ coliphage e , phages
+infecting Bacteroides
+thetaiotaomicron GA17 e
+
+1 Data reporting: most probable number (MPN) a , Presence/absence b , total (oo)cysts c , gene copies d , colony forming units or plaque forming units (CFU/PFU) e , Integrated cell culture
+(ICC)/MPN (RT)PCR f . 2 NR (not reported).
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+18 of 39
+
+6. MST Markers and Pathogens in Marine, Brackish and Freshwater
+The number of studies that measured MST marker(s) along with at least one pathogen is
+considerably smaller (n = 19; eight in freshwater, and 11 in brackish/marine/waters) compared
+to studies measuring FIB or alternative indicators (Table 4). The majority of MST measurements
+reported were for human-associated marker(s) (76.1%), followed by general MST markers (7.0%),
+cattle and dog associated MST markers (5.6%), and seagull and swine-associated MST markers
+(2.8%) (Table 4). Most frequently measured pathogens were viruses (adenovirus, enterovirus,
+noroviruses, hepatitis, and infectious enteric viruses) and bacteria (E. coli, Campylobacter spp.,
+Salmonella spp., V. vulnificus, S. aureus, and Legionella spp.) with 22 measurements each, while
+Cryptosporidium and Giardia (oo)cysts were reported less frequently (n = 6) (Table 4). Irrespective
+of the water type, nine of these studies did not report statistical analyses for relationships between MST
+marker(s) and pathogens [51,76,77,79,80,83,86,88,105], and another seven reported non-significant
+relationship [48,56,57,70,72,98,99]. The remaining two studies reported statistically significant
+relationship [93,106] (Table 4). Please see Table 4 (“relationship” and “comments” columns) for
+summary of relationships and other comments regarding studies that found no significant relationship
+or those that did not report it.
+Significant relationships between pathogens and human-associated MST markers were reported
+for HF183 and adenoviruses, at a marine beach impacted by non-point source(s) [93], and between
+HF183/HF134 and Campylobacter spp. in freshwater affected by livestock operations [106]. In the
+same freshwater study, cattle-associated MST markers (CF128, CF193) correlated with E. coli O157:H7,
+and Salmonella spp., while a general Bacteroidales MST marker (Bac32F) correlated with all three
+pathogens [106]. The methodology employed did not appear to influence the outcome; in other words,
+significant relationships were not more likely when both indicator and pathogen were measured by a
+similar technique (Table 4). There were insufficient data regarding relationship of MST markers and
+different pathogen groups (e.g., bacterial, viral and protozoan) to perform statistical analyses. While
+it may seem counter-intuitive that MST markers (particularly human-associated subset), were not
+generally correlated with pathogens, it is important to note that sensitivity and specificity of MST
+markers varies greatly [14]. Furthermore, many pathogens reported in these studies are zoonotic,
+making this relationship even more tenuous.
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+19 of 39
+
+Table 4. Relationships between MST markers and various pathogens in in freshwater and marine/brackish waters.
+MST marker 1
+
+Pathogens 1
+
+Location
+
+Relationship 2
+
+Comments
+
+Reference
+
+Freshwater
+esp a , LTIIa a , STII a
+
+Pathogenic E. coli spp. a ,
+Cryptosporidium and Giardia
+(oo)cysts b
+
+Various streams in Pennsylvania,
+USA
+
+No significant correlation.
+
+All MST markers detected more frequently in
+samples exceeding recreational water quality
+guidelines.
+
+[56]
+
+esp a
+
+Pathogenic E. coli spp. a
+
+Various rivers in Georgia, Kansas,
+Michigan, North Carolina, New
+Jersey, Ohio, South Dakota,
+Tennessee, Texas and Virginia, USA
+
+No significant correlation.
+
+esp was present in nine samples that met
+exceeding recreational water quality guidelines.
+
+[57]
+
+HPyV a , nifH a , HF183 a
+
+Campylobacter spp. c
+
+Various ponds, rivers and creeks in
+Florida, USA
+
+No significant correlation.
+
+Campylobacter and MST markers co-detected at
+only one site.
+HPyV and nif H were not detected during
+the study.
+
+[70]
+
+gyrB c , g-Bfra c
+
+Human adenovirus c , human
+enterovirus c , Norovirus GI and
+GII c , porcine sapovirus c
+
+Delaware Lake, Madison Lake and
+East Fork Lake, USA
+
+No significant correlation.
+
+g-Bfra detected more frequently and at higher
+concentrations than gyrB.
+gyrB and g-Bfra frequently correlated.
+
+[72]
+
+esp a , HPyV a , HF183 a
+
+Cryptosporidium and Giardia
+(oo)cysts b , infectious
+enteroviruses d , Salmonella spp. d
+
+Lake Carroll, Tampa, FL
+
+No significant correlation.
+
+Higher concentrations of indicators and more
+frequent pathogen detection following rain events.
+esp, but not HPyV or HF183 correlated with FIB
+(E. coli, enterococci, fecal coliforms).
+
+[48]
+
+Bac32F a , CF128 a , CF193 a , HF134 a , HF183 a ,
+
+E. coli O157:H7 a , Salmonella spp. a ,
+
+PF163 a
+
+Campylobacter spp. a
+
+Little Bow and Oldman Rivers,
+Canada
+
+Positive relationship between detection
+of Bac32F and all pathogens.
+Positive relationship between CF128/193
+and E. coli O157:H7 and Salmonella spp.
+Positive relationship between
+HF183/134 and Campylobacter spp..
+
+Bac32F detected most frequently, followed by
+CF128/193, PF163 and HF183/134
+Pathogens were detected infrequently with
+Campylobacter spp. most commonly detected.
+Water impacted by agricultural operations.
+
+[106]
+
+HPyV c , HF183 c , AllBac c
+
+S. aureus c , Salmonella spp. c ,
+noroviruses c
+
+Prickett Creek, USA
+
+NR
+
+Salmonella spp. were most frequently
+detected pathogen.
+
+[51]
+
+esp a
+
+Infectious enteric viruses a
+
+Lake Michigan, USA
+
+NR
+
+Precipitation and turbidity positively correlated
+with viruses.
+
+[105]
+
+HPyV a , esp a
+
+V. vulnificus c , S. aureus c ,
+enterovirus c , norovirus c ,
+hepatitis A c virus,
+Cryptosporidium and
+Giardia (oo)cysts b
+
+Virginia Key Beach, Florida, USA
+
+NR
+
+HPyV, V. vulnificus, Giardia spp. were co-detected
+with all FIB and alternative indicators.
+When FIB levels exceeded regulatory standards,
+HPyVs and pathogens also detected.
+
+[77]
+
+V. vulnificus c , S. aureus c ,
+enterovirus c , norovirus c ,
+hepatitis A c virus,
+Cryptosporidium and
+Giardia (oo)cysts b
+
+Coastal Beaches, Miami Dade
+County, Florida, USA
+
+NR
+
+During rain event, DogBac was co-detected with
+Cryptospordium, Giardia, enteroviruses and
+V. vulnificus along with enterococci.
+
+[76]
+
+Marine and brackish waters
+
+HPyV a , esp a , Bacteroides thetaiotaomicron a ,
+BacHum-UCD a and DogBac a
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+20 of 39
+
+Table 4. Cont.
+MST marker 1
+
+Pathogens 1
+
+Location
+
+Relationship 2
+
+Comments
+
+Reference
+
+Marine and brackish waters
+HF183 c , C. coccoides c
+
+Cryptosporidium and
+Giardia (oo)cysts b
+
+Coastal beaches, Venezuela
+
+NR
+
+The levels of (oo) cysts varied with the extent of
+sewage pollution and bather density.
+HF183 and C. coccoides correlated with
+C. perfringens.
+
+[88]
+
+GenBac3 c , HF183 a,c , BacHum-UCD c , B. dorei
+a,c , HumM2 c , HF134 a , HumM19 a , B.
+stericoris a , B. uniformis c , nifH a,c , esp c , HPyV
+a,c , Gull Bacteroides a , C. marimammalium c ,
+BacCow-UCD c , BacCan-UCD c
+
+L. pneumophilaa , S. aureusa , MRSA a ,
+pathogenic E. coli a , adenovirus a ,
+enterovirus c , Hepatitis A c ,
+Norovirus a
+
+Malibu beach, California USA
+
+NR
+
+Human-associated MST markers were only
+predictive of illness at the site known to be
+impacted by human sewage from faulty
+infrastructure.
+
+[79]
+
+HPyV a , nifH a , HF183 a
+
+Campylobacter spp. c
+
+Quietwater Beach, Florida, USA
+
+No significant correlation.
+
+In some instances, MST markers were co-detected
+with Campylobacter especially following
+rain events.
+
+[70]
+
+esp a , HPyV a
+
+Salmonella spp. a , enteric viruses d
+
+Ben T. Davis and Bahia beaches,
+Florida, USA
+
+NR
+
+Coxsackie virus B4 and HPyVs were co-detected
+following a major sewage spill.
+Fecal coliform concentrations correlated with the
+esp marker
+HPyV did not correlate with FIB.
+
+[80]
+
+HPyV c , HF183 c , nifH a
+
+Adenovirus a
+
+Hillsborough River and St. Johns
+River, Florida, USA
+
+No significant correlation with HPyV,
+NR for HF183, nifH.
+
+Adenovirus co-detected with HF183 and nifH.
+
+[98]
+
+GenBac3 a , HPyVc , HF183 a , nifH a
+
+Adenovirus a
+
+Hillsborough River, St, Johns River,
+Ben T. Davis beach, Florida, USA
+
+No significant relationship with HPyV,
+other MST markers NR
+
+All FIB concentrations
+exceeded regulatory standards
+HF183 and nifH detected in 80% of
+samples, whereas adenoviruses were detected
+in 60% of the samples.
+
+[99]
+
+HPyV c , HF183 a , nifH a
+
+Adenovirus a
+
+Avalon and Doheny Beaches,
+California, USA
+
+At Doheny Beach HPyV and HF183
+presence correlated with adenovirus.
+
+Adenovirus not detected at Avalon Beach,
+impacted by non-point source(s).
+
+[93]
+
+PMMoV c , HF183 c , BacHum-UCD c , esp a ,
+nifH c
+
+Adenovirus a , Norovirus,
+Cryptosporidium and Giardia
+(oo)cysts b , C. jejuni a , Salmonella
+spp. a , S. aureus a , E. coli 0157-H7 a
+
+Coastal beaches, Florida, USA
+
+NR
+
+PMMoV co-occurred with FIB, other MST markers
+and pathogens.
+Seawater samples taken near sewage outfalls.
+
+[83]
+
+BacHum-UCD c , HF183 c , DogBac c ,
+C. marimammalium c
+
+S. aureus e
+
+Coastal beaches, Miami, Florida,
+USA
+
+NR
+
+Co-occurrence with S. aureus detection.
+No correlation found with MST markers and
+skin illness.
+
+[86]
+
+1 Data reporting: Presence/absence a , total (oo)cysts b , gene copies c , most probable number (MPN) d , colony forming units (CFU) e ; 2 NR (not reported).
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, x
+
+21 of 40
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+21 of 39
+
+7. Various Indicators and Pathogens in Swimming Pools
+7. Various
+Indicators
+and Pathogens
+inmeasurements
+Swimming Pools
+Our search
+of literature
+for paired
+of indicator(s) and pathogen(s) recorded for
+swimming
+pools of
+yielded
+considerably
+studies (n of
+= 3),
+comparedand
+to ambient
+waters.
+None for
+of
+Our search
+literature
+for pairedfewer
+measurements
+indicator(s)
+pathogen(s)
+recorded
+the
+studies pools
+reported
+statistical
+analyses
+on relationships
+indicators
+and
+pathogens.
+Two
+swimming
+yielded
+considerably
+fewer
+studies (n = 3),between
+compared
+to ambient
+waters.
+None of
+the
+studies,
+both conducted
+Italy, on
+were
+performed
+on pools
+that were
+in compliance
+with
+studies reported
+statistical in
+analyses
+relationships
+between
+indicators
+and pathogens.
+Two studies,
+microbiological
+forperformed
+E. coli, enterococci,
+aeruginosa,
+S. aureus with
+[107,108].
+However,
+both conductedrequirements
+in Italy, were
+on poolsP.that
+were in and
+compliance
+microbiological
+one
+study detected
+infectious
+Simkania negevensis,
+a bacterium
+related[107,108].
+to Chlamydia,
+in nearly
+of
+requirements
+for E.
+coli, enterococci,
+P. aeruginosa,
+and S. aureus
+However,
+one43%
+study
+samples,
+while
+the
+second
+one
+measured
+Papillomaviruses
+in
+64%
+of
+samples
+[108].
+Interestingly,
+detected infectious Simkania negevensis, a bacterium related to Chlamydia, in nearly 43% of samples,
+HPyVs
+were
+co-detected
+with Papillomaviruses
+in all
+samples
+[108].[108].
+L. pneumophila
+and enteric
+while the
+second
+one measured
+Papillomaviruses
+inthe
+64%
+of samples
+Interestingly,
+HPyVs
+viruses
+(adenovirus,
+norovirus,
+and enteroviruses)
+[108] were
+not L.
+detected.
+Examination
+of wading
+were co-detected
+with
+Papillomaviruses
+in all the samples
+[108].
+pneumophila
+and enteric
+viruses
+pools
+in Finland
+during aand
+gastroenteritis
+outbreak
+detected
+GII and astrovirus
+in ~83%
+and
+(adenovirus,
+norovirus,
+enteroviruses)
+[108] were
+not Norovirus
+detected. Examination
+of wading
+pools
+in
+~33%
+of samples,
+respectively [109].
+E. coli
+was absent
+from samples
+collected ~2
+weeksand
+before
+the
+Finland
+during a gastroenteritis
+outbreak
+detected
+Norovirus
+GII and astrovirus
+in ~83%
+~33%
+of
+outbreak,
+but
+high
+concentrations
+(370–24,000
+CFU/100
+mL)
+were
+measured
+in
+two
+samples
+taken
+samples, respectively [109]. E. coli was absent from samples collected ~2 weeks before the outbreak,
+during
+theconcentrations
+outbreak [109].(370–24,000 CFU/100 mL) were measured in two samples taken during the
+but high
+outbreak [109].
+8. Relationship of Indicators with Illness
+8. Relationship of Indicators with Illness
+To identify associations between the presence of general FIB, alternative indicators or MST
+To identify
+between
+presence various
+of general
+FIB, alternative
+indicators
+or MST
+markers
+with thatassociations
+of waterborne
+illnessthe
+occurrence,
+epidemiologic
+studies
+were collected
+markers
+with
+that
+of
+waterborne
+illness
+occurrence,
+various
+epidemiologic
+studies
+were
+collected
+from existing literature dating back to the early 1990s. For inclusion, it was required that the study
+from existing
+literature
+back to
+the early
+For inclusion,
+required
+the study
+measured
+at least
+one FIB,dating
+alternative
+indicator
+or 1990s.
+MST marker
+(culture it
+orwas
+molecular)
+inthat
+combination
+measured
+at least one FIB,
+alternative
+indicator
+or MST
+(culture or
+molecular)
+in combination
+with
+an epidemiological
+survey
+of resulting
+illness
+frommarker
+the recreational
+water
+exposure.
+In total, 17
+with an[76,79,86,110–124]
+epidemiological survey
+of resulting
+illness
+from
+the recreational
+water
+In total,
+studies
+met these
+criteria and
+were
+included
+in analyses.
+Oneexposure.
+study each
+was
+17 studies in
+[76,79,86,110–124]
+metand
+these
+criteria
+and were
+inin
+analyses.
+was
+conducted
+Europe and Africa,
+fifteen
+studies
+were included
+conducted
+the US. One
+Sincestudy
+someeach
+of these
+conducted
+in
+Europe
+and
+Africa,
+and
+fifteen
+studies
+were
+conducted
+in
+the
+US.
+Since
+some
+of
+these
+studies were conducted in more than one water type, this resulted in the inclusion of 20 freshwater
+studies
+conducted in more
+one water
+type,
+this resulted in
+the inclusion
+of 20 freshwater
+sites
+andwere
+29 brackish/marine
+sites.than
+Thirteen
+different
+microbiological
+assays
+were reported
+including
+sites and
+29 brackish/marine
+sites.and
+Thirteen
+different microbiological
+were
+reportedasincluding
+those
+targeting:
+enterococci, fecal
+total coliforms,
+E. coli, somaticassays
+and F+
+coliphage,
+well as
+those
+targeting:
+enterococci,
+fecal
+and
+total
+coliforms,
+E.
+coli,
+somatic
+and
+F+
+coliphage,
+as
+well as
+various general and human-associated MST markers (Figure 2). In addition to gastrointestinal
+various general
+and human-associated
+markers
+(Figure 2).
+additioncramps,
+to gastrointestinal
+illnesses
+illnesses
+characterized
+by symptoms ofMST
+diarrhea,
+vomiting,
+andInstomach
+other waterborne
+characterized
+by symptoms
+of diarrhea,
+vomiting,
+and stomach cramps, other For
+waterborne
+illnesses
+illnesses
+included
+skin, ear and
+sinus infection
+[76,79,86,110–113,115–122,124].
+epidemiological
+includedassays
+skin, ear
+and sinus
+infectionwere
+[76,79,86,110–113,115–122,124].
+For epidemiological
+studies,
+studies,
+targeting
+enterococci
+the most commonly recorded,
+with 25 instances
+of
+assays targetingofenterococci
+were the
+mostorcommonly
+recorded,
+with 25
+instances
+of measurements
+of
+measurements
+either culture
+based
+molecular
+enterococci
+targets,
+followed
+by humaneither
+culture
+based
+or
+molecular
+enterococci
+targets,
+followed
+by
+human-associated
+MST
+markers,
+associated MST markers, F+ coliphage, fecal coliforms, general MST markers, total coliforms,
+F+ coliphage,
+fecal
+coliforms,
+generaland
+MST
+markers,
+total
+coliforms,
+culturable
+E. coli,
+somatic
+coliphage
+finally
+E. coli
+qPCR
+signal culturable
+(Figure 2).E. coli, somatic coliphage
+and finally E. coli qPCR signal (Figure 2).
+
+Figure 2. Summary of epidemiological studies reporting on linkage between illness and various
+Figure
+2. Summary
+of epidemiological studies reporting on linkage between illness and various
+indicator
+types.
+indicator types.
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+22 of 39
+
+Correlations between observed illness in these studies were most common with enterococci
+(10 studies out of 17) [79,86,110,111,113,114,116,117,120,121], followed by F+ coliphage
+(5 studies) [79,113,118,119,123] (Figure 2), suggesting that these two indicators may be better
+predictors of waterborne illness occurrence. Fecal coliforms, human-associated MST markers (Bsteri,
+BuniF2, and HF134), general MST marker (GenBac3), culturable E. coli, total coliforms, and somatic
+coliphage were correlated with illness less frequently (Figure 2). Twenty-seven indicator measurements
+across all studies were correlated with human illness, and 93% of these studies were conducted in
+waters with known point or non-point source contamination, contaminated surface/ground water flow
+or following wet weather events. Only six studies [79,86,117–119,124], all of which found relationship
+between indicator and illness, measured pathogens, in addition to recording illness information, and
+indicator organism concentrations. Only one of the six studies found a relationship between pathogens
+and illness or indicator concentrations. This is not surprising since, in these studies, pathogens were
+detected infrequently and at low concentrations. This illustrates the potential challenges of detecting
+relationships between indicators and pathogens in the field even when health relationships were
+observed with fecal indictors.
+9. Factors that Influence Indicator and Pathogen Relationships
+Most recreational waters at any given time are impacted by many different sources of fecal
+contamination (e.g., treated and untreated wastewater, agricultural operations, stormwater, and
+domestic and wildlife animals) and these influences can change depending on many different factors
+including precipitation, tidal flow and wind direction. In addition, each fecal source has its own set
+of indicators and the potential for different types of pathogens. Therefore, the more fecal sources
+a recreational water is impacted by, the more challenging it will be to show correlations between
+indicators and pathogens. Preceding sections described our findings regarding relationships between
+indicators and pathogens in recreational waters, as well as relationships between indicators and illness.
+Overall, FIB were better predictors of bacterial and protozoan pathogen presence (compared to viral),
+relationships were more probable under scenarios where both indicator and pathogen were likely
+to be present at higher concentrations, and enterococci and F-specific coliphage tended to be better
+predictors of waterborne illness occurrence compared to other indicators. The following sections
+examine various factors that are likely to influence the observed trends.
+10. Detection Frequency and Concentrations of Indicators and Pathogens in Marine, Brackish
+and Freshwaters
+The observed relationships between indicators and pathogens can be influenced by logistical
+factors that may confound determination of actual relationships, including study design and
+methodological limitations. Study design determines the frequency at which a target (FIB, alternative
+indicator, MST marker or pathogen) was measured (per study or cumulative multiple studies),
+while methodology employed influences likelihood of detection. We compiled studies that reported
+frequency of detection (or data that allowed calculation of frequency detection such as total number
+of samples and samples positive) for at least one FIB/alternative indicator/MST marker and at least
+one pathogen per sample(s), resulting in inclusion of 49 studies (Table 5). Microbial data collected
+were first grouped according to indicator (FIB, alternative or MST) or pathogen type (bacterial, viral
+or protozoan), and further organized according to the detection format employed (different types
+of culture-based or molecular). Table 5 describes the detection frequency (per study and per total
+cumulative samples) for microorganism targets (FIB, alternative indicators, MST, and pathogens) for
+both freshwater and brackish/marine waters.
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+23 of 39
+
+Table 5. Frequency (%) of detection of microorganisms over all eligible studies (those that included
+data on individual observations). Detection frequency is expressed per study and for cumulative
+samples across all studies. Studies with least one sample positive for the organism were scored positive
+in the “per study” column.
+Organism
+
+Detection Frequency
+per Study (%) and n 2
+
+Detection Frequency
+per Sample 2
+
+Detection Frequency
+per Study (%) and n 2
+
+Freshwater
+
+Detection Frequency
+per Sample 2
+
+Brackish/Marine
+FIB
+
+Total coliforms (MPN)
+Total coliforms (CFU)
+Fecal coliforms (MPN)
+Fecal coliforms (CFU)
+E. coli (MPN)
+E. coli (CFU)
+E. coli (Q)
+Enterococci (MPN)
+Enterococci (CFU)
+Enterococci (Q)
+
+100% (4)
+100% (3)
+100% (4)
+100% (6)
+100% (8)
+100% (10)
+100% (5)
+100% (2)
+100% (13)
+100% (2)
+
+C. perfringens (CFU)
+C. perfringens (Q)
+Somatic coliphage (PFU)
+F+ coliphage (PFU)
+F- coliphage (PFU)
+B. fragilis phage (PFU)
+B. thetaiotaomicron phage
+(PFU)
+
+100% (4)
+100% (2)
+100% (4)
+100% (2)
+N/A
+N/A
+N/A
+
+GenBac3 (Q)
+HF183 (E)
+HF183 (Q)
+BacHum-UCD (Q)
+HPyV (E)
+HPyV (Q)
+C. coccoides Human (Q)
+B. thetaiotamicron (E)
+nifH (E)
+nifH (Q)
+gyrB (Q)
+g-Bfra
+esp (E)
+LTII (E)
+STII (E)
+DogBac (Q)
+
+100% (1)
+N/A
+N/A
+N/A
+100% (1)
+100% (1)
+N/A
+N/A
+100% (1)
+N/A
+100% (1)
+100% (1)
+100% (3)
+100% (1)
+100% (1)
+N/A
+
+E. coli O157:H7 (MPN)
+E. coli O157:H7 (E)
+Pathogenic E. coli (eae) (E)
+Pathogenic E. coli (eae) (Q)
+Pathogenic E. coli (stx1) (E)
+Pathogenic E. coli (stx2) (E)
+Salmonella spp. (MPN)
+Salmonella spp. (E)
+Salmonella spp. (Q)
+S. aureus (MPN)
+S. aureus (E)
+S. aureus (Q)
+Campylobacter spp. (MPN)
+Campylobacter spp. (E)
+Campylobacter spp. (Q)
+Pseudomonas spp. (MPN)
+P. aeruginosa (Q)
+Shigella spp. (E)
+Shigella spp. (Q)
+Legionella spp. (E)
+Legionella spp. (Q)
+Listeria spp. (MPN)
+V. cholerae (Q)
+V. vulnificus (Q)
+Aeromonas spp. (Q)
+M. avium (Q)
+
+100% (1)
+100% (1)
+100% (4)
+100% (1)
+100% (4)
+100% (3)
+100% (6)
+N/A
+100% (4)
+100% (1)
+N/A
+100% (1)
+100% (3)
+N/A
+100% (3)
+100% (2)
+100% (2)
+100% (1)
+100% (2)
+100% (2)
+100% (1)
+100% (1)
+100% (2)
+N/A
+100% (3)
+100% (2)
+
+100% (275)
+97.2% (1988)
+100% (147)
+96.7% (1726)
+97.7% (1846)
+90% (2530)
+89.6% (221)
+81.7% (301)
+96.6% (2584)
+100% (302)
+
+N/A
+100% (5)
+N/A
+100% (11)
+100% (5)
+100% (8)
+N/A
+100% (5)
+100% (13)
+100% (3)
+
+N/A
+99.7% (317)
+N/A
+98.3% (524)
+100% (55)
+94.1% (406)
+N/A
+61.7% (162)
+97.6% (705)
+100% (34)
+
+83.2% (1843)
+73.2% (56)
+85.5% (394)
+93.2% (73)
+N/A
+N/A
+
+100% (5)
+N/A
+100% (1)
+100% (7)
+100% (3)
+100% (1)
+
+61.6% (73)
+N/A
+100% (20)
+34.4% (90)
+28% (25)
+16.7% (12)
+
+N/A
+
+100% (1)
+
+30% (20)
+
+N/A
+100% (3)
+100% (4)
+100% (1)
+100% (4)
+100% (2)
+100% (1)
+100% (1)
+100% (2)
+100% (1)
+N/A
+N/A
+80% (5)
+N/A
+N/A
+100% (1)
+
+N/A
+31.8% (255)
+25.5% (105)
+95.45% (22)
+51.08% (204)
+12.2% (255)
+69.2% (13)
+26.7% (15)
+2.8% (255)
+100% (7)
+N/A
+N/A
+19.12% (204)
+N/A
+N/A
+86.7% (15)
+
+N/A
+0% (1)
+N/A
+N/A
+N/A
+N/A
+33% (3)
+100% (1)
+N/A
+100% (2)
+100% (1)
+N/A
+100% (1)
+100% (1)
+100% (1)
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+100% (2)
+N/A
+N/A
+
+N/A
+0% (7)
+N/A
+N/A
+N/A
+N/A
+8.7% (196)
+28.6% (7)
+N/A
+70.4% (27)
+57.1% (7)
+N/A
+30.9% (55)
+14.3% (7)
+18.2% (11)
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+44.4% (27)
+N/A
+N/A
+
+Alternative indicators
+
+MST markers
+75% (8)
+N/A
+N/A
+N/A
+0% (18)
+100% 98)
+N/A
+N/A
+0% (18)
+N/A
+50.8% (65)
+92.3% (65)
+6.2% (649)
+7.4% (217)
+4.6% (217)
+N/A
+Bacterial pathogens
+0.6% (823)
+13.4% (67)
+53.7% (350)
+31.3% (32)
+7.9% (302)
+29.7% (350)
+14% (1076)
+N/A
+27.3% (1188)
+44.6% (112)
+N/A
+37.5% (8)
+24.7% (1009)
+N/A
+81.3% (80)
+80.6% (191)
+39.6% (53)
+6.3% (48)
+14.5% (1148)
+41.9% (217)
+20% (30)
+18.7% (395)
+52.5% (1148)
+N/A
+100% (248)
+34.4% (64)
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+24 of 39
+
+Table 5. Cont.
+Organism
+
+Detection Frequency
+per Study (%) and n 2
+
+Detection Frequency
+per Sample 2
+
+Detection Frequency
+per Study (%) and n 2
+
+Freshwater
+
+Detection Frequency
+per Sample 2
+
+Brackish/Marine
+
+Viral pathogens
+Infectious enterovirus (MPN)
+Enterovirus (E)
+Enterovirus (Q)
+Infectious reovirus (MPN)
+Reovirus (Q)
+Human adenovirus (MPN)
+Human adenovirus (E)
+Human adenovirus (Q)
+Astrovirus (E)
+Astrovirus (Q)
+Norovirus (E)
+Norovirus (Q)
+Norovirus GI (Q)
+Norovirus GII (Q)
+Rotavirus (E)
+Rotavirus (Q)
+Hepatitis A (E)
+Hepatitis A (Q)
+Bovine adenovirus (Q)
+
+100% (3)
+100% (3)
+100% (4)
+100% (1)
+100% (1)
+N/A
+100% (4)
+100% (5)
+100% (1)
+100% (2)
+100% (3)
+100% (1)
+50% (4)
+66.7% (3)
+100% (3)
+66.7% (3)
+N/A
+100% (1)
+100% (1)
+
+Acanthamoeba spp. (E)
+Naegleria spp. (E)
+Cryptosporidium spp. (M)
+Cryptosporidium spp. (E)
+Cryptosporidium spp. (Q)
+Giardia spp. (M)
+Giardia spp. (E)
+Giardia spp. (Q)
+
+100% (1)
+100% (1)
+88.9% (9)
+N/A
+N/A
+100% (8)
+N/A
+N/A
+
+C. albicans (MPN)
+
+N/A
+
+18.4% (158)
+14.4% (222)
+29.1% (103)
+21.9% (32)
+100% (8)
+N/A
+42.2% (1118)
+40.7% (214)
+15.4% (52)
+17.3% (133)
+29.5% (112)
+100% (8)
+7.5% (213)
+16.2% (198)
+18.4% (141)
+33.8% (142)
+N/A
+1.5% (68)
+56.7% (30)
+
+100% (3)
+100% (3)
+33% (3)
+N/A
+N/A
+100% (1)
+100% (6)
+100% (1)
+N/A
+N/A
+100% (1)
+50% (2)
+N/A
+N/A
+N/A
+N/A
+100% (1)
+0% (1)
+N/A
+
+0% (27)
+37.8% (45)
+14.8% (27)
+N/A
+N/A
+0% (27)
+16.5% (309)
+33.3% (12)
+N/A
+N/A
+27.3% (22)
+26.3% (19)
+N/A
+N/A
+N/A
+N/A
+80% (10)
+0% (12)
+N/A
+
+N/A
+N/A
+60% (5)
+0% (1)
+100% (1)
+80% (5)
+100% (2)
+100% (1)
+
+N/A
+N/A
+23.2% (112)
+0% (12)
+26.7% (15)
+22.3% (112)
+16.7% (12)
+33.3% (15)
+
+100% (1)
+
+45.4% (152)
+
+Protozoan pathogens
+24.6% (126)
+13.5% (126)
+36.5% (1456)
+N/A
+N/A
+63.7% (1426)
+N/A
+N/A
+Fungal pathogens
+N/A
+
+1 MPN, most probable number; CFU, colony forming units; PFU, plaque forming units; E, end-point PCR; Q, qPCR;
+
+M, microscopy; 2 N/A, not available.
+
+Each FIB was detected at least once in 100% of studies, which was true for most of the microbial
+targets. General FIB were also the most frequently detected on a per sample basis, as they were found
+in 94.2% of samples across 13,823 measurements in marine and freshwaters (Table 5). In freshwater,
+detection frequency of FIB per sample was 95% across 11,920 measurements and it was somewhat
+lower in brackish/marine waters (93% across 2203 measurements) (Table 5). Detection frequency
+of alternative indicators per sample, irrespective of the water type, was considerably less than FIB,
+averaging 60.6% (across 2606 measurements); the difference between water types was also more
+pronounced than for FIB (freshwater detection frequency 83.7%/2366 measurements vs. marine
+45.1%/240 samples) (Table 5). While the 2705 samples analyzed for MST markers in marine and
+freshwaters were similar to alternative indicators, the overall detection frequency average (42.9%) was
+considerably lower (Table 5). The frequency of detection and total number of samples collected in each
+water type (37.4%/1355 in freshwater vs. 47.3%/1350 in marine water) was similar (Table 5).
+Irrespective of the water type, bacterial pathogens were measured more often (9280 total samples),
+compared to viral (3462) and protozoan (3400) pathogens, although the frequency of detection across
+different pathogen groups was similar (33.8%, bacterial; 29.6%, viral; and 28.9%, protozoan (Table 5)).
+There also appeared to be no appreciable difference in detection frequency between the water types for
+any of the pathogen groups, although considerably more samples were collected in freshwater (Table 5).
+For bacterial pathogens, frequency of detection across 8936 total samples collected in freshwater was
+35.2%, compared to 30.3% in 344 marine/brackish water samples (Table 5). Similarly, viral pathogens
+were detected in 33.1% freshwater samples (out of 2952) and 23.6% of 510 marine water samples
+(Table 5). Lastly, protozoan pathogens were detected in 34.6% of 3,134 freshwater samples and 24.4%
+of 266 marine water samples (Table 5).
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+25 of 39
+
+A subset of studies examined (n = 33) reported concentration data in the body of the manuscript,
+tables or supplemental materials, allowing graphs to be created displaying average densities per
+organism and water type (Figures 3 and 4). Concentrations of indicators were on average 1–3 log10
+higher than pathogen concentrations for both water types. Both indicators and pathogens in marine
+waters were found at slightly lower levels (0.5–1 log10 ) than those observed in freshwater (Figures 3
+and 4 and Table 6). Within an indicator group, concentrations of FIB ranged from not detected
+(ND (observed only for enterococci)) to 5.39 log10 per 100 mL (Table 6), and total coliform levels
+were the highest, followed by fecal coliforms, E. coli, and enterococci (Figures 3 and 4). Alternative
+indicator concentrations were lower than FIB (ranging from ND–3.29 log10 per 100 mL (Table 6)),
+and C. perfringens levels were higher than somatic and F-specific coliphage (Figures 3 and 4).
+MST marker concentrations were reported less frequently and were more variable, ranging from
+ND–2.50 log10 copies per 100 mL (Table 6 and Figures 3 and 4). Bacterial pathogen concentrations
+(range:Int.
+ND–5.09
+logPublic
+100
+mL)
+100
+10 per
+J. Environ. Res.
+Health
+2018,
+15, x were higher than viral (range: ND–1.58 log10 per 27
+of 40mL) and
+protozoan pathogens (range: ND–1.93 log10 per 100 mL), in both marine and freshwater (Table 6,
+Int. J. Environ. Res. Public Health 2018, 15, x
+27 of 40
+Figures 3 and 4).
+
+Figure 3. Mean concentration of FIB, alternative indicators, MST markers, bacterial, viral and
+
+Figure protozoan
+3. Meanpathogens
+concentration
+of FIB,Error
+alternative
+indicators,
+markers,
+bacterial, Q,
+viral and
+in freshwater.
+bars represent
+standardMST
+deviation
+(c, culture-based;
+Figure 3. Mean concentration of FIB, alternative indicators, MST markers, bacterial, viral and
+qPCR;
+m,
+microscopy).
+protozoan
+pathogens in freshwater. Error bars represent standard deviation (c, culture-based; Q,
+protozoan pathogens in freshwater. Error bars represent standard deviation (c, culture-based; Q,
+qPCR; m,
+microscopy).
+qPCR;
+m, microscopy).
+
+Figure 4. Mean concentration of FIB, alternative indicators, MST markers, bacterial, viral and protozoan
+Figure 4. Mean concentration of FIB, alternative indicators, MST markers, bacterial, viral and
+pathogens in marine and brackish waters. Error bars represent standard deviation (c, culture-based; Q,
+protozoan pathogens in marine and brackish waters. Error bars represent standard deviation (c,
+Figure
+4. Mean concentration of FIB, alternative indicators, MST markers, bacterial, viral and
+qPCR; m,
+microscopy).
+culture-based; Q, qPCR; m, microscopy).
+protozoan pathogens in marine and brackish waters. Error bars represent standard deviation (c,
+culture-based; Q, qPCR; m, microscopy).
+
+As evidenced by the examples above, readily detected microorganisms are more likely to be
+measured and frequency of detection of a given microorganism is influenced by the concentration
+As evidenced by the examples above, readily detected microorganisms are more likely to be
+and distribution of the target in the sample types tested, as well as the limit of detection of the method
+measured and frequency of detection of a given microorganism is influenced by the concentration
+used. Culture methods such as membrane filtration can have a low limit of detection, e.g. 1 CFU/100
+and distribution of the target in the sample types tested, as well as the limit of detection of the method
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+26 of 39
+
+Table 6. Concentrations of various indicators and pathogens from select studies in marine/brackish
+and freshwaters.
+Organism 1
+
+Range or Average per Study
+(log10 per 100 mL) 2,3
+
+Total coliforms (c)
+Fecal coliforms (c)
+E. coli (c)
+E. coli (q)
+Enterococci (c)
+Enterococci (q)
+
+2.67–3.89
+0.93–5.39
+0.59–3.51
+1.75–3.97
+ND–3.62
+0.63–3.21
+
+C. perfringens (c)
+C. perfringens (q)
+Somatic coliphage (c)
+F-specific coliphage (c)
+
+0.20–2.33
+0.35
+0.61–3.29
+ND–2.76
+
+AllBac(q)
+PMMoV (q)
+HF183 (q)
+HBBac (q)
+HPyV (q)
+esp (q)
+nifH (q)
+DogBac (q)
+
+0.93
+ND
+ND–0.69
+0.72
+2.36
+0.06
+ND
+2.50
+
+Campylobacter spp. (c)
+Campylobacter spp. (q)
+EHEC (q)
+Salmonella spp. (c)
+Salmonella spp. (q)
+S. aureus (c)
+S. aureus (q)
+Aeromonas spp. (q)
+Stx1 (q)
+Stx2 (q)
+Mycobacterium spp. (q)
+Pseudomonas spp. (c)
+Legionella spp (q)
+V. vulnificus (c)
+V. parahaemolyticus (q)
+
+1.05
+0.74–2.29
+0.13
+ND–2.36
+0.06–4.08
+0.70–0.77
+0.78
+5.09
+0.03
+0.03
+3.41
+0.37–3.72
+ND
+1.91–2.11
+1.01
+
+Enterovirus (c)
+Enterovirus (q)
+Adenovirus (q)
+Astrovirus (q)
+Norovirus (q)
+Norovirus GI (q)
+Norovirus GII (q)
+Rotavirus (q)
+Reovirus (c)
+Hepatitis A (q)
+
+ND–0.04
+ND–0.56
+0.08–1.02
+1.48
+ND–1.40
+ND–1.02
+1.58
+1.41–1.53
+0.18–0.31
+ND
+
+E. bieneusi (m)
+Giardia spp.(m)
+Cryptosporidium spp. (m)
+
+0.12
+ND–1.93
+ND–0.73
+
+Marine References 4
+
+Freshwater References 4
+
+FIB
+N/A
+[76,77,80,87,94]
+[76,77,80,82,89,94,96,100]
+N/A
+[70,76,77,80,82–85,87–89,94,96,100,101]
+[76,77,83]
+
+[37,75]
+[39,57,65,125]
+[36,37,44,46,50,51,54–57,65,75,125]
+[41,51,55,68]
+[37,39,44,47,50,51,55–57,65,70]
+[51,55]
+
+Alternative indicators
+[76,77,87–89,100]
+N/A
+[82,90,94]
+[76,82,89,90,94,100]
+
+[54]
+[41]
+[39,102,103,126]
+[47,54,102,103]
+
+MST markers
+[83]
+[83]
+N/A
+[83]
+N/A
+[76]
+[83]
+[76]
+
+[51]
+N/A
+[51]
+N/A
+[51]
+N/A
+N/A
+N/A
+
+Bacterial pathogens
+N/A
+N/A
+N/A
+[80,84,89,100]
+N/A
+[76,77]
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+N/A
+[84,100]
+[85]
+
+[54]
+[46,70]
+[65]
+N/A
+[51,65,68]
+N/A
+[51]
+[68]
+[57]
+[57]
+[68]
+N/A
+[46]
+N/A
+N/A
+
+Viral pathogens
+[80,82,87,89,94]
+[76,77]
+N/A
+N/A
+[77,94]
+N/A
+N/A
+N/A
+N/A
+[77]
+
+[39,47,102]
+[39]
+[41,46,103]
+[103]
+[51,102]
+[50,103]
+[103]
+[102,103]
+[47,102]
+N/A
+
+Protozoan pathogens
+[101]
+[76,83,88,89,94,96,127]
+[76,77,83,88,89,94,96,127]
+
+N/A
+[36,41,47,54–56,65,75]
+[36,41,47,54–56,65,75]
+
+1 c, culture; q, qPCR; m, microscopy. 2 Range is provided when more than one study measured a given parameter,
+while average per study is provided when a single study measured a given parameter. Units include: CFU, MPN,
+PFU, gene copies or total (oo)cysts. 3 ND, not detected; 4 N/A, not available.
+
+As evidenced by the examples above, readily detected microorganisms are more likely to be
+measured and frequency of detection of a given microorganism is influenced by the concentration and
+distribution of the target in the sample types tested, as well as the limit of detection of the method used.
+Culture methods such as membrane filtration can have a low limit of detection, e.g., 1 CFU/100 mL,
+and can reliably detect FIB in water samples with minimal contamination. Conversely, pathogens are
+generally present sporadically and in lower levels than fecal indicators. These types of targets require
+high-throughput filtration methods that can achieve large concentration factors, with the tradeoff that
+limits of detection are generally quite high. In addition, the volumes sampled, and the concentration
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+27 of 39
+
+strategy used can vary between studies and can affect the sensitivity of a given method. These logistical
+factors frequently result in unbalanced comparisons in which the indicator organism is frequently
+detected, but the pathogen is not. Therefore, the disconnect between indicators and pathogens may
+not be due to a true lack of relationship in many cases, but to methodology that is much more suited to
+detecting indicators than pathogens.
+11. Microbial Levels in Fecal Material
+The observed relationships between indicators and pathogens can also be affected by factors
+intrinsic to the organisms themselves, including levels in various hosts, as well as shedding frequencies
+and duration. FIB are commensal inhabitants of the GI tract of humans and other animals and as such
+are shed continually in feces. Levels of fecal coliforms, E. coli, and enterococci typically found in human
+feces range 105 –109 CFU per gram [13], while levels detected in untreated wastewater are somewhat
+lower (105 –108 CFU per 100 mL) [13,128]. The concentration of FIB in animal excreta is lower still,
+ranging from 104 to 107 CFU per gram, depending on the animal host [13]. Alternative indicators are
+also commensal organisms of the GI tract but are typically found in lower concentrations and are more
+influenced by diets and physiologies of the host [13,14,128]. For example, C. perfringens levels in animal
+and human feces range from undetectable to 108 CFU per gram [13], while coliphages were absent
+from some animal feces and primary wastewater effluents [128,129] and typically did not exceed
+~103 PFU/mL of untreated wastewater [128]. MST markers target different fecal microorganisms
+that are strongly associated with particular hosts [14] and the human-associated subset is reported
+to range from 103 to 1010 gene copies per gram of feces or 100 mL of untreated wastewater, while
+animal-associated MST markers range from 104 –109 gene copies per gram of feces depending on the
+sensitivity of individual markers and geographic region [13].
+Pathogens may cause symptomatic or asymptomatic infection of their human and animal hosts.
+Shedding rates can vary widely, although levels found in the wastewater are typically several orders
+of magnitude lower than any indicator species [128,130–133] likely due to the sporadic nature of
+pathogen occurrence and detection compared to indicators. Additionally, only a small part of the
+population is infected with pathogens at any given time, resulting in considerable variation in the
+levels of pathogens, particularly when originating from relatively small populations. Differential
+shedding of pathogens from infected hosts is also contributing to the occurrence of pathogens in
+recreational waters. For example, shedding rates for human viral pathogens can be as high as 1011
+viral particles per gram of feces in the case of adenoviruses [134], while shedding rates of bacterial
+pathogens are typically lower [133], as cattle excreting >104 CFU per gram of feces E. coli O157:H7
+are considered to be “super-shedders” [135]. Cryptosporidium and Giardia (oo)cyst shedding rates by
+the infected individuals can range from 106 to 1011 per gram of feces [132] and are typically higher
+in animal hosts compared to human [131,136], although not all (oo)cysts excreted by animals are
+zoonotic [131,137].
+Shedding duration of viruses can vary from weeks to months [133], and some viruses display
+distinct seasonal trends (e.g., infectious enteroviruses are more prevalent in wastewater in summer
+and early fall) [134]. Similar to pathogenic viruses, excretion of (oo)cysts is typically long term [132].
+Shedding duration of bacterial pathogens is shorter with median values typically reported to be
+~2 weeks, although in some instances it can last considerably longer [138,139]. Similar to viral
+and protozoan pathogens, shedding is affected by many different factors including diet and age of
+the host [140,141], temperature [140], as well as composition of gut microbiome [142]. Infectious
+dose of different pathogens is also variable and typically the lowest for viruses [134,143], medium
+range for protozoan pathogens and generally highest for bacterial pathogens [143], although E. coli
+O157:H7, with a low infectious dose, is an exception [144]. The infectious dose of viral, bacterial and
+protozoan pathogens is dependent on many factors, including individual strains and health status of
+the host [134,143].
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+28 of 39
+
+12. Susceptibility to Environmental Stressors
+While wastewater treatment processes generally result in some removal of indicators and
+pathogens [128,145], sanitary sewer and combined sewer overflows, along with other infrastructure
+failures can result in release of indicators and pathogens into ambient waters. In addition, different
+indicator and pathogen groups exhibit variable susceptibilities to disinfection strategies. Bacteria
+are generally susceptible to chlorination and UV treatment [146]. Protozoa and viruses are typically
+most susceptible to UV treatment [146,147], with the notable exception of adenoviruses [148]. Once
+indicators and pathogens are released into ambient waters, a new panoply of biotic and abiotic
+environmental factors affects fate and transport characteristics, including ambient sunlight, indigenous
+microbiota (i.e., predation and competition interactions), temperature, salinity, nutrient levels, location
+(water column vs. sediment), source of fecal pollution and resilience of individual organisms.
+Ambient sunlight and associated UV radiation typically act to increase the decay rates, although
+the magnitude of this effect is influenced by the environmental conditions [149] and measurement
+strategies [150,151]. For example, viable cells and culturable/infectious organisms typically display
+the effects of UV damage more readily than their corresponding nucleic acids. Interactions with
+indigenous microbiota also increase decay rates, although this was predominantly shown for FIB, MST
+markers and some bacterial pathogens, (e.g., [152–155]) with inconclusive data for other organisms
+(e.g., various bacteriophages and C. parvum [156,157]). Influx of nutrients (in the form of organic carbon,
+nitrogen and phosphorus) can result in extended persistence [158–160], and potentially mitigate the
+effects of biotic interactions [161] but this assertion was not tested in detail for organisms other
+than culturable FIB. Temperature and location affect decay rates of most organisms tested (e.g., FIB,
+bacteriophage, viral pathogens, MST markers) almost unilaterally with greater persistence at lower
+temperatures [150,162–166] and in the sediments and sands compared to the water column (recently
+reviewed in [167]).
+Similar to the effect of ambient sunlight, salinity (and the associated ionic content of brackish
+and marine waters) affected the decay rates of culturable/infectious FIB, alternative indicators, MST
+markers and pathogens more so than their corresponding nucleic acids [168–174]. The effect of
+source of fecal pollution has been studied on FIB and MST markers, and indicators originating from
+ruminants are more persistent compared to those from other fecal sources (e.g., dog, seagull, and
+human) [169,175–179], although different human sources (e.g., feces, septage, and sewage) elicit
+different decay rates [152]; analogous information for alternative indicators and pathogens is still
+missing. Finally, studies that compared decay of various indicators to pathogens directly under the
+same experimental conditions are rare and report conflicting results. For instance, in one study, E. coli
+O157:H7 persisted longer than FIB (e.g., E. coli and enterococci) in freshwater [180], but another group
+reported similar trend in the freshwater sediments but not the water column [181]. Another group
+reported no difference in decay between FIB, various MST markers and C. jejuni, S. enterica and
+adenovirus in freshwater [151]. Others reported considerably faster decay of C. jejuni (but not C. coli or
+Salmonella spp.) than FIB and MST markers, irrespective of the water type [171]. As exemplified above,
+variable responses of different indicator and pathogen groups to these stressors and the resulting
+differential decay rates further confound the indicator paradigm.
+13. Conclusions
+FIB and alternative indicator organisms (C. perfringens and coliphages) have been used for over a
+century, and continue to be used today as indicators of general fecal pollution in many applications,
+including the assessment of sanitary quality of recreational waters [8]. MST markers are used to
+identify source(s) of fecal pollution and are a more recent addition to the monitoring toolbox available
+to water quality managers and other practitioners in the field [14]. The goal of this review is to
+two-fold. Our primary objective was to examine reported relationships between various indicators
+and pathogens in recreational waters to determine the value of different indicators as surrogates for
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+29 of 39
+
+pathogen presence. Secondly, we aimed to more closely inspect different factors that may have an
+impact on this relationship.
+The majority of the studies either did not report a relationship, or they reported a statistically
+non-significant relationship. Among the studies that observed statistically significant relationships,
+it was considerably more common in freshwater compared to marine waters. General FIB tended to
+form statistically significant relationships more commonly with bacterial and protozoan pathogens,
+(compared to viral pathogens) and this difference was statistically significant. Alternative indicators
+and MST markers correlated with pathogens less frequently, although it occurred more in freshwater
+than marine/brackish waters. Overall, statistically significant relationships were detected more
+frequently in waters known to be impacted by fecal pollution and following wet weather events, both
+scenarios under which indicators and pathogens are more likely to be co-detected.
+Among factors influencing these relationships frequency of detection and variable concentrations
+of indicators and pathogens were identified as major contributing factor. Not surprisingly, general FIB
+were measured and detected more frequently than any other indicator or pathogen (generally in >90%
+of samples) and were also reported at higher concentrations, irrespective of the water type. Alternative
+indicators were also frequently detected in samples (>70%), while MST markers were measured and
+detected less frequently, and in lower concentrations than FIB or alternative markers (frequently in
+<10% of samples). Pathogen detection frequencies were similarly low. Low frequency of detection
+affects the ability to establish relationships between the frequently-detected and infrequently-detected
+analytes, as the dataset becomes left-censored (biased toward non-detects values). What looks like
+“absence” is frequently an artifact of comparing an analyte with high density (e.g., FIB) with one of
+low density (e.g., pathogen). Better concentration and recovery methods for the infrequently-detected
+analytes may provide a more realistic picture of the relationships among these various microorganisms
+in environmental waters. Finally, concentrations in feces and wastewater, shedding rates and patterns
+of various indicator and pathogen groups differ, as do their fate and transport characteristics in
+secondary habitats. Indicators are typically present in higher concentrations than any of the pathogen
+groups, and are also shed constantly, or more frequently, compared to pathogens. Upon entry into the
+secondary habitats, a host of biotic and abiotic factors differentially affects persistence of indicators and
+pathogens, further confounding the indicator–pathogen paradigm. Lastly, another important factor
+impacting the ability to establish relationships between indicators and pathogens is the realization
+that most locations are impacted by multiple sources of fecal contamination. Although it is difficult to
+measure the impact of multiple fecal inputs, tools such as sanitary surveys and GIS mapping have
+the ability to indicate potential point and non-point sources of fecal pollution and future MST studies
+should improve our understanding of the impacts of multiple fecal sources.
+To further our understanding of indicator and pathogen relationships, future studies measuring
+these microorganisms in recreational waters should evaluate and report the existence (or lack thereof)
+of such relationships. Other considerations include careful selection of targeted pathogens and
+methodology used to quantify them. Furthermore, providing the data on a per sample basis (rather
+than descriptive statistics of a dataset) in at least supplementary materials, will enable metanalyses,
+which may yield a more robust estimate of a true state of indicator/pathogen paradigm. Lastly,
+while standardized and sensitive methods exist for FIB detection and enumeration in recreational
+waters, analogous procedures for alternative indicators, MST markers and pathogens are still missing.
+Standardization of detection and quantification methods suitable for each indicator/pathogen group
+can enable more accurate evaluation of any statistically significant relationships between these
+two groups.
+Author Contributions: Conceptualization, A.K., B.R.M. and V.J.H.; Investigation, A.K. and B.R.M.; Data Curation,
+A.K. and B.R.M.; Writing-Original Draft Preparation, A.K. and B.R.M.; Writing-Reviewing & Editing, A.K. and
+V.J.H.; Visualization, A.K.
+Funding: This research received no external funding.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+30 of 39
+
+Disclaimer: The United States Environmental Protection Agency through its Office of Research and Development
+funded and managed the research described here. It has been subjected to Agency’s administrative review and
+approved for publication. The views expressed in this article are those of the author(s) and do not necessarily
+represent the views or policies of the U.S. Environmental Protection Agency. Mention of trade names or commercial
+products does not constitute endorsement or recommendation for use.
+
+References
+1.
+2.
+
+3.
+4.
+
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+13.
+
+14.
+
+15.
+16.
+17.
+18.
+
+19.
+20.
+
+Kummu, M.; de Moel, H.; Ward, P.J.; Varis, O. How close do we live to water? A global analysis of population
+distance to freshwater bodies. PLoS ONE 2011, 6, e20578. [CrossRef] [PubMed]
+National Oceanic and Atmospheric Administration. State of the Coast: National Coastal Population Report.
+Population Trends from 1970 to 2020; National Oceanic and Atmospheric Administration: Silver Springs, MD,
+USA, 2013.
+Dorfman, M.H.; Stoner, N.; Rosselot, K.S. Testing the Waters: A Guide to Water Quality at Vacation Beaches;
+Natural Resources Defense Council: New York, NY, USA, 2014.
+Rabinovici, S.J.; Bernknopf, R.L.; Wein, A.M.; Coursey, D.L.; Whitman, R.L. Economic and health risk
+trade-offs of swim closures at a lake Michigan beach. Environ. Sci. Technol. 2004, 38, 2737–2745. [CrossRef]
+[PubMed]
+Devine, J. The Impacts of Beach Pollution; Natural Resources Defense Council: New York, NY, USA, 2014.
+Penn, J.; Hu, W.; Cox, L.; Kozloff, L. Values for recreational beach quality in Oahu, Hawaii. Mar. Resour. Econ.
+2016, 31, 47–62. [CrossRef]
+European Environment Agency. European Bathing Water Quality in 2017; European Environment Agency:
+Luxembourg, Luxembourg, 2018.
+American Water Works Association. Water Quality and Treatment: A Handbook of Community Water Supplies,
+4th ed.; McGraw-Hill: New York, NY, USA, 1990.
+World Health Organization. Guidelines for Safe Recreational Water Environments—Volume 2 Swimming Pools
+and Similar Environments; World Health Organization: Geneva, Switzerland, 2006.
+World Health Organization. Gudelines for Safe Recreational Water Environments, Volume 1: Coastal and Fresh
+Waters; World Health Organization: Geneva, Switzerland, 2003.
+Environmental Protection Department. Water Quality Criteria/Standards Adopted in the Asia Pacific Region;
+Asia Pacific Economic Cooperation Secretariat: Singapore, 2003.
+European Environment Agency. Directive 2006/7/EC of the European Parliament and of the Council of February
+2006 Concerning the Management of Bathing Water Quality and Repealing Directive 76/160/EEC; European
+Environment Agency: Geneva, Switzerland, 2006.
+Harwood, V.; Shanks, O.; Korajkic, A.; Verbyla, M.; Ahmed, W.; Iriate, M. General and Host-Associated Bacterial
+Indicators of Faecal Pollution; Global Water Pathogen Project; Michigan State University: E. Lansing, MI,
+USA, 2017.
+Harwood, V.J.; Staley, C.; Badgley, B.D.; Borges, K.; Korajkic, A. Microbial source tracking markers for
+detection of fecal contamination in environmental waters: Relationships between pathogens and human
+health outcomes. FEMS Microbiol. Rev. 2014, 38, 1–40. [CrossRef] [PubMed]
+Department of Environment and Conservation. Western Australian Guidelines for Biosolids Management;
+European Environment Agency: Geneva, Switzerland; Perth, Australia, 2012.
+North Carolina Environmental Quality. North Carolina Adm. Code 15A NCAC 2U Reclaimed Water;
+North Carolina Department of Environment and Natural Resources: Raleigh, NC, USA, 2011.
+Queensland Government Environmental Protection Agency. Queensland Water Recycling Guidelines;
+Queensland Government Environmental Protection Agency: Brisbane, Australia, 2005.
+United States Environmental Protection Agency. Review of Coliphages as Possible Indicators of Fecal
+Contamination for Ambient Water Quality; United States Environmental Protection Agency: Washington,
+DC, USA, 2015.
+United States Environmental Protection Agency. 2016 Coliphage Experts Workshop: Discussion Topics and
+Findings; United States Environmental Protection Agency: Washington, DC, USA, 2016.
+Nguyen, K.H.; Senay, C.; Young, S.; Nayak, B.; Lobos, A.; Conrad, J.; Harwood, V.J. Determination of wild
+animal sources of fecal indicator bacteria by microbial source tracking (MST) influences regulatory decisions.
+Water Res. 2018, 144, 424–434. [CrossRef] [PubMed]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+21.
+
+22.
+23.
+
+24.
+25.
+
+26.
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+34.
+35.
+
+36.
+
+37.
+38.
+
+39.
+
+31 of 39
+
+Soller, J.A.; Schoen, M.E.; Varghese, A.; Ichida, A.M.; Boehm, A.B.; Eftim, S.; Ashbolt, N.J.; Ravenscroft, J.E.
+Human health risk implications of multiple sources of faecal indicator bacteria in a recreational waterbody.
+Water Res. 2014, 66, 254–264. [CrossRef] [PubMed]
+Forni, D.; Cagliani, R.; Clerici, M.; Sironi, M. Origin and dispersal of hepatitis E virus. Emerg. Microbes Infect.
+2018, 7, 11. [CrossRef] [PubMed]
+Salines, M.; Andraud, M.; Rose, N. Combining network analysis with epidemiological data to inform
+risk-based surveillance: Application to hepatitis E virus (HEV) in pigs. Prev. Vet. Med. 2018, 149, 125–131.
+[CrossRef] [PubMed]
+Lama, J.K.; Bachoon, D.S. Detection of Brucella suis, Campylobacter jejuni, and Escherichia coli strains in feral
+pig (Sus scrofa) communities of Georgia. Vector-Borne Zoonot. Dis. 2018, 18, 350–355. [CrossRef]
+Migura-Garcia, L.; Ramos, R.; Cerda-Cuellar, M. Antimicrobial resistance of salmonella serovars and
+campylobacter spp. Isolated from an opportunistic gull species, yellow-legged gull (Larus michahellis).
+J. Wildl. Dis. 2017, 53, 148–152. [CrossRef] [PubMed]
+Valeriani, F.; Giampaoli, S.; Romano Spica, V. The molecular enrichment approach for the identification of
+microbiological indicators in recreational waters. Microchem. J. 2014, 112, 70–74. [CrossRef]
+Graciaa, D.S.; Cope, J.R.; Roberts, V.A.; Cikesh, B.L.; Kahler, A.M.; Vigar, M.; Hilborn, E.D.; Wade, T.J.;
+Backer, L.C.; Montgomery, S.P.; et al. Outbreaks associated with untreated recreational water—United States,
+2000–2014. Am. J. Transplant. 2018, 18, 2083–2087. [CrossRef] [PubMed]
+Hlavsa, M.C.; Roberts, V.A.; Anderson, A.R.; Hill, V.R.; Kahler, A.M.; Orr, M.; Garrison, L.E.; Hicks, L.A.;
+Newton, A.; Hilborn, E.D.; et al. Surveillance for waterborne disease outbreaks and other health events
+associated with recreational water—United States, 2007–2008. MMWR Surveill. Summ. 2011, 60, 1–32.
+[PubMed]
+Hlavsa, M.C.; Roberts, V.A.; Kahler, A.M.; Hilborn, E.D.; Wade, T.J.; Backer, L.C.; Yoder, J.S. Recreational
+water-associated disease outbreaks—United States, 2009–2010. MMWR Morb. Mortal. Wkly. Rep. 2014, 63,
+6–10. [PubMed]
+Hlavsa, M.C.; Roberts, V.A.; Kahler, A.M.; Hilborn, E.D.; Mecher, T.R.; Beach, M.J.; Wade, T.J.; Yoder, J.S.
+Outbreaks of illness associated with recreational water—United States, 2011–2012. MMWR Morb. Mortal.
+Wkly. Rep. 2015, 64, 668–672. [PubMed]
+Dale, K.; Kirk, M.; Sinclair, M.; Hall, R.; Leder, K. Reported waterborne outbreaks of gastrointestinal disease
+in Australia are predominantly associated with recreational exposure. Aust. N. Z. J. Public Health 2010, 34,
+527–530. [CrossRef]
+Guzman-Herrador, B.; Carlander, A.; Ethelberg, S.; Freiesleben de Blasio, B.; Kuusi, M.; Lund, V.; Lofdahl, M.;
+MacDonald, E.; Nichols, G.; Schonning, C.; et al. Waterborne outbreaks in the Nordic countries, 1998 to 2012.
+Eurosurveillance 2015, 20, 21160. [CrossRef]
+Sinclair, R.G.; Jones, E.L.; Gerba, C.P. Viruses in recreational water-borne disease outbreaks: A review. J. Appl.
+Microbiol. 2009, 107, 1769–1780. [CrossRef]
+Ahmed, W.; Goonetilleke, A.; Gardner, T. Alternative indicators for detection and quantification of faecal
+pollution. Water 2008, 39, 46–49.
+Abia, A.L.K.; Ubomba-Jaswa, E.; Genthe, B.; Momba, M.N.B. Quantitative microbial risk assessment (QMRA)
+shows increased public health risk associated with exposure to river water under conditions of riverbed
+sediment resuspension. Sci. Total Environ. 2016, 566–567, 1143–1151. [CrossRef]
+Diallo, M.B.; Anceno, A.J.; Tawatsupa, B.; Houpt, E.R.; Wangsuphachart, V.; Shipin, O.V. Infection risk
+assessment of diarrhea-related pathogens in a tropical canal network. Sci. Total Environ. 2008, 407, 223–232.
+[CrossRef] [PubMed]
+Fernandez, C.; Salerno, C.M.; Paoloni, J.D.; Laurent, G.C. Water quality in a lagoon in the southeast pampa
+region of Argentina. Rev. Argent. Microbiol. 2007, 39, 51–56. [PubMed]
+Gemmell, M.E.; Schmidt, S. Is the microbiological quality of the Msunduzi River (KwaZulu-Natal, South
+Africa) suitable for domestic, recreational, and agricultural purposes? Environ. Sci. Pollut. Res. Int. 2013, 20,
+6551–6562. [CrossRef] [PubMed]
+Hot, D.; Legeay, O.; Jacques, J.; Gantzer, C.; Caudrelier, Y.; Guyard, K.; Lange, M.; Andreoletti, L. Detection
+of somatic phages, infectious enteroviruses and enterovirus genomes as indicators of human enteric viral
+pollution in surface water. Water Res. 2003, 37, 4703–4710. [CrossRef]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+40.
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+47.
+
+48.
+49.
+
+50.
+51.
+52.
+
+53.
+
+54.
+
+55.
+
+56.
+
+57.
+
+32 of 39
+
+Hsu, B.M.; Chen, C.H.; Wan, M.T.; Cheng, H.W. Legionella prevalence in hot spring recreation areas of Taiwan.
+Water Res. 2006, 40, 3267–3273. [CrossRef] [PubMed]
+Jacob, P.; Henry, A.; Meheut, G.; Charni-Ben-Tabassi, N.; Ingrand, V.; Helmi, K. Health risk assessment related
+to waterborne pathogens from the river to the tap. Int. J. Environ. Res. Public Health 2015, 12, 2967–2983.
+[CrossRef] [PubMed]
+Kern, A.; Kadar, M.; Szomor, K.; Berencsi, G.; Kapusinszky, B.; Vargha, M. Detection of enteric viruses in
+hungarian surface waters: First steps towards environmental surveillance. J. Water Health 2013, 11, 772–782.
+[CrossRef]
+Marucci, P.L.; Olivera, N.L.; Brugnoni, L.I.; Sica, M.G.; Cubitto, M.A. The occurrence of Shiga toxin-producing
+Escherichia coli in bathing water of the Sierra de la Ventana region, Buenos Aires Province, Argentina.
+Environ. Monit. Assess. 2011, 175, 1–8. [CrossRef]
+Mwanamoki, P.M.; Devarajan, N.; Thevenon, F.; Atibu, E.K.; Tshibanda, J.B.; Ngelinkoto, P.; Mpiana, P.T.;
+Prabakar, K.; Mubedi, J.I.; Kabele, C.G.; et al. Assessment of pathogenic bacteria in water and sediment
+from a water reservoir under tropical conditions (Lake Ma Vallee), Kinshasa Democratic Republic of Congo.
+Environ. Monit. Assess. 2014, 186, 6821–6830. [CrossRef]
+Roser, D.J.; Davies, C.M.; Ashbolt, N.J.; Morison, P. Microbial exposure assessment of an urban recreational
+lake: A case study of the application of new risk-based guidelines. Water Sci. Technol. 2006, 54, 245–252.
+[CrossRef]
+Sales-Ortells, H.; Agostini, G.; Medema, G. Quantification of waterborne pathogens and associated health
+risks in urban water. Environ. Sci. Technol. 2015, 49, 6943–6952. [CrossRef] [PubMed]
+Schets, F.M.; van Wijnen, J.H.; Schijven, J.F.; Schoon, H.; de Roda Husman, A.M. Monitoring of waterborne
+pathogens in surface waters in Amsterdam, the Netherlands, and the potential health risk associated with
+exposure to Cryptosporidium and Giardia in these waters. Appl. Environ. Microbiol. 2008, 74, 2069–2078.
+[CrossRef] [PubMed]
+Staley, C.; Reckhow, K.H.; Lukasik, J.; Harwood, V.J. Assessment of sources of human pathogens and fecal
+contamination in a florida freshwater lake. Water Res. 2012, 46, 5799–5812. [CrossRef] [PubMed]
+Strathmann, M.; Horstkott, M.; Koch, C.; Gayer, U.; Wingender, J. The River Ruhr—An urban river under
+particular interest for recreational use and as a raw water source for drinking water: The collaborative
+research project “Safe Ruhr”—Microbiological aspects. Int. J. Hyg. Environ. Health 2016, 219, 643–661.
+[CrossRef] [PubMed]
+Thorolfsdottir, B.O.; Marteinsson, V.T. Microbiological analysis in three diverse natural geothermal bathing
+pools in iceland. Int. J. Environ. Res. Public Health 2013, 10, 1085–1099. [CrossRef]
+Weidhaas, J.; Anderson, A.; Jamal, R. Elucidating waterborne pathogen presence and aiding source
+apportionment in an impaired stream. Appl. Environ. Microbiol. 2018, 84, AEM-02510. [CrossRef]
+Wyn-Jones, A.P.; Carducci, A.; Cook, N.; D’Agostino, M.; Divizia, M.; Fleischer, J.; Gantzer, C.; Gawler, A.;
+Girones, R.; Holler, C.; et al. Surveillance of adenoviruses and noroviruses in European recreational waters.
+Water Res. 2011, 45, 1025–1038. [CrossRef]
+Burnet, J.B.; Penny, C.; Ogorzaly, L.; Cauchie, H.M. Spatial and temporal distribution of Cryptosporidium and
+Giardia in a drinking water resource: Implications for monitoring and risk assessment. Sci. Total Environ.
+2014, 472, 1023–1035. [CrossRef]
+Devane, M.L.; Moriarty, E.M.; Wood, D.; Webster-Brown, J.; Gilpin, B.J. The impact of major earthquakes and
+subsequent sewage discharges on the microbial quality of water and sediments in an urban river. Sci. Total
+Environ. 2014, 485–486, 666–680. [CrossRef]
+Dorevitch, S.; Doi, M.; Hsu, F.C.; Lin, K.T.; Roberts, J.D.; Liu, L.C.; Gladding, R.; Vannoy, E.; Li, H.;
+Javor, M.; et al. A comparison of rapid and conventional measures of indicator bacteria as predictors
+of waterborne protozoan pathogen presence and density. J. Environ. Monit. 2011, 13, 2427–2435. [CrossRef]
+Duris, J.W.; Reif, A.G.; Krouse, D.A.; Isaacs, N.M. Factors related to occurrence and distribution of selected
+bacterial and protozoan pathogens in pennsylvania streams. Water Res. 2013, 47, 300–314. [CrossRef]
+[PubMed]
+Haack, S.K.; Duris, J.W.; Fogarty, L.R.; Kolpin, D.W.; Focazio, M.J.; Furlong, E.T.; Meyer, M.T. Comparing
+wastewater chemicals, indicator bacteria concentrations, and bacterial pathogen genes as fecal pollution
+indicators. J. Environ. Qual. 2009, 38, 248–258. [CrossRef]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+58.
+
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+73.
+
+74.
+
+33 of 39
+
+Ji, W.T.; Hsu, B.M.; Chang, T.Y.; Hsu, T.K.; Kao, P.M.; Huang, K.H.; Tsai, S.F.; Huang, Y.L.; Fan, C.W.
+Surveillance and evaluation of the infection risk of free-living amoebae and Legionella in different aquatic
+environments. Sci. Total Environ. 2014, 499, 212–219. [CrossRef] [PubMed]
+Mansilha, C.R.; Coelho, C.A.; Reinas, A.; Moutinho, A.; Ferreira, S.; Pizarro, C.; Tavares, A. Salmonella:
+The forgotten pathogen: Health hazards of compliance with European bathing water legislation. Mar. Pollut.
+Bull. 2010, 60, 819–826. [CrossRef] [PubMed]
+Oster, R.J.; Wijesinghe, R.U.; Haack, S.K.; Fogarty, L.R.; Tucker, T.R.; Riley, S.C. Bacterial pathogen gene
+abundance and relation to recreational water quality at seven Great Lakes beaches. Environ. Sci. Technol.
+2014, 48, 14148–14157. [CrossRef] [PubMed]
+Poma, V.; Mamani, N.; Iniguez, V. Impact of urban contamination of the La Paz River basin on thermotolerant
+coliform density and occurrence of multiple antibiotic resistant enteric pathogens in river water, irrigated
+soil and fresh vegetables. Springerplus 2016, 5, 499. [CrossRef] [PubMed]
+Shen, S.M.; Chou, M.Y.; Hsu, B.M.; Ji, W.T.; Hsu, T.K.; Tsai, H.F.; Huang, Y.L.; Chiu, Y.C.; Kao, E.S.;
+Kao, P.M.; et al. Assessment of Legionella pneumophila in recreational spring water with quantitative PCR
+(Taqman) assay. Pathog. Glob. Health 2015, 109, 236–241. [CrossRef] [PubMed]
+Wilkes, G.; Edge, T.; Gannon, V.; Jokinen, C.; Lyautey, E.; Medeiros, D.; Neumann, N.; Ruecker, N.; Topp, E.;
+Lapen, D.R. Seasonal relationships among indicator bacteria, pathogenic bacteria, Cryptosporidium oocysts,
+Giardia cysts, and hydrological indices for surface waters within an agricultural landscape. Water Res. 2009,
+43, 2209–2223. [CrossRef] [PubMed]
+Wyer, M.D.; Wyn-Jones, A.P.; Kay, D.; Au-Yeung, H.K.; Girones, R.; Lopez-Pila, J.; de Roda Husman, A.M.;
+Rutjes, S.; Schneider, O. Relationships between human adenoviruses and faecal indicator organisms in
+European recreational waters. Water Res. 2012, 46, 4130–4141. [CrossRef] [PubMed]
+Xiao, G.; Wang, Z.; Chen, J.; Qiu, Z.; Li, Y.; Qi, J.; Liu, W.; Shu, W. Occurrence and infection risk of waterborne
+pathogens in Wanzhou watershed of the Three Gorges Reservoir, China. J. Environ. Sci. 2013, 25, 1913–1924.
+[CrossRef]
+Cui, Q.; Fang, T.; Huang, Y.; Dong, P.; Wang, H. Evaluation of bacterial pathogen diversity, abundance and
+health risks in urban recreational water by amplicon next-generation sequencing and quantitative PCR.
+J. Environ. Sci. 2017, 57, 137–149. [CrossRef] [PubMed]
+Duris, J.W.; Haack, S.K.; Fogarty, L.R. Gene and antigen markers of Shiga-toxin producing E. coli from
+Michigan and Indiana river water: Occurrence and relation to recreational water quality criteria. J. Environ.
+Qual. 2009, 38, 1878–1886. [CrossRef] [PubMed]
+Fang, T.; Cui, Q.; Huang, Y.; Dong, P.; Wang, H.; Liu, W.T.; Ye, Q. Distribution comparison and risk assessment
+of free-floating and particle-attached bacterial pathogens in urban recreational water: Implications for water
+quality management. Sci. Total Environ. 2018, 613–614, 428–438. [CrossRef] [PubMed]
+Fong, T.T.; Griffin, D.W.; Lipp, E.K. Molecular assays for targeting human and bovine enteric viruses in
+coastal waters and their application for library-independent source tracking. Appl. Environ. Microbiol. 2005,
+71, 2070–2078. [CrossRef] [PubMed]
+Hellein, K.N.; Battie, C.; Tauchman, E.; Lund, D.; Oyarzabal, O.A.; Lepo, J.E. Culture-based indicators of fecal
+contamination and molecular microbial indicators rarely correlate with Campylobacter spp. in recreational
+waters. J. Water Health 2011, 9, 695–707. [CrossRef] [PubMed]
+Ishii, S.; Nakamura, T.; Ozawa, S.; Kobayashi, A.; Sano, D.; Okabe, S. Water quality monitoring and risk
+assessment by simultaneous multipathogen quantification. Environ. Sci. Technol. 2014, 48, 4744–4749.
+[CrossRef] [PubMed]
+Lee, C.S.; Lee, C.; Marion, J.; Wang, Q.H.; Saif, L.; Lee, J. Occurrence of human enteric viruses at freshwater
+beaches during swimming season and its link to water inflow. Sci. Total Environ. 2014, 472, 757–766.
+[CrossRef]
+Miagostovich, M.P.; Ferreira, F.F.; Guimaraes, F.R.; Fumian, T.M.; Diniz-Mendes, L.; Luz, S.L.; Silva, L.A.;
+Leite, J.P. Molecular detection and characterization of gastroenteritis viruses occurring naturally in the
+stream waters of manaus, central Amazonia, Brazil. Appl. Environ. Microbiol. 2008, 74, 375–382. [CrossRef]
+[PubMed]
+Smith, C.J.; Olszewski, A.M.; Mauro, S.A. Correlation of shiga toxin gene frequency with commonly used
+microbial indicators of recreational water quality. Appl. Environ. Microbiol. 2009, 75, 316–321. [CrossRef]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+75.
+76.
+
+77.
+
+78.
+79.
+
+80.
+81.
+82.
+83.
+84.
+
+85.
+
+86.
+
+87.
+
+88.
+
+89.
+
+90.
+91.
+92.
+93.
+
+94.
+
+34 of 39
+
+Xiao, S.; Zhang, Y.; Zhao, X.; Sun, L.; Hu, S. Presence and molecular characterization of Cryptosporidium and
+Giardia in recreational lake water in Tianjin, China: A preliminary study. Sci. Rep. 2018, 8, 2353. [CrossRef]
+Abdelzaher, A.M.; Wright, M.E.; Ortega, C.; Hasan, A.R.; Shibata, T.; Solo-Gabriele, H.M.; Kish, J.; Withum, K.;
+He, G.; Elmir, S.M.; et al. Daily measures of microbes and human health at a non-point source marine beach.
+J. Water Health 2011, 9, 443–457. [CrossRef] [PubMed]
+Abdelzaher, A.M.; Wright, M.E.; Ortega, C.; Solo-Gabriele, H.M.; Miller, G.; Elmir, S.; Newman, X.; Shih, P.;
+Bonilla, J.A.; Bonilla, T.D.; et al. Presence of pathogens and indicator microbes at a non-point source
+subtropical recreational marine beach. Appl. Environ. Microbiol. 2010, 76, 724–732. [CrossRef] [PubMed]
+Goyal, S.M.; Gerba, C.P.; Melnick, J.L. Occurrence and distribution of bacterial indicators and pathogens in
+canal communities along the Texas coast. Appl. Environ. Microbiol. 1977, 34, 139–149. [PubMed]
+Griffith, J.F.; Weisberg, S.B.; Arnold, B.F.; Cao, Y.; Schiff, K.C.; Colford, J.M., Jr. Epidemiologic evaluation of
+multiple alternate microbial water quality monitoring indicators at three California beaches. Water Res. 2016,
+94, 371–381. [CrossRef] [PubMed]
+Korajkic, A.; Brownell, M.J.; Harwood, V.J. Investigation of human sewage pollution and pathogen analysis
+at Florida Gulf coast beaches. J. Appl. Microbiol. 2011, 110, 174–183. [CrossRef] [PubMed]
+Lipp, E.K.; Farrah, S.A.; Rose, J.B. Assessment and impact of microbial fecal pollution and human enteric
+pathogens in a coastal community. Mar. Pollut. Bull. 2001, 42, 286–293. [CrossRef]
+Moce-Llivina, L.; Lucena, F.; Jofre, J. Enteroviruses and bacteriophages in bathing waters. Appl. Environ.
+Microbiol. 2005, 71, 6838–6844. [CrossRef] [PubMed]
+Rosario, K.; Symonds, E.M.; Sinigalliano, C.; Stewart, J.; Breitbart, M. Pepper mild mottle virus as an indicator
+of fecal pollution. Appl. Environ. Microbiol. 2009, 75, 7261–7267. [CrossRef] [PubMed]
+Shaw, K.S.; Rosenberg Goldstein, R.E.; He, X.; Jacobs, J.M.; Crump, B.C.; Sapkota, A.R. Antimicrobial
+susceptibility of Vibrio vulnificus and Vibrio parahaemolyticus recovered from recreational and commercial
+areas of Chesapeake Bay and Maryland Coastal Bays. PLoS ONE 2014, 9, e89616. [CrossRef]
+Shaw, K.S.; Sapkota, A.R.; Jacobs, J.M.; He, X.; Crump, B.C. Recreational swimmers’ exposure to
+Vibrio vulnificus and Vibrio parahaemolyticus in the Chesapeake Bay, Maryland, USA. Environ. Int. 2015,
+74, 99–105. [CrossRef]
+Sinigalliano, C.D.; Fleisher, J.M.; Gidley, M.L.; Solo-Gabriele, H.M.; Shibata, T.; Plano, L.R.; Elmir, S.M.;
+Wanless, D.; Bartkowiak, J.; Boiteau, R.; et al. Traditional and molecular analyses for fecal indicator bacteria
+in non-point source subtropical recreational marine waters. Water Res. 2010, 44, 3763–3772. [CrossRef]
+[PubMed]
+Wetz, J.J.; Lipp, E.K.; Griffin, D.W.; Lukasik, J.; Wait, D.; Sobsey, M.D.; Scott, T.M.; Rose, J.B. Presence,
+infectivity, and stability of enteric viruses in seawater: Relationship to marine water quality in the Florida
+keys. Mar. Pollut. Bull. 2004, 48, 698–704. [CrossRef] [PubMed]
+Betancourt, W.Q.; Duarte, D.C.; Vasquez, R.C.; Gurian, P.L. Cryptosporidium and Giardia in tropical
+recreational marine waters contaminated with domestic sewage: Estimation of bathing-associated disease
+risks. Mar. Pollut. Bull. 2014, 85, 268–273. [CrossRef] [PubMed]
+Henry, R.; Schang, C.; Kolotelo, P.; Coleman, R.; Rooney, G.; Schmidt, J.; Deletic, A.; McCarthy, D.T. Effect
+of environmental parameters on pathogen and faecal indicator organism concentrations within an urban
+estuary. Estuar. Coast. Shelf Sci. 2016, 174, 18–26. [CrossRef]
+Jiang, S.; Noble, R.; Chu, W. Human adenoviruses and coliphages in urban runoff-impacted coastal waters
+of southern California. Appl. Environ. Microbiol. 2001, 67, 179–184. [CrossRef] [PubMed]
+Jiang, S.C.; Chu, W. Pcr detection of pathogenic viruses in southern California urban rivers. J. Appl. Microbiol.
+2004, 97, 17–28. [CrossRef]
+Jiang, S.C.; Chu, W.; He, J.W. Seasonal detection of human viruses and coliphage in Newport Bay, California.
+Appl. Environ. Microbiol. 2007, 73, 6468–6474. [CrossRef]
+McQuaig, S.; Griffith, J.; Harwood, V.J. Association of fecal indicator bacteria with human viruses and
+microbial source tracking markers at coastal beaches impacted by nonpoint source pollution. Appl. Environ.
+Microbiol. 2012, 78, 6423–6432. [CrossRef]
+Ortega, C.; Solo-Gabriele, H.M.; Abdelzaher, A.; Wright, M.; Deng, Y.; Stark, L.M. Correlations between
+microbial indicators, pathogens, and environmental factors in a subtropical estuary. Mar. Pollut. Bull. 2009,
+58, 1374–1381. [CrossRef]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+95.
+
+35 of 39
+
+Silva, A.M.; Vieira, H.; Martins, N.; Granja, A.T.; Vale, M.J.; Vale, F.F. Viral and bacterial contamination in
+recreational waters: A case study in the Lisbon bay area. J. Appl. Microbiol. 2010, 108, 1023–1031. [CrossRef]
+96. Efstratiou, M.A.; Tsirtsis, G. Do 2006/7/EC European Union Bathing Water Standards exclude the risk of
+contact with Salmonella or Candida albicans? Mar. Pollut. Bull. 2009, 58, 1039–1044. [CrossRef] [PubMed]
+97. Graczyk, T.K.; Sunderland, D.; Awantang, G.N.; Mashinski, Y.; Lucy, F.E.; Graczyk, Z.; Chomicz, L.;
+Breysse, P.N. Relationships among bather density, levels of human waterborne pathogens, and fecal coliform
+counts in marine recreational beach water. Parasitol. Res. 2010, 106, 1103–1108. [CrossRef] [PubMed]
+98. McQuaig, S.M.; Scott, T.M.; Harwood, V.J.; Farrah, S.R.; Lukasik, J.O. Detection of human-derived fecal
+pollution in environmental waters by use of a PCR-based human polyomavirus assay. Appl. Environ.
+Microbiol. 2006, 72, 7567–7574. [CrossRef] [PubMed]
+99. McQuaig, S.M.; Scott, T.M.; Lukasik, J.O.; Paul, J.H.; Harwood, V.J. Quantification of human polyomaviruses
+JC virus and BK virus by taqman quantitative pcr and comparison to other water quality indicators in water
+and fecal samples. Appl. Environ. Microbiol. 2009, 75, 3379–3388. [CrossRef] [PubMed]
+100. Viau, E.J.; Goodwin, K.D.; Yamahara, K.M.; Layton, B.A.; Sassoubre, L.M.; Burns, S.L.; Tong, H.I.; Wong, S.H.;
+Lu, Y.; Boehm, A.B. Bacterial pathogens in Hawaiian coastal streams—Associations with fecal indicators,
+land cover, and water quality. Water Res. 2011, 45, 3279–3290. [CrossRef] [PubMed]
+101. Graczyk, T.K.; Sunderland, D.; Tamang, L.; Shields, T.M.; Lucy, F.E.; Breysse, P.N. Quantitative evaluation
+of the impact of bather density on levels of human-virulent microsporidian spores in recreational water.
+Appl. Environ. Microbiol. 2007, 73, 4095–4099. [CrossRef] [PubMed]
+102. Lodder, W.J.; de Roda Husman, A.M. Presence of noroviruses and other enteric viruses in sewage and
+surface waters in the Netherlands. Appl. Environ. Microbiol. 2005, 71, 1453–1461. [CrossRef] [PubMed]
+103. Rezaeinejad, S.; Vergara, G.G.; Woo, C.H.; Lim, T.T.; Sobsey, M.D.; Gin, K.Y. Surveillance of enteric viruses
+and coliphages in a tropical urban catchment. Water Res. 2014, 58, 122–131. [CrossRef]
+104. Fung, D.Y.C.; Fujioka, R.; Vijayavel, K.; Sato, D.; Bishop, D. Evaluation of fung double tube test for
+Clostridium perfringens and Easyphage test for F-specific RNA coliphages as rapid screening tests for fecal
+contamination in recreational waters of Hawaii (vol 15, pg 217, 2007). J. Rapid Methods Autom. Microbiol.
+2007, 15, 411. [CrossRef]
+105. Wong, M.; Kumar, L.; Jenkins, T.M.; Xagoraraki, I.; Phanikumar, M.S.; Rose, J.B. Evaluation of public
+health risks at recreational beaches in Lake Michigan via detection of enteric viruses and a human-specific
+bacteriological marker. Water Res. 2009, 43, 1137–1149. [CrossRef]
+106. Walters, S.P.; Gannon, V.P.; Field, K.G. Detection of Bacteroidales fecal indicators and the zoonotic pathogens
+E. coli 0157:H7, Salmonella, and Campylobacter in river water. Environ. Sci. Technol. 2007, 41, 1856–1862.
+[CrossRef] [PubMed]
+107. Donati, M.; Cremonini, E.; Di Francesco, A.; Dallolio, L.; Biondi, R.; Muthusamy, R.; Leoni, E. Prevalence of
+Simkania negevensis in chlorinated water from spa swimming pools and domestic supplies. J. Appl. Microbiol.
+2015, 118, 1076–1082. [CrossRef] [PubMed]
+108. La Rosa, G.; Della Libera, S.; Petricca, S.; Iaconelli, M.; Briancesco, R.; Paradiso, R.; Semproni, M.;
+Di Bonito, P.; Bonadonna, L. First detection of papillomaviruses and polyomaviruses in swimming pool
+waters: Unrecognized recreational water-related pathogens? J. Appl. Microbiol. 2015, 119, 1683–1691.
+[CrossRef] [PubMed]
+109. Maunula, L.; Kalso, S.; Von Bonsdorff, C.H.; Ponka, A. Wading pool water contaminated with both
+noroviruses and astroviruses as the source of a gastroenteritis outbreak. Epidemiol. Infect. 2004, 132,
+737–743. [CrossRef] [PubMed]
+110. Wade, T.J.; Calderon, R.L.; Brenner, K.P.; Sams, E.; Beach, M.; Haugland, R.; Wymer, L.; Dufour, A.P. High
+sensitivity of children to swimming-associated gastrointestinal illness: Results using a rapid assay of
+recreational water quality. Epidemiology 2008, 19, 375–383. [CrossRef]
+111. Yau, V.M.; Schiff, K.C.; Arnold, B.F.; Griffith, J.F.; Gruber, J.S.; Wright, C.C.; Wade, T.J.; Burns, S.; Hayes, J.M.;
+McGee, C.; et al. Effect of submarine groundwater discharge on bacterial indicators and swimmer health at
+Avalon Beach, CA, USA. Water Res. 2014, 59, 23–36. [CrossRef]
+112. Napier, M.D.; Haugland, R.; Poole, C.; Dufour, A.P.; Stewart, J.R.; Weber, D.J.; Varma, M.; Lavender, J.S.;
+Wade, T.J. Exposure to human-associated fecal indicators and self-reported illness among swimmers at
+recreational beaches: A cohort study. Environ. Health 2017, 16, 103. [CrossRef]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+36 of 39
+
+113. Benjamin-Chung, J.; Arnold, B.F.; Wade, T.J.; Schiff, K.; Griffith, J.F.; Dufour, A.P.; Weisberg, S.B.;
+Colford, J.M., Jr. Coliphages and gastrointestinal illness in recreational waters: Pooled analysis of six
+coastal beach cohorts. Epidemiology 2017, 28, 644–652. [CrossRef]
+114. Arnold, B.F.; Wade, T.J.; Benjamin-Chung, J.; Schiff, K.C.; Griffith, J.F.; Dufour, A.P.; Weisberg, S.B.;
+Colford, J.M., Jr. Acute gastroenteritis and recreational water: Highest burden among young US children.
+Am. J. Public Health 2016, 106, 1690–1697. [CrossRef]
+115. Wade, T.J.; Sams, E.A.; Beach, M.J.; Collier, S.A.; Dufour, A.P. The incidence and health burden of earaches
+attributable to recreational swimming in natural waters: A prospective cohort study. Environ. Health 2013,
+12, 67. [CrossRef]
+116. Colford, J.M., Jr.; Schiff, K.C.; Griffith, J.F.; Yau, V.; Arnold, B.F.; Wright, C.C.; Gruber, J.S.; Wade, T.J.; Burns, S.;
+Hayes, J.; et al. Using rapid indicators for enterococcus to assess the risk of illness after exposure to urban
+runoff contaminated marine water. Water Res. 2012, 46, 2176–2186. [CrossRef] [PubMed]
+117. Wade, T.J.; Sams, E.; Brenner, K.P.; Haugland, R.; Chern, E.; Beach, M.; Wymer, L.; Rankin, C.C.; Love, D.;
+Li, Q.; et al. Rapidly measured indicators of recreational water quality and swimming-associated illness at
+marine beaches: A prospective cohort study. Environ. Health 2010, 9, 66. [CrossRef] [PubMed]
+118. Colford, J.M., Jr.; Wade, T.J.; Schift, K.C.; Wright, C.; Griffith, J.F.; Sandhu, S.K.; Weisberg, S.B. Recreational
+Water Contact and Illness in Mission Bay, California; Southern California Coastal Water Research Project: Costa
+Mesa, CA, USA, 2005.
+119. Colford, J.M., Jr.; Wade, T.J.; Schiff, K.C.; Wright, C.C.; Griffith, J.F.; Sandhu, S.K.; Burns, S.; Sobsey, M.;
+Lovelace, G.; Weisberg, S.B. Water quality indicators and the risk of illness at beaches with nonpoint sources
+of fecal contamination. Epidemiology 2007, 18, 27–35. [CrossRef] [PubMed]
+120. Wade, T.J.; Calderon, R.L.; Sams, E.; Beach, M.; Brenner, K.P.; Williams, A.H.; Dufour, A.P. Rapidly measured
+indicators of recreational water quality are predictive of swimming-associated gastrointestinal illness.
+Environ. Health Perspect. 2006, 114, 24–28. [CrossRef]
+121. Arnold, B.F.; Schiff, K.C.; Ercumen, A.; Benjamin-Chung, J.; Steele, J.A.; Griffith, J.F.; Steinberg, S.J.; Smith, P.;
+McGee, C.D.; Wilson, R.; et al. Acute illness among surfers after exposure to seawater in dry- and wet-weather
+conditions. Am. J. Epidemiol. 2017, 186, 866–875. [CrossRef] [PubMed]
+122. Vonschirnding, Y.E.R.; Kfir, R.; Cabelli, V.; Franklin, L.; Joubert, G. Morbidity among bathers exposed to
+polluted seawater—A prospective epidemiologic-study. S. Afr. Med. J. 1992, 81, 543–546.
+123. Lee, J.V.; Dawson, S.R.; Ward, S.; Surman, S.B.; Neal, K.R. Bacteriophages are a better indicator of illness
+rates than bacteria amongst users of a white water course fed by a lowland river. Water Sci. Technol. 1997, 35,
+165–170. [CrossRef]
+124. Van Asperen, I.A.; Medema, G.; Borgdorff, M.W.; Sprenger, M.J.W.; Havelaar, A.H. Risk of gastroenteritis
+among triathletes in relation to faecal pollution of fresh waters. Int. J. Epidemiol. 1998, 27, 309–315. [CrossRef]
+125. Schets, F.M.; Schijven, J.F.; de Roda Husman, A.M. Exposure assessment for swimmers in bathing waters
+and swimming pools. Water Res. 2011, 45, 2392–2400. [CrossRef]
+126. Schets, F.M.; De Roda Husman, A.M.; Havelaar, A.H. Disease outbreaks associated with untreated
+recreational water use. Epidemiol. Infect. 2011, 139, 1114–1125. [CrossRef]
+127. Grenier, J.L.; Davis, J.A. Water quality in south San Francisco Bay, California: Current condition and potential
+issues for the South Bay Salt Pond Restoration Project. Rev. Environ. Contam. Toxicol. 2010, 206, 115–147.
+[PubMed]
+128. McMinn, B.R.; Ashbolt, N.J.; Korajkic, A. Bacteriophages as indicators of faecal pollution and enteric virus
+removal. Lett. Appl. Microbiol. 2017, 65, 11–26. [CrossRef] [PubMed]
+129. McMinn, B.R.; Korajkic, A.; Ashbolt, N.J. Evaluation of Bacteroides fragilis GB-124 bacteriophages as novel
+human-associated faecal indicators in the United States. Lett. Appl. Microbiol. 2014, 59, 115–121. [CrossRef]
+[PubMed]
+130. Eftim, S.E.; Hong, T.; Soller, J.; Boehm, A.; Warren, I.; Ichida, A.; Nappier, S.P. Occurrence of norovirus in raw
+sewage—A systematic literature review and meta-analysis. Water Res. 2017, 111, 366–374. [CrossRef]
+131. Li, J.; Wang, H.; Wang, R.; Zhang, L. Giardia duodenalis infections in humans and other animals in China.
+Front. Microbiol. 2017, 8, 2004. [CrossRef]
+132. Rose, J.B.; Huffman, D.E.; Gennaccaro, A. Risk and control of waterborne cryptosporidiosis. FEMS Microbiol.
+Rev. 2002, 26, 113–123. [CrossRef]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+37 of 39
+
+133. Sinclair, R.G.; Choi, C.Y.; Riley, M.R.; Gerba, C.P. Pathogen surveillance through monitoring of sewer systems.
+Adv. Appl. Microbiol. 2008, 65, 249–269.
+134. Ganesh, A.; Lin, J. Waterborne human pathogenic viruses of public health concern. Int. J. Environ. Health Res.
+2013, 23, 544–564. [CrossRef]
+135. Matthews, L.; Low, J.C.; Gally, D.L.; Pearce, M.C.; Mellor, D.J.; Heesterbeek, J.A.; Chase-Topping, M.;
+Naylor, S.W.; Shaw, D.J.; Reid, S.W.; et al. Heterogeneous shedding of Escherichia coli O157 in cattle and its
+implications for control. Proc. Natl. Acad. Sci. USA 2006, 103, 547–552. [CrossRef]
+136. Daniels, M.E.; Shrivastava, A.; Smith, W.A.; Sahu, P.; Odagiri, M.; Misra, P.R.; Panigrahi, P.; Suar, M.;
+Clasen, T.; Jenkins, M.W. Cryptosporidium and Giardia in humans, domestic animals, and village water
+sources in rural india. Am. J. Trop. Med. Hyg. 2015, 93, 596–600. [CrossRef]
+137. Oates, S.C.; Miller, M.A.; Hardin, D.; Conrad, P.A.; Melli, A.; Jessup, D.A.; Dominik, C.; Roug, A.; Tinker, M.T.;
+Miller, W.A. Prevalence, environmental loading, and molecular characterization of Cryptosporidium and
+Giardia isolates from domestic and wild animals along the central California Coast. Appl. Environ. Microbiol.
+2012, 78, 8762–8772. [CrossRef] [PubMed]
+138. Vonberg, R.P.; Hohle, M.; Aepfelbacher, M.; Bange, F.C.; Campos, C.B.; Claussen, K.; Christner, M.;
+Cramer, J.P.; Haller, H.; Hornef, M.; et al. Duration of fecal shedding of shiga toxin-producing Escherichia coli
+O104:H4 in patients infected during the 2011 outbreak in Germany: A multicenter study. Clin. Infect. Dis.
+2013, 56, 1132–1140. [CrossRef] [PubMed]
+139. Lanzas, C.; Warnick, L.D.; James, K.L.; Wright, E.M.; Wiedmann, M.; Grohn, Y.T. Transmission dynamics of a
+multidrug-resistant Salmonella typhimurium outbreak in a dairy farm. Foodborne Pathog. Dis. 2010, 7, 467–474.
+[CrossRef]
+140. Venegas-Vargas, C.; Henderson, S.; Khare, A.; Mosci, R.E.; Lehnert, J.D.; Singh, P.; Ouellette, L.M.; Norby, B.;
+Funk, J.A.; Rust, S.; et al. Factors associated with Shiga toxin-producing Escherichia coli shedding by dairy
+and beef cattle. Appl. Environ. Microb. 2016, 82, 5049–5056. [CrossRef]
+141. Procter, T.D.; Pearl, D.L.; Finley, R.L.; Leonard, E.K.; Janecko, N.; Reid-Smith, R.J.; Weese, J.S.; Peregrine, A.S.;
+Sargeant, J.M. A cross-sectional study examining Campylobacter and other zoonotic enteric pathogens in dogs
+that frequent dog parks in three cities in south-western ontario and risk factors for shedding of Campylobacter
+spp. Zoonoses Public Health 2014, 61, 208–218. [CrossRef] [PubMed]
+142. Xu, Y.; Dugat-Bony, E.; Zaheer, R.; Selinger, L.; Barbieri, R.; Munns, K.; McAllister, T.A.; Selinger, L.B.
+Escherichia coli O157:H7 super-shedder and non-shedder feedlot steers harbour distinct fecal bacterial
+communities. PLoS ONE 2014, 9, e98115. [CrossRef]
+143. Leclerc, H.; Schwartzbrod, L.; Dei-Cas, E. Microbial agents associated with waterborne diseases. Crit. Rev.
+Microbiol. 2002, 28, 371–409. [CrossRef] [PubMed]
+144. Hara-Kudo, Y.; Takatori, K. Contamination level and ingestion dose of foodborne pathogens associated with
+infections. Epidemiol. Infect. 2011, 139, 1505–1510. [CrossRef] [PubMed]
+145. Harwood, V.J.; Levine, A.D.; Scott, T.M.; Chivukula, V.; Lukasik, J.; Farrah, S.R.; Rose, J.B. Validity of the
+indicator organism paradigm for pathogen reduction in reclaimed water and public health protection.
+Appl. Environ. Microbiol. 2005, 71, 3163–3170. [CrossRef]
+146. Hijnen, W.A.; Beerendonk, E.F.; Medema, G.J. Inactivation credit of uv radiation for viruses, bacteria and
+protozoan (oo)cysts in water: A review. Water Res. 2006, 40, 3–22. [CrossRef]
+147. Nasser, A.M. Removal of Cryptosporidium by wastewater treatment processes: A review. J. Water Health 2016,
+14, 1–13. [CrossRef] [PubMed]
+148. Eischeid, A.C.; Meyer, J.N.; Linden, K.G. Uv disinfection of adenoviruses: Molecular indications of DNA
+damage efficiency. Appl. Environ. Microbiol. 2009, 75, 23–28. [CrossRef] [PubMed]
+149. Nelson, K.L.; Boehm, A.B.; Davies-Colley, R.J.; Dodd, M.C.; Kohn, T.; Linden, K.G.; Liu, Y.; Maraccini, P.A.;
+McNeill, K.; Mitch, W.A.; et al. Sunlight-mediated inactivation of health-relevant microorganisms in water:
+A review of mechanisms and modeling approaches. Environ. Sci. Process. Impacts 2018, 20, 1089–1122.
+[CrossRef] [PubMed]
+150. Bae, S.; Wuertz, S. Decay of host-associated bacteroidales cells and DNA in continuous-flow freshwater and
+seawater microcosms of identical experimental design and temperature as measured by PMA-qPCR and
+qPCR. Water Res. 2015, 70, 205–213. [CrossRef] [PubMed]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+38 of 39
+
+151. Bae, S.; Wuertz, S. Survival of host-associated bacteroidales cells and their relationship with Enterococcus spp.,
+Campylobacter jejuni, Salmonella enterica serovar typhimurium, and adenovirus in freshwater microcosms as
+measured by propidium monoazide-quantitative pcr. Appl. Environ. Microbiol. 2012, 78, 922–932. [CrossRef]
+[PubMed]
+152. Wanjugi, P.; Sivaganesan, M.; Korajkic, A.; Kelty, C.A.; McMinn, B.; Ulrich, R.; Harwood, V.J.; Shanks, O.C.
+Differential decomposition of bacterial and viral fecal indicators in common human pollution types.
+Water Res. 2016, 105, 591–601. [CrossRef]
+153. Korajkic, A.; McMinn, B.R.; Shanks, O.C.; Sivaganesan, M.; Fout, G.S.; Ashbolt, N.J. Biotic interactions and
+sunlight affect persistence of fecal indicator bacteria and microbial source tracking genetic markers in the
+upper Mississippi River. Appl. Environ. Microbiol. 2014, 80, 3952–3961. [CrossRef]
+154. Kreader, C.A. Persistence of pcr-detectable bacteroides distasonis from human feces in river water.
+Appl. Environ. Microbiol. 1998, 64, 4103–4105.
+155. Dick, L.K.; Stelzer, E.A.; Bertke, E.E.; Fong, D.L.; Stoeckel, D.M. Relative decay of bacteroidales microbial
+source tracking markers and cultivated Escherichia coli in freshwater microcosms. Appl. Environ. Microbiol.
+2010, 76, 3255–3262. [CrossRef]
+156. Booncharoen, N.; Mongkolsuk, S.; Sirikanchana, K. Comparative persistence of human sewage-specific
+enterococcal bacteriophages in freshwater and seawater. Appl. Microbiol. Biotechnol. 2018, 102, 6235–6246.
+[CrossRef]
+157. Chauret, C.; Nolan, K.; Chen, P.; Springthorpe, S.; Sattar, S. Aging of Cryptosporidium parvum oocysts in river
+water and their susceptibility to disinfection by chlorine and monochloramine. Can. J. Microbiol. 1998, 44,
+1154–1160. [CrossRef] [PubMed]
+158. McCrary, K.J.; Case, C.L.H.; Gentry, T.J.; Aitkenhead-Peterson, J.A. Escherichia coli regrowth in disinfected
+sewage effluent: Effect of doc and nutrients on regrowth in laboratory incubations and urban streams.
+Water Air Soil Pollut. 2013, 224, 1412. [CrossRef]
+159. Shelton, D.R.; Pachepsky, Y.A.; Kiefer, L.A.; Blaustein, R.A.; McCarty, G.W.; Dao, T.H. Response of coliform
+populations in streambed sediment and water column to changes in nutrient concentrations in water.
+Water Res. 2014, 59, 316–324. [CrossRef] [PubMed]
+160. Gregory, L.F.; Karthikeyan, R.; Aitkenhead-Peterson, J.A.; Gentry, T.J.; Wagner, K.L.; Harmel, R.D. Nutrient
+loading impacts on culturable E. coli and other heterotrophic bacteria fate in simulated stream mesocosms.
+Water Res. 2017, 126, 442–449. [CrossRef] [PubMed]
+161. Wanjugi, P.; Fox, G.A.; Harwood, V.J. The interplay between predation, competition, and nutrient levels
+influences the survival of Escherichia coli in aquatic environments. Microb. Ecol. 2016, 72, 526–537. [CrossRef]
+[PubMed]
+162. Sinton, L.W.; Davies-Colley, R.J.; Bell, R.G. Inactivation of enterococci and fecal coliforms from sewage and
+meatworks effluents in seawater chambers. Appl. Environ. Microbiol. 1994, 60, 2040–2048. [PubMed]
+163. Sinton, L.W.; Finlay, R.K.; Lynch, P.A. Sunlight inactivation of fecal bacteriophages and bacteria in
+sewage-polluted seawater. Appl. Environ. Microbiol. 1999, 65, 3605–3613.
+164. Sokolova, E.; Astrom, J.; Pettersson, T.J.; Bergstedt, O.; Hermansson, M. Decay of bacteroidales genetic
+markers in relation to traditional fecal indicators for water quality modeling of drinking water sources.
+Environ. Sci. Technol. 2012, 46, 892–900. [CrossRef]
+165. Ngazoa, E.S.; Fliss, I.; Jean, J. Quantitative study of persistence of human norovirus genome in water using
+TaqMan real-time RT-PCR. J. Appl. Microbiol. 2008, 104, 707–715. [CrossRef]
+166. Wait, D.A.; Sobsey, M.D. Comparative survival of enteric viruses and bacteria in Atlantic ocean seawater.
+Water Sci. Technol. 2001, 43, 139–142. [CrossRef]
+167. Whitman, R.; Harwood, V.J.; Edge, T.A.; Nevers, M.; Byappanahalli, M.; Vijayavel, K.; Brandao, J.;
+Sadowsky, M.J.; Alm, E.W.; Crowe, A.; et al. Microbes in beach sands: Integrating environment, ecology and
+public health. Rev. Environ. Sci. Biotechnol. 2014, 13, 329–368. [CrossRef] [PubMed]
+168. Green, H.C.; Shanks, O.C.; Sivaganesan, M.; Haugland, R.A.; Field, K.G. Differential decay of human faecal
+bacteroides in marine and freshwater. Environ. Microbiol. 2011, 13, 3235–3249. [CrossRef] [PubMed]
+169. Korajkic, A.; McMinn, B.R.; Harwood, V.J.; Shanks, O.C.; Fout, G.S.; Ashbolt, N.J. Differential decay of
+enterococci and Escherichia coli originating from two fecal pollution sources. Appl. Environ. Microbiol. 2013,
+79, 2488–2492. [CrossRef] [PubMed]
+
+
+
+Int. J. Environ. Res. Public Health 2018, 15, 2842
+
+39 of 39
+
+170. Jeanneau, L.; Solecki, O.; Wery, N.; Jarde, E.; Gourmelon, M.; Communal, P.Y.; Jadas-Hecart, A.; Caprais, M.P.;
+Gruau, G.; Pourcher, A.M. Relative decay of fecal indicator bacteria and human-associated markers:
+A microcosm study simulating wastewater input into seawater and freshwater. Environ. Sci. Technol.
+2012, 46, 2375–2382. [CrossRef] [PubMed]
+171. Nayak, B.; Weidhaas, J.; Harwood, V.J. LA35 poultry fecal marker persistence is correlated with that of
+indicators and pathogens in environmental waters. Appl. Environ. Microbiol. 2015, 81, 4616–4625. [CrossRef]
+172. Hurst, C.J.; Gerba, C.P. Stability of simian rotavirus in fresh and estuarine water. Appl. Environ. Microbiol.
+1980, 39, 1–5.
+173. Lo, S.; Gilbert, J.; Hetrick, F. Stability of human enteroviruses in estuarine and marine waters. Appl. Environ.
+Microbiol. 1976, 32, 245–249.
+174. Fayer, R.; Graczyk, T.K.; Lewis, E.J.; Trout, J.M.; Farley, C.A. Survival of infectious cryptosporidium parvum
+oocysts in seawater and eastern oysters (Crassostrea virginica) in the chesapeake bay. Appl. Environ. Microbiol.
+1998, 64, 1070–1074.
+175. Korajkic, A.; McMinn, B.R.; Ashbolt, N.J.; Sivaganesan, M.; Harwood, V.J.; Shanks, O.C. Extended persistence
+of general and cattle-associated fecal indicators in marine and freshwater environment. Sci. Total Environ.
+2019, 65, 1292–1302. [CrossRef]
+176. Perkins, T.L.; Perrow, K.; Rajko-Nenow, P.; Jago, C.F.; Jones, D.L.; Malham, S.K.; McDonald, J.E. Decay
+rates of faecal indicator bacteria from sewage and ovine faeces in brackish and freshwater microcosms with
+contrasting suspended particulate matter concentrations. Sci. Total Environ. 2016, 572, 1645–1652. [CrossRef]
+177. Curtis, K.; Michael Trapp, J. Examining the colonization and survival of E. coli from varying host sources
+in drainage basin sediments and stormwater. Arch. Environ. Contam. Toxicol. 2016, 71, 183–197. [CrossRef]
+[PubMed]
+178. Cloutier, D.D.; McLellan, S.L. Distribution and differential survival of traditional and alternative indicators
+of fecal pollution at freshwater beaches. Appl. Environ. Microbiol. 2017, 83, e02881-16. [CrossRef] [PubMed]
+179. Anderson, K.L.; Whitlock, J.E.; Harwood, V.J. Persistence and differential survival of fecal indicator bacteria
+in subtropical waters and sediments. Appl. Environ. Microbiol. 2005, 71, 3041–3048. [CrossRef] [PubMed]
+180. Jenkins, M.B.; Fisher, D.S.; Endale, D.M.; Adams, P. Comparative die-off of Escherichia coli O157:H7 and fecal
+indicator bacteria in pond water. Environ. Sci. Technol. 2011, 45, 1853–1858. [CrossRef] [PubMed]
+181. Wanjugi, P.; Harwood, V.J. The influence of predation and competition on the survival of commensal and
+pathogenic fecal bacteria in aquatic habitats. Environ. Microbiol. 2013, 15, 517–526. [CrossRef] [PubMed]
+© 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

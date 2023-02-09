@@ -1,0 +1,817 @@
+DNA AND CELL BIOLOGY
+Volume 29, Number 9, 2010
+ª Mary Ann Liebert, Inc.
+Pp. 509–517
+DOI: 10.1089=dna.2009.0988
+
+Degraded Water Quality Influences
+Microbial Community Composition and Perception
+of Health Risks in the Chattooga River
+Angela D. Kent1 and Zachary L. Bayne 2
+
+Bacterial skin infections are a chronic problem among whitewater rafters on the Chattooga River in the
+southeastern United States; however, little is known about the source of such infections. The Chattooga River is a
+federally designated ‘‘Wild and Scenic’’ river, with a forested riparian buffer zone designed to protect water
+quality in the river. Riverine water quality can be negatively impacted by tributaries that are not protected by
+federal guidelines. Water quality in Stekoa Creek, a major tributary of the Chattooga River, is degraded by
+sediment that runs off from construction sites near the creek, as well as fecal coliform contamination from
+wastewater treatment facilities. Degraded water quality may impact the health of visitors recreating on the river,
+as well as recreation industry workers. We demonstrate that inputs from the impaired creek influence microbial
+community composition in Chattooga River waters. A survey of whitewater raft guides was conducted to collect
+data on incidence of skin infection, and to assess perceived health risk from recreation activities. Whitewater
+rafting guides working on the Chattooga River reported concerns about their personal health related to degraded water quality and microbial contamination from Stekoa Creek. Incidence of bacterial skin infection and
+perceived health risk was strongly correlated among the whitewater rafting guides (r ¼ 0.67). Concerns about
+environmental quality appear to be shaped by the incidence of skin infection. Such concerns are also correlated
+with changes in recreation practices among whitewater rafting guides (r ¼ 0.67).
+
+Introduction
+
+T
+
+he Chattooga River in the southern Appalachian
+Mountains of NE Georgia, NW South Carolina, and SW
+North Carolina is a federally designated ‘‘Wild and Scenic
+River’’ (Fig. 1). The Chattooga Watershed contains some of
+the most scenic and valuable water resources in the region.
+This resource supports a large recreation industry that attracts 100,000 visitors each year participating in whitewater
+kayaking, rafting, canoeing, tubing, and fishing, as well as
+swimming and camping activities. Although the river’s Wild
+and Scenic status protects the river proper, as well as a riparian buffer zone of a quarter-mile on either side, the water
+quality in this river can be negatively impacted by tributaries
+that are not protected by federal guidelines. Stekoa Creek is
+a major tributary to the Chattooga River that flows through
+the city of Clayton, GA. Water quality in Stekoa Creek is
+degraded by sediment that runs off from construction sites
+near the creek, as well as bacterial contamination from the
+wastewater treatment facilities in Clayton (Chattooga Conservancy, 2005, 2007a). Elevated fecal coliform counts are
+consistently observed in this stream, and this tributary has
+
+been listed on the state of Georgia’s list of impaired waterways for more than a decade. Degraded water quality in
+Stekoa Creek may impact the health of visitors recreating on
+the Chattooga River, as well as recreation industry workers
+(e.g., whitewater raft guides). Staphylococcus skin infections
+are a common occurrence among river rafting guides
+(Decker et al., 1986), and water pollution may be the source
+of such infections (Scott et al., 2002; Dwight et al., 2004).
+Anecdotal evidence from Chattooga River guides suggests
+that whitewater raft guides are more likely to develop bacterial skin infections if they work and recreate downstream
+of Stekoa Creek.
+The current study employed molecular microbial ecology
+methods to examine the microbial communities present in
+Stekoa Creek and in popular recreation areas in the Chattooga River (upstream and downstream of the confluence
+with Stekoa Creek), with particular attention to changes in
+the river microbial community assemblages below Stekoa
+Creek. This work addressed the hypothesis that inputs from
+Stekoa Creek significantly influence microbial community
+composition in the Chattooga River. A limited number of
+studies have examined microbial communities in riverine
+
+1
+Deparment of Natural Resources and Environmental Sciences and 2Environmental Fellows Program, University of Illinois at UrbanaChampaign, Urbana, Illinois.
+
+509
+
+
+
+510
+
+KENT AND BAYNE
+
+FIG. 1. Chattooga River basin, including the Chattooga River and major tributaries. Sample collection sites are indicated
+along the Chattooga River (sites R1–R7), and in Stekoa Creek near Clayton, GA (sites C1 and C2). Adapted from the U.S.
+Forest Service Land and Resource Management Plan for the Chattahoochee (GA), Sumter (SC), and Nantahala (NC) National
+Forests.
+systems, but inputs from tributaries (particularly those significantly impacted by anthropogenic influences) have previously been demonstrated to significantly impact the
+composition of microbial assemblages in rivers (Crump and
+Hobbie, 2005; Clinton and Vose, 2006; Winter et al., 2007).
+This study explores the impact of inputs from an impaired
+tributary on the relatively pristine waters of the Chattooga
+River.
+Data were also collected on the incidence of bacterial skin
+infections among whitewater raft guides, and correlated with
+environmental concerns and recreation activities on the
+Chattooga River. An additional objective of this work was to
+determine if experience with skin infection has influenced
+perceptions of environmental quality among frequent users
+of this recreation area. A final aim of this research was to
+explore the impact of water quality issues on perceptions of
+risk and changes in recreation activities of rafting guides.
+
+Materials and Methods
+Site description
+The Chattooga River watershed contains large blocks of
+protected lands including old-growth forest and mature
+secondary growth forest. The river proper is buffered by the
+Chattooga Wild and Scenic River Corridor, which protects a
+quarter- to half-mile of zone of riparian forest habitat on each
+side of the river from disturbance and anthropogenic impacts
+(Chattooga River Watershed Coalition, 1997) (Fig. 1). In addition, 70% of the watershed is comprised of protected lands
+managed by three national forest ranger districts: the Highlands District of the Nantahala National Forest (NC), the
+Andrew Pickens District of the Sumter National Forest (SC),
+and the Tallulah District of the Chattahoochee National
+Forest (GA). In contrast, Stekoa Creek flows through privately owned land near Clayton, GA (Pruitt et al., 2001;
+
+
+
+MICROBIAL COMMUNITY COMPOSITION IN THE CHATTOOGA RIVER
+Riedel and Vose, 2002). Urban development, deforestation,
+invasive species, sedimentation, and land use changes have
+impacted the water quality in Stekoa Creek (Chattooga River
+Watershed Coalition, 1997; Pruitt et al., 2001; Chattooga
+Conservancy, 2007a).
+Water collection
+Two-liter surface grab samples were collected at various
+points along sections II–IV of the Chattooga River, and in
+Stekoa Creek (Fig. 1). Samples were collected four times
+throughout the summer, on May 16, June 23, July 10, and
+August 17, 2007. Sample locations are indicated in Figure 1.
+Chattooga River sample collection sites were classified as
+‘‘upstream’’ or ‘‘downstream’’ in relation to Stekoa Creek.
+Bacterial community analysis
+Bacteria present in these samples were concentrated onto
+0.2-mm filters (Supor-200; Pall Corp., Port Washington, NY).
+Filters were frozen immediately, and stored frozen awaiting
+DNA extraction using the FastPrep DNA purification kit
+(MP Biomedicals, Solon, OH). Bacterial community composition and diversity was assessed using automated ribosomal
+intergenic spacer analysis (ARISA) (Fisher and Triplett,
+1999), as described in previous studies (Kent et al., 2004;
+Yannarell and Triplett, 2005; Kent et al., 2007). The ARISA
+method uses polymerase chain reaction (PCR) to amplify the
+internal transcribed spacer region of the bacterial rRNA operon. Different lengths of this intergenic spacer region are
+diagnostic of different bacterial populations, and can be used
+to develop a DNA fingerprint of the microbial community
+that is analogous to a census of microbial populations.
+ARISA PCR reactions included buffer consisting of 50 mM
+Tris (pH 8.0), 250 mg of bovine serum albumin per mL and
+3.0 mM MgCl2 (Idaho Technology, Salt Lake City, UT; cat
+#1770), 250 mM of each dNTP, 10 pmol of each primer, 1.25 U
+of Taq polymerase (Promega, Madison, WI), and 1 mL of
+extracted DNA in a final volume of 25 mL. The bacterial internal transcribed spacer region was amplified using the
+following primers: 1406f, 50 TGYACACACCGCCCGT 30
+(universal, 16S rRNA gene), and 23Sr, 50 GGGTTBCCC
+CATTCRG 30 (bacteria-specific, 23S rRNA gene). The 1406f
+primer was labeled at the 50 end with the phosphoramidite
+dye 6-FAM. PCR was carried out in an Eppendorf MasterCycler Gradient (Eppendorf, Hauppauge, NY) with an
+initial denaturation at 948C for 2 min, followed by 30 cycles
+of 948C for 35 s, 558C for 45 s, and 728C for 2 min, with a final
+extension carried out at 728C for 2 min. Lengths of ARISA
+PCR products from each sample were determine by denaturing capillary electrophoresis using an ABI 3730xl Genetic
+Analyzer (Applied Biosystems, Foster City, CA) at the UIUC
+Biotechnology Center W.M. Keck Center for Comparative
+and Functional Genomics. A custom 100- to 2000-bp Rhodamine X-labeled size standard (Bioventures, Murfreesboro,
+TN) was used as the internal size standard for each sample.
+Size-calling was carried out using GeneMarker version 1.6
+(SoftGenetics, State College, PA). Capillary electrophoresis
+results in minor run-to-run variations in observed versus
+actual fragment length that were resolved using the allelecalling features in GeneMarker before statistical analysis. To
+include the maximum number of peaks while excluding
+background fluorescence, a threshold of 100 fluorescence
+
+511
+
+units was used. The signal strength (i.e., peak area) of each
+peak was normalized to account for run-to-run variations in
+signal detection by dividing the area of individual peaks by
+the total fluorescence (area) detected in each profile, expressing each peak as a proportion of the observed community (Rees et al., 2004, Yannarell and Triplett, 2005). These
+community fingerprints can be used to assess changes in the
+microbial assemblages community observed in Stekoa Creek.
+Data on water quality indicators (fecal coliforms) were
+available from the Chattooga Conservancy for the study
+period (Chattooga Conservancy, 2007a).
+Sequence analysis
+Clone libraries were constructed from Chattooga River
+and Stekoa Creek water samples. Briefly, the 16S rRNA gene
+was amplified from environmental DNA samples using
+primers 8F, 50 -AGAGTTTGATCMTGGCTCAG-30 , and 1492R,
+50 -GGTTACCTTGTTACGACTT-30 . PCR products were
+cloned into the pGEM-T vector following the manufacturer’s
+instructions (Promega; cat. #A1380). Cloned plasmid inserts
+were amplified directly from cells as described (Vergin et al.,
+2001) using M13 vector-specific primers. DNA sequencing of
+the cloned 16S rRNA genes was performed by the W.M.
+Keck Center for Functional Genomics at the University of Illinois using the ABI Prism BigDye terminator sequencing kit
+(Applied Biosystems) and the 1492R primer. A total of 80
+sequences were obtained from sites representing the major
+groups of samples based on Bray–Curtis similarity: sites R1
+(40 sequences), C1 (18 sequences), and R6 (22 sequences).
+Phylogenetic affiliations were assigned for each DNA sequence using the Ribosomal Database Project (RDP) Classifier (http:==rdp.cme.msu.edu=classifier=classifier.jsp). All 16S
+rRNA gene sequences generated in the current study have
+been submitted to GenBank under accession numbers
+GU247815 to GU247894.
+Survey of recreation workers
+Whitewater rafting guides on the Chattooga River were
+asked to respond to an anonymous survey (Table 1) to determine the frequency of skin infections related to their
+whitewater rafting activities. To correlate skin infection data
+with exposure to the lower (contaminated) reaches of the
+Chattooga River, data were also collected about the survey
+participants’ recreational activities on the Chattooga River
+(as part of their employment, and personal recreation activities), and about their perceptions of environmental quality
+issues related to the Chattooga River. The mode of the survey was a self-response questionnaire (Table 1). Responses
+were collected from 14 participants out of a total of 35 guides
+working for the Nantahala Outdoor Center in Bryson
+City, NC. Survey procedures were reviewed by the University of Illinois Institutional Review Board, and this study
+was exempted from further review (IRB protocol number
+07744).
+Data analysis
+To compare bacterial community composition among
+samples, the Bray–Curtis similarity coefficient (Legendre
+and Legendre, 1998) was calculated among all sample pairs
+based on the ARISA data generated from each sample. A similarity matrix was generated for all possible pairs of samples.
+
+
+
+512
+
+KENT AND BAYNE
+Table 1. Survey Questions Presented to Chattooga River Whitewater Rafting Guides
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+
+How long have you been guiding on the Chattooga River?
+Which section(s) of the Chattooga River do you guide on?
+How often do you guide on section 4 of the Chattooga River?
+When guiding, how often do you become submerged in the water?
+Do you raft=boat in section 4 of the Chattooga River for your own recreation?
+How many times per week do you raft=boat in section 4 for personal recreation?
+Have you developed Staphylococcus (‘‘staph’’) skin infections in previous years?
+Have you developed any Staphylococcus (‘‘staph’’) skin infections this summer?
+Approximately how many times this summer did you experience skin infections?
+In which months (summer 2007) did you experience skin infections? (circle all that apply)
+On a scale of 1–5, how concerned are you about water quality on the Chattooga River?
+Have concerns about water quality in the Chattooga River altered your recreation habits?
+Do you avoid rafting or boating on some sections of the Chattooga River because of water quality concerns?
+On a scale of 1–5, how concerned are you about your personal health when rafting or boating on the Chattooga
+River?
+15. On a scale of 1–5, how concerned are you about the health of your clients when rafting or boating on the Chattooga
+River?
+16. Have concerns about skin infections altered your work habits in the Chattooga River?
+17. Do you avoid guiding on some sections of the Chattooga River because of concerns about skin infections?
+Questions 5, 7, 8, 12, 13, and 16 were yes=no questions. All other questions used a Likert scale of response options (1–5).
+
+This similarity matrix was used to generate nonmetric multidimensional scaling (MDS) ordinations to observe patterns
+of similarity between samples, and significance of these
+patterns were tested using the analysis of similarity (ANOSIM) statistics (Clarke and Green, 1988). ANOSIM is a statistical procedure that tests whether communities in different
+a priori sample groups are significantly different in composition. ANOSIM generates a test statistic, R. The magnitude
+of R indicates the degree of separation between groups of
+samples, with a score of 1 indicating complete separation
+(two groups of samples are completely dissimilar) and 0
+indicating no separation. Calculation of similarity coefficients
+and ANOSIM analyses were carried out using PRIMER 6 for
+Windows (PRIMER-E, Plymouth, United Kingdom).
+Survey response data were also analyzed using nonmetric
+MDS. Similarity in survey participant responses to questions
+about environmental quality (Table 1, questions 11–15) were
+assessed using the Manhattan distance metric (Legendre and
+Legendre, 1998). The resulting similarity matrix was used to
+ordinate the survey participants in ‘‘environmental concern
+space’’ (defined by survey questions 11–15). In this multidimensional ordination space, survey participants with a similar suite of attitudes about environmental quality will plot
+close together. Patterns of similarity in participants’ perceptions of environmental quality were compared to (1) incidence of Staphylococcus skin infection, (2) concerns about the
+health of whitewater guides and rafters due to water quality,
+and (3) shifts in work and recreation habits due to concerns
+about degraded water quality.
+Correlations between individual survey elements were
+explored using Pearson’s correlations. Calculation of Pearson
+product-moment correlation coefficients was carried out using Microsoft Excel.
+Results
+Microbial community composition
+Microbial communities varied among the sample locations
+in the Chattooga River and Stekoa Creek (Fig. 2). Stekoa
+
+Creek microbial communities were consistently different
+from microbial assemblages observed in the Chattooga River
+(ANOSIM R ¼ 0.616, p ¼ 0.001). Longitudinal variability in
+microbial community composition was observed across our
+sample locations in the Chattooga River on each sample date,
+but in general, microbial communities observed throughout the length of sections II–IV (46 km) were quite similar.
+The only exception was station R6, directly downstream of
+the confluence of Stekoa Creek and the Chattooga River.
+Microbial community composition at this station was
+
+FIG. 2. Nonmetric multidimensional scaling (MDS) analysis comparing microbial community composition in water
+samples collected from the Chattooga River and Stekoa
+Creek in summer 2007. Sample locations along the river and
+creek are indicated in Fig. 1. ‘‘Upstream’’ sites refer to locations R1–R4, ‘‘downstream’’ refers to site R6, ‘‘confluence’’
+refers to site R5 at the confluence of Stekoa Creek with the
+Chattooga River, and ‘‘creek’’ refers to samples collected at
+sites C1 and C2. Each point represents the microbial assemblage present in a water sample characterized by automated ribosomal intergenic spacer analysis. Samples with
+similar microbial assemblages plot close together. Stress
+represents the agreement between the ordination and pairwise Bray–Curtis similarity coefficients between all samples.
+
+
+
+MICROBIAL COMMUNITY COMPOSITION IN THE CHATTOOGA RIVER
+consistently different from the other river samples (R1–R5, R7)
+(Fig. 2), except in August. During other times, station R6
+appeared to be intermediate in composition between the Stekoa
+Creek and Chattooga River microbial communities, indicating
+that inputs from the creek altered microbial community assemblages in the river. Interestingly, microbial community
+composition at the inlet to Lake Tugalo (R7) is generally
+similar to upstream reaches of the Chattooga River, suggesting that the influence of inputs from Stekoa Creek have been
+diluted out by the greater volume of the Chattooga River.
+Sequence analysis of 16S rRNA clones generated from
+representative samples collected upstream (Fig. 1, R1), and
+downstream (R6) of Stekoa Creek, and in Stekoa Creek (C1)
+confirms the differences in microbial assemblages in the river
+and creek (Table 2). Phylum and subphylum assignments reported in Table 2 were generated at a 99–100%
+confidence level by the RDP Classifier. Sequences assigned
+to the Actinobacteria and Bacteroidetes phyla dominated
+clones recovered from river waters (R1 and R6), with bproteobacteria assignments comprising a smaller portion of
+the sequences. A greater diversity of taxa were represented
+in sequences generated from Stekoa Creek microbial communities, despite a lower cloning effort. In particular, sequences representing a greater diversity of Proteobacteria
+groups were recovered from Stekoa Creek waters, including
+Alphaproteobacteria sequences representing the genus
+Sphingobium, and d-proteobacteria sequences affiliated with
+the family Desulfuromonaceae.
+Water quality concerns and recreation activity
+Data were collected on the incidence of skin infections
+among whitewater rafting guides working on the Chattooga
+River. The anonymous survey also collected data about
+perceptions of environmental quality among these recreation
+workers, allowing us to examine the influence of water
+quality issues on the health and behavior of recreation
+workers. Nonmetric MDS analysis was used to ordinate the
+responses of recreation workers to questions about environmental quality (Table 1, questions 11–15). This allows
+comparison of environmental quality perceptions among
+rafting guides in a multidimensional ‘‘environmental concern’’ space and assess the extent to which patterns in their
+perceptions may have been influenced by incidence of skin
+infection. We can also use this approach to look for relationships between environmental attitudes and changes in
+recreation behavior and concerns about their personal health
+or the health of their clients.
+Nonmetric MDS analysis of responses to survey questions
+11–15 indicates a range of attitudes toward environmental
+
+513
+
+quality among the 14 whitewater rafting guides who responded to the survey. Guides who have experienced skin
+infections tend to have similar responses to questions about
+their perceptions of water quality in the Chattooga River
+(Fig. 3). ANOSIM R ¼ 0.27 ( p ¼ 0.013) for comparisons among
+recreation workers based on incidence of skin infections.
+Frequency of skin infections (Table 1, question 9) is correlated with concerns about personal health when rafting
+(Table 1, question 14) (r ¼ 0.67).
+Survey responses indicated a correlation between incidence of skin infection (Fig. 3) and changes in work and
+recreation habits (r ¼ 0.67). Respondents reporting alterations
+in work and recreation practices in response to concerns
+about water quality shared similar perceptions of environmental quality (Fig. 4). ANOSIM R ¼ 0.40 ( p ¼ 0.024) for
+comparison of environmental concerns among guides based
+on altered work and=or recreation behavior.
+Concerns about environmental quality (Table 1, question
+11) were correlated with concern for personal health among
+the recreation workers (Table 1, question 14) (r ¼ 0.64). The
+level of concern about health of guides and their clients was
+overlaid on the MDS ordination of the guides in environmental attitude space (Fig. 5), indicating that guides who are
+concerned about the health of rafters tend to have similar
+perceptions of environmental quality issues in the Chattooga
+River. This group of guides most strongly concerned about
+health of rafters includes worker who have not experienced
+skin infections (Figs. 3 and 5).
+Discussion
+Microbial community composition
+in the Chattooga River
+Microbial community composition in the lower 46 km of
+the Chattooga River (sections II–IV) was similar throughout
+the surveyed reaches. Similarity in microbial community
+structure did not appear to be a function of distance. The
+microbial communities observed in Stekoa Creek were distinctly different at each time point, and for each sampling
+event, the microbial communities surveyed in this study
+could be divided into distinct river and creek assemblages, or
+a mixture of the two (Fig. 2). Previous studies of microbial
+community composition in rivers have noted gradual sequential longitudinal shifts in microbial community structure
+(Crump et al., 1999; Winter et al., 2007); however, these
+studies were examining shifts in microbial community
+structure on a larger spatial scale (2581 km) or strong salinity
+gradients. The similarity in microbial community composition along the surveyed reaches of the Chattooga River may
+
+Table 2. Percent of Sequences Affiliated with Each Phylum Are Displayed for Each Water Sample
+
+Actinobacteria
+Bacteriodetes
+b-proteobacteria
+d-proteobacteria
+a-proteobacteria
+
+Chattooga River upstream (R1)
+
+Chattooga River downstream (R6)
+
+Stekoa Creek (C1)
+
+57.5
+35.0
+7.5
+0.0
+0.0
+
+59.1
+22.7
+18.2
+0.0
+0.0
+
+33.3
+22.2
+33.3
+5.6
+5.6
+
+Subphyla are displayed for the Proteobacteria. Phylum and subphylum assignments reported in Table 2 were generated at a 99–100%
+confidence level by the Ribosomal Database Project (RDP) Classifier.
+
+
+
+514
+
+FIG. 3. Nonmetric MDS analysis comparing the survey
+responses of whitewater rafting guides. Each point represents a survey respondent and his=her range of responses to
+questions about environmental quality (Table 1, questions
+11–15). Guides with a similar suite of perceptions and concerns about environmental quality plot closer together. Stress
+represents the agreement between the ordination and pairwise Manhattan distance coefficients based on survey responses. Shaded circles represent respondents who indicated
+that they had developed a skin infection (question 8). Bubble
+diameter indicates occurrences of skin infection based on
+responses to survey question 9 (white circles represent respondents who reported no skin infections).
+be due to the small study area (relative to previous studies),
+or to the lack of strong environmental gradients.
+Differences between the microbial communities in the
+Chattooga River and Stekoa Creek may reflect the cumulative influences of different ecological drivers present in the
+
+KENT AND BAYNE
+
+FIG. 5. Nonmetric MDS analysis comparing the survey
+responses of whitewater rafting guides. Each point represents a survey respondent and their range of responses to
+questions about environmental quality (questions 11–15).
+Guides with a similar suite of attitudes toward environmental quality plot closer together. Stress represents the
+agreement between the ordination and pairwise Manhattan
+distance coefficients based on survey responses. Bubble diameter indicates level of concern about health of rafters due
+to water quality based on responses to survey question 15.
+
+watershed. Distinctly different land uses surround each
+waterway, and these land use patterns impact the chemical
+and physical parameters of the water. Aquatic microbial
+communities in numerous other systems have been shown to
+respond directly and indirectly to such factors (Crump and
+Hobbie, 2005; Kent et al., 2007, Shade et al., 2007; Winter et al.,
+2007), and the significant differences in microbial communities observed in these waterways are likely due to chemical
+and physical differences related to different land uses in the
+riparian areas. Previous studies in the headwaters of the
+Chattooga River watershed have documented differences in
+microbial indicators correlated with urban development
+(Clinton and Vose, 2006). Shifts in microbial community
+composition have been related to spatial or temporal variation in nutrient inputs in other river systems (Crump and
+Hobbie, 2005; Winter et al., 2007).
+Impact of impaired tributary
+
+FIG. 4. Nonmetric MDS analysis comparing the survey
+responses of whitewater rafting guides. Each point represents a survey respondent and their range of responses to
+questions about environmental quality (Table 1, questions
+11–15). Guides with a similar suite of attitudes toward environmental quality plot closer together. Stress represents the
+agreement between the ordination and pairwise Manhattan
+distance coefficients based on survey responses. Respondents are coded based on alteration of work and recreation habits in response to concerns about water quality
+(questions 12 and 16). Shaded circles represent respondents
+who indicated that they have changed their work and recreation habits due to concerns about water quality.
+
+Allochthonous inputs impact the water quality of Stekoa
+Creek. Sediment loading resulting from land use change in
+and around Clayton, GA, results in elevated turbidity in the
+creek (Pruitt et al., 2001; Riedel and Vose, 2002; Chattooga
+Conservancy, 2007a). This sediment is exported from Stekoa
+Creek, and decreases water quality in the Chattooga River at
+the confluence of the river and stream. Inputs from the creek
+alter the microbial community composition in the river as
+well (Fig. 2). The microbial communities observed at the
+confluence were intermediate in similarity between distinct
+assemblages observed in the Chattooga River and Stekoa
+Creek, suggesting that the populations at site R6 represent a
+mixture of river and creek microbial communities. Sedimentassociated microbial populations from the creek may be responsible for the shift in similarity of river microbial
+assemblages at site R6 (Fig. 2). Particle-associated microbial
+
+
+
+MICROBIAL COMMUNITY COMPOSITION IN THE CHATTOOGA RIVER
+populations have been observed to strongly influence microbial community composition in other riverine ecosystems
+(Crump et al., 1999). b-proteobacteria have previously
+been shown to dominate particle-associated bacterial communities (Lemarchand et al., 2006). A higher percentage of
+b-proteobacteria sequences were obtained from sedimentladen Stekoa Creek waters compared with the river
+samples (Table 2), suggesting that particle-associated bproteobacteria may be an important component of this system as well. Clone library data also indicated the presence of
+a-proteobacteria in Stekoa Creek (Table 2). a-proteobacteria
+are not typical freshwater microbial populations, and are
+more commonly found in soil habitats or marine systems
+(Yannarell and Kent, 2009). The a-proteobacteria sequences
+detected in the clone libraries were assigned to the genus
+Sphingobium, a genus typically found in soils but not aquatic
+systems (Takeuchi et al., 2001). Thus, the presence of Sphingobium in the water samples further support the conclusion
+that sediment inputs impair Stekoa Creek.
+In addition to sediment loading, water quality data
+available from the Chattooga Conservancy reported highly
+elevated fecal coliform counts in Stekoa Creek during the
+study period (Chattooga Conservancy, 2007a). Coliform
+counts in excess of 200 cells per 100 mL of water are recognized by the U.S. Environmental Protection Agency as a
+health hazard in ‘‘primary contact waters’’ used for recreation. Coliform counts in excess of 800 cells per 100 mL of
+stream water are frequently observed at various points in
+Stekoa Creek (Chattooga Conservancy, 2007a). The U.S.
+Environmental Protection Agency ranks bacterial contamination as one of the most serious pollution issues in rivers
+(US EPA, 2009). Sources of fecal coliform contamination can
+be challenging to identify, but conservation groups monitoring Stekoa Creek have identified several leaks in the sewer
+system of Clayton, GA, that contribute to the degraded water
+quality observed in Stekoa Creek (Chattooga Conservancy,
+2005). Human health risks resulting from fecal coliform
+contamination are greatest when the contamination is primarily from human sources (Cabelli et al., 1982; Scott et al.,
+2002; Dwight et al., 2004). Staphylococcus skin infections are
+common among swimmers and rafters (Charoenca and
+Fujioka, 1995; Colburn, 2003) but no diagnostic data were
+available to identify the bacteria responsible for skin infections among Chattooga whitewater raft guides. Molecular
+detection methods for Staphylococcus are not generally sensitive enough to detect the pathogen from dilute environmental samples (Fukushima et al., 2003); low sensitivity of
+published PCR detection methods was confirmed in the
+current study by failure to amplify low concentrations of
+serially diluted Staphylococcus aureus DNA in DNA extracted
+from river samples (data not shown). However, it is possible
+to explore the hypothesis that community composition in the
+Chattooga River is altered by inputs from Stekoa Creek.
+Analysis of microbial community using ARISA indicates that
+waters from contaminated Stekoa Creek do significantly shift
+the microbial community in the Chattooga River (Fig. 2).
+Although the causal agent of skin infections experienced by
+whitewater raft guides is unknown, repeated exposure to
+contaminated waters increases the potential for skin infections (Shanks et al., 2007; Yoder et al., 2008). Bacterial contamination may represent a health hazard for rafters in
+Stekoa Creek and in the Chattooga River.
+
+515
+
+The influence of Stekoa Creek on microbial community
+composition in the Chattooga River is most apparent at the
+confluence (R6). Microbial communities in the downstream
+reach of the river (R7) are generally similar in composition to
+those observed in upstream reaches (R1–R5), indicating little
+influence of Stekoa Creek waters at most time points (Fig. 2).
+Microbial community composition at station R7 was more
+similar to Stekoa Creek assemblages on one sample date
+(Fig. 2), suggesting that the relative influence of Stekoa Creek
+inputs varies over time. Previous studies in this watershed
+and others have noted that dilution and in-stream processing
+have the potential to moderate the influence of tributaries on
+water chemistry and other water quality parameters (Clinton
+and Vose, 2006; Winter et al., 2007). Studies in the Danube
+River have demonstrated that the influence of tributaries on
+microbial community composition was most easily detected
+just downstream of the confluence, but less noticeable further
+downstream due to the effect of dilution. During periods of
+low flow in August, there is no noticeable influence of the
+Stekoa Creek microbial communities on the microbial community composition observed at the confluence (R6). If the
+impact of Stekoa Creek microbial communities observed
+during periods of higher flow is largely due to particleassociated bacteria, sediment deposition combined with dilution and mixing of Stekoa Creek populations with river
+microbial assemblages may explain the high similarity of the
+microbial communities upstream of Stekoa Creek (R1-R5) to
+communities further downstream at site R7.
+Environmental quality and recreation activities
+This study also explored the relationship among environmental quality issues, health concerns, and recreation
+activity of whitewater rafting guides working on the Chattooga River. Whitewater raft guides displayed a range of
+responses to questions about environmental quality. A distinct suite of responses about environmental concern is associated with survey participants who have experienced skin
+infections during the study period (Fig. 3). The correlation
+between skin infections and the range of responses found in
+the lower right quadrant of the ‘‘environmental concern
+space’’ illustrated in Figure 3 suggests that the environmental
+concerns of whitewater rafting guides may be shaped by
+incidence of skin infection. This group of guides also reported changes in their work and recreation behavior due to
+concerns about water quality (Fig. 4).
+A gradient of perceived risk to the health of rafters (related
+to degraded environmental quality) was also apparent in the
+ordination of guides based on their environmental concerns
+(Fig. 5). Although there was a good correlation between risk
+perception and prior experience with bacterial skin infections, some guides reported a high level of concern about
+their health without having experienced skin infections in
+summer 2007 or in previous years. All guides who reported
+alterations in work and recreation behavior had experienced
+skin infections, but changes in rafting practices were not always correlated with a strong level of concern about health
+of rafters (Figs. 3–5). In addition, some people who had experienced skin infections did not alter their behavior.
+Environmental awareness in this region is enhanced by
+a strong local grassroots conservation organization, The
+Chattooga Conservancy. Communication by such groups
+
+
+
+516
+can be instrumental in shaping the attitudes of consumers of
+recreation resources (Pendleton et al., 2001). However, the
+strong correlations between incidence of skin infection,
+changes in work and recreation activities, and concern for
+rafter health due to degraded environmental quality support
+the hypothesis that the environmental attitudes of these
+recreation workers have been shaped by their personal experiences as well. Correlations between elevated risk perception and prior illness from swimming activities have been
+noted in other studies (Langford et al., 2000; Turbow et al.,
+2004).
+The subset of whitewater rafting guides who reported skin
+infections but have either not altered work behavior or did
+not report a high level of concern for their health bears closer
+examination. Previous studies on health risks due to beach
+contamination suggest that this perceived disregard for
+health risks may be attributable to insufficient information or
+communication about pollution and health risks (Pendleton
+et al., 2001). The local conservation activities in and around
+the river (Chattooga) make it unlikely that whitewater raft
+guides would be unaware of water quality issues affecting the
+Chattooga River and Stekoa Creek, though many of the
+guides are seasonal workers and may not be involved in local
+environmental conservation efforts. Other studies have suggested that personal characteristics might lead some people to
+downplay perceived risk (Golden et al., 1996). Outdoor enthusiasts such as whitewater raft guides may be particularly
+predisposed toward risk taking (Robinson, 1992; Vagias et al.,
+2005). In addition, previous research has indicated that voluntary participation in risk-related activities may reduce the
+perception of risk compared with activities where the participant has less control (Sandman, 1987; Scherer, 1990; Turbow
+et al., 2004). Familiarity with an activity lessens the perception
+of risk (Brannan et al., 1992; Cheron and Ritchie, 1982). Thus,
+frequent exposure to the impaired water may actually lessen
+the perceived health risk for whitewater raft guides. This may
+offer a partial explanation for rafters who are not translating
+their previous experience with bacterial skin infections and
+concerns about degraded water quality into concerns for their
+personal health.
+Conclusion
+Degraded water quality in Stekoa Creek has been a concern for more than a decade. Contamination of the Chattooga
+River by fecal bacteria from Stekoa Creek may pose a health
+risk for boaters and swimmers who recreate on the river. We
+demonstrate here that inputs from the impaired creek to the
+protected waters of the Chattooga River influence the microbial community composition of the river water, thus
+rafters on the Chattooga River are exposed to potential
+pathogens present in Stekoa Creek waters. Whitewater rafting guides who work on this river reported concerns about
+their personal health related to degraded water quality and
+microbial contamination from Stekoa Creek. Health concerns
+related to the microbial ecology of this ecosystem have
+spurred action to expand coliform monitoring beyond the
+Stekoa Creek to the Chattooga River, including several
+points upstream and downstream of the confluence (Chattooga Conservancy, 2007b). Our results indicate a strong
+relationship between skin infection and environmental
+awareness among the whitewater raft guides. Recreation on
+
+KENT AND BAYNE
+the Chattooga River has a high tourism value, and increased
+awareness of microbial contamination and water quality issues has the potential for broad impact if perceived risk begins to alter recreation behavior.
+Acknowledgments
+The authors thank Courtney Flint for assistance in design
+of the survey instrument, Sara Paver for assistance in clone
+library construction, and Anthony Yannarell for helpful
+comments on this article. This research was supported by a
+Special Undergraduate Research on the Environment grant
+to Z.L.B. from the Environmental Council at the University
+of Illinois at Urbana-Champaign.
+Disclosure Statement
+No competing financial interests exist.
+References
+Brannan, L., Condello, C., Stuckum, N., Vissers, N., and Priest, S.
+(1992). Public perceptions of risk in recreational activities.
+J Appl Recreation Res 17, 144–157.
+Cabelli, V.J., Dufour, A.P., McCabe, L.J., and Levin, M.A. (1982).
+Swimming-associated gastroenteritis and water quality. Am J
+Epidemiol 115, 606–616.
+Charoenca, N., and Fujioka, R.S. (1995). Association of staphylococcal skin infections and swimming. Water Sci Technol 31,
+11–17.
+Chattooga Conservancy. (2005). Watershed Update: Conservancy
+Finds Clayton Sewer Leaks, Chattooga Quarterly. Winter, 2005
+(Chattooga Conservancy, Clayton, GA).
+Chattooga Conservancy. (2007a). Stekoa Creek Water Monitoring
+Project. Available at: www.chattoogariver.org=index.php?lev¼
+stekoa&req¼data
+Chattooga Conservancy. (2007b). Watershed Update: Stekoa Creek
+Pollution Update, Chattooga Quarterly. Summer=Fall, 2007
+(Chattooga Conservancy, Clayton, GA).
+Chattooga River Watershed Coalition. (1997). Chattooga
+Watershed Conservation Plan. Available at: http:==www
+.chattoogariver.org=ccp=CCPlan.pdf
+Cheron, E.J., and Ritchie, J.R.B. (1982). Leisure activities and
+perceived risk. J Leis Res 14, 139–154.
+Clarke, K., and Green, R. (1988). Statistical design and analysis
+for a biological effects study. Mar Ecol Prog Ser 46, 213–226.
+Clinton, B.D., and Vose, J.M. (2006). Variation in stream water
+quality in an urban headwater stream in the southern Appalachians. Water Air Soil Pollut 169, 331–353.
+Colburn, K. (2003). Infections are the leading cause of river related injury among paddlers. Finger Lakes-Ontario Watershed
+Paddlers’ Club Newsletter 8, 3.
+Crump, B.C., Armbrust, E.V., and Baross, J.A. (1999). Phylogenetic analysis of particle-attached and free-living bacterial
+communities in the Columbia river, its estuary, and the adjacent coastal ocean. Appl Environ Microbiol 65, 3192–3204.
+Crump, B.C., and Hobbie, J.E. (2005). Synchrony and seasonality
+in bacterioplankton communities of two temperate rivers.
+Limnol Oceanogr 50, 1718–1729.
+Decker, M.D., Lybarger, J.A., Vaughn, W.K., Hutcheson, R.H.,
+and Schaffner, W. (1986). An outbreak of staphylococcal skin
+infections among river rafting guides. Am J Epidemiol 124,
+969–976.
+Dwight, R.H., Baker, D.B., Semenza, J.C., and Olson, B.H.
+(2004). Health effects associated with recreational coastal
+
+
+
+MICROBIAL COMMUNITY COMPOSITION IN THE CHATTOOGA RIVER
+water use: urban versus rural California. Am J Public Health
+94, 565–567.
+Fisher, M.M., and Triplett, E.W. (1999). Automated approach for
+ribosomal intergenic spacer analysis of microbial diversity and
+its application to freshwater bacterial communities. Appl Environ Microbiol 65, 4630–4636.
+Fukushima, H., Tsunomori, Y., and Seki, R. (2003). Duplex realtime SYBR green PCR assays for detection of 17 species of
+food- or waterborne pathogens in stools. J Clin Microbiol 41,
+5134–5146.
+Golden, L.L., Frels, J.K., Vincent, V.C., and de los Santos, G.
+(1996). Ecological information receptivity of Hispanic and
+Anglo Americans. Adv Consum Res 23, 189–195.
+Kent, A.D., Jones, S.E., Yannarell, A.C., Lauster, G.H., Graham,
+J.H., Kratz, T.K., and Triplett, E.W. (2004). Annual patterns in
+bacterioplankton community variability in a humic lake. Microb Ecol 48, 550–560.
+Kent, A.D., Yannarell, A.C., Rusak, J.A., Triplett, E.W., and
+McMahon, K.D. (2007). Synchrony in aquatic microbial community dynamics. ISME J 1, 38–47.
+Langford, I.H., Georgiou, S., Bateman, I.J., Day, R.J., and Turner,
+R.K. (2000). Public perceptions of health risks from polluted
+coastal bathing waters: a mixed methodological analysis using
+cultural theory. Risk Anal 20, 691–704.
+Legendre, P., and Legendre, L. (1998). Numerical Ecology, second
+edition (Elsevier Science, BV, Amsterdam).
+Lemarchand, C., Jardillier, L., Carrias, J.F., Richardot, M., Debroas, D., Sime-Ngando, T., and Amblard, C. (2006). Community composition and activity of prokaryotes associated to
+detrital particles in two contrasting lake ecosystems. FEMS
+Microbiol Ecol 57, 442–451.
+Pendleton, L., Martin, N., and Webster, D.G. (2001). Public
+perceptions of environmental quality: a survey study of beach
+use and perceptions in Los Angeles County. Mar Poll Bull 42,
+1155–1160.
+Pruitt, B.A., Melgaard, D.L., Howard, H., Flexner, M.C., and
+Able, A.S. (2001). Chattooga River watershed ecological=
+sedimentation project. Presented at the Federal Interagency
+Sedimentation Conference (Reno, NV). March 26–30, 2001.
+Rees, G.N., Baldwin, D.S., Watson, G.O., Perryman, S., and
+Nielsen, D.L. (2004). Ordination and significance testing of
+microbial community composition derived from terminal restriction fragment length polymorphisms: application of
+multivariate statistics. Anton Leeuw Int JG 86, 339–347.
+Riedel, M.S., and Vose, J.M. (2002). The dynamic nature of
+sediment and organic constituents in TSS. Presented at the
+National Monitoring Conference 2002: Building a Framework
+for the Future (Madison, WI). May 20–23, 2002.
+Robinson, D.W. (1992). A descriptive model of enduring risk
+recreation involvement. J Leis Res 24, 52–63.
+Sandman, P.M. (1987). Risk communication: facing public outrage. EPA J 13, 21–22.
+Scherer, C.W. (1990). Communicating water quality risk. J Soil
+Water Conserv 45, 198–200.
+Scott, T.M., Rose, J.B., Jenkins, T.M., Farrah, S.R., and Lukasik, J.
+(2002). Microbial source tracking: current methodology and
+future directions. Appl Environ Microbiol 68, 5796–5803.
+
+517
+
+Shade, A.L., Kent, A.D., Jones, S.E., Newton, R.J., Triplett, E.W.,
+and McMahon, K.D. (2007). Interannual dynamics and phenology of bacterial communities in a eutrophic lake. Limnol
+Oceanogr 52, 487–494.
+Shanks, O.C., Domingo, J.W.S., Lu, J., Kelty, C.A., and Graham,
+J.E. (2007). Identification of bacterial DNA markers for the
+detection of human fecal pollution in water. Appl Environ
+Microbiol 73, 2416–2422.
+Takeuchi, M., Hamana, K., and Hiraishi, A. (2001). Proposal of
+the genus Sphingomonas sensu stricto and three new genera,
+Sphingobium, Novosphingobium and Sphingopyxis, on the basis
+of phylogenetic and chemotaxonomic analyses. Int J Syst Evol
+Microbiol 51, 1405–1417.
+Turbow, D., Lin, T.H., and Jiang, S. (2004). Impacts of beach
+closures on perceptions of swimming-related health risk in
+Orange County, California. Mar Poll Bull 48, 132–136.
+[US EPA] U.S. Environmental Protection Agency. (2009).
+National Water Quality Inventory: Report to Congress, 2004
+Reporting Cycle (US EPA Office of Water, Washington. D.C.)
+EPA 841-R-08-001.
+Vagias, W., Morais, D., and Dziubek, D. (2005). The role of risk
+perception in a one-day wilderness whitewater rafting trip. In:
+Proceedings of the 2005 Northeastern Recreation Research Symposium; 2005 April 10–12; Bolton Landing, NY. Gen. Tech. Rep. NE341. J.G. Peden and R.M. Schuster, comps., eds. (U.S. Forest
+Service, Northeastern Research Station, Newtown Square,
+PA).
+Vergin, K.L., Rappe, M.S., and Giovannoni, S.J. (2001). Streamlined method to analyze 16S rRNA gene clone libraries. Biotechniques 30, 938–944.
+Winter, C., Hein, T., Kavka, G., Mach, R.L., and Farnleitner, A.H.
+(2007). Longitudinal changes in the bacterial community
+composition of the Danube River: a whole-river approach.
+Appl Environ Microbiol 73, 421–431.
+Yannarell, A.C., and Kent, A.D. (2009). Bacteria, distribution and
+community structure. In: Encyclopedia of Inland Waters. G.E.
+Likens, ed. (Elsevier, Oxford).
+Yannarell, A.C., and Triplett, E.W. (2005). Geographic and environmental sources of variation in lake bacterial community
+composition. Appl Environ Microbiol 71, 227–239.
+Yoder, J.S., Hlavsa, M.C., Craun, G.F., Hill, V., Roberts, V., Yu,
+P.A., Hicks, L.A., Alexander, N.T., Calderon, R.L., Roy, S.L.,
+and Beach, M.J. (2008). Surveillance for waterborne disease
+and outbreaks associated with recreational water use and
+other aquatic facility-associated health events—United States,
+2005–2006. Morbid Mortal Wkly Rep 57, 1–38.
+
+Address correspondence to:
+Angela D. Kent, Ph.D.
+Department of Natural Resources and Environmental Sciences
+University of Illinois at Urbana-Champaign
+1102 S. Goodwin Ave.
+Urbana, IL 61801
+E-mail: akent@illinois.edu
+Received for publication November 1, 2009; received in revised form December 1, 2009; accepted December 2, 2009.
+
+
+
+

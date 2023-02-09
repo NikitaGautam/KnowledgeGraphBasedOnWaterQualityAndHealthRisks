@@ -1,0 +1,210 @@
+EDITORIAL COMMENTARY
+
+Changing Challenges of Bacterial Enteric Infection in the
+United States
+Timothy F. Jones
+Tennessee Department of Health, Nashville
+
+(See the article by Denno et al., on pages 467–76.)
+
+The vast majority of bacterial enteric infections in the United States are sporadic,
+yet much of what is known about the epidemiology of these infections is driven
+by investigations of outbreaks. Studying
+sporadic infection is challenging, but critically important. The article by Denno et
+al. [1] in this issue of the Journal highlights the need for ongoing studies to understand the rapidly evolving epidemiology of sporadic bacterial enteric infection.
+Their work identifies a number of newly
+recognized risk factors for infection in
+children, who suffer from the highest
+rates of disease, and provides important
+data to help develop focused interventions.
+We live in a society in which 46% of the
+US food dollar is spent on food prepared
+outside the home [2], fresh produce travels an average of 1500 miles to reach our
+plates [3], a typical dinner includes ingredients from around the world, and
+convenience-packaged foods are increasingly popular. The nature of enteric disReceived 2 November 2008; accepted 5 November 2008;
+electronically published 26 January 2009.
+Potential conflicts of interest: none reported.
+Financial support: none reported.
+Reprints or correspondence: Timothy Jones, MD, Communicable and Environmental Disease Services, TN Department
+of Health, 1st Floor, Cordell Hull Bldg., 425 5th Ave. N.,
+Nashville, TN 37243 (tim.f.jones@state.tn.us).
+The Journal of Infectious Diseases 2009; 199:465– 6
+© 2009 by the Infectious Diseases Society of America. All
+rights reserved.
+0022-1899/2009/19904-0001$15.00
+DOI: 10.1086/596556
+
+ease outbreaks, a large proportion of
+which are foodborne, continues to evolve
+along with our food supply system. The
+sources of sporadic infection are likely to
+be changing in a similar fashion. At the
+same time, however, there is increasing
+evidence that a variety of non-food exposures are important risk factors for infection in children. Controlling such risk
+factors in this population is particularly
+challenging and important.
+While Campylobacter is the most common cause of bacterial enteric infection in
+the United States [4], outbreaks of infection are relatively rare and identifying the
+causes of sporadic infection is particularly
+problematic. Rates of campylobacteriosis
+vary dramatically, not only by state but
+also among adjacent jurisdictions within
+states, for unknown reasons. In the
+Denno et al. [1] study, a large number of
+risk factors for Campylobacter infection
+were identified. They included domestic
+travel, consumption of various foods, eating out, home food-handling practices,
+and various contacts with animals, water,
+and ill humans. With such a diverse array
+of risk factors, identifying interventions
+that will have a substantial effect on overall rates of this disease will be especially
+challenging.
+Restaurant-associated outbreaks often
+attract substantial public attention. However, this work adds to the growing body
+of data suggesting that sporadic infection
+due to a variety of pathogens is also asso-
+
+ciated with eating at commercial food
+venues [5]. It is also one of the first studies
+to identify this as a risk specifically in children. If the proportion of the American
+diet prepared outside the home continues
+its steady growth, better understanding of
+this association will become increasingly
+important.
+Several of the findings in this study are
+of particular interest in light of a number
+of recent high-profile, produce-associated
+outbreaks in the United States. Raw vegetable consumption appeared to be protective against Salmonella infection in
+this population, which is reassuring in
+the context of trying to encourage children to eat a diet high in fruits and vegetables for its many other health benefits.
+Of potentially great interest is the additional protection afforded by organic produce. Lower risk of infection is not a welldocumented benefit of these products,
+and the finding is provocative as they become increasingly popular. All this said,
+the produce story is not a straightforward
+one. This study shows for the first time
+that salad from sealed retail packages,
+which has been a cause of large outbreaks,
+is also a risk factor for sporadic disease.
+Prevention of produce contamination is a
+difficult challenge and is currently the focus of intense discussion at the political,
+industry, and public health levels. It will
+be important to understand the particular
+risks associated with convenience packaging as consumer demands continue to
+
+EDITORIAL COMMENTARY
+
+●
+
+JID 2009:199 (15 February)
+
+●
+
+465
+
+
+
+evolve. This presents yet another argument for exploring food irradiation as a
+potential tool for ensuring a safer food
+supply.
+Exposure to various recreational water
+activities was identified as a risk factor for
+all of the infections studied. This presents
+particularly vexing challenges for control.
+A variety of agencies typically regulate different types of recreational water sources.
+In Tennessee, for example, swimming
+pools are regulated by the Department of
+Health, drinking and surface water by different sections in the Department of Environment and Conservation, and other
+bodies of water by the US Army Corps of
+Engineers or US Forest Service, depending on their location. Frequently such
+agencies do not communicate regularly
+among themselves or with the public
+health agencies that monitor human disease. Mitigating these important risks will
+involve major interventions and require
+cooperation among a large number of
+nontraditional partners, including agriculture, public health, the regulatory sector, and other agencies and groups. As
+daunting as this may seem, we cannot afford to ignore factors responsible for population attributable risks of 20%– 40% or
+more for bacterial enteric illnesses in children.
+The factors Denno et al. [1] found not
+to be associated with disease were as provocative as the risk factors identified.
+Many of these factors were unexpected.
+Interestingly, breast-feeding was not
+shown to be protective against most of
+these infections, contrary to conventional
+wisdom. A variety of investigations have
+linked different pathogens with certain
+transmission vehicles. Curiously, in this
+study of sporadic infection in children,
+
+466
+
+●
+
+JID 2009:199 (15 February)
+
+●
+
+associations were not noted between consumption of chicken or eggs and Salmonella infection, consumption of ground
+beef and E. coli O157 infection, and day
+care exposure and Shigella infection or
+any other pathogens. Once again, findings from this study of sporadic infection
+differ from the findings in studies of outbreaks, for reasons that are enigmatic.
+Finally, mothers everywhere will be
+dismayed at the lack of a protective effect
+for hand washing observed in this study,
+given its importance as the traditional
+cornerstone of infection control. There
+are enough other things to confuse the
+public with respect to this issue, such as
+debates over antibacterial versus nonantibacterial soap, hand sanitizers versus
+washing, and whether to recite the alphabet or sing the birthday song while washing to ensure adequate washing time. It is
+critical that we quickly get a better understanding of the findings suggested by this
+study.
+The authors recognize that many of the
+findings of their study are limited by sample size and other factors. Nonetheless,
+they get an “A” for effort, and they raise a
+host of important questions that deserve
+additional investigation. The cases involved in this study were identified
+through passive surveillance. It is important to remember that the large majority
+of children with diarrheal disease never
+provide samples for culture (despite
+many of them receiving antimicrobial
+therapy) [6]. It is often difficult to make a
+clinical distinction between viral and bacterial infection, much less among different bacteria, without laboratory testing.
+From a public health viewpoint, it is important to have good data on the incidence of various etiologies of enteric in-
+
+EDITORIAL COMMENTARY
+
+fection, along with data on the risk factors
+for infection, to assess the overall burden
+of disease that might be averted by specific
+interventions.
+A large proportion of bacterial enteric
+infection in children remains preventable. Although traditional consumeroriented education and personal infection control practices are still vitally
+important, they will not suffice to reduce
+many of the environmental risk factors
+that are identified in this study as being at
+least as important as food-related exposures. Resources for disease prevention
+are limited and must be targeted effectively. The epidemiology of bacterial enteric infection in children is a moving target, and continued vigilance is necessary
+to ensure that preventive interventions
+keep pace with evolving risk factors
+among this high-risk population.
+
+References
+1. Denno DM, Keene WE, Hutter CM, et al. Tricounty comprehensive assessment of risk factors for sporadic bacterial reportable enteric
+infection in children. J Infect Dis 2009; 199:
+467–76 (in this issue).
+2. National Restaurant Association. National Industry Fact Sheet 2005. Washington, DC: National Restaurant Association, 2005.
+3. Pirog R, Benjamin A. Checking the food
+odometer: comparing food miles for local versus conventional produce sales to Iowa institutions. Ames, Iowa: Iowa State University,
+Leopold Center for Sustainable Agriculture,
+2003.
+4. Mead PS, Slutsker L, Dietz V, et al. Foodrelated illness and death in the United States.
+Emerg Infect Dis 1999; 5:607–25.
+5. Jones TF, Angulo FJ. Eating in restaurants: a
+risk factor for foodborne disease? Clin Infect
+Dis 2006; 43:1324 – 8.
+6. Carpenter LR, Pont SJ, Cooper WO, et al.
+Stool cultures and antimicrobial prescriptions
+related to infectious diarrhea. J Infect Dis
+2008; 197:1709 –12.
+
+

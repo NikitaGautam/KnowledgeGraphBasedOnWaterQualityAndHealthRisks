@@ -1,0 +1,10009 @@
+Appendix 2 contains the full statistical analyses performed on the Epibathe data. This
+is structured as follows.
+
+Appendix 2 Section 1
+Risk of gastroenteritis from recreational bathing water: Analysis of
+Epibathe data from Hungary and Spain.
+.
+
+Appendix 2 Section 2
+Risk of gastroenteritis from recreational bathing water: A metaanalysis of randomised exposure trials in four European countries.
+
+Appendix 2 Section 3
+Estimating the risk of gastroenteritis in European fresh bathing
+waters using E. coli as indicator organism.
+
+Appendix 2 Section 4
+Risks of non-enteric diseases from European recreational bathing
+water.
+
+Appendix 2 Section 5
+The effects of non-water related risk factors on gastroenteritis.
+
+To facilitate access to this information, each page footer has the section reference and
+the page number within that section.
+
+
+
+Appendix 2 Section 1
+Risk of gastroenteritis from recreational bathing
+water:
+Analysis of Epibathe data from Hungary and Spain
+H.C. Au-Yeung, D.Rh. Thomas & R.L. Salmon
+Epibathe Partner 5, National Public Health Service (NPHS)
+
+Key findings:
+i.
+ii.
+iii.
+iv.
+v.
+vi.
+
+Risk of gastroenteritis (GI) was higher amongst bathers in both Hungarian and Spanish
+trials.
+The excess GI risk in bathers from marine water sites (Spain) were 3 times higher than
+those from freshwater sites (Hungary), using non-bathers from the corresponding
+country as baseline.
+The risk of GI was markedly higher when bathers in freshwater studies were exposed
+to >200 enterococci (cfu. 100ml-1), compared with those exposed to less than that level.
+In the Spanish studies, risk of GI varied only slightly between bathers exposed to
+higher or below 100 Enterococci (cfu. 100ml-1).
+Both studies lacked strong evidence of any dose-response relationship between GI and
+enterococci levels.
+Non-water related confounding factors played a minor role in determining the risks of
+GI.
+
+A2.1.1
+
+Background
+
+This report summarises the findings from the Hungarian and Spanish trials of the Epibathe
+project. Data were analysed using logistic regression models and adjusted for non-water related
+confounders. Results showed that there was an increased risk of gastroenteritis (GI) in bathers,
+and that the risk was approximately 3 times higher in marine water than freshwater sites. When
+bathers were stratified into various groups according to exposure levels, logistic regression
+modelling failed to show any strong dose-response relationships between GI and enterococci
+concentration in the water. Further analyses including data from the UK and German studies
+would be necessary to confirm the findings in this report. Furthermore, with the increased
+statistical power the dose-response relationships between exposure and GI could be re-examined.
+
+A2.1.2
+
+Methods
+
+A2.1.2.1
+
+Study sites
+
+A total of 8 individual trials took place at 6 sites over two bathing seasons in Hungary and Spain
+(Table 1). All of the chosen beaches complied with the EU mandatory bacteriological criteria for
+bathing waters, and were therefore considered as representative of compliant European beaches.
+Appendix 2 Section 1
+
+Page 1 of 10
+
+
+
+A2.1.2.2
+
+Microbiology
+
+All study sites were divided into several bathing zones, and water samples were collected every
+20mins at chest depth from each zone throughout the trial. Enterococci levels were measured by
+membrane filtration method (Slanetz) (ISO7899-2:2000).
+A2.1.2.3
+
+Assigning personal exposures
+
+During the trials all bathers were required to bath for 10mins in their designated bathing zones
+and make at least 3 head immersions. They were then retrospectively assigned to an exposure
+level prior to statistical analysis. Personal exposure levels were determined by the enterococci
+concentrations in the water sample collected from the corresponding bathing zone and nearest
+time zone where bathing took place. The mean value was used when exposure occurred exactly
+between two time zones. This assignment method was identical to the one used in the original
+UK study (Kay et al 1994).
+A2.1.2.4
+
+Disease symptoms
+
+The main outcome of interest was self-reported GI either at 1 week or 3 weeks after the trial day.
+GI was defined as any case of diarrhoea or vomiting, or any case of indigestion or nausea
+accompanied by fever (see list below). Any participants that suffered from chronic bowel
+problems or reported GI symptoms on the trial day were excluded from the analysis. Both the GI
+definition and the exclusion criteria were adopted from the original UK study (Kay et al 1994).
+Definition of GI illness
+Reported at either 1wk or 3wks post-exposure:
+i.
+ii.
+iii.
+iv.
+
+Diarrhoea
+Vomiting
+Nausea accompanied by fever
+Indigestion accompanied by fever
+
+Appendix 2 Section 1
+
+Page 2 of 10
+
+
+
+Trial name
+
+Year
+
+Location
+
+Beach type
+
+Water
+type
+
+Enterococci/100ml
+median (range)
+
+Hungary I
+
+2006
+
+River Danube,
+Dömsöd
+
+Dead branch
+
+Fresh
+
+33.0 (8.0-91.0)
+
+Hungary II
+
+2006
+
+River Danube,
+Fadd-Dombori
+
+Dead branch
+
+Fresh
+
+56.7 (0-210.0)
+
+Hungary III
+
+2007
+
+Tisza River,
+Csongrád
+
+River
+
+Fresh
+
+45.0 (22.0-72.0)
+
+Hungary IV
+
+2007
+
+Tisza River,
+Tiszakécske
+
+River
+
+Fresh
+
+236.7 (156.7-626.7)
+
+Spain I
+
+2006
+
+Salou
+
+Mediterranean sea
+
+Marine
+
+3.0 (0.4-18.0)
+
+Spain II
+
+2006
+
+Salou
+
+Mediterranean sea
+
+Marine
+
+11.0 (2.0-36.0)
+
+Spain III
+
+2007
+
+St Pere Pescador
+
+Mediterranean sea
+
+Marine
+
+204.0 (5.0-811.0)
+
+Spain IV
+
+2007
+
+St Pere Pescador
+
+Mediterranean sea
+
+Marine
+
+142.0 (7.0-867.0)
+
+Table 1
+
+A2.1.2.5
+
+Details of the Hungarian and Spanish trial sites. Median enterococci concentrations
+are derived from volunteer exposure data.
+
+Statistical analysis
+
+Data from the same country were pooled and analysed by logistic regression modelling using the
+statistical software Stata 10 (StataCorp 2008). Logistic regression is a statistical model for
+predicting the probability of occurrence of an event by fitting data to a logistic curve. In Epibathe
+the probability of an outcome, i.e. GI, was predicted by the concentration of exposure to
+enterococci at personal level, and controlling for other non-water related confounders such as
+age, gender, and the consumption of “high risk” food etc. In this report, results produced from
+models without controlling for confounders are referred to as “crude”, and those from models
+controlled for confounders are referred to as “adjusted”. The confounders adjusted for during this
+stage of the modelling are presented below.
+Non-water related confounders included in the logistic regression models.
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+
+Age grouped by 10yr intervals
+Sex
+Usual diarrhoea frequency
+Usual alcohol consumption
+GI in the household within 3wks after trial that preceded the subject’s illness
+Unusual fatigue and/or diarrhoea 3wks before trial
+Consumption of hamburgers / takeaways / sandwiches since the first interview
+Additional bathing within 3wks since trial
+
+Appendix 2 Section 1
+
+Page 3 of 10
+
+
+
+Excess GI risks were examined by comparing disease prevalence in bathers with their nonbathing counterparts, as well as between bathers with different exposure levels. The presence of
+any dose-response relationships between enterococci level and GI were also examined. This was
+carried out by stratifying the exposure data of the bathers into 4 groups, using their quartile
+values as cut-points to eliminate any subjectivity in the selection process. For this purpose two
+approaches were taken; 1. Using quartile cut-points derived from the corresponding study
+country, and 2. Using quartile cut-points of all the data from Hungary and Spain. The former
+approach ensured that the subjects were equally distributed in each group and, therefore,
+increased the statistical power, whilst the latter allowed direct comparison of the odds ratios
+(OR) in each quartile group as they shared common cut-points.
+In addition, exposure data were divided into 20 unit intervals of enterococci to determine the
+point where GI risk started to increase. Finally, analyses were carried out using the EC Bathing
+Water Directive (2006/7/EC) guideline levels as cut-points to examine whether the strictest level
+(“excellent quality”) would provide better health protection than less stringent ones, using nonbathers as baseline. The current standards of “excellent quality” for marine and freshwaters are
+less than 100 and 200 enterococci/100ml respectively, based upon a 95-percentile evaluation.
+The Epibathe project measures individual exposure levels rather than a 95th percentile value and
+the 206 Directive percentiles values were used as individual ‘spot’ exposure estimates in this
+analysis. All results obtained from logistic regression modelling were presented as odds ratios
+(OR).
+An explanatory note on odds and risks
+The chances of developing GI were represented by odds ratios (OR) throughout the study,
+which measures the excess risk of GI in a particular group compared with the corresponding
+non-bathing group. An odds ratio of 1 indicates that the event, e.g. GI, is equally likely in both
+the bathing and non-bathing group. An odds ratio greater than 1 implies bathers are more
+likely to develop GI, and an odds ratio less than 1 implies bathers are less likely to develop
+GI. Where an outcome is uncommon, then odds and risks can be regarded as equivalent. Since
+the incidence of GI measured in Epibathe were low, in this report, the terms “risk” and “odds”
+have been used interchangeably to describe the differences in probabilities of developing an
+outcome.
+
+A2.1.3
+
+Results
+
+Data from 4,441 subjects were available from the database but some were subsequently removed
+due to missing data (n=74) or because they matched the exclusion criteria (n=179). In the final
+dataset there were 2,301 entries from Hungary and 1,887 from Spain (Table 2).
+
+Appendix 2 Section 1
+
+Page 4 of 10
+
+
+
+Trial name
+
+Non-bathers (n)
+
+Bathers (n)
+
+Total (n)
+
+Hungary I
+
+323
+
+322
+
+645
+
+Hungary II
+
+307
+
+277
+
+584
+
+Hungary III
+
+297
+
+286
+
+583
+
+Hungary IV
+
+268
+
+221
+
+489
+
+Spain I
+
+187
+
+176
+
+363
+
+Spain II
+
+241
+
+243
+
+484
+
+Spain III
+
+301
+
+235
+
+536
+
+Spain IV
+
+260
+
+244
+
+504
+
+Total (n)
+
+2,184
+
+2,004
+
+4,188
+
+Table 2
+
+Number of volunteers included in the analysis.
+
+A2.1.3.1
+
+Risk of GI in bathers
+
+Results showed that the risks of GI were higher amongst bathers compared with non-bathers.
+After controlling for non-water related confounders the excess risk of GI was 12% in Hungary
+(freshwater) (Table 3) and 32% in Spain (marine water) (Table 4), using non-bathers as baseline
+values. However none of the results achieved statistical significance.
+Numbers
+
+Crude
+
+Adjusted
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+35
+
+1,160
+
+1.00
+
+/
+
+1.00
+
+/
+
+Bathers
+
+35
+
+1,071
+
+1.08
+
+0.67-1.74
+
+1.12
+
+0.69-1.81
+
+Table 3
+
+Odds ratios (OR) of GI in the Hungarian studies, crude and adjusted models.
+Numbers
+
+Crude
+
+Adjusted
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+49
+
+940
+
+1.00
+
+/
+
+1.00
+
+/
+
+Bathers
+
+56
+
+842
+
+1.28
+
+0.86-1.89
+
+1.32
+
+0.88-1.98
+
+Table 4
+
+OR of GI in the Spanish studies, crude and adjusted models.
+
+Exposure levels in bathers were stratified into regular intervals of 20 nterococci (cfu. 100ml-1) to
+examine any presence of dose-response relationship between GI and indicator organism level.
+No dose-response relationships were found in any of the studies, as there were no clear trends in
+odds ratios (OR), either increasing or decreasing, across different exposure groups (Table 5 & 6).
+
+Appendix 2 Section 1
+
+Page 5 of 10
+
+
+
+Cut-points
+(enterococci/100ml)
+
+Numbers
+Cases
+Non-cases
+
+Crude
+OR
+95% CI
+
+Adjusted
+OR
+95% CI
+
+Non-bathers
+
+35
+
+1,160
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-19
+
+3
+
+124
+
+0.80
+
+0.24-2.65
+
+0.81
+
+0.24-2.70
+
+20-39
+
+13
+
+253
+
+1.70
+
+0.89-3.27
+
+1.56
+
+0.79-3.08
+
+40-59
+
+7
+
+318
+
+0.73
+
+0.32-1.66
+
+0.78
+
+0.34-1.79
+
+60-79
+
+2
+
+99
+
+0.67
+
+0.16-2.82
+
+0.72
+
+0.17-3.08
+
+80-99
+
+1
+
+48
+
+0.69
+
+0.09-5.15
+
+0.86
+
+0.11-6.58
+
+≥100
+
+9
+
+229
+
+1.30
+
+0.62-2.75
+
+1.44
+
+0.67-3.08
+
+Overall
+
+70
+
+2,231
+
+1.08
+
+0.67-1.74
+
+1.12
+
+0.69-1.81
+
+OR of GI at intervals of 20 enterococci (cfu. 100ml-1) in the Hungarian studies,
+crude and adjusted models. Also showing the aggregated results from all
+Hungarian studies.
+
+Table 5
+
+Cut-points
+(enterococci/100ml)
+
+Numbers
+Cases
+Non-cases
+
+Crude
+OR
+95% CI
+
+Adjusted
+OR
+95% CI
+
+Non-bathers
+
+49
+
+940
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-19
+
+28
+
+361
+
+1.49
+
+0.92-2.40
+
+1.45
+
+0.89-2.37
+
+20-39
+
+4
+
+66
+
+1.16
+
+0.41-3.32
+
+1.17
+
+0.40-3.40
+
+40-59
+
+2
+
+27
+
+1.42
+
+0.33-6.15
+
+1.68
+
+0.38-7.42
+
+60-79
+
+1
+
+46
+
+0.42
+
+0.06-3.09
+
+0.47
+
+0.06-3.52
+
+80-99
+
+1
+
+42
+
+0.46
+
+0.06-3.39
+
+0.53
+
+0.07-4.05
+
+≥100
+
+20
+
+300
+
+1.28
+
+0.75-2.19
+
+1.38
+
+0.79-2.39
+
+Overall
+
+105
+
+1,782
+
+1.28
+
+0.86-1.89
+
+1.32
+
+0.88-1.98
+
+Table 6
+
+OR of GI at intervals of 20 enterococci (cfu. 100ml-1) in the Spanish studies, crude and
+adjusted models. Also showing the aggregated results from all Spanish studies.
+
+When exposure data were stratified into 4 different groups by their quartile cut-points, there were
+no evidence of any dose-response relationship between exposure and GI in neither the Hungarian
+(Table 7) nor Spanish studies (Table 8). In addition, a set of common quartile cut-points were
+derived from all studies for comparing the difference in GI risks between freshwater (Table 9)
+and marine water (Table 10). Again, no signs of any dose-response relationships between
+exposure and GI were observed.
+
+Appendix 2 Section 1
+
+Page 6 of 10
+
+
+
+Quartile cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+35
+
+1,160
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-32
+
+14
+
+261
+
+1.78
+
+0.94-3.35
+
+1.61
+
+0.83-3.10
+
+33-49
+
+4
+
+271
+
+0.49
+
+0.17-1.39
+
+0.48
+
+0.17-1.39
+
+50-82
+
+8
+
+282
+
+0.94
+
+0.43-2.05
+
+1.07
+
+0.49-2.36
+
+≥83
+
+9
+
+257
+
+1.16
+
+0.55-2.44
+
+1.30
+
+0.61-2.78
+
+Overall
+
+70
+
+2,231
+
+1.08
+
+0.67-1.74
+
+1.12
+
+0.69-1.81
+
+OR of GI in various quartile group in the Hungarian studies, crude and adjusted
+models. Also showing the aggregated results from all Hungarian studies.
+
+Table 7
+
+Quartile cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+49
+
+940
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-5
+
+15
+
+199
+
+1.45
+
+0.79-2.63
+
+1.41
+
+0.76-2.59
+
+6-34
+
+17
+
+214
+
+1.52
+
+0.86-2.70
+
+1.50
+
+0.83-2.70
+
+35-163
+
+14
+
+210
+
+1.28
+
+0.69-2.36
+
+1.39
+
+0.74-2.60
+
+≥164
+
+10
+
+219
+
+0.88
+
+0.44-1.76
+
+0.96
+
+0.47-1.96
+
+Overall
+
+105
+
+1,782
+
+1.28
+
+0.86-1.89
+
+1.32
+
+0.88-1.98
+
+Table 8
+
+OR of GI in various quartile group in the Spanish studies, crude and adjusted
+models. Also showing the aggregated results from all Spanish studies.
+
+Appendix 2 Section 1
+
+Page 7 of 10
+
+
+
+Quartile cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+35
+
+1,160
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-18
+
+3
+
+111
+
+0.90
+
+0.27-2.96
+
+0.90
+
+0.27-3.04
+
+19-46
+
+13
+
+391
+
+1.10
+
+0.58-2.10
+
+1.02
+
+0.52-1.99
+
+47-134
+
+11
+
+352
+
+1.04
+
+0.52-2.06
+
+1.17
+
+0.58-2.36
+
+≥135
+
+8
+
+217
+
+1.22
+
+0.56-2.67
+
+1.34
+
+0.60-2.98
+
+Overall
+
+70
+
+2,231
+
+1.08
+
+0.67-1.74
+
+1.12
+
+0.69-1.81
+
+Table 9
+
+OR of GI in various quartile group in the Hungarian studies, crude and adjusted
+models. Quartile cut-points were calculating from both Hungarian and Spanish
+studies. Also showing the aggregated results from all Hungarian studies.
+
+Quartile cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+49
+
+940
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-18
+
+28
+
+354
+
+1.52
+
+0.94-2.45
+
+1.47
+
+0.90-2.41
+
+19-46
+
+4
+
+83
+
+0.92
+
+0.33-2.63
+
+0.97
+
+0.34-2.81
+
+47-134
+
+8
+
+144
+
+1.07
+
+0.49-2.30
+
+1.19
+
+0.54-2.61
+
+≥135
+
+16
+
+261
+
+1.18
+
+0.66-2.10
+
+1.27
+
+0.70-2.31
+
+Overall
+
+105
+
+1,782
+
+1.28
+
+0.86-1.89
+
+1.32
+
+0.88-1.98
+
+Table 10
+
+OR of GI in various quartile group in the Spanish studies, crude and adjusted
+models. Quartile cut-points were calculating from both Hungarian and Spanish
+studies. Also showing the aggregated results from all Spanish studies.
+
+Appendix 2 Section 1
+
+Page 8 of 10
+
+
+
+A2.1.3.2
+
+Risk of GI in bathers using the 2006/7/EC “excellent quality” level as cutpoint
+
+An increased risk of GI was observed in both Hungarian and Spanish sites when bathers were
+exposed to enterococci concentrations higher than the level that approximately resembled the
+2006/7/EC “excellent quality” criteria, i.e. 100 and 200 enterococci (cfu. 100ml-1) for marine
+water and freshwater respectively. In Hungary, compared with non-bathers, there was an excess
+risk of 3% when bathing took place in water with less than 200 enterococci, but increased to 50%
+once the bacterial level had exceeded 200 (Table 11). Similarly in Spain, the risk of GI was 29%
+higher than the non-bathing group when exposure took place in water below 100 enterococci
+(cfu. 100ml-1), and slightly increased to 38% when exposure reached beyond 100 (Table 12).
+Cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+35
+
+1,160
+
+1.00
+
+/
+
+1.00
+
+/
+
+<200
+
+27
+
+874
+
+1.02
+
+0.62-1.70
+
+1.03
+
+0.61-1.74
+
+≥200
+
+8
+
+197
+
+1.35
+
+0.62-2.94
+
+1.50
+
+0.67-3.35
+
+Overall
+
+70
+
+2,231
+
+1.08
+
+0.67-1.74
+
+1.12
+
+0.69-1.81
+
+Table 11
+
+OR of GI in bathers in the Hungarian studies exposed to below or above 200
+enterococci (cfu. 100ml-1), crude and adjusted models. Also showing the aggregated
+results from all Hungarian studies.
+
+Cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+49
+
+940
+
+1.00
+
+/
+
+1.00
+
+/
+
+<100
+
+36
+
+542
+
+1.27
+
+0.82-1.98
+
+1.29
+
+0.82-2.03
+
+≥100
+
+20
+
+300
+
+1.28
+
+0.75-2.19
+
+1.38
+
+0.80-2.40
+
+Overall
+
+105
+
+1,782
+
+1.28
+
+0.86-1.89
+
+1.32
+
+0.88-1.98
+
+Table 12
+
+OR of GI in bathers in the Spanish studies exposed to below or above 100
+Enterococci (cfu. 100ml-1), crude and adjusted models. Also showing the aggregated
+results from all Spanish studies.
+
+Appendix 2 Section 1
+
+Page 9 of 10
+
+
+
+A2.1.4
+
+Discussion
+
+Using logistic regression modelling, results from the Hungarian and Spanish trials of Epibathe
+showed an increased risk of GI in bathers compared with non-bathers. Furthermore, the excess
+GI risk associated with marine water exposure (Spain) was approximately 3-fold higher than that
+of freshwater (Hungary). The difference in GI risk between fresh and marine water sites was also
+observed when exposure data were stratified into 2 groups using cut-points approximately based
+on the current EC Bathing Directive “excellent level” criteria. In freshwater sites, the risk of GI
+elevated slightly by 3% (OR=1.03, 95% CI 0.61-1.74) in bathers exposed to less than 200
+enterococci (cfu. 100ml-1), i.e. within the limit of “excellent quality”, but increased to 50%
+(OR=1.50, 95% CI 0.67-3.35) in those exposed to more than 200 enterococci (cfu. 100ml-1) in the
+water. These results contrasted those observed in marine water studies, in which the risk
+increased by 29% (OR=1.29, 95% CI 0.82-2.03) even when the enterococci level was within the
+“excellent level” limit (100 enterococci (cfu. 100ml-1)), but only increased further by 9%
+(OR=1.38, 95% CI 0.80-2.40) once over 100 enterococci. Although none of the results were
+statistical significant, the study in Spain suggested that recreational bathing in marine water was
+associated with an increased risk of GI even when exposure took place in water that met the
+strictest compliant level of the bathing standards. Such observation was opposite to that seen in
+Hungary, in which the excess risk of GI was considerably lower (3%) when bathing in “excellent
+quality” water.
+Overall the logistic regression models had failed to detect any strong dose-response relationships
+between GI and exposures, and none of the models had reached statistical significance. Such
+observations could be due to the low GI attack rates and the relatively small sample size of the
+studies; in a study when attack rates are low, a large sample will be required to detect small and
+statistically significant changes in the outcome. We therefore conclude that further analyses
+including data from the UK and German studies will be required to confirm the findings in this
+report. In addition, with the increased sample size and therefore the statistical power, the doseresponse relationship between GI and exposures can be re-examined.
+In this report personal exposure levels were divided into different categories rather than treated
+as continuous data in the logistic regression models. This was because the exposure level of each
+bather was based on the dozens of samples collected from each study site. Therefore they are
+treated as categorical since exposure levels could only fall onto one of the values derived from
+the water samples.
+
+Appendix 2 Section 1
+
+Page 10 of 10
+
+
+
+Appendix 2 Section 2
+Risk of gastroenteritis from
+recreational bathing water:
+A meta-analysis of randomised exposure trials in four
+European countries
+H.C. Au-Yeung, D.Rh. Thomas & R.L. Salmon
+Epibathe Partner 5, National Public Health Service (NPHS)
+
+Key findings:
+i.
+ii.
+iii.
+iv.
+v.
+vi.
+
+Excess risk of gastroenteritis (GI) was found in bathers compared with non-bathers.
+A positive dose-response relationship was found between GI and enterococci
+concentration in water, and reached statistical significance at 100 enterococci/100ml.
+Risk of GI in bathers from marine water sites was 2-fold higher than those from
+freshwater sites, based on the levels of enterococci observed in the study.
+When stratified by water type the dose-response relationship was more pronounced
+for marine water sites.
+Despite exposure taking place in water classified as “excellent quality”
+(approximation to the current bathing water standards), GI risks in those bathers were
+higher compared with non-bathers.
+Non-water related confounding factors played a minor role in determining the risks of
+GI.
+
+A2.2.1
+
+Background
+
+To assess the overall risk of gastroenteritis associated with recreational bathing in European
+waters, and to examine whether the risk differs between marine and fresh water sites.
+Rationale for a meta-analysis approach
+Epidemiological studies often involve combing data from a number of smaller studies on study
+populations separated by geographical location and/or time. Even if the studies are broadly
+comparable, sampling error will mean that results will inevitably vary somewhat between them.
+Heterogeneity between studies might lead to the under or over-estimation of the true effect. In
+the case of Epibathe, although the same protocol was used in all trials, the trials were carried out
+in four countries over a period of 18 years with different study teams. Should the pooled
+Epibathe data be analysed as a single study, bathers and non-bathers (i.e. baseline) within
+different trials would be compared, potentially leading to biased estimations of effect.
+The statistical methods used to combine the results of all studies into a summary effect estimate,
+together with confidence intervals, are known as meta-analysis. In contrast to carrying out a
+
+Appendix 2 Section 2
+
+Page 1 of 29
+
+
+
+pooled analysis, a meta-analysis estimates the effects of exposure for each individual study and
+combines the results to give an overall estimate of the effect, i.e. a summary odds ratio. For
+Epibathe, this will ensure that bathers are only compared with non-bathers from the same trial
+who shared similar characteristics and baseline risks. A “weight” is given to each trial which
+determines its contribution towards the final model; larger studies with less random variation
+will be given more weight than the others. A series of smaller studies may tend to have
+inconclusive findings that contradict with one another, but meta-analysis is able to overcome the
+problem by drawing results from all trials and give rise to more precise estimations through
+increased statistical power. Furthermore, any heterogeneity between studies due to different
+sampling schemes can be accounted for with the use of random-effects modelling.
+
+A2.2.2
+
+Methods
+
+A2.2.2.1
+
+Study sites
+
+A total of 17 individual trials took place at 15 sites on different occasions in UK, Germany,
+Hungary, and Spain (Table 1). All of the chosen beaches complied with the EU mandatory
+bacteriological criteria for bathing waters, and were therefore considered as representative of
+compliant European beaches.
+
+Appendix 2 Section 2
+
+Page 2 of 29
+
+
+
+Trial name
+
+Year
+
+Location
+
+Beach type
+
+Water
+type
+
+enterococci/100ml
+median (range)
+
+UK I
+
+1989
+
+Langland Bay,
+Swansea
+
+Temperate Northern
+European sea
+
+Marine
+
+52.0 (0-130.0)
+
+UK II
+
+1990
+
+Moreton,
+Wirral
+
+Temperate Northern
+European sea
+
+Marine
+
+25.0 (0-158.0)
+
+UK III
+
+1991
+
+Southsea,
+Porthsmouth
+
+Temperate Northern
+European sea
+
+Marine
+
+15.0 (0-54.0)
+
+UK IV
+
+1992
+
+Southend-on-Sea,
+Essex
+
+Temperate Northern
+European sea
+
+Marine
+
+20.0 (0-70.0)
+
+Germany I
+
+2000
+
+BadenWürttemberg
+
+Ground water lake
+
+Fresh
+
+13.6 (3.1-29.0)
+
+Germany II
+
+2000
+
+BadenWürttemberg
+
+Inland lake
+
+Fresh
+
+71.7 (8.4-329.8)
+
+Germany III
+
+2000
+
+Berlin
+
+Ground water lake
+
+Fresh
+
+11.8 (3.0-22.3)
+
+Germany IV
+
+2001
+
+SchleswigHolstein
+
+Blind arm of a
+stream
+
+Fresh
+
+89.8 (22.1-355.7)
+
+Germany V
+
+2001
+
+Bavaria
+
+Ground water lake
+
+Fresh
+
+62.6 (34.8-125.6)
+
+Hungary I
+
+2006
+
+River Danube,
+Dömsöd
+
+Dead branch
+
+Fresh
+
+33.0 (8.0-91.0)
+
+Hungary II
+
+2006
+
+River Danube,
+Fadd-Dombori
+
+Dead branch
+
+Fresh
+
+56.7 (0-210.0)
+
+Hungary III
+
+2007
+
+Tisza River,
+Csongrád
+
+River
+
+Fresh
+
+45.0 (22.0-72.0)
+
+Hungary IV
+
+2007
+
+Tisza River,
+Tiszakécske
+
+River
+
+Fresh
+
+236.7 (156.7-626.7)
+
+Spain I
+
+2006
+
+Salou
+
+Mediterranean sea
+
+Marine
+
+3.0 (0.4-18.0)
+
+Spain II
+
+2006
+
+Salou
+
+Mediterranean sea
+
+Marine
+
+11.0 (2.0-36.0)
+
+Spain III
+
+2007
+
+St Pere Pescador
+
+Mediterranean sea
+
+Marine
+
+204.0 (5.0-811.0)
+
+Spain IV
+
+2007
+
+St Pere Pescador
+
+Mediterranean sea
+
+Marine
+
+142.0 (7.0-867.0)
+
+Table 1
+
+Details of Epibathe trial sites. Median enterococci concentrations were derived from
+individual exposure data.
+
+Appendix 2 Section 2
+
+Page 3 of 29
+
+
+
+A2.2.2.2
+
+Microbiology
+
+All study sites were divided into several bathing zones, and water samples were collected
+every 20mins at chest depth from each zone throughout the trial. Enterococci levels were
+measured by membrane filtration method (Slanetz) (ISO7899-2:2000) in UK, Spain, and
+Hungary, and by microtitre plate method (variable name ‘IE96wells’) (ISO7899-1:1998) in
+Germany.
+A2.2.2.3
+
+Assigning personal exposures
+
+During the trials all bathers were required to bath for 10mins in their designated bathing zones
+and make at least 3 head immersions. They were then retrospectively assigned to an exposure
+level prior to statistical analysis. In UK, Hungary, and Spain the personal exposure levels
+were determined by the indicator organism concentrations in the water sample collected from
+the corresponding bathing zone and nearest time zone where bathing took place. The
+arithmetic mean value was used when exposure occurred exactly between two time zones.
+This assignment method was identical to the one used in the original UK study (Kay et al
+1994). In Germany, exposure levels were calculated using a hypothetical arithmetic mean
+concentration assuming 10 individual minutes of exposure, with the exposure for each minute
+calculated from the two nearest estimations of indicator organism level (Wiedenmann et al
+2006).
+A2.2.2.4
+
+Disease symptoms
+
+The main outcome of interest was self-reported GI either at 1 week or 3 weeks after the trial
+day. GI was defined as any case of diarrhoea or vomiting, or any case of indigestion or nausea
+accompanied by fever (see (a) to (d) below). Any participants that suffered from chronic
+bowel problems or reported GI symptoms on the trial day were excluded from the analysis.
+Both the GI definition and the exclusion criteria were adopted from the original UK study
+(Kay et al 1994).
+Definition of GI
+Reported at either 1wk or 3wks post-exposure:
+a) Diarrhoea
+b) Vomiting
+c) Nausea accompanied by fever
+d) Indigestion accompanied by fever
+A2.2.2.5
+
+Statistical analysis
+
+All analyses were performed using the statistical software Stata 10 installed with the latest
+meta-analysis package (StataCorp 2008). Summary odds ratios were estimated for each model
+and results were displayed graphically through forest plots. In a forest plot the contribution of
+each study to the model, i.e. its weight, is reflected by the area of the grey box whose centre
+represents the effect size estimated from that study. The 95% CI are shown by the extents of
+the line and ends with an arrow if beyond the scale of the plot. The overall effect is signified
+by the diamond whose left and right extremes are the corresponding 95% CI. Forest plots
+
+Appendix 2 Section 2
+
+Page 4 of 29
+
+
+
+increase transparency of the analysis by allowing the characteristics (effect size and 95% CI)
+and contributions (weighting) of each individual study to be visually examined.
+Excess GI risks were examined by comparing disease prevalence in bathers with their nonbathing counterparts, as well as between bathers with different exposure levels. Data were
+also stratified by water type and analysed individually as disease rate might differ between
+marine and freshwater sites. To take into account the effects of heterogeneity between studies,
+random effects modelling was used throughout the analysis.
+The presence of any dose-response relationships between enterococci level and GI were also
+examined. This was carried out by stratifying the exposure data of the bathers into 4 groups,
+using their quartile values as cut-points to eliminate any subjectivity in the selection process.
+Marine and freshwater studies were then analysed separately to determine whether GI risk
+differs between water type. For this purpose two approaches were taken; 1. Using quartile cutpoints derived from the corresponding water type, and 2. using quartile cut-points of all the
+data in the project. The former approach ensured that the subjects were equally distributed in
+each group and therefore increased the statistical power, while the latter allowed direct
+comparison of the OR in each quartile group as they shared common cut-points.
+In addition, exposure data were divided into 20 unit intervals of enterococci to determine the
+point where GI risk started to increase. Finally, analyses were carried out using the EC
+Bathing Water Directive (2006/7/EC) guideline levels as cut-points to examine whether the
+strictest level (“excellent quality”) would provide better health protection than less stringent
+ones, using non-bathers as baseline. The current standards of “excellent quality” for marine
+and freshwaters are less than 100 and 200 enterococci/100ml respectively, based upon a 95percentile evaluation. Because the Epibathe project focused on individual exposure levels
+rather than the overall standard of the beaches, therefore the 95-percentile was not taken into
+account in the analysis.
+The effects of potential confounding from non-water related risk factors were also examined.
+For this purpose one logistic regression model was created for each trial, and their log odds
+ratios and standard errors (SE) controlled for a number of known confounders were
+subsequently transferred to the meta-analysis models (see list of confounders controlled for
+below 9.e. (a) to (h)). The resultant summary odds ratios were therefore adjusted for
+confounding in contrast to the unadjusted crude summary odds ratios.
+Confounders controlled in the logistic regression models.
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+h.
+
+Age grouped by 10yr intervals
+Sex
+Usual diarrhoea frequency
+Usual alcohol consumption
+GI in the household within 3wks after trial that preceded the subject’s illness
+Unusual fatigue and/or diarrhoea 3wks before trial
+Consumption of hamburgers / takeaways / sandwiches since the first interview
+Additional bathing within 3wks since trial
+
+Appendix 2 Section 2
+
+Page 5 of 29
+
+
+
+A2.2.3
+
+Results
+
+Data from 7,212 volunteers were available in the final dataset (Table 2) after excluding 529
+entries either because they matched the exclusion criteria (n=357) or due to missing data
+(n=172) (Box 1).
+Trial name
+UK I
+UK II
+UK III
+UK IV
+Germany I
+Germany II
+Germany III
+Germany IV
+Germany V
+Hungary I
+Hungary II
+Hungary III
+Hungary IV
+Spain I
+Spain II
+Spain III
+Spain IV
+Total (n)
+Table 2
+
+Non-bathers (n)
+121
+154
+163
+171
+117
+148
+244
+301
+177
+323
+307
+297
+268
+187
+241
+301
+260
+
+Bathers (n)
+111
+98
+160
+147
+87
+131
+229
+294
+171
+322
+277
+286
+221
+176
+243
+235
+244
+
+3,780
+
+3,432
+
+Total (n)
+232
+252
+323
+318
+204
+279
+473
+595
+348
+645
+584
+583
+489
+363
+484
+536
+504
+7,212
+
+Number of volunteers included in meta-analysis.
+
+Confounding factors
+Suffers chronic bowel problems
+Reported the following on bathing day:
+Diarrhoea
+Vomiting
+Nausea
+Indigestion
+Fever
+Entries with missing data
+
+Appendix 2 Section 2
+
+N of excluded subjects
+138
+55
+31
+44
+61
+28
+172
+Total = 529
+
+Box 1
+Number of subjects
+excluded in the
+analysis.
+
+Page 6 of 29
+
+
+
+A2.2.3.1
+
+Risk of GI in bathers
+
+The summary odds ratio (subsequently referred to as OR) for bathers was 1.33 (95% CI 1.101.62) and after adjusting for confounders the OR reduced slightly to 1.29 (95% CI 1.04-1.60)
+(Table 3). Results of the adjusted model were summarised by a forest plot in Figure 1.
+Numbers
+
+Crude
+
+Adjusted
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+209
+
+3,571
+
+1.00
+
+/
+
+1.00
+
+/
+
+Bathers
+
+246
+
+3,186
+
+1.33
+
+1.10-1.62
+
+1.29
+
+1.04-1.60
+
+Table 3
+
+OR of GI in all study sites, crude and adjusted models.
+
+%
+
+Study
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+1.49 (0.69, 3.20)
+
+7.83
+
+UK II
+
+1.95 (0.72, 5.31)
+
+4.58
+
+UK III
+
+1.25 (0.59, 2.62)
+
+8.25
+
+UK IV
+
+1.72 (0.71, 4.15)
+
+5.88
+
+Germany I
+
+0.58 (0.17, 1.98)
+
+3.00
+
+Germany II
+
+1.28 (0.53, 3.10)
+
+5.88
+
+Germany III
+
+1.60 (0.57, 4.52)
+
+4.24
+
+Germany IV
+
+2.05 (1.01, 4.16)
+
+9.19
+
+Germany V
+
+0.93 (0.47, 1.85)
+
+9.72
+
+Hungary I
+
+1.11 (0.49, 2.47)
+
+7.08
+
+Hungary II
+
+0.53 (0.17, 1.66)
+
+3.54
+
+Hungary III
+
+1.03 (0.32, 3.28)
+
+3.42
+
+Hungary IV
+
+2.32 (0.65, 8.28)
+
+2.82
+
+Spain I
+
+2.01 (0.79, 5.16)
+
+5.17
+
+Spain II
+
+0.84 (0.38, 1.88)
+
+7.08
+
+Spain III
+
+1.19 (0.51, 2.75)
+
+6.44
+
+Spain IV
+
+1.39 (0.58, 3.36)
+
+5.88
+
+Overall (I-squared = 0.0%, p = 0.812)
+
+1.29 (1.04, 1.60)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 1
+
+1
+
+10
+
+OR of GI in bathers compared with non-bathers. The estimated odds ratio and
+95% confidence intervals from each study, and their contributions (% weight)
+to the meta-analysis model are displayed in the forest plot. At the bottom the
+diamond represents the summary odds ratio (OR) of the model and its left and
+right extremes reflect the 95% confidence intervals. Results were adjusted for
+confounders.
+
+Appendix 2 Section 2
+
+Page 7 of 29
+
+
+
+Exposure data were then stratified into 4 equal groups using the quartile cut-points to examine
+the dose-response relationship between exposure and GI. A positive association between GI
+and enterococci levels was found. The OR in the adjusted models were 1.18 (95% CI 0.801.74), 1.20 (95% CI 0.83-1.72), 1.34 (95% CI 0.87-2.07), and 1.81 (95% CI 1.08-3.02) for the
+1st, 2nd, 3rd, and 4th quartile respectively (Figure 2). Results from the crude models without the
+control of confounders were slightly higher in the first three quartiles but lower in the 4th
+quartile (Table 4). Figure 3 summarises the OR across various quartile groups.
+
+Quartile cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+209
+
+3,571
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-14
+
+56
+
+797
+
+1.26
+
+0.89-1.79
+
+1.18
+
+0.80-1.74
+
+15-43
+
+58
+
+799
+
+1.27
+
+0.92-1.74
+
+1.20
+
+0.83-1.72
+
+44-88
+
+66
+
+794
+
+1.42
+
+0.95-2.13
+
+1.34
+
+0.87-2.07
+
+≥89
+
+66
+
+796
+
+1.73
+
+1.20-2.49
+
+1.81
+
+1.08-3.02
+
+Overall
+
+455
+
+6,757
+
+1.33
+
+1.10-1.62
+
+1.29
+
+1.04-1.60
+
+Table 4
+
+OR of GI in different quartile group, crude and adjusted models. Also showing
+the aggregated results from all studies.
+
+Appendix 2 Section 2
+
+Page 8 of 29
+
+
+
+a) 1st quartile (0-14 Enterorocci/100ml)
+
+b) 2nd quartile (15-43 Enterorocci/100ml)
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+1.01 (0.11, 9.62)
+
+2.94
+
+UK I
+
+0.57 (0.11, 2.82)
+
+5.04
+
+UK II
+
+1.55 (0.16, 15.38)
+
+2.84
+
+UK II
+
+0.59 (0.12, 2.85)
+
+5.29
+
+UK III
+
+1.00 (0.38, 2.60)
+
+16.17
+
+UK III
+
+1.79 (0.73, 4.40)
+
+16.00
+
+UK IV
+
+1.40 (0.43, 4.64)
+
+10.43
+
+UK IV
+
+0.91 (0.23, 3.68)
+
+6.72
+
+Germany I
+
+0.31 (0.05, 1.72)
+
+5.01
+
+Germany I
+
+1.21 (0.26, 5.69)
+
+5.43
+
+Germany III
+
+1.27 (0.38, 4.20)
+
+10.43
+
+Germany II
+
+1.09 (0.26, 4.67)
+
+6.18
+
+Germany V
+
+0.99 (0.27, 3.68)
+
+8.65
+
+Germany III
+
+2.56 (0.65, 10.09)
+
+6.91
+
+Hungary I
+
+0.84 (0.10, 7.21)
+
+3.21
+
+Germany IV
+
+3.03 (0.74, 12.44)
+
+6.53
+
+Spain I
+
+2.03 (0.79, 5.21)
+
+16.85
+
+Germany V
+
+0.60 (0.16, 2.32)
+
+7.11
+
+Spain II
+
+0.84 (0.34, 2.08)
+
+18.35
+
+Hungary I
+
+1.06 (0.42, 2.67)
+
+15.33
+
+Spain III
+
+3.94 (0.72, 21.65)
+
+5.13
+
+Hungary III
+
+1.63 (0.47, 5.72)
+
+8.27
+
+Germany II
+
+(Excluded)
+
+0.00
+
+Spain II
+
+0.85 (0.29, 2.50)
+
+11.19
+
+Germany IV
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Spain III
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.769)
+
+1.18 (0.80, 1.74)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.795)
+
+1.20 (0.83, 1.72)
+
+100.00
+
+Study
+
+NOTE: Weights are from random effects analysis
+.1
+
+%
+
+NOTE: Weights are from random effects analysis
+1
+
+10
+
+.1
+
+c) 3rd quartile (44-88 Enterorocci/100ml)
+Study
+
+1
+
+10
+
+d) 4th quartile (≥89 Enterorocci/100ml)
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+1.84 (0.81, 4.19)
+
+14.45
+
+UK I
+
+2.83 (0.46, 17.51)
+
+6.45
+
+UK II
+
+5.21 (1.43, 18.98)
+
+8.19
+
+UK II
+
+33.45 (1.29, 865.70)
+
+2.32
+
+UK III
+
+0.48 (0.05, 4.96)
+
+3.10
+
+Germany II
+
+0.35 (0.07, 1.75)
+
+7.87
+
+UK IV
+
+3.78 (1.17, 12.26)
+
+9.38
+
+Germany IV
+
+3.60 (1.61, 8.03)
+
+18.71
+
+Germany II
+
+2.34 (0.81, 6.74)
+
+10.79
+
+Germany V
+
+1.32 (0.56, 3.13)
+
+17.49
+
+Germany IV
+
+0.65 (0.20, 2.07)
+
+9.59
+
+Hungary II
+
+1.60 (0.17, 15.24)
+
+4.51
+
+Germany V
+
+0.68 (0.23, 2.05)
+
+10.29
+
+Hungary IV
+
+2.32 (0.65, 8.28)
+
+11.04
+
+Hungary I
+
+1.21 (0.37, 4.00)
+
+9.16
+
+Spain III
+
+1.02 (0.39, 2.67)
+
+15.63
+
+Hungary II
+
+0.75 (0.22, 2.57)
+
+8.76
+
+Spain IV
+
+2.12 (0.83, 5.42)
+
+15.99
+
+Hungary III
+
+0.44 (0.07, 2.73)
+
+4.77
+
+UK III
+
+(Excluded)
+
+0.00
+
+Spain III
+
+1.49 (0.28, 7.89)
+
+5.54
+
+UK IV
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+0.73 (0.15, 3.55)
+
+5.99
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 28.6%, p = 0.165)
+
+1.34 (0.87, 2.07)
+
+100.00
+
+Overall (I-squared = 34.8%, p = 0.139)
+
+1.81 (1.08, 3.02)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 2
+
+%
+
+NOTE: Weights are from random effects analysis
+
+1
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI in different enterococci quartiles. Studies with no
+subjects in the corresponding quartile group were allocated to the bottom and marked as
+“excluded”. Results were obtained from random effects models and were adjusted for
+confounders.
+
+Appendix 2 Section 2
+
+Page 9 of 29
+
+
+
+3.5
+
+Pooled odds ratio (95%CI)
+
+3
+
+2.5
+
+2
+
+1.5
+
+1
+
+0.5
+
+0
+
+1st quartile (0-14)
+
+2nd quartile (15-43)
+
+3rd quartile (44-88)
+
+4th quartile (>88)
+
+Quartile group (Enterococci/100ml)
+
+Figure 3
+
+Summary odds ratios for GI and 95%CI at various quartile groups. Results
+were obtained from random effects models and were adjusted for
+confounders.
+
+For a more detailed examination of the dose-response relationship exposure data were
+stratified into 6 groups by intervals of 20 enterococci (Table 5). Results obtained from the
+models showed signs of a positive dose-response relationship, with the exception of the 80-99
+enterococci stratum. Nevertheless the ≥100 tier achieved statistical significance and the OR
+was significantly higher than those exposed to less than 100 enterococci (Figure 4).
+
+Appendix 2 Section 2
+
+Page 10 of 29
+
+
+
+Cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+209
+
+3,571
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-19
+
+68
+
+956
+
+1.26
+
+0.92-1.74
+
+1.23
+
+0.86-1.74
+
+20-39
+
+45
+
+552
+
+1.40
+
+0.98-1.99
+
+1.32
+
+0.88-1.99
+
+40-59
+
+33
+
+491
+
+1.42
+
+0.91-2.22
+
+1.38
+
+0.86-2.23
+
+60-79
+
+26
+
+287
+
+1.69
+
+1.01-2.83
+
+1.59
+
+0.92-2.75
+
+80-99
+
+10
+
+162
+
+1.19
+
+0.61-2.33
+
+1.00
+
+0.45-2.24
+
+≥100
+
+64
+
+738
+
+1.83
+
+1.22-2.75
+
+1.96
+
+1.24-3.11
+
+Overall
+
+455
+
+6,757
+
+1.33
+
+1.10-1.62
+
+1.29
+
+1.04-1.60
+
+Table 5
+
+OR of GI at intervals of 20 enterococci, crude and adjusted models. Also
+showing the aggregated results from all studies.
+
+Appendix 2 Section 2
+
+Page 11 of 29
+
+
+
+Forest plots showing OR of GI at regular intervals of 20 enterococci. Studies with no subjects in the corresponding group
+were allocated to the bottom and marked as “excluded”. Results were obtained from random effects models and were
+adjusted for confounders.
+
+Figure 4
+
+a) 0-19 Enterococci/100ml
+
+b) 20-39 Enterococci/100ml
+
+c) 40-59 Enterococci/100ml
+
+%
+
+Study
+
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+1.02 (0.11, 9.91)
+
+2.39
+
+UK I
+
+0.64 (0.13, 3.28)
+
+6.22
+
+UK I
+
+1.32 (0.39, 4.46)
+
+13.63
+
+UK II
+
+1.52 (0.34, 6.75)
+
+5.58
+
+UK II
+
+0.16 (0.01, 2.78)
+
+2.04
+
+UK II
+
+4.22 (0.88, 20.25)
+
+8.58
+
+UK III
+
+1.12 (0.44, 2.80)
+
+14.58
+
+UK III
+
+1.65 (0.66, 4.14)
+
+19.39
+
+UK III
+
+0.48 (0.05, 4.82)
+
+4.10
+
+UK IV
+
+1.40 (0.43, 4.64)
+
+8.66
+
+UK IV
+
+0.91 (0.23, 3.68)
+
+8.50
+
+UK IV
+
+3.67 (0.95, 14.19)
+
+11.25
+
+Germany I
+
+0.40 (0.09, 1.72)
+
+5.88
+
+Germany I
+
+1.63 (0.25, 10.51)
+
+4.75
+
+Germany II
+
+4.44 (1.19, 16.50)
+
+11.87
+
+Germany II
+
+3.13 (0.21, 47.67)
+
+1.67
+
+Germany II
+
+1.42 (0.33, 6.17)
+
+7.61
+
+Germany IV
+
+0.51 (0.06, 4.60)
+
+4.54
+
+Germany III
+
+1.51 (0.51, 4.43)
+
+10.65
+
+Germany III
+
+3.63 (0.37, 35.99)
+
+3.13
+
+Germany V
+
+0.75 (0.19, 2.89)
+
+11.25
+
+Germany V
+
+0.89 (0.27, 2.87)
+
+8.95
+
+Germany IV
+
+3.22 (0.79, 13.21)
+
+8.26
+
+Hungary I
+
+0.95 (0.26, 3.54)
+
+11.87
+
+Hungary I
+
+1.43 (0.37, 5.54)
+
+6.77
+
+Germany V
+
+0.35 (0.04, 2.99)
+
+3.61
+
+Hungary II
+
+0.79 (0.15, 4.16)
+
+7.66
+
+Spain I
+
+2.01 (0.79, 5.16)
+
+13.98
+
+Hungary I
+
+1.11 (0.39, 3.12)
+
+15.25
+
+Hungary III
+
+0.42 (0.07, 2.57)
+
+6.60
+
+Spain II
+
+0.77 (0.33, 1.83)
+
+16.64
+
+Hungary III
+
+2.10 (0.60, 7.35)
+
+10.46
+
+Spain III
+
+1.11 (0.11, 10.74)
+
+4.24
+
+Spain III
+
+3.86 (0.70, 21.22)
+
+4.26
+
+Spain II
+
+1.13 (0.33, 3.88)
+
+10.79
+
+Spain IV
+
+1.23 (0.13, 11.52)
+
+4.39
+
+Germany IV
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Spain III
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+(Excluded)
+
+0.00
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.773)
+
+1.23 (0.86, 1.74)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.728)
+
+1.32 (0.88, 1.98)
+
+100.00
+
+Overall (I-squared = 7.0%, p = 0.377)
+
+1.38 (0.86, 2.23)
+
+100.00
+
+Study
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+.1
+
+1
+
+.1
+
+10
+
+d) 60-79 Enterococci /100ml
+
+%
+
+NOTE: Weights are from random effects analysis
+
+1
+
+10
+
+.1
+
+e) 80-99 Enterococci/100ml
+
+1
+
+10
+
+f) ≥100 Enterococci/100ml
+
+%
+
+Study
+
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+1.86 (0.68, 5.05)
+
+29.87
+
+UK I
+
+2.72 (0.54, 13.56)
+
+25.07
+
+UK I
+
+2.83 (0.46, 17.51)
+
+5.71
+
+UK II
+
+6.36 (0.93, 43.41)
+
+8.09
+
+Germany II
+
+0.17 (0.01, 3.62)
+
+6.84
+
+UK II
+
+29.37 (1.05, 822.16)
+
+1.84
+
+UK IV
+
+3.94 (0.72, 21.65)
+
+10.27
+
+Germany IV
+
+0.94 (0.20, 4.43)
+
+27.01
+
+Germany II
+
+0.50 (0.09, 2.71)
+
+6.56
+
+Germany II
+
+1.35 (0.32, 5.76)
+
+14.19
+
+Germany V
+
+0.47 (0.06, 3.88)
+
+14.45
+
+Germany IV
+
+3.86 (1.73, 8.62)
+
+20.69
+
+Germany IV
+
+0.39 (0.05, 3.09)
+
+6.92
+
+Hungary II
+
+0.83 (0.09, 7.57)
+
+13.20
+
+Germany V
+
+1.36 (0.55, 3.36)
+
+17.78
+
+Germany V
+
+1.35 (0.29, 6.23)
+
+12.77
+
+Spain III
+
+1.19 (0.13, 10.65)
+
+13.44
+
+Hungary II
+
+1.65 (0.17, 16.02)
+
+3.81
+
+Hungary I
+
+1.67 (0.16, 17.50)
+
+5.40
+
+UK II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+2.32 (0.65, 8.28)
+
+10.57
+
+Hungary II
+
+0.58 (0.06, 5.18)
+
+6.19
+
+UK III
+
+(Excluded)
+
+0.00
+
+Spain III
+
+1.12 (0.43, 2.92)
+
+16.28
+
+Spain IV
+
+0.74 (0.08, 6.52)
+
+6.31
+
+UK IV
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+2.27 (0.89, 5.82)
+
+16.76
+
+UK III
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+UK III
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+UK IV
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain III
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+(Excluded)
+
+0.00
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.609)
+
+1.59 (0.92, 2.75)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.648)
+
+1.00 (0.45, 2.24)
+
+100.00
+
+Overall (I-squared = 20.4%, p = 0.262)
+
+1.96 (1.24, 3.11)
+
+100.00
+
+Study
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+.1
+
+1
+
+Appendix 2 Section 2
+
+10
+
+.1
+
+%
+
+NOTE: Weights are from random effects analysis
+
+1
+
+.1
+
+10
+
+Page 12 of 29
+
+1
+
+10
+
+
+
+A2.2.3.2
+
+Risk of GI in bathers, stratified by water type
+
+Both marine and freshwater studies showed an increased risk of GI amongst bathers, and
+according to the adjusted models the risk was approximately 2-fold higher in marine water
+(OR=1.39, 95% CI 1.03-1.87) than freshwater sites (OR=1.20, 95% CI 0.88-1.62) (Tables 6 &
+7). Forest plots of the studies were displayed in Figure 5.
+Numbers
+
+Crude
+
+Adjusted
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+107
+
+1,491
+
+1.00
+
+/
+
+1.00
+
+/
+
+Bathers
+
+130
+
+1,284
+
+1.42
+
+1.08-1.86
+
+1.39
+
+1.03-1.87
+
+OR of GI in marine water sites, crude and adjusted models.
+
+Table 6
+
+Numbers
+
+Crude
+
+Adjusted
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+102
+
+2,080
+
+1.00
+
+/
+
+1.00
+
+/
+
+Bathers
+
+116
+
+1,902
+
+1.25
+
+0.94-1.65
+
+1.20
+
+0.88-1.62
+
+OR of GI in freshwater sites, crude and adjusted models.
+
+Table 7
+
+a) Marine water studies
+
+b) Freshwater studies
+
+Study
+
+Study
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany I
+
+0.58 (0.17, 1.98)
+
+6.14
+
+Germany II
+
+1.28 (0.53, 3.10)
+
+12.03
+
+Germany III
+
+1.60 (0.57, 4.52)
+
+8.67
+
+Germany IV
+
+2.05 (1.01, 4.16)
+
+18.79
+
+Germany V
+
+0.93 (0.47, 1.85)
+
+19.88
+
+Hungary I
+
+1.11 (0.49, 2.47)
+
+14.49
+
+Hungary II
+
+0.53 (0.17, 1.66)
+
+7.24
+
+Hungary III
+
+1.03 (0.32, 3.28)
+
+7.00
+
+Hungary IV
+
+2.32 (0.65, 8.28)
+
+5.76
+
+Overall (I-squared = 0.0%, p = 0.483)
+
+1.19 (0.88, 1.62)
+
+100.00
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+1.49 (0.69, 3.20)
+
+15.32
+
+UK II
+
+1.95 (0.72, 5.31)
+
+UK III
+
+1.25 (0.59, 2.62)
+
+UK IV
+
+1.72 (0.71, 4.15)
+
+Spain I
+
+2.01 (0.79, 5.16)
+
+Spain II
+
+0.84 (0.38, 1.88)
+
+8.96
+16.14
+11.51
+10.11
+13.86
+
+Spain III
+
+1.19 (0.51, 2.75)
+
+12.60
+
+Spain IV
+
+1.39 (0.58, 3.36)
+
+11.51
+
+Overall (I-squared = 0.0%, p = 0.885)
+
+1.38 (1.03, 1.87)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 5
+
+%
+
+%
+
+NOTE: Weights are from random effects analysis
+1
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI for different water type. Results were
+obtained from random effects models and were adjusted for confounders.
+
+Appendix 2 Section 2
+
+Page 13 of 29
+
+
+
+A2.2.3.2.1.
+
+Stratification using quartile cut-points from either marine or freshwater
+studies
+
+When exposure data were stratified into quartiles using cut-points that corresponded to the
+relevant water type, results from marine water sites demonstrated a positive dose-response
+relationship between GI and exposure. Such association was observed in both the crude and
+adjusted models although the actual figures varied (Table 8). The OR in the 1st – 4th quartiles
+of the adjusted models were 1.35 (95% CI 0.75-2.45), 1.44 (95% CI 0.87-2.36), 1.47 (95% CI
+0.94-2.31), and 2.06 (95% CI 0.84-5.04) respectively (Table 8 & Figure 6). These results were
+summarised in Figure 7.
+Results from freshwater sites showed some signs of a positive dose-response relationship but
+none of the models achieved statistical significance. The OR of the adjusted models were 0.98
+(95% CI 0.54-1.76), 1.26 (95% CI 0.74-2.17), 1.15 (95% CI 0.69-1.94), and 1.68 (95% CI
+0.82-3.46) for the 1st – 4th quartiles respectively (Table 9 & Figure 8). Figure 9 summarises
+the OR across different quartile group.
+Quartile cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+107
+
+1,491
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-8
+
+24
+
+316
+
+1.39
+
+0.82-2.38
+
+1.35
+
+0.75-2.45
+
+9-27
+
+35
+
+325
+
+1.36
+
+0.88-2.09
+
+1.44
+
+0.87-2.36
+
+28-88
+
+47
+
+310
+
+1.69
+
+1.13-2.52
+
+1.47
+
+0.94-2.31
+
+≥89
+
+24
+
+333
+
+1.83
+
+0.79-4.25
+
+2.06
+
+0.84-5.04
+
+Overall
+
+237
+
+2,775
+
+1.42
+
+1.08-1.86
+
+1.39
+
+1.03-1.87
+
+Table 8
+
+OR of GI in different quartile group in marine water studies, crude and adjusted
+models. Quartile cut-points were calculated from marine water studies. Also
+showing the aggregated results from all marine water studies.
+
+Appendix 2 Section 2
+
+Page 14 of 29
+
+
+
+a) 1st quartile (0-8 Enterococci)
+
+b) 2nd quartile (9-27 Enterococci)
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+4.18 (0.29, 61.26)
+
+4.89
+
+UK II
+
+1.31 (0.28, 6.04)
+
+10.57
+
+6.94
+
+UK III
+
+1.65 (0.70, 3.91)
+
+33.22
+
+7.45
+
+UK IV
+
+1.40 (0.50, 3.97)
+
+22.90
+
+38.25
+
+Spain I
+
+2.97 (0.25, 35.15)
+
+4.05
+
+33.97
+
+Spain II
+
+0.91 (0.34, 2.44)
+
+25.73
+
+8.49
+
+Spain III
+
+6.82 (0.48, 96.15)
+
+3.53
+
+(Excluded)
+
+0.00
+
+Study
+
+UK II
+
+1.63 (0.17, 15.55)
+
+UK III
+
+0.28 (0.03, 2.42)
+
+Spain I
+
+1.97 (0.76, 5.16)
+
+Spain II
+
+0.84 (0.30, 2.34)
+
+Spain III
+
+2.92 (0.38, 22.38)
+
+%
+
+UK IV
+
+(Excluded)
+
+0.00
+
+UK I
+
+Spain IV
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.450)
+
+1.35 (0.75, 2.45)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.762)
+
+1.44 (0.87, 2.36)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+
+.1
+
+1
+
+.1
+
+10
+
+c) 3rd quartile (28-88 Enterococci)
+
+1
+
+10
+
+d) 4th quartile (≥89 Enterococci)
+
+Study
+
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+1.46 (0.65, 3.27)
+
+31.76
+
+UK I
+
+2.69 (0.43, 16.66)
+
+17.68
+
+UK II
+
+2.14 (0.65, 7.07)
+
+14.35
+
+UK II
+
+38.47 (1.49, 995.79)
+
+6.81
+
+UK III
+
+1.27 (0.45, 3.59)
+
+19.01
+
+Spain III
+
+1.03 (0.39, 2.69)
+
+37.43
+
+UK IV
+
+3.16 (0.99, 10.04)
+
+15.34
+
+Spain IV
+
+2.12 (0.83, 5.42)
+
+38.09
+
+Spain II
+
+0.52 (0.05, 5.27)
+
+3.83
+
+UK III
+
+(Excluded)
+
+0.00
+
+Spain III
+
+1.06 (0.20, 5.51)
+
+7.57
+
+UK IV
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+0.57 (0.12, 2.79)
+
+8.14
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.621)
+
+1.47 (0.94, 2.31)
+
+100.00
+
+Overall (I-squared = 40.0%, p = 0.172)
+
+2.06 (0.84, 5.04)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+
+.1
+
+%
+
+NOTE: Weights are from random effects analysis
+
+1
+
+Figure 6
+
+Appendix 2 Section 2
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI in different enterococci quartiles in marine
+water studies. Studies with no subjects in the corresponding quartile group
+were allocated to the bottom and marked as “excluded”. Results were
+obtained from random effects models and were adjusted for confounders.
+
+Page 15 of 29
+
+
+
+5
+
+Pooled odds ratio (95%CI)
+
+4
+
+3
+
+2
+
+1
+
+0
+1st quartile (0-8)
+
+2nd quartile (9-27)
+
+3rd quartile (28-88)
+
+4th quartile (>88)
+
+Quartile group (Enterococci/100ml)
+
+Figure 7
+
+Graph showing pooled odds ratios of GI and 95%CI at various quartile
+groups, marine water studies. Quartile cut-points were calculated from marine
+water studies. Results were obtained from random effects models and were
+adjusted for confounders.
+
+Appendix 2 Section 2
+
+Page 16 of 29
+
+
+
+Quartile cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+102
+
+2,080
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-22
+
+22
+
+475
+
+1.13
+
+0.65-1.95
+
+0.98
+
+0.54-1.76
+
+23-49
+
+27
+
+473
+
+1.42
+
+0.88-2.28
+
+1.26
+
+0.74-2.17
+
+50-88
+
+25
+
+492
+
+1.07
+
+0.67-1.72
+
+1.15
+
+0.69-1.94
+
+≥89
+
+42
+
+462
+
+1.85
+
+0.67-1.72
+
+1.68
+
+0.82-3.46
+
+Overall
+
+218
+
+3,982
+
+1.25
+
+0.94-1.65
+
+1.20
+
+0.88-1.62
+
+Table 9
+
+OR of GI in different quartile group in freshwater studies, crude and
+adjusted models. Quartile cut-points were calculated from freshwater
+studies. Also showing the aggregated results from all freshwater studies.
+
+Appendix 2 Section 2
+
+Page 17 of 29
+
+
+
+a) 1st quartile (0-22 Enterococci/100ml)
+
+b) 2nd quartile (23-49 Enterococci/100ml)
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany I
+
+0.39 (0.09, 1.65)
+
+16.69
+
+Germany I
+
+2.44 (0.34, 17.29)
+
+7.55
+
+Germany II
+
+3.16 (0.21, 48.15)
+
+4.73
+
+Germany II
+
+1.63 (0.43, 6.19)
+
+16.33
+
+Germany III
+
+1.60 (0.57, 4.52)
+
+32.54
+
+Germany IV
+
+1.92 (0.49, 7.55)
+
+15.41
+
+Germany V
+
+0.76 (0.24, 2.40)
+
+26.26
+
+Germany V
+
+0.53 (0.11, 2.55)
+
+11.80
+
+Hungary I
+
+1.00 (0.26, 3.78)
+
+19.77
+
+Hungary I
+
+0.95 (0.34, 2.64)
+
+27.93
+
+Germany IV
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+1.43 (0.44, 4.65)
+
+20.98
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.503)
+
+0.98 (0.54, 1.76)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.786)
+
+1.26 (0.74, 2.17)
+
+100.00
+
+Study
+
+NOTE: Weights are from random effects analysis
+
+%
+
+NOTE: Weights are from random effects analysis
+.1
+
+1
+
+10
+
+.1
+
+c) – 3rd quartile (50-88 Enterococci/100ml)
+Study
+
+1
+
+10
+
+d) 4th quartile (≥89 Enterococci/100ml)
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany II
+
+2.29 (0.77, 6.87)
+
+22.48
+
+Germany II
+
+0.38 (0.08, 1.84)
+
+14.30
+
+Germany IV
+
+0.74 (0.23, 2.35)
+
+20.26
+
+Germany IV
+
+3.56 (1.63, 7.80)
+
+30.22
+
+Germany V
+
+0.81 (0.27, 2.48)
+
+21.70
+
+Germany V
+
+1.32 (0.56, 3.13)
+
+28.10
+
+Hungary I
+
+1.67 (0.49, 5.61)
+
+18.34
+
+Hungary II
+
+1.60 (0.17, 15.24)
+
+8.37
+
+Hungary II
+
+0.84 (0.24, 2.93)
+
+17.21
+
+Hungary IV
+
+2.32 (0.65, 8.28)
+
+19.01
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.548)
+
+1.15 (0.69, 1.94)
+
+100.00
+
+Overall (I-squared = 45.0%, p = 0.122)
+
+1.68 (0.82, 3.46)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 8
+
+%
+
+NOTE: Weights are from random effects analysis
+
+1
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI in different enterococci quartiles in
+freshwater studies. Studies with no subjects in the corresponding quartile
+group were allocated to the bottom and marked as “excluded”. Results were
+obtained from random effects models and were adjusted for confounders.
+
+Appendix 2 Section 2
+
+Page 18 of 29
+
+
+
+4
+
+Odds ratio (95%CI)
+
+3
+
+2
+
+1
+
+0
+1st quartile (0-22)
+
+2nd quartile (23-49)
+
+3rd quartile (50-88)
+
+4th quartile (>88)
+
+Quartile group (Enterococci/100ml)
+
+Figure 9
+
+A2.3.2.2.
+
+Summary odds ratios of GI and 95%CI at various quartile groups, freshwater
+studies. Quartile cut-points were calculated from freshwater studies. Results
+were obtained from random effects models and were adjusted for
+confounders.
+Stratification using quartile cut-points from all studies
+
+In order to compare the changes in GI risks at different exposure levels between marine and
+freshwater studies, a set of common quartile cut-points derived from all exposure data were
+used. Neither marine nor freshwater studies showed any strong dose-response relationship
+between GI and exposure level, although results from the former showed a significantly
+increased risk at the third quartile (Tables 10 & 11, Figures 10 & 11). Both sets of results are
+summarised in Figure 12.
+
+Appendix 2 Section 2
+
+Page 19 of 29
+
+
+
+Quartile cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+107
+
+1,491
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-14
+
+42
+
+472
+
+1.33
+
+0.89-2.01
+
+1.33
+
+0.84-2.09
+
+15-43
+
+26
+
+284
+
+1.13
+
+0.71-1.79
+
+1.03
+
+0.60-1.77
+
+44-88
+
+38
+
+195
+
+2.24
+
+1.30-3.85
+
+2.04
+
+1.10-3.75
+
+≥89
+
+24
+
+333
+
+1.83
+
+0.79-4.25
+
+2.02
+
+0.85-4.85
+
+Overall
+
+237
+
+2,775
+
+1.42
+
+1.08-1.86
+
+1.39
+
+1.03-1.87
+
+Table 10
+
+OR of GI in different quartile group in marine water studies, crude and
+adjusted models. Quartile cut-points were calculating from all studies. Also
+showing the aggregated results from all marine water studies.
+
+Quartile cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+102
+
+2,080
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-14
+
+14
+
+325
+
+1.08
+
+0.47-2.48
+
+0.90
+
+0.43-1.88
+
+15-43
+
+32
+
+515
+
+1.40
+
+0.91-2.16
+
+1.35
+
+0.83-2.19
+
+44-88
+
+28
+
+599
+
+0.98
+
+0.62-1.54
+
+0.96
+
+0.59-1.57
+
+≥89
+
+42
+
+463
+
+1.85
+
+1.20-2.85
+
+1.66
+
+0.80-3.47
+
+Overall
+
+218
+
+3,982
+
+1.25
+
+0.94-1.65
+
+1.20
+
+0.88-1.62
+
+Table 11
+
+OR of GI in different quartile group in freshwater studies, crude and
+adjusted models. Quartile cut-points were calculated from all studies. Also
+showing the aggregated results from all freshwater studies.
+
+Appendix 2 Section 2
+
+Page 20 of 29
+
+
+
+a) 1st quartile (0-14 Enterococci/100ml)
+
+b) 2nd quartile (15-43 Enterococci/100ml)
+%
+
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+1.01 (0.11, 9.62)
+
+4.04
+
+UK I
+
+0.57 (0.11, 2.82)
+
+11.38
+
+UK II
+
+1.55 (0.16, 15.38)
+
+3.90
+
+UK II
+
+0.59 (0.12, 2.85)
+
+11.96
+
+UK III
+
+1.00 (0.38, 2.60)
+
+22.24
+
+UK III
+
+1.79 (0.73, 4.40)
+
+36.17
+
+UK IV
+
+1.40 (0.43, 4.64)
+
+14.35
+
+UK IV
+
+0.91 (0.23, 3.68)
+
+15.18
+
+Spain I
+
+2.03 (0.79, 5.21)
+
+23.18
+
+Spain II
+
+0.85 (0.29, 2.50)
+
+25.30
+
+Spain II
+
+0.84 (0.34, 2.08)
+
+25.24
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain III
+
+3.94 (0.72, 21.65)
+
+7.06
+
+Spain III
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.711)
+
+1.33 (0.84, 2.09)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.629)
+
+1.03 (0.60, 1.77)
+
+100.00
+
+Study
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+
+.1
+
+1
+
+.1
+
+10
+
+c) 3rd quartile (44-88 Enterococci/100ml)
+Study
+
+1
+
+10
+
+d) 4th quartile (≥89 Enterococci/100ml)
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+1.84 (0.81, 4.19)
+
+32.30
+
+UK I
+
+2.83 (0.46, 17.51)
+
+17.25
+
+UK II
+
+5.21 (1.43, 18.98)
+
+17.37
+
+UK II
+
+33.45 (1.29, 865.70)
+
+6.53
+
+UK III
+
+0.48 (0.05, 4.96)
+
+6.32
+
+Spain III
+
+1.02 (0.39, 2.67)
+
+37.75
+
+UK IV
+
+3.78 (1.17, 12.26)
+
+20.07
+
+Spain IV
+
+2.12 (0.83, 5.42)
+
+38.46
+
+Spain III
+
+1.49 (0.28, 7.89)
+
+11.49
+
+UK III
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+0.73 (0.15, 3.55)
+
+12.46
+
+UK IV
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 21.4%, p = 0.273)
+
+2.03 (1.10, 3.75)
+
+100.00
+
+Overall (I-squared = 37.4%, p = 0.188)
+
+2.02 (0.84, 4.85)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+
+.1
+
+Figure 10
+
+%
+
+NOTE: Weights are from random effects analysis
+
+1
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI in different enterococci quartiles in marine water
+studies. Quartile cut-points were calculated from all studies. Studies with no
+subjects in the corresponding quartile group were allocated to the bottom and
+marked as “excluded”. Results were obtained from random effects models and were
+adjusted for confounders.
+
+Appendix 2 Section 2
+
+Page 21 of 29
+
+
+
+a) 1st quartile (0-14 Enterococci/100ml)
+
+b) 2nd quartile (15-43 Enterococci/100ml)
+%
+
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany I
+
+0.31 (0.05, 1.72)
+
+18.40
+
+Germany I
+
+1.21 (0.26, 5.69)
+
+9.73
+
+1.09 (0.26, 4.67)
+
+11.09
+
+Study
+
+Germany III
+
+1.27 (0.38, 4.20)
+
+38.29
+
+Germany II
+
+Germany V
+
+0.99 (0.27, 3.68)
+
+31.74
+
+Germany III
+
+2.56 (0.65, 10.09)
+
+12.39
+
+Hungary I
+
+1.20 (0.14, 10.54)
+
+11.56
+
+Germany IV
+
+3.03 (0.74, 12.44)
+
+11.71
+
+Germany II
+
+(Excluded)
+
+0.00
+
+Germany V
+
+0.60 (0.16, 2.32)
+
+12.76
+
+Germany IV
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+1.06 (0.42, 2.67)
+
+27.49
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+1.63 (0.47, 5.72)
+
+14.83
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.594)
+
+0.90 (0.43, 1.88)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.686)
+
+1.35 (0.83, 2.19)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+
+.1
+
+1
+
+.1
+
+10
+
+c) 3rd quartile (44-88 Enterococci/100ml)
+
+1
+
+10
+
+d) 4th quartile (≥89 Enterococci/100ml)
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany II
+
+2.34 (0.81, 6.74)
+
+21.63
+
+Germany II
+
+0.35 (0.07, 1.75)
+
+14.38
+
+Germany IV
+
+0.65 (0.20, 2.07)
+
+18.12
+
+Germany IV
+
+3.60 (1.61, 8.03)
+
+29.59
+
+Germany V
+
+0.68 (0.23, 2.05)
+
+20.11
+
+Germany V
+
+1.32 (0.56, 3.13)
+
+28.09
+
+Hungary I
+
+1.21 (0.37, 4.00)
+
+16.95
+
+Hungary II
+
+1.60 (0.17, 15.24)
+
+8.65
+
+Hungary II
+
+0.75 (0.22, 2.57)
+
+15.89
+
+Hungary IV
+
+2.32 (0.65, 8.28)
+
+19.29
+
+Hungary III
+
+0.44 (0.07, 2.73)
+
+7.29
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.477)
+
+0.96 (0.58, 1.57)
+
+100.00
+
+Overall (I-squared = 46.4%, p = 0.113)
+
+1.66 (0.80, 3.47)
+
+100.00
+
+Study
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 11
+
+%
+
+NOTE: Weights are from random effects analysis
+
+1
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI in different enterococci quartiles in freshwater studies.
+Quartile cut-points were calculated from all studies. Studies with no subjects in the
+corresponding quartile group were allocated to the bottom and marked as “excluded”.
+Results were obtained from random effects models and were adjusted for confounders.
+
+Appendix 2 Section 2
+
+Page 22 of 29
+
+
+
+b) Freshwater studies
+
+5
+
+5
+
+4
+
+4
+
+Pooled odds ratio (95% CI)
+
+Pooled odds ratio (95% CI)
+
+a) Marine water studies
+
+3
+
+2
+
+1
+
+3
+
+2
+
+1
+
+0
+
+0
+1st quartile (0-14)
+
+2nd quartile (15-43)
+
+3rd quartile (44-88)
+
+4th quartile (>88)
+
+1st quartile (0-14)
+
+Quartile group (Enterococci/100ml)
+
+Figure 12
+
+2nd quartile (15-43)
+
+3rd quartile (44-88)
+
+4th quartile (>88)
+
+Quartile group (Enterococci/100ml)
+
+Summary odds ratios of GI and 95%CI at various quartile groups, marine water (a) and freshwater studies (b). Quartile
+cut-points were calculated from all studies. Results were obtained from random effects models and were adjusted for
+confounders.
+
+Appendix 2 Section 2
+
+Page 23 of 29
+
+
+
+A2.2.3.3
+
+Risk of GI in bathers using the 2006/7/EC “excellent quality” level as cutpoint
+
+An increased risk of GI was observed in both marine and freshwater sites when bathers were
+exposed to enterococci concentrations higher than the level that approximately resembled the
+2006/7/EC “excellent quality” criteria, i.e. 100 and 200 enterococci/100ml for marine water
+and freshwater respectively. In marine water sites, compared with non-bathers, the risk of GI
+was 32% higher (OR=1.32, 95% CI 0.95-1.83) when bathing took place in water with less
+than 100 enterococci/100ml, but increased to 119% (OR=2.19, 95% CI 0.90-5.34) of nonbathers once beyond that level (Table 12 & Figure 13). In freshwater sites the risk of GI was
+23% (OR=1.23, 95% CI 0.90-1.70) higher when bathers were exposed to water with less than
+200 enterococci/100ml compared with non-bathers, but increased to 144% (OR=2.44, 95% CI
+1.09-5.45) when that level was exceeded (Table 13 & Figure 14).
+
+Cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+107
+
+1491
+
+1.00
+
+/
+
+1.00
+
+/
+
+<100
+
+106
+
+975
+
+1.39
+
+1.04-1.86
+
+1.32
+
+0.95-1.83
+
+≥100
+
+24
+
+309
+
+1.89
+
+0.85-4.22
+
+2.19
+
+0.90-5.34
+
+Overall
+
+237
+
+2,755
+
+1.42
+
+1.08-1.86
+
+1.39
+
+1.03-1.87
+
+Table 12
+
+OR of GI in bathers from marine water studies exposed to below or above 100
+enterococci/100ml, crude and adjusted models. Also showing the aggregated
+results from all marine water studies.
+
+Appendix 2 Section 2
+
+Page 24 of 29
+
+
+
+b) ≥100 Enterococci/100ml
+
+a) <100 Enterococci/100ml
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+1.42 (0.65, 3.11)
+
+17.19
+
+UK II
+
+1.77 (0.64, 4.90)
+
+10.17
+
+UK III
+
+1.25 (0.59, 2.62)
+
+19.04
+
+UK IV
+
+1.72 (0.71, 4.15)
+
+Spain I
+
+Study
+
+%
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK I
+
+2.80 (0.45, 17.34)
+
+17.59
+
+UK II
+
+41.26 (1.56, 1089.14)
+
+6.67
+
+Spain III
+
+1.11 (0.42, 2.89)
+
+37.53
+
+13.58
+
+Spain IV
+
+2.29 (0.90, 5.88)
+
+38.21
+
+2.01 (0.79, 5.16)
+
+11.94
+
+UK III
+
+(Excluded)
+
+0.00
+
+Spain II
+
+0.84 (0.38, 1.88)
+
+16.36
+
+UK IV
+
+(Excluded)
+
+0.00
+
+Spain III
+
+1.39 (0.43, 4.51)
+
+7.64
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+0.41 (0.08, 2.05)
+
+4.09
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.695)
+
+1.32 (0.95, 1.83)
+
+100.00
+
+Overall (I-squared = 39.4%, p = 0.176)
+
+2.19 (0.90, 5.34)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+
+.1
+
+1
+
+Figure 13
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI in bathers exposed to <100 and ≥100
+enterococci/100ml in marine water studies. Studies with no subjects in the
+corresponding group were allocated to the bottom and marked as
+“excluded”. Results were obtained from random effects models and were
+adjusted for confounders.
+
+Cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(enterococci/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+102
+
+2,080
+
+1.00
+
+/
+
+1.00
+
+/
+
+<200
+
+101
+
+1658
+
+1.20
+
+0.90-1.61
+
+1.23
+
+0.90-1.70
+
+≥200
+
+15
+
+244
+
+2.24
+
+1.14-4.39
+
+2.44
+
+1.09-5.45
+
+Overall
+
+218
+
+3,982
+
+1.25
+
+0.94-1.65
+
+1.20
+
+0.88-1.62
+
+Table 13
+
+OR of GI in bathers from freshwater studies exposed to below or above 200
+enterococci/100ml, crude and adjusted models. Also showing the aggregated
+results from all freshwater studies.
+
+Appendix 2 Section 2
+
+Page 25 of 29
+
+
+
+b) ≥200 Enterococci/100ml
+
+a) <200 Enterococci/100ml
+Study
+
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany I
+
+1.73 (0.50, 5.96)
+
+6.77
+
+Germany IV
+
+3.42 (0.67, 17.41)
+
+24.52
+
+Germany II
+
+1.58 (0.64, 3.90)
+
+12.70
+
+Germany V
+
+1.84 (0.48, 7.12)
+
+35.49
+
+Germany III
+
+1.60 (0.57, 4.52)
+
+9.57
+
+Hungary IV
+
+2.53 (0.71, 9.06)
+
+39.99
+
+Germany IV
+
+1.97 (0.96, 4.08)
+
+19.63
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany V
+
+0.84 (0.41, 1.74)
+
+19.63
+
+Germany II
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+1.11 (0.49, 2.47)
+
+15.99
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+0.54 (0.17, 1.69)
+
+7.99
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+1.03 (0.32, 3.28)
+
+7.72
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.580)
+
+1.23 (0.89, 1.70)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.845)
+
+2.44 (1.09, 5.45)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 14
+
+%
+
+NOTE: Weights are from random effects analysis
+1
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI in bathers exposed to <200 and ≥200
+enterococci/100ml in freshwater studies. Studies with no subjects in the
+corresponding group were allocated to the bottom and marked as
+“excluded”. Results were obtained from random effects models and were
+adjusted for confounders.
+
+A2.2.4.
+
+Discussion
+
+Results obtained from meta-analyses showed that recreational bathing in European waters was
+associated with an increased risk of GI. Furthermore, there was also evidence of a doseresponse relationship between exposure level and GI risk; compared with non-bathers the risk
+was slightly increased at lower enterococci concentrations but became more significant at
+higher concentrations despite still being within the limits of the current guideline levels.
+Analysis of the combined data showed that a threshold point occurred at 100
+enterococci/100ml where the risk of GI became statistically significant.
+When results were stratified by water type, freshwater sites showed lower risks as well as a
+weaker dose-response relationship between GI and exposure than marine water studies.
+However, the positive dose-response relationship seen in marine water studies was lost when
+the exposure group was stratified using the overall quartile values as cut-points. This was
+probably due to reduced statistical power caused by the uneven number of subjects assigned
+to each group. Nonetheless the results showed that recreational bathing in marine waters was
+associated with higher GI risk than freshwater, and that the threshold point was also
+positioned at a lower exposure level. Such difference may be due to the shorter lifespan of
+enterococci than the pathogens in marine water. Hanes and Fragala (1964) have shown that
+under laboratory condition the T90 (i.e. the time it takes for 90% of the indicator organism to
+die-off) of enterococci in marine and freshwater were 47hrs and 71hrs respectively. Thus,
+
+Appendix 2 Section 2
+
+Page 26 of 29
+
+
+
+considering the hypothetical situation of a similar concentration of a pathogen in fresh and
+marine waters, the accompanying level of enterococci measured in marine waters, would be
+approximately half that measured in freshwaters. Currently the EC Bathing Water Directive
+adopts a 2:1 ratio for faecal indicator organism count in fresh versus marine water. Based on
+results from the crude model, the risk of GI amongst bathers in marine water sites was
+approximately 2-fold higher than freshwater sites, and the difference only changed slightly
+when non-water related confounding factors were taken into account. These findings
+supported the 2:1 ratio adopted by the Directive, and also pointed out that some of the
+difference could be due to non-water related confounding factors, which could vary from site
+to site. Nevertheless, it is without doubt that in general higher GI rates were associated with
+marine water than freshwater at identical enterococci concentrations.
+For ethical reasons all chosen study sites had to be compliant with the EC bathing water
+standards, and with the low enterococci counts the study was unable to examine the health
+effects of exposures to more polluted water. However, fluctuation in enterococci levels was
+observed in Epibathe and in several occasions exceeded the minimum compliant level. There
+were insufficient data for robust statistical analysis to examine the health impact experienced
+by these bathers. Based on previous observations that GI was positively associated with
+enterococci level, such short-term variation could result in high exposures and increased the
+risk of GI even in beaches with excellent water quality.
+When using a proxy of the 2006/7/EC “excellent quality” level as cut-point, it appeared that
+by maintaining enterococci level to the strictest strata the risk of GI would be reduced.
+However, there was still a moderate increase in risk even when bathers were exposed to
+waters with excellent quality. This indicated that there will be a certain level of health risk
+associated with recreational bathing. Findings from these analyses should be interpreted with
+caution because the current guideline levels are based upon a 95-percentile evaluation,
+meaning at least 95% of the samples taken from a single beach must be below the limit in
+order to achieve an “excellent quality” rating. This was not applicable to the Epibathe study as
+exposures at person-level rather than ecological-level were the main focus of the research.
+Therefore this part of the analysis could only be regarded as an approximation of the current
+bathing water standards.
+Despite positive findings most meta-analysis models had failed to achieve statistical
+significance. A number of factors might have contributed to this, including low enterococci
+concentrations in most water samples, low GI attack rates, and the relatively small number of
+subjects in each group once stratified into various exposure levels. The original UK studies,
+in which the other Epibathe studies were based on, were carried out back in the early 1990s.
+At that time water quality was poorer and background disease rates were higher relative to
+current European norms, therefore the number of volunteers required to achieve the same
+statistical power was underestimated in Hungary and Spain. In retrospect, the bather/nonbather ratio of 1:1 could have been changed to increase the statistical power of all metaanalysis models when the bathers were stratified into different groups.
+Thus far Epibathe had demonstrated the positive relationship between GI and bathing water
+exposures. However, the possible difference in terms of immunity levels between local and
+tourist bathers meant that the latter group may be more vulnerable to GI caused by bathing
+water that otherwise had little effects on the local residents. According to Cabelli who carried
+
+Appendix 2 Section 2
+
+Page 27 of 29
+
+
+
+out a study in 3 beaches in Alexandria, Egypt, the risk of developing GI symptoms was found
+to be significantly higher amongst visiting bathers from Cairo than local residents (Cabelli
+1983). Although the enterococci levels recorded were far beyond the current European
+standards, the author did demonstrate that tourists were more susceptible to GI when exposed
+to unfamiliar bathing waters. Provided that it is financially and logically feasible, a pilot study
+could be carried out to invite British volunteers to an overseas study site along with an equal
+number of local residents for a “weekend trial”. Local and tourist bathers could be matched to
+ensure similar exposure level and other characteristics for direct comparisons in disease risks
+between groups.
+As a randomised-controlled trial Epibathe to certain extent might have suffered from recall
+bias because the volunteers were not “blinded” by their exposure status. As a result those who
+suffered from GI after bathing, regardless of whether or not it was caused by the bathing
+itself, were more likely to remember details of exposures and the development of symptoms
+considered to be related to bathing. While this might be true when comparing GI amongst
+bathers and non-bathers, the volunteers were not aware of their exposure level in terms of
+enterococci concentrations. Therefore the dose-response effects observed could not have been
+biased. The effects of confounding by non-water related factors seemed to play a minor role in
+determining the OR, as demonstrated by the small difference in the OR between most crude
+and adjusted models.
+Although the study sites were considered as representative of the average European bathing
+sites, some differences between sites could occur such as current, temperature, precipitation,
+and the surrounding environment etc. Therefore, more sites from different European countries
+should be surveyed in order to increase the representative nature of Epibathe in evaluating the
+current EC Bathing Water Directive.
+The next phase of statistical analysis will be to investigate the risks of other infections
+including AFRI (acute febrile respiratory illnesses), and ailments of the ears, eyes, and skin.
+The methodology being used will be the same although certain exclusion criteria and
+confounders will differ depending on the outcome of interest. Furthermore, the data will be
+reanalysed using E.coli as the indicator organism.
+
+A2.2.5
+
+References cited
+
+Cabelli VJ (1983). Health effects criteria for marine recreational waters [Online]. West
+Kingston: United States Environmental Protection Agency. Alexandria, Egypt study pp24-9.
+Available at: http://www.epa.gov/nerlcwww/nrcprt.pdf [Accessed 20th Aug 2008].
+Hanes NB & Fragala R (1967). Effect of seawater concentration on the survival of indicator
+bacteria. J Water Poll Control Fed (39), pp. 97.
+Kay D, Fleisher JM, Salmon RL, Jones F, Wyer MD, Godfree AF, Zelenauch-Jacquotte Z,
+Shore R (1994). Predicting likelihood of gastroenteritis from sea bathing: results from
+randomised exposure. Lancet 344(8927), pp. 905-9.
+
+Appendix 2 Section 2
+
+Page 28 of 29
+
+
+
+StataCorp (2008). Stata 10 user-written programme SJ8-1 sbe24_2 [Online]. Available at
+http://www.stata-journal.com/software/sj8-1 [Accessed 15th Aug 2008].
+Wiedenmann A, Krüger P, Dietz K, López-Pila JM, Szewzyk R, Botzenhart K (2006). A
+randomized controlled trial assessing infectious disease risks from bathing in fresh
+recreational waters in relation to the concentration of Escherichia coli, intestinal enterococci,
+Clostridium perfringens, and somatic coliphages. Environ Health Perspect 114(2), pp. 22836.
+
+Appendix 2 Section 2
+
+Page 29 of 29
+
+
+
+Appendix 2 Section 3
+Estimating the risk of gastroenteritis in European
+fresh bathing waters using E. coli as indicator
+organism.
+H.C. Au-Yeung, D.Rh. Thomas & R.L. Salmon
+Epibathe Partner 5, National Public Health Service (NPHS)
+
+Key findings:
+i.
+ii.
+iii.
+iv.
+v.
+
+Excess risk of gastroenteritis (GI) was found in bathers compared with nonbathers, but did not achieve statistical significance.
+Although exposure took place in water classified as “excellent quality”
+(approximation to the current bathing water standards), GI risks in those bathers
+were still higher compared with non-bathers.
+Risk of GI was found to be associated with E. coli concentrations in water when
+bathers were stratified into various groups according to exposure levels.
+However, there was a lack of a consistently observed increase in risks as the
+exposure increased.
+Results suggested that E. coli might be a more appropriate indicator for predicting
+risk of GI in fresh recreational bathing waters than enterococci.
+
+A2.3.1
+
+Background
+
+This report summarises the key epidemiological findings from the German and Hungarian
+studies of the Epibathe Project, on the risks of gastroenteritis (GI) from exposures to
+European fresh bathing waters. The statistical technique used was meta-analysis, with E. coli
+as faecal indicator organism.
+
+A2.3.2
+
+Methods
+
+A description of the project and the analytical methods were detailed in Appendix 2 Section 2.
+E. coli levels in water samples collected at the trials were measured by microtitre plate
+method (EC96wells) (ISO 9308-3:1998).
+
+A2.3.3
+
+Results
+
+Data from 4,200 volunteers were available in the final dataset (Table 1) after excluding 149
+entries either because they matched the exclusion criteria (n=135) or due to missing data
+(n=14) (Box 1).
+
+Appendix 2 Section 3
+
+Page 1 of 10
+
+
+
+Trial name
+
+Non-bathers (n)
+
+Bathers (n)
+
+Total (n)
+
+Germany I
+
+117
+
+87
+
+204
+
+Germany II
+
+148
+
+131
+
+279
+
+Germany III
+
+244
+
+229
+
+473
+
+Germany IV
+
+301
+
+294
+
+595
+
+Germany V
+
+177
+
+171
+
+348
+
+Hungary I
+
+323
+
+322
+
+645
+
+Hungary II
+
+307
+
+277
+
+584
+
+Hungary III
+
+297
+
+286
+
+583
+
+Hungary IV
+
+268
+
+221
+
+489
+
+Total (n)
+
+2,182
+
+2,018
+
+4,200
+
+Table 1
+
+Number of volunteers included in meta-analysis.
+
+Confounding factors
+Suffers chronic bowel problems
+Reported the following on bathing day:
+Diarrhoea
+Vomiting
+Nausea
+Indigestion
+Fever
+Entries with missing data
+
+Box 1
+
+N of excluded subjects
+65
+28
+3
+21
+13
+5
+14
+Total = 149
+
+Number of subjects excluded in the analysis
+
+Appendix 2 Section 3
+
+Page 2 of 10
+
+
+
+A2.3.3.1
+
+Risk of GI in bathers
+
+Comparing all bathers with non-bathers, the summary odds ratio (subsequently referred to as
+OR) of GI for bathers was 1.25 (95% CI 0.94-1.65) and after adjusting for confounders the
+OR reduced slightly to 1.20 (95% CI 0.88-1.62) (Table 2). This represented a 20% excess risk
+of GI in bathers. Results of the adjusted model were summarised by a forest plot in Figure 1.
+Numbers
+
+Crude
+
+Adjusted
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+102
+
+2,080
+
+1.00
+
+/
+
+1.00
+
+/
+
+Bathers
+
+116
+
+1,902
+
+1.25
+
+0.94-1.65
+
+1.20
+
+0.88-1.62
+
+Table 2
+
+OR of GI in all freshwater study sites, crude and adjusted models.
+
+Study
+
+.
+
+%
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany I
+
+0.58 (0.17, 1.98)
+
+6.14
+
+Germany II
+
+1.28 (0.53, 3.10)
+
+12.03
+
+Germany III
+
+1.60 (0.57, 4.52)
+
+8.67
+
+Germany IV
+
+2.05 (1.01, 4.16)
+
+18.79
+
+Germany V
+
+0.93 (0.47, 1.85)
+
+19.88
+
+Hungary I
+
+1.11 (0.49, 2.47)
+
+14.49
+
+Hungary II
+
+0.53 (0.17, 1.66)
+
+7.24
+
+Hungary III
+
+1.03 (0.32, 3.28)
+
+7.00
+
+Hungary IV
+
+2.32 (0.65, 8.28)
+
+5.76
+
+Overall (I-squared = 0.0%, p = 0.483)
+
+1.19 (0.88, 1.62)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 1
+
+1
+
+10
+
+OR of GI in bathers compared with non-bathers. The estimated odds ratio
+and 95% confidence intervals from each study, and their contributions (%
+weight) to the meta-analysis model are displayed in the forest plot. At the
+bottom the diamond represents the summary odds ratio (OR) of the model
+and its left and right extremes reflect the 95% confidence intervals. Results
+were adjusted for confounders.
+
+Appendix 2 Section 3
+
+Page 3 of 10
+
+
+
+In order to examine the association between E. coli concentration in water and GI, bathers
+were stratified into 4 equal groups based on the quartile cut-points of the exposure levels of all
+bathers. There was a partial dose-response relationship between GI and increasing levels of E.
+coli, with the a statistically significant OR in the 4th quartile (table 3). The OR in the adjusted
+models were 0.74 (95% CI 0.40-1.36), 1.29 (95% CI 0.73-2.30), 1.19 (95% CI 0.74-1.92), and
+1.76 (95% CI 1.04-2.98) for the 1st, 2nd, 3rd, and 4th quartile respectively (Figure 2). Figure 3
+summarises the OR across various quartile groups.
+
+Quartile cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(E.coli/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+102
+
+2,080
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-52
+
+19
+
+471
+
+0.84
+
+0.49-1.44
+
+0.74
+
+0.40-1.36
+
+53-97
+
+22
+
+459
+
+1.24
+
+0.73-2.11
+
+1.29
+
+0.73-2.30
+
+98-335
+
+35
+
+507
+
+1.33
+
+0.86-2.06
+
+1.19
+
+0.74-1.92
+
+≥336
+
+40
+
+465
+
+1.78
+
+1.14-2.79
+
+1.76
+
+1.04-2.98
+
+Overall
+
+218
+
+3,982
+
+1.25
+
+0.94-1.65
+
+1.20
+
+0.88-1.62
+
+Table 3
+
+OR of GI in different quartile group, crude and adjusted models. Also
+showing the aggregated results from all studies.
+
+Appendix 2 Section 3
+
+Page 4 of 10
+
+
+
+a) 1st quartile (0-52 E.coli /100ml)
+
+b) 2nd quartile (53-97 E.coli /100ml)
+%
+
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany I
+
+0.64 (0.18, 2.24)
+
+23.71
+
+Germany III
+
+2.23 (0.74, 6.67)
+
+27.62
+
+Germany V
+
+0.73 (0.18, 3.07)
+
+18.22
+
+Germany V
+
+1.06 (0.34, 3.31)
+
+25.74
+
+Hungary I
+
+0.88 (0.35, 2.21)
+
+43.97
+
+Hungary I
+
+1.84 (0.60, 5.62)
+
+26.66
+
+Hungary II
+
+0.56 (0.11, 2.85)
+
+14.10
+
+Hungary II
+
+0.41 (0.08, 1.99)
+
+13.20
+
+Germany II
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+0.72 (0.08, 6.58)
+
+6.78
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany IV
+
+(Excluded)
+
+0.00
+
+Germany II
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Germany IV
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.960)
+
+0.74 (0.40, 1.36)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.441)
+
+1.29 (0.73, 2.30)
+
+100.00
+
+Study
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+.1
+
+1
+
+.1
+
+10
+
+c) 3rd quartile (98-335 E.coli /100ml)
+
+1
+
+10
+
+d) 4th quartile (≥336 E.coli /100ml)
+
+Study
+
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany II
+
+1.63 (0.45, 5.95)
+
+13.81
+
+Germany II
+
+1.19 (0.45, 3.10)
+
+27.36
+
+Germany III
+
+0.99 (0.10, 9.81)
+
+4.40
+
+Germany IV
+
+2.77 (1.27, 6.07)
+
+39.41
+
+Germany IV
+
+1.40 (0.57, 3.46)
+
+28.44
+
+Germany V
+
+0.90 (0.26, 3.11)
+
+17.11
+
+Germany V
+
+0.95 (0.41, 2.21)
+
+32.55
+
+Hungary IV
+
+2.32 (0.65, 8.28)
+
+16.12
+
+Hungary II
+
+1.04 (0.11, 9.72)
+
+4.63
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+1.16 (0.35, 3.84)
+
+16.17
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.985)
+
+1.19 (0.74, 1.92)
+
+100.00
+
+Overall (I-squared = 7.3%, p = 0.357)
+
+1.76 (1.04, 2.98)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 2
+
+%
+
+NOTE: Weights are from random effects analysis
+1
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI in different E. coli quartiles. Studies with no
+subjects in the corresponding quartile group were allocated to the bottom and
+marked as “excluded”. Results were obtained from random effects models and were
+adjusted for confounders.
+
+Appendix 2 Section 3
+
+Page 5 of 10
+
+
+
+Odds ratio (95%CI)
+
+3
+
+2
+
+1
+
+0
+1st quartile (0-52)
+
+2nd quartile (53-97)
+
+3rd quartile (98-335)
+
+4th quartile (≥336)
+
+Quartile group (E. coli /100ml)
+
+Figure 3
+
+Summary odds ratios for GI and 95%CI at various quartile groups. Results
+were obtained from random effects models and were adjusted for
+confounders.
+
+For a more detailed examination of the dose-response relationship exposure data were
+stratified into 6 groups by intervals of 50 E. coli (Table 4). Results obtained from the models
+showed an overall increasing risk of GI toward higher E. coli concentrations, with the ≥100
+tier achieved statistical significance (Figure 4).
+
+Appendix 2 Section 3
+
+Page 6 of 10
+
+
+
+Cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(E. coli/100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+102
+
+2,080
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-49
+
+15
+
+436
+
+0.78
+
+0.43-1.41
+
+0.70
+
+0.35-1.39
+
+50-99
+
+28
+
+537
+
+1.34
+
+0.83-2.16
+
+1.39
+
+0.82-2.35
+
+100-149
+
+12
+
+227
+
+1.36
+
+0.69-2.66
+
+1.23
+
+0.56-2.69
+
+150-199
+
+7
+
+109
+
+1.30
+
+0.56-3.00
+
+1.59
+
+0.52-4.88
+
+200-249
+
+7
+
+58
+
+2.15
+
+0.90-5.11
+
+1.77
+
+0.65-4.86
+
+≥250
+
+47
+
+535
+
+1.67
+
+1.09-2.55
+
+1.67
+
+1.04-2.67
+
+Overall
+
+218
+
+3,982
+
+1.25
+
+0.94-1.65
+
+1.20
+
+0.88-1.62
+
+Table 4
+
+OR of GI at intervals of 50 E. coli, crude and adjusted models. Also
+showing the aggregated results from all studies.
+
+Appendix 2 Section 3
+
+Page 7 of 10
+
+
+
+a) 0-49 E. coli /100ml
+
+b) 50-99 E. coli /100ml
+
+c) 100-149 E. coli /100ml
+
+%
+
+Study
+
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany I
+
+0.64 (0.18, 2.24)
+
+30.55
+
+Germany III
+
+2.10 (0.70, 6.28)
+
+22.76
+
+Germany II
+
+1.70 (0.32, 8.99)
+
+22.29
+
+Germany V
+
+0.49 (0.09, 2.58)
+
+17.32
+
+Germany V
+
+1.27 (0.43, 3.74)
+
+23.60
+
+Germany V
+
+0.67 (0.17, 2.64)
+
+32.87
+
+Hungary I
+
+0.83 (0.32, 2.16)
+
+52.12
+
+Hungary I
+
+1.80 (0.63, 5.20)
+
+24.48
+
+Hungary II
+
+2.18 (0.20, 23.37)
+
+11.00
+
+Germany II
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+0.78 (0.22, 2.75)
+
+17.43
+
+Hungary III
+
+1.48 (0.38, 5.71)
+
+33.83
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+1.02 (0.22, 4.71)
+
+11.73
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany IV
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Germany II
+
+(Excluded)
+
+0.00
+
+Germany IV
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Germany IV
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.852)
+
+0.70 (0.35, 1.39)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.780)
+
+1.39 (0.82, 2.35)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.755)
+
+1.23 (0.56, 2.69)
+
+100.00
+
+Study
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+
+.1
+
+1
+
+.1
+
+10
+
+d) 150-199 E. coli /100ml
+
+%
+
+NOTE: Weights are from random effects analysis
+
+1
+
+10
+
+.1
+
+e) 200-249 E. coli /100ml
+
+1
+
+10
+
+f) ≥250 E. coli /100ml
+
+%
+
+Study
+
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany II
+
+4.44 (0.69, 28.56)
+
+24.14
+
+Germany IV
+
+1.26 (0.35, 4.59)
+
+60.69
+
+Germany II
+
+1.07 (0.41, 2.80)
+
+23.86
+
+Germany III
+
+5.81 (0.53, 63.51)
+
+16.85
+
+Germany V
+
+3.00 (0.60, 14.99)
+
+39.31
+
+Germany IV
+
+2.51 (1.19, 5.28)
+
+39.65
+
+Germany IV
+
+1.05 (0.21, 5.14)
+
+29.51
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany V
+
+1.07 (0.40, 2.86)
+
+22.92
+
+Germany V
+
+0.50 (0.10, 2.43)
+
+29.51
+
+Germany II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+2.32 (0.65, 8.28)
+
+13.57
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 34.6%, p = 0.205)
+
+1.59 (0.52, 4.88)
+
+100.00
+
+Overall (I-squared = 0.0%, p = 0.409)
+
+1.77 (0.65, 4.85)
+
+100.00
+
+Overall (I-squared = 0.1%, p = 0.391)
+
+1.67 (1.04, 2.67)
+
+100.00
+
+Study
+
+.1
+
+Figure 4
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+1
+
+10
+
+.1
+
+%
+
+1
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI at regular intervals of 50 E. coli. Studies with no subjects in the corresponding group
+were allocated to the bottom and marked as “excluded”. Results were obtained from random effects models and were
+adjusted for confounders.
+
+Appendix 2 Section 3
+
+Page 8 of 10
+
+
+
+A2.3.3.2
+
+Risk of GI in bathers using the 2006/7/EC “excellent quality” level as cutpoint
+
+An increased risk of GI was observed in bathers that were exposed to E. coli concentrations
+higher than the level that, broadly speaking, represents the 2006/7/EC “excellent quality”
+criteria (<500 E. coli /100ml). The risk of GI was 9% (OR=1.09, 95% CI 0.78-1.53) higher
+when bathers were exposed to water with less than 500 E. coli /100ml compared with nonbathers, but increased to 119% (OR=2.19, 95% CI 1.21-3.97) when that level was exceeded
+(Table 5 & Figure 5).
+Cut-points
+
+Numbers
+
+Crude
+
+Adjusted
+
+(E. coli /100ml)
+
+Cases
+
+Non-cases
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+Non-bathers
+
+102
+
+2,080
+
+1.00
+
+/
+
+1.00
+
+/
+
+<500
+
+87
+
+1,556
+
+1.19
+
+0.87-1.61
+
+1.09
+
+0.78-1.53
+
+≥500
+
+29
+
+346
+
+2.05
+
+1.24-3.37
+
+2.19
+
+1.21-3.97
+
+Overall
+
+218
+
+3,982
+
+1.25
+
+0.94-1.65
+
+1.20
+
+0.88-1.62
+
+Table 5
+
+OR of GI in bathers from freshwater studies exposed to below or above 500
+E. coli /100ml, crude and adjusted models. Also showing the aggregated
+results from all marine water studies.
+
+Appendix 2 Section 3
+
+Page 9 of 10
+
+
+
+b) ≥500 E. coli /100ml
+
+a) <500 E. coli /100ml
+%
+
+Study
+
+ID
+
+ES (95% CI)
+
+Weight
+
+ID
+
+ES (95% CI)
+
+Weight
+
+Germany I
+
+0.58 (0.17, 1.98)
+
+7.32
+
+Germany II
+
+1.09 (0.41, 2.92)
+
+33.16
+
+Germany II
+
+1.86 (0.56, 6.14)
+
+7.81
+
+Germany IV
+
+3.86 (1.26, 11.79)
+
+26.07
+
+Germany III
+
+1.63 (0.58, 4.61)
+
+10.35
+
+Germany V
+
+3.13 (0.87, 11.18)
+
+20.39
+
+Germany IV
+
+1.80 (0.86, 3.80)
+
+20.12
+
+Hungary IV
+
+2.32 (0.65, 8.28)
+
+20.39
+
+Germany V
+
+0.76 (0.36, 1.61)
+
+20.12
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Hungary I
+
+1.11 (0.49, 2.47)
+
+17.29
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+0.53 (0.17, 1.66)
+
+8.64
+
+Hungary I
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+1.03 (0.32, 3.28)
+
+8.35
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.479)
+
+1.09 (0.78, 1.53)
+
+100.00
+
+Overall (I-squared = 6.8%, p = 0.359)
+
+2.19 (1.21, 3.97)
+
+100.00
+
+Study
+
+NOTE: Weights are from random effects analysis
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 5
+
+A2.3.4
+
+%
+
+1
+
+10
+
+.1
+
+1
+
+10
+
+Forest plots showing OR of GI in bathers exposed to <500 and ≥500 E. coli
+/100ml in marine water studies. Studies with no subjects in the
+corresponding group were allocated to the bottom and marked as
+“excluded”. Results were obtained from random effects models and were
+adjusted for confounders.
+
+Conclusion
+
+This report examined the association between risk of GI and E. coli concentrations in
+European fresh bathing waters. Results showed an increased risk of GI in bathers compared
+with non-bathers but the association was not statistically significant. When bathers were
+stratified into different groups according to their exposure levels, there was an overall increase
+in GI risk at higher levels. However there was no consistent increase in risks as subjects were
+exposed to water at higher concentrations of E. coli.
+When using a proxy of the 2006/7/EC “excellent quality” level as cut-point, it appeared that
+by maintaining E. coli level to the strictest strata the risk of GI would be reduced, although the
+risk associated with exposures at that level was still moderately higher than in non-bathers.
+This indicated that recreational bathing would inevitably involve a certain level of health
+risks. The effect of bathing when E. coli was at the “good quality” level (i.e. 1,000
+E. coli/100ml) could not be examined due to the lack of data points beyond that level in the
+freshwater studies.
+Due to the lack of E. coli data from the original UK study this report does not assess the
+suitability of E. coli as a faecal indicator for marine waters. Nevertheless, with the absence of
+any dose-response relationships between the likelihood of GI illness and enterococci
+concentrations in freshwater, these results from Epibathe suggested that E. coli is more likely
+to be a useful indicator organism than enterococci in predicting GI illnesses associated with
+exposures to fresh recreational waters.
+
+Appendix 2 Section 3
+
+Page 10 of 10
+
+
+
+Appendix 2 Section 4
+Risks of non-enteric diseases from exposures to
+European recreational bathing water
+H.C. Au-Yeung, D.Rh. Thomas & R.L. Salmon
+Epibathe Partner 5, National Public Health Service (NPHS)
+Key findings:
+i.
+ii.
+iii.
+iv.
+v.
+vi.
+vii.
+
+A2.4.1
+
+Risks were higher amongst bathers in all 4 non-enteric illnesses.
+There was no strong evidence of any positive dose-response relationships between
+non-enteric illnesses and exposure levels.
+Nonetheless disease risks were loosely higher at higher enterococci levels.
+For marine water studies, the risks of all 4 illnesses were higher amongst bathers
+compared with non-bathers.
+For freshwater studies, the risks of all illnesses except AFRI were higher in the
+bathing group.
+The risk of disease was always higher in marine water sites than freshwater sites,
+with the exception of skin ailments.
+When using a proxy of the EC Bathing Water Directive 2006/7/EC “excellent
+quality” level as cut-point, the health risks were often greater when the most
+stringent enterococcal levels were exceeded.
+
+Background
+
+This report summarises the key epidemiological findings from the Epibathe Project on the risks
+of 4 non-enteric diseases from exposures to European bathing waters. The statistical technique
+used was meta-analysis with enterococci as the exposure measure.
+
+A2.4.2
+
+Methods
+
+A description of the project and the analytical methods were detailed above: i.e. in Appendix 2
+Section 2.
+A2.4.2.1
+
+Disease symptoms
+
+The main outcomes of interest were self-reported acute febrile respiratory illness (AFRI), ear
+ailments, eye ailments, and skin ailments that occurred either at 1 week or 3 weeks after the trial
+day. Box 1 shows the definition of the illnesses.
+Information on the background and current health status of the participants were collected prior
+to the trial. Those who suffered from chronic illnesses or reported symptoms that were related to
+
+Appendix 2 Section 4
+
+Page 1 of 9
+
+
+
+the outcome of interest on the trial day were excluded from the analysis (Box 2). Both the
+disease definitions and the exclusion criteria were adopted from the original UK study with
+slight modifications to AFRI (Fleisher et al. 19996; Kay et al. 1994). In addition, all potential
+confounding factors were taken into account in the statistical models and the details can be found
+in Box 3.
+
+Reported at either 1wk or 3wks after trial day:
+a. AFRI – Fever + (headache / joint pain / blurred vision / loss of appetite / tiredness /
+dizziness / pins & needles / muscle cramps) + (sore throat / dry cough / productive
+cough / shortness of breath / runny nose)
+b. Ear ailment – ear infection
+c. Eye ailment – eye infection
+d. Skin ailment – skin rash / skin ulcer / itching
+
+Box 1
+
+a.
+b.
+c.
+d.
+
+Box 2
+
+Disease definitions
+
+AFRI – Fever reported on bathing day
+Ear ailment – Ear ailment reported on bathing day
+Eye ailment – Eye ailment reported on bathing day
+Skin ailment – Subjects who suffered chronic skin problems / reported skin ailment on
+bathing day
+Exclusion criteria
+
+Appendix 2 Section 4
+
+Page 2 of 9
+
+
+
+AFRI
+
+Ear ailments
+
+Eye ailments
+
+Skin ailments
+
+Age (by 10yr interval)
+
+Age (by 10yr interval)
+
+Age (by 10yr interval)
+
+Age (by 10yr interval)
+
+Gender
+
+Gender
+
+Gender
+
+Gender
+
+Long-term
+factors
+
+Chronic chest problem
+
+Chronic ear problem
+
+Chronic eye problem
+
+/
+
+Recent illnesses
+
+AFRI 3wks before trial
+
+Ear ailment
+3wks before trial
+
+Eye ailment
+3wks before trial
+
+Skin ailment
+3wks before trial
+
+Person-toperson
+transmission
+
+AFRI in household
+within 3wks after trial
+
+Ear ailment in
+household within
+3wks after trial
+
+Eye ailment in
+household within
+3wks after trial
+
+/
+
+Behavioural
+
+Additional bathing
+within 3wks after trial
+
+Additional bathing
+within 3wks after trial
+
+Additional bathing
+within 3wks after trial
+
+Additional bathing
+within 3wks after trial
+
+Risk factor type
+Background
+
+Box 3
+
+Confounders controlled during statistical analyses.
+
+A2.4.3
+
+Results
+
+A2.4.3.1
+
+Risk of non-enteric illnesses in bathers
+
+The summary odds ratios (subsequently referred to as OR) for all 4 non-enteric illnesses were
+higher in bathers (Table 1). The risk was highest for ear ailments (OR=2.33, 95% CI 1.54-3.51)
+followed by skin ailments (OR=1.68, 95% CI 1.20-2.36), and they both achieved statistical
+significance. The OR for eye ailments just failed to reach significance (OR=1.42, 95% CI 0.992.05).
+
+AFRI
+
+Ear ailments
+
+Eye ailments
+
+Skin ailments
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+Bathers
+
+1.27
+
+0.88-1.82
+
+2.33
+
+1.54-3.51
+
+1.42
+
+0.99-2.05
+
+1.68
+
+1.20-2.36
+
+Table 1
+
+Odds ratios (OR) of different illnesses in all study sites.
+
+Appendix 2 Section 4
+
+Page 3 of 9
+
+
+
+Quartile cut-points
+(enterococci/100ml)
+
+AFRI
+OR
+95%CI
+
+Ear ailments
+OR
+95%CI
+
+Eye ailments
+OR
+95%CI
+
+Skin ailments
+OR
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+0-14
+
+1.46
+
+0.74-2.90
+
+3.53
+
+1.93-6.48
+
+1.64
+
+0.94-3.06
+
+1.56
+
+0.89-2.73
+
+15-43
+
+1.73
+
+0.88-3.43
+
+4.16
+
+2.45-7.07
+
+2.11
+
+1.04-4.30
+
+1.84
+
+1.19-2.85
+
+44-88
+
+2.44
+
+1.43-4.15
+
+3.72
+
+1.85-7.48
+
+2.26
+
+1.13-4.54
+
+1.59
+
+0.82-3.09
+
+≥89
+
+1.61
+
+0.77-3.36
+
+1.27
+
+0.52-3.09
+
+1.39
+
+0.71-2.74
+
+2.01
+
+1.31-3.08
+
+Overall
+
+1.27
+
+0.88-1.82
+
+2.33
+
+1.54-3.51
+
+1.42
+
+0.99-2.05
+
+1.68
+
+1.20-2.36
+
+OR of different illnesses in various quartile groups. Also showing the
+aggregated results from all studies.
+
+Table 2
+
+For a more detailed examination of the dose-response relationship exposure data were stratified
+into 6 groups by intervals of 20 enterococci (Table 3). Analysis was only carried out for skin
+ailments due to insufficient number of cases for the other illnesses. There was no evidence of any
+positive dose-response relationship between illness and exposure.
+Quartile cut-points
+
+Skin ailments
+
+(enterococci/100ml)
+
+OR
+
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+0-19
+
+1.69
+
+1.01-2.83
+
+20-39
+
+1.87
+
+1.06-3.28
+
+40-59
+
+1.66
+
+0.86-3.23
+
+60-79
+
+3.14
+
+1.46-6.74
+
+80-99
+
+2.33
+
+1.00-5.45
+
+≥100
+
+1.90
+
+1.25-2.90
+
+Overall
+
+1.68
+
+1.20-2.36
+
+Appendix 2 Section 4
+
+Table 3
+OR of different illnesses at
+intervals of 20 Enterococci. Also
+showing the aggregated results
+from all studies.
+
+Page 4 of 9
+
+
+
+A2.4.3.2
+
+Risk of non-enteric illnesses in bathers, stratified by water type
+
+Both marine and freshwater studies suggested an increased risk of non-enteric illnesses amongst
+bathers with the exception of AFRI in freshwater (OR=0.82, 95% CI 0.44-1.54). When
+comparing disease risks between marine and freshwater sites, the health risks were higher in
+marine water for AFRI, ear, and eye ailments (Tables 4 and 5), but not for skin ailments.
+AFRI
+
+Ear ailments
+
+Eye ailments
+
+Skin ailments
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+Bathers
+
+1.56
+
+1.01-2.39
+
+3.54
+
+2.10-5.94
+
+1.65
+
+0.95-2.88
+
+1.12
+
+0.82-1.55
+
+Table 4
+
+OR of various non-enteric illnesses in marine water sites.
+AFRI
+
+Ear ailments
+
+Eye ailments
+
+Skin ailments
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+Bathers
+
+0.82
+
+0.44-1.54
+
+1.40
+
+0.78-2.51
+
+1.25
+
+0.76-2.05
+
+2.39
+
+1.44-3.96
+
+Table 5
+
+OR of various non-enteric illnesses in freshwater sites.
+
+A2.4.3.2.1.
+Stratification using quartile cut-points from either marine or freshwater studies
+Analysis was only carried out for skin ailments due to insufficient number of cases for the other
+illnesses. There were no obvious dose-response relationships observed in either marine or
+freshwater sites between skin ailments and exposure levels (Tables 6 and 7). However, results
+from freshwater studies suggested a threshold effect in which the risk of skin ailment increased
+significantly as soon as exposure took place, and this appeared to be independent of the water
+enterococci level.
+
+Appendix 2 Section 4
+
+Page 5 of 9
+
+
+
+Quartile cut-points
+(enterococci/100ml)
+
+Skin ailments
+OR
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+0-8
+
+0.88
+
+0.55-1.41
+
+9-27
+
+1.31
+
+0.81-2.14
+
+28-88
+
+1.17
+
+0.55-2.49
+
+≥89
+
+1.40
+
+0.92-2.11
+
+Overall
+
+1.12
+
+0.82-1.55
+
+Quartile cut-points
+(enterococci/100ml)
+
+Skin ailments
+OR
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+0-22
+
+3.00
+
+1.34-6.67
+
+23-49
+
+2.34
+
+0.97-5.67
+
+50-88
+
+2.51
+
+1.06-5.96
+
+≥89
+
+3.07
+
+1.79-5.27
+
+Overall
+
+2.39
+
+1.44-3.96
+
+A2.4.3.2.2.
+
+Table 6
+OR of different illnesses in
+various
+quartile
+groups,
+marine water studies. Quartile
+cut-points were calculated
+from marine water studies.
+Also showing the aggregated
+results from all marine water
+studies.
+
+Table 7
+OR of different illnesses in
+various
+quartile
+groups,
+freshwater studies. Quartile cutpoints were calculated from
+freshwater studies. Also showing
+the aggregated results from all
+freshwater studies.
+
+Stratification using quartile cut-points from all studies
+
+In order to compare the changes in disease risks at different exposure levels between marine and
+freshwater studies, a set of common quartile cut-points derived from all exposure data was used
+(Table 8 & 9). Analysis was only carried out for skin ailments due to insufficient number of
+cases for the other illnesses. In freshwater studies there was a sudden increase in the risk of skin
+ailments as soon as exposure took place, which appeared to be independent to the level of
+enterococci in water.
+
+Appendix 2 Section 4
+
+Page 6 of 9
+
+
+
+Quartile cut-points
+(enterococci/100ml)
+
+Skin ailments
+OR
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+0-22
+
+0.88
+
+0.55-1.41
+
+23-49
+
+1.31
+
+0.81-2.14
+
+50-88
+
+1.17
+
+0.55-2.49
+
+≥89
+
+1.40
+
+0.92-2.11
+
+Overall
+
+1.12
+
+0.82-1.55
+
+Quartile cut-points
+(enterococci/100ml)
+
+Skin ailments
+OR
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+0-14
+
+2.69
+
+0.96-7.52
+
+15-43
+
+2.62
+
+1.34-5.12
+
+44-88
+
+2.21
+
+0.95-5.16
+
+≥89
+
+3.06
+
+1.79-5.23
+
+Overall
+
+2.39
+
+1.44-3.96
+
+A2.4.3.3
+
+Table 8
+OR of different illnesses in various
+quartile groups, marine water
+studies. Quartile cut-points were
+calculated from all studies. Also
+showing the aggregated results
+from all marine water studies.
+
+Table 9
+OR of different illnesses in various
+quartile groups, freshwater studies.
+Quartile cut-points were calculated
+from all studies. Also showing the
+aggregated results from all freshwater
+studies.
+
+Risk of non-enteric illnesses in bathers using the 2006/7/EC “excellent
+quality” level as cut-point
+
+Increased risks for most non-enteric illnesses were observed in both marine (Table 10) and
+freshwater sites (Table 11) when bathers were exposed to enterococci concentrations higher than
+the level that approximately resembled the 2006/7/EC “excellent quality” criteria, i.e. 100 and
+200 enterococci/100ml for marine water and freshwater respectively.
+
+Appendix 2 Section 4
+
+Page 7 of 9
+
+
+
+Quartile cut-points
+
+AFRI
+
+Ear ailments
+
+Eye ailments
+
+Skin ailments
+
+(enterococci/100ml)
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+<100
+
+1.47
+
+0.91-2.37
+
+3.99
+
+2.32-6.85
+
+1.98
+
+1.13-3.47
+
+1.04
+
+0.69-1.56
+
+≥100
+
+2.06
+
+0.97-4.35
+
+#
+
+1.83
+
+0.54-6.25
+
+#
+
+0.67
+
+0.17-2.61
+
+1.34
+
+0.77-2.31
+
+Overall
+
+1.56
+
+1.01-2.39
+
+3.54
+
+2.10-5.94
+
+1.65
+
+0.95-2.88
+
+1.12
+
+0.82-1.55
+
+Table 10
+
+OR of different illnesses in bathers from marine water studies exposed to below or
+above 100 enterococci/100ml. Also showing the aggregated results from all
+marine water studies. (#Results were based only on 2 studies – Spain III and Spain IV).
+
+Quartile cut-points
+
+AFRI
+
+Ear ailments
+
+Eye ailments
+
+Skin ailments
+
+(enterococci/100ml)
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+OR
+
+95%CI
+
+Non-bathers
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+1.00
+
+/
+
+<200
+
+0.95
+
+0.44-2.02
+
+1.58
+
+0.87-2.87
+
+1.30
+
+0.77-2.19
+
+2.37
+
+1.39-4.04
+
+≥200
+
+#
+
+#
+
+0.43
+
+0.03-5.79
+
+2.02
+
+0.48-8.54
+
+3.11
+
+1.15-8.40
+
+1.40
+
+0.78-2.51
+
+1.25
+
+0.76-2.05
+
+2.39
+
+1.44-3.96
+
+Overall
+
+Table 11
+
+A2.4.4
+
+3.07
+
+0.26-35.52
+
+0.82
+
+0.44-1.54
+
+OR of different illnesses in bathers from freshwater studies exposed to below
+or above 200 enterococci/100ml. Also showing the aggregated results from all
+freshwater studies. (#Results were based only on 1 study – Hungary IV).
+
+Conclusions
+
+1. Risks were higher amongst bathers for all 4 non-enteric illnesses, with ear ailments
+(OR=2.33) and skin ailments (OR=1.68) reaching statistical significance.
+2. When stratified into quartile groups, an overall increase in disease risks as exposure level
+increased was observed.
+3. For ear ailments, the OR peaked once exposure had taken place and showed little
+relationship with the dosage.
+4. For marine water studies, the risks of all 4 illnesses were higher amongst bathers
+compared with non-bathers, with AFRI (OR=1.56) and ear ailments (OR=3.54) reaching
+statistical significance.
+
+Appendix 2 Section 4
+
+Page 8 of 9
+
+
+
+5. For freshwater studies, the risks of all illnesses except AFRI were higher in the bathing
+group. However, only skin ailments reached statistical significance (OR=2.39).
+6. Disease risks were always higher in marine water sites than freshwater sites, with the
+exception of skin ailments (OR 1.12 and 2.39 respectively).
+7. When using a proxy of the 2006/7/EC “excellent quality” level as cut-point, the health
+risks were often greater when the most stringent bacterial level (100 enterococci/100ml
+for marine and 200 enterococci/100ml for freshwaters) was exceeded.
+
+A2.4.5
+
+References
+
+Kay D, Fleisher JM, Salmon RL, Jones F, Wyer MD, Godfree AF, Zelenauch-Jacquotte Z, Shore
+R (1994). Predicting likelihood of gastroenteritis from sea bathing: results from randomised
+exposure. Lancet 344(8927), pp. 905-9.
+Fleisher, J.M., Kay, D., Dalmon, R.L., Jones, F., Wyer, M.D., Godfree, A.F. (1996). Marine
+waters contaminated with domestic sewage: non-enteric illnesses associated with bather
+exposure in the United Kingdom. American Journal of Public Health 86, 1228–1234.
+
+Appendix 2 Section 4
+
+Page 9 of 9
+
+
+
+Appendix 2
+Section 5
+The effects of non-water related risk factors on
+gastroenteritis
+H.C. Au-Yeung, D.Rh. Thomas, R.L. Salmon
+Epibathe Partner 5, National Public Health Service (NPHS)
+
+Key findings:
+a. The risk of GI associated with the consumption of high risk foods (hamburgers /
+sandwiches / takeaways) was 16%, after taking into account of other factors.
+b. This was approximately equivalent to the GI risk of exposing to 14
+enterococci/100ml in the water.
+c. Since the consumption of those foods is common in Europe, the risk of GI from
+bathing in water with less than 14 enterococci/100ml should be negligible.
+d. The risk of GI was markedly increased when cases of GI were reported in the
+subjects’ households.
+e. However, this observation was based on less than half of the studies in Epibathe.
+
+A2.5.1
+
+Objectives
+
+To estimate the effects of two separate non-water related risk factors on gastroenteritis (GI)
+using data from all the studies in Epibathe. These factors included the consumption of “high
+risk foods”, and the occurrence of gastroenteritis episodes in the subject’s household.
+A2.5.2
+
+Methods
+
+The effects of two non-water related risk factors were examined:
+i.
+
+whether or not the subject had consumed any “high risk foods” (sandwiches /
+hamburgers / takeaways) 3 days before or 7 days after the trial day; and
+
+ii.
+
+whether or not cases of GI were reported in the subject’s household that preceded the
+subject’s own illness within 3 weeks after the trial day.
+
+Both definitions were derived from the original UK study (Kay et al 1994).
+
+Appendix 2 Section 5
+
+Page 1 of 4
+
+
+
+Logistic regression modelling was carried out for each individual study with GI as the
+dependent variable, and “high risk foods” and household GI as the independent variable of
+interest. A number of non-water related factors were also included in the model. When
+identical results were given by all study subjects for the same variable of interest (e.g. all
+subjects from a single trial had consumed “high risk foods”), or when a variable predicted
+failure perfectly (e.g. nil cases of GI under that variable), then the variable would
+automatically be dropped by the regression model and subsequently excluded from metaanalysis. Once the models were completed, the logOR and SE logOR values for the variable
+that concerned the consumption of “high risk foods” and the presence of GI in the household
+were transferred to Stata and individually analysed by meta-analysis. A summary odds ratio
+(OR) for GI was calculated from each meta-analysis model, which showed the difference in
+disease risk in subjects who were exposed to one of the non-water related risk factors versus
+those who did not (i.e. baseline).
+Variables included in the logistic regression models.
+
+
+
+
+
+
+
+
+
+
+A2.5.3
+
+Enterococci exposure level (stratified into quartiles)
+Age grouped by 10yr intervals
+Sex
+Usual diarrhoea frequency
+Usual alcohol consumption
+Unusual fatigue or diarrhoea 3wks before trial
+Additional bathing within 3wks after trial
+GI in the household within 3wks after trial that preceded the subject’s illness
+Consumption of “high risk foods” (hamburgers / takeaways / sandwiches) 3 days
+before or 7 days after trial
+Results
+
+Meta-analysis models showed that GI risk was 16% (OR 1.16, 95% CI 0.86-1.56) higher in
+subjects who reported to have consumed one or more types of “high risk food”. On the other
+hand, the risk of GI was significantly higher in subjects who reported cases of GI in the
+household that preceded the subject’s own illness (OR 5.82, 95% CI 2.87-11.78). Forest plots
+of the models are shown in Figures 1 and 2.
+Table 1 shows the OR of GI in various exposure groups stratified by their enterococci quartile
+cut-points, which were derived from another meta-analysis model built previously. In the
+model a positive dose-response relationship between GI and exposure level was seen. When
+comparing these figures with those presented in this report, the risk of gastroenteritis
+associated with the consumption of “high risk foods” was approximately equivalent to the risk
+corresponding to an exposure level of just below 14 enterococci/100ml. In contrast, the
+presence of GI in household had huge effect on the risk of GI amongst the Epibathe subjects
+which far exceeded the OR associated with the highest exposure titre in the study.
+
+Appendix 2 Section 5
+
+Page 2 of 4
+
+
+
+Study
+
+%
+
+ID
+
+ES (95% CI)
+
+Weight
+
+UK II
+
+1.97 (0.35, 11.08)
+
+3.03
+
+UK III
+
+1.11 (0.46, 2.67)
+
+11.59
+
+UK IV
+
+0.87 (0.33, 2.32)
+
+9.38
+
+Germany I
+
+1.01 (0.26, 3.98)
+
+4.79
+
+Germany II
+
+0.68 (0.28, 1.68)
+
+11.09
+
+Germany III
+
+1.09 (0.33, 3.62)
+
+6.31
+
+Germany IV
+
+1.42 (0.65, 3.11)
+
+14.66
+
+Germany V
+
+2.59 (1.07, 6.25)
+
+11.59
+
+Hungary I
+
+0.66 (0.16, 2.69)
+
+4.53
+
+Hungary III
+
+1.42 (0.21, 9.69)
+
+2.44
+
+Spain I
+
+0.45 (0.14, 1.49)
+
+6.31
+
+Spain II
+
+3.06 (0.38, 24.47)
+
+2.09
+
+Spain III
+
+2.03 (0.60, 6.86)
+
+6.10
+
+Spain IV
+
+0.92 (0.27, 3.11)
+
+6.10
+
+UK I
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary IV
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 0.0%, p = 0.662)
+
+1.16 (0.86, 1.56)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 1
+
+1
+
+10
+
+Risk of GI between subjects with or without the consumption of “high risk
+foods”. Results were obtained from a random effects models and were
+adjusted for confounders.
+%
+
+Study
+ID
+
+ES (95% CI)
+
+Weight
+
+UK III
+
+1.13 (0.29, 4.45)
+
+17.90
+
+UK IV
+
+7.92 (2.35, 26.71)
+
+20.96
+
+Germany II
+
+10.49 (2.32, 47.43)
+
+15.68
+
+Germany IV
+
+16.28 (2.63, 100.76)
+
+11.80
+
+Germany V
+
+6.23 (1.38, 28.20)
+
+15.68
+
+Hungary I
+
+12.94 (0.36, 467.19)
+
+3.62
+
+Hungary IV
+
+24.05 (0.88, 660.07)
+
+4.20
+
+Spain III
+
+2.53 (0.34, 18.71)
+
+10.17
+
+UK I
+
+(Excluded)
+
+0.00
+
+UK II
+
+(Excluded)
+
+0.00
+
+Germany I
+
+(Excluded)
+
+0.00
+
+Germany III
+
+(Excluded)
+
+0.00
+
+Hungary II
+
+(Excluded)
+
+0.00
+
+Hungary III
+
+(Excluded)
+
+0.00
+
+Spain I
+
+(Excluded)
+
+0.00
+
+Spain II
+
+(Excluded)
+
+0.00
+
+Spain IV
+
+(Excluded)
+
+0.00
+
+Overall (I-squared = 23.2%, p = 0.245)
+
+5.82 (2.87, 11.78)
+
+100.00
+
+NOTE: Weights are from random effects analysis
+.1
+
+Figure 2
+
+1
+
+10
+
+Risk of GI between subjects with or without the presence of GI in their
+households. Results were obtained from a random effects models and were
+adjusted for confounders.
+
+Appendix 2 Section 5
+
+Page 3 of 4
+
+
+
+Quartile cut-points
+
+Gastroenteritis
+
+(enterococci/100ml)
+
+OR
+
+95% CI
+
+Non-bathers
+
+1.00
+
+/
+
+0-14
+
+1.18
+
+0.80-1.74
+
+15-43
+
+1.20
+
+0.83-1.72
+
+44-88
+
+1.34
+
+0.87-2.07
+
+≥89
+
+1.81
+
+1.08-3.02
+
+Overall
+
+1.29
+
+1.04-1.60
+
+Table 1
+
+Odds ratios of GI in various quartile groups. Quartile cut-points were 15, 44,
+and 89 enterococci per 100ml. Results were derived from a meta-analysis
+random effects model. Also showing the aggregated results from all studies.
+
+A2.5.4
+
+Conclusions
+
+The risk of GI associated with the consumption of “high risk foods” in Epibathe was low.
+With an OR of 1.16 it was approximately equivalent to an exposure level of 14
+enterococci/100ml. In theory, below that exposure level the risk of GI associated with water
+bathing would be negligible, since the consumption of hamburgers, sandwiches, and
+takeaways are common in Europe.
+Having GI in the household preceding illness experienced by the subjects increased the risk of
+GI markedly in the study subjects and surpassed the effects of bathing. However, this must be
+interpreted with caution since the number of studies included in the meta-analysis was small
+(8 out of 17).
+A.2.5.5
+
+References
+
+Kay D, Fleisher JM, Salmon RL, Jones F, Wyer MD, Godfree AF, Zelenauch-Jacquotte Z,
+Shore R (1994). Predicting likelihood of gastroenteritis from sea bathing: results from
+randomised exposure. Lancet 344(8927), pp. 905-9.
+
+Appendix 2 Section 5
+
+Page 4 of 4
+
+

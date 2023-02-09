@@ -1,0 +1,455 @@
+1502
+
+CONCISE COMMUNICATION
+
+Outbreaks of Adult Gastroenteritis Traced to a Single Genotype of Rotavirus
+Dixie D. Griffin,1 Madeleine Fletcher,2 Martin E. Levy,2
+Myra Ching-Lee,3 Robert Nogami,4 Leslie Edwards,5
+Heather Peters,5 Laura Montague,5 Jon R. Gentsch,1
+and Roger I. Glass1
+
+1
+Viral Gastroenteritis Section, Centers for Disease Control
+and Prevention, Atlanta, Georgia; 2Bureau of Epidemiology
+and Disease Control, Department of Health, Government
+of the District of Columbia, Washington, DC; 3Medical Microbiology
+Branch, Department of Health, State of Hawaii, Pearl City, and 4Hale
+Ola Kino, Skilled Nursing Facility, Honolulu; 5Maryland State
+Department of Health and Mental Hygiene, Baltimore
+
+Between November 1998 and December 2000, the Centers for Disease Control and Prevention
+screened samples from 263 outbreaks of gastroenteritis in the United States and identified 3 that
+were associated with rotavirus among adults. Rotaviruses from each outbreak were further
+characterized by reverse-transcription polymerase chain reaction. Surprisingly, all specimens
+were of serotype G2, a strain that is, as determined by high-stringency hybridization analysis, genetically distinct in all 11 gene segments from the other common rotavirus strains in circulation.
+The unusual coincidence of identification of only G2 strains in these 3 outbreaks of rotavirus gastroenteritis among adults is similar to results from other studies, in which G2 strains were found in
+association with more-severe disease in children than other rotavirus serotypes and in association
+with outbreaks of diarrhea among adults in Japan. Although rotavirus infections in adults are
+relatively uncommon, which indicates that good overall protective immunity exists, the predominance of G2 strains in outbreaks that have occurred in adults suggests that natural immunity to
+more common strains does not always provide adequate heterotypic immunity to G2 strains.
+For the rotavirus vaccines under development, special attention may need to be paid to protection
+against G2 strains.
+
+Rotavirus is the most common cause of severe diarrhea in children worldwide. More than 90% of children are infected with
+rotavirus by 3 years of age [1]. Whereas first infections in infants
+. 3 months of age are associated with diarrhea, subsequent infections are generally milder or asymptomatic [2]. In fact, subclinical rotavirus infections are very common among adults. Rotavirus
+diarrhea has been reported in parents and caretakers of children
+with rotavirus diarrhea, in elderly residents of hospital wards and
+long-term care institutions, in travelers, and in persons of all ages
+who live in isolated communities [3]. Unfortunately, the circulating rotavirus strain(s) have not been characterized where these
+outbreaks have been reported. We know little about why adults
+developed rotavirus diarrhea when they should have had immunity from multiple previous natural exposures in childhood.
+Rotavirus is a triple-layered virus that has 11 gene segments in
+its inner core that code for either a structural or a nonstructural
+
+Received 1 October 2001; revised 9 January 2002; electronically published
+30 April 2002.
+Financial support: Oak Ridge Institute for Science and Education, US Department of Energy (to D.D.G.).
+Reprints or correspondence: Dr. Roger I. Glass, Viral Gastroenteritis Section,
+Centers for Disease Control and Prevention, Mailstop G04, 1600 Clifton Rd. NE,
+Atlanta, GA 30333 (rglass@cdc.gov).
+The Journal of Infectious Diseases
+2002;185:1502–5
+q 2002 by the Infectious Diseases Society of America. All rights reserved.
+0022-1899/2002/18510-0017$02.00
+
+protein. Strains are commonly characterized by the 2 outer capsid
+proteins VP4 (protease activated or P type) and VP7 (glycoprotein
+or G type), and each of these types elicits a serotype-specific and
+cross-reactive neutralizing immune response [4]. Serotypes G1–G4
+and, most recently, G9 are the 5 most prevalent strains in the
+world [5, 6]. The mechanism of natural protection to rotavirus
+is not known, but immunity may involve multiple gene targets.
+Infection with strains that share most or all gene products and
+are of a single genogroup [7] may provide better protection
+against other strains belonging to the same genogroup (even
+when the serotype is different) than against strains of another
+genogroup and serotype. For example, strains of the Wa genogroup may provide little protection against G2 strains, which
+have been found to have 11 genetically distinct gene segments
+on analysis by high-stringency hybridization.
+Each year, the Viral Gastroenteritis Section at the Centers for
+Disease Control and Prevention (CDC) tests fecal specimens from
+individuals involved in outbreaks of gastroenteritis in the United
+States to assist in the identification of a causative agent. In many
+of these cases, no bacterial or parasitic pathogen is identified,
+and the most prevalent agent identified by reverse-transcription
+polymerase chain reaction (RT-PCR) in these outbreaks has been
+“Norwalk-like viruses” (NLVs) [8]. From January 1998 through
+December 2000, we screened specimens from 263 gastroenteritis outbreaks for NLVs, and specimens from only 32 (12.2%) of
+these outbreaks tested negative for NLVs [9]. In this study, we
+
+
+
+JID 2002;185 (15 May)
+
+Rotavirus Outbreaks in Adults
+
+further examined these 32 outbreaks of unknown cause for rotavirus, using antigen EIA, RT-PCR, and nucleotide sequencing.
+
+Materials and Methods
+In 1998, 1999, and 2000, we screened specimens from 73, 94, and
+96 outbreaks, respectively, for NLVs by RT-PCR. Specimens from
+outbreaks in which all samples tested negative for NLVs were further
+screened by EIA for astrovirus (IDEIA Astrovirus; Dako) and for adenovirus and rotavirus (Adenoclone and Rotaclone; Meridian Diagnostics) [8]. In each year, specimens from a single NLV-negative
+outbreak contained rotavirus particles, as determined by electron microscopic examination; these findings were subsequently confirmed
+by EIA, and strains were characterized for G and P type by RT-PCR
+as described elsewhere [10, 11]. Specimens from each of these outbreaks had tested negative for bacterial and parasitic pathogens at
+the respective source state’s health department, which also performed epidemiologic investigations of the outbreaks.
+
+Results
+Outbreak 1: Hawaii nursing home. Between 26 November
+and 6 December 1998, 7 (28%) of 25 elderly residents in a privately owned skilled-nursing facility in Hawaii experienced at
+least 1 episode of diarrhea, with or without fever and vomiting;
+these episodes lasted 24–48 h (mean duration, 34 h; table 1). All
+7 patients received medical care, and 1 patient was hospitalized
+for dehydration. No nursing staff or food handlers reported gastrointestinal symptoms during the outbreak, and the incubation
+period was estimated to be 48 h. A stool specimen was obtained
+from each patient. Neither contaminated food nor water could
+be implicated in the spread of infection, and investigators from
+the Hawaii Department of Health concluded that transmission
+was from person to person.
+Outbreak 2: Maryland nursing home. Between 31 March
+and 13 April 1999, 26 (27%) of 96 elderly residents of a long-term
+care facility in Maryland experienced at least 1 episode of diarrhea,
+with or without fever and vomiting; these episodes lasted 2–168 h
+
+1503
+
+(mean duration, 29 h; table 1). None of the patients was hospitalized or received medical attention, and several employees were
+ill with gastroenteritis before the outbreak. Ten stool specimens
+were obtained from 9 patients, but none were obtained from employees. In the absence of an obvious food or water source, investigators from the Maryland Department of Health and Mental
+Hygiene concluded that the disease was transmitted from person
+to person.
+Outbreak 3: Washington, DC, university. Between 27
+March and 11 April 2000, 85 (1.6%) of 5453 students at a Washington, DC, university experienced > 3 episodes of diarrhea
+and/or > 2 episodes of vomiting within a 24-h period (table 1).
+Some patients reported fever and nausea. The illness had a
+mean duration of 96 h (range, 24–192 h). Of the 85 students
+affected, 53 (62%) sought medical attention, and 9 of those received intravenous fluids. All but 8 of the affected students resided on campus. Because food was the suspected vehicle of infection, 23 of the 29 employees of the university dining hall were
+interviewed, and several reported having gastroenteritis during
+the outbreak. Six stool specimens from students and 21 from employees were received for testing. The investigators from the
+Washington, DC, Department of Health identified contaminated
+dining-hall food as the source of infection [12].
+Analysis of outbreaks. Outbreaks of rotavirus gastroenteritis in adults are not common. These 3 outbreaks represent 1% of
+263 outbreaks for which samples were submitted to the CDC
+for testing and 9.4% of the 32 outbreaks for which NLVs were
+not detected. The 3 outbreaks occurred in different states and
+among young adults and elderly individuals, and the infection
+was believed to have been transmitted by food and by personto-person contact (table 1). Of note, all occurred from November
+through April, timing which is consistent with the temporal patterns of the rotavirus season in the areas involved [1]. The outbreaks ranged in duration from 11 to 16 days.
+The symptoms of acute gastroenteritis, including diarrhea, fever,
+and vomiting, were common among patients in all 3 outbreaks
+(table 1). Attack rates in the nursing homes were relatively high
+
+Table 1. Characteristics of 3 outbreaks of rotavirus diarrhea in adults in the United States, by location and
+type of institution.
+Characteristics
+
+Hawaii nursing
+home
+
+Maryland nursing
+home
+
+Washington, DC,
+university
+
+Date of onset
+Duration, days
+Suspected mode of transmission
+Age range for patients, years
+No. of persons ill/no. at risk
+Attack rate, %
+No. of persons who sought medical care
+Duration of illness, h (mean)
+Symptoms
+
+Nov 1998
+11
+Person to person
+72–91
+7/25
+28
+7
+24–48 (34)
+D, F, V
+
+Mar 1999
+14
+Person to person
+74–94
+26/96
+27
+0
+2–168 (29)
+D, F, V
+
+Mar 2000
+16
+Foodborne
+18–22
+77/1641a
+5
+53
+24–192 (96)
+D, F, N, V
+
+NOTE. D, diarrhea; F, fever; N, nausea; V, vomiting.
+For students residing on campus.
+
+a
+
+
+
+1504
+
+Griffin et al.
+
+JID 2002;185 (15 May)
+
+Table 2. Rotavirus detection in stool specimens from symptomatic patients involved in 3 outbreaks of gastroenteritis in the United States.
+
+Location
+Hawaii nursing home
+Maryland nursing home
+Washington, DC, university
+
+No. of specimens positive
+for rotavirus/no. tested
+
+No. of stool
+specimens
+tested
+
+By EIA
+
+By EM
+
+7
+9
+6
+
+2/7
+5/9
+3/6
+
+5/6
+4/5
+1/3
+
+By RT-PCR
+
+Total no.
+of positive
+specimens
+
+No. of specimens
+with genotype
+P[4],G2a
+
+3/7
+8/9
+4/6
+
+5
+8
+4
+
+2
+6
+4
+
+NOTE. EM, electron microscopy; RT-PCR, reverse-transcription polymerase chain reaction.
+As determined by RT-PCR.
+
+a
+
+(27%–28%), whereas the attack rate for the university outbreak
+was 5% (77/1641) for students residing on campus and 0.2% (8/
+3812) for students living off campus. The severity of the illness
+ranged from mild, in outbreak 2, in which no patients received
+medical attention, to more severe, in outbreak 1, in which all ill
+patients were treated for symptoms and 1 resident was hospitalized, and in outbreak 3, in which 53 of 85 ill students sought medical care and 9 received intravenous fluids.
+A total of 22 fecal specimens from these outbreaks were submitted to the CDC for viral testing (table 2). Rotavirus-like particles were detected by electron microscopy in 5 of 6, 4 of 5, and
+1 of 3 stool specimens from outbreaks 1, 2, and 3, respectively.
+Group A rotavirus was confirmed by EIA in 2 of 7, 5 of 9, and 3
+of 6 samples and by RT-PCR in 3 of 7, 8 of 9, and 4 of 6 specimens
+from outbreaks 1, 2, and 3, respectively. In total, 5 (71%) of 7
+specimens from outbreak 1, 8 (89%) of 9 specimens from outbreak 2, and 4 (67%) of 6 specimens from outbreak 3 tested positive for group A rotavirus.
+Selected rotavirus strains from each outbreak were P- and Gtyped, and, to our surprise, each outbreak was caused by rotavirus
+strain P[4],G2. To determine whether these G2 strains from
+adults were unusual variants or just typical G2 strains, we sequenced the VP4, VP7, and NSP4 genes of strains from outbreak
+2 and compared the sequences to those of other G2 strains isolated from children in the United States who had been hospitalized with rotavirus gastroenteritis during the same time period
+as outbreak 2. No marked differences were observed (data not
+shown). Furthermore, in outbreak 3, 3 of 21 specimens from the
+dining-hall employees tested positive for rotavirus, and strains
+from all 3 specimens were P[4],G2 (data not shown). One of
+the rotavirus-positive employees was asymptomatic and assisted
+in preparation of the delicatessen sandwiches that were implicated as the suspected vehicle of the outbreak.
+Discussion
+In the United States, most outbreaks of gastroenteritis are associated with NLVs; such outbreaks occur more often during the
+winter and spring and are seen commonly among adults and often
+in nursing-home populations [8]. From 1998 to 2000, group A rotavirus was the causative agent in 3 (1%) of the 263 outbreaks of
+gastroenteritis for which the CDC examined samples for NLVs
+
+and from which only 32 (12.2%) were NLV negative. In the
+United States, rotavirus infection has a winter seasonality and is
+most frequently identified from November through April [1]. All
+3 of the outbreaks we studied occurred during the rotavirus season.
+Two of the 3 outbreaks were identified in nursing homes among
+elderly patients and some nursing staff, and the third outbreak
+occurred among university students (18–22 years old) and staff
+at the university dining hall. The symptoms in these patients were
+similar, and ill persons reported diarrhea, fever, and/or nausea
+and vomiting. Transmission of rotavirus in the 2 nursing-home
+outbreaks was suspected to be from person to person, and transmission in the university outbreak was suspected to be by food
+prepared in the university dining hall. The most unusual finding
+in the present study is that rotavirus P[4],G2 strains were identified in all 3 outbreaks. Furthermore, a recent Japanese review
+identified 4 geographically and temporally distinct outbreaks of
+gastroenteritis among school-aged children (1 of 4 outbreaks) and
+adults 30–80 years old (3 of 4 outbreaks) in Japan during 2000,
+and, remarkably, all were associated with G2 strains [13–16]. The
+attack rates for the Japanese outbreaks (11%–70%) were similar to those found here (5%–28%).
+The mechanism(s) responsible for the apparent predominance
+of G2 outbreaks in adults is unknown, but it can be speculated that
+virulence and/or antigenic differences between strains could be involved. For example, G2 strains, which make up a relatively small
+proportion overall of the 5 common rotavirus serotypes, belong to
+a genetically distinct genogroup (DS-1), compared with the other
+4 common strains, which belong in the Wa genogroup, as defined
+by a lack of cross-hybridization under stringent assay conditions
+[7]. These genetic differences also reflect antigenic differences
+between the strains, including the presence of unique G and P
+serotype antigens in G2 strains. Thus, infection with common
+strains of the Wa genogroup may provide better homotypic immunity against other Wa-like strains than it would against the G2
+strains, resulting in more outbreaks of G2 in adults. Although
+we know of no direct evidence for genotype-specific immunity,
+serotype-specific immunity has been documented [4]. In addition, a report showing a relative lack of G2-specific neutralizing antibodies in adults supports the hypothesis that adults could
+be more susceptible to G2 infections [17].
+Several studies have found also that G2 strains cause moresevere dehydrating diarrhea and, thus, may be more virulent [18,
+
+
+
+JID 2002;185 (15 May)
+
+Rotavirus Outbreaks in Adults
+
+19]. If this is true, the disproportionate number of G2 infections
+that occur in adults may reflect a combination of reduced heterotypic protection against the antigenically distinct G2 strains induced by infection with common strains of the Wa genogroup
+and intrinsic differences in the virulence of the strains themselves.
+Our study has several limitations. Although we found that rotavirus was implicated in only 1% of the outbreaks for which samples
+were submitted, we only searched for the virus in those outbreaks
+in which no NLVs were identified. Therefore, we would have
+missed any outbreak caused by a mixed infection and underestimated the prevalence of infections associated with rotaviruses. In
+addition, not all of the specimens from each outbreak were positive for rotavirus. Serologic testing could have helped in confirming these results, but serum samples were not available for
+cases from these outbreaks. Furthermore, measurement of neutralizing antibodies in serum samples obtained during the acute
+phase of infection might have provided a clue as to whether titers
+of serotype-specific antibody to G2 strains were relatively low,
+compared with the titers associated with other strains, which
+could have helped to explain our results. The mode of transmission of rotavirus in each of these outbreaks was investigated,
+but the conclusions could not be proven, so we remain uncertain
+of how to prevent the spread of these outbreaks in the future.
+However, our report, along with others from the United States
+and Japan, suggests that rotavirus can be transmitted by contaminated food [11, 16]. Finally, no attempt to analyze possible
+differences in the severity of symptoms within individual outbreaks was made; thus, we cannot exclude the possibility that
+some outbreaks were characterized by milder symptoms.
+In this study, we demonstrate that group A rotavirus can cause
+epidemic gastroenteritis in adults and in elderly individuals and
+that, when it does, genotype G2 strains are likely to be involved.
+Therefore, reference laboratories should consider rotavirus as a
+possible causative agent for outbreaks of diarrhea in adults. Once
+rotavirus is identified, the strains should be characterized for G
+and P types. From our results, we would suspect that adults and
+elderly individuals might have lower levels of G2-specific neutralizing antibody to rotavirus, compared with levels of antibody
+to the other common strains, a hypothesis that could be tested
+easily. Furthermore, when future vaccines are designed, antigens
+from the G2 genogroup may need to be included to ensure protection against these distinct strains. Use of vaccines that do not
+provide specific protection against G2 strains might lead to a risk
+of some vaccine failures in rotavirus seasons in which G2 strains
+are prevalent.
+References
+1. Kapikian AZ, Chanock RM. Rotaviruses. In: Fields BN, Knipe DM, Howley
+
+2.
+3.
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+1505
+
+PM, eds. Fields virology. 3d ed. Vol. 2. Philadelphia: Lippincott-Raven,
+1996:1657–708.
+Velazquez FR, Matson DO, Calva JJ, et al. Rotavirus infection in infants as
+protection against subsequent infections. N Engl J Med 1996;335:1022–8.
+Hrdy D. Epidemiology of rotaviral infection in adults. Rev Infect Dis
+1987; 9:461–9.
+Estes M. Rotaviruses and their replication. In: Fields BN, Knipe DM,
+Howley PM, eds. Fields virology. 3d ed. Vol 2. Philadelphia: Lippincott-Raven, 1996:1625–55.
+Gentsch JR, Woods PA, Ramachandran M, et al. Review of G and P typing results from a global collection of strains: implications for vaccine
+development. J Infect Dis 1996; 174(Suppl 1):S30–6.
+Griffin DD, Kirkwood C, Parashar UD, et al. Surveillance of rotavirus
+strains in the United States: identification of unusual strains. J Clin Microbiol 2000; 38:2784–7.
+Nakagomi O, Nakagomi T, Akatani K, Ikegami N. Identification of rotavirus genogroups by RNA-RNA hybridization. Mol Cell Probes 1989;
+3:251–61.
+Fankhauser RL, Noel JS, Monroe SS, Ando TA, Glass RI. Molecular epidemiology of “Norwalk-like viruses” in outbreaks of gastroenteritis in
+the United States. J Infect Dis 1998; 178:1571–8.
+Fankhauser RL, Monroe SS, Noel JS, et al. Epidemiologic and molecular
+trends of “Norwalk-like viruses” associated with outbreaks of gastroenteritis in the United States. J Infect Dis (in press).
+Gouvea V, Glass RI. PCR detection and typing of rotaviruses in fecal specimens. In: Becker Y, Darai G, eds. Diagnosis of human viruses by polymerase chain reaction technology. Berlin: Springer-Verlag, 1992:345–54.
+Gentsch JR, Glass RI, Woods P, et al. Identification of group A rotavirus
+gene 4 types by polymerase chain reaction. J Clin Microbiol 1992; 30:
+1365– 73.
+Centers for Disease Control and Prevention. Foodborne outbreak of group
+A rotavirus gastroenteritis among college students, Washington, DC,
+March 2000. MMWR Morb Mortal Wkly Rep 2000; 49:1131– 3.
+National Institute of Infectious Diseases. An outbreak of group A rotavirus
+gastroenteritis at a home for the aged, March– April 2000—Yamanashi.
+Tokyo: Japan Ministry of Health and Welfare, Infectious Agents Surveillance Report 2000; 27:144.
+National Institute of Infectious Diseases. An outbreak of group A rotavirus
+infection at a home for the handicapped, April 2000—Kobe City. Tokyo:
+Japan Ministry of Health and Welfare, Infectious Agents Surveillance
+Report 2000; 21:144.
+National Institute of Infectious Diseases. An outbreak of diarrheal disease
+due to group A rotavirus at a primary school, March 2000—Chiba.
+Tokyo: Japan Ministry of Health and Welfare, Infectious Agents Surveillance Report 2000; 27:145.
+National Institute of Infectious Diseases. An outbreak of group A rotavirus
+infection among adults from eating meals prepared at a restaurant, April
+2000—Shimane. Tokyo: Japan Ministry of Health and Welfare, Infectious Agents Surveillance Report 2000; 27:145.
+Brussow H, Offit PA, Sidoti J. Neutralizing antibodies to heterologous animal rotavirus serotypes 5, 6, 7, and 10 in sera from Ecuadorian children.
+J Clin Microbiol 1991; 29:869–73.
+Bern C, Unicomb L, Gentsch J, et al. Rotavirus diarrhea in Bangladeshi
+children: correlation of disease severity with serotypes. J Clin Microbiol
+1992; 30:3234– 8.
+Cascio A, Vizzi E, Alaimo C, Arista S. Rotavirus gastroenteritis in Italian
+children: can severity of symptoms be related to the infecting virus?
+Clin Infect Dis 2001; 32:1126– 32.
+
+

@@ -1,0 +1,1029 @@
+MAJOR ARTICLE
+
+Tri-County Comprehensive Assessment of Risk
+Factors for Sporadic Reportable Bacterial Enteric
+Infection in Children
+Donna M. Denno,1 William E. Keene,9 Carolyn M. Hutter,2 Jennifer K. Koepsell,4 Marianne Patnode,6
+Denny Flodin-Hursh,6 Laurie K. Stewart,4 Jeffrey S. Duchin,3,4 Laurette Rasmussen,7 Robert Jones,5 and Phillip I. Tarr8
+Departments of 1Pediatrics and Global Health and 2Epidemiology and Biostatistics and 3Division of Allergy and Infectious Diseases, University of
+Washington, 4Public Health—Seattle and King County, and 5Craic Computing, Seattle, 6Yakima Health District, Union Gap, 7Whatcom County
+Health Department, Bellingham, Washington; 8Departments of Pediatrics and Molecular Microbiology, Washington University, St. Louis, Missouri;
+9State of Oregon Public Health Division, Portland
+
+(See the editorial commentary by Jones, on pages 465– 6.)
+
+Background. The aim of this study was to determine risk factors for childhood sporadic reportable enteric
+infection (REI) caused by bacteria, specifically Campylobacter, Salmonella, Escherichia coli O157, or Shigella (REI-B).
+Methods. Matched case-control study. Case patients aged ⬍19 years who were reported to 3 Washington State
+county health departments and matched control subjects were interviewed from November 2003-November 2005.
+Matched odds ratios (ORs) were calculated by using conditional logistic regression. Population attributable risk
+percentages were calculated for exposures associated with infection.
+Results. Two hundred ninety-six case patients were matched to 580 control subjects. Aquatic recreation was the
+most important factor associated with all REI-Bs studied (beach water exposure [OR for Salmonella infection, 28.3
+{CI, 7.2–112.2}; OR for Shigella infection, 14.5 {CI 1.5–141.0} or any recreational water exposure [OR for Campylobacter infection, 2.7 {CI, 1.5– 4.8}; OR for Escherichia coli O157 infection, 7.4 {CI, 2.1–26.1}]). Suboptimal kitchen
+hygiene after preparation of raw meat or chicken (OR, 7.1 [CI, 2.1–24.1]) and consumption of food from restaurants
+were additional risks for Campylobacter infection. Infection with Salmonella was associated with the use of private
+wells as sources of drinking water (OR, 6.5 [CI, 1.4 –29.7]), and the use of residential septic systems was a risk for both
+Salmonella (OR, 3.2 [CI, 1.3–7.8]) and E. coli (OR, 5.7 [CI, 1.2–27.2]) O157 infection.
+Conclusions. Overall, non-food exposures were as important as food-related exposures with regard to their
+contributions to the proportion of cases. Infection prevention efforts should address kitchen hygiene practices and
+non-food exposures, such as recreational water exposure, in addition to food-consumption risks.
+Approximately 100,000 infections caused by Campylobacter, Salmonella, Escherichia coli O157, and Shigella
+are reported annually to local health departments
+(LHDs) in the United States [1], making them the most
+common reportable enteric infections (REIs) caused by
+bacteria (REI-B). Most REI-Bs occur among children
+Received 12 August 2008; accepted 22 September 2008; electronically published 26 January 2009.
+Potential conflict of interest: none reported.
+Presented in part: Pediatric Academic Societies’ Annual Meeting, Toronto,
+Canada, 8 May 2007 (abstract 752363).
+Financial support: US Department of Agriculture National Research Initiative
+(0202238 to P.I.T.); National Institutes of Health (grant 5P30 DK052574 to P.I.T.).
+Reprints or correspondence: Phillip I. Tarr, MD, Washington University School of
+Medicine, Campus Box 8208, 660 South Euclid Ave., St. Louis, MO 63110
+(tarr@wustl.edu).
+The Journal of Infectious Diseases 2009; 199:467–76
+© 2009 by the Infectious Diseases Society of America. All rights reserved.
+0022-1899/2009/19904-0002$15.00
+DOI: 10.1086/596555
+
+[2– 4], and it is estimated that dozens of additional infections occur for each case reported [1]. Outbreaks of
+REI-B represent ongoing public health problems that
+receive considerable attention in the media and scientific literature [5–11]. However, current data suggest
+that up to 90% of REI-B is sporadic, that is, not outbreak
+related [1]. While specific foods are the transmission vehicles most often identified in outbreak investigations
+[6 – 8, 11, 12], food preparation and kitchen hygiene
+practices, as well as non-food vehicles (e.g., exposure to
+water and/or animals), might play more important roles
+than particular foods per se (e.g., undercooked meat) in
+the transmission of sporadic disease [13–19].
+Because of the higher incidence of REI-B among children, limited data on the modes by which non-outbreak
+REI-Bs are acquired, and the possibility that infection
+control lessons learned from outbreaks might not apply
+Risk Factors for Pediatric Enteric Infections
+
+●
+
+JID 2009:199 (15 February)
+
+●
+
+467
+
+
+
+to a great number of sporadic infections, we conducted a prospective case-control study to identify associations between sporadic childhood REI-B and a diverse and comprehensive panel of
+plausible exposures. Our overall goal was to identify the modifiable risk factors associated with the greatest proportion of
+cases.
+
+Table 1. Exposure variables evaluated in pathogen-specific
+questionnaires administered to case patients and control subjects.
+
+METHODS
+
+research assistants (for control subjects) interviewed the caregiver most familiar with the food and activity histories of the
+participant. Participants ⬎9 years old were encouraged to participate in interviews. Case patients were interviewed as
+promptly as possible after their infection was reported; control
+subjects were contacted as soon as possible after the case patient
+was interviewed, but always within 4 months to maintain temporal matching. Case patients and control subjects were asked
+about the same exposure interval, counting back from the onset
+of illness and the date of the interview, respectively. The study
+was approved by the Children’s Hospital and Regional Medical
+Center and Washington University institutional review boards.
+Statistical analysis. We performed descriptive and pathogenspecific univariate and multivariate analyses using Stata (version
+9; Statacorp). We used conditional logistic regression for univariate and multivariate analyses of all surveyed exposures to calculate matched odds ratios (ORs) and 95% confidence intervals
+(CIs). To adjust for confounding by demographic and socioeconomic factors, the multivariate analysis included those variables
+associated with disease status, including matching variables if
+there was residual confounding. We then further adjusted for
+exposure variables that were associated with both disease and
+exposures of interest. We only present these latter estimates if
+they meaningfully differed from those models solely adjusted for
+socioeconomic status (SES) and demographic characteristics.
+For variables with statistically significant associations (P ⬍ .05)
+in the final regression models, we calculated population attributable risk percentages (PAR%) and 95% CIs adjusted for SES
+and demographic variables by bootstrap methodology [23] to
+estimate the magnitude of each factor’s relative contribution to
+disease occurrence. It should be noted that PAR% sums can exceed 100% because the cumulative effects of multiple factors are
+not necessarily additive [24].
+
+Study design and population. We performed a matched casecontrol study of selected REI-Bs among children in King, Whatcom, and Yakima Counties in Washington. A case patient was
+defined as a resident of these counties younger than 19 years who
+had laboratory-confirmed Campylobacter, E. coli O157, Salmonella, or Shigella infection, reported to a LHD during a 24month period that commenced in November 2003. These counties had combined 2005 populations of ⬃490,000 individuals
+⬍19 years of age [20]. Exclusion criteria were undefined onset of
+illness, immigration to the United States or Canada in the 6
+months before illness onset, travel outside either of these countries during the exposure period, belonging to a recognized cluster of illness involving ⬎1 household or belonging to a cluster
+within a single household and not being the individual who had
+the earliest onset of symptoms. The following pathogen-specific
+exposure periods were based on published data: Campylobacter,
+2–7 days; E. coli O157, 2– 8 days; Salmonella, 6 h–5 days; Shigella,
+1– 4 days [2, 21, 22].
+Control subjects. Potential control subjects were identified
+at family practice and pediatric clinics in the study area by prospective distribution of multilingual printed materials that explained study goals. Parents who were willing to enroll their children as potential control subjects were asked to provide basic
+demographic characteristics and contact information. For each
+case patient interviewed, we identified and then contacted the 2
+best control subject matches from the pool of potential control
+subjects by using a computer algorithm that matched age (closest ⫾ 50%, up to 19 years of age), zip code (same or adjacent zip
+code, to reduce confounding by socioeconomic and/or demographic characteristics), and sex (when possible). Control subject exclusion criteria included the same travel and residency
+restrictions as for case patients, as well as diarrhea in the preceding 30 days, a sibling chosen as a control subject for the same case
+patient, or previous study participation.
+Questionnaires and interviews. We developed standardized, pathogen-specific questionnaires that addressed domestic
+travel; dining venues; food handling, preparation, and consumption practices; water supply and sanitation; animal and
+recreational water exposures; and demographic characteristics
+(table 1, which appears only in the electronic version of the Journal). All interviewers were trained in the use of the survey instrument. After determining eligibility and obtaining consent, the
+LHD (for case patients, to maintain confidentiality) or 1 of 2
+468
+
+●
+
+JID 2009:199 (15 February)
+
+●
+
+Denno et al.
+
+The table is available in its entirety in the online
+edition of The Journal of Infectious Diseases.
+
+RESULTS
+Study population
+During the study period, 546 pediatric REI-Bs were reported;
+237 were due to Campylobacter, 190 to Salmonella, 67 to Shigella,
+and 52 to E. coli O157. Of 546 patients with REI-B, 61 (11.2%),
+50 (9.2%), and 31 (5.7%) patients were excluded because they
+had traveled outside the United States or Canada, were part of
+recognized outbreaks involving ⬎1 household, or for other reasons, respectively (figure 1). Of the 404 remaining case patients,
+296 (73.3%) participated, including 151 patients with Campy-
+
+
+
+Figure 1. Study enrollment of case patients with laboratory-confirmed reportable enteric infection caused by bacteria (REI-B). Numbers in
+parentheses are no. of participants. See Methods for details about exclusion criteria.
+
+lobacter infection, 86 with Salmonella infection, 39 with E. coli
+O157 infection, and 20 with Shigella infection. Ineligible and
+nonparticipating case patients were less likely to be white but
+otherwise resembled participants (table 2, which appears only in
+the electronic version of the Journal). A mean of 1.97 control
+subjects participated per case patient (SD, 0.40; range, 1– 4 patients). The median time from onset of illness to case patient
+interview was 11 days (75th percentile, 19 days; 90th percentile,
+25 days), and the median time from case patient interview to
+control subject interview was 27 days (75th percentile, 45 days;
+90th percentile, 69 days).
+The 296 case patients and 580 matched control subjects were
+similar in terms of sex, eligibility for low-income services, ethnicity, housing type, and urban or rural residence, but case patients were less likely to be white, overall had parents with a lower
+level of education, had smaller household sizes, and were more
+likely to be the only child in a household (table 3, which appears
+only in the electronic version of the Journal). Also, despite agematching, residual age differences between case patients and
+control subjects remained (0.2 years aggregate median difference).
+
+Risk factor analysis
+Various exposures were associated with each REI-B studied. ORs
+for dichotomous and categorical variables, both unadjusted and
+adjusted for SES and demographic variables associated with disease status (as noted in table 4 and table 3, which appears only in
+the electronic version of the Journal), with P values ⬍.05 in the
+adjusted models are presented in tables 4 and 5, respectively. All
+point estimates discussed below refer to adjusted estimates.
+PAR% adjusted for SES and demographic variables are presented in table 6.
+Travel and commercial food venues. Domestic travel (defined as an overnight stay away from home within the United
+States or Canada) was associated with Campylobacter infection
+(table 4; OR, 2.5 [CI, 1.4 – 4.6]) and E. coli O157 infection (OR,
+6.8 [CI, 1.6 –28.5]). Consumption of foods from mobile food
+stands and fast-food or table-service restaurants were risk factors
+for Campylobacter infection. Eating food from self-serve buffets,
+mobile stands, or table-service restaurants was associated with E.
+coli O157 infection.
+
+Table 2. Demographic characteristics of participating and nonparticipating case patients.
+
+Table 3. Demographic characteristics of participating case patients and control subjects, according to pathogen infecting the
+case patient.
+
+The table is available in its entirety in the online
+edition of The Journal of Infectious Diseases.
+
+The table is available in its entirety in the online
+edition of The Journal of Infectious Diseases.
+
+Risk Factors for Pediatric Enteric Infections
+
+●
+
+JID 2009:199 (15 February)
+
+●
+
+469
+
+
+
+Table 4. Univariate and multivariate analysis of selected risk factors for sporadic reportable enteric
+infection caused by bacteria.
+
+Risk factor
+Travel
+Domestic overnight travel
+Commercial food venue
+Ate food from a mobile food stand
+Ate food from a table-service restaurant
+Increased frequency of eating at table-service restaurants
+Ate food from a fast-food restaurant
+Ate food from a self-serve buffet
+Home food handling and preparation
+Touched raw meat or poultry
+Touched raw beef
+Consumed specific foods prepared from raw state at home
+Chicken
+Beef
+Pork
+Shrimp
+Consumed specific foods—any venue
+Unpasteurized milk b
+Unheated dried meat
+Eggs
+Raw cilantro
+Raw basil
+Raw sprouts
+Sprouts in household, but did not eat any
+Raw vegetables
+Organic produce
+Fresh lettuce or spinach from sealed retail packages,
+among those who ate fresh lettuce or spinach
+Animals
+Livestock at home
+Poultry at home
+Had direct contact with livestock or poultry at home
+Visited place with farm animalsb
+Had direct contact with livestock or poultry outside the home
+Direct contact with fresh manure fertilizer
+Puppy at home
+Amphibian or reptile at home
+Water and sanitation
+Drank untreated surface water directly from source
+Drank water from garden hose
+Dishwasher use
+Private well as home water source
+Septic system for home sanitation
+Recreational water activity
+Any
+
+Univariate
+OR (95% CI)
+
+Multivariate
+OR (95% CI)a
+
+C: 1.8 (1.0–3.1)
+E: 3.6 (1.2–10.7)
+
+C: 2.5 (1.4–4.6)
+E: 6.8 (1.6–28.5)
+
+C: 4.8 (1.9–11.8)
+E: 6.0 (0.6–59.4)
+E: 2.5 (1.1–5.7)
+C: 3.4 (1.4–8.5)
+C: 1.4 (0.9–2.1)
+E: 1.4 (0.1–18.5)
+
+C: 4.4 (1.7–11.5)
+E: 21.4 (2.7–171.1)
+E: 3.7 (1.1–12.5)
+C: 4.2 (1.6–11.3)
+C: 1.7 (1.0–2.8)
+E: 9.9 (1.3–73.3)
+
+C: 3.7 (1.6–8.8)
+C: 3.2 (1.1–9.0)
+
+C: 3.79 (1.5–9.3)
+C: 3.9 (1.8–14.3)
+
+C: 2.4 (1.4–4.0)
+C: 2.4 (1.4–3.8)
+C: 2.0 (1.2–3.3)
+Sm: 2.1 (1.1–4.4)
+Sm: 3.6 (1.5–8.8)
+
+C: 2.3 (1.3–4.3)
+C: 2.2 (1.3–3.6)
+C: 1.7 (1.0–2.9)
+Sm: 2.0 (1.0–4.1)
+Sm: 2.7 (1.1–6.7)
+
+C: 3.0 (0.5–18.1)
+C: 2.0 (1.1–3.5)
+C: 1.7 (1.1–2.6)
+C: 4.5 (2.5–8.4)
+Sh: 13.4 (1.8–99.5)
+C: 4.7 (1.5–14.7)
+Sm: 5.8 (0.6–60.6)
+Sm: 3.0 (1.1–8.0)
+Sh: 6.3 (1.3–32.1)
+Sm: 0.3 (0.2–0.6)
+Sm: 0.4 (0.2–1.0)
+Sm: 3.2 (1.0–9.8)
+
+C: 4.3 (1.0–18.1)
+C: 2.2 (1.2–4.1)
+C: 1.7 (1.0–2.7)
+C: 5.3 (2.6–10.9)
+Sh: 45.0 (7.9–256.5)
+C: 8.3 (2.0–35.2)
+Sm: 7.7 (1.2–47.7)
+Sm: 3.2 (1.2–8.1)
+Sh: 6.4 (1.3–31.3)
+Sm: 0.4 (0.2–0.8)
+Sm: 0.4 (0.1–0.9)
+Sm: 26.7 (1.0–723.9)
+
+C: 2.4 (1.0–5.6)
+C: 3.3 (1.5–7.5)
+C: 3.5 (1.7–7.1)
+C: 2.1 (1.2–3.6)
+C: 2.3 (1.3–4.2)
+C: 2.0 (0.7–5.5)
+C: 2.3 (1.1–4.8)
+Sm: 2.4 (1.0–5.7)
+
+C: 3.1 (1.3–7.5)
+C: 3.3 (1.3–8.2)
+C: 4.3 (2.0–9.2)
+C: 2.7 (1.5–4.9)
+C: 2.8 (1.5–5.4)
+C: 3.9 (1.3–11.7)
+C: 2.2 (1.0–4.9)
+Sm: 2.6 (1.0–6.9)
+
+C: 14.3 (3.2–64.6)
+C: 4.4 (2.2–8.6)
+E: 0.5 (0.2–1.3)
+Sm: 7.3 (1.4–36.7)
+Sm: 1.9 (0.8–4.2)
+E: 2.3 (0.9–6.3)
+
+C: 14.5 (3.1–67.7)
+C: 4.1 (2.0–8.8)
+E: 0.3 (0.1–0.9)
+Sm: 6.5 (1.4–29.7)
+Sm: 3.2 (1.3–7.8)
+E: 5.7 (1.2–27.2)
+
+C: 2.2 (1.3–3.8)
+E: 3.4 (1.4–8.6)
+
+C: 2.7 (1.5–4.8)
+E: 7.4 (2.1–26.1)
+(continued)
+
+
+
+Table 4.
+
+(Continued.)
+
+Risk factor
+Play in“ kiddie” or wading pool
+Play in natural source of water, either fresh or saltwater
+
+Sick contacts and medications
+Contact with person with diarrheal illness
+Took antacids or acid suppression therapy
+
+Univariate
+OR (95% CI)
+
+Multivariate
+OR (95% CI)a
+
+C: 3.7 (1.8–7.6)
+C: 3.4 (1.6–7.4)
+Sm: 7.0 (2.3–21.6)
+Sh: 12.3 (1.2–123.8)
+
+C: 3.1 (1.4–6.7)
+C: 3.4 (1.4–8.4)
+Sm: 28.3 (7.2–112.2)
+Sh: 14.5 (1.5–141.0)
+
+C: 2.3 (1.1–4.9)
+Sh: 7.3 (0.9–56.5)
+Sm: 4.6 (1.5–14.5)
+
+C: 2.6 (1.2–5.7)
+Sh: 7.3 (1.2–43.2)
+Sm: 3.2 (1.1–9.7)
+
+NOTE. Table presents exposure associations significant to the .05 level in univariate analyses, and all exposures significant
+to the .05 level in the multivariate analyses. C, Campylobacter; CI, confidence interval; E, Escherichia coli O157; Sh, Shigella;
+Sm, Salmonella; OR, odds ratio.
+a
+Multivariate ORs were adjusted for the socioeconomic status and demographic variables associated with infection due to
+individual pathogens, which were as follows: C—age, race, housing type, and parental education level; Sm—age, race, and no.
+of children in household; E—age, parental education level, and no. of children in household; Sh—age and housing type. There
+was a statistically significant association between Hispanic ethnicity and shigellosis, however, we were unable to adjust for
+ethnicity due to convergence issues as 67% and 100% of control subjects and case patients, respectively, were of Hispanic
+ethnicity.
+b
+The ORs for these exposure variables approached the null value of 1 when further adjusted for other potentially
+confounding exposure variables. Hence population attributable risk percentages were not calculated for these variables.
+
+Food handling and preparation practices. Campylobacter
+infection was associated with raw meat and poultry exposures,
+including handling of these foods (table 4), in-home practices
+related to thawing these foods, and cleaning methods used for
+the surfaces (e.g., cutting boards, sinks, or counters) on which
+these items were prepared (table 5). Among participants from
+households that prepared raw meat or poultry, there was no
+significant difference between the reference group (who placed
+the meat directly in a cooking pan without allowing the meat to
+touch other preparation surfaces) and those who bleached the
+preparation surfaces or washed them in a dishwasher. The risk
+Table 5.
+
+was highest in households where surfaces were washed with soap
+and water only (OR compared to reference group, 3.0 [CI, 1.2–
+7.6]) or merely wiped following use (OR compared to reference
+group, 7.1 [CI, 2.1–24.1]). Risk did not vary between those who
+used plastic cutting boards and those who used wooden cutting
+boards. Food handling and preparation practices were not significantly associated with Salmonella or E. coli O157 infection
+(data not shown).
+Food consumption. Consumption of foods prepared at
+home from raw chicken, beef, or pork was associated with
+Campylobacter infection, whereas consumption of pork or
+
+Univariate and multivariate analysis of categorical variables associated with Campylobacter infection.
+Unadjusted
+OR (95% CI)a
+
+Categorical variable
+Clean-up practices for surfaces used to prepare raw poultry or meat
+No preparation—raw meat placed directly into pan or used disposable board
+Bleach or dishwasher
+Washed with soap
+Rinsed or wiped
+Methods for thawing
+Raw frozen poultry
+Cooked frozen or thawed in refrigerator or microwave
+Thawed in water and/or in sink
+Thawed at room temperature
+Raw frozen meat
+Cooked frozen or thawed in refrigerator or microwave
+Thawed in water and/or in sink
+Thawed at room temperature
+
+Reference
+1.5 (0.7–3.4)
+3.0 (1.3–6.8)
+6.4 (2.3–17.8)
+
+Reference
+1.5 (0.5–4.4)
+4.2 (1.4–12.9)
+Reference
+2.8 (0.9–8.2)
+4.3 (1.1–16.5)
+
+P
+
+冧
+冎
+冎
+
+.009
+
+.029
+
+.062
+
+Adjusted
+OR (95% CI)a
+
+Reference
+1.8 (0.7–4.7)
+3.0 (1.2–7.6)
+7.1 (2.1–24.1)
+
+冧
+
+Reference
+0.6 (0.2–1.9)
+3.1 (1.0–10.1)
+
+冎
+
+Reference
+1.4 (0.4–5.5)
+4.0 (0.8–19.8)
+
+冎
+
+P
+
+.008
+
+.053
+
+.22
+
+NOTE. Multivariate odds ratios (ORs) adjusted for age, race, housing type, and parental education level. Exposures were not ascertained for Shigella
+infection, and were not associated with Salmonella or Escherichia coli O157 infection. CI, confidence intervals.
+a
+
+ORs are for comparison with reference group.
+
+Risk Factors for Pediatric Enteric Infections
+
+●
+
+JID 2009:199 (15 February)
+
+●
+
+471
+
+
+
+Table 6. Population attributable risk percentages for sporadic reportable
+enteric infection caused by bacteria.
+
+Risk factor
+Travel
+Domestic overnight travel
+Commercial food venue
+Ate food from a mobile food stand
+Ate food from a table-service restaurant
+Ate food from a fast-food restaurant
+Ate food from a self-serve buffet
+Home food consumption, handling, and preparation
+Clean-up methods for raw meat and/or poultry
+preparation surfacesa
+Touched raw chicken
+Ate beef prepared from raw state
+Ate chicken prepared from raw state
+Ate pork prepared from raw state
+Ate shrimp prepared from raw state
+Consumed specific foods—any venue
+Raw basil
+Raw cilantro
+Raw sprouts
+Unheated dried meat
+Animals
+Livestock at home
+Poultry at home
+Had direct contact with livestock or poultry
+at home
+Direct contact with fresh manure fertilizer
+Water exposure and sanitation
+Drank untreated surface water directly from source
+Drank water from garden hose
+Private well used for home water source
+Septic system used for home sanitation
+Any recreational water activity
+Recreational water play in “kiddie” or wading pool
+Recreational water play in natural source of water,
+either fresh or saltwater
+Sick contacts and medications
+Contact with person with diarrheal illness
+Took antacids or acid suppression therapy
+NOTE.
+a
+
+Population
+attributable
+risk percentage
+(95% CI)
+
+C: 11.4 (4.0–21.4)
+E: 31.4 (14.6–51.3)
+C: 9.2 (3.4–15.5)
+E: 9.8 (-8.3–20.9)
+C: 9.0 (-3.7–21.5)
+E: 37.3 (15.8–64.3)
+C: 26.6 (2.0–52.1)
+E: 4.6 (0.0–13.2)
+C: 36.4 (18.8–57.9)b
+C: 8.7 (3.1–13.6)
+C: 38.7 (22.3–59.1)
+C: 42.4 (18.3–66.8)
+C: 12.4 (0.9–26.0)
+Sm: 18.4 (3.3–35.5)
+Sm: 10.4 (-0.1–21.5)
+C: 5.9 (1.7–10.2)
+C: 22.9 (14.9–33.9)
+Sh: 36.0 (10.9–55.6)
+Sm: 3.1 (-0.3–8.2)
+C: 9.8 (2.9–20.0)
+C: 6.7 (1.4–13.8)
+C: 10.1 (3.1–18.2)
+C: 11.3 (6.2–19.5)
+C: 4.0 (0.7–8.8)
+C: 8.7 (4.8–14.8)
+C: 15.3 (7.9–24.2)
+Sm: 11.0 (4.2–20.6)
+Sm: 16.7 (4.7–30.1)
+E: 32.6 (-2.0–55.2)
+C: 22.5 (11.4–35.6)
+E: 44.4 (25.7–67.4)
+C: 14.2 (6.1–22.9)
+C: 10.8 (3.6–19.4)
+Sm: 20.7 (12.8–31.4)
+Sh: 27.9 (4.5–47.4)
+C: 8.0 (1.4–17.4)
+Sh: 14.4 (0.4–35.3)
+Sm: 8.1 (0.6–16.1)
+
+C, Campylobacter; Sm, Salmonella; E, Escherichia coli O157; Sh, Shigella.
+
+Data on clean-up methods were only collected for people who prepared raw meat. The
+population attributable risk percentage (PAR%) represents the percentage of disease that
+would be prevented by changing clean-up methods among those who prepared raw meat
+in the household.
+b
+This categorical variable is presented as a dichotomized variable for PAR% calculation
+purposes. The risk represents comparison between the exposed group—those who
+washed with soap, rinsed, or wiped the surfaces vs. the reference—those who disinfected
+with bleach, washed in dishwasher, used a disposable surface, or placed raw meat in a
+cooking pan without allowing it to touch other preparation surfaces.
+
+
+
+shrimp prepared from raw states at home was a risk factor for
+Salmonella infection. Consumption of unpasteurized milk was
+associated with Campylobacter infection, however, the OR approached 1 when potentially confounding exposure variables
+(e.g., farm animal contact) were included in the model. Consumption of raw herbs, particularly cilantro, was a risk for
+Campylobacter infection (OR for cilantro, 5.3 [CI, 2.6 –10.9])
+and Shigella infection (OR for cilantro, 45.0 [CI, 7.9 –256.5]).
+Raw sprout consumption and simply having sprouts in the
+home without consumption were risk factors for Salmonella infection (OR, 7.7 [CI, 1.2– 47.7] and 3.2 [CI, 1.2– 8.1], respectively).
+Eating raw vegetables was associated with a lower risk of Salmonella infection. This association was seen among those who
+ate meat and poultry, as well as among those who consumed a
+vegetarian diet. Consumption of raw organic vegetables was also
+potentially protective, even when assessed only among those
+who consumed raw vegetables. However, among those who ate
+raw spinach or lettuce, consumption of these products from
+sealed retail bags was associated with Salmonella infection. E. coli
+O157 infection was not associated with any specific foods—including beef, ground or otherwise—prepared at commercial or
+home venues.
+Animals. The presence of farm animals, especially poultry,
+at home properties was significantly associated with Campylobacter infection (OR for poultry, 3.3 [CI, 1.3– 8.2]). Approximately half of the participants who had livestock on their property also had poultry and vice versa; this correlation precluded
+adjustment for these variables. Exposure to livestock and poultry
+away from the home property was not a risk among participants
+who did not live on property with such animals.
+Water and domestic waste system exposures. Drinking
+untreated water from a lake, stream, river, or garden hose was a
+risk for Campylobacter infection. Dishwasher use was inversely
+associated with E. coli O157 infection.
+Salmonella infection was associated with the use of a private
+well as a home drinking water source (OR, 6.5 [CI, 1.4 –29.7]).
+Furthermore, Salmonella and E. coli O157 infections were both
+associated with the use of a septic system for home wastewater
+disposal (OR, 3.2 [CI, 1.3–7.8] and 5.7 [CI, 1.2–27.2], respectively), though only 1 participant (a case patient) reported a
+known septic system failure.
+Recreational water activity. Aquatic recreation activities
+were associated with and contributed a high proportion of cases
+for each REI-B (table 6). For example, playing or swimming in
+natural sources of water (either fresh or saltwater) was strongly
+related to Campylobacter infection (OR, 3.4 [CI, 1.4 – 8.4];
+PAR%, 10.8% [CI, 3.6%–19.4%]), Salmonella infection (OR,
+28.3 [CI, 7.2–112.2]; PAR%, 20.7% [CI, 12.8%–31.4%]), and
+Shigella infection (OR, 14.5 [CI, 1.5–141.0]; PAR%, 27.9% [CI,
+4.5%– 47.4%]), but not E. coli O157 infection. However, recreational water exposure in general (e.g., playing in beach water, in
+
+a pool, and in backyard “kiddie” pools) was associated with a
+7-fold increased risk of E. coli O157 infection (PAR%, 44.4%
+[CI, 25.7%– 67.4%]).
+Breast-feeding, hygiene, and ill contacts. Illnesses were
+not associated with frequency of hand washing, exposure to individuals using diapers, the use of antibiotic soaps or alcoholbased gels, or day care attendance. A lack of association with day
+care attendance was also observed in various subanalyses that
+were restricted by age, size of child-care facilities, attendance of
+children in diapers, and informal and/or unlicensed places of
+care. A history of breast-feeding was associated with a 50% reduction in the odds of infection with Salmonella but the association was not statistically significant (data not shown; OR, 0.5
+[CI, 0.2–1.1]).
+Campylobacter and Shigella infections were associated with
+contact with another person who had had diarrhea, but without
+laboratory diagnosis of the REI-B. A separate sensitivity analysis
+that eliminated case patients and control subjects who had had
+such contacts from the model substantially reduced matched
+odds ratios and resulted in confidence intervals spanning 1.0 for
+all other exposure variables for Shigella (data not shown). No
+substantial changes in point estimates or confidence intervals
+resulted from the Campylobacter sensitivity analysis.
+DISCUSSION
+This study has various implications. Most notably, non-food
+transmission vehicles appeared to be as important as food exposures in the transmission of the enteric infections examined in
+this study.
+In particular, water used for recreational swimming or playing
+contributed a leading proportion of all REI-Bs. Although recreational water exposure has been implicated in many REI-B outbreaks [10, 25, 26] and beach water (without known contamination) has been identified as a risk for nonspecific diarrheal
+illnesses [27, 28], this is the first study to identify this association
+with sporadic microbiologically confirmed REI-Bs in the United
+States and the apparent magnitude of this association was surprisingly large. Most other studies of sporadic REI-Bs have not
+examined recreational water exposure, and those that did have
+not identified such associations [29, 30]. Swimming in beach
+water has been identified as a risk factor for enterohemorrhagic
+E. coli infection (including, but not specifically limited to, infection with E. coli O157) and Campylobacter infection in Germany
+and Finland, respectively [17, 18]. Recreational water exposure
+is a plausible and potentially important risk factor for infection
+and merits further investigation.
+We identified other non-food associations, some of which
+corroborate other studies and others that are novel associations
+in the context of sporadic infection. For example, the risk observed here of sporadic Campylobacter infection as a result of
+drinking untreated surface water is in agreement with other re-
+
+Risk Factors for Pediatric Enteric Infections
+
+●
+
+JID 2009:199 (15 February)
+
+●
+
+473
+
+
+
+ports [14 –16], but the use of private well water and the use of
+septic systems have not been previously reported to be associated
+with sporadic infection. Our data also refine previously reported
+associations. For example, animal exposure as a risk for Campylobacter infection in our study was limited to children who had
+animals at their residence. Attention has focused on pathogen
+transmission in public petting zoos [5, 9, 31–34], and recommendations to mitigate risk in these settings have been disseminated [35]. However, a different focus might be necessary for
+people living with such animals.
+Some food-related exposures warrant comment. Sprouts and
+cilantro, recognized transmission vehicles in outbreaks [7, 8,
+36 –38], were demonstrated to be associated with sporadic Salmonella and Campylobacter infection, respectively, but only cilantro contributed to disease burden. Suboptimal kitchen hygiene practices (i.e., not using bleach or dishwashers) after
+preparation of raw meat and poultry contributed an important
+proportion of Campylobacter infections, similar to recent findings from France [13]. Handling practices for raw poultry and
+the consumption of meat or poultry prepared from raw states at
+home also contributed to the incidence of Campylobacter infection.
+Eating foods from fast-food and table-service restaurants contributed especially to the incidence of Campylobacter and E. coli
+O157 infection (table 6), respectively, as has been previously
+reported [19, 30, 39]. Interestingly, the risk of Campylobacter
+and E. coli O157 infection associated with domestic travel did
+not appear to be related to eating food from commercial venues,
+as the risk was not modified by adjusting for any of the restaurant
+type exposures. Perhaps this risk relates to hygiene lapses during
+family travel.
+Our data also suggest a possible protective food association.
+Vegetable consumption in general was associated with lowered
+risk of Salmonella infection, an effect that has been reported for
+E. coli O157 [30, 40] and Campylobacter [16]. However, the association is complex; consuming fresh lettuce or spinach that
+came from sealed retail bags was associated with an increased
+risk of Salmonella infection among those who ate fresh lettuce or
+spinach. This hazard is exemplified by recent outbreaks of E. coli
+O157 infection and Salmonella infection caused by bagged, prewashed fresh produce in the United States and the United Kingdom, respectively [6, 12]. While contaminated produce is an
+important vehicle of transmission for enteric pathogens, other
+studies have also pointed out the overall benefit of a diet that
+includes vegetables. The mechanisms that mediate this effect appear to extend beyond the mere replacement of potentially riskier foods (e.g., those of animal origin) with vegetables, and may
+rather result from the benefits of a diet that is diverse and provides protective micronutrients [16, 30, 40].
+Interestingly, we did not find that chicken or egg consumption increased the risk for infection with Salmonella, despite reports of such associations with sporadic infection [41, 42]. It is
+474
+
+●
+
+JID 2009:199 (15 February)
+
+●
+
+Denno et al.
+
+possible that subgroups of Salmonella might have vehiclespecific risks that were not discernible because of limited numbers for each serotype and/or differences in prevalence of serotypes associated with such foods in our study area. Also, despite
+oft-cited associations between ground beef consumption and E.
+coli O157 infection [30, 40, 43, 44], our finding that there was no
+association is consistent with reports of reduced proportions of
+recent sporadic cases associated with ground beef exposure [30].
+This decline might be related to industry and consumer interventions subsequent to highly publicized outbreaks [45] and to
+regulatory changes.
+The lack of association between hand-washing practices and
+day care attendance and risk of infection was also unexpected.
+The possibility exists that these risk factors have been mitigated
+by regulations at child-care facilities and by education; however,
+further study is necessary to verify the absence of association.
+This study has several limitations. We relied on self-reported
+behaviors, which do not always reflect actual practices, particularly when the practices are suspected to be associated with infection; however, this limitation is inherent in interviewgarnered data. Despite efforts to minimize differences, different
+interviewers could have introduced biases. Findings from our
+tri-county study area might not be generalizable to broader populations. Despite our attempts to control for seasonal exposures
+by interviewing control subjects as soon as possible after case
+patients were identified, the interval between case patient and
+control subject interviews might have skewed results pertaining
+to season-dependent risks. However, a subanalysis limited only
+to case-control pairs who were interviewed ⬍2 months apart did
+not alter study findings (data not shown). The voluntary control
+subjects were not a probability sample of the study base. Sample
+sizes were insufficient to permit in-depth risk factor–pathogen
+associations, particularly for very common or uncommon exposures. Zip code matching might underestimate risks related to
+geography, such as drinking water supply, sanitation sources,
+and animal exposure. It is difficult to completely measure and
+therefore adjust for all SES characteristics that could confound
+associations. Associations with Shigella infection should be
+noted with caution, as we could not adjust for differences in
+Hispanic ethnicity between Shigella case patients and control
+subjects because of model convergence issues.
+Despite these limitations, our tri-county study of childhood
+REI-Bs adds important information about the epidemiology of
+sporadic REI-Bs, which are much more common than outbreakrelated cases. Similar studies have examined broader geographic
+and age distributions, but risks specific to more defined populations might have been obscured. Our data were also restricted to
+domestically acquired infection; many studies have previously
+documented the risk associated with foreign travel [2, 19, 46 –
+50]. These age, travel, and geographic eligibility boundaries
+likely explain differences between some of our point estimates,
+particularly PAR%, and those of other studies. The convergence
+
+
+
+of associations with data from other studies that involved populations more diverse in age and geographical location, such as
+FoodNet [19, 30, 39], a multistate sporadic REI-B study network, and a recent countrywide study in France [13] strengthen
+the validity of these findings. Associations corroborated in this
+study include the consumption of table-service restaurant food
+and infection with E. coli O157 and Campylobacter; and the association of chicken prepared at home, drinking untreated surface water, and poor kitchen hygiene with Campylobacter infection [13, 16, 19, 30, 39].
+In summary, this study of risks related to sporadic childhood
+REI-Bs provides a framework in which to consider interventions
+that might reduce REI-B incidence by weighing relative risks
+against frequencies of exposures via PAR% calculations. These
+data suggest that non-food exposures pose risks that are comparable in magnitude to those of food exposures. Moreover,
+kitchen hygiene may play as important a role as the actual consumption of specific foods. Interventions should focus on risks
+that, if confirmed, make a large contribution to disease incidence
+(i.e., those with high PAR%). In contrast, control of “high-risk”
+(and often high-profile) but low-prevalence exposures (e.g.,
+consumption of sprouts) might have relatively little overall benefit. Interventions focused on safe recreational water, enhanced
+access to municipal water and sanitation systems, food-handling
+education, and improved safety of food sold at fast-food and
+table-service restaurants might more effectively and rapidly reduce the incidence of domestically acquired REI-Bs.
+Acknowledgments
+We acknowledge the assistance of Eileen Klein with project management;
+Valerie Hoffman, Kelly Wood, Jody Mooney, and Mayra Perez for subject
+enrollment and/or data management; Mary Lou Shefsky for review and
+translation of study materials; Shelly McKeirnan, Siri Bliesner, Misha Williams, Chris Skilton, Marcus Grandjean, Sandra Randels, Perla Benitez, Allison Schletzbaum, Diana Castaneda, Teresa Marx, Gordon Kelly, Chris
+Spitters, Greg Stern, Paul Chudek, Molly Smith, Luis Flores, Amber Pearson,
+Tom Kunesh, Marcia Goldoft, Kathryn MacDonald, and Jo Hofmann for
+their review of study materials, input on study design, identification of case
+clusters, and/or interviewing of case patients; the Tri-County Practice Network for their assistance with control subject recruitment; case patients and
+control subjects and their families for kindly providing information relevant
+to this study; Noel Weiss for his advice and encouragement; Thomas
+Koepsell for his thoughtful review of our manuscript; and Elizabeth Wolf for
+manuscript preparation.
+
+References
+1. Mead PS, Slutsker L, Dietz V, et al. Food-related illness and death in the
+United States. Emerg Infect Dis 1999; 5:607–25.
+2. Evans AS, Brachman PS. Bacterial infections of humans: epidemiology
+and control. 3rd ed. New York: Springer, 1998.
+3. McNabb SJ, Jajosky RA, Hall-Baker PA, et al. Summary of notifiable
+diseases—United States, 2005. MMWR Morb Mortal Wkly Rep 2007;
+54:1–92.
+4. Samuel MC, Vugia DJ, Shallow S, et al. Epidemiology of sporadic
+Campylobacter infection in the United States and declining trend in incidence, FoodNet 1996 –1999. Clin Infect Dis 2004; 38(Suppl 3):S165–
+74.
+
+5. Outbreaks of Escherichia coli O157:H7 associated with petting zoos—
+North Carolina, Florida, and Arizona, 2004 and 2005. MMWR Morb
+Mortal Wkly Rep 2005; 54:1277– 80.
+6. Ongoing multistate outbreak of Escherichia coli serotype O157:H7 infections associated with consumption of fresh spinach—United States,
+September 2006. MMWR Morb Mortal Wkly Rep 2006; 55:1045– 6.
+7. Breuer T, Benkel DH, Shapiro RL, et al. A multistate outbreak of Escherichia coli O157:H7 infections linked to alfalfa sprouts grown from contaminated seeds. Emerg Infect Dis 2001; 7:977– 82.
+8. Campbell JV, Mohle-Boetani J, Reporter R, et al. An outbreak of Salmonella serotype Thompson associated with fresh cilantro. J Infect Dis
+2001; 183:984 –7.
+9. Crump JA, Sulka AC, Langer AJ, et al. An outbreak of Escherichia coli
+O157:H7 infections among visitors to a dairy farm. N Engl J Med 2002;
+347:555– 60.
+10. Keene WE, McAnulty JM, Hoesly FC, et al. A swimming-associated outbreak of hemorrhagic colitis caused by Escherichia coli O157:H7 and
+Shigella sonnei. N Engl J Med 1994; 331:579 – 84.
+11. Ostroff SM, Griffin PM, Tauxe RV, et al. A statewide outbreak of Escherichia coli O157:H7 infections in Washington State. Am J Epidemiol
+1990; 132:239 – 47.
+12. Sagoo SK, Little CL, Ward L, Gillespie IA, Mitchell RT. Microbiological
+study of ready-to-eat salad vegetables from retail establishments uncovers a national outbreak of salmonellosis. J Food Prot 2003; 66:403–9.
+13. Gallay A, Bousquet V, Siret V, et al. Risk factors for acquiring sporadic
+Campylobacter infection in France: results from a national case-control
+study. J Infect Dis 2008; 197:1477– 84.
+14. Adak GK, Cowden JM, Nicholas S, Evans HS. The Public Health Laboratory Service national case-control study of primary indigenous sporadic cases of Campylobacter infection. Epidemiol Infect 1995; 115:15–
+22.
+15. Hopkins RS, Olmsted R, Istre GR. Endemic Campylobacter jejuni infection in Colorado: identified risk factors. Am J Public Health 1984; 74:
+249 –50.
+16. Kapperud G, Espeland G, Wahl E, et al. Factors associated with increased
+and decreased risk of Campylobacter infection: a prospective casecontrol study in Norway. Am J Epidemiol 2003; 158:234 – 42.
+17. Schonberg-Norio D, Takkinen J, Hanninen ML, et al. Swimming and
+Campylobacter infections. Emerg Infect Dis 2004; 10:1474 –7.
+18. Werber D, Behnke SC, Fruth A, et al. Shiga toxin-producing Escherichia
+coli infection in Germany— different risk factors for different age
+groups. Am J Epidemiol 2007; 165:425–34.
+19. Friedman CR, Hoekstra RM, Samuel M, et al. Risk factors for sporadic
+Campylobacter infection in the United States: a case-control study in
+FoodNet sites. Clin Infect Dis 2004; 38(Suppl 3):S285–96.
+20. US Census Demographic Profiles, 2005.
+21. Red Book: 2003 report of the Committee on Infectious Diseases. 26th ed.
+Elk Grove Village: American Academy of Pediatrics, 2003.
+22. Chin J. Control of communicable diseases manual. 17th ed. Washington
+DC: American Public Health Association, 1998.
+23. Efron B, Tibshirani RJ. An introduction to the bootstrap. New York:
+Chapman and Hall, 1993.
+24. Benichou J. A review of adjusted estimators of attributable risk. Stat
+Methods Med Res 2001; 10:195–216.
+25. Samadpour M, Stewart J, Steingart K, et al. Laboratory investigation of
+an E. coli O157:H7 outbreak associated with swimming in Battle Ground
+Lake, Vancouver, Washington. J Environ Health 2002; 64:16 –20, 26, 25.
+26. Yoder JS, Blackburn BG, Craun GF, et al. Surveillance for waterbornedisease outbreaks associated with recreational water—United States,
+2001–2002. MMWR Surveill Summ 2004; 53:1–22.
+27. Bonilla TD, Nowosielski K, Cuvelier M, et al. Prevalence and distribution of fecal indicator organisms in South Florida beach sand and preliminary assessment of health effects associated with beach sand exposure. Mar Pollut Bull 2007; 54:1472– 82.
+28. Kay D, Fleisher JM, Salmon RL, et al. Predicting likelihood of gastroenteritis from sea bathing: results from randomised exposure. Lancet 1994;
+344:905–9.
+
+Risk Factors for Pediatric Enteric Infections
+
+●
+
+JID 2009:199 (15 February)
+
+●
+
+475
+
+
+
+29. Parry SM, Salmon RL, Willshaw GA, Cheasty T. Risk factors for and
+prevention of sporadic infections with vero cytotoxin (shiga toxin) producing Escherichia coli O157. Lancet 1998; 351:1019 –22.
+30. Voetsch AC, Kennedy MH, Keene WE, et al. Risk factors for sporadic
+Shiga toxin-producing Escherichia coli O157 infections in FoodNet sites,
+1999 –2000. Epidemiol Infect 2007;135: 993–1000.
+31. Outbreaks of Escherichia coli O157:H7 infections among children associated with farm visits—Pennsylvania and Washington, 2000. MMWR
+Morb Mortal Wkly Rep 2001; 50:293–7.
+32. Durso LM, Reynolds K, Bauer N Jr, Keen JE. Shiga-toxigenic Escherichia
+coli O157:H7 infections among livestock exhibitors and visitors at a
+Texas County Fair. Vector Borne Zoonotic Dis 2005; 5:193–201.
+33. Smith KE, Stenzel SA, Bender JB, et al. Outbreaks of enteric infections
+caused by multiple pathogens associated with calves at a farm day camp.
+Pediatr Infect Dis J 2004; 23:1098 –104.
+34. Outbreak of Escherichia coli O157:H7 and Campylobacter among attendees of the Washington County Fair—New York, 1999. MMWR Morb
+Mortal Wkly Rep 1999; 48:803–5.
+35. Compendium of measures to prevent disease associated with animals in
+public settings, 2007: National Association of State Public Health Veterinarians, Inc. (NASPHV). MMWR Recomm Rep 2007; 56(RR-5):1–
+14.
+36. Mahon BE, Ponka A, Hall WN, et al. An international outbreak of Salmonella infections caused by alfalfa sprouts grown from contaminated
+seeds. J Infect Dis 1997; 175:876 – 82.
+37. Mohle-Boetani JC, Farrar JA, Werner SB, et al. Escherichia coli O157 and
+Salmonella infections associated with sprouts in California, 1996 –1998.
+Ann Intern Med 2001; 135:239 – 47.
+38. Van Beneden CA, Keene WE, Strang RA, et al. Multinational outbreak of
+Salmonella enterica serotype Newport infections due to contaminated
+alfalfa sprouts. JAMA 1999; 281:158 – 62.
+39. Jones TF, Angulo FJ. Eating in restaurants: a risk factor for foodborne
+disease? Clin Infect Dis 2006; 43:1324 – 8.
+40. Kassenborg HD, Hedberg CW, Hoekstra M, et al. Farm visits and undercooked hamburgers as major risk factors for sporadic Escherichia coli
+
+476
+
+●
+
+JID 2009:199 (15 February)
+
+●
+
+Denno et al.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+47.
+
+48.
+
+49.
+
+50.
+
+O157:H7 infection: data from a case-control study in 5 FoodNet sites.
+Clin Infect Dis 2004; 38(Suppl 3):S271– 8.
+Hennessy TW, Cheng LH, Kassenborg H, et al. Egg consumption is the
+principal risk factor for sporadic Salmonella serotype Heidelberg infections: a case-control study in FoodNet sites. Clin Infect Dis 2004;
+38(Suppl 3):S237– 43.
+Kimura AC, Reddy V, Marcus R, et al. Chicken consumption is a newly
+identified risk factor for sporadic Salmonella enterica serotype Enteritidis infections in the United States: a case-control study in FoodNet sites.
+Clin Infect Dis 2004; 38(Suppl 3):S244 –52.
+Mead PS, Finelli L, Lambert-Fair MA, et al. Risk factors for sporadic
+infection with Escherichia coli O157:H7. Arch Intern Med 1997; 157:
+204 – 8.
+Slutsker L, Ries AA, Maloney K, Wells JG, Greene KD, Griffin PM. A
+nationwide case-control study of Escherichia coli O157:H7 infection in
+the United States. J Infect Dis 1998; 177:962– 6.
+Bell BP, Goldoft M, Griffin PM, et al. A multistate outbreak of Escherichia coli O157:H7-associated bloody diarrhea and hemolytic uremic
+syndrome from hamburgers: the Washington experience. JAMA 1994;
+272:1349 –53.
+Ethelberg S, Olesen B, Neimann J, et al. Risk factors for diarrhea among
+children in an industrialized country. Epidemiology 2006; 17:24 –30.
+Fullerton KE, Ingram LA, Jones TF, et al. Sporadic Campylobacter infection in infants: a population-based surveillance case-control study. Pediatr Infect Dis J 2007; 26:19 –24.
+Jones TF, Ingram LA, Fullerton KE, et al. A case-control study of the
+epidemiology of sporadic Salmonella infection in infants. Pediatrics
+2006; 118:2380 –7.
+Kassenborg HD, Smith KE, Vugia DJ, et al. Fluoroquinolone-resistant
+Campylobacter infections: eating poultry outside of the home and foreign travel are risk factors. Clin Infect Dis 2004; 38(Suppl 3):S279 – 84.
+Marcus R, Varma JK, Medus C, et al. Re-assessment of risk factors for
+sporadic Salmonella serotype Enteritidis infections: a case-control study
+in five FoodNet Sites, 2002–2003. Epidemiol Infect 2007; 135:84 –92.
+
+

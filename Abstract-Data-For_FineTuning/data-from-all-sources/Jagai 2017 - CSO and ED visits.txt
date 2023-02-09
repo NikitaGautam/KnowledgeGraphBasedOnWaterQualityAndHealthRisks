@@ -1,0 +1,844 @@
+Research
+
+A Section 508–conformant HTML version of this article
+is available at https://doi.org/10.1289/EHP2048.
+
+Sanitary Sewer Overflows and Emergency Room Visits for Gastrointestinal Illness:
+Analysis of Massachusetts Data, 2006–2007
+Jyotsna S. Jagai,1 Stephanie DeFlorio-Barker,2 Cynthia J. Lin,2 Elizabeth D. Hilborn,2 and Timothy J. Wade2
+1
+
+Division of Environmental and Occupational Health Sciences, School of Public Health, University of Illinois at Chicago, Chicago, Illinois, USA
+National Health and Environmental Effects Research Laboratory, Office of Research and Development, U.S. Environmental Protection Agency, Research
+Triangle Park, North Carolina, USA
+
+2
+
+BACKGROUND: Sanitary sewer overﬂows (SSOs) occur when untreated sewage is discharged into water sources before reaching the treatment facility,
+potentially contaminating the water source with gastrointestinal pathogens.
+OBJECTIVES: The objective of this paper is to assess associations between SSO events and rates of gastrointestinal (GI) illness in Massachusetts.
+METHODS: A case-crossover study design was used to investigate association between SSO events and emergency room (ER) visits with a primary diagnosis of gastrointestinal (GI) illness in Massachusetts for 2006–2007. ER visits for GI were considered exposed if an SSO event occurred in the
+county of residence within three hazard periods, 0–4 d, 5–9 d, or 10–14 d, before the visit. A time-stratiﬁed bidirectional design was used to select
+control days for each ER visit on the same day of the week during the same month. Fixed eﬀect logistic regression models were used to estimate the
+risk of ER visits following the SSO event.
+RESULTS: During the study period, there were 270 SSO events for northeastern Massachusetts and 66,460 ER admissions with GI illness listed as the
+primary diagnostic code. The overall odds ratio (OR) for ER visits for GI illness was 1.09 [95% conﬁdence interval (CI): 1.03, 1.16] in the 10–14 d
+period following an SSO event, with positive ORs for all age groups and for three of the four counties. The 0–4 d and 5–9 d periods following an
+SSO event were not associated with ER visits for GI illness overall, and associations by county or age were inconsistent.
+CONCLUSIONS: We demonstrated an association between SSO events and ER visits for GI illness using a case-crossover study design. In light of the
+aging water infrastructure in the United States and the expected increase in heavy rainfall events, our ﬁndings suggest a potential health impact associated with sewage overﬂows. https://doi.org/10.1289/EHP2048
+
+Introduction
+Water infrastructure in the United States is aging, and many,
+older cities in the United States have infrastructure that needs to
+be upgraded. The U.S. Environmental Protection Agency (EPA)
+estimates that the majority of the nation’s sewage collection
+infrastructure is between 30 and 100 y old, putting it at risk for
+leaks, blockages, and malfunctions due to deterioration (U.S.
+EPA 2000). This aging water infrastructure is vulnerable to
+changes in weather that are expected to occur with climate
+change (Patz et al. 2005, 2008). In particular, the expected
+changes in precipitation events and increases in heavy rainfall
+events can have negative impacts on water infrastructure. Heavy
+rainfall events can overwhelm these systems, causing untreated
+waters and sewage to be released into receiving waters. Two
+studies conducted in Massachusetts reported associations
+between ﬂood events and emergency room (ER) visits for gastrointestinal (GI) illness and speciﬁcally for outpatient visits associated with Clostridium diﬃcile infection (Lin et al. 2015; Wade
+et al. 2014). Other studies focusing on speciﬁc infrastructure concerns have demonstrated that combined sewer overﬂow (CSO)
+events may be associated with increased GI illness. A study in
+Massachusetts found that CSO releases into drinking water sources were associated with higher rates of ER visits for GI illness
+Address correspondence to J.S. Jagai, Division of Environmental and
+Occupational Health Sciences, School of Public Health, University of Illinois
+at Chicago, 2121 W. Taylor St. Chicago, Illinois 60612. Telephone: 312-4139375. Email: jjagai2@uic.edu
+Supplemental Material is available online (https://doi.org/10.1289/EHP2048).
+The authors declare they have no actual or potential competing ﬁnancial
+interests.
+Received 13 April 2017; Revised 20 October 2017; Accepted 24 October
+2017; Published 28 November 2017.
+Note to readers with disabilities: EHP strives to ensure that all journal
+content is accessible to all readers. However, some ﬁgures and Supplemental
+Material published in EHP articles may not conform to 508 standards due to
+the complexity of the information being presented. If you need assistance
+accessing journal content, please contact ehponline@niehs.nih.gov. Our staﬀ
+will work with you to assess and meet your accessibility needs within
+3 working days.
+
+Environmental Health Perspectives
+
+following heavy rainfall events (Jagai et al. 2015). Another study,
+conducted in New Jersey, estimated the probability of acquiring
+GI illness from accidental ingestion of water contaminated by
+CSO outfalls was 0.70 over the course of a year for people who
+recreated in the aﬀected waters (Donovan et al. 2008).
+Sanitary sewer systems, which, unlike combined sewer systems, have separate networks for sewage and storm water, are
+still vulnerable to excess precipitation. According to the U.S.
+EPA, there are approximately 19,500 sewer systems nationwide
+designed to handle an average daily ﬂow of roughly 50 billion
+gallons of raw sewage (U.S. EPA 2000). Sanitary sewer overﬂows (SSOs) occur when untreated sewage is discharged into the
+environment from the sanitary sewer system before reaching sewage treatment facilities; they are more likely to occur as a result
+of aging water infrastructure (U.S. EPA 2016a). SSOs can occur
+for a variety of reasons, including, but not limited to, severe
+weather, blockages and breaks in the sewer lines, improper system operation and maintenance, and vandalism (U.S. EPA
+2016a). These events are a concern because raw sewage containing pathogens is discharged directly into the environment. The
+magnitude of SSO events can vary greatly, ranging from small
+events aﬀecting just one household, such as basement ﬂooding,
+to events aﬀecting several street blocks. The potential for exposure can, therefore, range from a few people having direct contact
+with raw sewage (in the smaller events) to directly aﬀecting
+drinking water and recreational water sources (in the larger
+events). Currently, the U.S. EPA estimates that 23,000–75,000
+SSO events, not including those that back up into individual
+buildings (i.e., into basements), occur each year (U.S. EPA
+2016a). In 1995, the U.S. EPA identiﬁed 1,103 large (i.e., those
+producing more than 10 million gallons of wastewater) sanitary
+sewer systems with untreated sewage overﬂows that required corrective action by the end of 2016. Regulatory action includes
+assessment and, where appropriate, a civil judicial complaint, an
+enforceable federal or state enforcement order, or permit requirements met (appropriate permits obtained) that address the noncompliance. At the end of 2015, 914 systems had complied with
+required corrective action, and 83 had initiated enforcement
+actions (U.S. EPA 2016b).
+
+117007-1
+
+
+
+SSO reporting requirements vary from state to state. Several
+states, including California, Texas, and Massachusetts, have
+passed laws mandating the reporting of SSOs, whereas events are
+underreported in other states (U.S. EPA 2000). Based on a sample of news reports from 2000, there were at least 59 SSO events
+in 18 states that resulted in the release of an estimated 1.2 billion
+gallons of sewage (U.S. EPA 2000). Of those reported, the most
+signiﬁcant was a release into Florida’s Indian River of approximately 72 million gallons of raw sewage that resulted in drinking
+water advisories and beach closures throughout most of the state
+(U.S. EPA 2000).
+These SSO events can contaminate water sources with pathogenic microorganisms associated with untreated sewage, including protozoa (e.g., Cryptosporidium sp.), viruses (e.g., norovirus,
+adenovirus), and bacteria (e.g., Salmonella sp.) (Donovan et al.
+2008; Gerba 2000; Levin et al. 2002; Marsalek and Rochfort
+2004). Infection with these pathogens can cause gastroenteritis
+(i.e., diarrhea, nausea, or vomiting) and upper respiratory infections. When SSO events contaminate public places and waters,
+people can be at risk of exposure to the untreated sewage when
+recreating in open waters, drinking from a contaminated water
+supply, coming in contact with contaminated ﬂood waters, or eating contaminated ﬁsh or shellﬁsh. In September 2000, residents
+of Springﬁeld, Missouri, and neighboring communities were
+issued drinking-water alerts after a million-gallon SSO event into
+Goodwin Hollow Creek, an underground stream that fed several
+springs and that was the source for private water wells (U.S. EPA
+2000).
+To our knowledge, no studies have quantiﬁed the health risk
+associated with SSO events in the United States. The goal of this
+study was to estimate associations between SSO events and gastrointestinal illness in Massachusetts. We used data on SSO
+events for 2006–2007 from the eastern region of Massachusetts
+and emergency room (ER) visits for GI illnesses to estimate
+associations. The aims were to determine if there was a positive association between SSO events and ER visits for GI illness and to evaluate potential variation among subpopulations
+and geographic areas.
+
+Methods
+Emergency Room Visits
+ER visits for gastrointestinal illness were collected from the State of
+Massachusetts Division of Health Care Finance and Policy,
+Executive Oﬃce of Health and Human Services (http://www.
+chiamass.gov/), from 1 January 2006 to 31 December 2007, as
+described previously (Lin et al. 2015; Wade et al. 2014; Jagai et al.
+2015). Patient-level information available in the Massachusetts ER
+database included town and residential zip code, age, gender, primary diagnosis code, and ﬁve associated secondary diagnosis codes.
+The diagnoses were coded according to the International
+Classiﬁcation of Diseases, Ninth Revision, Clinical Modiﬁcation
+(ICD-9-CM; Centers for Disease Control and Prevention 2013).
+Visits to the ER for GI illness were restricted to those with a primary diagnosis of ICD9-CM 001-009, 558.9, 787, 787.0, 787.4,
+787.9, or 787.91. This list includes bacterial, viral, and protozoal
+pathogens that have incubation periods ranging from <1 d to 14 d.
+We excluded a priori ER visits with a diagnosis of Clostridium difﬁcile (008.45) because it is primarily considered a hospital-acquired
+infection (Lin et al. 2015; Wade et al. 2014; Bouza 2012). In addition, annual rates of ER visits for GI illness were calculated for all
+locations and by county per 1,000 population using county-level
+intercensal population estimates for the years 2006 and 2007
+(U.S. Census Bureau 2011). Average annual rates for the two years
+were also calculated.
+Environmental Health Perspectives
+
+The ER data obtained did not contain any personally identifying
+information and was collected by the state of Massachusetts for
+administrative purposes. Therefore, informed consent was not necessary, and the use of administrative data was determined to be
+exempt from Institutional Review Board review (Wade et al. 2014).
+
+Sanitary Sewer Overflows
+Information on sanitary sewer overﬂow (SSO) events was
+obtained from the Massachusetts Department of Environmental
+Protection (https://www.mass.gov/orgs/massachusetts-departmentof-environmental-protection). The state of Massachusetts requires
+all SSO events to be reported immediately by wastewater facility
+operators via telephone, email, or both, and a written report is to
+be submitted within 5 d. This database includes information such
+as the date and location (town and county) of the SSO event.
+The main cause of the SSO (e.g., heavy rainfall, infrastructure
+failure) was also documented. Complete SSO event data were
+only available for four counties in the northeastern region of
+Massachusetts: Essex, Middlesex, Norfolk, and Suﬀolk. SSO
+events occurring between 1 December 2005 and 31 January
+2008 were included in the analysis (Figure 1). Data for previous
+years were not available in electronic format and therefore were
+not accessible for this analysis.
+
+Statistical Analyses
+In this analysis, we used a case-crossover approach to evaluate
+the association between SSO events and ER visits due to GI illness stratiﬁed by either county (the four counties with available
+SSO data: Essex, Middlesex, Norfolk, and Suﬀolk) or by age category. Age categories included <5 y of age, 6–19 y of age,
+20–64 y of age, and >65 y of age. A case-crossover design is
+useful when an exposure is transient, such as an SSO event. The
+study is self-matched, with each case serving as its own control.
+In the case-crossover design, cases serve as their own controls at
+a diﬀerent time period before or after the disease event.
+Occurrence of the exposure during a predeﬁned hazard period
+(the time interval before the event when the exposure is
+believed to cause the event) is compared by case and control
+status (Maclure 1991; Maclure and Mittleman 2000). For our
+analysis, cases are dates of ER visits for GI illness, and controls
+are dates selected before and/or after the case date. Individual
+characteristics, such as gender, race, and comorbid conditions,
+do not need to be controlled for in the analysis because the study
+design itself accounts for these variants in the population (Wade
+et al. 2014; Maclure 1991; Maclure and Mittleman 2000). It was
+hypothesized that GI illness could have occurred 0–14 d following an SSO event, representing the lag between sewage discharge and exposure and symptoms (incubation period) (Lin
+et al. 2015; Wade et al. 2014; Jagai et al. 2015). We divided
+
+Figure 1. Number of sanitary sewer overﬂow (SSO) events in eastern
+Massachusetts by county, 2006–2007. Data from the Massachusetts Department
+of Environmental Protection.
+
+117007-2
+
+
+
+Environmental Health Perspectives
+
+91,946
+92,840
+434
+535
+
+393,530
+395,859
+2,136
+2,420
+
+129,530
+129,814
+1,532
+762
+
+1,294
+1,265
+
+38,415
+38,069
+
+7.08
+7.60
+7.34
+33.68
+33.23
+33.46
+5.88
+5.93
+5.91
+5.43
+6.11
+5.77
+4.72
+5.76
+5.24
+653,421
+656,582
+4,626
+4,990
+
+72,040
+72,407
+98,881
+99,827
+733
+890
+
+434,973
+436,740
+3,511
+3,898
+
+151,353
+150,329
+2,473
+1,188
+
+44,248
+43,768
+2,245
+2,614
+
+186,489
+188,135
+1,132
+1,161
+
+909,768
+915,033
+5,982
+5,895
+
+275,544
+275,776
+3,053
+1,567
+
+84,727
+84,162
+2,997
+3,135
+167,408
+166,428
+
+547,071
+546,399
+
+1,801,286
+1,813,942
+
+357,410
+360,369
+
+9,187
+10,077
+
+9,654
+4,742
+
+15,262
+16,389
+
+2,750
+3,141
+
+Note: ER, emergency room.
+a
+International Classification of Diseases, Ninth Revision, Clinical Modification (ICD9-CM): 001-009, 558.9, 787, 787.0, 787.4, 787.9, or 787.91.
+b
+County-level intercensal population estimates.
+c
+Per 1,000 population.
+
+451
+555
+
+456,545
+462,169
+3,633
+4,176
+
+120,174
+120,294
+2,596
+1,225
+
+2,651
+3,063
+
+38,433
+38,498
+
+11.58
+13.22
+12.40
+68.98
+79.56
+74.27
+10.19
+11.40
+10.80
+7.96
+9.04
+8.50
+6.26
+7.67
+6.96
+687,192
+693,368
+7,960
+9,165
+
+10.52
+11.89
+11.21
+50.74
+59.72
+55.23
+7.85
+8.55
+8.20
+8.07
+8.93
+8.50
+7.41
+8.92
+8.16
+729,455
+730,664
+7,677
+8,687
+
+8.02
+7.98
+8.00
+35.37
+37.25
+36.31
+5.69
+5.39
+5.54
+6.58
+6.44
+6.51
+6.07
+6.17
+6.12
+1,456,528
+1,463,106
+11,678
+11,677
+2,873,175
+2,887,138
+31,941
+34,519
+
+2006
+2007
+Average
+2006
+2007
+Average
+2006
+2007
+Average
+2006
+2007
+Average
+2006
+2007
+Average
+
+11.12
+11.96
+11.54
+54.88
+60.55
+57.71
+8.67
+8.99
+8.83
+8.47
+9.04
+8.75
+7.69
+8.72
+8.21
+
+Populationb
+Populationb
+Populationb
+Populationb
+Annual
+ratec
+
+No. ER
+visitsa
+
+Middlesex
+
+Annual
+ratec
+
+No. ER
+visitsa
+
+Essex
+
+Annual
+ratec
+
+No. ER
+visitsa
+
+Suffolk
+
+Annual
+ratec
+
+No. ER
+visitsa
+
+Norfolk
+
+Annual
+ratec
+
+117007-3
+
+Populationb
+
+From 1 December 2005 to 31 January 2008, 270 SSO events
+were recorded by the Massachusetts Department of Environmental
+Protection for the northeastern region of Massachusetts. SSO events
+were the most frequent in Middlesex (n = 169) and Essex (n = 71)
+Counties (Table 1). During the study period, there were 66,460 ER
+admissions with GI illness listed as the primary diagnostic code, representing a rate of 9.4 per 1,000 population. Overall, the highest
+counts of ER admissions for GI illness were in Middlesex
+(n = 23,355) and Suﬀolk (n = 17,125) Counties, representing average annual rates of 8.0 and 12.4 per 1,000 population, respectively.
+
+All counties
+
+Results
+
+No. ER
+visitsa
+
+Because it is hypothesized that severe rain events are expected
+to increase in the future (U.S. EPA 2014), thus contributing to
+potentially more SSO events, we subset the data and reran the
+analyses using only SSO events caused by heavy rainfall. We
+also considered a less-restricted deﬁnition of a GI-illness ER
+visit. Rather than only considering cases with a primary diagnosis
+of GI illness (see above, “Emergency Room Visits”), we
+expanded the deﬁnition to include at least the primary diagnosis
+or any of the ﬁve associated secondary diagnostic codes available
+in the Massachusetts ER database (http://www.chiamass.gov/).
+All data were analyzed using Stata v.13 (StataCorp LLC),
+and conditional logistic regression was performed using the
+xtlogit command. Graphics were created using R version 3.1.2
+(R Project for Statistical Computing) using the ggplot2 package
+(Wickham 2009).
+
+Time
+period
+
+Sensitivity Analyses
+
+Table 1. Sanitary sewer overflow events and emergency room visits for gastrointestinal illness in northeastern Massachusetts, overall and by county, for 2006 and 2007, primary diagnosis only.
+
+this time window into three mutually exclusive categories: 0–4
+d, 5–9 d, and 10–14 d. We hypothesized that ER visits occurring
+shortly after the SSO event (0–4 d) would most likely be due to
+direct contact with the raw sewage, whereas ER visits farther
+away in time from the SSO event (5–9 d and 10–14 d) would
+most likely be associated with indirect exposure resulting from
+drinking from a sewage-contaminated supply following the overﬂow
+event.
+ER visits occurring outside of Essex, Middlesex, Norfolk,
+and Suﬀolk Counties in Massachusetts were excluded. In this
+analysis, we used a time-stratiﬁed referent selection process
+(Wade et al. 2014), which is subject to very little bias due to
+seasonal variation or other time trends (Janes et al. 2005). To
+choose controls, the entire study period (1 December 2005–
+31 January 2008) was divided into 26 total months. Control
+dates were selected two weeks before and/or two weeks after
+the case ER admission date. Depending on when the admission
+date occurred, each case date had one or two control dates
+within the same month. In addition, control dates were matched
+by day of the week to account for any variability in care-seeking
+behavior based on the day of the week. Exposure to an SSO
+event was determined if the case ER admission date or if the
+control date(s) was within 0–4 d, 5–9 d, or 10–14 d following
+an SSO event. SSO events from the last month in 2005
+(December) and the ﬁrst month in 2008 (January) were included
+in the analysis to assign exposure associated with case and/or
+control hazard periods corresponding to ER visits in early 2006
+and late 2007. In addition, we addressed seasonal factors such
+as temperature and seasonal variations in gastrointestinal illness
+by matching cases and controls within a narrow time frame
+(1 mo).
+The data were analyzed using a ﬁxed eﬀect conditional
+logistic model (Lin et al. 2015; Wade et al. 2014). Separate conditional models for each county and by age category were run,
+and the results were qualitatively assessed for marked diﬀerences by county and by age group.
+
+
+
+The highest average annual rates were seen in the youngest age category of 0–5 y, with 74.3 and 55.2 per 1,000 population in Suﬀolk
+and Essex Counties, respectively.
+The combined odds ratios (ORs) for ER visits for GI illness
+were 0.97 (95% CI: 0.91, 1.03) and 1.01 (95% CI: 0.95, 1.07) in
+the 0–4 and 5–9 d periods following an SSO event, respectively
+(Figure 2). However, in the 10–14 d following an SSO event,
+there was evidence of increased ER visits for GI illness, with a
+combined OR = 1:09 (95% CI: 1.03, 1.16). Considering countystratiﬁed results, the 0–4 d hazard period following an SSO event
+showed consistently negative, though insigniﬁcant, odds ratios,
+whereas the results were highly variable for the 5–9 d period following an SSO event. The odd ratios for the 10–14 d hazard period after an SSO event were generally increased, with the
+strongest associations observed in Suﬀolk County (Figure 2). The
+results also varied by age category (Figure 3). The 0–4 d hazard
+period following an SSO event showed consistently negative,
+though insigniﬁcant, odds ratios for all age groups. The 5–9 d
+hazard period showed inverse associations for the younger age
+categories and increased odd ratios for the 20–64 y and >65 y
+age categories. The strongest associations were again observed in
+the 10–14 d hazard period following an SSO event for all age
+groups, and the strongest association was observed in those
+between 6 and 19 y of age, although the association was imprecise and had a large conﬁdence interval (Figure 3).
+For sensitivity analyses, we considered ER visits for which
+GI illness was the primary diagnosis or for which any of 5 associated secondary diagnosis codes included GI illness (see Table
+S1). The number of admissions increased to 104,322; however,
+the patterns of association were similar. The combined odds
+ratios for ER visits for GI illness were 0.97 (95% CI: 0.92, 1.01)
+and 1.02 (95% CI: 0.97, 1.07) in the 0–4 and 5–9 d periods following an SSO event, respectively (see Figure S1). The strongest
+
+associations were seen in the 10–14 d hazard period when considering all counties [OR = 1:05 (95% CI: 1.00, 1.11)] and again
+in Suﬀolk County [OR = 1:15 (95% CI: 1.06, 1.24)] speciﬁcally
+(see Figure S1). Similar to the primary diagnosis–only analysis,
+the associations were slightly elevated in those 6–19 y old
+[OR = 1:15 (95% CI: 1.00, 1.34)] (see Figure S2). In the analysis
+of SSOs driven by heavy rainfall only, which included a total of
+131 events, the 0–4 and 5–9 d periods following an SSO event
+showed inverse associations: OR = 0:92 (95% CI: 0.85, 0.99) and
+OR = 0:86 (95% CI: 0.80, 0.93), respectively (results not shown).
+However, there was a positive association in the 10–14 d hazard
+period following an SSO event for all counties [OR = 1:04 (95%
+CI: 0.96, 1.12)], but the association was attenuated compared
+with all SSO events (results not shown).
+
+Discussion
+In the four eastern Massachusetts counties included in our analysis, an ER visit for GI illness was more likely 10–14 d after a sanitary sewer overﬂow event than 10–14 d after a day without an
+SSO event. In contrast, ER visits for GI illness did not appear to
+be associated with SSO events 0–4 d or 5–9 d before the ER visit.
+Our ﬁndings suggest that SSO events may be associated with ER
+visits for GI illness. SSO events could introduce pathogenic
+microorganisms that cause gastrointestinal illness into the environment, where people may come into contact with them through
+drinking water, recreational water, contaminated soil, or other
+transmission routes. Previous studies have suggested that overﬂow events can contaminate water sources because they contain
+fecal matter and pathogens, which can contaminate water supplies, soil, and other environments with pathogens that cause gastrointestinal illness (Donovan et al. 2008; Gerba 2000; Levin
+et al. 2002; Marsalek and Rochfort 2004). However, our study is
+
+Figure 2. Odds ratios and 95% conﬁdence intervals calculated using a conditional logistic regression model for a time-stratiﬁed case-crossover analysis for
+emergency room visits with primary diagnosis of gastrointestinal illness [International Classiﬁcation of Diseases, Ninth Revision, Clinical Modiﬁcation (ICD9CM): 001-009, 558.9, 787, 787.0, 787.4, 787.9, or 787.91] in the 0–4 d, 5–9 d, and 10–14 d period following a sanitary sewer overﬂow (SSO) event for all
+counties and by county, 2006–2007.
+
+Environmental Health Perspectives
+
+117007-4
+
+
+
+Figure 3. Odds ratios and 95% conﬁdence intervals calculated using a conditional logistic regression model for a time-stratiﬁed case-crossover analysis for
+emergency room visits with primary diagnosis of gastrointestinal illness [International Classiﬁcation of Diseases, Ninth Revision, Clinical Modiﬁcation (ICD9CM): 001-009, 558.9, 787, 787.0, 787.4, 787.9, or 787.91] in the 0–4 d, 5–9 d, and 10–14 d period following a sanitary sewer overﬂow event for all ages and
+by age category, 2006–2007.
+
+the ﬁrst that we know of to demonstrate an association between
+SSO events and GI illness.
+Although the impact of SSO events on health outcomes has
+not been previously studied, there have been a few studies that
+have considered the impact of combined sewer overﬂows (CSOs)
+on enteric infections in humans. A study in Massachusetts found
+that areas with CSOs discharging to drinking-water sources had
+higher rates of ER visits for GI illness following heavy rainfall
+events (Jagai et al. 2015). Using a human health risk assessment
+methodology, another study estimated that the probability of
+acquiring GI illness from incidental ingestion of water contaminated by CSO outfalls was 70% over the course of a year for
+those who recreated in the contaminated waters (Donovan
+et al. 2008). Two Wisconsin studies of pediatric ER visits for
+diarrheal illness reported an increase following sewage bypass
+events for those whose drinking-water supply was sourced
+from Lake Michigan (Drayna et al. 2010; Redman et al. 2007).
+Although SSO events are generally smaller than CSO events in
+terms of volume discharged, they are nevertheless a signiﬁcant
+concern because they are not regulated in the same way as
+CSO events. Combined sewer overﬂow systems are permitted
+through the U.S. EPA National Pollutant Discharge Elimination
+System (NPDES) because overﬂows are expected, and all overﬂow events are to be reported through this system. However,
+laws for reporting SSO events vary from state to state,
+and many states do not have any reporting requirements. In
+Massachusetts, the reporting of SSO events is required; therefore, we believe the database to be complete. Although the data
+on the volume of the overﬂow may be estimated, the date and
+location of the SSO event, which were used in our analysis, are
+accurate.
+One advantage of our study is the use of the case-crossover
+design, which controls for nonvarying individual factors (i.e., sex
+and race). This study design also controls for factors that are
+Environmental Health Perspectives
+
+not likely to vary over the 28 d between the case and referent
+periods (i.e., age, comorbid conditions, and other factors). In
+addition, this study design is advantageous because time trends
+and day-to-day variations in behavior (e.g., people are less
+likely to go to the ER on weekends) are also controlled for
+through time stratiﬁcation and matching by day of the week.
+Because we did not have access to personally identifying information, we could not rule out the possibility that some individuals may have visited the ER for GI illness on multiple
+occasions. Although we expect multiple visits by the same individual to be rare, this is a limitation that could aﬀect our estimates in a direction that is diﬃcult to predict.
+Although the association estimated in our study (OR = 1:09
+at 10–14 d) is small in magnitude, it suggests a potential preventable large public health impact at the population level. The
+use of ER data is a limitation of this study because it is inﬂuenced by factors such as access to emergency care facilities
+and the severity of the illness. Moreover, the majority of GI illnesses do not result in ER visits (Craun et al. 2010; Schuster
+et al. 2005; Yoder et al. 2008), and those that do result in ER
+visits may not be representative of the broader occurrence of
+GI illness in the population.
+The association between increased ER visits and SSO events
+was only observed in the 10–14 d period following the SSO
+event. This may be due to delayed exposure to pathogens in the
+environment (e.g., in contaminated ﬂood waters), illness caused
+by pathogens with longer incubation periods (such as protozoa),
+a delay in the time from the onset of illness to an ER visit, or a
+combination of these factors. Previous studies of drinking water
+turbidity and GI illness have concluded that lag structures with a
+mean of 7–8 d were the most appropriate for the estimation of
+lagged eﬀects (Egorov et al. 2003; Naumova and Macneill 2008).
+In the 10–14 d period following an SSO event, associations
+were elevated for each age group, and although estimates were
+
+117007-5
+
+
+
+slightly stronger in the 6–19 y age group, the 95% conﬁdence
+bounds overlapped considerably with the estimates for the
+other age groups.
+We observed variations in associations between SSO events
+and ER visits for GI illness across the counties considered, with
+the strongest associations occurring in Suﬀolk County. The counties we considered in our analysis diﬀered in several ways that
+could aﬀect the association between SSO events and ER visits
+for GI illness, including service provider, age and maintenance of
+infrastructure, size of population, and size of county. Diﬀerences
+in risk factors for GI infections among counties, such as
+drinking-water source (ground, surface, or mixed) and septic tank
+density, may contribute to diﬀerences in associations between
+SSO events and ER visits among counties (Cohen et al. 2008;
+Naumova et al. 2000). Diﬀerences in these factors among counties may explain the variation in the associations between SSO
+events and ER visits for GI illness we demonstrate by county.
+Future work on the health impact of SSO events should include
+outpatient visits for GI illness and should also consider variations
+in the communities, the severity of the SSO event, and the potential pathway of exposure.
+With climate change, it is predicted that extreme rainfall
+events will increase, thereby increasing the possibility of SSO
+events. It is estimated that single-day heavy rainfall events are
+expected to increase, particularity in the northeastern United
+States (U.S. EPA 2014; Spierre and Wake 2010). The increase in
+intensity of precipitation events will likely cause more SSO
+events because the infrastructure is not designed to handle large
+volumes of water. Our study provides evidence that SSO events
+may be associated with increased risk of ER visits for gastrointestinal illness. Our ﬁndings are the ﬁrst that we know of to demonstrate this association and require conﬁrmation; however,
+they support the need for additional research to evaluate potential health impacts of SSOs and to determine appropriate public
+health responses.
+
+Conclusion
+We observed an association between SSO events and emergency
+room visits for GI illness. The overall OR for ER visits for GI illness was 1.09 (95% CI: 1.03, 1.16) in the 10–14 d period following an SSO event. In light of the aging water infrastructure in the
+United States and the expected increase in heavy rainfall events,
+our ﬁndings suggest a potential health impact associated with
+sewage overﬂows and a need for increased study of the health
+impacts of sewer overﬂow events.
+
+Acknowledgments
+The authors would like to thank K. Brander (Massachusetts
+Department of Environmental Protection) for providing the data
+on sanitary sewer overﬂows used in this study.
+The views expressed in this manuscript are those of the
+individual authors and do not necessarily reﬂect the views and
+policies of the U.S. Environmental Protection Agency or the
+Massachusetts Division of Health Care Finance and Policy.
+Mention of trade names or commercial products does not
+constitute endorsement or recommendation for use.
+
+References
+Bouza E. 2012. Consequences of Clostridium difficile infection: understanding the
+healthcare burden. Clin Microbiol Infect 18 (suppl 6):5–12, PMID: 23121549,
+https://doi.org/10.1111/1469-0691.12064.
+Centers for Disease Control and Prevention. 2013. International Classification of
+Diseases, Ninth Revision, Clinical Modification (ICD-9-CM). http://www.cdc.
+gov/nchs/icd/icd9cm.htm [accessed 1 June 2014].
+
+Environmental Health Perspectives
+
+Cohen SA, Egorov AI, Jagai JS, Matyas BT, DeMaria A Jr., Chui KK, et al. 2008.
+The SEEDs of two gastrointestinal diseases: socioeconomic, environmental, and demographic factors related to cryptosporidiosis and giardiasis in Massachusetts. Environ
+Res 108(2):185–191, PMID: 18706542, https://doi.org/10.1016/j.envres.2008.06.009.
+Craun GF, Brunkard JM, Yoder JS, Roberts VA, Carpenter J, Wade T, et al. 2010.
+Causes of outbreaks associated with drinking water in the United States from
+1971 to 2006. Clin Microbiol Rev 23(3):507–528, PMID: 20610821, https://doi.org/
+10.1128/CMR.00077-09.
+Donovan E, Unice K, Roberts JD, Harris M, Finley B. 2008. Risk of gastrointestinal disease associated with exposure to pathogens in the water of the Lower Passaic
+River. Appl Environ Microbiol 74(4):994–1003, PMID: 18156342, https://doi.org/10.1128/
+AEM.00601-07.
+Drayna P, McLellan SL, Simpson P, Li SH, Gorelick MH. 2010. Association between
+rainfall and pediatric emergency department visits for acute gastrointestinal illness. Environ Health Perspect 118(10):1439–1443, PMID: 20515725, https://doi.org/
+10.1289/ehp.0901671.
+Egorov AI, Naumova EN, Tereschenko AA, Kislitsin VA, Ford TE. 2003. Daily variations in effluent water turbidity and diarrhoeal illness in a Russian city. Int
+J Environ Health Res 13(1):81–94, PMID: 12745350, https://doi.org/10.1080/
+0960312021000071567.
+Gerba CP. 2000. Domestic Waste and Waste Treatment. In: Environmental
+Microbiology. Maier RM, Pepper IL, Gerba CP, eds. San Diego, CA:
+Academic Press, 491–503.
+Jagai JS, Li Q, Wang S, Messier KP, Wade TJ, Hilborn ED. 2015. Extreme precipitation and emergency room visits for gastrointestinal illness in areas with and
+without combined sewer systems: an analysis of Massachusetts data, 2003–
+2007. Environ Health Perspect 123(9):873–879, PMID: 25855939, https://doi.org/
+10.1289/ehp.1408971.
+Janes H, Sheppard L, Lumley T. 2005. Overlap bias in the case-crossover design,
+with application to air pollution exposures. Stat Med 24(2):285–300, PMID:
+15546133, https://doi.org/10.1002/sim.1889.
+Levin RB, Epstein PR, Ford TE, Harrington W, Olson E, Reichard EG. 2002. U.S. drinking
+water challenges in the twenty-first century. Environ Health Perspect 110
+(suppl 1):43–52, PMID: 11834462, https://doi.org/10.1289/ehp.02110s143.
+Lin CJ, Wade TJ, Hilborn ED. 2015. Flooding and Clostridium difficile infection: A
+case-crossover analysis. Int J Environ Res Public Health 12(6):6948–6964,
+PMID: 26090609, https://doi.org/10.3390/ijerph120606948.
+Maclure M. 1991. The case-crossover design: a method for studying transient
+effects on the risk of acute events. Am J Epidemiol 133(2):144–153, PMID:
+1985444, https://doi.org/10.1093/oxfordjournals.aje.a115853.
+Maclure M, Mittleman MA. 2000. Should we use a case-crossover design? Annu
+Rev Public Health 21:193–221, PMID: 10884952, https://doi.org/10.1146/annurev.
+publhealth.21.1.193.
+Marsalek J, Rochfort Q. 2004. Urban wet-weather flows: sources of fecal contamination impacting on recreational waters and threatening drinking-water sources. J Toxicol Environ Health, Part A 67(20–22):1765–1777, PMID: 15371215,
+https://doi.org/10.1080/15287390490492430.
+Naumova EN, Chen JT, Griffiths JK, Matyas BT, Estes-Smargiassi SA, Morris RD.
+2000. Use of passive surveillance data to study temporal and spatial variation
+in the incidence of giardiasis and cryptosporidiosis. Public Health Rep
+115(5):436–447, PMID: 11236016.
+Naumova EN, Macneill IB. 2008. Time-distributed effect of exposure and infectious
+outbreaks. Environmetrics 20(3):235–248, PMID: 19881890, https://doi.org/10.
+1002/env.923.
+Patz JA, Campbell-Lendrum D, Holloway T, Foley JA. 2005. Impact of regional climate change on human health. Nature 438(7066):310–317, PMID: 16292302,
+https://doi.org/10.1038/nature04188.
+Patz JA, Vavrus SJ, Uejio CK, McLellan SL. 2008. Climate change and waterborne
+disease risk in the Great Lakes region of the U.S. Am J Prev Med 35(5):451–
+458, PMID: 18929971, https://doi.org/10.1016/j.amepre.2008.08.026.
+Redman RL, Nenn CA, Eastwood D, Gorelick MH. 2007. Pediatric emergency
+department visits for diarrheal illness increased after release of undertreated
+sewage. Pediatrics 120(6):e1472–e1475, PMID: 18055664, https://doi.org/10.
+1542/peds.2007-0283.
+Schuster CJ, Ellis AG, Robertson WJ, Charron DF, Aramini JJ, Marshall BJ, et al.
+2005. Infectious disease outbreaks related to drinking water in Canada, 1974–
+2001. Can J Public Health 96(4):254–258, PMID: 16625790, [http://www.jstor.
+org/stable/41995866].
+Spierre SG, Wake C. 2010. Trends in Extreme Precipitation Events for the
+Northeastern United States 1948–2007. Durham, NC: Carbon Solutions New
+England, University of New Hampshire.
+U.S. Census Bureau. 2011. American FactFinder. Community facts. https://factfinder.
+census.gov/faces/nav/jsf/pages/index.xhtml [accessed 25 September 2014].
+U.S. Environmental Protection Agency (EPA). 2000. Why Control Sanitary Sewer
+Overflows? https://www.epa.gov/sites/production/files/2015-10/documents/sso_
+casestudy_control.pdf [accessed 10 June 2014].
+
+117007-6
+
+
+
+U.S. EPA. 2014. Climate Change Indicators in the United States: Heavy
+Precipitation. https://www.epa.gov/climate-indicators/climate-change-indicators-heavy-precipitation [accessed 10 June 2014].
+U.S. EPA. 2016a. National Pollutant Discharge Elimination System (NPDES).
+Sanitary Sewer Overflows (SSOs). https://www.epa.gov/npdes/sanitary-seweroverflows-ssos [accessed 10 June 2014].
+U.S. EPA. 2016b. National Enforcement Initiative: Keeping Raw Sewage and
+Contaminated Stormwater Out of Our Nation's Waters. https://www.epa.
+gov/enforcement/national-enforcement-initiative-keeping-raw-sewage-andconta-minated-stormwater-out-our [accessed 15 November 2016].
+
+Environmental Health Perspectives
+
+Wade TJ, Lin CJ, Jagai JS, Hilborn ED. 2014. Flooding and emergency room visits for gastrointestinal illness in Massachusetts: A case-crossover study.
+PloS One 9(10):e110474. PMID: 25329916, https://doi.org/10.1371/journal.
+pone.0110474.
+Wickham H. 2009. ggplot2: Elegant Graphics for Data Analysis. New York, NY:
+Springer Science + Business LLC.
+Yoder J, Roberts V, Craun GF, Hill V, Hicks LA, Alexander NT, et al. 2008.
+Surveillance for waterborne disease and outbreaks associated with drinking
+water and water not intended for drinking–United States, 2005–2006. MMWR
+Surveill Summ 57(9):39–62, PMID: 18784643.
+
+117007-7
+
+

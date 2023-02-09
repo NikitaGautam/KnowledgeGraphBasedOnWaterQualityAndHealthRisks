@@ -1,0 +1,301 @@
+DISPATCHES
+
+Sporadic Human
+Cryptosporidiosis
+Caused by
+Cryptosporidium
+cuniculus,
+United Kingdom,
+2007–2008
+Rachel M. Chalmers, Kristin Elwin,
+Stephen J. Hadfield, and Guy Robinson
+To investigate sporadic human cryptosporidiosis trends
+in the United Kingdom, we tested 3,030 Cryptosporidium
+spp.–positive fecal samples, submitted for routine typing in
+2007–2008, for C. cuniculus. C. cuniculus prevalence was
+1.2%; cases were mostly indigenous and occurred across
+all age groups. Most occurred during August–October and
+may be linked to exposure opportunities.
+
+T
+
+he protozoan parasites Cryptosporidium spp. are
+major causes of gastrointestinal disease worldwide.
+Most cases in the United Kingdom are caused by C.
+parvum or C. hominis; rare infections with other species
+and genotypes include C. meleagridis, C. felis, C. canis,
+C. ubiquitum, C. hominis monkey, skunk, horse, and
+rabbit (1–3). In summer 2008, the rabbit genotype caused
+a waterborne outbreak in drinking water (4). Previously,
+only 1 human infection, also identified in the United
+Kingdom, was known (1), although routine typing based on
+RsaI restriction fragment-length polymorphisms (RFLPs)
+within the Cryptosporidium oocyst wall protein (COWP)
+gene (2) does not differentiate the rabbit genotype from C.
+hominis (4). After phylogenetic and biologic investigations,
+the rabbit genotype has been renamed C. cuniculus (5).
+However, information is lacking about the occurrence
+and epidemiology of animal and human infections outside
+the outbreak, which mainly involved adult females (5–7).
+To investigate trends in humans, we conducted enhanced
+testing of Cryptosporidium spp.–positive fecal samples
+from patients with sporadic diarrhea (submitted for routine
+typing during 2007–2008) with the purpose of identifying
+and characterizing C. cuniculus.
+
+Author affiliations: Public Health Wales Microbiology–Singleton
+Hospital, Swansea, UK
+DOI: 10.3201/eid1703.100410
+536
+
+The Study
+Archived DNA from all samples received for typing
+during January 2007–December 2008 that showed C.
+hominis COWP PCR-RFLP RsaI profiles were retested by
+single-round small subunit (SSU) rRNA PCR-RFLP using
+SspI, which generates a pattern unique to C. cuniculus (4).
+An exception occurred during the outbreak period (July and
+August 2008) when all Cryptosporidium spp.–positive stool
+samples were tested by a pan-genus nested PCR specific for
+the SSU rRNA gene and products digested with SspI and
+VspI (4). Although differentiating more species/genotypes
+than the COWP PCR-RFLP (7), this assay is unsustainable
+for typing large numbers of samples on a routine basis. C.
+cuniculus was confirmed by sequencing ≈830 bp of the
+SSU rRNA gene and ≈850 bp of the 60-kDa glycoprotein
+(GP60) gene by using nested PCR protocols (4).
+Data were analyzed in Epi Info version 6 (Centers
+for Disease Control and Prevention Atlanta, GA, USA).
+Incomplete data for Northern Ireland were excluded, but
+no C. cuniculus cases were identified there. Case-patients
+with sporadic C. cuniculus, C. parvum, and C. hominis
+infections were compared by age using the Mann-Whitney
+2-sample test, by sex using the Mantel-Haenszel version
+of the χ2 test, by month of specimen submission, and by
+Government Office Region (England and Wales) or Health
+Board (Scotland) of the primary diagnostic laboratory.
+In total, 37 (1.2%) of 3,030 infections were caused by C.
+cuniculus: 23 in 2007 and 14 in 2008 (online Appendix Table,
+www.cdc.gov/EID/content/17/3/536-appT.htm). Twentyfive were in patients from England and Wales, and 12
+patients were from Scotland. Other cryptosporidia detected
+were C. parvum (n = 1,506, 49.7%), C. hominis (n = 1,383,
+45.6%), C. meleagridis (n = 26), C. felis (n = 8), cervine
+genotype (n = 8), co-infection C. hominis and C. parvum
+(n = 5), novel or unidentified genotypes (n = 5), and C.
+hominis monkey genotype (n = 1); 88 did not amplify with
+the PCR primers. Substitution of routine typing with the
+SSU rRNA nested PCR-RFLP during the outbreak did not
+increase the number of “unusual” cryptosporidia, apart
+from C. cuniculus, indicating the routine COWP PCRRFLP is otherwise appropriate for typing for epidemiologic
+purposes in the United Kingdom.
+The age range of patients with sporadic C. cuniculus
+infection was 1–74 years (mean 29 years; median 31
+years), significantly older than C. hominis case-patients
+(range 0–83 years; mean 19 years; median 13 years)
+(Mann-Whitney 2-sample test value = 11.12, df = 1, p =
+0.0009) and C. parvum case-patients (range 0–86 years;
+mean 17 years; median 29 years) (Mann-Whitney 2-sample
+test value = 15.24, df = 1, p = 0.00009) (Figure 1). The
+sex distribution was 14 (37%) female and 22 (58%) male
+patients, with the sex of 1 patient not known, compared with
+sporadic C. parvum (781 [51.9%] female) and C. hominis
+
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 17, No. 3, March 2011
+
+
+
+Cryptosporidium cuniculus, UK, 2007–2008
+
+GU971630 (SSU DNA). The latter are identical to those
+deposited previously (EU437413, FJ262724–FJ262726)
+(1,4) and are C. cuniculus (5).
+
+(736 [53.2%] female) cases, although the difference was
+not significant (χ2 = 4.01, df = 2, p = 0.13).
+More C. cuniculus cases were detected in the late
+summer and autumn than in the winter and spring, similar
+to infections with C. hominis but not C. parvum (Figure
+2). Three C. cuniculus cases were identified in the East
+Midlands, the outbreak affected region, but none were
+found in Northamptonshire, the outbreak-affected area.
+Most cases (24%) were in the Eastern region of England.
+Two case-patients had traveled outside the UK, one to
+Spain and the other destination not known, during the
+incubation period.
+Occupational and environmental exposure data were
+available for 14 C. cuniculus case-patients from patient
+questionnaires administered by local Environmental Health
+Departments. No occupational risks were linked to rabbits.
+One patient (a 9-year-old boy) reported direct contact with
+rabbits (a pet), and 2 patients had potential environmental
+contact (a 63-year-old woman played golf, and a 36-yearold man sat on grass during a walking holiday). Two casepatients reported diarrhea in other residential contacts.
+None of the patients reported links with (lived in, had
+visited or received visitors from) the outbreak-affected
+area. Available clinical details were insufficient for all
+cryptosporidiosis case-patients for comparative purposes.
+One C. cuniculus case-patient was an immunosuppressed
+child who had received a kidney transplant.
+Two GP60 subtype families, Va (n = 18) and Vb (n
+= 19), were detected in sporadic C. cuniculus isolates,
+linked to patient sex; 10/14 (71.4%) female patients had
+Va subtype, compared with 7/22 (31.8%) male patients
+(χ2 = 5.24, df = 1, p = 0.022). No significant difference
+in age or regional distribution was found, but cases with
+Va occurred only in August through December, while Vb
+cases occurred all year but mostly in August (Figure 2).
+Representative sequences have been deposited into
+GenBank: GU971631–GU971650 (GP60) and GU971628–
+
+12
+
+No. C. cuniculus infections
+
+Figure 1. Age distribution of patients with sporadic cases of
+Cryptosporidium cuniculus, C. hominis, and C. parvum infection in
+England, Wales, and Scotland, 2007–2008.
+
+Conclusions
+C. cuniculus was first identified as a human pathogen
+during a waterborne outbreak, and its epidemiology has now
+been described for sporadic cases in the United Kingdom.
+Although the numbers are small, and the data need to be
+interpreted with caution, it was the third most commonly
+identified Cryptosporidium species in patients with diarrhea
+during the study period, after C. parvum and C. hominis.
+All C. cuniculus isolates identified by PCR-RFLP were
+confirmed by sequence analysis, indicating the reliability
+of the test algorithm used, although the development of
+specific probes will enhance testing capability. All ages
+were infected with little age delimitation <50 years, after
+which numbers declined. Contrast this to C. parvum
+and C. hominis, which are both linked to young age. C.
+cuniculus distribution is seasonal, peaking in August
+through November, and differences in seasonal distribution
+of GP60 subtypes were marked.
+Rabbits are the natural hosts for C. cuniculus (5),
+and seasonal distribution and variation in humans may
+reflect rabbit breeding seasons and infections, although
+good epidemiologic studies of Cryptosporidium spp. in
+wild rabbits are lacking (7). Studies of farmed and wild
+rabbits so far indicate that GP60 subtype Vb predominates
+(7–9), although the outbreak was caused by Va (4). Unlike
+with C. hominis, seasonal distribution of cases was not
+linked to foreign travel. The C. cuniculus outbreak had
+occurred in July when few sporadic cases were detected.
+The distribution of sporadic cases was the opposite of
+the outbreak in which more case-patients were female
+(6). The association between GP60 subtypes and patient
+sex is intriguing. A small number of case-patients had
+possible exposure risks, although this requires further
+
+10
+
+Vb subtype
+Va subtype
+
+8
+6
+4
+2
+0
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+Figure 2. Monthly distribution of sporadic cases of Cryptosporidium
+cuniculus, C. hominis, and C. parvum infection in England, Wales,
+and Scotland, 2007–2008.
+
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 17, No. 3, March 2011
+
+537
+
+
+
+DISPATCHES
+
+investigation. The only known hosts of C. cuniculus are
+humans and European rabbits (Oryctolagus cuniculus)
+(5,7–9), and until population-based studies of rabbits are
+undertaken, the risks cannot be fully evaluated, nor the
+human epidemiology fully explained.
+Acknowledgments
+We thank Nigel Crouch and Brian Campbell, Cryptosporidium
+Reference Unit, for technical support, and the Health Protection
+staff who provided patient data.
+This work was supported by the Department for
+Environment, Food and Rural Affairs and managed by the
+Drinking Water Inspectorate under project DWI 70/2/241. The
+national Cryptosporidium typing program was funded for England
+and Wales by Welsh Assembly Government and for Scotland by
+Health Protection Scotland.
+Dr Chalmers is head of the UK Cryptosporidium Reference
+Unit, Public Health Wales. Her main research interests are the
+epidemiology, management, and control of Cryptosporidium spp.
+and cryptosporidiosis.
+References
+1.
+
+Robinson G, Elwin K, Chalmers RM. Unusual Cryptosporidium
+genotypes in human cases of diarrhea. Emerg Infect Dis.
+2008;14:1800–2. DOI: 10.3201/eid1411.080239
+2. Chalmers RM, Elwin K, Thomas AL, Guy EC, Mason B. Longterm Cryptosporidium typing reveals the aetiology and speciesspecific epidemiology of human cryptosporidiosis in England and
+Wales, 2000 to 2003. Euro Surveill. 2009;14:6–14 http://www.
+eurosurveillance.org/ViewArticle.aspx?ArticleId=19086.
+
+538
+
+3.
+4.
+
+5.
+
+6.
+
+7.
+8.
+
+9.
+
+Chalmers RM, Pollock KGJ. Cryptosporidium in Scotland 2008:
+reference laboratory data. Health Protection Scotland Weekly
+Report. 2010;44:18–20.
+Chalmers RM, Robinson G, Elwin K, Hadfield SJ, Xiao L, Ryan U,
+et al. Cryptosporidium rabbit genotype, a newly identified human
+pathogen. Emerg Infect Dis. 2009;15:829–30. DOI: 10.3201/
+eid1505.081419
+Robinson G, Wright S, Elwin K, Hadfield SJ, Katzer F, Bartley
+PM, et al. Re-description of Cryptosporidium cuniculus Inman and
+Takeuchi, 1979 (Apicomplexa: Cryptosporidiidae); morphology,
+biology and phylogeny. Int J Parasitol. 2010;40:1539–48. DOI:
+10.1016/j.ijpara.2010.05.010
+Outbreak of cryptosporidiosis associated with a water contamination
+incident in the East Midlands. Health Protection Report 2008;2:29
+[cited 2010 Sep 9]. http://www.hpa.org.uk/hpr/archives/2008/
+hpr2908.pdf
+Robinson G, Chalmers RM. The European rabbit (Oryctolagus
+cuniculus), a source of zoonotic cryptosporidiosis. Zoonoses Public
+Health. 2010;57:e1–13. DOI: 10.1111/j.1863-2378.2009.01308.x
+Shi K, Jian F, Lv C, Ning C, Zhang L, Ren X, et al. Prevalence,
+genetic characteristics, and zoonotic potential of Cryptosporidium
+species causing infections in farm rabbits in China. J Clin Microbiol.
+2010;48:3263–6. DOI: 10.1128/JCM.00819-10
+Nolan MJ, Jex AR, Haydon SR, Stevens MA, Gasser RB. Molecular
+detection of Cryptosporidium cuniculus in rabbits in Australia. Infect
+Genet Evol. 2010;10:1179–87. DOI: 10.1016/j.meegid.2010.07.020
+
+Address for correspondence: Rachel M. Chalmers, UK Cryptosporidium
+Reference Unit, Public Health Wales Microbiology, Singleton Hospital,
+Swansea, Wales, SA2 8QA UK; email: rachel.chalmers@wales.nhs.uk
+
+All material published in Emerging Infectious Diseases is in
+the public domain and may be used and reprinted without
+special permission; proper citation, however, is required.
+
+Emerging Infectious Diseases • www.cdc.gov/eid • Vol. 17, No. 3, March 2011
+
+
+
+Copyright of Emerging Infectious Diseases is the property of Centers for Disease Control & Prevention (CDC)
+and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright
+holder's express written permission. However, users may print, download, or email articles for individual use.
+
+

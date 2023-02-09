@@ -1,0 +1,1245 @@
+Environ. Sci. Technol. 2010, 44, 8804–8813
+
+Beach Boundary Layer: A Framework for Addressing
+Recreational Water Quality Impairment at Enclosed
+Beaches
+
+Downloaded via UNIV OF ILLINOIS CHICAGO on February 25, 2022 at 14:31:07 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+S T A N L E Y B . G R A N T * ,†,‡,§ A N D B R E T T F . S A N D E R S ‡
+Department of Chemical Engineering and Materials Science, Department of Civil
+and Environmental Engineering, Henry Samueli School of Engineering, University
+of California, Irvine, California 92697, United States, and Department of Civil
+and Environmental Engineering, School of Engineering, University of Melbourne,
+Victoria 3010, Australia
+
+Received May 21, 2010. Revised manuscript received September 9, 2010. Accepted
+September 16, 2010.
+
+Nearshore waters in bays, harbors, and estuaries are
+frequently contaminated with human pathogens and fecal
+indicatorbacteria.Trackingdownandmitigatingthiscontamination
+is complicated by the many point and nonpoint sources of
+fecal pollution that can degrade water quality along the shore.
+From a survey of the published literature, we propose a
+conceptual and mathematical framework, the “beach boundary
+layer model”, for understanding and quantifying the relative
+impact of beach-side and bay-side sources of fecal pollution
+on nearshore water quality. In the model, bacterial concentration
+in ankle depth water Cankle [bacteria L-3] depends on the flux
+m′′ [bacteria L-2 T-1] of fecal bacteria from beach-side sources
+(bather shedding, bird and dog feces, tidal washing of
+sediments, decaying vegetation, runoff from small drains, and
+shallow groundwater discharge), a cross-shore mass transfer
+velocity k [L T-1] that accounts for the physics of nearshore
+transport and mixing, and a background concentration
+Cbay [bacteria L-3] attributable to bay-side sources of pollution
+that impact water quality over large regions (sewage outfalls,
+creeks and rivers): Cankle ) m′′/k + Cbay. We demonstrate the
+utility of the model for identifying risk factors and pollution
+sources likely to impact shoreline water quality, and evaluate
+the model’s underlying assumptions using computational
+fluid dynamic simulations of flow, turbulence, and mass transport
+in a trapezoidal channel.
+
+Introduction
+Beaches located inside coastal embayments, or “enclosed
+beaches”, are sheltered from the large waves and strong
+currents of open coastlines and, for this reason, are popular
+destinations for recreational bathers, particularly families
+with young children. Unfortunately, these coastal sites also
+have among the highest rates of beach closures and health
+advisories (1, 2). To our knowledge there are no literature
+reviews of the physical and biological processes that control
+nearshore water quality at enclosed beaches, despite the
+explosion of papers recently published on the topic. This
+* Corresponding author phone: (949) 824-8277; fax: (949) 8242541; e-mail: sbgrant@uci.edu.
+†
+Department of Chemical Engineering and Materials Science.
+‡
+Department of Civil and Environmental Engineering.
+§
+University of Melbourne.
+8804 9 ENVIRONMENTAL SCIENCE & TECHNOLOGY / VOL. 44, NO. 23, 2010
+
+critical review is intended to fill that gap, and provide a new
+conceptual framework (the “beach boundary layer model”)
+for predicting the impacts of beach-side and bay-side
+pollution on nearshore water quality. For the purposes of
+this review, we define “nearshore” as the shallow (ankle to
+waist depth) water along the shoreline where water samples
+are collected for routine monitoring of recreational beach
+water quality. We further divide sources of microbial pollution
+into those located in, or inland, of the nearshore (“beachside”) or offshore of the nearshore (“bay-side”). The review
+does not encompass predictive regression models of beach
+water quality (3), although the findings of regression studies
+are discussed to the extent they shed light on relevant physical
+and/or biological processes. While the review focuses
+primarily on fecal indicator bacteria (FIB)sthe water quality
+index used by public health officials to determine if a beach
+is safe for swimming and recreationsmany of the results
+and conclusions are transferable to the viruses, bacteria, and
+protozoa that cause recreational waterborne illness. The
+review begins by rationalizing the division of embayments
+into nearshore and bay regions, and the division of fecal
+inputs into beach-side and bay-side sources. This is followed
+by the derivation, testing, and application of the beach
+boundary layer model.
+Spatiotemporal Scales: Bay versus Nearshore. Whitman
+and co-workers (4) argue that water quality impairment of
+shoreline waters should be evaluated from the perspective
+of a “beachshed”, that includes all nonpoint and point sources
+of FIB and pathogens that potentially affect shoreline water
+quality, coupled with the biological and physical processes
+that amplify or diminish their concentrations. A beachshed
+for a FIB impaired coastal embayment is illustrated schematically in Figure 1. We conceptually divide the embayment
+into two regions: (1) bay and (2) nearshore. This division is
+motivated by at least four considerations. First, most routine
+water quality monitoring occurs in waters very close to
+shorestypically in ankle to waist depth watersbut water
+quality can vary significantly over a few meters in the crossshore direction. For example, Boehm et al. (5) report that
+total coliform concentrations in the nearshore waters at
+Avalon Beach, Catalina Island, decreased >100 fold from ankle
+(∼50 cm) to 10 m depth. Second, most humans recreate very
+close to shore, particularly young children who are among
+the most vulnerable to recreational waterborne illness
+(6-8). Third, some sources of fecal pollution (e.g., point
+sources of treated or untreated sewage) affect water quality
+10.1021/es101732m
+
+ 2010 American Chemical Society
+
+Published on Web 10/15/2010
+
+
+
+FIGURE 1. A “beachshed” for fecal indicator bacteria at an enclosed beach.
+of the entire bay, while others (e.g., a small storm drain) have
+localized impacts on nearshore water quality. Finally, different physical processes drive water circulation in the bay
+and nearshore regions, as described next.
+Bay-Wide Circulation. At the bay-scale, water circulation
+is driven by tides, density gradients, and winds. Tides
+exchange water between the bay and offshore, promote
+chaotic mixing, and drive a residual circulation that varies
+horizontally, provides nutrients and oxygen, and transports
+and dilutes pollutants (9-11). Baroclinic circulation originates
+from the within-bay mixing of water parcels with different
+densities. When a river discharges to an ocean embayment,
+for example, dense ocean water is drawn into the bay, mixes
+with the fresh water, and the product is returned to the ocean.
+In low mixing environments, the recirculation is vertically
+stratified and in high mixing environments the recirculation
+is laterally stratified (11). Winds exert a stress on the water
+surface that can enhance the exchange of water between the
+bay and offshore, generate surface water waves, and drive
+within-bay circulation (11).
+Nearshore Circulation. Mixing and circulation in the
+nearshore region is affected by “down-scaling” of the bayscale processes described above (tides, density gradients,
+and winds) (12) and physical processes confined to the
+shoreline (13). Breaking waves are an example of the latter.
+The cascade of momentum and energy from breaking waves
+generates along-shore and cross-shore currents that often
+dominate the nearshore transport of contaminants and
+sediments, particularly on open (unsheltered) coastlines
+(13-16). In sheltered embayments, waves are typically smaller
+and human activities can play an important role. For example,
+water currents along the City of Seattle waterfront in Elliot
+Bay are dominated by boat traffic; in particular, ferries that
+continuously apply thrust while docked in the harbor (17).
+Boat wakes generate turbulence capable of resuspending
+sediments, and presumably particle-associated bacteria, at
+the shoreline (18). Indeed, the use of mechanical flow devices
+to artificially “enhance” circulation has been marketed as a
+way to improve beach water quality, although questions
+persist about the efficacy, practicality, and ecological impact
+of such an approach (2). Generally speaking, nearshore
+pollutant transport in embayments occurs by advection and
+turbulent mixing (19, 20).
+Sources of Microbial Pollution: Bay-Side versus BeachSide. Sources of microbial pollution in nearshore waters can
+be divided into two categories: (1) bay-side sources that
+impact water quality over large regions of the bay, and (2)
+beach-side sources that have localized and transient impacts.
+Because these two source categories operate over different
+
+spatial and temporal scales, from a modeling perspective
+their effect on ankle depth water quality can be treated
+separately. In particular, we assume that bay-side sources
+contribute a background concentration Cbay that varies with
+location in the bay (e.g., higher at shoreline sites closer to
+a point source discharge of sewage) and varies slowly over
+time (e.g., higher during periods of increased point source
+loading or reduced tidal mixing). In contrast, beach-side
+sources are characterized by a shoreline loading rate m′ (units
+of bacteria per time per length of beach) the magnitude of
+which varies by beach, and over tidal and longer time scales
+at any particular beach. The contribution of beach-side and
+bay-side pollution to the concentration Cankle of FIB in ankle
+depth water is assumed to be additive, viz:
+Cankle ) f(m′) + Cbay
+
+(1)
+
+where f is a functional relationship derived later. In this
+section we survey bay-side pollution sources that contribute
+to the term Cbay, and beach-side pollution sources that
+contribute to the term m′.
+Bay-Side Pollution Sources. Bay-side contributions to the
+term Cbay include both point- and nonpoint sources of fecal
+pollution. Large point sourcesssuch as rivers and partially
+treated or untreated sewage effluentscan have bay-wide
+impacts on water quality via at least two pathways: (a) direct
+discharge to the bay, and/or (b) discharge outside of the bay
+(e.g., in the coastal ocean), followed by import into the bay
+by tides and currents. In general, the mixing of river or
+wastewater effluent into receiving waters occurs in three
+stages, namely: (1) near-field mixing which is dominated by
+the buoyancy and/or momentum flux of the effluent at the
+point of discharge; (2) far-field mixing which is dominated
+by ambient turbulence; and (3) midfield mixing which is
+transitional between near-field and far-field (21-23). Farfield plume dispersion can be modeled using either Eulerian
+formulations (gradient diffusion models) or Lagrangian
+formulations (random walk particle tracking techniques) (21).
+Examples of both Eulerian and Lagrangian plume tracking
+tools are now available online for some regions. One example
+is the Great Lakes Forecasting System (24), which includes
+a gradient diffusion model for simulating impacts on beach
+water quality from the Grand River plume in Lake Michigan
+(25). Another is the Lagrangian particle tracking tool maintained by the Southern California Coastal Ocean Observing
+System that predicts, based on hourly high frequency radar
+measurements of surface currents in the coastal Pacific
+Ocean, the trajectory of the Tijuana River Estuary plume
+near San Diego, California (26). The latter modeling tool was
+VOL. 44, NO. 23, 2010 / ENVIRONMENTAL SCIENCE & TECHNOLOGY 9 8805
+
+
+
+recently used to determine the relative impact of both river
+and wastewater outfall plumes on coastal beach water quality
+along the California/Mexico border (27).
+Nonpoint sources of bay-side pollution include vessel
+waste discharges (28-30) and diffusive, advective, and/or
+erosive release of FIB from sediments (31-35). Federal law
+in the U.S. prevents the discharge of raw (untreated) sewage
+in no discharge zones, including the Great Lakes, all navigable
+waters of the U.S., and within 3 miles of the coasts (30).
+However, based on random surveys of recreational boaters
+it appears that illegal dumping of sewage is commonplace
+in some areas of the U.S., due to a paucity of pump-out
+facilities, a lack of appreciation of the potential environmental
+impacts, and the limited range of many recreational boats
+(29). In the U.S., less stringent laws and regulations apply to
+the dumping of untreated gray water in coastal areas (e.g.,
+from galleys, baths, showers, and dishwaters) and a recent
+U.S. EPA assessment of wastes generated from cruise ships
+reported average fecal coliform concentrations in untreated
+gray water from 3 to 40 × 106 bacteria/100 mL, or “one to
+three orders of magnitude greater than typical fecal coliform
+concentrations in untreated domestic wastewater” (30). In
+practice, estimates of Cbay for a particular beach can be
+determined empirically, by measuring pollutant concentration in deeper waters offshore, or predicted by the Lagrangian
+or Eulerian plume tracking models described above. At many
+enclosed beaches, the background concentration will be a
+minor contributor to nearshore water quality, and therefore
+Cbay ≈ 0.
+Beach-Side Pollution Sources. The contribution of beachside pollution to the term m′ includes bather shedding, bird
+or animal feces, beach sediments, decaying marine vegetation
+(e.g., associated with wracklines), runoff from small drains,
+and submarine groundwater discharge (SGD):
+m′ ) m′bather + m′feces + m′seds + m′wrack + m′drains + m′SGD
+(2)
+Simple expressions for each of these loading rates are
+proposed in Table 1; literature sources for key parameter
+values are also shown in the table. Present understanding of
+beach-side sources is summarized below.
+Elmir et al (36) estimate that the average marine bather
+sheds 300 000 enterococci bacteria in the first 15 min of
+immersion. Less enterococci bacteria are shed with subsequent immersions, and sand attached to the skin of bathers
+does not appear to be the source of FIB, consistent with a
+previous study that concluded most FIB released by bathers
+is associated with fecal matter (37). The deposition of dog
+and bird droppings on foreshore sediments is frequently
+implicated as a source of FIB in nearshore waters (35,
+38-40); however, nearshore FIB concentrations are not
+always correlated with bird abundance, even in tidal ponds
+specifically managed as bird habitat (41). Beach sands can
+harbor FIB (42), genetic markers for human fecal contamination (enterococci bacteria with the human esp gene and
+human specific HF183 Bacteroidales) and human pathogens
+(Vibrio vulnificus, and Cryptosporidium) (43, 44). Potential
+sources of FIB in beach sands include human and animal
+feces, runoff, spilled sewage, and/or the growth of environmentally adapted FIB strains (44-48). FIB present in foreshore sediment can transfer into the water column with the
+rising tide; that is, the tides “wash” the sand free of bacteria
+(42). Shoreline vegetationsincluding the macroalga Cladophora in freshwaters (49, 50) and seaweed in marine waters
+(35, 51)sis another potential source of FIB. Indeed, the tidal
+washing of FIB-laden foreshore sediments and decaying
+seaweed in wracklines may explain why nearshore water
+quality at many marine beaches in California is worse during
+spring tides when the daily maximum tide range is large
+(52).
+8806 9 ENVIRONMENTAL SCIENCE & TECHNOLOGY / VOL. 44, NO. 23, 2010
+
+TABLE 1. Parameterizations for Six Beach-Side Sources of FIBa
+line source for bather shedding
+m′bather ) SṄ′
+S, number of FIB shed per bather (bacteria bather-1)
+S ) 300,000 ENT bacteria bather-1 ref 36
+Ṅ′, number of bathers wading into water every hour per
+meter of beach (bathers h-1 m-1)
+
+line source for fecal droppings
+m′feces ) W′fecesCfeces/TF
+W′feces, weight of feces deposited on foreshore sediments
+during low tide per meter of beach (g m-1)
+Cfeces, concentration of FIB in feces (bacteria g-1)
+
+Cfeces )
+
+{
+
+4 × 107ENT g-1(dog)
+3 × 105ENT g-1(bird)
+ref 39
+
+TF, time over which a single flood tide occurs (ca., 6 h)
+line source for sediment washing
+m′seds ) W′sedsCseds/TF
+Cseds, concentration of FIB in foreshore sediment (bacteria
+(dry weight sediment)-1)
+W′seds, weight of sand washed free of bacteria by the rising
+tide per meter of beach (g m-1)
+W′seds ) Fbdwηr/sin (tan -1s) ≈ 350 kg m-1
+Fb ≈ 1.7 g cm3, bulk density of dry beach sand
+dw ≈ 5 cm, depth of sediment washed by the rising tide
+ηr ≈ 1 m, tide range
+s ≈ 0.25, beach slope
+
+line source for wrack washing
+m′wrack ) W′wrackCwrack/TF
+W′wrack, weight of wrack deposited on foreshore sediments
+per meter of beach (g m-1)
+Cwrack, concentration of FIB in wrack (bacteria g-1)
+Cwrack ≈ 4 × 104 ENT g-1 [ref 99]
+
+line source for runoff from periodically spaced drains
+m′drains ) QdrainsCdrains/Ldrains
+Cdrains, concentration of FIB in runoff from drains (bacteria
+(volume)-1)
+Qdrains, daily average volumetric flow rate from drains
+(volume (time)-1)
+Qdrains ≈ 200 liters per day [unpublished data for small
+drains in Newport Bay]
+Ldrains, spacing of drains along the shore (distance)
+Ldrains ≈ 10 m [unpublished data for small drain spacing in
+Newport Bay]
+
+line source for shallow groundwater discharge
+m′SGD ) Q′SGDCSGD
+Q′SGD, volumetric discharge of shallow groundwater per
+meter of shoreline (volume (time)-1 (length)-1)
+CSGD, concentration of FIB in SGD (bacteria (volume)-1)
+Q′SGD ≈ 3 L min-1 m-1 [estimated for Avalon Bay, ref 76]
+a
+
+ENT, enterococci bacteria.
+
+Dry and wet-weather runoff from small drains contributes
+terrestrial flux of FIB and other contaminants to nearshore
+waters (53, 54). During dry weather, nonpoint source runoff
+originates from activities in the watershed that generate
+excess water, such as over irrigation and car washing. In arid
+
+
+
+urban settings such as southern California, runoff that does
+not evaporate or infiltrate, flows through a network of gutters,
+curbs, and underground pipes (collectively referred to as the
+storm sewer, see Figure 1) to the beach, where it typically
+discharges without treatment through small drains distributed around the perimeter of the bay. Dry and wet weather
+runoff from drains is a documented source of FIB and
+molecular markers of human fecal pollution at recreational
+beaches (53-56), and bather illness rates appear to increase
+with proximity to drains discharging dry weather runoff
+(57). In general, the volume of runoff flowing out of any single
+storm drain during dry weather is small and intermittent.
+Nevertheless, dry weather runoff from drains can potentially
+affect nearshore water quality because of the high concentration of FIB carried in runoff and the location of drain
+outlets close to the waterline where water depths are shallow
+and dilution is minimal (15, 58, 59). The recreational water
+quality impacts posed by wet and dry weather urban runoff,
+and modeling tools available for planning and mitigation,
+are reviewed elsewhere (60, 61). The coastal discharge of
+shallow groundwater can also contribute to the terrestrial
+flux of FIB and other fecal indicators to nearshore waters,
+particularly if the shallow groundwater is contaminated with
+sewage from poorly functioning onsite disposal treatment
+systems or leaking sewage collection infrastructure (62-67).
+Deriving the Beach Boundary Layer Model. In this section
+we derive the “beach boundary layer model”, which in effect
+is an explicit expression for the functional relationship f that
+appears in eq 1. Assuming that the bacterial removal follows
+first-order kinetics (elaborated further below), the balance
+between FIB advection, turbulent mixing, and removal in
+any differential element in the water column can be expressed
+mathematically as follows (68):
+
+[ ]
+
+[ ]
+[ ]
+
+∂
+∂C
+∂C
+∂C
+∂C
+∂C
+∂
+∂C
+ε
++
+ε
++
++U
++V
++W
+)
+∂t
+∂x
+∂y
+∂z
+∂x x ∂x
+∂y y ∂y
+∂
+∂C
+ε
+- krC
+∂z z ∂z
+
+(3)
+
+The variables in eq 3 represent the concentration of FIB in
+the water column (C), time (t), spatial coordinates in the
+alongshore (x), cross-shore (y), and vertical (z) directions,
+current velocities in the alongshore (U), cross-shore (V), and
+vertical (W) directions, turbulent diffusion coefficients in the
+alongshore (εx), cross-shore (εy), and vertical (εz) directions,
+and a first-order removal rate constant (kr).
+A number of nonconservative and ecological processes
+can affect nearshore FIB concentrations, including (1)
+sequestration and differential survival in sediment (69-73)
+(2) bacterial mortality by exposure to sunlight (74, 75), reactive
+oxygen species (76, 77), and predacious protozoa (78-80),
+(3) selection and growth (46, 81-83), and (4) resuscitation/
+recovery of injured (viable but nonculturable) cells (84). In
+eq 3, all of these nonconservative and ecological processes
+are lumped into a single first-order decay term (last term in
+the equation)san approach that will be inadequate in many
+settings. For example, if FIB mortality is dominated by
+protistan grazing, as appears to be the case in both fresh and
+marine waters (78-80), then the first-order rate “constant”
+kr may depend on the abundance and clearance rates of
+dominant predators. A simple first-order decay term is also
+inadequate for modeling light-induced bacterial mortality,
+which varies diurnally and with depth through the water
+column (76, 85), and the turbulent sedimentation and
+resuspension of particle-associated FIB (86).
+Rather than attempt to address these shortcomings by
+significantly increasing the complexity of eq 3 (e.g., see ref
+86), here we adopt the opposite tact by setting the loss term
+to zero, in effect neglecting all nonconservative and ecological
+processes. By focusing exclusively on the transport aspect of
+the problem, we can elucidate the role that physical processes
+
+play in regulating nearshore water quality in settings where
+ecological and nonconservative processes are less important.
+The opposite approachsassuming FIB concentrations are
+controlled only by nonconservative and ecological processess
+is also interesting, and no doubt real systems exhibit some
+mixture of transport and nonconservative/ecological control.
+It is also interesting to note that nonconservative and
+ecological processes may be less important in situations
+where FIB and/or pathogens are monitored using cultureindependent methods, such as quantitative polymerase chain
+reaction (qPCR). Measurements of genome copy number by
+qPCR may be insensitive to the aggregation state of cells in
+a sample, their association with particles, or their distribution
+between culturable and nonculturable statessall factors that
+can affect measurements of FIB by conventional culturedependent methods (87, 88).
+After dropping the bacterial removal term, eq 3 can be
+further simplified by invoking a set of transport-related
+assumptions that may apply in the nearshore region of coastal
+embayments: (1) turbulent diffusion dominates over advection in the cross-shore direction (|VC| , |εy ∂C/∂y|); (2)
+advection dominates over turbulent diffusion in the longshore direction (|UC| . |εx ∂C/∂x|); and (3) FIB concentrations
+quickly reach quasi-steady-state (∂C/∂t ≈ 0). Assumptions
+(1) and (2) imply that nearshore currents follow the shoreline
+topography. Assumption (3) implies that nearshore concentrations of FIB quickly achieve quasi-steady-state in
+response to changes in pollutant loading and transport rates.
+Invoking these assumptions and depth-averaging the remaining terms in eq 3 (where depth-averaged pollutant
+j we arrive at a classic “boundary
+concentration is denoted C)
+layer” balance between alongshore advection and cross-shore
+turbulent diffusion, where Z(y) represents the water depth
+at cross-shore distance y:
+U(y)Z(y)
+
+[
+
+j
+j
+∂C
+∂C
+∂
+ε (y)Z(y)
+)
+∂x
+∂y y
+∂y
+
+]
+
+(4)
+
+In formulating eq 4 we allow for the possibility that alongshore
+velocity, water depth, and turbulent diffusivity all vary with
+cross-shore position y (see schematic at the top of Figure 2).
+The emphasis on alongshore advection and cross-shore
+diffusion is consistent with detailed FIB budgets carried out
+for recreational beaches in both Lake Michigan (68) and
+Huntington Beach in southern California (15, 89).
+Exact Solution of the Beach Boundary Layer Equation. The
+boundary layer equation above is standard in many engineering and scientific textbooks (90). What is unique to this
+application is the prismatic geometry of the boundary and
+an alongshore velocity and cross-shore eddy diffusivity that
+vary with cross-shore position. Despite these complications,
+we show in the Supporting Information that eq 4 can be
+solved exactly given the following parametrizations for the
+cross-shore variation in water depth, along-shore velocity,
+and cross-shore turbulent diffusion:
+Z(y) ) z0√y/yo
+
+(5a)
+
+U(y) ) u0√y/yo
+
+(5b)
+
+εy(y) ) ε0√y/yo
+
+(5c)
+
+where zo,uo,ε0 represent the water depth, along-shore velocity,
+and eddy diffusivity all specified at cross-shore distance y )
+y0. Because εy and Z have the same y dependence, our
+model assumes that turbulent diffusion scales linearly with
+water depth, εy ∼ Z1, consistent with Kolmogorov-Prandtl
+turbulence closure with water depth as the turbulent length
+scale (91). After combining eqs 4 and 5, performing a similarity
+transformation, and applying two boundary conditions
+VOL. 44, NO. 23, 2010 / ENVIRONMENTAL SCIENCE & TECHNOLOGY 9 8807
+
+
+
+FIGURE 2. The exact solution assumes that water depth, along-shore velocity, and turbulent diffusivity all increase with cross-shore
+distance (top schematic). Cross-section depth profiles (top row) and predicted pollutant concentration fields (bottom row)
+corresponding to the CFD (left column) and exact (right column) solutions.
+j Cjbay far offshore and a finite pollutant loading rate m′ at
+(Cf
+the shoreline) the following exact solution to eq 4 is obtained:
+
+[ ]
+
+y m′
+-y2uo
+j (x, y) ) - o Ei
+j bay
+C
++C
+2εozo
+4εox
+
+(6)
+
+where the exponential integral function is defined as follows.
+Ei(x) ) -
+
+-t
+
+∫ e tdt
+∞
+
+-x
+
+(7)
+
+Comparison of Exact Solution and Numerical Simulations.
+The exact solution derived above was obtained after considerable simplification of eq 3, not only relative to ecological
+and nonconservative processes neglected (see discussion
+above), but also relative to the limited set of physical processes
+assumed to dominate nearshore transport. To determine if
+the latter “transport-related” assumptions are realistic, we
+compared the exact solution to a computational fluid
+dynamics (CFD) simulation of coupled Reynolds- and depthaveraged (2-dimensional) fluid mass, momentum, turbulence, and pollutant transport equations using a Godunovtype finite volume scheme with k-eps turbulence closure
+(92-94). Save the steady-state assumption, the CFD simulations employed none of the assumptions or parametrizations
+used to derive the exact solution. Thus, a comparison of
+concentration fields predicted from the CFD simulations and
+the exact solution should constitute a fair test of the
+assumptions employed to derive the latter. The CFD solution
+was implemented over a long straight channel (2000 m long
+by 100 m wide) with a line source of pollution located along
+one bank (m′ ) 100 bacteria m-1 s-1 for x > 0) (Figure 2, left
+panel). The upstream and downstream boundary conditions
+consisted of a constant inlet flow rate (1 m3 m-1 s-1) and
+8808 9 ENVIRONMENTAL SCIENCE & TECHNOLOGY / VOL. 44, NO. 23, 2010
+
+constant outlet water depth (6 m at the centerline), respectively, and the channel cross-section was trapezoidal with a
+constant side slope (s ) 0.25) out to a depth of 6 m (20 m
+from the bank). Details of the CFD simulations, and the
+approach used to assign parameter values for the exact
+solution’s velocity and eddy diffusivity fields, are presented
+in the Supporting Information.
+The pollutant concentration field predicted for one CFD
+simulation (for a grid dimension of 2 × 1 m ) length by
+width) is shown in Figure 2 (lower left panel). The highest
+pollutant concentrations are confined to a thin region close
+to the shore, consistent with the idea that beach-side pollutant
+loading leads to the development of a concentration boundary layer, or “beach boundary layer”. The concentration
+boundary layer is characterized by a sharp concentration
+front that moves bayward with increasing alongshore distance
+x. At the furthest downstream location, x ) 2000 m, the
+numerical simulation illustrated in Figure 2 predicts that
+pollutant concentrations decrease >100 000 fold over a crossshore distance of <30 m. A very similar concentration field
+is predicted by the exact solution (compare left and right
+lower panels, Figure 2), suggesting that, despite the transportrelated assumptions invoked in its derivation, the exact
+solution (eq 6) is a reasonable representation of pollutant
+mixing and transport in the nearshore.
+Cross-shore variation in pollutant concentration predicted
+by the exact solution and CFD simulations (with three
+different choices of grid size) are presented for x ) 1000 m
+in Figure 3. Consistent with the discussion above, the CFD
+and exact solutions predict a plateau in concentration close
+to shore, and a sharp concentration front at water depths
+between 0.3 and 5 m. Although not shown in Figure 3, there
+is also a concentration singularity at y ) 0, where the pollution
+line source discharges to zero water depth. The CFD-pre-
+
+
+
+FIGURE 3. Cross-shore concentration profile predicted by the
+exact solution (eq 6) and three CFD solutions with cross-shore
+grid sizes shown, all at x ) 1000 m.
+dicted plateau concentration increases as the cross-shore
+resolution of the numerical grid is refined, from 2 m to 50
+cm (Figure 3). This observation highlights a fundamental
+challenge associated with numerical predictions of FIB
+concentrations in ankle depth water: sharp fronts in pollutant
+concentration are subject to numerical diffusion that is grid
+resolution dependent (92, 93). The numerical predictions
+converge at the outer edge of the concentration front (depths
+>4 m), but do not reliably predict the ankle-depth pollutant
+concentration, most likely due to numerical diffusion and
+the concentration singularity at y ) 0.
+Nearshore Pollutant Concentration. Estimates for the
+impact of specific pollution sources on ankle depth water
+quality can be obtained by setting y ) yankle in eq 6 (note the
+overbar, representing depth-averaged quantities, has been
+dropped for notational simplicity):
+Cankle )
+
+Predicting the Impact of Beach-Side Pollution. Assuming
+that FIB concentration in ankle depth water is dominated by
+beach-side pollution (i.e., Cankle > >Cbay), eq 8a can be rewritten
+as follows:
+
+m′
++ Cbay
+zok
+
+(8a)
+
+Cankle
+m′
+)
+Ccriterion
+m′criterion
+
+(10a)
+
+2ε0
+yBBL
+
+(8b)
+
+m′criterion ) zokCcriterion
+
+(10b)
+
+k)
+
+yBBL ) -y0Ei[-l/x] ≈ y0log[0.562x/l]
+l)
+
+FIGURE 4. Predictions of the contribution of beach-side
+pollution to exceedences of the U.S. EPA criterion for enterococci bacteria (104 bacteria (100 mL)-1) at marine recreational
+beaches.
+
+2
+u0
+yankle
+4ε0
+
+(8c)
+
+(8d)
+
+Comparing eqs 1 and 8a we conclude that, in our version of
+the beach boundary layer model, the functional relationship
+in eq 1 is given by f(m′) ) m′/z0k. The cross-shore mass
+transfer velocity k [units of L T-1] encapsulates the physics
+of nearshore transport and mixing, and is proportional to
+the reference eddy diffusivity ε0 and inversely proportional
+to yBBL, where the latter is an estimate for the width of the
+beach boundary layer. The approximate expression for yBBL
+in eq 8c is valid provided that x > 10l. Solving for the flux of
+FIB out of ankle depth water, m′′ ) m′/z0, eq 8a can be
+rearranged into a form that is mathematically identical to
+the film theory expression for interfacial mass transfer (90):
+m′′ ) k(Cankle - Cbay)
+
+(9)
+
+These results have significant implications for the influence
+of beach-side pollution sources on FIB concentrations in
+ankle depth waters, as explored in the next section.
+
+where Ccriterion is a water quality criterion and m′criterion is the
+beach-side pollution loading rate above which an exceedence
+of the criterion occurs. For the set of parameters values in
+Table S1 (Supporting Information), x ) 1000 m, and using
+the EPA recommended criterion for enterococci bacteria
+(ENT) at marine bathing beaches (104 bacteria per 100 mL),
+we obtain the following model parameter values: yBBL ) 0.7 m,
+k ) 3 × 10-4 m/s, and m′criterion ) 3 × 105 bacteria m-1 h-1.
+Given this criterion loading rate, and the line source
+expressions listed in Table 1, plots of eq 10a are presented
+for seven different beach-side pollution sources in Figure 4.
+While all pollution sources can trigger criterion exceedence
+(i.e., Cankle/Ccriterion > 1), some sources are clearly more
+problematic than others. Consistent with the findings of
+Wright et al. (39), dog feces are a potent contributor of
+ENTsas little as 1 g of dog feces deposited at low tide per
+meter of beach is sufficient to cause a water quality
+exceedence during the following rising tide (red line, Figure
+4). By comparison, an average of 30 and 80 g of dry feces are
+produced by small and large dogs, respectively, during a single
+fecal event (39). For all other sources, the model predicts
+that the concentration of ENT in ankle depth water is 10
+times greater than the EPA criterion whenever one or more
+of the following conditions are met: (1) ENT concentrations
+VOL. 44, NO. 23, 2010 / ENVIRONMENTAL SCIENCE & TECHNOLOGY 9 8809
+
+
+
+in foreshore sediments exceed 500 bacteria/10 g (green line
+in Figure 4); (2) more than 10 bathers wade into the water
+per hour per meter of beach (dark blue line); (3) ENT
+concentration in shallow groundwater exceeds 2000 bacteria/
+100 mL (light blue line); (4) more than 70 g of bird droppings
+are washed by the tide per meter of beach (brown line); (5)
+more than 500 g of decaying vegetation are washed by the
+tide per meter of beach (pink line); and (6) ENT concentration
+in runoff exceeds 500 000 bacteria/100 mL in small drains
+spaced 10 m apart (black line). It should be noted that the
+relatively low impact predicted for drains assumes a flow
+rate of 200 L day-1 (see Table 1), which is typical for dry
+weather runoff volumes from small (104-105 m2) urban
+catchments in Newport Bay in southern California (unpublished data), but will be on the low side for many other beach
+settings. At beaches where the average flow rate of runoff
+from drains exceeds 200 L day-1, the black line in Figure 4
+will shift to the left. Indeed, Dorsey (59) evaluated water
+quality improvement projects at 17 beach sites in California,
+and found that dry weather diversionssin which dry weather
+runoff from storm sewer drains is diverted from the beach
+to the sanitary sewer system for treatmentswere the most
+likely to improve beach water quality.
+The location of curves in Figure 4 depends on the value
+chosen for the cross-shore mass transfer velocity. Intriguingly,
+the value adopted here (k ) 3 × 10-4 m/s) is within the range
+of k values (10-5 to 0.1 m/s) reported for interfacial mass
+transfer in turbulent flows (95), potentially linking the
+problem of beach water quality to the well-developed
+literature on turbulence-driven interfacial flux (95). However,
+it is unclear at this stage how environmental factors unique
+to beaches (e.g., generation of nearshore turbulence by waves
+and currents, the prismatic geometry of the interface, and
+bed roughness, to name a few) and to FIB and pathogens
+(e.g., their origin within the nearshore wedge, size, diffusivity,
+and potential particle association) influence the value of k.
+Therefore, the mass transfer velocity value used to generate
+the curves in Figure 4 should be viewed as illustrative, and
+by no means definitive.
+One quirk of our exact solution is the semi-infinite nature
+of the line source geometry, which starts at fixed point along
+the beach, at x ) 0. A less general result can be obtained by
+j
+forcing ∂C/∂x
+) 0 in eq 4, whereupon the predicted crossshore mass transfer velocity becomes
+k)
+
+εankle
+, y > yankle
+yanklelog(ybay /yankle) bay
+
+(11)
+
+where εankle is the eddy diffusivity in ankle depth water (located
+at cross-shore position yankle) and ybay is the cross-shore
+distance over which the beach boundary layer persists.
+Unfortunately, this simplification, while eliminating the need
+to specify an alongshore distance x, does not allow for the
+computation of ybay from known or presumed parameters;
+c.f., the expression for yBBL in eq 8c.
+Practical Implications and Future Research. The large
+impact of beach-side sources on nearshore water quality,
+illustrated above, derives from the low dilutions associated
+with the prismatic geometry of the water column, together
+with the physics of nearshore mixing and transport which
+is dominated by along-shore advection (e.g., from tidal flow
+in and out of a tidal embayment) and cross-shore turbulent
+diffusion (e.g., from waves and currents). These geometrical
+and physical transport characteristics result in the development of a concentration boundary layersor “beach boundary
+layer”sthat traps pollution in shallow water very close to
+shore, where routine water quality monitoring is carried out
+and most human recreational contact occurs. As a practical
+matter, these observations highlight the importance of
+controlling beach-side sources of fecal pollution, particularly
+8810 9 ENVIRONMENTAL SCIENCE & TECHNOLOGY / VOL. 44, NO. 23, 2010
+
+in cases where fecal-oral pathogens are present (e.g., from
+sewer overflow into storm sewer drains).
+The very sharp concentration fronts predicted by the
+numerical and exact solutions are consistent with the
+observation that FIB concentration falls off rapidly with
+increasing water depth in sheltered embayments. According
+to eq 9, when Cankle > Cbay, beach-side pollution sources are
+primarily responsible for FIB impairment in ankle depth
+waters, and the net flux of FIB is directed from onshore to
+offshore; that is, m′′ > 0. The sign of the cross-shore gradient
+reverses (Cankle > Cbay) at beaches impacted by the onshore
+transport of bay-side sources, and the net flux of FIB is
+directed from offshore to onshore; that is, m′′ < 0. Thus, the
+sign of the cross-shore FIB concentration gradient indicates
+the relative importance of beach-side and bay-side pollution.
+Our results have implications relative to the design of
+recreational beach monitoring programs. The CFD and exact
+solutions predict a concentration singularity at the waterline,
+or “triple-point”, where water, beach, and air all intersect.
+Clearly, real beaches will not have infinite concentrations at
+the triple-point, but our results suggest that FIB concentrations in “ankle depth” water are likely to be very sensitive to
+small variations in how and where water samples are
+collected. This observation may help to explain why recreational beach water quality data exhibit extreme (fractallike) variability (96)sa fact that negatively impacts the
+reliability of public water quality notification programs (97)
+and recreational waterborne illness risk and cost assessments
+(98). Shifting the sampling location from ankle to waist depth
+should yield a more representative, and stable, estimate of
+the “plateau” concentration within the beach boundary layer
+(see Figure 3).
+To achieve an exact solution to the governing partial
+differential equation (eq 3), we neglected all ecological and
+nonconservative processes that might affect FIB concentrations in shallow nearshore waters, and made further assumptions regarding the dominant mixing and transport
+processes associated with nearshore flows. While these
+assumptions allow for an exact solution to the governing
+partial differential equation, and a specification of the
+function f in eq 1, it remains to be seen under what conditions
+they are satisfied in practice. For example, our exact solution
+assumes that cross-shore advective exchange is negligible
+(compared to other processes), and hence it may be
+inapplicable at beaches with rip currents and/or cross-shore
+directed anthropogenic currents (e.g., prop wash from boats).
+Another concern is the uncertainty associated with shoreline
+loading rate and transport parameters, which could be
+substantial. One advantage of the exact solution derived here
+is that parameter uncertainty can be propagated, for example
+through Monte Carlo simulations, to yield uncertainty
+estimates for nearshore pollutant concentrationsssomething
+that is difficult to accomplish in the context of numerical
+simulations of nearshore water quality.
+
+Acknowledgments
+Research described in this paper was supported by a National
+Science Foundation Award No. 0724806 to S.B.G., a National
+Science Foundation award to B.F.S. (No. 0825165), the Santa
+Ana Regional Water Quality Control Board, and the County
+of Orange. Special thanks to the Newport Bay Technical
+Advisory Committee, P. Holden, A. Boehm, R. Guza, and five
+anonymous reviewers for feedback and guidance, G. Trinidad
+for help with graphics, and Dr. Jack Skinner for insisting that
+alongshore currents affect FIB pollution in ankle depth waters.
+
+Supporting Information Available
+Derivation of the exact solution, methods used for carrying
+out CFD calculations and calibrating the eddy diffusivity and
+
+
+
+velocity fields for the exact solution. This material is available
+free of charge via the Internet at http://pubs.acs.org.
+
+Literature Cited
+(1) Testing the Waters: A Guide to Water Quality at Vacation Beaches
+(Nineteenth Annual Report): Natural Resources Defense Council:
+Washington DC, 2009.
+(2) California’s Enclosed Beachessimproving Water Quality at
+Enclosed Beaches: A Report on the Enclosed Beach Symposium
+and Workshop (Clean Beaches Initiative); California State Water
+Resources Control Board: Sacramento, CA, 2006.
+(3) Frick, W. E.; Ge, Z.; Zepp, R. G. Nowcasting and forecasting
+concentrations of biological contaminants at beaches: A
+feasibility and case study. Environ. Sci. Technol. 2008, 42, 4818–
+4824.
+(4) Whitman, R. L.; Nevers, M. B.; Byappanahalli, M. N. Examination
+of the watershed-wide distribution of Escherichia coli along
+Southern Lake Michigan: An Integrated Approach. Appl. Environ.
+Microbiol. 2006, 72 (11), 7301–7310.
+(5) Boehm, A. B.; Fuhrman, J. A.; Mrse, R. D.; Grant, S. B. Tiered
+approach for identification of a human fecal pollution source
+at a recreational beach: Case study at Avalon Bay, Catalina Island,
+California. Environ. Sci. Technol. 2003, 37, 673–680.
+(6) Wade, T. J.; Pai, N.; Eisenberg, J. N. S.; Colford, J. M. Do U.S.
+Environmental Protection Agency water quality guidelines for
+recreational waters prevent gastrointestinal illness? A systematic
+review and meta-analysis. Environ. Health Perspect. 2003, 111
+(8), 1102–1109.
+(7) Review of Published Studies to Characterize the Relative Risks
+from Different Sources of Fecal Contamination in Recreational
+Waters, EPA 822-R-09-001; U. S. Environmental Protection
+Agency, Office of Water: Washington DC, 2009.
+(8) Boehm, A. B.; Ashbolt, N. J.; Colford, J. M.; Dunbar, L. E.; Fleming,
+L. E.; Gold, M. A.; Hansel, J. A.; Hunter, P. R.; Ichida, A. M.;
+McGee, C. D.; Soller, J. A.; Weisberg, S. B. A sea change ahead
+for recreational water quality criteria. J. Water Health 2009, 7,
+9–20.
+(9) Geyer, W. R.; Signell, R. P. A reassessment of the role of tidal
+dispersion in estuaries and bays. Estuaries 1992, 15, 97–108.
+(10) Ridderinkhof, H.; Zimmerman, J. T. F. Chaotic stirring in a tidal
+system. Science 1992, 252, 1107–1111.
+(11) Fisher, H. B., List, E. J., Koh, R. C. Y., Imberger, J., Brooks, N. H.
+Mixing in Inland and Coastal Waters; Academic Press Inc.: New
+York, 1979.
+(12) Liu, L.; Phanikumar, M. S.; Molloy, S. L.; Whitman, R. L.; Shively,
+D. A.; Nevers, M. B.; Schwab, D. J.; Rose, J. B. Modeling the
+transport and inactivation of E. coli and enterococci in the nearshore region of Lake Michigan. Environ. Sci. Technol. 2006, 40,
+5022–5028.
+(13) Clarke, L. B.; Ackerman, D.; Largier, J. Dye dispersion in the surf
+zone: measurements and simple models. Cont. Shelf Res. 2007,
+27, 650–669.
+(14) Schmidt, W. E.; Guza, R. T.; Slinn, D. N. Surf zone currents over
+irregular bathymetry: drifter observations and numerical simulations. J. Geophys. Res. 2005, 110, C12015.
+(15) Grant, S. B.; Kim, J. H.; Jones, B. H.; Jenkins, S. A.; Wasyl, J.;
+Cudaback, C. Surf zone entrainment, along-shore transport,
+and human-health implications of pollution from tidal outlets.
+J. Geophys. Res. 2005, 110, C10, DOI: 10.1029/2004JC002401.
+(16) Spydell, M. S.; Feddersen, F.; Guza, R. T. Observations of drifter
+dispersion in the surf zone: The effect of sheared alongshore
+currents. J. Geophys. Res. 2009, 114, C07028.
+(17) Michelsen, T. C.; Boatman, C. D.; Norton, D.; Ebbesmeyer, C. C.;
+Francisco, M. D. Transport of contaminants along the Seattle
+waterfront: effects of vessel traffic and waterfront construction
+activities. Water Sci. Technol. 1998, 37, 9–15.
+(18) Hill, D. F.; Beachler, M. M.; Johnson, P. A. Hydrodynamic Impacts
+of Commercial Jet-Boating on the Chilkat River, Alaska. Report;
+Department of Civil and Environmental Engineering, The
+Pennsylvania State University: University Park, PA, 2002.
+(19) Bogucki, D. J.; Jones, B. H.; Carr, M. E. Remote measurements
+of horizontal eddy diffusivity. J. Atmos. Oceanic Technol. 2005,
+22, 1373–1380.
+(20) Kashefipour, S. M.; Lin, B.; Harris, E.; Falconer, R. A. Hydroenvironmental modeling for bathing water compliance of an
+estuarine basin. Water Res. 2002, 36, 1854–1868.
+
+(21) Roberts, P. J. W., Salas, H. J., Reiff, F. M., Libhaber, M., Labbe,
+A., Thomson, J. C. Marine Wastewater Outfalls and Treatment
+Systems; IWA Publishing: London, U.K., 2010.
+(22) Nekouee, N. Dynamics and Numerical Modeling of River Plumes
+in Lakes, Ph.D. Dissertation, Georgia Institute of Technology,
+Atlanta, GA, 2010.
+(23) Warrick, J. A.; DiGiacomo, P. M.; Weisberg, S. B.; Nezlin, N. P.;
+Mengel, M.; Jones, B. H.; Ohlmann, J. C.; Washburn, L.; Terrill,
+E. J.; Farnsworth, K. L. River plume patterns and dynamics within
+the southern California Bight. Cont. Shelf Res. 2007, 27, 2427–
+2448.
+(24) Schwab, D. J.; Beletsky, D. Relative effects of wind stress curl,
+topography, and stratification on large-scale circulation in Lake
+Michigan. J. Geophys. Res. 2003, 18 (C2), 1–6.
+(25) Lake Michigan Grand River Plume Modeling website. http://
+www.glerl.noaa.gov/res/glcfs/gh/.
+(26) Southern California Coastal Ocean Observing System Tijuana
+River Plume Tracking website. http://www.sccoos.org/data/
+tracking/IB/.
+(27) Kim, S. Y.; Terrill, E. J.; Cornuelle, B. D. Assessing coastal plumes
+in a region of multiple discharges: The U.S.-Mexico border.
+Environ. Sci. Technol. 2009, 43, 7450–7457.
+(28) Jeong, Y.; Grant, S. B.; Ritter, S.; Pednekar, A.; Candelaria, L.;
+Winant, C. Identifying pollutant sources in tidally mixed systems:
+Case study of fecal indicator bacteria from marinas in Newport
+Bay, southern California. Environ. Sci. Technol. 2005, 39, 9083–
+9093.
+(29) Baasel-Tillis, P.; Tucker-Carver, J. Garbage and sewage disposal
+from recreational boats. J. Environ. Health 1998, 61 (4), 8–18.
+(30) Cruise Ship Discharge Assessment Report, EPA 842-R-07-005;
+U.S. Environmental Protection Agency, Office of Water: Washington DC, 2008.
+(31) Lee, C. M.; Lin, T. Y.; Lin, C.; Kohbodi, G. A.; Bhatt, A.; Lee, R.;
+Jay, J. A. Persistence of fecal indicator bacteria in Santa Monica
+Bay beach sediments. Water Res. 2006, 40, 2593–2602.
+(32) Sanders, B. F.; Arega, F.; Sutula, M. Modeling the dry-weather
+tidal cycling of fecal indicator bacteria in surface waters of an
+intertidal wetland. Water Res. 2005, 39, 3394–3408.
+(33) Steets, B. M.; Holden, P. A. A mechanistic model of runoffassociated fecal coliform fate and transport through a coastal
+lagoon. Water. Res. 2003, 37, 589–608.
+(34) Bai, S.; Lung, W.-S. Modeling sediment impact on the transport
+of fecal bacteria. Water Res. 2005, 39, 5232–5240.
+(35) Grant, S. B.; Sanders, B. F.; Boehm, A. B.; Redman, J. A.; Kim,
+J. H.; Mrse, R. D.; Chu, A. K.; Gouldin, M.; McGee, C. D.; Gardiner,
+N. A.; Jones, B. H.; Svejkovsky, J.; Leipzig, G. V.; Brown, A.
+Generation of enterococci bacteria in a coastal saltwater marsh
+and its impact on surf zone water quality. Environ. Sci. Technol.
+2001, 35, 2407–2416.
+(36) Elmir, S. M.; Wright, M. E.; Abdelzaher, A.; Solo-Gabriele, H. M.;
+Fleming, L. E.; Miller, G.; Rybolowik, M.; Shih, M. P.; Pillai, S. P.;
+Cooper, J. A.; Quaye, E. A. Quantitative evaluation of bacteria
+released by bathers in a marine water. Water Res. 2007, 41,
+3–10.
+(37) Gerba, C. P. Assessment of enteric pathogen shedding by bathers
+during recreational activity and its impact on water quality.
+Quant. Microbiol. 2000, 2, 55–68.
+(38) McDonald, J. L.; Hartel, P. G.; Gentit, L. C.; Belcher, C. N.; Gates,
+K. W.; Rodgers, K.; Fisher, J. A.; Smith, K. A.; Payne, K. A.
+Identifying sources of fecal contamination inexpensively with
+targeted sampling and bacterial source tracking. J. Environ. Qual.
+2006, 35, 889–897.
+(39) Wright, M. E.; Solo-Gabriele, H. M.; Elmir, S.; Fleming, L. E.
+Microbial load from animal feces at a recreational beach. Mar.
+Pollut. Bull. 2009, 58, 1649–1656.
+(40) Wang, J. D.; Solo-Gabriele, H. M.; Abdelzaher, A. M.; Fleming,
+L. E. Estimation of enterococci input from bathers and animals
+on a recreational beach using camera images. Mar. Pollut. Bull.
+2010, 60, 127–1278.
+(41) Shellenbarger, G. G.; Athearn, N. D.; Takekawa, J. Y.; Boehm,
+A. B. Fecal indicator bacteria and Salmonella in ponds managed
+as bird habitat, San Francisco Bay, California, USA. Water Res.
+2008, 42 (12), 2921–2930.
+(42) Yamahara, K. M.; Layton, B. A.; Santoro, A. E.; Boehm, A. B.
+Beach sands along the California coast are diffuse sources of
+fecal bacteria to coastal waters. Environ. Sci. Technol. 2007, 41,
+4515–4521.
+(43) Abdelzaher, A. M.; Wright, M. E.; Ortega, C.; Solo-Gabriele, H. M.;
+Miller, G.; Elmir, S.; Newman, X.; Shih, P.; Bonilla, J. A.; Bonilla,
+T. D.; Palmer, C. J.; Scott, T.; Lukasik, J.; Harwood, V. J.; McQuaig,
+S.; Sinigalliano, C.; Gidley, M.; Plano, L. R. W.; Zhu, X.; Wang,
+VOL. 44, NO. 23, 2010 / ENVIRONMENTAL SCIENCE & TECHNOLOGY 9 8811
+
+
+
+J. D.; Fleming, L. E. Presence of pathogens and indicators at a
+non-point source subtropical recreational marine beach. Appl.
+Environ. Microb. 2010, 76, 724–732.
+(44) Sinigalliano, C. D.; Gidley, M. L.; Shibata, T.; Whitman, D.; Dixon,
+T. H.; Laws, E.; Hou, A.; Bachoon, D.; Brand, L.; Amaral-Zettler,
+L.; Gast, R. J.; Steward, G. F.; Nigro, O. D.; Fujioka, R.; Betancourt,
+W. Q.; Vithanage, G.; Mathews, J.; Fleming, L. E.; Solo-Gabriele,
+H. M. Impacts of hurricanes Katrina and Rita on the microbial
+landscape of the New Orleans area. Proc. Nat. Acad. Sci. U.S.A.
+2007, 104 (21), 9029–9034.
+(45) Pianetti, A.; Bruscolini, F.; Sabatini, L.; Colantoni, P. Microbial
+characteristics of marine sediments in bathing area along PesaraGabicce coast (Italy): A preliminary study. J. Appl. Microbiol.
+2004, 97, 682–689.
+(46) Ferguson, D. M.; Moore, D. F.; Getrich, M. A.; Zhowandai, M.
+Enumeration and speciation of Enterococci found in marine
+and intertidal sediments and coastal water in southern California. J. Appl. Microbiol. 2005, 99, 598–608.
+(47) Mallin, M. A.; Cahoon, L. B.; Toothman, B. R.; Parsons, D. C.;
+McIver, M. R.; Ortwine, M. L.; Harrington, R. N. Impacts of a
+raw sewage spill on water and sediment quality in an urbanized
+estuary. Mar. Pollut. Bull. 2007, 54, 81–88.
+(48) Mika, K. B.; Imamura, G.; Chang, C.; Conway, V.; Fernandez,
+G.; Griffith, J. F.; Kampalath, R. A.; Lee, C. M.; Lin, C.-C.;
+Moreno, R.; Thompson, S.; Whitman, R. L.; Jay, J. A. Pilot and
+bench-scale testing of faecal indicator bacteria survival in
+marine beach sand near point sources. J. Appl. Microbiol. 2009,
+107, 72–84.
+(49) Byappanahalli, M. N.; Shively, D. A.; Nevers, M. B.; Sadowsky,
+M. J.; Whitman, R. L. Growth and survival of Escherichia coli
+and Enterococci populations in the macro-alga Cladophora
+(Chlorophyta). FEMS Microbiol. Ecol. 2003, 46, 203–211.
+(50) Verhougstraete, M. P.; Byappanahalli, M. N.; Rose, J. B.;
+Whitman, R. L. Cladophora in the Great Lakes: impacts on
+beach water quality and human health. Water Sci. Technol.
+2010, 62, 68–76.
+(51) Anderson, S. A.; Turner, S. J.; Lewis, G. D. Enterococci in the
+New Zealand environment: implications for water quality
+monitoring. Wat. Sci. Tech. 1997, 35, 324–331.
+(52) Boehm, A. B.; Weisberg, S. B. Tidal forcing of enterococci at
+marine recreational beaches at fortnightly and semidiurnal
+frequencies. Environ. Sci. Technol. 2005, 39, 5575–5583.
+(53) Nevers, M. B.; Whitman, R. L.; Frick, W. E.; Ge, Z. Interaction
+and influence of two creeks on Escherichia coli concentrations
+of nearby beaches: exploration of predictability and mechanisms. J. Environ. Qual. 2007, 36, 1338–1345.
+(54) Reeves, R. L.; Grant, S. B.; Mrse, R. D.; Oancea, C. M. C.; Sanders,
+B. F.; Boehm, A. B. Scaling and management of fecal indicator
+bacteria in runoff from a coastal urban watershed in southern
+California. Environ. Sci. Technol. 2004, 38, 2637–2648.
+(55) Jiang, S. C.; Chu, W.; Olson, B. H.; He, J.-W.; Choi, S.; Zhang, J.;
+Le, J. Y.; Gedalanga, P. B. Microbial source tracking in a small
+southern California urban watershed indicates wild animals
+and growth as a source of fecal bacteria. Environ. Biotechnol.
+2007, 76, 927–934.
+(56) Sercu, B.; Van De Werfhorst, L. C.; Murray, J.; Holden, P. A.
+Storm drains are sources of human fecal pollution during dry
+weather in three urban southern California watersheds. Environ.
+Sci. Technol. 2009, 43, 293–298.
+(57) Haile, R. W.; Witte, J. S.; Gold, M.; Cressey, R.; McGee, C.; Millikan,
+R. C.; Glasser, A.; Harawa, N.; Ervin, C.; Harmon, P.; Harper, J.;
+Dermand, J.; Alamillo, J.; Barrett, K.; Nides, M.; Wang, G. The
+health effects of swimming in ocean water contaminated by
+storm drain runoff. Epidemiology 1999, 10 (4), 355–363.
+(58) Inman, D. L.; Brush, B. M. The coastal challenge. Science 1973,
+181 (4094), 20–32.
+(59) Dorsey, J. H. Improving water quality through California’s Clean
+Beach Initiative: an assessment of 17 projects. Environ. Monit.
+Assess. 2009, DOI: 10.1007/s10661-009-0987-5.
+(60) Arnone, R. D.; Walling, J. P. Waterborne pathogens in urban
+watersheds. J. Water Health 2007, 5 (1), 149–162.
+(61) Clark, S. E.; Burian, S.; Pitt, R.; Field, R. Urban wet-weather
+flows. Water Environ. Res. 2007, 62, 1166–1227.
+(62) Harris, P. J. Water quality impacts from on-site waste disposal
+systems to coastal areas through groundwater discharge.
+Environ. Geol. 1995, 26, 262–268.
+(63) Paul, J. H.; McLaughlin, M. R.; Griffin, D. W.; Lipp, E. K.; Stokes,
+R.; Rose, J. B. Rapid movement of wastewater from on-site
+disposal systems into surface waters in the Lower Florida Keys.
+Estuaries 2000, 23 (5), 662–668.
+(64) Lipp, E. K.; Farrah, S. A.; Rose, J. B. Assessment and impact
+of microbial fecal pollution and human enteric pathogens
+8812 9 ENVIRONMENTAL SCIENCE & TECHNOLOGY / VOL. 44, NO. 23, 2010
+
+in a coastal community. Mar. Pollut. Bull. 2001, 42 (4), 286–
+293.
+(65) Dillon, K. S.; Corbett, D. R.; Chanton, J. P.; Burnett, W. C.;
+Furbish, D. J. The use of sulfur hexafluoride (SF6) as a tracer
+of septic tank effluent in the Florida Keys. J. Hydrol. 1999, 220,
+129–140.
+(66) Boehm, A. B.; Shellenbarger, G.; Paytan, A. Groundwater
+discharge: potential association with fecal indicator bacteria in
+the surf zone. Environ. Sci. Technol. 2004, 38, 3558–3566.
+(67) Meeroff, D. E.; Bloetscher, F.; Bocca, T.; Morin, F. Evaluation of water
+quality impacts of on-site treatment and disposal systems on urban
+coastal waters. Water, Air, Soil Pollut. 2008, 192, 11–24.
+(68) Thupaki, P.; Phanikumar, M. S.; Beletsky, D.; Schwab, D. J.;
+Nevers, M. B.; Whitman, R. L. Budget analysis of Escherichia
+coli at a southern Lake Michigan beach. Environ. Sci. Technol.
+2010, 44 (3)), 1010–1016.
+(69) Pommepuy, M.; Guillaud, J. F.; Dupray, E.; Derrien, A.; Leguyader, F.; Cormier, M. Enteric bacteria survival factors. Water
+Sci. Technol. 1992, 25, 93–103.
+(70) Anderson, K.; Whitlock, J.; Harwood, V. Persistence and
+differential survival of fecal indicator bacteria in sub-tropical
+waters and sediments. Appl. Environ. Microbiol. 2005, 71, 3041–
+3048.
+(71) Davies, C. M.; Long, J. A. H.; Donald, M.; Ashbolt, N. J. Survival
+of fecal microorganisms in marine and freshwater sediments.
+Appl. Environ. Microbiol. 1995, 61, 1888–1896.
+(72) Desmarais, T.; Solo-Gabriele, H.; Palmer, C. Influence of soil
+on fecal indicator organisms in a tidally influenced subtropical environment. Appl. Environ. Microbiol. 2002, 68, 1165–
+1172.
+(73) Gerba, C.; McLeod, J. Effects of sediments on the survival of
+Escherichia coli in marine waters. Appl. Environ. Microbiol. 1976,
+32, 114–120.
+(74) Sinton, L. W.; Finlay, R. K.; Lynch, P. A. Sunlight inactivation
+of fecal bacteriophages and bacteria in sewage polluted seawater.
+Appl. Environ. Microbiol. 1999, 65, 3605–3613.
+(75) Sinton, L. W.; Hall, C. H.; Lynch, P. A.; Davies-Colley, R. J. Sunlight
+inactivation of fecal indicator bacteria and bacteriophages from
+waste stabilization pond effluent in fresh and saline waters.
+Appl. Environ. Microbiol. 2002, 68, 1122–1131.
+(76) Boehm, A. B.; Yamahara, K. M.; Love, D. C.; Peterson, B. M.;
+McNeill, K.; Nelson, K. L. Covariation and photoinactivation of
+traditional and novel indicator organisms and human viruses
+at a sewage-impacted marine beach. Environ. Sci. Technol. 2009,
+43, 8046–8052.
+(77) Clark, C. D.; De Bruyn, W. J.; Jakubowski, S. D.; Grant, S. B.
+Hydrogen peroxide production in marine bathing waters:
+Implications for fecal indicator bacteria mortality. Mar. Pollut.
+Bull. 2008, 56, 397–401.
+(78) Surbeck, C. Q.; Jiang, S. C.; Grant, S. B. Ecological control of
+fecal indicator bacteria in an urban stream. Environ. Sci. Technol.
+2010, 44, 631–637.
+(79) Pernthaler, J. Predation on prokaryotes in the water column
+and its ecological implications. Nature Reviews Microbiology
+2005, 3, 537–546.
+(80) Menon, P.; Billen, G.; Servais, P. Mortality rates of autochthonous
+and fecal bacteria in natural aquatic systems. Water Res. 2003,
+37, 4151–4158.
+(81) Byappanahalli, M. N.; Fujioka, R. S. Evidence that tropical soil
+environment can support the growth of Escherichia coli. Water
+Sci. Technol. 1998, 38, 171–174.
+(82) Toothman, B. R.; Cahoon, L. B.; Mallin, M. A. Phosphorus and
+carbohydrate limitation of fecal coliform and fecal enterococcus
+within tidal creek sediments. Hydrobiologia 2009, 636 (1), 401–
+412.
+(83) Byappanahalli, M.; Fowler, M.; Shively, D.; Whitman, R. Ubiquity
+and persistence of Escherichia coli in a midwestern coastal
+stream. Appl. Environ. Microbiol. 2003, 69, 5459–4555.
+(84) Bolster, C. H.; Bromley, J. M.; Jones, S. H. Recovery of chlorineexposed Escherichia coli in estuarine microcosms. Environ. Sci.
+Technol. 2005, 39, 3083–3089.
+(85) Kay, D.; Stapleton, C. M.; Wyer, M. D.; McDonald, A. T.; Crowther,
+J.; Paul, N.; Jones, K.; Farancis, C.; Watkins, J.; Wilkinson, J.;
+Humphrey, N.; Lin, B.; Yang, L.; Falconer, R. A.; Gardner, S.
+Decay of intestinal enterococci concentrations in high-energy
+estuarine and coastal waters: towards real-time T90 values for
+modeling faecal indicators in recreational waters. Water Res.
+2005, 39, 655–667.
+(86) Hipsey, M. R.; Antenucci, J. P.; Brookes, J. D. A generic, processbased model of microbial pollution in aquatic systems. Water
+Resour. Res. 2008, 44, W07408.
+
+
+
+(87) Litton, R. M.; Ahn, J. H.; Sercu, B.; Holden, P. A., Sedlak, D. L.
+Evaluation of chemical, molecular, and traditional markers of
+fecal contamination in an effluent dominated urban stream.
+Environ. Sci. Technol. 2010, 44, 7369–7375.
+(88) Plancherel, Y.; Cowen, J. P. Towards measuring particleassociated fecal bacteria in tropical streams. Water Res. 2007,
+41, 1501–1515.
+(89) Kim, J. H.; Grant, S. B.; McGee, C. D.; Sanders, B. F.; Largier, J. L.
+Locating sources of surf zone pollution: a mass budget analysis
+of fecal indicator bacteria at Huntington Beach, California.
+Environ. Sci. Technol. 2004, 38, 2626–2636.
+(90) Incropera, F. P., Dewitt, D. P., Bergman, T. L., Lavine, A. S.
+Fundamentals of Heat and Mass Transfer, 6th ed.; John Wiley
+and Sons, Inc.: Hoboken, NJ, 2007.
+(91) Wilcox, D. C. Turbulence Modeling for CFD: DCW Industries,
+2006.
+(92) Arega, F.; Sanders, B. F. Dispersion Model for Tidal Wetlands.
+ASCE J. Hydraul. Eng. 2004, 130 (8), 739–754.
+(93) Sanders, B. F.; Bradford, S. F. Impact of Limiters on Accuracy
+of High-Resolution Flow and Transport Models. ASCE J. Eng.
+Mech. 2006, 132 (1), 87–98.
+
+(94) Babarutsi, S.; Chu, V. H. A two-length-scale model for quasitwo-dimensional turbulent shear flows. In Proceedings of the
+24th Congress of IAHR, Vol. C; International Association for
+Hydraulic Research: Madrid, Spain, 1991; p 51-60.
+(95) Lorke, A.; Peeters, F. Toward a unified scaling relation for
+interfacial fluxes. J. Phys. Oceanogr. 2006, 36, 955–961.
+(96) Boehm, A. B. Enterococci concentrations in diverse coastal
+environments exhibit extreme variability. Environ. Sci. Technol.
+2007, 41, 8227–8232.
+(97) Kim, J. H.; Grant, S. B. Public mis-notification of coastal water
+quality: A probabilistic evaluation of posting errors at Huntington
+Beach, California. Environ. Sci. Technol. 2004, 38, 2497–2504.
+(98) Given, S.; Pendleton, L. H.; boehm, A. B. Regional public health
+cost estimates of contaminated coastal waters: A case study of
+gastroenteritis at southern California beaches. Environ. Sci.
+Technol. 2006, 40, 4851–4858.
+(99) Martin, A.; Gruber, S. Amplification of indicator bacteria in organic
+debris on southern California beaches. Westin Solutions Inc.
+Technical Report #0507; Westin Solutions, Carlsbad, CA, 2005.
+
+ES101732M
+
+VOL. 44, NO. 23, 2010 / ENVIRONMENTAL SCIENCE & TECHNOLOGY 9 8813
+
+

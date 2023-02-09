@@ -1,0 +1,890 @@
+ARTICLE
+
+Lake-Associated Outbreak of Escherichia coli O157:H7
+in Clark County, Washington, August 1999
+Michael G. Bruce, MD, MPH; Michael B. Curtis, MD, MPH; Melanie M. Payne, MPH; Romesh K. Gautom, PhD;
+Eric C. Thompson, BS; Aimee L. Bennett, BA; John M. Kobayashi, MD, MPH
+
+Context: Escherichia coli O157:H7, one of hundreds of
+
+strains of the gram-negative bacterium E coli, has been
+implicated in numerous lake-borne outbreaks of infection during the past decade. In August 1999, several children who later became ill with E coli O157:H7 infection
+reported swimming in a lake in Clark County, Washington. The lake was closed and an investigation begun.
+Objectives: To identify the source of the outbreak and
+
+determine risk factors for infection with E coli O157:H7.
+Design, Setting, and Patients: Two case-control studies were performed among residents of and visitors to
+Clark County in August 1999 by using community and
+campground-registrant control subjects.
+Main Outcome Measure: Risk factors for infection with
+
+E coli O157:H7 among Clark County residents or visitors.
+Results: We identified 37 case patients (including 29
+
+primary-case patients) with a median age of 5 years (age
+range, 1-14 years for primary-case patients). Eight children were hospitalized, 3 with hemolytic uremic syn-
+
+drome; none died. With analysis restricted to primarycase patients, illness was strongly associated with
+swimming in the lake (18 of 18 case patients vs 1 of 18
+neighborhood-matched and age-matched control subjects; matched odds ratio undefined; P⬍.001). All primarycase patients were children younger than 15 years who
+swam in the lake. Illness was associated with placing the
+head underwater, getting lake water in the mouth, or swallowing lake water (26 of 27 case patients vs 43 of 62 control subjects; matched odds ratio=11.5; P=.005). Cultures of lake water yielded E coli O157:H7 that matched
+the outbreak strain according to results of pulsed-field
+gel electrophoresis.
+Conclusions: To date, this is one of the largest documented outbreaks of E coli O157:H7 infection associated with unchlorinated recreational water and represents the first outbreak in which the strain was isolated
+from lake water. Guidelines are needed to decrease the
+risk of enteric illness associated with swimming in recreational lakes.
+
+Arch Pediatr Adolesc Med. 2003;157:1016-1021
+
+E
+
+From the Epidemiology
+Program Office, Centers for
+Disease Control and
+Prevention, Atlanta, Ga
+(Drs Bruce and Curtis);
+Southwest Washington Health
+District, Vancouver
+(Ms Payne); and Washington
+State Department of Health,
+Seattle (Drs Gautom and
+Kobayashi, Mr Thompson,
+and Ms Bennett).
+
+SCHERICHIA COLI O157:H7 is
+a prominent cause of both
+epidemic and sporadic gastroenteritis in the United
+States.1-5 Infection with E coli
+O157:H7 can lead to hemolytic uremic syndrome, a devastating and sometimes fatal
+complication characterized by microangiopathic hemolytic anemia, thrombocytopenia, and renal failure.1,6,7 In population studies, age-specific attack rates for hemolytic
+uremic syndrome have been highest among
+children younger than 5 years.8-11
+The most common modes of transmission of E coli O157:H7 are ingestion
+of contaminated food or water and personto-person spread.12,13 Occasionally, outbreaks due to E coli O157:H7 have occurred in association with swimming in
+freshwater lakes, the ocean, or poorly chlorinated swimming pools.3-5,14-24 These outbreaks have predominantly affected chil-
+
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 157, OCT 2003
+1016
+
+dren and presumably occur as a result of
+the swimmers’ inadvertent ingestion of water contaminated with feces of human or
+animal origin (Table 1). In none of these
+swimming-associated outbreaks have E coli
+O157:H7 bacteria been identified in environmental samples.
+In 1987, Washington was the first state
+to mandate public health reporting of E coli
+O157:H7 infections by physicians and diagnostic laboratories. All patients with reported cases were interviewed in depth and
+questioned about possible sources of infection. Clinical laboratories in Washington State send all isolates of E coli O157:H7
+to the Washington State Public Health
+Laboratory (WPHL) for subtyping, and in
+1995, the WPHL began to perform pulsedfield gel electrophoresis (PFGE) on all E coli
+O157:H7 isolates.
+In late August 1999, the number of
+reported cases of E coli O157:H7 infec-
+
+WWW.ARCHPEDIATRICS.COM
+
+Downloaded from www.archpediatrics.com at University of Illinois - Chicago, on August 25, 2009
+©2003 American Medical Association. All rights reserved.
+
+
+
+Table 1. Reported Escherichia coli Outbreaks Associated With Recreational Water
+
+Authors
+16
+
+Keene et al
+Brewster et al19
+Hildebrand et al22
+Cransberg et al14
+Ackman et al18
+Centers for Disease
+Control and Prevention17
+Levy et al3
+Levy et al3
+Levy et al3
+Levy et al3
+Friedman et al21
+Barwick et al4
+Paunio et al15
+Barwick et al4
+Barwick et al4
+Feldman et al23
+McCarthy et al24
+Lee et al5
+Lee et al5
+Lee et al5
+Health Protection Agency20
+
+Year of
+Outbreak
+
+State/Country
+
+No. of Median
+Age
+Case Patients
+Serotype Cases Age, y Range, y With HUS, %
+
+Risk Factor for
+Case-Control Study
+
+1991
+1992
+1993
+1993
+1994
+1995
+
+Oregon
+Scotland
+England
+The Netherlands
+New York
+Illinois
+
+O157
+O157
+O157
+O157
+O157
+O157
+
+21
+6
+6
+4
+12
+12
+
+6
+3
+4
+3
+7
+NA
+
+1-16
+NA
+3-8
+NA
+1-13
+2-12
+
+14
+17
+50
+100
+17
+25
+
+Swim, swallow water
+NA
+NA
+NA
+Swallow water
+Swim, swallow water
+
+Lake
+Paddling pool
+Paddling pool
+Lake
+Lake
+Lake
+
+1995
+1995
+1995
+1996
+1996
+1997
+1997
+1998
+1998
+1999
+1999
+1999
+1999
+1999
+1999
+
+Wisconsin
+Minnesota
+Minnesota
+Minnesota
+Georgia
+Missouri
+Finland
+Minnesota
+Georgia
+California
+Connecticut
+Wisconsin
+Florida
+Nebraska
+England
+
+O157
+O157
+O157
+O157
+O157
+O157
+O157
+O157
+O157
+O157
+O121
+O157
+O157
+O157
+O157
+
+8
+6
+2
+6
+18
+8
+14
+5
+26
+7
+11
+5
+2
+7
+14
+
+NA
+NA
+NA
+NA
+13
+NA
+NA
+NA
+NA
+NA
+6.5
+NA
+NA
+NA
+NA
+
+NA
+NA
+NA
+NA
+NA
+NA
+3-8
+NA
+NA
+6-7
+1-62
+NA
+NA
+NA
+NA
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+0
+27
+NA
+NA
+NA
+NA
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+Swallow water
+Swim, swallow water
+NA
+NA
+NA
+NA
+
+Lake
+Lake
+Lake
+Lake
+Trailer park pool
+Lake
+Lake
+Lake
+Water park
+Lake
+Lake
+Lake
+Ditch water
+Wading pool
+Beach
+
+Source
+
+Abbreviations: HUS, hemolytic uremic syndrome; NA, not available.
+
+tion increased in Clark County in southwestern Washington. Initial interviews indicated that all cases occurred in children who swam in a popular recreational
+lake in a nearby state park. An investigation was conducted to identify the extent of the outbreak and determine its source.
+METHODS
+BACKGROUND
+Battle Ground Lake is a freshwater volcanic lake 28 acres
+(11.3 hectares) in area that is fed by underwater springs that
+flow through large lava tubes. There is a steep caldera rim surrounding the lake. The lake sits within Battle Ground Lake
+State Park, a multiuse facility that includes campgrounds with
+a capacity of 200, picnic areas, playgrounds, a concession
+stand, a swimming area, and a boat launch for fishing and
+pleasure craft. The swimming area comprises a shallow
+swimming area for children (stagnant water ⱕ2 ft [0.6 m]
+deep with a mud bottom) and an adult swimming area (ⱖ4 ft
+[1.2 m] deep), with the total beach area measuring 125 ft
+(38.1 m) long. The toilet facilities closest to the beach are 300 ft
+(91.4 m) up the steep caldera rim. The park is visited by an
+estimated 400 day users and 200 overnight campers on an average summer day; however, in August 1999, warm weather
+and low precipitation levels were noted, and the park had as
+many as 2500 weekend visitors.
+DEFINITIONS AND CASE FINDING
+We defined a case patient as any resident of or visitor to Clark
+County with diarrhea onset after August 15, 1999, and either
+isolation from stool of the outbreak strain of E coli O157:H7,
+as determined by means of PFGE, or serologic diagnosis with
+an IgM or IgG antibody titer of 1:320 or more. A case was defined as primary if there was no close contact with another case
+patient in the 10 days before symptom onset and as secondary
+
+if there was close contact with another case patient during this
+period. Case patients were identified through routine laboratory and physician reports; telephone calls to the health department by physicians, laboratories, and the public after extensive news coverage; and telephone calls to persons who had
+visited the state park between August 13 and August 28, 1999.
+Once the outbreak was recognized, we encouraged area physicians and laboratories to consider E coli O157:H7 infection
+and use appropriate cultures.
+We interviewed all residents of or visitors to Clark County
+with reported E coli O157:H7 infection and onset of diarrhea
+after August 15, 1999. Serum samples were collected from persons who met all aspects of the case definition but from whom
+stool samples were not available.
+For primary-case patients, the incubation period was defined as the number of days between the swim date and the date
+of symptom onset. When multiple swim dates were given, the
+date closest to symptom onset was used.
+CASE-CONTROL STUDIES
+Two consecutive case-control studies were performed to determine risk factors for infection. Only primary-case patients were
+included in this analysis. Using a standardized questionnaire administered by telephone, we obtained demographic and risk factor information from all case patients and control subjects (or their
+parents). Because most cases were among children, control subjects were limited to children younger than 15 years. Parents of
+children without symptoms were interviewed about their child’s
+potential exposures, including lake water, drinking water, and
+food consumption while at Battle Ground Lake State Park. They
+were also asked about other potential exposures, such as consumption of undercooked meat, raw milk, and sprouts; contact
+with diapered children; and handling livestock.
+Community Control Subjects
+An age-matched and neighborhood-matched case-control study
+was performed in the Battle Ground municipal area. We per-
+
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 157, OCT 2003
+1017
+
+WWW.ARCHPEDIATRICS.COM
+
+Downloaded from www.archpediatrics.com at University of Illinois - Chicago, on August 25, 2009
+©2003 American Medical Association. All rights reserved.
+
+
+
+formed a 1:1 match for age (±1 year) and neighborhood to distribute these 2 potential confounding variables in an identical
+manner among both groups. Telephone numbers were chosen
+by using a forward-digit dialing protocol that involved dialing
+the first 5 digits of the case patient’s 7-digit telephone number, then replacing the last 2 digits sequentially starting at 00,
+then 01, and so on, up to 99 until neighborhood-matched and
+age-matched control subjects were selected. Parents were interviewed about children without symptoms living in the household who were closest in age to the case patient. No child with
+an episode of diarrhea in the preceding 3 weeks was included
+as a control subject. If 2 children within the household matched
+the age criterion, then the control subject closest in age to the
+case patient was selected.
+
+the remaining filter was placed in a modified trypticase soy broth
+with agar.
+Both clinical and environmental isolates were subcultured on appropriate media and incubated at 37°C overnight.
+Genomic DNA from the isolates was prepared and analyzed with
+the PFGE method described by Gautom.27
+ENVIRONMENTAL INVESTIGATIONS
+
+LABORATORY INVESTIGATION
+
+Environmental health specialists inspected the waste water systems closest to the swimming beach to assess their integrity and
+placed fluorescein dye in these systems to look for leakage into
+the swimming area. Operations and food-handling procedures
+of the sole food concessionaire were reviewed. Drinking water
+from water fountains near the swimming area was tested for evidence of fecal contamination by using a fluorescent reagent test
+(Colilert; IDEXX Laboratories Inc, Westbrook, Me) on August
+29, 1999. Before the identification of the outbreak, water from
+the child and adult swimming areas of the lake was not routinely tested. However, after 2 children reported becoming ill after swimming at the lake, 2 samples of lake water were collected on August 26, 1999 (2 days before the outbreak was
+identified and the lake closed) and tested for fecal coliforms by
+using standard methods. Once the outbreak was identified, additional samples of lake water and sediment were collected on
+August 29 and September 3, 1999, from multiple sites in and
+around the child and adult swimming areas of the lake. All samples
+were sent to the WPHL and tested for E coli O157:H7.
+
+Clinical Isolates
+
+STATISTICAL ANALYSIS
+
+Standard procedures were followed at the WPHL for the recovery of E coli O157:H7 from clinical samples. Stool samples
+from Cary-Blair transport medium were cultured on sorbitolMacConkey agar. Sorbitol-negative colonies were identified as
+E coli O157:H7 by means of latex agglutination (E coli O157
+Test Kit; Oxoid Limited, Basingstoke, England) and confirmed biochemically. The flagellar antigen H7 was identified
+by means of agglutination (RIM E coli O157:H7 Latex Kit; Remel Inc, Lenexa, Kan).
+Serum specimens obtained by means of venipuncture were
+sent to the Centers for Disease Control and Prevention in Atlanta, Ga, and were assayed for antibodies to E coli O157:H7
+lipopolysaccharide antigens as described elsewhere.25 Any IgM
+or IgG titers of 1:320 or more were considered positive for E
+coli O157:H7.
+
+Univariate odds ratios and univariate matched odds ratios were
+calculated by using commercially available software (Epi Info
+version 6.04b; Centers for Disease Control and Prevention).
+P values were 2-tailed, and values less than .05 were considered statistically significant.
+
+Camper Control Subjects
+The campground registration list, which included advance reservations, was used to identify another group of control subjects. Each telephone number on the list was called in an effort
+to identify children with no diarrhea in the preceding 3 weeks
+who were younger than 15 years and had either camped or spent
+1 or more days at Battle Ground Lake State Park during the outbreak from August 13 through August 28, 1999. Any child who
+had not been to the park during the outbreak or who had had a
+diarrheal illness in the preceding 3 weeks was excluded.
+
+Environmental Isolates
+At the WPHL, 10-g sediment samples and 10-mL water samples
+were incubated overnight at 42°C in A-1 broth. The initial concentration of A-1 broth was such that the addition of environmental samples did not reduce ingredient concentrations to less
+than that of the standard medium. Immunomagnetic separation with beads coated with anti-O157:H7 (Dynabeads antiE.coli O157; Dynal Biotech, Oslo, Norway) was performed on
+overnight enrichments from A-1 broth and plated on tellurite
+cefixime sorbitol-MacConkey agar. Typical E coli O157:H7 colonies were picked from tellurite cefixime sorbitol-MacConkey
+agar plates and confirmed by using standard biochemicals and
+latex agglutination. In addition to the A-1 method, lake water
+samples were tested by using the standard membrane filtration procedure for drinking water.26 The total volume of water
+filtered was 100 mL. Four filters were made: 1 was used after
+the usual procedure with m-endo broth (Millipore Corp, Billerica, Mass), 2 were placed on selective plating media (tellurite cefixime sorbitol-MacConkey agar and Fluorocult E coli
+O157:H7 agar [Merck & Co Inc, Darmstadt, Germany]), and
+
+RESULTS
+
+DESCRIPTIVE EPIDEMIOLOGIC FINDINGS
+We identified 37 cases of E coli O157:H7 infection (35
+culture confirmed, 2 serologically confirmed) (Figure 1).
+All 29 primary-case patients had visited the lake from August 13 through August 28, 1999. Swim dates were available in 28 of the 29 primary-case patients; the median
+incubation period from swim date to symptom onset was
+3.5 days (range, 1-11 days). Median age in all case patients was 5 years (age range, 8 weeks to 39 years); all
+primary-case patients were younger than 15 years.
+Twenty-four case patients (65%) were male. Eight secondary cases occurred among household or other close
+contacts. According to self-report, all 37 case patients had
+diarrhea, 31 (84%) had abdominal cramps, 24 (65%) had
+bloody diarrhea, 17 (46%) had nausea, 17 (46%) had fever, and 8 (22%) received antibiotics during their illness. Eight children were hospitalized, including 3 with
+hemolytic uremic syndrome; none died.
+EXCLUSION OF
+POTENTIAL CONTROL SUBJECTS
+Thirty-eight of 100 potential camper control subjects contacted were excluded because of diarrheal illness. No community control subjects reported diarrheal illness.
+
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 157, OCT 2003
+1018
+
+WWW.ARCHPEDIATRICS.COM
+
+Downloaded from www.archpediatrics.com at University of Illinois - Chicago, on August 25, 2009
+©2003 American Medical Association. All rights reserved.
+
+
+
+Primary
+Secondary
+
+9
+
+Table 2. Univariate Analysis of Risk Factors
+for Escherichia coli O157:H7 Infection
+in Case Patients vs Camper Control Subjects
+
+8
+
+Not III,
+Odds Ratio
+III, No. (%) No. (%) (95% Confidence
+(n = 27)* (n = 62)
+Interval)
+
+7
+
+No. of Cases
+
+Risk Factor
+
+Lake Closure
+
+6
+
+Head underwater
+Water in mouth
+Swallowed water
+Water exposure†
+⬎2 h per day spent in lake
+
+5
+4
+3
+2
+1
+0
+19
+
+20
+
+21
+
+22
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+August
+
+30
+
+31
+
+1
+
+21 (78)
+24 (89)
+14 (52)
+26 (96)
+7 (26)
+
+37 (60)
+33 (53)
+12 (19)
+43 (69)
+3 (5)
+
+2.4 (0.8-8.1)
+7.0 (1.8-39.4)
+4.5 (1.5-13.4)
+11.5 (1.6-495.4)
+6.9 (1.4-44.0)
+
+*Of the 29 primary cases, 2 were not included in the case-control study
+because of delay in diagnosis.
+†One or more of the first 3 water exposure variables.
+
+September
+
+Date of Onset
+C
+
+Figure 1. Escherichia coli O157:H7 primary and secondary cases from Battle
+Ground Lake, August-September 1999 (N=37).
+
+B
+
+B
+
+E
+
+E
+
+O
+
+C
+
+CASE-CONTROL STUDIES
+Community Control Subjects
+Of the 29 total primary cases identified in this outbreak,
+18 case patients were available when the first casecontrol study was performed. In a matched univariate
+analysis, illness was strongly associated with swimming
+in the lake (18 of 18 case patients vs 1 of 18 neighborhoodmatched and age-matched control subjects; matched odds
+ratio undefined; P⬍.001). No other risk factors were significantly associated with disease.
+Camper Control Subjects
+Of the 29 total primary cases identified in this outbreak,
+27 case patients were available at the time that the second case-control study was performed. In a univariate
+analysis, case patients were significantly more likely than
+camper control subjects to have taken lake water into the
+mouth (P = .002) and to have swallowed lake water
+(P=.002). Case patients were also more likely to have put
+their head underwater than were control subjects, although this difference was not statistically significant.
+When all 3 water exposure variables were combined into
+1, case patients were more likely than control subjects
+to report at least 1 of the 3 (26 of 27 case patients vs 43
+of 62 control subjects; matched odds ratio=11.5; P=.005).
+They also tended to spend more time in the water than
+did control subjects (P = .007) (Table 2).
+BACTERIAL SUBTYPING
+All 35 clinical isolates of E coli O157:H7 obtained during the outbreak were subtyped with PFGE and found
+indistinguishable from one another.
+ENVIRONMENTAL INVESTIGATIONS
+AND CONTROL MEASURES
+Inspection of the waste water system closest to the
+swimming beach by health district environmental spe-
+
+Figure 2. Pulsed-field gel electrophoresis patterns for clinical and
+environmental isolates. C indicates control subjects; B, background isolates;
+E, environmental lake isolates; and O, clinical isolate from a case patient.
+
+cialists revealed an intact system functioning properly,
+and fluorescein dye study results showed no evidence
+of leakage into the swimming area. No irregularities
+were detected in a review of operations and procedures
+used by the food concessionaire. Drinking water
+samples from water fountains near the swimming area
+were negative for coliforms. The 2 samples of lake
+water collected August 26, 1999, showed fecal coliform
+levels at 18 and 93 organisms per 100 mL, which is less
+than the Washington State regulatory standard of 100
+organisms per 100 mL for recreational water quality.
+The WPHL’s testing of lake water and sediment samples
+collected September 3, 1999, from the children’s swimming area identified E coli O157:H7 in the sediment
+sample. Furthermore, DNA fingerprinting with PFGE
+of these environmental isolates revealed patterns that
+exactly matched the outbreak pattern of the clinical isolates obtained from swimmers and their close contacts
+(Figure 2). In addition, results of a separate laboratory
+investigation at the University of Washington (Seattle)
+
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 157, OCT 2003
+1019
+
+WWW.ARCHPEDIATRICS.COM
+
+Downloaded from www.archpediatrics.com at University of Illinois - Chicago, on August 25, 2009
+©2003 American Medical Association. All rights reserved.
+
+
+
+8
+
+No. of Primary-Case Patients
+
+7
+6
+5
+4
+3
+2
+1
+0
+13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+August 1999
+
+Swim Date
+
+Figure 3. Number of primary-case patients according to swim date at Battle
+Ground Lake (N = 28). The exact swim date was unavailable in 1 primary-case
+patient.
+
+confirmed a match between environmental and clinical
+isolates by means of PFGE.28
+COMMENT
+
+This outbreak of 37 confirmed cases of E coli O157:H7
+infection was caused by contamination of a freshwater
+lake. To our knowledge, this is one of the largest documented outbreaks of E coli O157:H7 infection from unchlorinated recreational water.
+Previous investigators have inferred that the dose
+of E coli O157:H7 required to cause illness is low (⬍100
+bacteria),16,29 and although the major reservoir is cattle
+and other mammals, the organism can survive for lengthy
+periods in the environment.30-32 Both these observations
+are supported by the results of our investigation. Many
+case patients reported inadvertent ingestion of small
+amounts of lake water, which could result in a low infectious dose. In this outbreak, the exposures to the implicated lake among ill persons occurred during a 16day period, and the outbreak strain was recovered from
+lake samples obtained 21 days after the first reported exposure, which indicates that the organism could have survived in the lake at least 3 weeks.
+Our findings are limited by a lack of information
+about the number of swimmers in the lake per day; therefore, we were unable to calculate attack rates. For the 28
+primary-case patients from whom swim dates were available, 7 (25%) swam on August 19, 1999; including these
+7 patients, 24 (86%) swam between August 19 and August 26, 1999, which implies a relatively high rate of contamination of the lake for these 8 days (Figure 3).
+In both case-control studies, misclassification bias
+could have occurred from parents inaccurately reporting their child’s exposure. Media coverage was intense
+and may have contributed to recall bias. Sick control subjects were excluded to limit misclassification bias toward the null that could have occurred if persons with E
+coli O157:H7 infection had been included in the control
+group; however, persons with asymptomatic E coli
+
+O157:H7 infection could have been classified as control
+subjects, which would result in a misclassification bias
+toward the null.
+All primary cases occurred in children younger than
+15 years, 3 of whom developed hemolytic uremic syndrome. In other reported lake-associated outbreaks of E
+coli O157:H7, children have also been disproportionately affected.14-24
+The source of contamination was likely the bathers
+themselves. No agricultural sources of contamination were
+identified, and illness was not associated with food or beverage exposures. Children may have contributed to contamination of the lake through fecal accidents or dirty
+diapers. During the investigation, we received a report
+about a feces-laden diaper having been rinsed in the lake
+near the children’s swimming area. It is likely that E coli
+O157:H7 from feces was introduced into the shallow still
+water of the children’s swimming area sometime in the
+early to middle part of August 1999 and that the organism survived for a time in the lake or was periodically
+reintroduced via fecal accidents (Figure 1).
+A possible contributing factor in this outbreak was
+the lack of appropriate diaper-changing stations in the area.
+Additionally, the distance of toilets from the beach was 300
+ft (91.4 m), and the lack of nearby hand-washing facilities may have made it difficult for parents to take their children on bathroom breaks regularly and wash their hands
+after using the toilet. Human fecal contamination has also
+been suggested as the likely source of pathogens in other
+swimming-associated outbreaks.14,15,18,24
+Before the outbreak, lake water was not routinely
+monitored. Testing of lake water after 2 children reported becoming ill and shortly before the lake was closed
+revealed allowable levels of fecal coliforms. Results from
+other outbreaks also illustrate that levels of indicator organisms may be within acceptable limits at the time swimmers acquire infection with E coli O157:H7.14,15,17 The US
+Environmental Protection Agency has recently established guidelines for microbial quality in fresh recreational water, with E coli (monthly geometric mean ⬍126
+organisms per 100 mL) or enterococci (monthly geometric mean ⬍33 organisms per 100 mL) as the preferred proxy
+indicators in lieu of fecal coliforms (http://www.epa.gov
+/waterscience/beaches/local/sum2.html). Numerous pathogens in addition to E coli O157:H7 have caused outbreaks of gastroenteritis and other syndromes associated
+with swimming or wading in freshwater lakes, including
+Shigella, Leptospira, viral agents, Cryptosporidium, and schistosomes that cause dermatitis.3-5
+Lakes can become contaminated by a variety of
+mechanisms, and although monitoring may contribute
+to some level of safety, no freshwater lake should be considered risk free, even with intensive monitoring. Recognizing that complete safety in fresh recreational water cannot be ensured, the challenge is to minimize risk
+so that families can continue to enjoy lake swimming.
+Results of this investigation point out the need for guidelines to decrease the risk of transmission of infectious
+diseases from recreational freshwater sources. Assessing the availability of enough convenient toilets, diaperchanging stations, and hand-washing facilities may be
+more important than testing the water for microbes.
+
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 157, OCT 2003
+1020
+
+WWW.ARCHPEDIATRICS.COM
+
+Downloaded from www.archpediatrics.com at University of Illinois - Chicago, on August 25, 2009
+©2003 American Medical Association. All rights reserved.
+
+
+
+What This Study Adds
+During the past decade, numerous outbreaks of infection with E coli O157:H7 have been reported in association with swimming in recreational water. This association has until now been made with epidemiologic
+evidence alone.
+Our investigation results demonstrated epidemiologic evidence implicating the lake, as well as laboratory evidence confirming the existence of a strain of E
+coli O157:H7 in the lake that matched the clinical outbreak strain identified with PFGE. In addition, we were
+able to determine specific risk factors associated with
+swimming that may help in future prevention efforts.
+
+The swimming area at the lake reopened 2 years after the outbreak after implementation of measures aimed
+at reducing the possibility of recurrence. These measures included provision of toilets, hand-washing facilities, and stations for diaper changing in closer and more
+accessible areas; prevention of children younger than 4
+years from entering the lake; distribution of educational
+pamphlets about healthy swimming; periodic monitoring of E coli; and improved surveillance through continued education of physicians and laboratories about the
+importance of prompt disease reporting.
+Accepted for publication February 21, 2003.
+This study was supported by the Washington State Department of Health, Seattle, and Southwest Washington
+Health District, Vancouver.
+We thank Karen Steingart, MD, Chris Plaster, Fran
+Cappa, PhD, Rodie Renn Lasher, MS, Maya Bhat, MPH, and
+other staff members of the Southwest Washington Health
+District, Vancouver, for their help with the epidemiologic
+and environmental investigations; Bill Lawrence, BS, Kaye
+Pride, BS, and Melanie Panoke of the Washington State Public Health Laboratories, Shoreline, for their PFGE work and
+testing of environmental isolates; Bala Swaminathan, PhD,
+William Bibb, PhD, Robert Tauxe, MD, Laura Fehrs, MD,
+and colleagues at the Centers for Disease Control and Prevention, Atlanta, for serum antibody testing and review of
+the manuscript; and Tom Besser, DVM, and colleagues at
+the Washington State University Field Disease Investigation Unit, Spokane, for their collaboration.
+The use of trade names or commercial sources is for
+identification only and does not constitute endorsement by
+the Public Health Service or by the US Department of Health
+and Human Services.
+Corresponding author and reprints: Michael G. Bruce,
+MD, MPH, Arctic Investigations Program, Centers for Disease Control and Prevention, 4055 Tudor Centre Dr, Anchorage, Alaska 99508 (e-mail: zwa8@cdc.gov).
+REFERENCES
+1. Besser RE, Griffin PM, Slutsker L. Escherichia coli O157:H7 gastroenteritis and
+the hemolytic uremic syndrome: an emerging infectious disease. Annu Rev Med.
+1999;50:355-367.
+2. Mead PS, Slutsker L, Dietz V, et al. Food-related illness and death in the United
+States. Emerg Infect Dis. 1999;5:607-625.
+
+3. Levy DA, Bens MS, Craun GF, Calderon RL, Herwaldt BL. Surveillance for waterborne-disease outbreaks: United States, 1995-1996. Available at: http://www
+.cdc.gov/mmwr/preview/mmwrhtml/00055820.htm. Accessed July 3, 2003.
+4. Barwick RS, Levy DA, Craun GF, Beach MJ, Calderon RL. Surveillance for waterborne-disease outbreaks: United States, 1997-1998. Available at: http://www
+.cdc.gov/mmwr/preview/mmwrhtml/ss4904a1.htm. Accessed July 3, 2003.
+5. Lee SH, Levy DA, Craun GF, Beach MJ, Calderon RL. Surveillance for waterbornedisease outbreaks: United States, 1999-2000. Available at: http://www.cdc.gov
+/mmwr/preview/mmwrhtml/ss5108a1.htm. Accessed July 3, 2003.
+6. Besser RE, Lett SM, Weber JT, et al. An outbreak of diarrhea and hemolytic uremic syndrome from Escherichia coli O157:H7 in fresh pressed apple cider. JAMA.
+1993;269:2217-2220.
+7. Wong CS, Jelacic S, Habeeb R, et al. The risk of hemolytic uremic syndrome
+after antibiotic treatment of Escherichia coli O157:H7 infections. N Engl J Med.
+2000;342:1930-1936.
+8. Tarr PI, Hickman RO. Hemolytic uremic syndrome epidemiology: a populationbased study in King County, Washington, 1971-1980. Pediatrics. 1987;80:41-45.
+9. Rogers MJ, Rutherford GW, Alexander SR, et al. A population-based study of hemolytic uremic syndrome in Oregon, 1979-1982. Am J Epidemiol. 1986;123:137142.
+10. Martin DL, MacDonald KL, White KE, Soler JT, Osterholm MT. The epidemiology and clinical aspects of the hemolytic uremic syndrome in Minnesota. N Engl
+J Med. 1990;323:1161-1167.
+11. Rowe PC, Orrbine E, Wells GA, et al. Epidemiology of hemolytic uremic syndrome in Canadian children from 1986-1988. J Pediatr. 1991;119:218-224.
+12. Chin J. Control of Communicable Disease. 17th ed. Washington, DC: American
+Public Health Association; 2000.
+13. Centers for Disease Control and Prevention Web site. General information on Escherichia coli O157:H7. Available at: http://www.cdc.gov/ncidod/dbmd/diseaseinfo
+/escherichiacoli_g.htm. Accessed July 21, 2003.
+14. Cransberg K, van den Kerkhof JH, Banffer JR, et al. Four cases of hemolytic uremic
+syndrome: source contaminated swimming water? Clin Nephrol. 1996;46:45-49.
+15. Paunio M, Pebody R, Keskimaki M, et al. Swimming-associated outbreak of Escherichia coli O157:H7. Epidemiol Infect. 1999;122:1-5.
+16. Keene WE, McAnulty JM, Hoesly FC, et al. A swimming-associated outbreak of
+hemorrhagic colitis caused by Escherichia coli O157:H7 and Shigella sonnei.
+N Engl J Med. 1994;331:579-584.
+17. Centers for Disease Control and Prevention. Lake-associated outbreak of Escherichia coli O157:H7: Illinois, 1995. MMWR Morb Mortal Wkly Rep. 1996;45:
+437-439.
+18. Ackman D, Marks S, Mack P, Caldwell M, Root T, Birkhead G. Swimming-associated
+haemorrhagic colitis due to Escherichia coli O157:H7 infection: evidence of prolonged
+contamination of a fresh water lake. Epidemiol Infect. 1997;119:1-8.
+19. Brewster DH, Brown MI, Robertson D, et al. An outbreak of Escherichia coli associated with a children’s paddling pool. Epidemiol Infect. 1994;112:441-447.
+20. VTEC O157 outbreak linked to beach holidays. Commun Dis Rep CDR Wkly. 1999;
+9:327, 330.
+21. Friedman MS, Roels T, Koehler JE, Feldman L, Bibb WF, Blake P. Escherichia
+coli O157:H7 outbreak associated with an improperly chlorinated swimming pool.
+Clin Infect Dis. 1999;29:298-303.
+22. Hildebrand JM, Maguire HC, Holliman RE, Kangesu E. An outbreak of Escherichia coli O157 infection linked to paddling pools. Commun Dis Rep CDR Rev.
+1996;6:R33-R36.
+23. Feldman KA, Mohle-Boetani JC, Ward J, et al. A cluster of Escherichia coli O157:
+nonmotile infections associated with recreational exposure to lake water. Public
+Health Rep. 2002;117:380-385.
+24. McCarthy TA, Barrett NL, Hadler JL, et al. Hemolytic-uremic syndrome and Escherichia coli O121 at a lake in Connecticut, 1999. Pediatrics. 2001;108:E59. Available at: http://pediatrics.aappublications.org/cgi/content/full/108/4/e59. Accessed July 23, 2003.
+25. Barrett TJ, Green JH, Griffin PM, Pavia AT, Ostroff SM, Wachsmuth IK. Enzymelinked immunosorbent assays for detecting antibodies to Shiga-like toxin I, Shigalike toxin II, and Escherichia coli O157:H7 lipopolysaccharide in human serum.
+Curr Microbiol. 1991;23:189-195.
+26. Fecal coliform procedure. In: Franson MAH, Clesceri LS, Greenberg AE, Eaton
+AD, eds. Standard Methods for the Examination of Water and Wastewater. 20th
+ed. Baltimore, Md: United Book Press; 1998:9-54, 9-55.
+27. Gautom RK. Rapid pulsed-field gel electrophoresis protocol for typing of Escherichia coli O157:H7 and other gram-negative organisms in 1 day. J Clin Microbiol. 1997;35:2977-2980.
+28. Samadpour M, Stewart J, Steingart K, et al. Laboratory investigation of an E. coli
+O157:H7 outbreak associated with swimming in Battle Ground Lake, Vancouver, Washington. J Environ Health. 2002;64:16-20,25,26.
+29. Bell BP, Goldoft M, Griffin PM, et al. A multistate outbreak of Escherichia coli
+O157:H7-associated bloody diarrhea and hemolytic uremic syndrome from hamburgers: the Washington experience. JAMA. 1994;272:1349-1353.
+30. Wang G, Doyle MP. Survival of enterohemorrhagic Escherichia coli O157:H7 in
+water. J Food Prot. 1998;61:662-667.
+31. Swerdlow DL, Woodruff BA, Brady RC, et al. A waterborne outbreak in Missouri
+of Escherichia coli O157:H7 associated with bloody diarrhea and death. Ann Intern Med. 1992;117:812-819.
+32. Rice EW, Johnson CH, Wild DK, Reasoner DJ. Survival of Escherichia coli O157:H7
+in drinking water associated with a waterborne disease outbreak of hemorrhagic colitis. Lett Appl Microbiol. 1992;15:38-40.
+
+(REPRINTED) ARCH PEDIATR ADOLESC MED/ VOL 157, OCT 2003
+1021
+
+WWW.ARCHPEDIATRICS.COM
+
+Downloaded from www.archpediatrics.com at University of Illinois - Chicago, on August 25, 2009
+©2003 American Medical Association. All rights reserved.
+
+

@@ -1,0 +1,2376 @@
+American Journal of Epidemiology
+© The Author(s) 2017. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public Health.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License
+(http://creativecommons.org/licenses/by-nc/4.0), which permits non-commercial re-use, distribution, and reproduction in any
+medium, provided the original work is properly cited. For commercial re-use, please contact journalpermissions@oup.com.
+
+Vol. 186, No. 7
+DOI: 10.1093/aje/kwx019
+Advance Access publication:
+May 11, 2017
+
+Original Contribution
+Acute Illness Among Surfers After Exposure to Seawater in Dry- and Wet-Weather
+Conditions
+
+Benjamin F. Arnold*, Kenneth C. Schiff, Ayse Ercumen, Jade Benjamin-Chung, Joshua A. Steele,
+John F. Grifﬁth, Steven J. Steinberg, Paul Smith, Charles D. McGee, Richard Wilson, Chad Nelsen,
+Stephen B. Weisberg, and John M. Colford, Jr.
+* Correspondence to Dr. Benjamin F. Arnold, Division of Epidemiology, School of Public Health, University of California, Berkeley,
+101 Haviland Hall, MC #7358, Berkeley, CA 94720-7358 (e-mail: benarnold@berkeley.edu).
+
+Initially submitted September 8, 2016; accepted for publication January 23, 2017.
+
+Rainstorms increase levels of fecal indicator bacteria in urban coastal waters, but it is unknown whether exposure to seawater after rainstorms increases rates of acute illness. Our objective was to provide the ﬁrst estimates of
+rates of acute illness after seawater exposure during both dry- and wet-weather periods and to determine the relationship between levels of indicator bacteria and illness among surfers, a population with a high potential for exposure after rain. We enrolled 654 surfers in San Diego, California, and followed them longitudinally during the
+2013–2014 and 2014–2015 winters (33,377 days of observation, 10,081 surf sessions). We measured daily surf
+activities and illness symptoms (gastrointestinal illness, sinus infections, ear infections, infected wounds). Compared with no exposure, exposure to seawater during dry weather increased incidence rates of all outcomes (e.g.,
+for earache or infection, adjusted incidence rate ratio (IRR) = 1.86, 95% conﬁdence interval (CI): 1.27, 2.71; for infected wounds, IRR = 3.04, 95% CI: 1.54, 5.98); exposure during wet weather further increased rates (e.g., for earache or infection, IRR = 3.28, 95% CI: 1.95, 5.51; for infected wounds, IRR = 4.96, 95% CI: 2.18, 11.29). Fecal
+indicator bacteria measured in seawater (Enterococcus species, fecal coliforms, total coliforms) were strongly
+associated with incident illness only during wet weather. Urban coastal seawater exposure increases the incidence
+rates of many acute illnesses among surfers, with higher incidence rates after rainstorms.
+diarrhea; Enterococcus; rain; seawater; waterborne diseases; wound infection
+
+Abbreviations: CI, conﬁdence interval; IRR, incidence rate ratio.
+
+same studies, researchers found that levels of fecal indicator
+bacteria in seawater were positively associated with incident
+gastrointestinal illness if there was a well-deﬁned source of
+human fecal contamination impacting the seawater (4–8).
+Individual cases of acute infections and deaths associated with
+waterborne pathogens have been reported among surfers in
+southern California who surfed during or after rainstorms (9),
+and 2 cross-sectional studies of surfers found that seawater exposure after heavy rainfall increased reported illness (10, 11).
+To our knowledge, there have been no prospective studies to
+determine whether rainstorms increase illness among persons
+who participate in ocean recreation and no studies that have
+evaluated whether levels of fecal indicator bacteria are associated with incident illness during wet weather periods.
+
+Freshwater runoff after rainstorms increases levels of fecal
+indicator bacteria measured in seawater (1), but little is known
+about whether persons who participate in ocean recreation
+have a higher risk of acute illness after rainstorms. Absent epidemiologic studies to inform beach management guidelines
+after rainstorms, California beach managers post advisories at
+beaches that discourage contact with seawater for 72 hours
+after rainfall—a practice that is based on fecal indicator bacteria proﬁles in storm water outﬂows, which typically decline to
+prerainstorm levels within 3–5 days (2, 3).
+In prospective cohorts in California, investigators have
+found increased incidence of gastrointestinal illness and other
+acute symptoms (e.g., eye and ear infections) associated with
+seawater exposure during dry summer months (4–8). In the
+866
+Downloaded from https://academic.oup.com/aje/article-abstract/186/7/866/3813104
+by lib-electronic@uic.edu user
+on 18 December 2017
+
+Am J Epidemiol. 2017;186(7):866–875
+
+
+
+Surfer Illness After Seawater Exposure 867
+
+limits—Ocean Beach and Tourmaline Surﬁng Park. Both
+monitored beaches have storm-impacted drainage, attract surfers year-round, and have water quality levels similar to those
+of other beaches in the county (13). Ocean Beach is adjacent
+to the San Diego river, which drains a 1,088-km2 varied landuse watershed with many ﬂow-control structures; Tourmaline
+Surﬁng Park is adjacent to Tourmaline Creek and a storm
+drain, which together drain an urban, largely impervious,
+6-km2 watershed (Figure 1). The study’s technical report
+includes additional details (14).
+
+We conducted a longitudinal cohort study among surfers
+in San Diego, California. We focused on surfers because
+they are a well-deﬁned population that regularly enters the
+ocean year-round, even during and immediately after rainstorms, given that surﬁng conditions often improve during
+storms (12). Our objectives were to determine whether exposure to seawater increased rates of incident illness among
+surfers compared with periods when they did not surf in
+order to determine whether exposure during or immediately
+after rainstorms increased rates more than did exposure during dry weather. We also sought to evaluate the relationship
+between levels of fecal indicator bacteria in seawater and
+incident illness rates during dry and wet weather.
+
+Study design and enrollment
+
+We conducted a longitudinal cohort study of surfers recruited in San Diego over 2 winters, with enrollment and
+follow-up periods chosen to capture most rainfall events in
+the region. During the ﬁrst winter (open enrollment from
+January 14, 2014, to March 18, 2014; end of follow-up on
+June 4, 2014), we enrolled surfers through in-person interviews at the 2 monitored beaches and through targeted online
+advertising on Surﬂine.com, a popular website on which surf
+conditions are reported. We enrolled participants at monitored
+beaches and online to assess whether individuals enrolled
+through these 2 modes were similar in their exposures and
+other characteristics. Participants enrolled on the beach were
+very similar to those enrolled online (Table 1), so we exclusively enrolled participants through the study’s website during
+the second winter (open enrollment from December 1, 2014,
+
+METHODS
+Setting
+
+Southern California has one of the most urbanized coastlines in the world, and it receives nearly all of its annual rainfall during the winter months (November–April). San Diego
+County beaches have some of the best water quality in California based on levels of fecal indicator bacteria, but water quality deteriorates after rainstorms (13). The most heavily used
+beaches in the region are affected by urban runoff after storms,
+and local beach managers post advisories that discourage
+water contact within 72 hours of rainfall. In the present study,
+we focused enrollment and conducted extensive water quality
+measurement at 2 monitored beaches within San Diego city
+
+A)
+
+B)
+N
+
+N
+T2
+T1
+
+TDIS
+
+B
+0.4 km
+C
+
+C)
+N
+OBDIS
+OB2
+
+OB1
+
+OB3
+OB4
+5.5 km
+
+1 km
+
+Figure 1. Monitoring beach water quality sampling locations in San Diego, California, winters of 2013–2014 and 2014–2015. Shown are the locations of the 2 monitored beaches along the San Diego coastline (A) and the water quality sampling sites at Tourmaline Surﬁng Park (B) and Ocean
+Beach (C). Samples were only collected at Ocean Beach and Tourmaline Surﬁng Park discharge locations (OBDIS and TDIS, respectively) during
+wet weather. Wet weather was deﬁned as 0.25 cm or more of rain in 24 hours. T1 and T2, Tourmaline Surﬁng Park sampling sites 1 and 2; OB1–OB4,
+Ocean Beach sampling sites 1–4. Map Data: Google, Digital Globe, NASA.
+
+Am J Epidemiol. 2017;186(7):866–875
+Downloaded from https://academic.oup.com/aje/article-abstract/186/7/866/3813104
+by lib-electronic@uic.edu user
+on 18 December 2017
+
+
+
+868
+
+Arnold et al.
+
+Table 1. Characteristics of the Study Population by Mode of Enrollment, San Diego, California, 2013–2015
+Characteristic
+
+Beacha
+
+Onlinea
+
+No.
+
+No. of participants
+
+89
+
+Participants with background survey
+
+72
+
+%
+
+No.
+
+Total
+%
+
+565
+100
+
+535
+
+No.
+
+%
+
+654
+100
+
+607
+
+100
+
+b
+
+Age, years
+18–30
+
+35
+
+35
+
+35
+
+31–40
+
+22
+
+26
+
+26
+
+41–50
+
+11
+
+16
+
+16
+
+≥51
+
+29
+
+13
+
+15
+
+3
+
+9
+
+8
+
+Female sex
+
+19
+
+21
+
+21
+
+College educated
+
+68
+
+63
+
+63
+
+Currently employed
+
+74
+
+76
+
+75
+
+Unreported
+
+Household incomeb
+<$15,000
+
+11
+
+6
+
+7
+
+$15,000–$35,000
+
+15
+
+10
+
+11
+
+$35,001–$50,000
+
+11
+
+7
+
+7
+
+$50,001–$75,000
+
+8
+
+13
+
+12
+
+$75,001–$100,000
+
+17
+
+14
+
+14
+
+$100,001–$150,000
+
+17
+
+14
+
+14
+
+>$150,000
+
+7
+
+13
+
+12
+
+Unreported
+
+14
+
+23
+
+22
+
+≤1
+
+11
+
+15
+
+14
+
+2
+
+12
+
+18
+
+17
+
+3
+
+26
+
+26
+
+26
+
+4
+
+26
+
+20
+
+21
+
+≥5
+
+24
+
+18
+
+19
+
+1
+
+3
+
+3
+
+Days of surﬁng per weekb
+
+Unreported
+Chronic health conditions
+Ear problems
+
+12
+
+14
+
+14
+
+Sinus problems
+
+7
+
+8
+
+8
+
+Gastrointestinal condition
+
+0
+
+3
+
+2
+
+Respiratory condition
+
+4
+
+3
+
+3
+
+Skin condition
+
+1
+
+6
+
+5
+
+10
+
+16
+
+15
+
+Allergies
+Total days of observation
+
+2,623
+
+100
+
+30,754
+
+100
+
+33,377
+
+100
+
+Days of observation by exposure
+Unexposed
+
+46
+
+47
+
+47
+
+Dry-weather exposure
+
+48
+
+43
+
+43
+
+Wet-weather exposure
+
+6
+
+10
+
+10
+
+Beach enrollment only took place during the ﬁrst winter (2013–2014); online enrollment spanned both winters (2013–2014 and 2014–2015).
+The study enrolled 73 individuals online during the ﬁrst winter.
+b
+Percentages within categories might not sum to 100 because of rounding.
+a
+
+to March 22, 2015; end of follow-up on April 16, 2015). We
+recruited surfers through postcards distributed at the monitored beaches and through an electronic newsletter distributed
+
+by the Surfrider Foundation’s San Diego County chapter. Surfers were eligible if they were 18 years of age or older, could
+speak and read English, planned to surf in southern California
+Am J Epidemiol. 2017;186(7):866–875
+
+Downloaded from https://academic.oup.com/aje/article-abstract/186/7/866/3813104
+by lib-electronic@uic.edu user
+on 18 December 2017
+
+
+
+Surfer Illness After Seawater Exposure 869
+
+during the study period, had a valid e-mail address or mobile
+telephone number, and could access the internet with a computer or smartphone.
+Participants completed a brief enrollment questionnaire,
+and each Tuesday they received a text message or e-mail
+reminder to complete a short weekly survey. Participants reported daily surf activity (location, date, and times of entry
+and exit) and illness symptoms (details below) for the previous
+7 days using the study’s web or smartphone (iOS or Android)
+application. We used an open cohort design in which participants were allowed to enter and exit the cohort over the
+follow-up period. We excluded follow-up time during which
+participants reported surﬁng outside of southern California.
+The study protocol was reviewed and approved by the institutional review board at the University of California, Berkeley,
+and all participants provided informed consent. Participants
+received a modest incentive for participation ($20 gift certiﬁcate per 4 weekly surveys completed). Web Table 1 (available at https://academic.oup.com/aje) includes a Strengthening
+the Reporting of Observational Studies in Epidemiology
+checklist.
+Outcome deﬁnition and measurement
+
+In weekly surveys, participants reported daily records of the
+following symptoms: diarrhea (deﬁned as ≥3 loose/watery
+stools in 24 hours), sinus pain or infection, earache or infection,
+infection of an open wound, eye infection, skin rash, and fever.
+During the second winter, we added sore throat, cough, and
+runny nose. We created composite outcomes from the symptoms, including: gastrointestinal illness, which was deﬁned as
+1) diarrhea, 2) vomiting, 3) nausea and stomach cramps, 4) nausea and missed daily activities due to gastrointestinal illness, or
+5) stomach cramps and missed daily activities due to gastrointestinal illness (15); and upper respiratory illness, which was
+deﬁned as any 2 of the following: 1) sore throat, 2) cough, 3)
+runny nose, and 4) fever (16). We created a composite outcome
+of “any infectious symptom” deﬁned as having any 1 of the
+following: gastrointestinal illness, diarrhea, vomiting, eye
+infection, infection of open wounds or fever. Our rationale
+was that it would exclude outcomes that could potentially
+have noninfectious causes (earache or infection, sinus pain
+or infection, skin rash, upper respiratory illness) and would
+capture a broad spectrum of sequelae associated with waterborne pathogens. We deﬁned incident episodes as the onset
+of symptoms preceded by 6 or more symptom-free days to
+increase the likelihood that separate episodes represented
+distinct infections (17, 18).
+Exposure deﬁnition and measurement
+
+We classiﬁed the 3 days after each seawater exposure as
+exposed periods and all other days of observation as unexposed periods. We deﬁned wet-weather exposure as exposure to seawater within 3 days of 0.25 cm or more of rainfall
+in a 24-hour period, which is the rainfall criterion used by
+San Diego County for posting wet-weather beach advisories;
+we classiﬁed all other seawater exposure as dry-weather exposure. We used rainfall measurements from the National
+Oceanic and Atmospheric Administration Lindbergh Field
+Am J Epidemiol. 2017;186(7):866–875
+Downloaded from https://academic.oup.com/aje/article-abstract/186/7/866/3813104
+by lib-electronic@uic.edu user
+on 18 December 2017
+
+Station. Among surfers, most exposure took place during the
+morning hours, so if a storm’s precipitation started after
+12:00 PM, we did not classify that day as wet weather (only
+the following day) to reduce exposure misclassiﬁcation.
+Staff collected daily water samples from January 15, 2014, to
+March 5, 2014, and from December 2, 2014, to March 31,
+2015, at 6 sites across the 2 monitored beaches (Figure 1). Staff
+collected 1-liter water samples in the morning (08:30 AM ±
+2 hours) just below the water surface (0.5–1.0 meters) in sterilized, sample-rinsed bottles. We sampled discharges during
+6 rainstorms immediately upstream from where Tourmaline
+Creek and the San Diego River discharge to the sea (Figure 1).
+We tested samples for culturable Enterococcus (US Environmental Protection Agency method 1600), fecal coliforms (standard method 9222D), and total coliforms (standard method
+9222B). All laboratory analyses met quality-control objectives
+for absence of background contamination (blanks) and precision (duplicates).
+Statistical analysis
+
+We prespeciﬁed all analyses (19). Web Appendices 1 and 2
+contain statistical details and sample size calculations. In the
+seawater exposure analysis, we calculated incidence rates by
+dividing incident episodes by person-days in unexposed and
+exposed periods during follow-up. If participants missed
+weekly surveys during follow-up, we did not include those
+periods in the analysis. We measured the association between
+seawater exposure and subsequent illness using an incidence
+rate ratio, which we estimated using a log-linear rate model
+with robust standard errors to account for repeated observations within individuals (20, 21). To examine illness rates separately for dry- and wet-weather exposures, we created a 3level categorical exposure that classiﬁed each participant’s
+follow-up time into unexposed, dry-weather exposure, and
+wet-weather exposure periods. We calculated a log-linear test
+of trend in the incidence rate ratios for dry- and wet-weather
+exposures (22).
+In the fecal indicator association analysis, we estimated the
+association between levels of fecal indicator bacteria and illness
+using the subset of surf sessions matched to water-quality indicator measurements at the monitored beaches. We matched
+daily geometric mean indicator levels to surfers by beach and
+date (weighted by time in water if recent exposure included
+multiple days).We modeled the relationship between indicator
+levels and illness using a log-linear model and estimated the
+incidence rate ratio associated with a 1−log10 increase in indicator level. We also estimated the incidence rate ratio associated
+with exposures to water above versus below US Environmental Protection Agency regulatory guidelines (geometric
+mean Enterococcus >35 colony-forming units per 100 mL)
+(23) or, in a second deﬁnition, if any single sample on the
+exposure day exceeded 104 colony-forming units per 100 mL.
+We hypothesized that the relationship between fecal indicator
+bacteria and illness could be modiﬁed by dry- or wet-weather
+exposure and allowed the exposure-response relationship to
+vary during dry and wet weather by including an indicator for
+wet-weather periods and a term for the interaction between
+indicator bacteria levels and the indicator of wet weather. We
+controlled for potential confounding (24) from demographic,
+
+
+
+Arnold et al.
+
+RESULTS
+Study population
+
+We enrolled 654 individuals who contributed on average 51 days of follow-up (range, 6–139 days). The study
+population’s median age was 34 years (interquartile range,
+27–45), and the majority of participants were male (73%),
+college-educated (63%), and employed (75%) (Table 1).
+Follow-up included 33,377 person-days of observation
+after excluding time spent outside of southern California
+(623 person-days). We excluded from adjusted analyses
+47 individuals (1,599 person-days of observation) who
+provided outcome and exposure information but failed to
+complete a background questionnaire and thus had missing covariate information.
+Water quality and surfer exposure
+
+There were 10 rainstorms with 0.25 cm or more of rain
+during the study. Field staff collected 1,073 beach water
+samples and 92 wet-weather discharge samples for fecal
+indicator bacteria analysis. Median Enterococcus levels
+were higher during wet weather than during dry weather
+(Figure 2). During follow-up, surfers entered the ocean
+twice per week on average and experienced 10,081 total
+days of seawater exposure, including 1,327 days of wetweather exposure. Surfers were less likely to enter the
+ocean during or within 1 day of rain. The median ocean
+entry time was 08:00 AM (interquartile range, 06:45–10:30
+AM ), and the median time spent in the water was 2 hours
+(interquartile range, 1–2 hours) (Web Figure 1). Of the 10,081
+exposure days, surfers reported wearing a wetsuit during 95%,
+immersing their head during 96%, and swallowing water during
+38%. The most frequented surf locations were the 2 monitored
+beaches: Tourmaline Surﬁng Park (25% of surf days) and Ocean
+Beach (16% of surf days), which reﬂected targeted enrollment at
+those beaches (Web Figure 2). There were 5,819 days of observation matched to water-quality measurements at monitored
+beaches, including 1,358 days during wet weather.
+Illness associated with seawater exposure
+
+Seawater exposure in the past 3 days was associated with
+increased incidence rates of all outcomes except for upper
+respiratory illness (Web Table 2). Unadjusted and adjusted
+incidence rate ratio estimates were similar, and for most outcomes, adjusted incidence rate ratios were slightly attenuated
+toward the null (Web Table 2). With the exception of fever
+and skin rash, incidence rates increased from unexposed
+to dry-weather exposure to wet-weather exposure periods
+(Table 2), a pattern also present on the risk scale (Web
+Figure 3). Compared with unexposed periods, wet-weather
+exposure led to the largest relative increase in earaches/infec-
+
+A)
+105
+Enterococcus CFU per 100mL
+
+exposure-related, and baseline health characteristics (Web
+Appendix 1). In Web Appendices 3–6 we describe additional
+analyses, including conversion of estimates to the absolute
+risk scale, sensitivity analyses, and negative control exposure
+analyses (25, 26).
+
+Wet
+Dry
+
+104
+103
+102
+101
+100
+TDIS
+
+T1
+
+T2
+
+Sample Collection Sites
+
+B)
+105
+Enterococcus CFU per 100mL
+
+870
+
+Wet
+Dry
+
+104
+103
+102
+101
+100
+OBDIS
+
+OB1
+OB2
+OB3
+Sample Collection Sites
+
+OB4
+
+Figure 2. Enterococcus levels during dry and wet weather at the
+sampling locations at Tourmaline Surﬁng Park (A) and Ocean Beach
+(B) mapped in Figure 1. Boxes mark interquartile ranges, vertical lines
+mark 1.5 times the interquartile range, and points mark outliers. Horizontal
+dashed lines mark the single-sample California recreational water quality guideline (104 CFU/100 mL). Asterisks (*) identify sampling locations
+with levels that differ between wet and dry periods based on a 2-sample,
+2-sided t-test (P < 0.05) assuming unequal variances. Samples were
+only collected at Ocean Beach and Tourmaline Surﬁng Park discharge
+locations (OBDIS and TDIS, respectively) during wet weather. Wet
+weather was deﬁned as 0.25 cm or more of rain in 24 hours. CFU,
+colony-forming units; T1 and T2, Tourmaline Surﬁng Park sampling
+sites 1 and 2; OB1–OB4, Ocean Beach sampling sites 1–4.
+
+tions (Table 3; adjusted incidence rate ratio (IRR) = 3.28,
+95% conﬁdence interval (CI): 1.95, 5.51) and infection of
+open wounds (Table 3; adjusted IRR: 4.96, 95% CI: 2.18,
+11.29). Sensitivity analyses that shortened the wet-weather
+window increased the difference between dry- and wetweather incidence rates for most outcomes (Web Figure 4).
+Am J Epidemiol. 2017;186(7):866–875
+
+Downloaded from https://academic.oup.com/aje/article-abstract/186/7/866/3813104
+by lib-electronic@uic.edu user
+on 18 December 2017
+
+
+
+Surfer Illness After Seawater Exposure 871
+
+Table 2. Incidence Rates Among Surfers by Type of Seawater Exposure, San Diego, California, 2013–2015
+Unexposed Periods
+Outcome
+
+No. of
+Episodes
+
+No. of Days
+at Risk
+
+Wet-Weather Exposurea
+
+Dry-Weather Exposure
+Rate per
+1,000
+
+No. of
+Episodes
+
+No. of Days
+at Risk
+
+Rate per
+1,000
+
+No. of
+Episodes
+
+No. of Days
+at Risk
+
+Rate per
+1,000
+
+Gastrointestinal illness
+
+90
+
+14,884
+
+6.0
+
+116
+
+13,769
+
+8.4
+
+31
+
+3,037
+
+10.2
+
+Diarrhea
+
+75
+
+15,086
+
+5.0
+
+88
+
+13,909
+
+6.3
+
+27
+
+3,061
+
+8.8
+
+Sinus pain or infection
+
+109
+
+14,475
+
+7.5
+
+139
+
+13,391
+
+10.4
+
+37
+
+2,998
+
+12.3
+
+Earache or infection
+
+59
+
+14,931
+
+4.0
+
+111
+
+13,618
+
+8.2
+
+37
+
+3,008
+
+12.3
+
+Infection of open wound
+
+14
+
+15,456
+
+0.9
+
+30
+
+14,080
+
+2.1
+
+11
+
+3,119
+
+3.5
+
+Skin rash
+
+42
+
+15,024
+
+2.8
+
+66
+
+13,750
+
+4.8
+
+15
+
+3,007
+
+5.0
+
+Fever
+
+51
+
+15,156
+
+3.4
+
+69
+
+14,138
+
+4.9
+
+6
+
+3,152
+
+1.9
+
+Upper respiratory illnessb
+
+117
+
+12,001
+
+9.7
+
+111
+
+11,025
+
+10.1
+
+31
+
+2,543
+
+12.2
+
+Any infectious symptomc
+
+138
+
+14,445
+
+9.6
+
+181
+
+13,176
+
+13.7
+
+47
+
+2,926
+
+16.1
+
+a
+
+Deﬁned as entering the sea within 3 days of 0.25 cm or more of rain in 24 hours.
+Only measured in year 2 of the study.
+c
+Includes gastrointestinal illness, eye infections, infected wounds, and fever.
+b
+
+Illness associated with fecal indicator bacteria levels
+
+Enterococcus, total coliform, and fecal coliform levels were
+positively associated with increased incidence of almost all outcomes during the study (Web Table 3). Rainfall was a strong
+effect modiﬁer of the association (Table 4). During dry weather,
+there was no association between Enterococcus levels and illness except for infected wounds, but Enterococcus was strongly
+associated with illness after wet-weather exposure (e.g., for
+each log10 increase, gastrointestinal illness IRR = 2.17, 95%
+CI: 1.16, 4.03; Table 4, Web Figure 5, and Web Table 4). Associations were attenuated in adjusted analyses, but relationships
+were similar (e.g., for gastrointestinal illness, wet-weather
+IRR = 1.75, 95% CI: 0.80, 3.84; Table 4). There was evidence
+for excess risk of gastrointestinal illness at higher Enterococcus
+levels only during wet-weather periods (Web Figure 6): The
+predicted excess risk that corresponded to the current US Environmental Protection Agency regulatory guideline of 35
+colony-forming units per 100 mL was 16 episodes per 1,000
+(95% CI: 5, 27). Negative control analyses showed no consistent association between fecal indicator bacteria and illness
+among participants during periods in which they had no recent
+seawater contact (Web Table 5).
+DISCUSSION
+Key results
+
+To our knowledge, this is the ﬁrst prospective cohort study
+in which the association between incident illness and exposure to seawater in wet weather has been measured, and the
+ﬁndings represent novel empirical measures of incident illness associated with storm water discharges. There was a
+consistent increase in acute illness incidence rates between
+unexposed, dry-weather, and wet-weather exposure periods
+(Tables 2 and 3). Rainstorms led to higher levels of fecal
+indicator bacteria (Figure 2), and a sensitivity analysis illustrated that a 2–3 day window after rainstorms captured the
+majority of excess incidence associated with wet-weather exAm J Epidemiol. 2017;186(7):866–875
+Downloaded from https://academic.oup.com/aje/article-abstract/186/7/866/3813104
+by lib-electronic@uic.edu user
+on 18 December 2017
+
+posure (Web Figure 4). Fecal indicator bacteria matched to
+individual surf sessions were strongly associated with illness
+only during wet weather periods (Table 4, Web Figure 5).
+Interpretation
+
+Swimmers are more rare during the winter months, and surfers’ frequent and intense exposure made them an ideal population in which to study the relationship between illness and
+exposure to seawater in wet weather (27). The associations
+estimated in this study may not reﬂect those of the general
+population, but among a highly exposed subgroup of athletes,
+our results measure the illness associated with seawater exposure after rainstorms in southern California. Enrolling surfers
+led to some important differences between the present study
+population and most swimmer cohorts. We enrolled adults
+because we could not guarantee adequate consent for minors
+through online enrollment, whereas swimmer cohorts have
+historically enrolled predominantly families with children
+(28); children are more susceptible and have greater risk
+than do adult swimmers (15). Participants surfed twice per week
+for 2 hours each session, with nearly universal head immersion
+(96% of exposures) and frequent water ingestion (38% of exposures). This far exceeds exposure levels recorded in swimmer
+cohorts. Likely because of surfers’ repeated exposures to pathogens in seawater, studies have found higher levels of immunity
+to hepatitis A and more frequent gut colonization by antibioticresistant Escherichia coli among surfers than among the general
+population (29, 30).
+Despite surfers’ intense and frequent exposures, gastrointestinal illness rates observed in the present study were similar to those measured among beachgoers California cohorts
+in the summer (Web Appendix 6, Web Figure 7), and the
+increase in gastrointestinal illness rates associated with seawater exposure (adjusted IRR = 1.33, 95% CI: 0.99, 1.78;
+Web Table 2) was similar to estimates measured in marine
+swimmer cohorts in California and elsewhere in the United
+States (15, 31). However, the 3-fold increase in rates of
+
+
+
+872
+
+Arnold et al.
+
+Table 3. Incidence Rate Ratios for Surfer Illnesses Within 3 Days of Dry- and Wet-Weather Seawater Exposure Compared With Unexposed
+Periods, San Diego, California, 2013–2015
+Unadjusteda
+Outcome
+
+Dry Weather
+IRR
+
+95% CI
+
+Adjusteda,b
+c
+
+Wet Weather
+IRR
+
+95% CI
+
+Wet Weatherc
+
+Dry Weather
+IRR
+
+95% CI
+
+IRR
+
+95% CI
+
+Gastrointestinal illness
+
+1.39
+
+1.05, 1.86
+
+1.69
+
+1.10, 2.59
+
+1.30
+
+0.95, 1.76
+
+1.41
+
+0.92, 2.17
+
+Diarrhea
+
+1.27
+
+0.92, 1.76
+
+1.77
+
+1.11, 2.83
+
+1.22
+
+0.86, 1.73
+
+1.51
+
+0.95, 2.41
+
+Sinus pain or infection
+
+1.38
+
+1.05, 1.80
+
+1.64
+
+1.12, 2.40
+
+1.23
+
+0.93, 1.64
+
+1.51
+
+1.01, 2.26
+
+Earache or infection
+
+2.06
+
+1.47, 2.90
+
+3.11
+
+1.94, 4.98
+
+1.86
+
+1.27, 2.71
+
+3.28
+
+1.95, 5.51
+
+Infection of open wound
+
+2.35
+
+1.27, 4.36
+
+3.89
+
+1.83, 8.30
+
+3.04
+
+1.54, 5.98
+
+4.96
+
+2.18, 11.29
+
+Skin rash
+
+1.72
+
+1.16, 2.54
+
+1.78
+
+0.98, 3.24
+
+1.64
+
+1.11, 2.41
+
+1.80
+
+0.97, 3.35
+
+Fever
+
+1.45
+
+0.99, 2.12
+
+0.57
+
+0.24, 1.31
+
+1.56
+
+1.04, 2.34
+
+0.64
+
+0.27, 1.52
+
+d
+
+Upper respiratory illness
+
+1.03
+
+0.79, 1.35
+
+1.25
+
+0.84, 1.86
+
+1.04
+
+0.79, 1.36
+
+1.17
+
+0.79, 1.74
+
+Any infectious symptome
+
+1.44
+
+1.14, 1.82
+
+1.68
+
+1.19, 2.38
+
+1.50
+
+1.17, 1.92
+
+1.62
+
+1.14, 2.30
+
+Abbreviations: CI, conﬁdence interval; IRR, incidence rate ratio.
+Unadjusted and adjusted incidence rate ratios compare incidence rates in the 3 days after seawater exposure during dry or wet weather with
+incidence rates during unexposed periods. Table 2 includes the underlying data. Tests of trend in the IRR between exposure categories are signiﬁcant (P < 0.05) if the conﬁdence interval for wet-weather exposure excludes 1.0 (22).
+b
+We controlled for the following time-invariant potential confounders: age, sex, educational level, employment status, household income, years
+the individual had surfed, reported behavior of typically avoiding the ocean after wet weather, surfboard length, mode of enrollment (beach vs. Internet). We controlled for chronic health conditions only for the corresponding outcomes: ear problems, sinus problems, gastrointestinal conditions,
+respiratory conditions, skin conditions. We also controlled for the following time-varying potential confounders: entered the ocean for an activity
+other than surﬁng, any illness symptoms in the week preceding the risk window, day of recall, day of the week, and rainfall total during the past 3
+days.
+c
+Deﬁned as entering the sea within 3 days of 0.25 cm or more of rain in 24 hours.
+d
+Only measured in year 2 of the study.
+e
+Includes gastrointestinal illness, eye infections, infected wounds, and fever.
+a
+
+earache/infection and 5-fold increase in infected open
+wounds associated with exposure after rainstorms (Table 3)
+are stronger associations than have been reported in previous
+studies, and they provide evidence for increased incidence of
+a broad set of infectious symptoms after seawater exposure
+within 3 days of rain.
+Fecal indicator bacteria were a reliable marker of human
+illness risk in this setting only within 3 days of rainfall
+(Table 4). Our results are consistent with summer studies in
+California in which investigators found associations between
+Enterococcus levels and illness only if there was a well-deﬁned
+source of human fecal contamination (4–8). Our ﬁndings are
+also consistent with model predictions of higher gastrointestinal
+illness risk among southern California surfers after storms (32).
+Molecular testing for pathogens in storm water discharge to
+study monitored beaches identiﬁed near-ubiquitous presence of
+norovirus and Campylobacter species, and models parameterized with pathogen measurements predicted higher illness risk after rainstorms (14). The association between
+fecal indicator bacteria measured during wet weather and a
+range of nonenteric illnesses, such as sinus pain or infection
+and fever (Table 4), suggests that fecal indicator bacteria may
+mark broader bacterial or viral pathogen contamination in seawater after rainstorms.
+Some study outcomes could have noninfectious causes
+associated with surﬁng. Earache and sinus pain can result
+
+from physical incursion of saltwater through surﬁng’s highintensity exposure, ingestion of saltwater can cause gastrointestinal symptoms, and wetsuit use could cause skin rashes.
+If the association between surf exposure and symptoms resulted from noninfectious causes, we would expect similar
+incidence rates after wet- and dry-weather exposures. This
+was observed for skin rash, but incidence rates for sinus, ear,
+and gastrointestinal illnesses were higher after wet-weather
+exposure (Table 2), and the strong association between fecal
+indicator bacteria and fever during wet-weather conditions
+was consistent with an infectious etiology (Table 4).
+It is also possible that some infections acquired during surfing could result from nonanthropogenic sources. The ocean
+was warmer than usual during the second winter because of a
+weak El Niño, which caused conditions favorable to naturally
+occurring Vibrio parahaemolyticus and toxin-producing
+marine algae that can cause human illness (33). Wound infection was the single outcome strongly associated with fecal
+indicator bacteria measured during dry weather (Table 4), an
+observation consistent with a pathogen source like V. parahaemolyticus that covaries with fecal indicator bacteria even in
+nonstorm conditions. Yet, the consistently higher rates of infected wounds and other symptoms after wet-weather exposure
+compared with dry-weather exposure (Tables 2 and 3) suggests
+that storm water runoff impacted by anthropogenic sources
+constitutes an important pathogen source in this setting.
+
+Am J Epidemiol. 2017;186(7):866–875
+Downloaded from https://academic.oup.com/aje/article-abstract/186/7/866/3813104
+by lib-electronic@uic.edu user
+on 18 December 2017
+
+
+
+Am J Epidemiol. 2017;186(7):866–875
+
+Table 4. Surfer Illness Associated With a log10 Increase in Fecal Indicator Bacteria Levels, Stratiﬁed by Exposure During Dry and Wet Weather, Tourmaline Surﬁng Park and Ocean Beach,
+San Diego, California, 2013–2015
+Adjusteda
+
+Unadjusted
+Fecal Indicator Bacteria and
+Illness Symptom
+
+Dry Weather
+
+Wet Weather
+
+Dry Weather
+
+Wet Weather
+95% CI
+
+P Valueb
+
+Dry Weather
+IRR
+
+95% CI
+
+Wet Weather
+IRR
+
+95% CI
+
+P Valueb
+
+Episodes
+
+Days at Risk
+
+Episodes
+
+Days at Risk
+
+IRR
+
+95% CI
+
+IRR
+
+Gastrointestinal illness
+
+30
+
+4,251
+
+10
+
+1,297
+
+0.86
+
+0.47, 1.58
+
+2.17
+
+1.16, 4.03
+
+0.04
+
+0.85
+
+0.46, 1.56
+
+1.75
+
+0.80, 3.84
+
+Diarrhea
+
+24
+
+4,285
+
+9
+
+1,305
+
+1.13
+
+0.62, 2.07
+
+2.38
+
+1.27, 4.46
+
+0.11
+
+1.16
+
+0.63, 2.14
+
+2.00
+
+0.92, 4.32
+
+0.31
+
+Sinus pain or infection
+
+44
+
+4,130
+
+19
+
+1,262
+
+1.34
+
+0.79, 2.26
+
+1.93
+
+1.17, 3.19
+
+0.33
+
+0.96
+
+0.53, 1.76
+
+1.61
+
+0.96, 2.69
+
+0.22
+
+Enterococcus
+0.16
+
+Earache or infection
+
+38
+
+4,233
+
+14
+
+1,274
+
+0.74
+
+0.37, 1.47
+
+1.23
+
+0.50, 3.02
+
+0.38
+
+0.70
+
+0.35, 1.40
+
+1.32
+
+0.51, 3.41
+
+0.31
+
+Infection of open wound
+
+19
+
+4,360
+
+6
+
+1,332
+
+2.69
+
+1.05, 6.90
+
+2.24
+
+0.65, 7.69
+
+0.83
+
+2.79
+
+1.12, 6.95
+
+2.94
+
+0.79, 10.97
+
+0.95
+0.50
+
+Skin rash
+
+19
+
+4,230
+
+5
+
+1,267
+
+1.46
+
+0.68, 3.14
+
+0.89
+
+0.21, 3.82
+
+0.56
+
+1.09
+
+0.42, 2.80
+
+0.51
+
+0.06, 4.04
+
+Fever
+
+22
+
+4,366
+
+2
+
+1,342
+
+1.33
+
+0.69, 2.56
+
+3.29
+
+2.35, 4.59
+
+0.01
+
+1.29
+
+0.66, 2.52
+
+3.53
+
+2.37, 5.24
+
+0.01
+
+Upper respiratory illnessc
+
+37
+
+3,679
+
+15
+
+1,090
+
+0.89
+
+0.55, 1.45
+
+1.94
+
+0.85, 4.42
+
+0.10
+
+0.74
+
+0.44, 1.25
+
+1.89
+
+0.87, 4.11
+
+0.06
+
+Any infectious symptomd
+
+50
+
+4,080
+
+17
+
+1,264
+
+1.12
+
+0.69, 1.83
+
+2.51
+
+1.49, 4.24
+
+0.04
+
+1.06
+
+0.64, 1.76
+
+2.52
+
+1.41, 4.50
+
+0.03
+
+Gastrointestinal illness
+
+30
+
+4,251
+
+10
+
+1,297
+
+0.82
+
+0.42, 1.61
+
+2.96
+
+1.50, 5.83
+
+0.01
+
+0.76
+
+0.38, 1.54
+
+2.59
+
+1.02, 6.56
+
+0.04
+
+Diarrhea
+
+24
+
+4,285
+
+9
+
+1,305
+
+1.04
+
+0.53, 2.04
+
+3.34
+
+1.72, 6.47
+
+0.02
+
+1.05
+
+0.51, 2.16
+
+3.20
+
+1.31, 7.85
+
+0.08
+
+Sinus pain or infection
+
+44
+
+4,130
+
+19
+
+1,262
+
+1.57
+
+0.87, 2.84
+
+2.18
+
+1.11, 4.26
+
+0.48
+
+0.75
+
+0.35, 1.58
+
+1.52
+
+0.62, 3.73
+
+0.22
+
+Fecal coliforms
+
+Earache or infection
+
+38
+
+4,233
+
+14
+
+1,274
+
+0.83
+
+0.39, 1.76
+
+1.46
+
+0.63, 3.39
+
+0.29
+
+0.99
+
+0.51, 1.92
+
+1.59
+
+0.84, 3.01
+
+0.32
+
+Infection of open wound
+
+19
+
+4,360
+
+6
+
+1,332
+
+2.76
+
+0.91, 8.36
+
+2.67
+
+0.85, 8.41
+
+0.97
+
+3.21
+
+1.03, 10.03
+
+4.12
+
+0.95, 17.91
+
+0.79
+
+Skin rash
+
+19
+
+4,230
+
+5
+
+1,267
+
+1.69
+
+0.72, 3.99
+
+1.03
+
+0.24, 4.43
+
+0.56
+
+1.18
+
+0.39, 3.56
+
+0.54
+
+0.09, 3.06
+
+0.42
+
+Fever
+
+22
+
+4,366
+
+2
+
+1,342
+
+1.15
+
+0.49, 2.70
+
+4.99
+
+3.19, 7.79
+
+0.00
+
+1.16
+
+0.49, 2.73
+
+6.22
+
+3.88, 9.96
+
+0.00
+
+Upper respiratory illnessc
+
+37
+
+3,679
+
+15
+
+1,090
+
+0.97
+
+0.50, 1.89
+
+2.33
+
+0.75, 7.23
+
+0.19
+
+0.73
+
+0.38, 1.40
+
+2.03
+
+0.70, 5.89
+
+0.11
+
+Any infectious symptomd
+
+50
+
+4,080
+
+17
+
+1,264
+
+1.17
+
+0.69, 1.97
+
+3.21
+
+1.84, 5.58
+
+0.01
+
+1.11
+
+0.65, 1.91
+
+3.42
+
+1.76, 6.66
+
+0.01
+
+Gastrointestinal illness
+
+30
+
+4,251
+
+10
+
+1,297
+
+0.77
+
+0.40, 1.47
+
+2.62
+
+1.63, 4.24
+
+0.01
+
+0.83
+
+0.42, 1.63
+
+1.96
+
+1.22, 3.15
+
+0.08
+
+Diarrhea
+
+24
+
+4,285
+
+9
+
+1,305
+
+0.66
+
+0.29, 1.51
+
+2.59
+
+1.53, 4.38
+
+0.02
+
+0.78
+
+0.35, 1.70
+
+1.99
+
+1.19, 3.35
+
+0.09
+
+Sinus pain or infection
+
+44
+
+4,130
+
+19
+
+1,262
+
+1.52
+
+0.84, 2.77
+
+2.02
+
+1.04, 3.93
+
+0.55
+
+1.08
+
+0.54, 2.19
+
+1.79
+
+0.93, 3.44
+
+0.33
+
+Total coliforms
+
+38
+
+4,233
+
+14
+
+1,274
+
+1.03
+
+0.54, 1.96
+
+1.67
+
+0.63, 4.41
+
+0.40
+
+0.92
+
+0.46, 1.82
+
+1.72
+
+0.64, 4.61
+
+0.32
+
+Infection of open wound
+
+19
+
+4,360
+
+6
+
+1,332
+
+3.46
+
+0.79,15.20
+
+2.16
+
+0.46, 10.16
+
+0.69
+
+4.02
+
+0.91, 17.67
+
+2.38
+
+0.60, 9.43
+
+0.63
+
+Skin rash
+
+19
+
+4,230
+
+5
+
+1,267
+
+1.58
+
+0.73, 3.40
+
+1.14
+
+0.34, 3.81
+
+0.65
+
+1.30
+
+0.48, 3.53
+
+1.11
+
+0.28, 4.41
+
+0.86
+
+Fever
+
+22
+
+4,366
+
+2
+
+1,342
+
+1.59
+
+0.78, 3.22
+
+7.48
+
+4.28, 13.08
+
+0.00
+
+1.62
+
+0.77, 3.37
+
+9.24
+
+4.64, 18.41
+
+0.00
+
+Upper respiratory illnessa
+
+37
+
+3,679
+
+15
+
+1,090
+
+0.87
+
+0.49, 1.52
+
+2.04
+
+0.84, 4.96
+
+0.12
+
+0.72
+
+0.40, 1.30
+
+1.87
+
+0.84, 4.19
+
+0.08
+
+Any infectious symptomd
+
+50
+
+4,080
+
+17
+
+1,264
+
+1.35
+
+0.78, 2.34
+
+3.26
+
+1.76, 6.01
+
+0.06
+
+0.69
+
+0.23, 2.07
+
+3.02
+
+1.56, 5.38
+
+0.10
+
+Abbreviations: CI, conﬁdence interval; IRR, incidence rate ratio.
+a
+We controlled for the following time-invariant potential confounders: age, sex, educational level, employment status, household income, years the individual had surfed, reported behavior of typically avoiding the
+ocean after wet weather, surfboard length, mode of enrollment (beach vs. Internet). We controlled for chronic health conditions only for the corresponding outcomes: ear problems, sinus problems, gastrointestinal conditions, respiratory conditions, skin conditions. We also controlled for the following time-varying potential confounders: entered the ocean for an activity other than surﬁng, any illness symptoms in the week preceding the
+risk window, day of recall, day of the week, and rainfall total during the past 3 days.
+b
+P value for multiplicative effect modiﬁcation of dry versus wet weather.
+c
+Only measured in year 2 of the study.
+d
+Includes gastrointestinal illness, eye infections, infected wounds, and fever.
+
+Downloaded from https://academic.oup.com/aje/article-abstract/186/7/866/3813104
+by lib-electronic@uic.edu user
+on 18 December 2017
+
+Surfer Illness After Seawater Exposure 873
+
+Earache or infection
+
+
+
+874
+
+Arnold et al.
+
+Limitations
+
+The use of self-reported symptoms could bias the association between seawater exposure and illness away from the
+null if surfers overreported illness after exposure; conversely, random (nondifferential) errors in exposures or outcomes could bias associations toward the null (34). The
+survey measured daily exposure and outcomes in separate
+modules—an intentional decision to separate the measurements and inhibit systematic reporting bias. Adjusted analyses controlled for day of recall and day of the week to reduce
+nondifferential bias from recall errors but would not control
+for systematic bias. Negative control exposure analyses found
+no association between Enterococcus levels and illness on
+days with no recent water exposure (Web Table 5), which
+suggests that unmeasured confounding or reporting bias is
+unlikely to explain the association between Enterococcus
+levels and illness. Moreover, the use of daily average levels
+of fecal indicator bacteria could bias the association between
+water quality and illness toward the null if the averaging resulted
+in nondifferential misclassiﬁcation error (35).
+We measured incident outcomes within 3 days of seawater
+exposure because the population regularly entered the ocean,
+a 3-day period captures the incubation period for the most
+common waterborne pathogens (e.g., norovirus, Campylobacter species, Salmonella species) (36), and past studies
+found that most excess episodes of gastrointestinal illness
+associated with seawater exposure occurred in the ﬁrst 1–2
+days (15). Illness caused by waterborne pathogens with longer incubation periods (e.g., Cryptosporidium species) (37)
+could have been misclassiﬁed in this study, which could bias
+results toward the null by artiﬁcially increasing incidence
+rates in unexposed periods and decreasing rates in exposed
+periods.
+Conclusions
+
+Surﬁng was associated with increased incidence of several
+categories of symptoms, and associations were stronger if
+surﬁng took place shortly after rainstorms. Higher levels of
+fecal indicator bacteria were strongly associated with fever,
+sinus pain/infection, wound infection, and gastrointestinal
+symptoms within 3 days of rainstorms. The internal consistency between water-quality measurements, patterns of illness after dry- and wet-weather exposures, and incidence
+proﬁles with time since rainstorms lead us to conclude that
+seawater exposure during or close to rainstorms at beaches
+impacted by urban runoff in southern California increases
+the incidence rates of a broad set of acute illnesses among
+surfers. These ﬁndings provide strong evidence to support
+the posting of beach warnings after rainstorms and initiatives
+that would reduce pathogen sources in urban runoff that
+ﬂows to coastal waters.
+
+ACKNOWLEDGMENTS
+
+Author afﬁliations: Division of Epidemiology, School of
+Public Health, University of California, Berkeley, California
+(Benjamin F. Arnold, Ayse Ercumen, Jade Benjamin-
+
+Chung, John M. Colford, Jr.); Southern California Coastal
+Water Research Project, Costa Mesa, California (Kenneth C.
+Schiff, Joshua A. Steele, John F. Grifﬁth, Steven J.
+Steinberg, Paul Smith, Stephen B. Weisberg); Orange
+County Sanitation District, Fountain Valley, California
+(Charles D. McGee; retired); and Surfrider Foundation, San
+Clemente, California (Richard Wilson, Chad Nelsen).
+The study was funded by the city and county of San
+Diego, California.
+We thank the ﬁeld team members who enrolled
+participants at the beach and collected water samples
+throughout the study. We also thank Laila Othman, Sonji
+Romero, Aaron Russell, Joseph Toctocan, Laralyn Asato,
+Zaira Valdez, and the staff at City of San Diego Marine
+Microbiology Laboratory who generously provided
+laboratory space to test water specimens, and Jeffrey Soller,
+Mary Schoen, and members of the study’s external advisory
+committee for earlier comments on the results.
+The funders had no role in study design, data collection
+and analysis, decision to publish, or preparation of the
+manuscript.
+Conﬂict of interest: none declared.
+
+REFERENCES
+1. Noble RT, Weisberg SB, Leecaster MK, et al. Storm effects on
+regional beach water quality along the southern California
+shoreline. J Water Health. 2003;1(1):23–31.
+2. Leecaster MK, Weisberg SB. Effect of sampling frequency on
+shoreline microbiology assessments. Mar Pollut Bull. 2001;
+42(11):1150–1154.
+3. Ackerman D, Weisberg SB. Relationship between rainfall and
+beach bacterial concentrations on Santa Monica bay beaches.
+J Water Health. 2003;1(2):85–89.
+4. Haile RW, Witte JS, Gold M, et al. The health effects of
+swimming in ocean water contaminated by storm drain runoff.
+Epidemiology. 1999;10(4):355–363.
+5. Colford JM, Wade TJ, Schiff KC, et al. Water quality
+indicators and the risk of illness at beaches with nonpoint
+sources of fecal contamination. Epidemiology. 2007;18(1):
+27–35.
+6. Colford JM, Schiff KC, Grifﬁth JF, et al. Using rapid indicators
+for Enterococcus to assess the risk of illness after exposure to
+urban runoff contaminated marine water. Water Res. 2012;
+46(7):2176–2186.
+7. Arnold BF, Schiff KC, Grifﬁth JF, et al. Swimmer illness
+associated with marine water exposure and water quality
+indicators: impact of widely used assumptions. Epidemiology.
+2013;24(6):845–853.
+8. Yau VM, Schiff KC, Arnold BF, et al. Effect of submarine
+groundwater discharge on bacterial indicators and swimmer
+health at Avalon Beach, CA, USA. Water Res. 2014;59:23–36.
+9. Taylor K. Contagion Present. Surfer Magazine. http://www.
+surfermag.com/features/contagion-present. Published July 20,
+2016. Accessed August 17, 2016.
+10. Dwight RH, Baker DB, Semenza JC, et al. Health effects
+associated with recreational coastal water use: urban versus
+rural California. Am J Public Health. 2004;94(4):565–567.
+11. Harding AK, Stone DL, Cardenas A, et al. Risk behaviors and
+self-reported illnesses among Paciﬁc Northwest surfers.
+J Water Health. 2015;13(1):230–242.
+Am J Epidemiol. 2017;186(7):866–875
+
+Downloaded from https://academic.oup.com/aje/article-abstract/186/7/866/3813104
+by lib-electronic@uic.edu user
+on 18 December 2017
+
+
+
+Surfer Illness After Seawater Exposure 875
+
+12. Stormsurf. Weather basics. http://www.stormsurf.com/page2/
+tutorials/weatherbasics.shtml. Published September 26, 2003.
+Accessed October 27, 2016.
+13. Heal the Bay. Heal the Bay’s 2014-2015 Annual Beach Report
+Card. Santa Monica, CA: Heal the Bay; 2015. http://www.
+healthebay.org/sites/default/ﬁles/BRC_2015_ﬁnal.pdf.
+Accessed December 5, 2016.
+14. Schiff K, Grifﬁth J, Steele J, et al. The Surfer Health Study: A
+Three-Year Study Examining Illness Rates Associated With
+Surﬁng During Wet Weather. Costa Mesa, CA: Southern
+California Coastal Water Research Project; 2016. http://ftp.
+sccwrp.org/pub/download/DOCUMENTS/TechnicalReports/
+943_SurferHealthStudy.pdf. Published September 20, 2016.
+Accessed December 5, 2016.
+15. Arnold BF, Wade TJ, Benjamin-Chung J, et al. Acute
+gastroenteritis and recreational water: highest burden among
+young US children. Am J Public Health. 2016;106(9):
+1690–1697.
+16. Wade TJ, Sams E, Brenner KP, et al. Rapidly measured
+indicators of recreational water quality and swimmingassociated illness at marine beaches: a prospective cohort
+study. Environ Health. 2010;9:66.
+17. Colford JM, Wade TJ, Sandhu SK, et al. A randomized,
+controlled trial of in-home drinking water intervention to
+reduce gastrointestinal illness. Am J Epidemiol. 2005;161(5):
+472–482.
+18. Colford JM, Hilton JF, Wright CC, et al. The Sonoma Water
+Evaluation Trial: a randomized drinking water intervention
+trial to reduce gastrointestinal illness in older adults. Am J
+Public Health. 2009;99(11):1988–1995.
+19. Arnold B, Ercumen A. The Surfer Health Study. Open Science
+Framework. https://osf.io/hvn7s. Published July 29, 2015.
+Updated July 29, 2016. Accessed December 5, 2016.
+20. Rothman KJ, Greenland S, Lash TL. Modern Epidemiology.
+3rd ed. Philadelphia, PA: Lippincott Williams and Wilkins;
+2008.
+21. Zou G. A modiﬁed poisson regression approach to prospective
+studies with binary data. Am J Epidemiol. 2004;159(7):702–706.
+22. Vittinghoff E, Glidden DV, Shiboski SC, et al. Regression
+Methods in Biostatistics: Linear, Logistic, Survival, and
+Repeated Measures Models. 2nd ed. New York, NY: Springer
+Science & Business Media; 2012.
+23. United States Environmental Protection Agency. Recreational
+Water Quality Criteria. Washington, DC: United States
+Environmental Protection Agency; 2012. (Ofﬁce of Water
+publication no. 820-F-12-058). https://www.epa.gov/sites/
+production/ﬁles/2015-10/documents/rwqc2012.pdf. Accessed
+January 24, 2017.
+
+Am J Epidemiol. 2017;186(7):866–875
+Downloaded from https://academic.oup.com/aje/article-abstract/186/7/866/3813104
+by lib-electronic@uic.edu user
+on 18 December 2017
+
+24. VanderWeele TJ, Shpitser I. A new criterion for confounder
+selection. Biometrics. 2011;67(4):1406–1413.
+25. Lipsitch M, Tchetgen Tchetgen E, Cohen T. Negative controls:
+a tool for detecting confounding and bias in observational
+studies. Epidemiology. 2010;21(3):383–388.
+26. Arnold BF, Ercumen A, Benjamin-Chung J, et al. Brief report:
+negative controls to detect selection bias and measurement bias
+in epidemiologic studies. Epidemiology. 2016;27(5):637–641.
+27. Rothman KJ, Gallacher JE, Hatch EE. Why representativeness
+should be avoided. Int J Epidemiol. 2013;42(4):1012–1014.
+28. Wade TJ, Pai N, Eisenberg JN, et al. Do US Environmental
+Protection Agency water quality guidelines for recreational
+waters prevent gastrointestinal illness? A systematic review
+and meta-analysis. Environ Health Perspect. 2003;111(8):
+1102–1109.
+29. Gammie A, Morris R, Wyn-Jones AP. Antibodies in crevicular
+ﬂuid: an epidemiological tool for investigation of waterborne
+disease. Epidemiol Infect. 2002;128(2):245–249.
+30. Leonard A. Are Bacteria in the Coastal Zone a Threat to
+Human Health? [dissertation]. Exeter, UK: University of
+Exeter; 2016. https://ore.exeter.ac.uk/repository/handle/10871/
+22805. Accessed October 14, 2016.
+31. Fleisher JM, Fleming LE, Solo-Gabriele HM, et al. The
+BEACHES Study: health effects and exposures from non-point
+source microbial contaminants in subtropical recreational
+marine waters. Int J Epidemiol. 2010;39(5):1291–1298.
+32. Tseng LY, Jiang SC. Comparison of recreational health risks
+associated with surﬁng and swimming in dry weather and poststorm conditions at Southern California beaches using
+quantitative microbial risk assessment (QMRA). Mar Pollut
+Bull. 2012;64(5):912–918.
+33. Van Dolah FM. Marine algal toxins: origins, health effects, and
+their increased occurrence. Environ Health Perspect. 2000;
+108(suppl 1):133–141.
+34. Copeland KT, Checkoway H, McMichael AJ, et al. Bias due to
+misclassiﬁcation in the estimation of relative risk. Am J
+Epidemiol. 1977;105(5):488–495.
+35. Fleisher JM. The effects of measurement error on previously
+reported mathematical relationships between indicator
+organism density and swimming-associated illness: a
+quantitative estimate of the resulting bias. Int J Epidemiol.
+1990;19(4):1100–1106.
+36. Widdowson MA, Sulka A, Bulens SN, et al. Norovirus and
+foodborne disease, United States, 1991-2000. Emerg Infect
+Dis. 2005;11(1):95.
+37. Jokipii L, Jokipii AM. Timing of symptoms and oocyst
+excretion in human cryptosporidiosis. N Engl J Med. 1986;
+315(26):1643–1647.
+
+

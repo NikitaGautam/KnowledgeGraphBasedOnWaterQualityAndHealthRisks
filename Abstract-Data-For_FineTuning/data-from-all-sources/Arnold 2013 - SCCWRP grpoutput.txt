@@ -1,0 +1,1254 @@
+Original Article
+
+Swimmer Illness Associated with Marine Water Exposure
+and Water Quality Indicators
+Impact of Widely Used Assumptions
+Benjamin F. Arnold,a Kenneth C. Schiff,b John F. Griffith,b Joshua S. Gruber,a Vincent Yau,a,c
+Catherine C. Wright,a Timothy J. Wade,d Susan Burns,e Jacqueline M. Hayes,e Charles McGee,f
+Mark Gold,g Yiping Cao,b Stephen B. Weisberg,b and John M. Colford, Jra
+Background: Studies of health risks associated with recreational
+water exposure require investigators to make choices about water
+quality indicator averaging techniques, exposure definitions, followup periods, and model specifications; however, investigators seldom
+describe the impact of these choices on reported results. Our objectives are to report illness risk from swimming at a marine beach
+affected by nonpoint sources of urban runoff, measure associations
+between fecal indicator bacteria levels and subsequent illness among
+swimmers, and investigate the sensitivity of results to a range of
+exposure and outcome definitions.
+Methods: In 2009, we enrolled 5674 people in a prospective cohort
+at Malibu Beach, a coastal marine beach in California, and measured
+daily health symptoms 10–19 days later. Concurrent water quality samples were analyzed for indicator bacteria using culture and
+molecular methods. We compared illness risk between nonswimmers
+and swimmers, and among swimmers exposed to various levels of
+fecal indicator bacteria.
+Submitted 21 November 2012; accepted 7 June 2013; posted 16 September 2013.
+From the aSchool of Public Health, University of California, Berkeley, CA;
+b
+Southern California Coastal Water Research Project, Costa Mesa, CA;
+c
+Kaiser Permanente Division of Research, Oakland, CA; dUnited States
+Environmental Protection Agency, National Environmental Health
+Effects Research Laboratory, Chapel Hill, NC; eSurvey Research Center, University of California, Berkeley, CA; fOrange County Sanitation
+District, Orange County, CA; and gInstitute of Environment and Sustainability, University of California, Los Angeles, CA.
+The study was funded by the California State Water Resources Control Board,
+the US Environmental Protection Agency (EPA), and the Los Angeles
+County Flood Control District. With the exception of the scientific contribution of T.J.W. of the EPA, the funders played no role in the collection,
+analysis or interpretation of the data, nor in the writing of this report and
+the decision to submit the article for publication. The views expressed in
+this article are those of the authors and do not necessarily reflect the views
+or policies of the US Environmental Protection Agency. The authors have
+no competing interests.
+Supplemental digital content is available through direct URL citations
+in the HTML and PDF versions of this article (www.epidem.com). This
+content is not peer-reviewed or copy-edited; it is the sole responsibility
+of the author.
+Correspondence: John M. Colford, Jr, Department of Epidemiology, School
+of Public Health, University of California, Berkeley, 113A Haviland Hall,
+MC #7358, Berkeley, CA 94720–7358. E-mail: jcolford@berkeley.edu.
+Copyright © 2013 by Lippincott Williams & Wilkins
+ISSN: 1044-3983/13/2406-0845
+DOI: 10.1097/01.ede.0000434431.06765.4a
+
+Epidemiology • Volume 24, Number 6, November 2013
+
+Results: Diarrhea was more common among swimmers than nonswimmers (adjusted odds ratio = 1.88 [95% confidence interval =
+1.09–3.24]) within 3 days of the beach visit. Water quality was generally good (fecal indicator bacteria levels exceeded water quality
+guidelines for only 7% of study samples). Fecal indicator bacteria
+levels were not consistently associated with swimmer illness. Sensitivity analyses demonstrated that overall inference was not substantially affected by the choice of exposure and outcome definitions.
+Conclusions: This study suggests that the 3 days following a beach
+visit may be the most relevant period for health outcome measurement in recreational water studies. Under the water quality conditions observed in this study, fecal indicator bacteria levels were not
+associated with swimmer illness.
+(Epidemiology 2013;24: 845–853)
+
+W
+
+ater quality standards for fecal contamination in recreational waters focus on the measurement of fecal
+indicator bacteria, such as Enterococcus, which covary with
+pathogens in sources of human waste but are easier, cheaper,
+and faster to measure than the pathogens themselves.1,2 Studies that estimate the relationship between fecal indicator bacteria levels and subsequent illness among swimmers often rely
+on prospective cohort designs. Investigators have used similar
+designs at a variety of beaches (freshwater and marine), with
+various sources of pollution (well-defined “point sources,”
+such as sewage treatment discharges, vs. “nonpoint sources,”
+such as urban or agricultural runoff), and using indicator bacteria detected by culture (eg, Enterococcus Method 1600) or
+more rapid molecular methods (eg, Enterococcus qPCR).3–10
+Cohort studies require investigators to make many decisions about how to define swimming-related exposure and
+health outcomes. Studies typically use a small set of exposure
+definitions and report a limited set of results. For example,
+investigators often assign daily average indicator bacteria levels to all swimmers at the beach on a given day.3–7 Cohort studies also follow participants for incident illness over a period
+of at least 10 days. This follow-up period is long enough to
+identify a large number of cases and capture relevant pathogen
+www.epidem.com | 845
+
+
+
+Epidemiology • Volume 24, Number 6, November 2013
+
+Arnold et al
+
+incubation periods but short enough to avoid excessive problems with errors due to poor recall. Despite the importance of
+definition choices, only three previous studies have reported
+any alternative estimates, and then only in supporting materials. 6,8,10 To our knowledge, no study of infections to swimmers
+has systematically studied the effect of definition choices on
+the stability of risk estimates.
+Our objectives are (1) to measure the risk of illness
+that results from swimming at a marine beach affected by
+dry weather runoff and nonpoint source contaminants; (2)
+to determine the association between fecal indicator bacteria, measured with culture and molecular methods, and subsequent illness among swimmers; and (3) to investigate the
+impact of outcome and exposure measurement choices on the
+results. We consider daily illness patterns among nonswimmers and swimmers after visiting the beach to determine the
+most sensitive risk periods. We also present a simple stability
+analysis11 to assess whether parameter estimates calculated
+with the de facto standard methodology are sufficiently robust
+to the choices that govern the presentation of primary results.
+
+METHODS
+Beach Description
+Malibu Surfrider State Beach is one of California’s
+premier surfing and swimming beaches. The beach is located
+at the mouth of the 282 km2 Malibu Creek watershed. The
+majority of its 90,000 residents have sewerage connections to
+the Tapia Water Reclamation facility (8 km from the beach),
+where wastewater is denitrified, filtered, and chlorine disinfected. Some residents and commercial facilities, particularly
+in the lower watershed, use onsite septic and advanced treatment systems. The Tapia facility discharges about 10 million
+gallons per day of treated effluent into the watershed November through March. Between April and October, the facility
+does not discharge into the watershed unless the California
+Department of Fish and Game requests them to discharge
+water to preserve flows for steelhead fish; instead, the treated
+effluent is recycled and used for irrigation. There were no discharges during the study period. Currently, large reaches of
+Malibu Creek and Malibu Surfrider Beach are listed by the
+State of California and the United States Environmental Protection Agency as impaired by bacterial contamination.12
+
+Study Design
+In a prospective cohort design, we enrolled beach visitors and measured reported daily health outcomes between 10
+and 19 days later with a phone interview (median follow-up
+time [5th, 95th percentile] = 11 [10, 15] days). Interviewers
+approached beach visitors on 39 days between 23 May and
+20 September 2009; 30 of these recruitment days were on
+weekends. Interviewers enrolled consenting households if
+they met these eligibility criteria: (1) at least one household
+member at the beach was aged ≥18 years; (2) home address
+was in the United States, Canada, or Mexico; (3) no previous
+846 | www.epidem.com
+
+study participation in the past 28 days; and (4) ability to speak
+English or Spanish. Our target enrollment for the summer was
+5,000, based on past studies in California.3,7,8
+Interviewers gave participants an incentive (beach ball)
+and a short questionnaire to complete, then recorded the closest water sampling site to each participant. The beach questionnaire asked about water exposure and about exposures or
+illness experienced in the previous 3 days. During a follow-up
+phone call, study staff conducted a 10- to 15-minute interview
+with each household to measure daily records of acute health
+outcomes, demographic information, swimming activity, and
+other exposures since the index beach visit.
+
+Water Quality Sampling and Laboratory
+Analysis
+Water quality samples were collected at five sites along
+the beach; three of the sites were colocated with existing sites
+monitored by the Los Angeles County Department of Public
+Health and the City of Los Angeles, Environmental Monitoring Division (Figure 1, Sites A, B, E). On each recruitment
+day the field team also collected water quality samples at 8:00
+(same as Health Department) and at 13:00 (approximate time
+of maximum swimmer density). Sampling depth mimicked
+public monitoring methods: 0.5 m depth on an incoming wave.
+Water quality analyses were identical to those used by
+Colford et al.8 All samples for culture and defined-substrate
+technology methods were processed immediately; filters
+for three qPCR methods were frozen for later analysis. We
+analyzed samples for culture-based fecal indicator bacteria:
+Enterococcus using Environmental Protection Agency (EPA)
+Method 1600,13 fecal coliforms on the m-FC media, and total
+coliforms on m-Endo media.14 We measured Escherichia coli
+using Colilert® (IDEXX, Westbrook, ME).14 We also measured Enterococcus using Enterolert (IDEXX)14 and three
+qPCR methods. TaqMan and Scorpion-1 qPCR methods targeted the same broad species range of the genus Enterococcus but differed in their primer-probe chemistries and in the
+final calculation of quantitative results.15,16 The third qPCR
+method, Scorpion-2, was identical to Scorpion-1 except that it
+included a primer-probe complex that amplified only Enterococcus faecium and Enterococcus faecalis, which are common
+Enterococcus species found in human fecal contamination.17
+We recorded Taqman qPCR results as calibrator cell equivalents per 100 mL for both the Δ-Ct and the Δ-Δ-Ct method;6,15
+we recorded Scorpion-1 and Scorpion-2 results in cell equivalents per 100 mL using the Δ-Ct method.16
+
+Swim Exposure Definitions
+We measured individual water exposure using selfreported water activity. Consistent with prior studies,4–8 we
+created a graded classification scheme based on the person’s
+minimum exposure: (1) any water contact, (2) body immersion, (3) head immersion, and (4) swallowed water. We
+defined body immersion as water contact above the waist,
+head immersion as head below the water line, and swallowed
+© 2013 Lippincott Williams & Wilkins
+
+
+
+Epidemiology • Volume 24, Number 6, November 2013
+
+Impact of Assumptions in Recreational Water Analyses
+
+E
+D
+B
+C
+Surfers only
+
+A
+FIGURE 1. Overview of the water quality sampling sites (A–E) in the Malibu beach study, 2009. The surfers-only section of the
+beach is not open to nonsurfers.
+
+water as ingestion of any ocean water; those who reported no
+contact with ocean water were classified as nonswimmers.
+We measured water quality exposure by combining swimmer exposure with indicator bacteria levels. We considered nine
+methods for averaging and assigning indicators (­Figure 2).
+Consistent with two companion studies at Doheny8 and Avalon
+beaches, we used a site-specific daily-average method as our
+primary exposure definition (Figure 2, Method 5).
+
+Outcome Definitions
+We measured two primary outcomes: (1) diarrhea,
+defined as three or more loose or watery stools in 24 hours18;
+and (2) gastrointestinal illness, defined as (i) diarrhea, (ii)
+vomiting, (iii) nausea and stomach cramps, (iv) nausea and
+missed daily activities due to gastrointestinal illness, or (v)
+stomach cramps and missed daily activities due to gastrointestinal illness.5,6,8–10 We measured cumulative incident illness
+in the 10 days following the beach visit (the period for which
+we had complete follow-up for all participants); we excluded
+anyone with illness at enrollment.
+In addition to our primary outcomes, we measured skin
+rash, eye infection, earache, fever, urinary tract infections, and
+upper respiratory illness (defined as any two of the following:
+sore throat, cough, runny nose, common cold, or fever5,6,8,9).
+
+Descriptive Analysis of Illness
+In the primary analysis, we examined incident diarrhea and gastrointestinal illness in the 10 days following the
+beach visit. Three recently published studies have suggested
+© 2013 Lippincott Williams & Wilkins
+
+swimmer illness is elevated in the 2–3 days following the
+beach visit.8,19,20 We complemented our primary analysis with
+a descriptive analysis of time-to-illness onset and daily incidence to identify whether swimmers and nonswimmers had
+different illness patterns and, if so, to identify the most relevant period over which to measure swimming exposure risk
+and associations between indicator levels and illness. The
+descriptive analysis was not prespecified. We defined timeto-illness as the number of days between the beach visit and
+the first symptom and compared time-to-illness distributions
+among nonswimmers and swimmers. We calculated the differences and 95% confidence intervals (CIs) in daily incidence
+between nonswimmers and the graded water exposure definitions by bootstrapping the dataset (resampling observations
+clustered at the household level) and recalculating differences
+for each day of follow-up.
+
+Illness Risk Associated with Swimming and
+Indicator Bacteria Levels
+In swim exposure analyses (comparing swimmers to
+nonswimmers), our parameter of interest was the relative
+risk associated with exposure to ocean water. The comparison group for these analyses was nonswimmers. In analyzing
+the association between indicator bacteria levels and swimmer
+illness, our parameter of interest was the relative risk associated with a log10 increase in indicator levels among swimmers with a defined level of water contact (body immersion,
+head immersion, swallowed water). We estimated the relative
+risk of illness due to swim exposure using the odds ratio (OR)
+www.epidem.com | 847
+
+
+
+Arnold et al
+
+Epidemiology • Volume 24, Number 6, November 2013
+
+RESULTS
+Study Population
+Field interviewers approached 7231 households; 1362
+did not meet study eligibility criteria. Of the eligible households, 3469 consented to participate and completed the beach
+interview, and 2713 (78%) completed the phone interview.
+Participants who completed the interview had similar demographics to those lost to follow-up (Table 1). Of the 5674 participants in the study, 5091 (90%) were recruited on a Friday,
+Saturday, or Sunday. Swimmers were more likely to be male
+and younger than nonswimmers, but all groups had similar
+ethnicity and household income. Of 2559 body immersion
+swimmers, we excluded 83 from the analyses that required
+site-specific exposure assignment because we had not obtained
+swim locations for them.
+
+Water Quality
+
+FIGURE 2. Water quality indicator averaging and assignment
+methods.
+
+calculated with logistic regression. The eAppendix (http://
+links.lww.com/EDE/A720) includes details of the regression
+models used to estimate the parameters of interest.
+
+Stability Analysis for Indicator Bacteria Levels
+and Swimmer Illness
+We evaluated the stability of our results to the method
+of indicator assignment (Figure 2), definition of swim exposure (body immersion, head immersion, swallowed water),
+length of follow-up (10 days, 3 days), and model (unadjusted,
+adjusted) by repeating the analysis for every combination of
+these analytic choices. This resulted in 9 × 3 × 2 × 2 = 108 OR
+estimates for each indicator. We used kernel density distribution plots and forest plots to qualitatively assess the sensitivity
+of parameter estimates to choice of analysis method.
+848 | www.epidem.com
+
+Enterococcus concentrations measured by EPA
+Method 1600 ranged from <1 to 1740 colony forming
+units (CFU)/100 mL in the ocean locations (Table 2). Of
+the 2559 body immersion swimmers, 99% swam at sites
+A, B, D, and E. Enterococcus EPA Method 1600 exceeded
+(failed to meet) state water quality objectives in 7% (>35
+CFU/100 mL) and 4% (>104 CFU/100 mL) of the samples
+at these four sites; 95% of the samples collected from site
+C (in the lagoon) exceeded 104 CFU/100 mL (Figure 1).
+The exceedence percentages during this study were lower
+than historic water quality collected by County and City
+agencies from late May to September between 2004 and
+2008. Historic exceedence percentages at sites A, B, and
+E were 6.2% (A), 9.1% (B), and 9.7% (E) for Enterococcus >104 CFU/100 mL and 12.4% (A), 26.9% (B), and
+14.0% (E) for any of the three indicators (total coliforms
+>10,000 CFU/100 mL, fecal coliforms >400 CFU/100 mL,
+and Enterococcus >104 CFU/100 mL).21,22 Water quality
+worsened when the sand berm blocking the lagoon mouth
+was open and its contents flowed directly into the ocean
+(eFigure 1, http://links.lww.com/EDE/A720). At sites A
+and B (immediately up- and down-current from the Malibu
+Lagoon mouth), all samples that exceeded water quality
+standard occurred with an open berm.
+
+Illness Onset During Follow-up
+Time to diarrhea and gastrointestinal illness was shorter
+for swimmers compared with nonswimmers (eTable 1, eFigure 2, http://links.lww.com/EDE/A720). Swimmers had elevated incidence of diarrhea and gastrointestinal illness on
+days 1 to 3 following the beach visit. By days 3 to 4, diarrhea and gastrointestinal illness incidence among swimmers
+returned to the nonswimmer level (Figure 3). Other symptoms
+of gastrointestinal illness (nausea, stomach cramps, vomiting), earache, and skin rash also had shorter time to onset
+and higher incidence among swimmers compared with nonswimmers (eFigures 3–4, http://links.lww.com/EDE/A720).
+© 2013 Lippincott Williams & Wilkins
+
+
+
+Epidemiology • Volume 24, Number 6, November 2013
+
+TABLE 1.
+
+Impact of Assumptions in Recreational Water Analyses
+
+Cohort Demographic Characteristics in the Malibu Beach Study, 2009
+Follow-up Status
+
+Swim Exposure
+
+Lost to
+Follow-up
+
+Completed
+Follow-up
+
+Nonswimmers
+
+Body
+Immersion
+
+Head
+Immersion
+
+Swallowed
+Water
+
+1,580
+752
+
+5,674
+2,713
+
+1,895
+722
+
+2,559
+1,474
+
+1,849
+1,166
+
+571
+410
+
+11
+11
+14
+23
+22
+13
+7
+0
+
+12
+9
+14
+18
+19
+16
+11
+0
+
+8
+2
+9
+22
+23
+20
+16
+0
+
+12
+17
+19
+17
+15
+12
+8
+0
+
+9
+17
+21
+17
+16
+12
+8
+0
+
+17
+22
+17
+16
+14
+8
+5
+0
+
+48
+52
+
+46
+54
+
+36
+64
+
+56
+44
+
+62
+38
+
+59
+41
+
+48
+2
+7
+9
+34
+0
+0
+0
+0
+
+60
+5
+14
+2
+7
+0
+4
+4
+4
+
+60
+5
+13
+2
+9
+0
+3
+4
+3
+
+58
+5
+16
+2
+5
+1
+4
+4
+5
+
+60
+5
+17
+1
+4
+0
+4
+3
+5
+
+58
+4
+14
+3
+6
+0
+5
+4
+6
+
+100
+
+13
+15
+13
+12
+14
+17
+15
+
+15
+15
+14
+12
+12
+15
+18
+
+13
+14
+13
+13
+15
+18
+14
+
+13
+14
+12
+13
+15
+19
+14
+
+12
+13
+13
+15
+14
+19
+12
+
+Number of subjects
+Persons
+Householdsa
+Individual characteristics
+ Age (years); %
+  0–5
+  5.1–10
+  10.1–20
+  20.1–30
+  30.1–40
+  40.1–50
+  >50
+  Missing
+Sex; %
+  Male
+  Female
+ Racial and ethnic group; %
+  White
+   White, Hispanic
+  Non-White, Hispanic
+  Black
+  Asian
+  Indian
+  Multiple races
+  Other
+  Missing
+Household characteristics
+Household income (USD); %
+  <10,000–25,000
+  25,001–50,000
+  50,001–75,000
+  75,001–100,000
+  100,001–150,000
+  >150,000
+  Missing
+a
+
+Households are considered to be in a swim exposure group if any household member was exposed at that level.
+
+We therefore repeated the analyses using cumulative incident
+illness during a 3-day follow-up, expecting to observe stronger associations between water exposure or indicator levels
+and illness in the 3-day follow-up compared with the 10-day
+follow-up used in the primary analysis.
+
+Illness Risk Associated with Swimming at
+Malibu Beach
+Swimmers had consistently elevated risk of diarrhea and
+gastrointestinal illness over the 10-day follow-up period; when
+we restricted the follow-up period to 3 days, associations were
+© 2013 Lippincott Williams & Wilkins
+
+stronger between swimming exposure and both diarrhea and
+gastrointestinal illness (Table 3). Within 3 days of the beach
+visit, the adjusted OR for swimmers with body immersion versus nonswimmers was 1.88 (95% CI = 1.09–3.24) for diarrhea
+and 1.90 (1.17–3.06) for gastrointestinal illness. The strength
+of association between swimming exposure and diarrhea and
+gastrointestinal illness declined with longer follow-up periods
+(eFigure 5, http://links.lww.com/EDE/A720). Swimmers had
+elevated risk for illnesses other than diarrhea and gastrointestinal illness, including earache, vomiting, and fever (eTable 2,
+http://links.lww.com/EDE/A720).
+www.epidem.com | 849
+
+
+
+Epidemiology • Volume 24, Number 6, November 2013
+
+Arnold et al
+
+TABLE 2.
+
+Fecal Indicator Bacteria Levels Measured in the Malibu Beach Study, 2009, at Sample Sites A, B, D, and E
+
+Enterococcus, EPA 1600, CFU
+Enterococcus, Enterolert, CFU
+Enterococcus, Taqman qPCR, CCEΔΔ
+Enterococcus, Taqman qPCR, CCEΔ
+Enterococcus, Scorpion-1 qPCR, CCEΔ
+Enterococcus, Scorpion-2 qPCR, CCEΔ
+E. coli, Colilert®, CFU
+Fecal coliform, MF, CFU
+Total coliform, MF, CFU
+
+No.a
+
+Min
+
+Max
+
+Geometric Mean
+
+Nondetects
+
+307
+307
+307
+307
+228
+228
+156
+303
+303
+
+0.5
+5.0
+0.2
+0.2
+2.5
+2.5
+0.5
+0.5
+0.5
+
+1,740
+1,354
+2,829
+2,001
+25,064
+15,778
+1,000
+1,000
+1,550
+
+3
+9
+17
+13
+31
+10
+13
+5
+25
+
+69
+182
+39
+39
+59
+166
+10
+66
+22
+
+a
+Table excludes samples from site C (in the lagoon) because only 1% of swimmers swam at site C. Differences in numbers among indicators are attributable to some indicators
+being sampled only in the morning.
+CCE indicates calibrator cell equivalents per 100 mL for the CCEΔ and CCEΔΔ cycle threshold calculations; MF, membrane filtration; qPCR, quantitative real-time polymerase chain reaction.
+
+Incident Diarrhea
+Episodes per 1000
+
+20
+
+Swallowed Water
+Head Immersion
+Body Immersion
+Nonswimmers
+
+15
+10
+5
+0
+
+Incident Gastrointestinal Illness
+Episodes per 1000
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+20
+15
+10
+5
+
+immersion (eTable 3, http://links.lww.com/EDE/A720). The
+use of a restricted 3-day follow-up period did not strengthen
+the associations (Table 4). Log10 increases of Enterococcus
+measured by qPCR were associated with increased risk of
+diarrhea among swimmers who swallowed water (eTable 4,
+http://links.lww.com/EDE/A720), but the findings were not
+consistent across other culture and qPCR methods. We found
+no evidence for effect modification of the association between
+indicator bacteria levels and illness by berm status (eTable 5,
+http://links.lww.com/EDE/A720).
+
+Stability Analysis
+ORs were sensitive to analytic choices (typical OR
+range = 0.5–2.0). Point estimates from the primary analysis
+were at or near the center of the OR distributions for diarrhea
+and gastrointestinal illness (eFigures 6–7, http://links.lww.
+com/EDE/A720), with CIs that covered the mass of the OR
+distributions estimated in the stability analysis. Forest plots of
+the estimated ORs for all analysis combinations showed that
+only total coliforms consistently had a positive association
+(OR > 1.0) with diarrhea and gastrointestinal illness (eFigures
+8–9, http://links.lww.com/EDE/A720).
+
+DISCUSSION
+
+0
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+Days Since Beach Visit
+
+FIGURE 3. Daily incident episodes of diarrhea (top) and gastrointestinal illness (bottom) by swim exposure definition in
+the 10 days following the beach visit in the Malibu beach
+study, 2009. Incidence calculations exclude individuals who
+had gastrointestinal illness at enrollment.
+
+Illness Risk Associated with Indicator Bacteria
+Levels Among Swimmers
+There were no consistent associations between indicator bacteria levels and diarrhea or gastrointestinal illness
+among swimmers with body immersion (Table 4) or head
+850 | www.epidem.com
+
+In this prospective cohort study of 5674 beachgoers at an urban runoff and nonpoint source contaminated
+marine beach, swimmers were more likely than nonswimmers to develop diarrhea and gastrointestinal illness; illness
+risk was greatest in the first 2 to 3 days following the beach
+visit (Figure 3). Shortening the follow-up period from 10
+days to 3 days increased the strength of association between
+swimming exposure to marine water and subsequent illness (Table 3), but did not increase the strength of association between indicators and swimmer illness (Table 4),
+under conditions of relatively good water quality (Table 2).
+Accounting for the berm status of Malibu Creek as a potential effect modifier did not improve the association between
+indicators and swimmer illness (eTable 5, http://links.lww.
+© 2013 Lippincott Williams & Wilkins
+
+
+
+Epidemiology • Volume 24, Number 6, November 2013
+
+Impact of Assumptions in Recreational Water Analyses
+
+TABLE 3. Incident Diarrhea and Gastrointestinal Illness Among Swim Exposure Groups over 2 Follow-up Periods in the Malibu
+Beach Study, 2009
+Complete Follow-up (10 days)
+Swim Exposure Definition
+
+No.a
+
+% Ill
+
+Nonswimmersb
+Body immersion
+Head immersion
+Swallowed water
+
+1,851
+2,502
+1,805
+551
+
+4.21
+4.92
+4.65
+5.44
+
+Nonswimmersb
+Body immersion
+Head immersion
+Swallowed water
+
+1,851
+2,502
+1,805
+551
+
+Restricted Follow-up (3 days)
+
+aOR (95% CI)
+
+% Ill
+
+aOR (95% CI)
+
+1.00
+1.14 (0.80–1.61)
+1.09 (0.75–1.58)
+1.25 (0.77–2.02)
+Gastrointestinal illnessc
+5.89
+1.00
+7.35
+1.14 (0.85–1.54)
+7.15
+1.14 (0.83–1.56)
+8.53
+1.31 (0.89–1.94)
+
+1.35
+2.40
+2.27
+3.45
+
+1.00
+1.88 (1.09–3.24)
+1.78 (1.02–3.11)
+2.76 (1.48–5.16)
+
+1.84
+3.32
+3.27
+4.72
+
+1.00
+1.90 (1.17–3.09)
+1.91 (1.17–3.14)
+2.86 (1.64–4.97)
+
+Diarrhea
+
+a
+
+Number of participants, excluding those with gastrointestinal symptoms at baseline.
+Reference category.
+See text for definition.
+aOR indicates adjusted odds ratio, adjusted for age, sex, race, length of follow-up >12 days, swimming on multiple days, allergies, contact with animals, contact with other sick
+people, frequency of beach visits, digging in the sand, and consumption of raw or undercooked eggs or meat.
+b
+c
+
+TABLE 4.
+2009
+
+Association Between Fecal Indicator Bacteria and Illness for Body Immersion Swimmers in the Malibu Beach Study,
+Complete Follow-up (10 days)
+
+Indicator
+
+No.a
+
+Enterococcus (EPA 1600)
+Enterococcus (Enterolert)
+Enterococcus (Taqman ΔΔ qPCR)
+Enterococcus (Taqman Δ qPCR)
+Enterococcus (Scorpion-1 qPCR)
+Enterococcus (Scorpion-2 qPCR)
+E. coli (Colilert®)
+Fecal coliform (MF)
+Total coliform (MF)
+
+2,476
+2,476
+2,476
+2,476
+2,229
+2,229
+2,476
+2,475
+2,475
+
+Enterococcus (EPA 1600)
+Enterococcus (Enterolert)
+Enterococcus (Taqman ΔΔ qPCR)
+Enterococcus (Taqman Δ qPCR)
+Enterococcus (Scorpion-1 qPCR)
+Enterococcus (Scorpion-2 qPCR)
+E. coli (Colilert®)
+Fecal coliform (MF)
+Total coliform (MF)
+
+2,476
+2,476
+2,476
+2,476
+2,229
+2,229
+2,476
+2,475
+2,475
+
+aOR
+Diarrhea
+0.74
+0.60
+0.97
+0.96
+0.88
+0.86
+0.78
+0.97
+1.02
+Gastrointestinal illnessb
+0.94
+0.84
+1.03
+1.05
+0.98
+0.84
+0.90
+1.02
+0.98
+
+Restricted Follow-up (3 days)
+
+(95% CI)
+
+aOR
+
+(95% CI)
+
+(0.52–1.06)
+(0.31–1.17)
+(0.74–1.25)
+(0.73–1.27)
+(0.66–1.18)
+(0.69–1.06)
+(0.60–1.02)
+(0.69–1.36)
+(0.77–1.35)
+
+0.64
+0.49
+0.88
+0.87
+0.88
+0.81
+0.70
+0.89
+1.22
+
+(0.38–1.07)
+(0.21–1.16)
+(0.62–1.26)
+(0.59–1.28)
+(0.58–1.33)
+(0.59–1.12)
+(0.48–1.02)
+(0.54–1.47)
+(0.85–1.74)
+
+(0.70–1.25)
+(0.50–1.42)
+(0.82–1.29)
+(0.83–1.34)
+(0.78–1.24)
+(0.70–1.00)
+(0.73–1.11)
+(0.77–1.35)
+(0.78–1.23)
+
+0.90
+1.05
+0.93
+0.94
+0.89
+0.79
+0.89
+1.05
+1.14
+
+(0.57–1.41)
+(0.55–2.01)
+(0.67–1.27)
+(0.67–1.31)
+(0.63–1.25)
+(0.59–1.05)
+(0.65–1.23)
+(0.70–1.57)
+(0.84–1.55)
+
+a
+
+Number of swimmers in the analysis, excluding those with gastrointestinal symptoms at baseline.
+See text for definition.
+aOR indicates adjusted odds ratio using the same covariates listed in Table 3 footnote; MF, membrane filtration; qPCR, quantitative real-time polymerase chain reaction.
+b
+
+com/EDE/A720). The distributions of OR estimates for
+most indicators were sensitive to analytic choices, but the
+primary analysis was representative of the broad set of possible results.
+© 2013 Lippincott Williams & Wilkins
+
+Indicator bacteria levels were relatively low during the
+study period, and beach managers attempted to prevent water
+contact near Malibu creek (the area with highest contamination levels). Maximum Enterococcus concentrations using the
+www.epidem.com | 851
+
+
+
+Arnold et al
+
+EPA 1600 Method exceeded 104 CFU/100 mL on 7 of 39 sampling days. Only 30 swimmers were exposed to Enterococcus
+levels >104 CFU/100 mL based on site-specific averages of
+EPA 1600 (Figure 2, Method 5); as a point of comparison, 857
+swimmers had been exposed to those levels in the 1995 Santa
+Monica Bay study.3 Large variation in indicator bacteria levels
+would improve the ability to estimate the relationship between
+a range of indicator levels and illness. It is more difficult to
+estimate indicator-health associations under conditions similar to those in this study, where indicator levels were generally
+low. Nevertheless, the indicator levels observed during this
+study were likely representative of water quality conditions at
+many beaches in California and the United States with nonpoint source contamination.
+We asked most swimmers about their illness onset at 10
+to 12 days following the beach visit. This long recall period
+could lead to reporting errors early in the follow-up period. If
+swimmers misplaced illness days closer to the beach visit differentially compared with nonswimmers, measurement error
+alone could create the elevated swimmer illness in the 3 days
+following the beach visit. However, we do not think differential measurement error led to the observed pattern. First,
+if swimmers misplaced illness days to earlier in the followup period, we would expect their incidence to drop below the
+level of nonswimmers by day 10; this did not occur (Figure 3).
+Second, Dorevitch et al19 also observed elevated swimmer
+diarrhea in the 3 days following water contact with repeated
+measurements on days 2, 5, and 21; their frequent measurements would reduce the chance for reporting errors. Third, we
+observed a similar pattern for multiple measures of gastrointestinal illness as well as skin rash and earache—all symptoms that we would expect a priori to be affected by contact
+with marine water—which provides internal consistency for
+the observed patterns. Future recreational water studies could
+potentially be improved by objective outcome measures, such
+as the presence of specific pathogens in stool, serological,
+or salivary specimens of ill swimmers. Studies using selfreported measures should include negative control outcomes
+to help detect possible reporting bias.23
+Recent studies of recreational fresh and marine water
+exposure have consistently reported elevated illness among
+swimmers compared with nonswimmers following a beach
+visit. 4–8 These studies have typically used 10–14 days as a
+follow-up period. We found that excess diarrhea, gastrointestinal illness, rash, and earaches among swimmers occurred
+in the first 3 days following the beach visit, an observation
+documented in three recent studies that examined daily illness patterns.8,19,20 This short incubation period following
+water exposure suggests enteric viruses may be the primary
+etiologic agents causing swimmer illness, in contrast with
+typically longer incubation periods required by protozoan
+infections such as Cryptosporidium or Giardia.20,24 Pathogenspecific outcome measures would be required to make conclusive claims about etiology. Because exposure likely differs
+852 | www.epidem.com
+
+Epidemiology • Volume 24, Number 6, November 2013
+
+across beaches, future studies should measure and report daily
+illness patterns following the beach visit to determine whether
+the observed pattern occurs in other settings.
+The use of longer follow-up periods (10–14 days) could
+in some cases underestimate the swimming-associated risk by
+averaging over a risk period that is partially irrelevant to the
+exposure of interest. Indeed, we observed this dilution effect of
+the OR associated with swim exposure as the length of followup period increased (eFigure 5, http://links.lww.com/EDE/
+A720). We hypothesized that the use of a shorter follow-up
+period might enhance the association between indicator levels
+and swimmer illness, but found no support for this hypothesis; indicator levels were not associated with swimmer illness under any swim exposure definition or follow-up period
+(Table 4). The associations we observed between Enterococcus measured by qPCR and diarrhea in swimmers who swallowed water (eTable 4, http://links.lww.com/EDE/A720) were
+broadly consistent with those observed previously,4–8 but due
+to multiple comparisons these results must be interpreted with
+caution. The lack of association between indicator levels and
+swimmer illness despite increased illness incidence among
+swimmers in the days following the beach visit has several
+possible interpretations: the excess risk is not associated with
+swimming (eg, outcome reporting bias, as discussed above);
+the excess risk results from other exposures in the water (eg,
+swallowing salt water); random errors in assigning exposure
+biased the associations toward the null25,26; or the indicator
+bacteria used in this analysis are an inadequate characterization of water quality risk at this beach. Bacteriophages were
+positively associated with swimmer illness at a beach with
+nonpoint sources, despite no association between Enterococcus and illness.7 There may be better-performing indicators of
+health risk for beaches with nonpoint source pollution than the
+fecal indicator bacteria considered in this study.
+Our finding of no association between indicator levels
+and swimmer illness is inconsistent with the report by Colford et al,8 who found strong indicator-health associations at
+Doheny Beach, CA, when a stream flowed freely into marine
+waters; our findings are also inconsistent with beach studies
+of point-source treated wastewater discharge.4–6 The present
+study was located at the same beach as a study conducted in
+1995,3,27 but water quality conditions differed. In 1995, there
+was an upstream filtered and disinfected sewage discharge,
+poorer beach water quality, and 2998 participants who swam
+within 100 meters of the creek. In 2009, swimmers were less
+exposed to contaminated water, with no upstream sewage discharges and a restriction that prohibited swimming near the
+creek (Figure 1). Most swimmers in this study swam ≥400
+meters from the creek, and so the sand berm and stream flow
+likely had less impact on swimmer exposure than in the 1995
+study3,27 and the Doheny beach study.8 For this reason, conditions may have been more similar to a nonpoint source beach
+with more diffuse sources, where indicator bacteria levels
+have not been associated with gastrointestinal illness.7,28
+© 2013 Lippincott Williams & Wilkins
+
+
+
+Epidemiology • Volume 24, Number 6, November 2013
+
+We report a large set of analyses that explore the associations among water exposure, indicator bacteria levels, and
+swimmer illness. Part of the challenge of interpreting such
+large sets of results is that the choice of exposure assignment
+and follow-up period is not standardized in the field. Our stability analysis showed that the distributions of OR estimates
+can be sensitive to the choice of exposure definition, outcome
+measurement, and model specification, but that the scenario
+in the prespecified, primary analysis was representative of the
+range of results obtained across all scenarios (eFigures 6–9,
+http://links.lww.com/EDE/A720). This observation reinforced
+our conclusion of no relationship between indicator levels and
+swimmer illness in this study; it also suggests that similar studies can prespecify a small set of comparisons to be included in
+the primary analysis and obtain representative results.
+In summary, we found that swimmers with body immersion, head immersion, or who swallowed water were at higher
+risk of contracting diarrhea, gastrointestinal illness, skin rash,
+and earache compared with nonswimmers, and that the excess
+incidence occurred in the 3 days following the beach visit.
+Despite more illness among swimmers, we found no consistent association between fecal indicator bacteria measured
+with both culture and molecular methods and swimmer illness,
+under conditions of relatively good water quality. Our results
+suggest that the use of longer follow-up periods that are traditionally used in these recreational water studies (10–14 days)
+could in some cases underestimate the swimming-associated
+risk by averaging over a risk period that is partially irrelevant
+to the exposure of interest. Our findings were stable across a
+wide range of assumptions typically used in the analysis of
+similar studies.
+
+ACKNOWLEDGMENTS
+We are grateful to the following individuals for their
+assistance with this study: Donna Ferguson, Melissa Madison,
+and Darcy Ebentier. We thank Jed Fuhrman, John Witte, Hildy
+Meyers, and David Kay for technical review, and Rachel
+Noble and Richard Haugland for comments on early versions
+of the results.
+REFERENCES
+1. USEPA Office of Water. Recreational Water Quality Criteria. US
+Environmental Protection Agency; 2012. Available at: http://water.epa.
+gov/scitech/swguidance/standards/criteria/health/recreation/upload/
+RWQC2012.pdf. Accessed 26 May 26 2013.
+2.	Griffith JF, Cao Y, McGee CD, Weisberg SB. Evaluation of rapid methods
+and novel indicators for assessing microbiological beach water quality.
+Water Res. 2009;43:4900–4907.
+3. Haile RW, Witte JS, Gold M, et al. The health effects of swimming
+in ocean water contaminated by storm drain runoff. Epidemiology.
+1999;10:355–363.
+4. Wade TJ, Calderon RL, Sams E, et al. Rapidly measured indicators of
+recreational water quality are predictive of swimming-associated gastrointestinal illness. Environ Health Perspect. 2006;114:24–28.
+5. Wade TJ, Calderon RL, Brenner KP, et al. High sensitivity of children to
+swimming-associated gastrointestinal illness: results using a rapid assay
+of recreational water quality. Epidemiology. 2008;19:375–383.
+
+© 2013 Lippincott Williams & Wilkins
+
+Impact of Assumptions in Recreational Water Analyses
+
+6. Wade TJ, Sams E, Brenner KP, et al. Rapidly measured indicators of recreational water quality and swimming-associated illness at marine beaches: a prospective cohort study. Environ Health. 2010;9:66.
+7.	Colford JM Jr, Wade TJ, Schiff KC, et al. Water quality indicators and the
+risk of illness at beaches with nonpoint sources of fecal contamination.
+Epidemiology. 2007;18:27–35.
+8.	Colford JM Jr, Schiff KC, Griffith JF, et al. Using rapid indicators for
+Enterococcus to assess the risk of illness after exposure to urban runoff
+contaminated marine water. Water Res. 2012;46:2176–2186.
+9. Heaney CD, Sams E, Wing S, et al. Contact with beach sand among
+beachgoers and risk of illness. Am J Epidemiol. 2009;170:164–172.
+10. Heaney CD, Sams E, Dufour AP, et al. Fecal indicators in sand, sand
+contact, and risk of enteric illness among beachgoers. Epidemiology.
+2012;23:95–106.
+11.	Rosenbaum P. Choice as an alternative to control in observational studies.
+Stat Sci. 1999;14:259–278.
+12.	California’s 2006 Clean Water Act Section 303(d) List of Water Quality
+Limited Segments. California State Water Resources Control Board.
+Available at: http://www.waterboards.ca.gov/water_issues/programs/
+tmdl/docs/303dlists2006/epa/r4_06_303d_reqtmdls.pdf. Accessed 24
+May 2013.
+13. USEPA. Method 1600: Enterococci in Water by Membrane Filtration
+Using Membrane-Enterococcus Indoxyl-beta-D-Glucoside Agar (mEI).
+Washington, DC: US Environmental Protection Agency; 2006.
+14.	APHA. Standard Methods for the Examination of Water and Wastewater.
+Washington DC: American Public Health Association; 2009.
+15. Haugland RA, Siefring SC, Wymer LJ, Brenner KP, Dufour AP.
+Comparison of Enterococcus measurements in freshwater at two recreational beaches by quantitative polymerase chain reaction and membrane
+filter culture analysis. Water Res. 2005;39:559–568.
+16.	Noble RT, Blackwood AD, Griffith JF, McGee CD, Weisberg SB.
+Comparison of rapid quantitative PCR-based and conventional culturebased methods for enumeration of Enterococcus spp. and Escherichia coli
+in recreational waters. Appl Environ Microbiol. 2010;76:7437–7443.
+17.	Layton BA, Walters SP, Lam LH, Boehm AB. Enterococcus species distribution among human and animal hosts using multiplex PCR. J Appl
+Microbiol. 2010;109:539–547.
+18. Baqui AH, Black RE, Yunus M, Hoque AR, Chowdhury HR, Sack RB.
+Methodological issues in diarrhoeal diseases epidemiology: definition of
+diarrhoeal episodes. Int J Epidemiol. 1991;20:1057–1063.
+19. Dorevitch S, Pratap P, Wroblewski M, et al. Health risks of limited-contact water recreation. Environ Health Perspect. 2012;120:192–197.
+20. Soller JA, Bartrand T, Ashbolt NJ, Ravenscroft J, Wade TJ. Estimating the
+primary etiologic agents in recreational freshwaters impacted by human
+sources of faecal contamination. Water Res. 2010;44:4736–4747.
+21.	Los Angeles County Department of Public Health, Environmental Health
+Ocean Water Monitoring Data. Los Angeles County Department of Public
+Health; 2012. Available at: http://lapublichealth.org/eh/ehftp/. Accessed 4
+June 2012.
+22. Ocean Water Public Monitoring Data. City of Los Angeles, Department
+of Public Works, Bureau of Sanitation, Environmental Monitoring
+Division; 2012.
+23.	Lipsitch M, Tchetgen Tchetgen E, Cohen T. Negative controls: a tool for
+detecting confounding and bias in observational studies. Epidemiology.
+2010;21:383–388.
+24. Kay D, Fleisher JM, Salmon RL, et al. Predicting likelihood of gastroenteritis from sea bathing: results from randomised exposure. Lancet.
+1994;344:905–909.
+25. Fleisher JM. The effects of measurement error on previously reported
+mathematical relationships between indicator organism density and
+swimming-associated illness: a quantitative estimate of the resulting bias.
+Int J Epidemiol. 1990;19:1100–1106.
+26. Hutcheon JA, Chiolero A, Hanley JA. Random measurement error and
+regression dilution bias. BMJ. 2010;340:c2289.
+27. Haile RW, Witte JS, Ursin G, et al. A case-control study of reproductive
+variables, alcohol, and smoking in premenopausal bilateral breast cancer.
+Breast Cancer Res Treat. 1996;37:49–56.
+28. Fleisher JM, Fleming LE, Solo-Gabriele HM, et al. The BEACHES
+Study: health effects and exposures from non-point source microbial
+contaminants in subtropical recreational marine waters. Int J Epidemiol.
+2010;39:1291–1298.
+
+www.epidem.com | 853
+
+

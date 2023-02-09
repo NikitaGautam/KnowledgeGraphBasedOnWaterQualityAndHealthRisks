@@ -1,0 +1,1123 @@
+Water Research 94 (2016) 371e381
+
+Contents lists available at ScienceDirect
+
+Water Research
+journal homepage: www.elsevier.com/locate/watres
+
+Epidemiologic evaluation of multiple alternate microbial water quality
+monitoring indicators at three California beaches
+John F. Grifﬁth a, *, Stephen B. Weisberg b, Benjamin F. Arnold c, Yiping Cao b,
+Kenneth C. Schiff b, John M. Colford Jr. c
+a
+b
+c
+
+Department of Microbiology, Southern California Coastal Water Research Project, 3535 Harbor Blvd. Suite 110, Costa Mesa, CA 92626, USA
+Southern California Coastal Water Research Project Authority, Costa Mesa, CA, USA
+Division of Epidemiology, School of Public Health, University of California, Berkeley, USA
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 12 August 2015
+Received in revised form
+12 February 2016
+Accepted 14 February 2016
+Available online 21 February 2016
+
+Introduction: Advances in molecular methods provide new opportunities for directly measuring pathogens or host-associated markers of fecal pollution instead of relying on fecal indicator bacteria (FIB)
+alone for beach water quality monitoring. Adoption of new indicators depends on identifying relationships between either the presence or concentration of the indicators and illness among swimmers. Here
+we present results from three epidemiologic studies in which a broad range of bacterial and viral indicators of fecal contamination were measured simultaneously by either culture or molecular methods
+along with Enterococcus to assess whether they provide better health risk prediction than current microbial indicators of recreational water quality.
+Methods: We conducted prospective cohort studies at three California beaches – Avalon Bay (Avalon),
+Doheny State Beach (Doheny), Surfrider State Beach (Malibu) – during the summers of 2007, 2008 and
+2009. The studies enrolled 10,785 swimmers across the beaches and recorded each swimmer's water
+exposure. Water and sand samples were collected several times per day at multiple locations at each
+beach and analyzed for up to 41 target indicators using 67 different methodologies. Interviewers contacted participants by phone 10e14 days later and recorded symptoms of gastrointestinal illness
+occurring after their beach visit. Regression models were used to evaluate the association between water
+quality indicators and gastrointestinal illness among swimmers at each beach.
+Results: Fþ coliphage (measured using EPA Method 1602) exhibited a stronger association with GI illness
+than did EPA Method 1600 at the two beaches where it was measured, while a molecular method, Fþ
+RNA Coliphage Genotype II, was the only indicator signiﬁcantly associated with GI illness at Malibu.
+MRSA, a known pathogen, had the strongest association with GI illness of any microbe measured at
+Avalon. There were two methods targeting human-associated fecal anaerobic bacteria that were more
+strongly associated with GI illness than EPA Method 1600, but only at Avalon. No indicator combinations
+consistently had a higher odds ratio than EPA Method 1600, but one composite indicator, based on the
+number of pathogens detected at a beach, was signiﬁcantly associated with gastrointestinal illness at
+both Avalon and Doheny when freshwater ﬂow was high.
+Discussion: While EPA Method1600 performed adequately at two beaches based on its consistency of
+association with gastrointestinal illness and the precision of its estimated associations, Fþ coliphage
+measured by EPA Method 1602 had a stronger association with GI illness under high risk conditions at
+the two beaches where it was measured. One indicator, Fþ Coliphage Genotype II was the only indicator
+signiﬁcantly associated with GI illness at Malibu. Several indicators, particularly those targeting human
+associated bacteria, exhibited relationships with GI illness that were equal to or greater than that of EPA
+Method 1600 at Avalon, which has a focused human fecal source. Our results suggest that site-speciﬁc
+conditions at each beach determine which indicator or indicators best predict GI illness.
+© 2016 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Water quality indicators
+Epidemiology
+GI illness
+Enterococcus
+Coliphage
+
+1. Introduction
+* Corresponding author.
+E-mail address: johng@sccwrp.org (J.F. Grifﬁth).
+http://dx.doi.org/10.1016/j.watres.2016.02.036
+0043-1354/© 2016 Elsevier Ltd. All rights reserved.
+
+Beach water quality is presently monitored using fecal indicator
+
+
+
+372
+
+J.F. Grifﬁth et al. / Water Research 94 (2016) 371e381
+
+bacteria (FIB) that serve as surrogates for the diverse array of
+pathogens with which they co-occur in human and animal fecal
+material. FIB are used because they are more easily measured than
+pathogens or host-associated bacteria, many of which are obligate
+anaerobes that can't be easily cultured in typical water quality
+laboratories. Moreover, FIB are more abundant in fecal material
+than are pathogens, increasing the likelihood of detection. The
+most widely-used FIB are Escherichia coli and Enterococcus (Noble
+et al. 2003), which have gained acceptance in health warning systems because of their demonstrated relationship to risk of illness
+(Wade et al., 2003).
+The use of FIB as surrogates is based on the assumption that
+their density is correlated with that of pathogens, though a number
+of studies have found this is not always true (Noble and Fuhrman,
+2001; Anderson et al., 2005; Harwood et al., 2005; McQuaig
+et al., 2012). There are several factors that attenuate this correlation (Byappanahalli et al., 2012), including differential decay rates
+for pathogens and FIB in the ambient environment. FIB have even
+been found to persist and grow in the environment (Desmarais
+et al., 2002; Jiang et al., 2007; Yamahara et al., 2012), while most
+pathogens do not, further altering relative density between pathogens and FIB. Additionally, FIB can originate from non-human
+fecal material, in which the pathogen to FIB ratio differs from that
+in humans (Ervin et al., 2013).
+Advances in molecular methods now allow direct measurement of microbial properties without the need for culture (Noble
+and Weisberg, 2005), providing an opportunity to measure many
+alternative indicators, including pathogens, some of which are
+either difﬁcult to culture or cannot be cultured in the laboratory.
+While molecular tools allow their measurement, inclusion of new
+microbial indicators in health warning systems depends on
+establishing a relationship between concentration and health
+response of swimmers, which is necessary for two reasons. First,
+molecular methods measure the presence of microbial properties, such as DNA or RNA coding for a particular gene, not
+necessarily the viability of the bacterium or virus (Walters et al.,
+2009). Thus, there is a need to establish that new indicators
+measured by molecular methods are equal or better predictors of
+health risk than are existing indicators. Second, a health risk
+relationship is necessary to establish indicator concentrations
+associated with unacceptable incremental health risk, which
+determines the levels at which swimmer advisories are issued.
+Here we present results from three epidemiologic studies in
+which a series of alternative indicators were measured simultaneously with Enterococcus measured by EPA Method 1600 to
+assess whether they provide a better predictor of health risk.
+2. Methods
+2.1. Study design and outcome measurement
+The study was conducted at three California beaches, Doheny
+State Beach in Dana Point (Doheny), Avalon Bay Beach in Avalon
+(Avalon) and Surfrider State Beach in Malibu (Malibu), during the
+summers of 2007e2009. Detailed site descriptions, interview
+procedures, sampling methods and laboratory measurement
+techniques for traditional indicators can be found in Colford et al.
+(2012), Converse et al. (2012), Arnold et al. (2013) and Yau et al.
+(2014). In brief, the studies used a prospective cohort design. Participants were recruited each sampling day with their present
+health and extent of water contact recorded. On the same day,
+water samples were collected at multiple times and locations to
+capture swimmer exposure. Ten to 14 days later interviewers
+contacted participants by phone and recorded illness occurring
+after their swimming event. Regression models were used to
+
+evaluate the association between water quality indicators and
+subsequent gastrointestinal illness among swimmers.
+While the original studies measured multiple health outcomes,
+including gastrointestinal, respiratory, dermatologic symptoms,
+and non-speciﬁc symptoms, the present analyses focus on
+Gastrointestinal Illness, deﬁned as: i) diarrhea; or ii) vomiting; or
+iii) nausea and stomach cramps; or iv) nausea and missed daily
+activities due to gastrointestinal illness, or (v) stomach cramps and
+missed daily activities due to gastrointestinal illness (identical to
+“GI illness” deﬁned in Wade et al. 2010). The analyses focus on a
+single health outcome due to the large number of water quality
+indicators considered and the consideration of this outcome when
+setting recent national guidelines for recreational water quality
+(EPA 2012). To ensure that individuals were at risk of a new episode
+of illness, we included in the analysis only swimmers who did not
+report at the time of enrollment any gastrointestinal illness
+symptom in the 72 h before their beach visit.
+2.2. Water sample collection, analyses
+All three beaches were sampled three times per day, with the
+ﬁrst sample taken to align with the time water samples are typically
+taken during routine monitoring. The timing of later sampling
+events varied by beach and was tailored to when water exposures
+occurred. At Doheny, water samples were collected at 5 sites at
+8:00, 12:00, and 15:00 during the summers of 2007 and 2008
+(Colford et al., 2012). At Avalon, water samples were collected at 3
+sites in the harbor at 8:00, 12:00, and 15:00 during the summers for
+2007 and 2008 (Arnold et al., 2013). A fourth site outside Avalon
+Harbor was sampled only at 8:00 for control purposes (Yau et al.,
+2014). At Malibu, water samples were collected at 4 sites at 8:00
+and 13:00. In all cases, water samples were collected in sterilized
+buckets at a depth of 0.5 m on an incoming wave and transported to
+an on-site laboratory located within 1 km of the beach. For most
+molecular methods water samples were ﬁltered immediately, with
+ﬁlters ﬂash-frozen in liquid nitrogen and stored at 80  C until
+analysis. For phage, water was stored at 4  C and shipped overnight
+to the processing laboratory. When large volume ﬁltrations were
+required, as was the case with certain methods for bacteria and
+human viruses, samples were processed and stored as described in
+Love et al. (2014) (human viruses) and Hamilton et al. (2010) (E. coli
+toxin genes). Table 1 provides a list of the indicators measured at
+each beach and references to the methods of analysis.
+2.3. Composite indicators
+In addition to examining the health risk relationship for each of
+the measured indicators, we also examined the same for three
+types of indicator composites. The ﬁrst type (EnteroPlus) combined
+Enterococcus and human fecal-associated markers, with the rationale that FIB associated with a human source would be more likely
+to be associated with human pathogens than FIB from other sources. The EnteroPlus combination indicators were either geomean or
+log10 of the maximum of the contributing indicators, as deﬁned by
+the equations in Table 2.
+The second group combined multiple measures using a model
+that relied on binary results from many indicators, rather than the
+traditional model based on magnitude of a single type of FIB. This
+group included detection score, calculated as the number of indicators detected above the method detection limit, and hit scores,
+calculated as the number of indicators with a concentration more
+than ten times the detection limit. The indicators used for this
+approach are described in Table 3.
+The third type was ordination score, which was a composite
+score generated by correspondence analysis, which is a
+
+
+
+J.F. Grifﬁth et al. / Water Research 94 (2016) 371e381
+
+373
+
+Table 1
+List of alternative indicators.
+Indicator
+Enterococcus
+EPA Method 1600 (water)
+EPA Method 1600 (sediment)
+Enterolert (water)
+Enterolert (sediment)
+EPA Q-PCR Ent1 ddCt (TaqMan)
+EPA Q-PCR Ent1 dCt (TaqMan)
+Q-PCR Ent1 dCt (Scorpion)
+Q-PCR Ent2 dCT (Scorpion)
+Q-PCR Ent2 ddCt (Scorpion)
+TMA
+Raptor
+IMS
+E. coli/Fecal Coliforms
+EPA Method 1603 (water)
+EPA Method 1603 (sediment)
+Colilert 18 (water)
+Colilert 18 (sediment)
+Q-PCR E. coli (Scorpion)
+Q-PCR E. coli (TaqMan)
+IMS E. coli Antibody A
+IMS E. coli Antibody B
+APHA 9222 D.
+Total Coliform
+APHA 9222 B.
+Colilert 18
+Other Fecal Indicator Bacteria
+Q-PCR Gen Bacteroidales
+Q-PCR BacUni UCD
+Q-PCR B. thetaiotamicron (TaqMan)
+Q-PCR B. thetaiotmicron (Scorpion)
+Q-PCR C. perfringens cluster
+Human-Associated Markers
+PCR HF183
+Q-PCR HF183
+Q-PCR BacHum UCD
+PCR B. dorei
+Q-PCR B. dorei
+Q-PCR HumM2
+PCR HF134
+PCR HumM19
+PCR B. stericoris
+Q-PCR B. uniformis
+PCR M. smithii
+Q-PCR M. smithii
+Q-PCR Ent esp gene
+Animal Associated Markers
+PCR Gull Bacteroidales
+Q-PCR C. marimammalium
+Q-PCR BacCow UCD
+Q-PCR BacCan UCD
+Pathogenic Bacteria
+PCR L. pneumophila
+S. aureus (water)
+S. aureus (sand)
+MRSA (water)
+MRSA (sand)
+E. coli Toxin Genes
+HT-EcVGA eaeA vir. Gene
+HT-EcVGA EAF Plasmid
+HT-EcVGA stx 1 & 2 gene
+Human Viruses
+nested PCR Adenovirus
+nested PCR Adenovirus
+RT Q-PCR Enterovirus
+QPCR Hepatitis A
+nested RT-PCR Norovirus
+PCR Human Polyoma Virus
+Q-PCR Human Polyoma Virus
+Coliphage
+EPA Method 1601 F Coliphage
+EPA Method 1602 F Coliphage
+EPA Method 1601 Fþ Coliphage
+
+Reference
+
+Beach
+
+USEPA
+Boehm et al., 2009
+IDEXX
+Boehm et al., 2009
+Haugland et al., 2005
+Haugland et al., 2005
+Converse et al., 2012
+Converse et al., 2012
+Converse et al., 2012
+Walkley et al., 2008
+Leskinen et al., 2008
+Bushon et al., 2009
+
+A,D,M
+A,D,M
+A,D,M
+A,D,
+A,D,M
+A,D,M
+A,D,M
+A,D,M
+A
+A,D
+A,D
+A
+
+US EPA
+Boehm et al., 2009
+IDEXX
+Boehm et al., 2009
+Noble et al., 2010
+Chern et al., 2009
+Bushon et al., 2009
+Bushon et al., 2009
+APHA
+
+A,M
+A,D
+A,D,M
+A,D,M
+A,D
+A,D,M
+A
+M
+A,D,M
+
+APHA
+IDEXX
+
+A,D,M
+A,M
+
+Siefring et al., 2008
+Kildare et al., 2007
+Shanks et al., 2010b
+Converse et al., 2009
+Chern et al., 2009
+
+A,D,M
+A,D,M
+A,D,M
+A,D
+A
+
+Bernhard and Field, 2000
+Shanks et al., 2010a
+Kildare et al., 2007
+Shanks et al., 2010a
+Shanks et al., 2010a
+Shanks et al., 2010a
+Shanks et al., 2010a
+Shanks et al., 2010a
+Shanks et al., 2010a
+Shanks et al., 2010a
+Ufnar et al., 2006
+Johnston et al., 2010
+Scott et al., 2005
+
+A,D
+A,D,M
+A,D,
+A,D,M
+A,D,M
+A,D,M
+A,D,M
+A,D,M
+A,D,M
+A,D,M
+A,D
+A,D
+A,D
+
+Green et al., 2012
+Lu et al., 2011
+Kildare et al., 2007
+Kildare et al., 2007
+
+A,D
+A,D,M
+A,D
+A,D
+
+Halliday et al. unpublished data
+Goodwin and Poboda, 2009; Goodwin
+Goodwin and Poboda, 2009; Goodwin
+Goodwin and Poboda, 2009; Goodwin
+Goodwin and Poboda, 2009; Goodwin
+Hamilton et al., 2010
+Hamilton et al., 2010
+Hamilton et al., 2010
+Hamilton et al., 2010
+
+et
+et
+et
+et
+
+al.,
+al.,
+al.,
+al.,
+
+2012
+2012
+2012
+2012
+
+A,D
+A,D,M
+A,D,M
+A,D,M
+A,D,M
+A,D
+A,D
+A,D
+A,D
+
+McQuaig et al., 2012
+Love et al., 2014
+Love et al., 2014; Gregory et al., 2006
+Houde et al., 2007
+Love et al., 2014
+McQuaig et al., 2012
+McQuaig et al., 2012
+
+A,D
+A,D
+A,D
+A,D
+A,D
+A,D
+A,D
+
+US EPA
+US EPA
+US EPA
+
+A,D,M
+A,D
+A,D,M
+(continued on next page)
+
+
+
+374
+
+J.F. Grifﬁth et al. / Water Research 94 (2016) 371e381
+
+Table 1 (continued )
+Indicator
+
+Reference
+
+Beach
+
+EPA Method 1602 Fþ Coliphage
+Fþ Coliphage Immunoassay
+EPA Method 1601 Fþ Coliphage with MgCl addition
+RTPCR Fþ Coliphage Genotype I
+RTPCR Fþ Coliphage Genotype II
+RTPCR Fþ Coliphage Genotype III
+RTPCR Fþ Coliphage Genotype IV
+RTPCR Fþ Coliphage Genotype V
+
+US EPA
+Love and Sobsey, 2007
+Love et al., 2014
+Love et al., 2014
+Love et al., 2014
+Love et al., 2014
+Love et al., 2014
+Love and Sobsey, 2007
+
+A,D
+A,D
+A,D,M
+A,D,M
+A,D,M
+A,D,M
+A,D,M
+A,D,M
+
+A ¼ Avalon, D ¼ Doheny, M ¼ Malibu.
+
+Table 2
+Calculation of EnteroPlus composite indicators. Note that prior to calculation, all indicator results were normalized to the maximum values of the indicator at a given beach,
+except for binary indicators (e.g. endpoint PCR) whose results were converted to 1 and 100.
+Combination indicator ID
+a
+
+EntPlus1
+EntPlus3a
+EntPlus4a
+EntPlus5b
+EntPlus6b
+EntPlus7
+EntPlus8
+EntPlus9
+a
+b
+c
+
+Beach where it is calculated
+
+Deﬁnition of the combination indicatorc
+
+Avalon,
+Avalon,
+Avalon,
+Malibu
+Malibu
+Avalon,
+Avalon,
+Avalon,
+
+log10(EPA1600 a B. thetaiotaomicron qPCR)
+log10(Max(Entero1a qPCR, B. thetaiotaomicron qPCR))
+log10(Max(Entero1a qPCR, HF183 endpoint PCR))
+log10(EPA1600 a B. thetaiotaomicron qPCR)
+log10(EPA1600 a B. thetaiotaomicron qPCR a Fþ coliphage by EPA1602)
+log10(EPA1600 a Fþ coliphage by EPA1602)
+log10(EPA1600 a HF183 endpoint PCR)
+log10(EPA1600 a Fþ coliphage by EPA1602 a HF183 endpoint PCR)
+
+Malibu
+Doheny, Malibu
+Doheny
+
+Doheny, Malibu
+Doheny
+Doheny
+
+These qPCR assays were performed by USEPA.
+These qPCR assays were performed by Noble.
+“Max” in the equations for EntPlus3 and EntPlus4 denote taking the maximum value of the indicators.
+
+multivariate ordination method (ter Braak, 1995). This composite
+score is the weighted average of all the contributing indicators for
+each beach (Table 3), generated by a reciprocal averaging algorithm
+typically employed in correspondence analysis (conducted in
+software Primer v6). Prior to performing the ordination, all indicator results were normalized to span the same range of 0e100.
+Continuous indicator results were divided by the maximum values
+of the indicator then multiplied by 100. Binary indicator results
+(such as end point PCR) were converted from presence and absence
+to 0 and 100, respectively (Clarke and Warwick, 2001).
+2.4. Indicator exposure assignment to swimmers
+Consistent with the primary analyses from the original studies
+(Colford et al., 2012; Arnold et al. 2013; Yau et al. 2014), water
+quality indicator results were matched to swimmers based on the
+day and location of swimming using a site-speciﬁc daily average
+measure. We examined the distributions of quantitative indicator
+measurements and found that in all cases the distributions were
+highly right skewed. For this reason, we conducted the analysis on
+log10 transformed values. For quantitative indicators, this meant
+that all samples collected for a given site on each day were averaged
+on the log10 scale and the mean log10 value was assigned to
+swimmers who spent time in the water near that site. For presence/
+absence indicators, this meant that if the indicator had a positive
+
+result at any time during the day at that sampling site, then the
+daily value would be equal to “positive.”
+2.5. Statistical analysis
+Our parameter of interest in the analysis was the relative risk
+associated with the detection of an organism (for presence/absence
+indicators) or the relative risk associated with a 1-log10 increase in
+indicator concentration (for quantitative indicators). Additionally,
+we calculated the relative risk associated with an interquartile
+range change – equal to the difference between the 75th and the
+25th percentile – separately for each indicator within each beach to
+facilitate comparison of results between indicators that might
+range over very different scales as a measure of robustness of our
+results (see Supplemental material). We estimated the relative risk
+using an adjusted odds ratio (OR) from a logistic regression model
+similar to that used in previous studies (Arnold et al. 2013; Colford
+et al. 2007, 2012; Wade et al., 2006, Wade et al. 2010):
+ln[p/(1  p)] ¼ a þ bI þ gX
+
+(1)
+
+where p is the probability of the outcome, I is either an indicator
+variable representing the detection of an indicator (for presence/
+absence indicators) or is the log10 measured concentration of the
+indicator (for quantitative indicators), and X is a vector of covariates
+
+Table 3
+Indicators used to calculate detection score (DetScore), hit score (HitScore), and ordination score for each of the three beaches.
+Beach
+
+Contributing individual indicators
+
+Avalon EPA1600, fecal coliform by APHA 9222D, Entero1a qPCR; F coliphage by EPA 1602, Fþ coliphage by EPA 1602, B. thetaiotaomicron qPCR; human polyomavirus
+qPCR
+Doheny EPA1600, fecal coliform by APHA 9222D, Entero1a qPCR, GenBac3 qPCR; F coliphage by EPA 1602, Fþ coliphage by EPA 1602, HF183 end point PCR,
+B. thetaiotaomicron qPCR; human polyomavirus qPCR, adenovirus by nested PCR
+Malibu EPA1600, fecal coliform by APHA 9222D, E. coli by EPA 1603, Entero1a qPCR; F coliphage by EPA 1602, Fþ coliphage by EPA 1602, B. thetaiotaomicron qPCR;
+S. aureus by Chrom agar
+Note: B. thetaiotaomicron qPCR was performed by Noble. Entero1a qPCR was performed by EPA.
+
+
+
+J.F. Grifﬁth et al. / Water Research 94 (2016) 371e381
+
+considered to be potential confounders (study year, age, sex, race,
+swimming on multiple days, allergy status, contact with animals,
+contact with sick persons, frequency of beach visits, digging in
+sand, and consumption of raw or undercooked meat or eggs). Race
+was categorized as white or nonwhite. A backwards deletion,
+change in estimate algorithm, was used in order to retain only
+potential confounders that changed the fully adjusted OR by at least
+5% (relative change) when the confounder was removed from the
+model (Rothman et al. 2008). We used the exponentiated coefﬁcient exp(b) from the model to estimate the OR. For quantitative
+indicators, the OR estimates the relative risk of gastrointestinal
+illness associated with a 1-log10 increase in the water quality indicator, and does not strictly imply a reference group. For dichotomous (presence/absence) indicators, the OR estimates the relative
+risk associated with the detection of the indicator, where the
+implied reference group is the subset of swimmers who entered the
+water when the indicator was not detected.
+As described in detail in previous articles (Colford et al. 2012;
+Yau et al. 2014), environmental conditions at Doheny and Avalon
+beaches were found to modify the association between indicators
+and gastrointestinal illness among swimmers. We accounted for
+this potential effect modiﬁcation in the present analysis of additional water quality indicators. Speciﬁcally, we allowed the association between water quality indicators and swimmer
+gastrointestinal illness to be different depending on whether
+freshwater ﬂowed freely into the ocean versus when a sand berm
+blocked freshwater ﬂow (Doheny, Malibu), and depending on
+whether modeled groundwater ﬂow was above versus below the
+median (Avalon). We considered sand berm open conditions
+(Doheny, Malibu) and above median groundwater ﬂow (Avalon)
+“high risk” conditions in the present analyses. We extended the
+analysis across all days included in the study by re-estimating the
+regression model speciﬁed above, with the addition of indicators
+for the high risk conditions and an interaction term between the
+water quality indicator of interest and the dichotomous effect
+modiﬁer (E):
+ln[p/(1  p)] ¼ a þ b1I þ b2E þ b3I*E þ gX
+
+(2)
+
+Using the model, we estimated the association between the
+water quality indicators and gastrointestinal illness separately for
+low risk conditions [OR ¼ exp(b1)] and high risk conditions
+[OR ¼ exp(b1 þ b3)]. For both models, we estimated standard errors
+on the coefﬁcients using a robust, sandwich estimator that allowed
+for correlated outcomes at the household level (Freedman, 2006).
+We estimated nominal 95% conﬁdence intervals around point estimates and did not conduct formal statistical testing for differences
+in the strength of association between different indicators, as the
+number of pair-wise tests would have been extremely large.
+Instead, any comparisons between individual indicators focused
+primarily on the magnitude of the association (OR) with respect to
+Enterococcus measured by EPA 1600, which was consistent with the
+exploratory nature of the study.
+3. Results
+Fþ coliphage measured by EPA Method 1602 had a stronger
+association with health outcomes than did EPA Method 1600 at
+Doheny and Avalon, the two beaches where it was measured. In the
+all-conditions combined analysis the OR for Fþ coliphage at
+Doheny was 1.9, whereas the OR for Enterococcus was 1.2, but
+neither met the 95% conﬁdence level for being statistically significantly different from 1 (Fig. 3). Likewise at Avalon, the OR for Fþ
+coliphage was 1.9 compared to less than 1.1 for Enterococcus,
+though neither was signiﬁcantly different than 1.0. Under high-risk
+
+375
+
+conditions, Fþ coliphage was signiﬁcant at Doheny and its estimated OR more than double that for Enterococcus at both Avalon
+and Doheny (Fig. 1). Only Fþ RNA Coliphage Genotype II was statistically signiﬁcantly associated with gastrointestinal illness at
+Malibu, although the relationship was not signiﬁcant under highrisk conditions (Figs. 1e4).
+Methicillin-resistant Staphylococcus aureus (MRSA), a bacterium
+responsible for difﬁcult-to-treat infections in humans, had an OR
+that was signiﬁcant and several times higher than that for EPA
+Method 1600 under all conditions (OR ¼ 3.49 95% CI 1.35, 9.06) and
+nearly signiﬁcant under high risk conditions (OR ¼ 3.07 95% CI 0.97,
+9.64) at Avalon (Fig. 3). However, other S. aureus measures did not
+outperform EPA Method 1600 at Avalon, nor did measures of
+methicillin-resistant strains outperform EPA Method 1600 at the
+other two beaches. There were also two presence absence methods
+targeting human-associated fecal anaerobic bacteria (HF134 and
+B. stericoris) that had a stronger association with gastrointestinal
+illness than EPA Method 1600, but only at Avalon.
+None of the composite indicators had consistently stronger
+OR estimates than EPA Method 1600, but several had greater
+precision than EPA Method 1600. The detection score indicator
+(detscore), in particular, had the greatest precision among all
+indicators and was consistently associated with a small increase
+in risk of gastrointestinal illness at Avalon (OR ¼ 1.07 95% CI 0.95,
+1.21), Doheny (OR ¼ 1.14 95% CI 0.98, 1.32), and Malibu
+(OR ¼ 1.04 95% CI 0.90, 1.20).
+4. Discussion
+There were several indicator methods, particularly those targeting coliphage, that performed well at a subset of beaches based
+on strength and precision of their association with gastrointestinal
+illness, but no one method performed better than EPA Method 1600
+across all beaches and most did not perform as well at any beach.
+There are many possible reasons why measures of pathogens did
+not perform as well, one being that most are present at a much
+lower density in human sewage than Enterococcus; which is
+particularly true for viruses. This problem of low pathogen density
+is exacerbated by the low recovery rates typically recorded for viral
+measures (Harwood et al., 2013). Whereas EPA Method 1600 is
+prone to false positive signals from non-fecal sources (Yamahara
+et al., 2012), a concern with pathogens is that they are prone to
+false negatives. With the 100 ml sample volumes collected in
+typical beach monitoring programs, the absence of pathogens in
+the sample does not necessarily equate to their absence in the
+ambient waters. Even with the larger volumes of water collected for
+viral analysis during these studies, which ranged from 500 mL to
+40 L, the detection rate for speciﬁc human viruses was not frequent
+enough (see McQuaig et al., 2012; Love et al., 2014) to calculate a
+correlative relationship with swimmer illness.
+The lesser performance of the human bacterial source markers
+cannot be attributed to low density, as they occur in fecal material
+at densities similar to that of Enterococcus (Ervin et al., 2013). It is
+possible that error in the exposure attenuated indicator associations with GI illness (Fleisher, 1990; Hutcheon et al., 2010), but the
+poor performance of these indicators more likely results from
+their higher decay rate in the ambient environment. Humanassociated fecal markers mainly target the order Bacteroidales,
+which are strict anaerobes that do not grow or even survive for
+extended periods under aerobic conditions. Further, Enterococcus
+are Gram-positive cocci with peptidoglycan reinforced cell walls,
+while the human-associated markers lack the same cell wall and
+are more susceptible to osmotic and temperature stress. Moreover, bacterial grazers preferentially avoid ingesting grampositive cocci, likely because their cell wall is more difﬁcult to
+
+
+
+376
+
+J.F. Grifﬁth et al. / Water Research 94 (2016) 371e381
+
+Fig. 1. Adjusted Odds Ratio (OR) of GI illness among head immersion swimmers associated with a log10 increase in quantitative indicator concentrations in High Risk conditions at
+Avalon, Doheny, and Malibu beaches. High Risk conditions included either groundwater ﬂow above median ﬂow rates (Avalon) or freshwater berm breached for freshwater input
+(Doheny, Malibu). The reference indicator, Enterococcus sp. measured using EPA method 1600 is plotted at the top of each panel and its point estimate is marked with a dashed line.
+Estimates (points) and 95% conﬁdence intervals (lines) are truncated at 0.25 and 4.0. Absence of an estimate for any beach indicates that the indicator was not measured at that
+beach, the association could not be estimated due to sparse data or its point estimate fell outside the plot range.
+
+digest (Iriberri et al., 1994).
+One indicator that outperformed EPA Method 1600 at the two
+beaches at which it was measured was Fþ coliphage, as measured
+by EPA Method 1602. Fþ coliphage are viruses that infect E. coli and
+are thought to better mimic the behavior of human viruses, which
+are the primary etiologic agents in the environment, than do fecal
+indicator bacteria. This is particularly likely in this study because the
+
+fecal source at these two beaches was determined to be faulty
+sanitary sewer infrastructure that allowed microbial contamination
+to reach the beach via groundwater (Boehm et al., 2003; Layton
+et al., 2015). In this case, viruses transported via groundwater may
+more easily exﬁltrate to bathing waters than do the much larger
+bacteria, which are more effectively ﬁltered out by soil and sand.
+This is also consistent with an association between Fþ coliphage and
+
+
+
+J.F. Grifﬁth et al. / Water Research 94 (2016) 371e381
+
+377
+
+Fig. 2. Adjusted Odds Ratio (OR) of GI illness among head immersion swimmers associated with the detection of a presence/absence indicator in High Risk conditions at Avalon,
+Doheny, and Malibu beaches. High Risk conditions included either groundwater ﬂow above median ﬂow rates (Avalon) or freshwater berm breached for freshwater input (Doheny,
+Malibu). Estimates (points) and 95% conﬁdence intervals (lines) are truncated at 0.25 and 4.0. Absence of an estimate for any beach indicates that the indicator was not measured at
+that beach, the association could not be estimated due to sparse data or its point estimate fell outside the plot range.
+
+adenovirus observed at Doheny Beach (Love et al., 2014).
+While Fþ coliphage measured by EPA Method 1602 outperformed EPA Method 1600 for Enterococcus, Fþ coliphage
+measured using EPA Method 1601 did not perform as well. Method
+1601 uses an enrichment step and is more sensitive at detecting
+coliphage than is Method 1602 (Rodriguez et al., 2012), as evidenced by our greater number of samples with detectable results.
+However, Fþ coliphage detected by the enrichment method has
+been shown in previous studies to be less representative of the
+coliphage community in the original water sample (Stewart-Pullaro
+et al., 2006), possibly due to differential growth rates, which may
+help to explain why there was no statistically signiﬁcant relationship between GI illness and EPA Method 1601. This is consistent
+with the phage-typing results from this study, where there was a
+statistically signiﬁcant relationship between GI illness and Type II
+Fþ RNA coliphage at Malibu. It is also consistent with Grifﬁth et al.'s
+(2009) ﬁnding of lesser speciﬁcity to sewage for the enrichment
+method. It is also of note that somatic (F) coliphage did not
+perform as well as Fþ coliphage, which has the additional advantage of being amenable to typing analyses, allowing limited differentiation between human and animal sources of contamination
+(Love and Sobsey, 2007).
+While EPA Method 1600 was consistently associated with
+gastrointestinal illness at both Avalon and Doheny beaches under
+high risk conditions, several non-quantitative indicators targeting fecal anaerobic bacteria of the order Bacteroidales, performed
+as well or better at Avalon. This may be due to leaking sewage
+lines at Avalon producing a more focused human fecal source.
+This is also consistent with Enterococcus serving as a broader
+surrogate for mixed sources. When the contamination source is
+primarily human fecal material, indicators that target human
+fecal material work better.
+While this study represents the most comprehensive epidemiologic evaluation of alternate recreational water quality indicator
+
+associations with gastrointestinal illness, several authors have
+previously evaluated a subset of the indicators examined here and
+our results are consistent with those previous studies. Wade et al.
+(2006) examined general Bacteroidales in an epidemiologic study
+of a Great Lakes sewage-affected beach and found neither a signiﬁcant health risk relationship nor a higher odds ratio than for
+Enterococcus. Sinigalliano et al. (2010) had a similar lack of success
+with Bacteroidales and several other source-associated markers at
+a Florida beach. Colford et al. (2007) also had poor success with
+general Bacteroidales at a nonpoint-source contaminated California
+beach and found that viruses were not detected often enough to
+develop a health risk relationship. However, Colford et al. (2007)
+did ﬁnd a marginally signiﬁcant health risk relationship for Fþ
+coliphage (OR for diarrhea ¼ 1.1, 95% CI 0.97e1.4).
+Two of the composite indicators yielded an OR as good or better
+than EPA Method 1600, but only at Avalon under high-risk conditions. The detection score (detscore) also had a more precise OR and
+provides a different conceptual foundation upon which future indicator development could be based. The detection score is based
+on the presence/absence of multiple indicators rather than on the
+magnitude of a single indicator. This concept has the potential to
+move past the shortcomings of measuring only Enterococcus by
+measuring taxa that are more closely related to illness, while
+avoiding the density-based challenges of looking for individual
+pathogens. While the performance of composite indicators was not
+as good as EPA Method 1600 alone in this study, indicator combinations have been found to be effective in beach water quality
+management (Johnston et al., 2013) and our ﬁndings may reﬂect
+that we were measuring only a small subset of possible markers
+that could be included in such a community-based approach. Many
+other potential human-associated markers are still being discovered (Cao et al., 2013; Dubinsky et al., 2012; McLellan et al., 2013)
+and next generation sequencing technology enables unprecedented comprehensive characterization of fecal sources (Shanks
+
+
+
+378
+
+J.F. Grifﬁth et al. / Water Research 94 (2016) 371e381
+
+Fig. 3. Adjusted Odds Ratio (OR) of GI illness among head immersion swimmers associated with a log10 increase in quantitative indicator concentrations in All Conditions (averaged
+over all sample days) at Avalon, Doheny, and Malibu beaches. The reference indicator, Enterococcus sp. measured using EPA method 1600 is plotted at the top of each panel and its
+point estimate is marked with a dashed line. Estimates (points) and 95% conﬁdence intervals (lines) are truncated at 0.25 and 4.0. Absence of an estimate for any beach indicates
+that the indicator was not measured at that beach, the association could not be estimated due to sparse data or its point estimate fell outside the plot range.
+
+et al., 2014), which will undoubtedly lead to even more candidate
+indicators. With the cost reduction for sequencing and bioinformatics advancement, such microbial community analysis provides
+a potential strategy for improving upon the present FIB health risk
+relationship.
+
+5. Conclusions
+ Fþ Coliphage was more strongly associated with GI illness than
+Enterococcus at all three study sites, while human-associated
+fecal bacterial markers were only predictive of illness at the
+site known to be impacted by human sewage from faulty
+infrastructure.
+
+
+
+J.F. Grifﬁth et al. / Water Research 94 (2016) 371e381
+
+379
+
+Fig. 4. Adjusted Odds Ratio (OR) of GI illness among head immersion swimmers associated with the detection of a presence/absence indicator in All Conditions (averaged over all
+sample days) at Avalon, Doheny, and Malibu beaches. Estimates (points) and 95% conﬁdence intervals (lines) are truncated at 0.25 and 4.0. Absence of an estimate for any beach
+indicates that the indicator was not measured at that beach, the association could not be estimated due to sparse data or its point estimate fell outside the plot range.
+
+ Health risk relationships were measurement method and site
+speciﬁc, suggesting that different indicators or measurement
+methods may be more suitable for a particular site.
+ Composite indicators showed promise and may become a viable
+alternative in the future, as new and more source speciﬁc molecular markers of fecal contamination become available.
+
+ES013515) and the statistical analysis (R03-HD076066 for JMC
+and BFA). Funding for this project has been provided in part
+through an agreement with the State Water Resources Control
+Board. The contents of this document do not necessarily reﬂect the
+views and policies of the State Water Resources Control Board, nor
+does mention of trade names or commercial products constitute
+endorsement or recommendation for use.
+
+Acknowledgments
+Appendix A. Supplementary data
+The authors wish to acknowledge the following individuals,
+without whose generosity, hard work and dedication this study
+would not have been possible. Mark Gold and Charles McGee for
+their guidance and support as members of the Advisory Committees for all three studies. Kate Field, Rebecca Gast, Elizabeth Halliday, Stephaney Leskinen, David Love, Roberto Rodriguez, Troy Scott,
+and Mark Sobsey for their dedication in analyzing the myriad
+samples we sent them. Special thanks to Rebecca Bushon, Kelly
+Goodwin, Matthew Hamilton, Richard Haugland, Jody Harwood,
+Shannon McQuaig, Rachel Noble, Mike Sadowsky, Orin Shanks, Alex
+Schriewer, Jill Stewart, Stefan Wuertz, and US EPA, Ofﬁce of Water,
+who enhanced the studies by providing time and resources to
+analyze samples using their own funding. Thanks also to Susan
+Burns, Reagan Converse, Darcy Ebentier, Ben Ferraro, Jason Gregory,
+Melissa Madison, Monica Mazur, Meredith Raith who assisted with
+ﬁeld operations and Joshua Gruber, Jackie Hayes Catharine Wright,
+and Vincent Yau for their efforts in epidemiological survey operations and data analysis. Finally, thanks to the many students who
+worked on these studies and elected to spend their summer
+weekends wading into the cold Paciﬁc at daybreak.
+These studies were funded in part by the following organizations: California State Water Resources Control Board, the National
+Institutes of Health (NIH), the Cooperative Institute for Coastal
+Estuarine Environmental Technology (CICEET), Los Angeles County
+Flood Control District and City of Dana Point, CA. The National Institutes of Health funded in part the Doheny beach study (R01-
+
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.watres.2016.02.036.
+References
+Anderson, K.L., Whitlock, J.E., Harwood, V.J., 2005. Persistence and differential
+survival of fecal indicator bacteria in subtropical waters and sediments. Appl.
+Environ. Microbiol. 71, 3041e3048.
+APHA, 2005. Standard Methods for the Examination of Water and Wastewater.
+American Public Health Association, Baltimore.
+Arnold, B.F., Schiff, K.C., Grifﬁth, J.F., Gruber, J.S., Yau, V.M., Wright, C.C., Wade, T.J.,
+Burns, S., Hayes, J.M., McGee, C., Gold, M., Cao, Y., Weisberg, S.B., Colford Jr., J.M.,
+2013. Swimmer illness associated with marine water exposure and water
+quality indicators: impact of widely used assumptions. Epidemiology 24,
+845e853.
+Bernhard, A.E., Field, K.G., 2000. A PCR assay to discriminate human and ruminant
+feces on the basis of host differences in Bacteroides-Prevotella genes encoding
+16S rRNA. Appl. Environ. Microbiol. 66, 4571e4574.
+Boehm, A.B., Fuhrman, J.A., Mrse, R.D., Grant, S.B., 2003. A tiered approach for
+identiﬁcation of a human fecal pollution source at a recreational beach: case
+study at Avalon Bay, Catalina Island, California, USA. Environ. Sci. Technol. 37,
+673e680.
+Boehm, A.B., Grifﬁth, J.F., McGee, C., Edge, T.A., Solo-Gabriele, H.M., Whitman, R.,
+Cao, Y., Getrich, M., Jay, J.A., Ferguson, D., Goodwin, K.D., Lee, C.M., Madison, M.,
+Weisberg, S.B., 2009. Faecal indicator bacteria enumeration in beach sand: a
+comparison study of extraction methods in medium to coarse sands. J. Appl.
+Microbiol. 107, 1740e1750.
+Bushon, R.N., Likurdopolos, C.A., Brady, A.M.G., 2009. Comparison of immunomagnetic separation/adenosine triphosphate rapid method to traditional
+culture-based method for E. coli and Enterococci enumeration in wastewater.
+Water Res. 43, 4940e4946. http://dx.doi.org/10.1016/j.watres.2009.06.047.
+
+
+
+380
+
+J.F. Grifﬁth et al. / Water Research 94 (2016) 371e381
+
+Byappanahalli, M.N., Nevers, M.B., Korajkic, A., Staley, Z.R., Harwood, V.J., 2012.
+Enterococci in the environment. Microbiol. Mol. Biol. Rev. 76, 685e706.
+Cao, Y., Van De Werfhorst, L.C., Dubinsky, E.A., Badgley, B.D., Sadowsky, M.J.,
+Andersen, G.L., et al., 2013. Evaluation of molecular community analysis
+methods for discerning fecal sources and human waste. Water Res. 47 (18),
+6862e6872. http://dx.doi.org/10.1016/j.watres.2013.02.061.
+Chern, E.C., Brenner, K.P., Wymer, L., Haugland, R.A., 2009. Comparison of fecal
+indicator bacteria densities in marine recreational waters by QPCR. Water Qual.
+Expo. Health 1, 203e214.
+Clarke, K.R., Warwick, R.M., 2001. Change in Marine Communities: an Approach to
+Statistical Analysis and Interpretation, second ed. PRIMER-E, Plymouth.
+Colford Jr., J.M., Wade, T.J., Schiff, K.C., Wright, C., Grifﬁth, J.F., Sandhu, S.K., Burns, S.,
+Sobsey, M., Lovelace, G., Weisberg, S.B., 2007. Water quality indicators and the
+risk of illness an beaches with nonpoint sources of fecal contamination.
+Epidemiology 18, 27e35.
+Colford Jr., J.M., Schiff, K., Grifﬁth, J.F., Yau, V., Arnold, B.F., Wright, C., Gruber, J.S.,
+Wade, T., Burns, S., Hayes, J., McGee, C., Gold, M., Cao, Y., Noble, R.T.,
+Haugland, R., Weisberg, S.B., 2012. Using rapid indicators for Enterococcus to
+assess the risk of illness after exposure to urban runoff contaminated marine
+water. Water Res. 46, 2176e2186.
+Converse, R.R., Grifﬁth, J.F., Noble, R.T., Haugland, R.A., Schiff, K.C., Weisberg, S.B.,
+2012. Correlation between quantitative PCR and culture-based methods for
+measuring Enterococcus spp. over various temporal scales at three California
+marine beaches. Appl. Environ. Microbiol. 78 (4), 1237e1242. http://dx.doi.org/
+10.1128/AEM.07136-11.
+Converse, R.R., Blackwood, A.D., Kirs, M., Grifﬁth, J.F., Noble, R.T., 2009. Rapid QPCRbased assay for fecal Bacteroides spp. as a tool for assessing fecal contamination
+in recreational waters. Water Res. 43, 4828e4837. http://dx.doi.org/10.1016/
+j.watres.2009.06.036.
+Dubinsky, E.A., Esmaili, L., Hulls, J.R., Cao, Y., Grifﬁth, J.F., Andersen, G.L., 2012.
+Application of phylogenetic microarray analysis to discriminate sources of fecal
+pollution. Environ. Sci. Technol. 46 (8), 4340e4347.
+Desmarais, T.R., Solo-Gabriele, H.M., Palmer, C.J., 2002. Inﬂuence of soil on fecal
+indicator organisms in a tidally inﬂuenced subtropical environment. Appl. Environ. Microbiol. 68 (3), 1165e1172.
+Ervin, J.S., Russell, T.L., Layton, B.A., Yamahara, K.M., Wang, D., Sassoubre, L.M.,
+Cao, Y., Kelty, C.A., Sivaganesan, M., Boehm, A.B., Holden, P.A., Weisberg, S.B.,
+Shanks, O.C., 2013. Characterization of fecal concentrations in human and other
+animal sources by physical, culture, and quantitative real-time PCR methods.
+Water Res. 47, 6873e6882.
+Fleisher, J.M., 1990. The effects of measurement error on previously reported
+mathematical relationships between indicator organism density and
+swimming-associated illness: a quantitative estimate of the resulting bias. Int. J.
+Epidemiol. 19 (4), 1100e1106.
+Freedman, D.A., 2006. On the so-called ‘Huber Sandwich Estimator’ and ‘Robust
+Standard Errors’. Am. Stat. 60, 299e302.
+Goodwin, K.D., Poboda, M., 2009. Performance of CHROMagar Staph aureus and
+CHROMagar MRSA for detection of Staphylococcus aureus in beach water and
+sand e comparison of culture, agglutination, and molecular analyses. Water
+Res. 43, 4802e4811. http://dx.doi.org/10.1016/j.watres.2009.06.025.
+Goodwin, K.D., McNay, M., Cao, Y., Ebentier, D., Madison, M., Grifﬁth, J.F., 2012.
+A multi-beach study of Staphylococcus aureus, MRSA, and enterococci in
+seawater and beach sand. Water Res. 46, 4195e4207.
+Green, H.C., Dick, L.K., Gilpin, B., Samadpour, M., Field, K.G., 2012. Genetic markers
+for rapid PCR-based identiﬁcation of gull, Canada goose, duck, and chicken fecal
+contamination in water. Appl. Environ. Microbiol. 78, 503e510.
+Gregory, J.B., Litaker, R.W., Noble, R.T., 2006. Rapid one-step quantitative reverse
+transcriptase PCR assay with competitive internal positive control for detection
+of enteroviruses in environmental samples. Appl. Environ. Microbiol. 72,
+3960e3967.
+Grifﬁth, J.F., Cao, Y., McGee, C.D., Weisberg, S.B., 2009. Evaluation of rapid methods
+and novel indicators for assessing microbiological beach water quality. Water
+Res. 43, 4900e4907.
+Hamilton, M.J., Hadi, A.Z., Grifﬁth, J.F., Ishii, S., Sadowsky, M.J., 2010. Large scale
+analysis of virulence genes in Escherichia coli strains isolated from Avalon Bay,
+CA. Water Res. 44, 5463e5473.
+Harwood, V.J., Levine, A.D., Scott, T.M., Chivukula, V., Lukasik, J., Farrah, S.R.,
+Rose, J.B., 2005. Validity of the indicator organism paradigm for pathogen
+reduction in reclaimed water and public health protection. Appl. Environ.
+Microbiol. 71, 3163e3170.
+Harwood, V.J., Boehm, A.B., Sassoubre, L.M., Vijayavel, K., Stewart, J.R., Fong, T.-T.,
+Caprais, M.P., Converse, R.R., Diston, D., Ebdon, J., Fuhrman, J.A., Gourmelon, M.,
+Gentry-Shields, J., Grifﬁth, J.F., Kashian, D.R., Noble, R.T., Taylor, H., Wicki, M.,
+2013. Performance of viruses and bacteriophages for fecal source determination
+in a multi-laboratory, comparative study. Water Res. 47, 6929e6943.
+Haugland, R.A., Siefring, S.C., Wymer, L.J., Brenner, K.P., Dufour, A.P., 2005. Comparison of Enterococcus density measurements by quantitative polymerase
+chain reaction and membrane ﬁlter culture analysis at two freshwater recreational beaches. Water Res. 39, 559e568.
+Houde, A., Guevremont, E., Poitras, E., Leblanc, D., Ward, P., Simard, C., Trottier, Y.L.,
+2007. Comparative evaluation of new TaqMan real-time assays for the detection
+of hepatitis A virus. J. Virol. Methods 140, 80e89.
+Hutcheon, Jennifer A., Chiolero, Arnaud, Hanley, James A., 2010. Random measurement error and regression dilution bias. BMJ 340, c2289.
+Iriberri, J., Azúa, I., Labirua-Iturburu, A., Artolozaga, I., Barcina, I., 1994. Differential
+
+elimination of enteric bacteria by protists in a freshwater system. J. Appl.
+Bacteriol. 77, 476e483. http://dx.doi.org/10.1111/j.1365-2672.1994.tb04390.x.
+Jiang, S.C., Chu, W., Olson, B.H., He, J.-W., Choi, S., Zhang, J., Le, J.Y., Gedalanga, P.B.,
+2007. Microbial source tracking in a small southern California urban watershed
+indicates wild animals and growth as the source of fecal bacteria. Appl.
+Microbiol. Biotech. 76, 927e934.
+Johnston, C., Ufnar, J., Grifﬁth, J., Gooch, J., Stewart, J., 2010. A real-time qPCR assay
+for the detection of the nifH gene of Methanobrevibacter smithii, a potential
+indicator of sewage pollution. J. Appl. Microbiol. 109, 1946e1956. http://
+dx.doi.org/10.1111/j.1365-2672.2010.04824.x.
+Johnston, C., Byappanahalli, M.N., Gibson, J.M., Ufnar, J.A., Whitman, R.L.,
+Stewart, J.R., 2013. Probabilistic analysis showing that a combination of Bacteroides and Methanobrevibacter source tracking markers is effective for identifying waters contaminated by human fecal pollution. Environ. Sci. Technol. 47,
+13621e13628.
+Kildare, B.J., Leutenegger, C.M., McSwain, B.S., Bambic, D.G., Rajal, V.B., Wuertz, S.,
+2007. 16S rRNA-based assays for quantitative detection of universal, human-,
+cow-, and dog speciﬁc fecal Bacteroidales: a Bayesian approach. Water Res. 41,
+3701e3715.
+Layton, B.A., Raith, M.R., Grifﬁth, J.F., 2015. Use of Dye Tracers and qPCR to Identify
+Human Fecal Contamination at Doheny State Beach, Dana Point, CA. BA Layton,
+MR Raith, JF Grifﬁth. Technical Report 860. Southern California Coastal Water
+Research Project Authority, Costa Mesa, CA.
+Leskinen, S.D., Harwood, V.A., Lim, D., 2008. Rapid dead-end ultraﬁltration concentration and biosensor detection of enterococci from beach waters of
+Southern California. J. Water Health 7, 674e684. http://dx.doi.org/10.2166/
+wh.2009.086.
+Love, D.C., Rodriguez, R.A., Gibbons, C.D., Grifﬁth, J.F., Stewart, J.R., Sobsey, M.D.,
+2014. Human viruses and viral indicators in marine water at two recreational
+beaches in southern California, USA. J. Water Health 12, 136e150.
+Love, D.C., Sobsey, M.D., 2007. Simple and rapid Fþ coliphage culture, latex agglutination, and typing assay to detect and source track fecal contamination. Appl.
+Environ. Microbiol. 73, 4110e4118.
+Lu, J., Ryu, H., Santo Domingo, J.W., Grifﬁth, J.F., Ashbolt, N.A., 2011. Molecular
+detection of Campylobacter spp. in California gull (Larus californicus) Excreta.
+Appl. Environ. Microbiol. 77, 5034e5039.
+McLellan, S.L., Newton, R.J., Vandewalle, J.L., Shanks, O.C., Huse, S.M., Eren, A.M.,
+Sogin, M.L., 2013. Sewage reﬂects the distribution of human faecal Lachnospiraceae. Environ. Microbiol. 15 (8), 2213e2227.
+McQuaig, S., Grifﬁth, J., Harwood, V.J., 2012. Association of fecal indicator bacteria
+with human viruses and microbial source tracking markers at coastal beaches
+impacted by nonpoint source pollution. Appl. Environ. Microbiol. 78,
+6423e6432.
+Noble, R.T., Fuhrman, J.A., 2001. Enteroviruses detected by reverse transcriptase
+polymerase chain reaction from the coastal waters of Santa Monica Bay, California: low correlation to bacterial indicator levels. Hydrobiologia 460, 175e184.
+Noble, R.T., Moore, D.F., Leecaster, M., McGee, C.D., Weisberg, S.B., 2003. Comparison
+of total coliform, fecal coliform, and enterococcus bacterial indicator response
+for ocean recreational water quality testing. Water Res. 37, 1637e1643.
+Noble, R.T., Weisberg, S.B., 2005. A review of technologies being developed for rapid
+detection of bacteria in recreational waters. J. Water Health 3, 381e392.
+Noble, R.T., Blackwood, A.D., Grifﬁth, J.F., McGee, C.M., Weisberg, S.B., 2010. Comparison of rapid quantitative PCR-based and conventional culture-based
+methods for enumeration of Enterococcus spp. and Escherichia coli in recreational waters. Appl. Environ. Microbiol. 76, 7437e7443. http://dx.doi.org/
+10.1128/AEM.00651-10.
+Rodríguez, R.A., Love, D.C., Stewart, J.R., Tajuba, J., Knee, J., Dickerson Jr., J.W.,
+Webster, L.F., Sobsey, M.D., 2012. Comparison of methods for the detection of
+coliphages in recreational water at two California, United States beaches.
+J. Virol. Methods 181, 73e79.
+Rothman, K.J., Greenland, Sander, Lash, T.L., 2008. Modern Epidemiology. Lippincott
+Williams and Wilkins.
+Scott, T.M., Jenkins, T.M., Lukasik, J., Rose, J.B., 2005. Potential use of a host associated molecular marker in Enterococcus faecium as an index of human fecal
+pollution. Environ. Sci. Technol. 39, 283e287.
+Siefring, S., Varma, M., Atikovic, E., Wymer, L., Haugland, R.A., 2008. Improved realtime PCR assays for the detection of fecal indicator bacteria in surface waters
+with different instrument and reagent systems. J. Water Health 6, 225e237.
+Shanks, O.C., White, K., Kelty, C.A., Sivaganesan, M., Blannon, J., Meckes, M.,
+Varma, M., Haugland, R.A., 2010a. Performance of PCR-based assays targeting
+Bacteroidales genetic markers of human fecal pollution in sewage and fecal
+samples. Environ. Sci. Technol. 44, 6281e6288.
+Shanks, O.C., White, K., Kelty, C.A., Hayes, S., Sivaganesan, M., Jenkins, M., Varma, M.,
+Haugland, R.A., 2010b. Performance assessment PCR-based assays targeting
+Bacteroidales genetic markers of bovine fecal pollution. Appl. Environ. Microbiol. 76, 1359e1366.
+Shanks, O.C., Peed, L., Sivaganesan, M., Haugland, R.A., Chern, E.C., 2014. Human
+fecal source identiﬁcation with real-time quantitative PCR. Environ. Microbiol.
+Methods Protoc. 85e99.
+Sinigalliano, C.D., Fleisher, J.M., Gidley, M.L., Solo-Gabriele, H.M., Shibata, T.,
+Plano, L.R., Elmir, S.M., Wanless, D., Bartkowiak, J., Boiteau, R., Withum, K.,
+Abdelzaher, A.M., He, G., Ortega, C., Zhu, X., Wright, M.E., Kish, J., Hollenbeck, J.,
+Scott, T., Backer, L.C., Fleming, L.E., 2010. Traditional and molecular analyses for
+fecal indicator bacteria in non-point source subtropical recreational marine
+waters. Water Res. 44, 3763e3772.
+
+
+
+J.F. Grifﬁth et al. / Water Research 94 (2016) 371e381
+Stewart-Pullaro, J., Daugomah, J.W., Chestnut, D.E., Graves, D.A., Sobsey, M.D.,
+Scott, G.I., 2006. F(þ) RNA coliphage typing for microbial source tracking in
+surface waters. J. Appl. Microbiol. 101, 1015e1026.
+ter Braak, C.J.F., 1995. Ordination, pp. 91e173. In: Jongman, R.H.G., ter Braak, C.J.F.,
+van Tongeren, O.F.R. (Eds.), Data Analysis in Community and Landscape Ecology.
+Cambridge University Press, New York.
+Ufnar, J.A., Wang, S.Y., Christiansen, J.M., Yampara-Iquise, H., Carson, C.A.,
+Ellender, R.D., 2006. Detection of the nifH gene of Methanobrevibacter smithii: a
+potential tool to identify sewage pollution in recreational waters. J. Appl.
+Microbiol. 101, 44e52.
+US EPA, United States Environmental Protection Agency.
+Wade, T.J., Pai, N., Eisenberg, J.N., Colford Jr., J.M., 2003. Do U.S. Environmental
+Protection Agency water quality guidelines for recreational waters prevent
+gastrointestinal illness? A systematic review and meta-analysis. Environ. Health
+Perspect. 111, 1102e1109.
+Wade, T.J., Calderon, R.L., Sams, E., Beach, M., Brenner, K.P., Williams, A.H.,
+Dufour, A.P., 2006. Rapidly measured indicators of recreational water quality are
+predictive of swimming-associated gastrointestinal illness. Environ. Health
+Perspect. 114 (1), 24e28.
+
+381
+
+Wade, T.J., Sams, E., Brenner, K.P., Haugland, R., Chern, E., Beach, M., Wymer, L.,
+Rankin, C.C., Love, D., Li, Q., Noble, R., Dufour, A.P., 2010. Rapidly measured
+indicators of recreational water quality and swimming-related illness at marine
+beaches: a prospective cohort study. Environ. Health 9, 66. http://ehjournal.net/
+content/9/1/66.
+Walkley, N., Moore, D., Kacien, D., Weeks, I., 2008. Investigation of transcriptionmediated ampliﬁcation as a rapid test method for Enterococci in recreational
+water. J. Environ. Monit. 10, 1064e1068. http://dx.doi.org/10.1039/b810284h.
+Walters, S.P., Yamahara, K.M., Boehm, A.B., 2009. Persistence of nucleic acid markers
+of health-relevant organisms in seawater microcosms: implications for their
+use in assessing risk in recreational waters. Water Res. 43, 4929e4939.
+Yau, V., Schifff, K.C., Arnold, B.F., Grifﬁth, J.F., Gruber, J.S., Wright, C.C., Wade, T.J.,
+Burns, S., Hayes, J.M., McGee, C., Gold, M., Cao, Y., Boehm, A., Weisberg, S.B.,
+Colford Jr., J.M., 2014. The impact of environmental conditions on associations
+between fecal indicator bacteria and human health. Water Res. 59, 23e36.
+Yamahara, K.M., Sassoubre, L.M., Goodwin, K.D., Boehm, A.B., 2012. Occurrence and
+persistence of human pathogens and indicator organisms in beach sands along
+the California coast. Appl. Environ. Microbiol. 78, 1733e1745.
+
+

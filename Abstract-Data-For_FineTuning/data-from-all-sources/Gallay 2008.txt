@@ -1,0 +1,1036 @@
+MAJOR ARTICLE
+
+Risk Factors for Acquiring Sporadic Campylobacter
+Infection in France: Results from a National
+Case-Control Study
+Anne Gallay,1 Vanina Bousquet,1 Virginie Siret,1,2 Valérie Prouzet-Mauléon,3 Henriette de Valk,1 Véronique Vaillant,1
+Fernando Simon,1 Yann Le Strat,1 Francis Mégraud,3 and Jean-Claude Desenclos1
+1
+Département Maladies Infectieuses and 2Field Epidemiology Training (Programme de Formation d’Épidémiologie de Terrain), Institut de Veille
+Sanitaire, Saint-Maurice, and 3Centre National de Référence des Campylobacter et Helicobacter, Bordeaux, France
+
+In most industrialized countries, Campylobacter organisms are, along with Salmonella organisms, the most
+common cause of foodborne bacterial gastroenteritis [1,
+2]. Previous studies have shown that Campylobacter infection is frequently acquired through consuming undercooked poultry and other meats, drinking untreated
+water, having contact with pets or farm animals, and
+traveling abroad [3–10]. Even if there is evidence that
+cross-contamination between raw meat and other foods
+during meal preparation is responsible for a consequent
+Received 26 October 2007; accepted 12 December 2007; electronically published 1 April 2008.
+Potential conflicts of interest: none reported.
+Presented in part: 11th European Program for Intervention in Epidemiology
+Training Scientific Seminar, Mahon, Menorca, Spain, 12–14 October 2006 (abstract 20060090).
+Reprints or correspondence: Dr. Anne Gallay, Institut de Veille Sanitaire,
+Département des Maladies Infectieuses, 12, rue du Val d’Osne, 94 415 SaintMaurice, France (a.gallay@invs.sante.fr).
+The Journal of Infectious Diseases 2008; 197:1477– 84
+© 2008 by the Infectious Diseases Society of America. All rights reserved.
+0022-1899/2008/19710-0018$15.00
+DOI: 10.1086/587644
+
+Downloaded from jid.oxfordjournals.org at UIC Library, Collections Development on August 9, 2011
+
+Background. To better document the risk factors for sporadic Campylobacter infection in France, we conducted
+a national case-control study from September 2002 to June 2004.
+Methods. Cases with confirmed Campylobacter infection were sampled through the national surveillance laboratory network. Cases and controls who were matched for age, as well as attending physicians, were interviewed about
+foods consumed, food preparation practices, travel history, contact with cases and animals during the 8 days before
+the onset of infection, and any antibiotic use occurring during the 30 days before onset. Matched odds ratios [ORs]
+were calculated using conditional logistic regression and multiple imputation methods.
+Results. A total of 285 pairs of cases and matched controls were enrolled. “Ate undercooked beef” (OR, 2.86; 95%
+confidence interval [CI], 1.65– 4.95), “ate at restaurant” (OR, 2.20; 95% CI, 1.23–3.93), and “poor utensils hygiene in
+the kitchen” (OR, 2.12; 95% CI, 1.33–3.37) were the main independent risk factors for infection. Cases infected with
+a ciprofloxacin-resistant Campylobacter jejuni strain were more likely than controls to have used antibiotics in the
+month before onset.
+Conclusion. Good hygiene practices in the kitchen remain a strong recommendation to avoid crosscontamination. However, studies are needed to explore the mechanism of contamination throughout the food chain.
+The use of antibiotics in humans may favor the development of a resistant infection.
+number of cases, this factor has not been identified in
+epidemiologic studies [5–7, 9, 11–13]. In addition, what
+were identified as risk factors in some studies were found
+to be protective factors in others, even in studies performed in the same country [14]. The specific immunity
+conferred by Campylobacter infection suggests that susceptibility should vary by age and exposure [15]. Because of their inability to multiply in food products,
+Campylobacter organisms have a low outbreak potential;
+however, they have been responsible for several large
+outbreaks, most of them waterborne [16 –19].
+Campylobacter infection is usually self-limited, but extraintestinal infection or septicemia may occur and may
+require treatment with appropriate antibiotics. Since the
+beginning of the 1990s, the resistance of Campylobacter organisms to antibiotics has increased. Epidemiologic studies, modeling, and experimental studies have documented
+a strong association between the increase in resistance to
+quinolones/fluoroquinolones in human isolates and the
+use of these antibiotics in animals [20 –22].
+Risk Factors for Campylobacteriosis, France
+
+●
+
+JID 2008:197 (15 May)
+
+●
+
+1477
+
+
+
+Surveillance of Campylobacter infection was expanded in 2002
+in France to monitor the incidence of and trends associated with
+bacterial resistance of Campylobacter infection [23, 24]. So far,
+very little information has been available on risk factors in
+France. We therefore performed a prospective case-control
+study of sporadic Campylobacter infection among French residents.
+MATERIAL AND METHODS
+
+1478
+
+●
+
+JID 2008:197 (15 May)
+
+●
+
+Gallay et al.
+
+RESULTS
+Study population. During the 21-month study, 2743 patients
+with culture-confirmed Campylobacter infection were notified.
+Of the 954 cases (34.8%) sampled, 285 (29.9%) were included in
+the study. Cases that were excluded (n ⫽ 669) included 15 cases
+with an undetermined date of onset, 285 with a notification delay of ⬎10 days from the date of onset, 174 who could not be
+
+Downloaded from jid.oxfordjournals.org at UIC Library, Collections Development on August 9, 2011
+
+Study design. A “case” was defined as a resident of metropolitan France who had clinical symptoms of campylobacteriosis
+(i.e., gastroenteritis, systemic infection, or extradigestive infections) and a culture-confirmed Campylobacter isolate identified,
+from 15 September 2002 to 30 June 2004, either in stool or in a
+biological liquid that is normally sterile. When samples from ⬎1
+household member yielded Campylobacter species, or when the
+case was either part of a household in which there was a cluster of
+instances of gastroenteritis or part of a recognized outbreak, only
+the first identified case was enrolled.
+The present study was a collaboration between the National
+Reference Center (NRC) for Campylobacter and Helicobacter
+(Centre National de Référence des Campylobacter and Helicobacter) and the French Institute for Public Health Surveillance
+(Institut de Veille Sanitaire) in France, conducted as part of their
+routine activity. Potential cases were recruited through the national Campylobacter surveillance network, which is based on a
+voluntary network of private (n ⫽ 342) and public (n ⫽ 92)
+laboratories that send their isolates to the NRC [24]. Laboratories notified the cases to the French Institute for Public Health
+Surveillance by fax, to reduce the delay until an interview could
+be conducted. Each working day, a maximum of 4 cases with the
+shortest delay between the date of isolation and the date of notification were sampled. A letter was faxed to the case’s physician
+to request from the case or the case’s parents informed consent
+to participate in the study.
+Each case was matched, by age, sex, and geographic area, with
+one control selected from the patient registry of the case’s physician. The age groups of the matched pairs were defined as ⬍6
+months, 6 months to 3 years, ⬎3 to ⬍15 years [⫾3 years], and
+肁15 years [⫾10 years]. Cases and controls were not matched by
+sex before 15 years of age, under the assumption that food habits
+were similar by sex. Potential controls were excluded from the
+study if they had experienced diarrhea within 1 month before or
+1 week after the onset of infection in the matched case or if they
+were identified ⬎15 days after the date that a Campylobacter
+isolate was identified in the matched case. If a potential control
+refused to participate or could not be reached after 5 attempts, a
+search for another control was conducted.
+The study received ethics approval from the Commission Nationale de l’Informatique et des Libertés.
+
+Interviews and questionnaires. Cases and matched controls were contacted and interviewed by telephone by the same
+interviewer, who was not blinded to the case/control status. For
+children 聿12 years of age, a parent or a person who was familiar
+with the usual environment and food habits of the children was
+interviewed. A structured questionnaire was used to collect information on demographic characteristics; medical history, including use of any antibiotic within the month before onset of
+infection in the matched case; clinical symptoms; occupational
+activity; and specific exposures. Information on food consumption, the level of cooking of meat, food handling practices, travel
+history, animal and water (i.e., drinking or swimming) exposures, and contact with a person with diarrhea was recorded for
+cases and controls during the 8 days before onset in the matched
+case.
+Susceptibility testing of Campylobacter isolates. Campylobacter isolates were tested at the NRC for susceptibility to ciprofloxacin, erythromycin, amoxicillin, gentamicin, and tetracycline,
+by use of the agar diffusion method, on Mueller-Hinton agar enriched with 5% sheep blood, with use of antibiotic disks according
+to the Antibiogram Committee of the French Society for Microbiology [25].
+Analysis. The level of cooking was classified as “undercooked” when the meat or poultry consumed was raw, rare, or
+pink in color and as “cooked” when the meat or poultry consumed was well done or overcooked. Food handling hygiene
+practices were classified as “poor utensils hygiene in the kitchen”
+when hands or utensils used in the kitchen were not cleaned or
+were dried only with a dish towel in between the handling of
+meat or poultry and other foods and as “good utensils hygiene in
+the kitchen” when hands or utensils were cleaned with water
+only or a detergent or when utensils changed.
+Variables that were associated with the outcome and for
+which P ⬍ .2 in matched univariate analysis were considered for
+multiple conditional logistic regression analysis. Matched odds
+ratios (ORs) for which P ⭐ .05 were considered to be significant
+in the multivariate analysis. We repeated the analysis after imputing for missing responses [26, 27]. All analyses were performed using Stata software (version 9; Stata Corporation).
+The risk associated with the use of antibiotics within the
+month before onset of illness was analyzed by comparing cases
+with an antibiotic-resistant strain with (1) their matched controls and (2) cases with an antibiotic-susceptible strain.
+
+
+
+Table 1. Clinical symptoms of cases, by age
+group, in a case-control study of Campylobacter
+infection in France, September 2002–June 2004.
+
+Symptom
+Diarrhea
+Abdominal pain
+Fevera
+Bloody diarrhea
+Vomiting
+Weight loss
+
+Age 聿15 years
+(N ⫽ 169)
+
+Age ⬎15 years,
+(N ⫽ 116)
+
+161/168 (95.8)
+134/149 (89.9)
+
+113/116 (97.4)
+104/116 (89.7)
+
+116/163 (71.2)
+91/166 (54.8)b
+66/168 (39.3)c
+81/139 (58.3)c
+
+76/105 (72.4)
+39/111 (35.1)
+28/116 (24.1)
+78/104 (75.0)
+
+NOTE. Data are the proportion (%) of cases; in each fraction, the numerator denotes the no. of cases who reported
+having the symptom, and the denominator denotes the no. of
+cases who answered the question.
+a
+b
+c
+
+Temperature, 肁38°C.
+P ⫽ .001.
+P ⫽ .007.
+
+Risk Factors for Campylobacteriosis, France
+
+●
+
+JID 2008:197 (15 May)
+
+●
+
+1479
+
+Downloaded from jid.oxfordjournals.org at UIC Library, Collections Development on August 9, 2011
+
+reached after 5 attempts, 117 who refused to participate, 42 for
+whom a matched control was not found, and 36 who were excluded for other reasons. The 285 enrolled cases were younger
+(mean age, 19.5 years) than the cases who were excluded from
+the study (mean age, 28.5 years) and were comparable with respect to sex (percentage of cases that were male, 60.1% vs. 56.3%,
+respectively) and region of residence (data not shown). The
+mean age of the cases and controls was 19.5 and 20.0 years, respectively. The median delay between the time of onset of disease
+and the time when the interview was conducted was 15 days
+(range, 5– 44 days), and the median delay between the time that
+interviews were conducted for cases and controls was 4 days
+(range, 0 – 64 days).
+Clinical description. Of the 235 isolates in which the
+Campylobacter species was fully identified, 192 (81.7%) were C.
+jejuni, 36 (15.3%) were C. coli, 3 (1.3%) were C. fetus, and 4
+(1.7%) were C. lari. The main symptoms were diarrhea (in 96.5% of
+patients), abdominal pain (in 90.0%), and fever (in 71.6%). Bloody
+diarrhea and vomiting were more common in children ⬍15 years
+of age (table 1). Diarrhea lasted longer (1) in cases ⬎15 years of age
+(median duration, 5 days) than in younger cases (median duration,
+4 days) (P ⫽ .002) and (2) in cases with C. fetus infection (median duration, 13 days) than in cases with C. jejuni or C. coli
+infection (median duration, 5 days) (P ⬍ .001). Forty-one
+(14.4%) of the 285 cases were hospitalized (median duration, 2
+days; range, 1–10 days).
+Risk factors. Sixteen cases (5.6%) reported traveling abroad
+in the 8 days before onset, compared with 7 controls (2.4%) (OR,
+2.5; 95% confidence interval [CI], 0.9 – 6.4). Countries visited
+included North Africa (n ⫽ 8), Europe (n ⫽ 8), Burkina Faso
+and Ethiopia (n ⫽ 2), and Tahiti and Thailand (n ⫽ 5). Because
+travelers were likely to have exposures that were remarkably different from those of nontravelers, and because exposures occurring during travels have not been investigated, travelers were
+
+excluded from the univariate and multivariate matched analysis,
+regardless of whether they were cases or controls.
+In matched univariate analysis, consumption of undercooked
+beef was associated with an increased risk of campylobacteriosis
+(OR, 2.0; 95% CI, 1.2–3.4) (table 2). Cases were not more likely
+than controls to report consumption of any poultry or other
+meat, even that which was undercooked (data not shown). Eating in a restaurant increased the risk significantly (OR, 1.9; 95%
+CI, 1.1–1.3). Cases were less likely than controls to have eaten
+raw vegetables, fruits or berries, and fish or seafood.
+Tasting or handling raw meat in the kitchen was not a risk
+factor, whereas poor hygiene of hands and utensils in the kitchen
+was; 30.0% and 37.4% of cases had poor hands hygiene or poor
+utensils hygiene, respectively, between handling raw meat and
+handling other food, compared with 21.0% and 26.1% of controls, respectively (table 2).
+Contact with any pet or farm animals was not a significant risk
+factor (table 2). Having contact with a person who had diarrhea
+in the 8 days before onset increased the risk of Campylobacter
+infection (OR, 2.5; 95% CI, 1.4 – 4.4). Of the 51 cases (19.0%)
+who reported contact with a person(s) with diarrhea, 28 reported contact with individuals in the same household, 12 reported contact with children outside the household who had
+diarrhea, 7 reported contact with friends or colleagues at work,
+and 4 reported contact with children, friends, or colleagues.
+Multivariate analysis. Fourteen variables have been included in the multivariate model, both for the complete-case (CC)
+and the multiple imputation (MI) analyses. No significant firstorder interaction was detected. In both models, having contact with
+a person with diarrhea (ORCC, 3.32 [95% CI, 1.72– 6.4]; ORMI, 2.27
+[95% CI, 1.24 – 4.14]), eating undercooked beef (ORCC, 2.26 [95%
+CI, 1. 2– 4.24]; ORMI, 2.86 [95% CI, 1.65– 4.95]), and eating at restaurant (ORCC, 2.46 [95% CI, 1.26 – 4.74]; ORMI, 2.20 [95% CI,
+1.23–3.93]) were independent risk factors for Campylobacter infection while eating beef bought from a butcher shop, farm, or market,
+and eating raw vegetables was associated with a decreased risk of
+infection (table 3). Poor utensils hygiene when preparing foods in
+the kitchen (ORMI, 2.12; 95% CI, 1.33–3.37), which was found to be
+a significant factor in univariate analysis, remained in multiple imputation analysis.
+Antibiotic treatment and resistance. Of the 285 strains,
+233 (81.8%) were tested for antibiotic susceptibility. Results of
+testing susceptibility to ampicillin, tetracycline, and gentamicin
+were missing for 15 strains, and results of testing susceptibility to
+ciprofloxacin were missing for 10 strains. Eighty-nine (48.0%) of
+218 strains were resistant to ampicillin; 67 (30.7%) of 218, to
+tetracycline; 60 (26.9%) of 223, to ciprofloxacin; 4 (1.7%) of 233,
+to erythromycin; and 2 (0.9%) of 218 to gentamicin. The duration of illness was longer for cases infected with a strain resistant
+to any antibiotic (median, 8.0 days; range, 1–38 days) than for
+cases infected with a susceptible strain (median, 6.0 days; range,
+2–30 days) (P ⫽ .02).
+
+
+
+Table 2. Matched univariate analysis of selected dichotomous risk factors for
+sporadic indigenous campylobacteriosis in France, September 2002–June 2004.
+Persons reporting/
+total
+respondents,a no.
+Potential
+risk factor
+
+Cases
+
+Controls
+
+Matched OR
+(95% CI)
+
+P
+
+105/191
+14/106
+71/169
+
+106/177
+8/110
+90/173
+
+0.6 (0.4–1.1)
+1.0 (0.3–3.4)
+0.6 (0.3–1.0)
+
+.1
+1.0
+.05
+
+32/187
+22/134
+143/201
+
+49/202
+20/164
+135/185
+
+0.6 (0.3–1.0)
+0.8 (0.4–1.9)
+0.7 (0.4–1.3)
+
+.06
+.7
+.2
+
+123/228
+13/260
+
+135/233
+12/260
+
+0.8 (0.5–1.2)
+1.0 (0.4–2.4)
+
+58/257
+102/211
+67/214
+74/234
+
+75/251
+117/217
+90/222
+46/243
+
+0.6 (0.4–1.0)
+0.7 (0.5–1.1)
+0.6 (0.4–0.9)
+2.0 (1.2–3.4)
+
+.02
+.1
+.02
+.007
+
+97/250
+
+66/257
+
+2.1 (1.2–3.5)
+
+.007
+
+58/260
+31/263
+159/237
+161/252
+77/234
+223/255
+185/263
+102/260
+
+34/247
+25/263
+178/230
+184/244
+104/243
+228/255
+199/263
+100/261
+
+1.9 (1.1–3.3)
+1.3 (0.7–2.5)
+0.6 (0.3–0.9)
+0.4 (0.3–0.9)
+0.5 (0.4–0.8)
+0.7 (0.4–1.4)
+0.7 (0.5–1.1)
+1.1 (0.7–1.6)
+
+.01
+.3
+.01
+.01
+.004
+.3
+.1
+.7
+
+50/258
+13/268
+
+48/253
+10/277
+
+0.9 (0.5–1.7)
+1.8 (0.7–4.9)
+
+.7
+.2
+
+75/246
+94/248
+54/244
+
+52/252
+67/254
+41/249
+
+1.6 (1.0–2.3)
+1.7 (1.1–2.6)
+1.3 (0.8–2.0)
+
+.03
+.007
+.3
+
+51/249
+
+26/254
+
+2.5 (1.4–4.4)
+
+.001
+
+201/255
+60/263
+
+178/247
+49/263
+
+1.5 (1.0–2.4)
+1.3 (0.8–2.0)
+
+.06
+.2
+
+Poultry-related exposureb
+
+Ate at a restaurant
+Ate any meat at a barbecue
+Ate fish or seafood
+Ate raw vegetables
+Ate fruits or berries
+Ate any milk product
+Ate cheese
+Drank tap water
+Behavior in the kitchenc
+Prepared meat or poultry
+Tasted meat or poultry
+Practiced poor hygiene
+Of hands
+Of utensils
+Of kitchen cutting boards
+Contact with a person with
+diarrheab
+Animal exposureb
+Contact with any pet or
+farm animal
+Occupational
+
+.2
+1.0
+
+NOTE. A total of 269 cases and controls were included in the analysis. CI, confidence interval;
+OR, odds ratio.
+a
+For specific exposures assessed during the 8 days before onset in the matched case, all
+cases and controls could not always remember precisely and were therefore considered to be
+nonrespondents.
+b
+During the 8 days before onset in the matched case.
+c
+Not during the 8 days before onset in the matched case but as a general habit.
+
+Downloaded from jid.oxfordjournals.org at UIC Library, Collections Development on August 9, 2011
+
+Ate chicken
+Any
+Outside
+Bought raw
+Bought at retail vs. packed
+or frozen
+That was undercooked
+Ate any poultry
+Beef-related exposureb
+Ate beef
+Any
+Outside
+Bought from a butcher shop,
+farm, or market
+Bought raw
+Bought at retail
+That was undercooked
+That was undercooked or
+minced
+Other food exposureb
+
+
+
+Table 3. Multivariate analysis (conditional logistical regression) of risk factors for sporadic indigenous campylobacteriosis, by use of complete-case (CC) and multiple imputation (MI) analyses in France,
+September 2002–June 2004.
+CC analysis (n ⫽ 372)a
+
+MI analysis (n ⫽ 526)a
+
+OR (95% CI)
+
+P
+
+OR (95% CI)
+
+P
+
+...
+2.26 (1.20–4.24)
+2.46 (1.26–4.79)
+...
+...
+3.32 (1.72–6.40)
+
+...
+.01
+.01
+...
+...
+⬍.001
+
+0.56 (0.35–0.91)
+2.86 (1.65–4.95)
+2.20 (1.23–3.93)
+0.42 (0.23–0.74)
+2.12 (1.33–3.37)
+2.27 (1.24–4.14)
+
+.02
+⬍.001
+.01
+.003
+.002
+.01
+
+Variable
+Ate beef
+Bought from a butcher shop, farm, or market
+That was undercooked
+Ate at a restaurant
+Ate raw vegetables
+Poor utensils hygiene in the kitchen
+Contact with a person with diarrhea
+NOTE.
+a
+
+CI, confidence interval; OR, matched odds ratio.
+
+The n value denotes the no. of cases or controls in the final model.
+
+Nine (40.9%) of the 22 indigenous cases who reported receiving any antibiotic treatment in the month before onset were
+infected with a ciprofloxacin-resistant C. jejuni strain, compared
+with 27 (17.9%) of the 151 indigenous cases who did not report
+receiving antibiotic treatment during that time (OR, 3.2; 95%
+CI, 1.2– 8.3). None of the 6 cases with travel-associated
+ciprofloxacin-resistant infection due to a C. jejuni strain had received any antibiotics.
+DISCUSSION
+In the present study, we found that eating undercooked beef,
+using poor utensil hygiene practices in the kitchen, eating at a
+restaurant, and having contact with a person who had diarrhea
+were independent risk factors for the acquisition of Campy-
+
+Table 4. Association between use of antibiotics in the month before disease onset and ciprofloxacin-resistant Campylobacter
+infection in a case-control study of Campylobacter infection in France, September 2002–June 2004.
+
+Infection
+
+Cases with
+resistant
+strains,
+n/N (%)
+
+Controls
+matched
+with cases
+with resistant
+strains,
+n/N (%)
+
+ORa (95% CI)
+
+All Campylobacter
+All species
+C. jejuni
+
+10/60 (16.7)
+9/42 (21.4)
+
+1/60 (1.7)
+0/42
+
+Indigenous
+Campylobacter
+All species
+C. jejuni
+
+9/53 (17.0)
+8/35 (22.9)
+
+1/53 (1.9)
+0/35
+
+Cases with
+susceptible
+strains,
+n/N (%)
+
+ORb (95% CI)
+
+Controls
+matched with
+cases with
+susceptible
+strains,
+n/N (%)
+
+10.0 (1.2–78.1)
+UDd
+
+19/164 (11.6)
+
+1.5 (0.7–3.5)
+
+24/164 (14.6)
+
+0.75 (0.4–1.5)
+
+15/142 (10.6)
+
+2.3 (0.9–5.8)
+
+19/142 (13.4)
+
+0.75 (0.4–1.6)
+
+9 (1.5– 199)
+UDe
+
+17/159 (10.7)
+13/137 (9.5 )
+
+1.9 (0.8–4.6)
+3.2 (1.2–8.4)
+
+25/159 (15.7)
+3/137 (2.2 )
+
+0.65 (0.3–1.3)
+0.62 (0.3–1.4)
+
+ORc (95%) CI
+
+NOTE. CI, confidence interval; n, no. of cases (with either resistant or susceptible strains) or matched control subjects who received antibiotics during the
+month before onset of disease in the case; N, no. of cases (with either resistant or susceptible strains) or matched control subjects who answered the question.
+OR, odds ratio; UD, undefined.
+a
+b
+c
+d
+e
+
+OR for the comparison of cases with ciprofloxacin-resistant strains with their matched controls.
+OR for the comparison of cases with ciprofloxacin-resistant strains with cases with ciprofloxacin-susceptible strains (unmatched analysis).
+OR for the comparison of cases with ciprofloxacin-susceptible strains with their matched controls.
+P ⫽ .003.
+P ⫽ .004.
+
+Risk Factors for Campylobacteriosis, France
+
+●
+
+JID 2008:197 (15 May)
+
+●
+
+1481
+
+Downloaded from jid.oxfordjournals.org at UIC Library, Collections Development on August 9, 2011
+
+Fifteen (12.9%) of 116 cases 肁15 years of age, compared with
+2 (1.7%) of 116 controls, reported receiving treatment with antibiotics during the month before the onset of illness (OR, 7.5;
+95% CI, 1.7–32.8). No difference in the receipt of antibiotics was
+noted between cases and controls ⬍15 years of age. Cases with
+ciprofloxacin-resistant Campylobacter infection (due to any
+Campylobacter species or due to C. jejuni) were more likely to
+have received any antibiotic before onset than were the controls
+(21.4% for those with C. jejuni infection vs. 0% for controls;
+OR, undefined), regardless of whether they had traveled abroad
+(table 4). Antibiotic use was a risk factor for indigenous
+ciprofloxacin-resistant C. jejuni infection, compared with
+ciprofloxacin-susceptible C. jejuni infection, and it was not a risk
+factor for ciprofloxacin-susceptible infection when compared
+with the matched control (table 4).
+
+
+
+1482
+
+●
+
+JID 2008:197 (15 May)
+
+●
+
+Gallay et al.
+
+posed may have the highest immunity. Therefore, identifying
+chicken as a risk factor for Campylobacter infection is often difficult. Furthermore, eating undercooked chicken may play a major role through cross-contamination from the juice of raw
+chicken rather than through the direct risk associated with consumption of undercooked chicken. A social desirability bias
+could have also hidden the association, with cases being less
+likely than controls to report consumption of undercooked
+poultry. However, this is unlikely, because cases were more likely
+than controls to report poor hygiene in the kitchen, an exposure
+for which social desirability bias may play a greater role.
+Eating raw vegetables was associated with a decreased risk of
+Campylobacter infection. Several hypotheses have been proposed to explain this association, including artifacts, bias, or
+confounding associated with lifestyle and food habits not explored in the study, as well as a causal effect [12, 32, 38].
+The use of poor utensils hygiene in the kitchen when handling
+raw meat and other foods was an independent risk factor for
+infection. Although previous studies explored hygiene practices
+in the kitchen during food preparation, to our knowledge, no
+study has been able to show an independent increased risk for
+Campylobacter infection [5–7, 9, 11–13]. Hygiene practices perceived to be acceptable are not sufficient to prevent crosscontamination between a contaminated source (i.e., chicken)
+and a vehicle (i.e., other food), which is the direct route of infection [12, 39]. Vehicles with low-level contamination are sufficient to cause Campylobacter infection [40]. Drying utensils or
+hands with a dish towel in between handling meat or poultry and
+other foods may be wrongly perceived as an acceptable measure,
+although it does not prevent cross-contamination.
+Person-to-person transmission of Campylobacter organisms
+is thought to be rare. Other pathogens, like Salmonella organisms, that are mainly transmitted through food consumption
+can be transmitted from person to person, particularly among
+children [41]. For more susceptible hosts, this mode of transmission may occur more frequently in association with poor hygiene conditions, and for Campylobacter organisms, it may be
+facilitated by its low infective dose. In the present study, contact
+with a person who had diarrhea in the 8 days before onset was an
+independent risk factor. Most contacts with a person with diarrhea occurred in the family household or with children who had
+diarrhea outside the home. Our design did not allow differentiation of whether more frequent diarrhea among contacts before
+the onset of infection was related to a common source of infection or truly revealed person-to-person transmission. However,
+Campylobacter organisms may account for a large number of
+household foodborne outbreaks that are unreported [42].
+Like other studies, our study shows an association between
+travel abroad and acquisition of fluoroquinolone-resistant
+Campylobacter infection. Africa and Asia are the more common
+destinations for French travelers, whereas, in northern European countries (Sweden, Finland, and Norway), France and
+
+Downloaded from jid.oxfordjournals.org at UIC Library, Collections Development on August 9, 2011
+
+lobacter infection. Receipt of antibiotic treatment within the
+month before onset of illness increased the risk of developing a
+ciprofloxacin-resistant C. jejuni infection.
+The most important food-specific risk factor was consumption of undercooked (raw, rare, or “pink”) beef. Few studies have
+shown that beef was a food vehicle for Campylobacter infection.
+In the United States, the fact that riding in a shopping cart next to
+meat or poultry has been identified as risk factor in children
+suggests that contamination may occur through direct contact.
+Investigators discussed the risk of cross-contamination through
+indirect exposure—that is, via the hands of caretakers as a result
+of the external contamination of retail meat packages [28]. In
+other studies, “ate red meat at barbecue/open fire,” “ate other
+raw or undercooked meat or fish,” and “ate nonpoultry meat
+prepared at restaurant” were identified as independent risk factors, without specification as to whether the meat could be pork,
+veal, or beef [5, 7, 9]. Our finding may reflect a different food
+habit in France or in southern European countries. Most casecontrol studies have been conducted in northern European
+countries, and results may not reflect the food habits of individuals in southern Europe. The lack of association between consumption of beef and development of Campylobacter infection
+in studies performed in the northern European countries could
+be due to the less frequent consumption of undercooked beef in
+those countries. Beef ranks third among the animal products
+consumed in France, following pork and poultry in popularity
+[29], and it is often eaten undercooked (rare or pink) or even
+raw. In the present study, 59.3% of cases and 36.5% of controls
+ate undercooked beef. Campylobacter organisms are known to
+contaminate the gut and carcass of cattle [30, 31]. However, the
+interpretation of this finding is complex, because Campylobacter
+organisms are present only on the outside of beef. Eating undercooked beef may not reflect a direct mode of transmission but,
+rather, may be a marker of cross-contamination when foods are
+prepared in the kitchen. Eating at a restaurant, which has also
+been identified as a risk factor in other studies, may be related to
+consumption of undercooked, contaminated meat or to poor
+hygiene practices used in the kitchen.
+In this study, several food exposures identified as risk factors
+in other studies were not found to increase the risk of Campylobacter infection. Although many studies identified consumption of chicken or poultry—and, more specifically, consumption
+of undercooked chicken [3–10]—as a risk factor [5, 7, 9, 11, 32],
+this was not the case in the present study. However, the lack of an
+increased risk associated with poultry or chicken consumption
+has been previously reported in several studies [13, 33–35], and
+one study even found that eating chicken prepared at home was
+protective [14]. Several reasons may explain these divergent results. In France, 80% of all broilers are colonized by Campylobacter species [36, 37]. Because chicken is widely consumed in
+France, it is very likely that many people have immunity to
+Campylobacter species, and those who are the most often ex-
+
+
+
+results, because cases enrolled in the case group were not completely representative of those identified by the surveillance system (i.e., they were younger and represented a smaller proportion of cases that occur in summer). Cases were also recruited
+from laboratories and could, therefore, differ from cases with
+Campylobacter infection not diagnosed microbiologically.
+Despite these limitations, the present study identifies important risk factors that are modifiable through changes in behavior,
+particularly when they relates to cooking habits and hygiene
+practices that favor cross-contamination during the preparation
+of food in the kitchen. However, prevention of transmission of
+Campylobacter organisms should be considered at each stage of
+the food chain transformation, from animal feed to food that is
+ready to eat. Efforts are needed to decrease contamination; in
+particular, poultry and meat (including beef) have to be considered as a potential source of contamination. The present study
+also strongly suggests that antibiotics used in humans have an
+influence on the risk of Campylobacter infection and may contribute to select infection with antibiotic-resistant strains.
+Acknowledgments
+We thank the private community and the public hospital laboratories that
+participated in the national surveillance of Campylobacter infections in human by sending their isolates to the National Reference Center for Campylobacter and Helicobacter and by notifying cases to the French Institute for
+Public Health Surveillance. We also thank the general practitioners who
+agreed to contact cases and controls.
+
+References
+1. Frost JA. Current epidemiological issues in human campylobacteriosis.
+Symp Ser Soc Appl Microbiol 2001; 90:85S–95S.
+2. Allos BM, Blaser MJ. Campylobacter jejuni and the expanding spectrum
+of related infections. Clin Infect Dis 1995; 20:1092–9.
+3. Saeed AM, Harris NV, DiGiacomo RF. The role of exposure to animals
+in the etiology of Campylobacter jejuni/coli enteritis. Am J Epidemiol
+1993; 137:108 –14.
+4. Ikram R, Chambers S, Mitchell P, Brieseman MA, Ikam OH. A case
+control study to determine risk factors for campylobacter infection in
+Christchurch in the summer of 1992–3. N Z Med J 1994; 107:430 –2.
+5. Eberhart-Phillips J, Walker N, Garrett N, et al. Campylobacteriosis in
+New Zealand: results of a case-control study. J Epidemiol Community
+Health 1997; 51:686 –91.
+6. Studahl A, Andersson Y. Risk factors for indigenous Campylobacter infection: a Swedish case-control study. Epidemiol Infect 2000; 125:269 –
+75.
+7. Neimann J, Engberg J, Mølbak K, Wegener HC. A case-control study of
+risk factors for sporadic Campylobacter infections in Denmark. Epidemiol Infect 2003; 130:353– 66.
+8. Schönberg-Norio D, Takkinen J, Hänninen ML, et al. Swimming and
+Campylobacter infections. Emerg Infect Dis 2004; 10:1474 –7.
+9. Friedman CR, Hoekstra RM, Samuel M, et al. Risk factors for sporadic
+Campylobacter infection in the United States: a case-control study in
+FoodNet sites. Clin Infect Dis 2004; 38(Suppl 3):S285–96.
+10. Michaud S, Ménard S, Arbeit RD. Campylobacteriosis, Eastern Townships, Quebec. Emerg Infect Dis 2004; 10:1844 –7.
+11. Kapperud G, Skjerve E, Bean NH, Ostroff SM, Lassen J. Risk factors for
+sporadic Campylobacter infections: results of a case-control study in
+southeastern Norway. J Clin Microbiol 1992; 30:3117–21.
+
+Risk Factors for Campylobacteriosis, France
+
+●
+
+JID 2008:197 (15 May)
+
+●
+
+1483
+
+Downloaded from jid.oxfordjournals.org at UIC Library, Collections Development on August 9, 2011
+
+other European Mediterranean countries are at risk for foreign
+travellers [43, 44]. However, traveling abroad accounted for a
+low proportion of cases of Campylobacter infection.
+An increased risk for acquiring ciprofloxacin-resistant C. jejuni infection and Salmonella infection after receipt of any antibiotic treatment has been reported in few studies [45, 46]. This
+increased risk was observed when cases infected with a resistant
+strain were compared with healthy controls, as well when
+they were compared with cases infected with a susceptible
+strain, thereby suggesting that antibiotic use may facilitate
+ciprofloxacin-resistant C. jejuni infection. Such an effect is likely
+related to disruption of the normal flora in a person taking antibiotics for another reason, and it may be also related to the
+selection of a resistant strain related to the antibiotic used. If so,
+in addition to their use in veterinary medicine, antibiotics used
+in human medicine may contribute to the occurrence of
+ciprofloxacin-resistant C. jejuni infections in humans. However,
+we were not able to document precisely the antibiotics used, and
+we cannot assess whether this increased risk is more related to
+the use of a particular class of antibiotics [45]. Also, the limited
+number of cases for which the analysis was done according to
+Campylobacter species and antibiotic resistance profile reduced
+our ability to explore this association in detail.
+Our results need to be interpreted with caution, however. The
+fact that this exploratory study assessed many exposures could
+have led to several random findings. Two factors reduced the
+statistical power of the study: (1) the planned sample size was not
+attained, and (2) data on specific exposures were missing. However, in comparison with complete-case analysis, the multiple
+imputation method increased the statistical power, allowing 2
+additional risks factors to be identified and more-precise estimates of the odds ratios to be obtained.
+Although we made important efforts to reduce the delay between the time of onset of the disease and the time when cases
+and controls were interviewed, memory effects cannot be excluded, particularly when many factors, including food consumption and cooking behaviors, were explored retrospectively.
+These memory effects could lead to recall bias. In the present
+study, such bias may more likely be nondifferential than differential, which tends to bias toward the nil rather than create a
+biased association. Missing data may be generated by the same
+memory effects, and a nonresponse bias could occur when the
+proportion of missing data differs between cases and controls for
+each exposure variable [47, 48]. In the present study, the proportion of data that were missing was similar for cases and controls. Because the results obtained using CC and MI analyses
+were similar, and because the assumptions made during the use
+of the MI analysis were met, the nonresponse bias was probably
+negligible. When many factors contribute to the disease, as for
+Campylobacter infection, we may also miss interaction or confounding variables for which the analysis cannot account. We
+also need to be cautious regarding the external validity of our
+
+
+
+1484
+
+●
+
+JID 2008:197 (15 May)
+
+●
+
+Gallay et al.
+
+30. Hérau V. Risque sanitaires microbiologiques lié aux effluents
+d’abattoirs: comparaison d’une synthèse bibliographique avec une étude
+de terrain. Toulouse, France: Thèse-Université Paul Sabatier, 2003.
+31. Agence Française de Sécurité Sanitaire des Aliments. Appréciation des
+risques alimentaires liés aux campylobacters: application au couple poulet/Campylobacter jejuni. Available at: http://www.afssa.fr/Documents/
+MIC-Ra-campylobacter.pdf. Accessed 14 March 2008.
+32. Kapperud G, Espeland G, Wahl E, et al. Factors associated with increased
+and decreased risk of Campylobacter infection: a prospective casecontrol study in Norway. Am J Epidemiol 2003; 158:234 – 42.
+33. Cameron S, Ried K, Worsley A, Topping D. Consumption of foods by
+young children with diagnosed Campylobacter infection—a pilot casecontrol study. Public Health Nutr 2004; 7:85–9.
+34. Potter RC, Kaneene JB, Hall WN. Risk factors for sporadic Campylobacter jejuni infections in rural Michigan: a prospective case-control
+study. Am J Public Health 2003; 93:2118 –23.
+35. Carrique-Mas J, Andersson Y, Hjertqvist M, Svensson A, Torner A,
+Giesecke J. Risk factors for domestic sporadic campylobacteriosis
+among young children in Sweden. Scand J Infect Dis 2005; 37:101–10.
+36. Agence Française de Sécurité Sanitaire des Aliments. Farm 2003-2004
+French antibiotic resistance monitoring in bacteria of animal origin.
+Available at: http://www.afssa.fr/Documents/SANT-Ra-FARM.pdf. Accessed 14 March 2008.
+37. Moore JE, Barton MD, Blair IS, et al. The epidemiology of antibiotic
+resistance in Campylobacter. Microbes Infect 2006; 8:1955– 66.
+38. Swift L, Hunter PR. What do negative associations between potential
+risk factors and illness in analytical epidemiological studies of infectious
+disease really mean? Eur J Epidemiol 2004; 19:219 –23.
+39. Cowden J. Campylobacter: epidemiological paradoxes. BMJ 1992; 305:
+132–3.
+40. Black RE, Levine MM, Clements ML, Hughes TP, Blaser MJ. Experimental Campylobacter jejuni infection in humans. J Infect Dis 1988; 157:
+472–9.
+41. Delarocque-Astagneau E, Desenclos JC, Bouvet P, Grimont PA. Risk
+factors for the occurrence of sporadic Salmonella enterica serotype enteritidis infections in children in France: a national case-control study.
+Epidemiol Infect 1998; 121:561–7.
+42. Ethelberg S, Olsen KE, Gerner-Smidt P, Mølbak K. Household outbreaks among culture-confirmed cases of bacterial gastrointestinal disease. Am J Epidemiol 2004; 159:406 –12.
+43. Hakanen A, Jousimies-Somer H, Siitonen A, Huovinen P, Kotilainen P.
+Fluoroquinolone resistance in Campylobacter jejuni isolates in travelers
+returning to Finland: association of ciprofloxacin resistance to travel
+destination. Emerg Infect Dis 2003; 9:267–70.
+44. Ekdahl K, Giesecke J. Travellers returning to Sweden as sentinels for
+comparative disease incidence in other European countries, campylobacter and giardia infection as examples. Euro Surveill 2004; 9:6 –9.
+45. Smith KE, Besser JM, Hedberg CW, et al. Quinolone-resistant Campylobacter jejuni infections in Minnesota, 1992–1998. Investigation Team.
+N Engl J Med 1999; 340:1525–32.
+46. Effler P, Ieong MC, Kimura A, et al. Sporadic Campylobacter jejuni infections in Hawaii: associations with prior antibiotic use and commercially prepared chicken. J Infect Dis 2001; 183:1152–5.
+47. Vach W, Blettner M. Biased estimation of the odds ratio in case-control
+studies due to the use of ad hoc methods of correcting for missing values
+for confounding variables. Am J Epidemiol 1991; 134:895–907.
+48. Chavance M, Manfredi R. Modeling incomplete observations [in
+French]. Rev Epidemiol Sante Publique 2000; 48:389 – 400.
+
+Downloaded from jid.oxfordjournals.org at UIC Library, Collections Development on August 9, 2011
+
+12. Rodrigues LC, Cowden JM, Wheeler JG, et al. The study of infectious
+intestinal disease in England: risk factors for cases of infectious intestinal
+disease with Campylobacter jejuni infection. Epidemiol Infect 2001; 127:
+185–93.
+13. Tenkate TD, Stafford RJ. Risk factors for campylobacter infection in
+infants and young children: a matched case-control study. Epidemiol
+Infect 2001; 127:399 – 404.
+14. Adak GK, Cowden JM, Nicholas S, Evans HS. The Public Health Laboratory Service national case-control study of primary indigenous sporadic cases of campylobacter infection. Epidemiol Infect 1995; 115:15–
+22.
+15. Scott DA, Tribble DR. Protection against Campylobacter infection and
+vaccine development. In: Nachamkin I, Blaser MJ, eds. Campylobacter.
+2nd ed. ASM Press, 2000:303– 48.
+16. Frost JA, Gillespie IA, O’Brien SJ. Public health implications of Campylobacter outbreaks in England and Wales, 1995–9: epidemiological and
+microbiological investigations. Epidemiol Infect 2002; 128:111– 8.
+17. Kirk M, Waddell R, Dalton C, Creaser A, Rose N. A prolonged outbreak
+of Campylobacter infection at a training facility. Commun Dis Intell
+1997; 21:57– 61.
+18. Mazick A, Ethelberg S, Nielsen EM, Mølbak K, Lisby M. An outbreak of
+Campylobacter jejuni associated with consumption of chicken, Copenhagen, 2005. Euro Surveill 2006; 11:137–9.
+19. Gallay A, de Valk H, Cournot M, Ladeuil B, et al. A large multi-pathogen
+waterborne community outbreak linked to faecal contamination of a
+groundwater system, France, 2000. Clin Microbiol Infect 2006; 12:561–
+70.
+20. Engberg J, Aarestrup FM, Taylor DE, Gerner-Smidt P, Nachamkin I.
+Quinolone and macrolide resistance in Campylobacter jejuni and C. coli:
+resistance mechanisms and trends in human isolates. Emerg Infect Dis
+2001; 7:24 –34.
+21. Luber P, Wagner J, Hahn H, Bartelt E. Antimicrobial resistance in
+Campylobacter jejuni and Campylobacter coli strains isolated in 1991 and
+2001–2002 from poultry and humans in Berlin, Germany. Antimicrob
+Agents Chemother 2003; 47:3825–30.
+22. Gupta A, Nelson JM, Barrett TJ, et al. Antimicrobial resistance among
+Campylobacter strains, United States, 1997–2001. Emerg Infect Dis
+2004; 10:1102–9.
+23. Vaillant V, de Valk H, Baron E, et al. Foodborne infections in France.
+Foodborne Pathog Dis 2005; 2:221–32.
+24. Gallay A, Simon F, Mégraud F. Surveillance of human Campylobacter
+infections in France—part 2—implementation of national surveillance.
+Euro Surveill 2003; 8:218.
+25. Société Française de Microbiologie (SFMG). Recommendations du Comite de l’Antibiogramme de la Société Française de Microbiologie.
+Available at: http://www.sfm.asso.fr/nouv/general.php?pa⫽2. Accessed
+January 2005.
+26. Rubin DB. Multiple imputation after 18⫹ years. Am Stat Assoc 1996;
+91:473– 89.
+27. Royston P. Multiple imputation of missing values: update. Stata Journal
+2005; 5:188 –201.
+28. Fullerton KE, Ingram LA, Jones TF, et al. Sporadic campylobacter infection in infants a population-based surveillance case-control study. Pediatr Infect Dis J 2007; 26:19 –24.
+29. Office National Interprofessionnel des Viandes. Consommation des
+produits carnés en 2003. Available at: http://www.office-elevage.fr/
+publications/cahier/conso03/conso03.htm. Accessed 14 March 2008.
+
+

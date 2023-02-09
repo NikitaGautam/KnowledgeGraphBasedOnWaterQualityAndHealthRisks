@@ -1,0 +1,1803 @@
+ORIGINAL ARTICLE
+
+Fecal Indicators in Sand, Sand Contact, and Risk of Enteric
+Illness Among Beachgoers
+Christopher D. Heaney,a,b Elizabeth Sams,b Alfred P. Dufour,c Kristen P. Brenner,c
+Richard A. Haugland,d Eunice Chern,c Steve Wing,a Stephen Marshall,a David C. Love,d Marc Serre,e
+Rachel Noble,e and Timothy J. Wadeb
+Background: Beach sand can harbor fecal indicator organisms and
+pathogens, but enteric illness risk associated with sand contact
+remains unclear.
+Methods: In 2007, visitors at 2 recreational marine beaches were
+asked on the day of their visit about sand contact. Ten to 12 days
+later, participants answered questions about health symptoms since
+the visit. F⫹ coliphage, Enterococcus, Bacteroidales, fecal Bacteroides, and Clostridium spp. in wet sand were measured using
+culture and molecular methods.
+Results: We analyzed 144 wet sand samples and completed 4999
+interviews. Adjusted odds ratios (aORs) were computed, comparing
+those in the highest tertile of fecal indicator exposure with those who
+reported no sand contact. Among those digging in sand compared
+with those not digging in sand, a molecular measure of Enterococcus
+spp. (calibrator cell equivalents/g) in sand was positively associated
+with gastrointestinal (GI) illness (aOR ⫽ 2.0 关95% confidence
+interval (CI) ⫽ 1.2–3.2兴) and diarrhea (2.4 关1.4 – 4.2兴). Among those
+buried in sand, point estimates were greater for GI illness (3.3
+关1.3–7.9兴) and diarrhea (4.9 关1.8 –13兴). Positive associations were
+also observed for culture-based Enterococcus (colony-forming
+units/g) with GI illness (aOR digging ⫽ 1.7 关1.1–2.7兴) and diarrhea
+
+Submitted 4 April 2011; accepted 18 August 2011.
+From the aDepartment of Epidemiology, University of North Carolina at Chapel
+Hill, Chapel Hill, NC; bEpidemiology Branch, Environmental Public Health
+Division, National Health and Environmental Effects Research Laboratory,
+United States Environmental Protection Agency, Research Triangle Park,
+NC; cNational Exposure Research Laboratory, United States Environmental
+Protection Agency, Cincinnati, OH; dDepartment of Environmental Health
+Sciences, Johns Hopkins University, Baltimore, Maryland; and eDepartment
+of Environmental Sciences and Engineering, University of North Carolina at
+Chapel Hill, Chapel Hill, NC.
+Supported by US Environmental Protection Agency Cooperative Training in
+Environmental Sciences Research EPA CR83323601; National Institute
+of Environmental Health Sciences Environmental Epidemiology Training Grant (T32 ES007018), UNC Department of Biostatistics; Kellogg
+Health Scholars Program–Community Track, UNC Center for Health
+Promotion and Disease Prevention. The authors reported no other financial interests related to this research.
+This document has been subjected to review by the National Health and
+Environmental Effects Research Laboratory and approved for publication. Approval does not signify that the contents reflect the views of the
+Environmental Protection Agency.
+Correspondence: Christopher D. Heaney, Department of Environmental
+Health Sciences, Johns Hopkins University, Baltimore, MD 21205.
+E-mail: cheaney@jhsph.edu.
+Copyright © 2011 by Lippincott Williams & Wilkins
+ISSN: 1044-3983/12/2301-0095
+DOI: 10.1097/EDE.0b013e31823b504c
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+(2.1 关1.3–3.4兴). Associations were not found among nonswimmers
+with sand exposure.
+Conclusions: We observed a positive relationship between sandcontact activities and enteric illness as a function of concentrations
+of fecal microbial pollution in beach sand.
+(Epidemiology 2012;23: 95–106)
+
+H
+
+igh densities of Escherichia coli, Enterococcus, and
+other microbial indicators of fecal pollution are present
+in beach sand, sometimes in higher concentrations than in
+nearby bathing waters.1– 6 Halliday and Gast7 reviewed studies that measured densities of E. coli and Enterococcus—
+fecal indicator bacteria used to indicate the degree of fecal
+contamination at recreational beaches across the United
+States—and found that fecal indicator bacteria density in sand
+was 2 to 38 times higher than in water. Fecal indicator
+bacteria such as E. coli and Enterococcus indicate the potential presence of pathogenic microorganisms. Although the
+density of E. coli and Enterococcus in water has been shown
+to predict gastrointestinal (GI) illness among swimmers,8 the
+illness risks associated with fecal pollution in beach sand
+remain unclear. Whitman et al9 demonstrated potential for
+hand-to-mouth transfer and exposure to E. coli and the fecal
+indicator virus F⫹ coliphage (MS2) among persons in contact
+with beach sand at a Chicago, IL, beach. In addition to fecal
+indicator organisms, enteric pathogens have been detected in
+beach sand.4,10 –14 Factors influencing the level of fecal contamination of beach sands are numerous; these may include
+publicly owned treatment-works discharges in close proximity to beaches,15,16 nonpoint sources such as agricultural and
+urban runoff, warm-blooded domestic and wild animals,
+bathers,3,4,17 and potential regrowth of autochthonous E. coli
+and Enterococcus in sand.18,19
+The occurrence of fecal indicator organisms in sand has
+led to questions about whether beach sand can transmit illness
+associated with fecal contamination—a matter of increasing
+concern to beach managers, public health officials, and
+beachgoers. Despite knowledge of the presence of fecal
+indicator organisms and pathogens in beach sand, doseresponse relationships between fecal indicator densities in
+www.epidem.com | 95
+
+
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+Heaney et al
+
+sand and specific illnesses have not been well characterized.
+Because the beach-going public may spend more time on the
+beach than in the water, and because young children typically
+spend time at the water’s edge playing in sand, it is important
+to understand the relation of fecal indicator densities in sand
+with the risk of enteric illness.
+Using data from beachgoers participating in the 2007
+trials of the National Epidemiological and Environmental
+Assessment of Recreational water study,20 –22 we explored
+whether increased daily average estimate of fecal indicator
+organisms (F⫹ coliphage, Enterococcus, Bacteroidales, fecal
+Bacteroides, and Clostridium spp.) in wet sand were associated with an increased risk of enteric illness among beachgoers engaged in sand-contact activities.
+
+METHODS
+Study Design/Participant Sampling
+The National Epidemiological and Environmental Assessment of Recreational Water Study evaluated microbial
+water quality and followed cohorts of visitors to freshwater
+and marine beaches in the United States. The data collection
+methods have been described previously.20 –22 In brief, we
+interviewed beachgoers as they arrived and as they were
+leaving the beach regarding their contact with beach sand,
+swimming behaviors, and other beach activities. Ten to 12
+days later, one adult in the household was interviewed by
+telephone about symptoms experienced by participating
+household members. Because of the acute nature and short
+duration of illnesses considered during this study, reenrollment in the study was allowed 28 days after a previous
+enrollment.
+
+Beach Descriptions
+Two recreational marine beach sites with a nearby
+publicly owned treatment-works outfall were chosen for the
+2007 studies. Fairhope Municipal Park Beach is located on
+Mobile Bay in Fairhope, Alabama, and Goddard Memorial
+State Park Beach is located on Greenwich Bay near Warwick,
+Rhode Island. These beaches had publicly owned treatmentworks discharges within 1.5 miles (2.4 km) of the beach
+location.
+
+Beach Sand Collection and Analysis
+Wet beach sand samples were collected at 8:00 AM
+along with water samples each day of the study. Sand samples were collected using a 2.25-inch diameter stainless steel
+soil auger at a distance of 1 meter perpendicular to the lowest
+point of the water level (when the waves receded to their
+lowest point on the shoreline) at the same 3 sampling points
+where water samples were collected on each beach. No dry
+sand samples were collected. Sampling points were located at
+least 60 m apart to encompass the length of the beach. Beach
+sand samples were tested for fecal indicator bacteria Enterococcus, Bacteroidales, fecal Bacteroides (which targets the
+96 | www.epidem.com
+
+most common human Bacteroides spp.), and Clostridium spp.
+using a quantitative polymerase chain reaction (qPCR) calibrator cell equivalent method.23–26 Culture-based tests of Enterococcus were performed by local laboratories within 6 hours
+of collection following EPA Method 160027 with some modifications (eAppendix 1, http://links.lww.com/EDE/A532). Samples for the F⫹ coliphage analysis were sent on ice at 4°C by
+overnight express and processed by a modification28 of EPA
+Method 160129 to accommodate the analysis of sand instead of
+water samples (eAppendix 1, http://links.lww.com/EDE/A532).
+Fecal indicator organism concentrations are reported as qPCR
+calibrator cell equivalents per gram of dry weight sand for
+Enterococcus, Bacteroidales, fecal Bacteroides, and Clostridium spp. Calibrator cell equivalents were calculated according to
+the comparative delta-delta cycle threshold method reported by
+Wade et al.20 Enterococcus measured by EPA Method 160027
+are reported in colony-forming units per gram of dry weight
+sand, and F⫹ coliphage as a most probable number per gram of
+dry weight sand following a modification28 of Method 1601.29
+Results below detection and potential inhibition for qPCR-based
+data were handled as described previously.20
+
+Definition of Sand Contact
+On leaving the beach, participants reported whether
+they had dug in the sand or built sand castles (digging in the
+sand), or had their body buried in the sand during their beach
+visit. Participants also reported whether they got sand in their
+mouth, ate or drank after playing in the sand, and washed
+their hands before eating or drinking after playing in sand.
+Participants were asked to report whether they had contact
+with wet or dry sand. In addition to sand exposures on the day
+of enrollment, participants reported other beach activities
+such as any water contact (swimming), or eating raw meat,
+runny eggs, or shellfish in the 3 days before enrollment.
+
+Health Assessment
+Ten to twelve days following the beach visit, participants were contacted by phone and asked if they had experienced any physical symptoms of enteric illness since the
+day of enrollment. The GI illness definition followed previously published research on waterborne illness20,30 and was
+considered as any of the following: diarrhea (ⱖ3 loose stools
+in a 24-hour period), vomiting, nausea and stomach ache, and
+nausea or stomach ache plus interference with regular activities (missed time from work or school, or missed regular
+activities as a result of the illness). Diarrhea was also considered as a separate outcome. In addition, participants were
+asked about activities since the enrollment-day interview,
+including number of times they went to the same beach, went
+swimming at another beach, went swimming in a pool, or ate
+raw or undercooked foods (eg, red meat, fish, shellfish, eggs).
+
+Statistical Analysis
+Participants with complete data for the exposure (sand
+contact), outcome (enteric illness), and potential confounding
+© 2011 Lippincott Williams & Wilkins
+
+
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+covariates (age, sex, race/ethnicity, swimming status, and beach)
+were included in analyses. Participants with prevalent enteric
+illness at enrollment were excluded from follow-up analyses.
+Logistic regression models were used to estimate odds ratios
+(ORs) and 95% confidence intervals (CIs) for enteric illness (GI
+illness, diarrhea) and associations with beach sand-contact activities and densities of fecal indicators in beach sand.
+Measurements of fecal indicator organism densities in
+beach sand were log10 transformed. Fecal indicator organism
+samples below the lower detection limit were assigned a
+value of one-half the lower detection limit and subsequently
+log10 transformed. We analyzed the daily average of the three
+8:00 AM sand samples collected on each beach as a reflection
+of sand quality each day of the study.
+Because a large proportion of F⫹ coliphage data was
+below the detection limit, we considered only categorical
+classifications involving simple presence/absence and above
+
+Fecal Indicators in Beach Sand and Risk of Enteric Illness
+
+versus below the median concentration (most probable number/g). For fecal indicator bacteria, we evaluated categorical
+classifications of above versus below the median, as well as
+tertiles (colony-forming units/g; calibrator cell equivalents/
+g). Categorical models involved comparisons of those in
+contact with sand on days when a fecal indicator was present
+at a specific average density (eg, highest tertile) with those
+who were not in contact with sand (did not dig; were not
+buried in sand). For these models, the adjusted odds ratio
+(aOR) can be interpreted as the risk (odds) of enteric illness
+(GI illness; diarrhea) among those who dug in the sand on
+days when average sand quality was at a specific level (eg,
+highest tertile) divided by the risk of enteric illness among
+those who did not have contact with sand. Tests of linear
+trend were completed by the ranks of each categorical fecal
+indicator exposure variable in a logistic regression model as
+a linear term.
+
+TABLE 1. Characteristics of Those Who Did or Did Not Dig in the Sand, and Those Who Were
+or Were Not Buried in the Sand
+Digging in the Sand
+
+Characteristic
+Age (years)
+0–4
+5–10
+11–19
+20–54
+55⫹
+Sex
+Male
+Female
+Race/ethnicity
+White
+Black
+Asian
+American Indian
+Hispanic/Latino
+Multiethnic/other
+Conditions in the 3 days prior to the beach visit
+Vomiting
+Diarrhea or loose bowels
+History of chronic GI illness
+Water contact status
+No
+Yes
+Contact with animals 48 hours prior to beach visit or
+between beach visit and phone interview
+Consumption of raw meat 48 hours prior to beach
+visit or between beach visit and phone interview
+Beach
+Fairhope Beach
+Goddard Beach
+
+© 2011 Lippincott Williams & Wilkins
+
+Body Buried in the Sand
+
+No
+(n ⴝ 3586)
+No. (%)
+
+Yes
+(n ⴝ 1362)
+No. (%)
+
+No
+(n ⴝ 4730)
+No. (%)
+
+Yes
+(n ⴝ 218)
+No. (%)
+
+183 (5)
+219 (6)
+356 (10)
+2186 (61)
+642 (18)
+
+287 (21)
+423 (31)
+172 (13)
+435 (32)
+36 (3)
+
+429 (9)
+550 (12)
+507 (11)
+2568 (54)
+676 (14)
+
+50 (23)
+92 (42)
+21 (10)
+53 (24)
+2 (⬍1)
+
+1505 (42)
+2081 (58)
+
+603 (44)
+759 (56)
+
+2009 (42)
+2721 (58)
+
+99 (45)
+119 (55)
+
+2315 (65)
+468 (13)
+60 (2)
+7 (⬍1)
+636 (18)
+100 (3)
+
+870 (64)
+222 (16)
+24 (2)
+5 (⬍1)
+186 (14)
+55 (4)
+
+3061 (65)
+654 (14)
+82 (2)
+9 (⬍1)
+778 (16)
+146 (4)
+
+124 (57)
+36 (17)
+2 (1)
+3 (1)
+44 (20)
+9 (4)
+
+50 (1)
+102 (3)
+124 (3)
+
+24 (2)
+33 (2)
+21 (2)
+
+69 (1)
+131 (3)
+145 (3)
+
+5 (2)
+4 (2)
+0 (0)
+
+2154 (60)
+1432 (40)
+2192 (61)
+
+257 (19)
+1105 (81)
+970 (71)
+
+2387 (50)
+2343 (50)
+3011 (64)
+
+24 (11)
+194 (89)
+151 (69)
+
+508 (14)
+
+113 (8)
+
+607 (13)
+
+14 (6)
+
+1249 (35)
+2337 (65)
+
+766 (56)
+596 (44)
+
+1905 (40)
+2825 (60)
+
+110 (50)
+108 (49)
+
+www.epidem.com | 97
+
+
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+Heaney et al
+
+To evaluate the impact of multiple fecal indicators in
+sand, we created an index variable defined as the number of
+fecal indicators present in sand at each of the 3 sample
+locations. The potential range of this fecal indicator index
+variable was from 0 to 18 and was examined in tertiles. This
+variable was created as an alternative method to describe the
+burden of fecal contamination in the sand.
+Robust variance estimates were used to account for the
+nonindependence of observations within household.31,32 We
+considered covariates strongly associated with beach sand
+contact and illness, or those regarded by investigators to be
+potential confounding factors, for inclusion in regression
+models. Information on other covariates was collected for the
+larger study (eg, contact with animals, contact with other
+persons with diarrhea, number of other visits to the beach,
+asthma, chronic GI illnesses, eating any food or drink while
+at the beach, eating raw or undercooked meats, shellfish, and
+fish). If there was a substantial difference between fully
+adjusted and reduced model results, we used a backward
+elimination approach. For each analysis, the set of covariates
+was reduced through a change-in-estimate procedure.33 Adjusted odds ratio (full 关aORfull兴 and reduced 关aORreduced兴)
+
+values were compared by using the formula: ln aORfull/
+aORreduced ⫻ 100. A criterion of 5% change was used; results
+from fully adjusted models are presented if the reduced model
+resulted in a change in estimate of greater than 5%. At a
+minimum, age, sex, race/ethnicity, swimming (defined as any
+contact with water which includes wading, body immersion,
+head immersion, and swallowing water), and beach were
+included in all models. Data management was completed
+using SAS version 9 (SAS Institute Inc., Cary, NC), and
+statistical analyses were completed using Stata version 11
+(StataCorp LP, College Station, TX).
+
+RESULTS
+A total of 7041 beachgoers were offered enrollment. Of
+these, 1280 (18%) declined to participate. Of those who
+agreed to participate, 4999 (87%) completed the telephone
+interview 10 to 12 days after visiting the beach and were
+eligible for analysis. Of these interviews, 4948 (99%) respondents provided complete information on age, sex, race/ethnicity, contact with beach sand, and any swimming.
+Respondents at the 2 beaches differed by age, race/
+ethnicity (defined as white/nonwhite), miles traveled to the
+
+TABLE 2. Relation of F⫹ Coliphage in Sand With GI Illness and Diarrhea by Status of Sand
+Contact and by Categorical Classification
+GI Illness
+a
+
+No. (%)
+Digging in sand
+Not diggingd
+Digging
+F⫹ coliphage
+Absent
+Present
+Test for trende
+ⱕ Median (0.014 MPN/gf)
+⬎ Median
+Test for trende
+Buried in sand
+Not buriedd
+Buried
+F⫹ coliphage
+Absent
+Present
+Test for trende
+ⱕ Median (0.014 MPN/gf)
+⬎ Median (0.014 MPN/gf)
+Test for trende
+
+142 (5)
+
+57 (9)
+26 (8)
+72 (9)
+11 (8)
+
+208 (6)
+
+9 (8)
+8 (16)
+14 (10)
+3 (30)
+
+Diarrhea
+b
+
+aOR (95% CI)
+(n ⫽ 3835)c
+1.00
+
+1.57 (1.04–2.39)
+1.19 (0.69–2.06)
+P ⫽ 0.17
+1.51 (1.04–2.20)
+1.03 (0.43–2.50)
+P ⫽ 0.17
+(n ⫽ 3838)c
+1.00
+
+1.39 (0.63–3.09)
+2.29 (0.74–7.07)
+P ⫽ 0.11
+1.52 (0.76–3.05)
+4.20 (0.34, 51.1)
+P ⫽ 0.12
+
+a
+
+No. (%)
+
+aOR (95% CI)b
+(n ⫽ 3864)c
+1.00
+
+86 (3)
+
+38 (6)
+19 (6)
+
+1.81 (1.12–2.93)
+1.43 (0.75–2.71)
+P ⫽ 0.07
+1.72 (1.12–2.65)
+1.43 (0.55–3.73)
+P ⫽ 0.05
+(n ⫽ 3867)c
+1.00
+
+48 (6)
+9 (7)
+
+130 (4)
+
+6 (6)
+7 (14)
+10 (6)
+3 (30)
+
+1.51 (0.56–4.05)
+3.32 (0.94–11.7)
+P ⫽ 0.05
+1.78 (0.74–4.29)
+6.99 (0.60–81.3)
+P ⫽ 0.06
+
+aOR estimated from logistic regression model adjusted for age, sex, race/ethnicity, beach, and any contact swimming.
+a
+The numbers are participants reporting new symptoms, among those without baseline symptoms.
+b
+Robust variance estimates clustering on household.
+c
+The numbers are participants with complete information on age, sex, race/ethnicity, beach, and any contact swimming, among those
+without baseline symptoms.
+d
+Reference category.
+e
+P value from a linear trend test across the non-sand-exposed to the highest sand-exposed category.
+f
+MPN/g indicates most probable number per gram of dry weight sand.
+
+98 | www.epidem.com
+
+© 2011 Lippincott Williams & Wilkins
+
+
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+Fecal Indicators in Beach Sand and Risk of Enteric Illness
+
+beach, and proportion of persons who reported contact with
+sand (Table 1). Overall, respondents were 64% white and
+57% female, with a median age of 30 years. Factors associated with sand contact have been described previously.34
+Similar to previous observations,34 those who dug in the sand
+were younger than those who did not (median age, 10 and 36
+years, respectively), but at baseline, similar proportions of
+both groups reported vomiting and other GI symptoms (Table
+1). Digging in the sand was strongly associated with swimming, as 81% of swimmers reported digging in the sand
+compared with only 19% of nonswimmers. This large difference in the proportion of persons who swam was also seen for
+those buried and not buried in the sand (Table 1). Participants
+at Fairhope Beach were more likely to have reported digging
+in the sand (766/2015; 38%) and being buried in the sand
+(5%) (Table 1).
+The frequency of detection and densities of fecal indicators in sand at Fairhope Beach and Goddard Beach are summarized in eAppendix 2 (http://links.lww.com/EDE/A533). The
+detection of fecal indicators in sand ranged from 100% for
+
+qPCR-based Clostridium spp. to 87% for qPCR-based Enterococcus, 72% for culture-based Enterococcus, 68% for qPCRbased fecal Bacteroides spp., 53% for qPCR-based Bacteroidales, and 17% for culture-based F⫹ coliphage (eAppendix 2).
+We did not observe spatial variability in fecal indicator measures
+in sand.
+
+Relationships Among Sand Contact, Measures
+of Fecal Indicators in Sand, and Enteric Illness
+The incidence of GI illness and diarrhea was 6.3% and
+4.2%, respectively, during the 10 –12-day follow-up period. GI
+illness and diarrhea incidence was highest among children
+younger than 5 years (9.5% and 5.2%, respectively) and lowest
+among those aged 55 and older (5.5% and 4.3%, respectively).
+Because there were few days when F⫹ coliphage was
+present in sand (17% of samples positive), we examined only
+presence versus absence and above versus below the median
+value of samples with results above the detection limit (Table
+2). There was no increase in risk of GI illness or diarrhea
+among those digging in sand when F⫹ coliphage was
+
+TABLE 3. Relation of Enterococcus (Colony Forming units/g) in Sand With GI Illness and Diarrhea
+by Status of Sand Contact and by Categorical Classification
+GI Illness
+a
+
+No. (%)
+Digging in sand
+Not diggingd
+Digging
+Enterococcus
+⬍ Median 13 CFU/ge
+ⱖ Median 13 CFU/ge
+Test for trendf
+Tertile 1: ⱖ0–5 CFU/ge
+Tertile 2: 5–27 CFU/ge
+Tertile 3: ⬎27 CFU/ge
+Test for trendf
+Buried in sand
+Not buriedd
+Buried
+Enterococcus
+⬍ Median of 13 CFU/ge
+ⱖ Median of 13 CFU/ge
+Test for trendf
+Tertile 1: ⱖ0–5 CFU/ge
+Tertile 2: ⬎5–27 CFU/ge
+Tertile 3: ⬎27 CFU/ge
+Test for trendf
+
+182 (5)
+
+47 (7)
+65 (11)
+28 (7)
+41 (9)
+43 (11)
+
+274 (6)
+
+9 (7)
+11 (15)
+6 (8)
+6 (8)
+8 (14)
+
+Diarrhea
+b
+
+aOR (95% CI)
+(n ⫽ 4672)c
+1.00
+
+1.21 (0.82–1.77)
+1.65 (1.10–2.47)
+P ⫽ 0.02
+1.30 (0.81–2.10)
+1.26 (0.79–2.02)
+1.74 (1.11–2.72)
+P ⫽ 0.01
+(n ⫽ 4675)c
+1.00
+
+0.95 (0.47–1.90)
+2.18 (0.85–5.60)
+P ⫽ 0.18
+1.32 (0.54–3.22)
+1.04 (0.33–3.33)
+1.87 (0.68–5.16)
+P ⫽ 0.18
+
+a
+
+No. (%)
+
+115 (3)
+
+30 (4)
+51 (8)
+16 (4)
+33 (7)
+32 (8)
+
+181 (4)
+
+6 (4)
+9 (13)
+4 (5)
+5 (7)
+6 (10)
+
+aOR (95% CI)b
+(n ⫽ 4706)c
+1.00
+
+1.26 (0.80–1.99)
+2.06 (1.33–3.18)
+P ⫽ 0.001
+1.22 (0.68–2.19)
+1.64 (0.98–2.74
+2.07 (1.27–3.38
+P ⫽ 0.002
+(n ⫽ 4709)c
+1.00
+
+0.98 (0.42–2.29)
+2.61 (0.87–7.89)
+P ⫽ 0.14
+1.40 (0.49–4.06)
+1.31 (0.34–4.99)
+2.06 (0.58–7.32)
+P ⫽ 0.23
+
+aOR estimated from logistic regression model adjusted for age, sex, race/ethnicity, beach, and any contact swimming.
+a
+The numbers are participants reporting new symptoms, among those without baseline symptoms.
+b
+Robust variance estimates clustering on household.
+c
+The numbers are participants with complete information on age, sex, race/ethnicity, beach, and any contact swimming, among those
+without baseline symptoms.
+d
+Reference category.
+e
+CFU/g indicates colony forming units per gram of dry weight sand.
+f
+P value from a linear trend test across the non-sand-exposed to the highest sand-exposed category.
+
+© 2011 Lippincott Williams & Wilkins
+
+www.epidem.com | 99
+
+
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+Heaney et al
+
+TABLE 4. Relation of Enterococcus (Calibrator Cell equivalents/g) in Sand With GI Illness and
+Diarrhea by Status of Sand Contact and by Categorical Classification
+GI Illness
+a
+
+No. (%)
+Digging in sand
+Not diggingd
+Digging
+Enterococcus
+⬍ Median 156 CCE/ge
+ⱖ Median 156 CCE/ge
+Test for trendf
+Tertile 1: ⱖ0–107 CCE/ge
+Tertile 2: ⬎107–324 CCE/ge
+Tertile 3: ⬎324 CEE/gd
+Test for trendf
+Buried in sand
+Not buriedd
+Buried
+Enterococcus
+⬍ Median 156 CCE/ge
+ⱖ Median 156 CCE/ge
+Test for trendf
+Tertile 1: ⱖ0–107 CCE/ge
+Tertile 2: ⬎107–324 CCE/ge
+Tertile 3: ⬎324 CEE/gd
+Test for trendf
+
+174 (5)
+
+Diarrhea
+b
+
+aOR (95% CI)
+(n ⫽ 4331)c
+1.00
+
+47 (7)
+54 (11)
+
+1.12 (0.75–1.68)
+1.67 (1.10–2.55)
+P ⫽ 0.02
+36 (9)
+1.15 (0.70–1.86)
+28 (7)
+1.12 (0.67–1.89)
+37 (11)
+1.98 (1.23–3.19)
+P ⫽ 0.02
+(n ⫽ 4334)c
+256 (6)
+1.00
+
+7 (7)
+12 (15)
+4 (7)
+4 (6)
+11 (18)
+
+0.91 (0.41–2.02)
+2.32 (0.97–5.52)
+P ⫽ 0.11
+0.74 (0.27–2.04)
+0.95 (0.33–2.79)
+3.25 (1.33–7.92)
+P ⫽ 0.06
+
+a
+
+No. (%)
+
+aOR (95% CI)b
+(n ⫽ 4364)c
+1.00
+
+110 (3)
+
+32 (5)
+39 (8)
+
+1.27 (0.78–2.06)
+1.96 (1.23–3.12)
+P ⫽ 0.005
+1.39 (0.80–2.40)
+1.13 (0.61–2.09)
+2.44 (1.41–4.22)
+P ⫽ 0.006
+(n ⫽ 4367)c
+1.00
+
+27 (7)
+17 (4)
+27 (8)
+
+167 (4)
+
+3 (3)
+11 (14)
+2 (3)
+2 (3)
+10 (16)
+
+0.61 (0.19–1.97)
+3.43 (1.32–8.90)
+P ⫽ 0.05
+0.57 (0.14–2.31)
+0.77 (0.18–3.22)
+4.90 (1.79–13.4)
+P ⫽ 0.03
+
+aOR estimated from logistic regression model adjusted for age, sex, race/ethnicity, beach, and any contact swimming.
+a
+The numbers are participants reporting new symptoms, among those without baseline symptoms.
+b
+Robust variance estimates clustering on household.
+c
+The numbers are participants with complete information on age, sex, race/ethnicity, beach, and any contact swimming, among those
+without baseline symptoms.
+d
+Reference category.
+e
+CCE/g indicates qPCR calibrator cell equivalents per gram of dry weight sand.
+f
+P value from a linear trend test across the non-sand-exposed to the highest sand-exposed category.
+
+present (Table 2). Among those buried in sand, 14% (7/50)
+had diarrhea when F⫹ coliphage was present compared
+with 4% (130/3709) among those who were not buried in
+sand, and there was some evidence of an increasing trend
+of aORs across exposure categories (Table 2). However,
+due to small numbers of cases, overall results were not
+suggestive of a consistent association of F⫹ coliphage with
+the sand exposures considered and GI illness and diarrhea
+(Table 2).
+Enterococcus measured by Method 1600 (colony-forming units/g) showed positive associations with GI illness and
+diarrhea among those digging in the sand, and associations
+among those buried in the sand were stronger. Compared
+with people who did not dig in sand, the aORs of illness
+among people who reported digging in sand with Enterococcus levels in the highest tertile were 1.74 (95% CI ⫽ 1.11–
+2.72) for GI illness and 2.07 (95% CI ⫽ 1.27–3.38) for
+diarrhea (Table 3). Similar associations (but less precise)
+were observed for GI illness and diarrhea among people
+buried in sand (Table 3). There was a trend of increasing risk
+100 | www.epidem.com
+
+for Enterococcus colony-forming units/g in sand (assessed as
+above vs. below the median or in tertiles) with enteric
+illnesses among both sand-exposure groups; however, the
+increase in aORs was not monotonic (Table 3).
+Enterococcus measured in sand by a rapid molecular
+method (calibrator cell equivalents/g) was also associated
+with GI illness and diarrhea (Table 4). The aORs of illness
+among people who reported digging in sand with Enterococcus in the highest tertile were 1.98 (1.23–3.19) for GI illness
+and 2.44 (1.41– 4.22) for diarrhea compared with people who
+did not dig in sand (Table 4). The aORs of GI illness and
+diarrhea among people buried in sand with the highest tertile
+of Enterococcus were 3.25 (1.33–7.92) and 4.90 (1.79 –13.4),
+respectively, compared with people who reported not being
+buried in sand (Table 4). The lower precision of aORs for
+being buried in the sand reflects smaller numbers of participants with that exposure. There was a trend of increasing
+Enterococcus calibrator cell equivalents/g in sand (above vs.
+below the median and tertiles) with both enteric illnesses
+among both sand-exposure groups (Table 4).
+© 2011 Lippincott Williams & Wilkins
+
+
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+Fecal Indicators in Beach Sand and Risk of Enteric Illness
+
+TABLE 5. Relation of Bacteroidales in Sand With Enteric Illness by Status of Sand Contact and by
+Categorical Classification
+GI Illness
+a
+
+No. (%)
+Digging in sand
+Not diggingd
+Digging
+Bacteroidales
+⬍ Median 165 CCE/ge
+ⱖ Median 165 CCE/ge
+Test for trendf
+Tertile 1: ⱖ0–54 CCE/ge
+Tertile 2: ⬎54–390 CCE/ge
+Tertile 3: ⬎390 CEE/ge
+Test for trendf
+Buried in sand
+Not buriedd
+Buried
+Bacteroidales
+⬍ Median 165 CCE/ge
+ⱖ Median 165 CCE/ge
+Test for trendf
+Tertile 1: ⱖ0–54 CCE/ge
+Tertile 2: ⬎54–390 CCE/ge
+Tertile 3: ⬎390 CEE/ge
+Test for trendf
+
+174 (5)
+
+Diarrhea
+b
+
+aOR (95% CI)
+(n ⫽ 4331)c
+1.00
+
+49 (8)
+52 (10)
+
+1.23 (0.83–1.82)
+1.51 (0.98–2.33)
+P ⫽ 0.06
+39 (10)
+1.38 (0.88–2.16)
+27 (7)
+1.21 (0.72–2.02)
+35 (10)
+1.48 (0.88–2.47)
+P ⫽ 0.12
+(n ⫽ 4334)c
+256 (6)
+1.00
+
+6 (6)
+13 (17)
+2 (3)
+9 (16)
+8 (13)
+
+0.77 (0.33–1.79)
+2.55 (1.10–5.90)
+P ⫽ 0.09
+0.37 (0.09–1.44)
+2.63 (1.05–6.57)
+1.94 (0.71–5.29)
+P ⫽ 0.07
+
+a
+
+No. (%)
+
+110 (3)
+
+32 (5)
+39 (7)
+27 (7)
+19 (5)
+25 (7)
+
+167 (4)
+
+3 (3)
+11 (14)
+1 (2)
+6 (10)
+7 (11)
+
+aOR (95% CI)b
+(n ⫽ 4364)c
+1.00
+
+1.32 (0.84–2.06)
+1.86 (1.14–3.05)
+P ⫽ 0.01
+1.53 (0.92–2.54)
+1.45 (0.78–2.68)
+1.73 (0.97–3.07)
+P ⫽ 0.04
+(n ⫽ 4367)c
+1.00
+
+0.61 (0.19–1.96)
+3.44 (1.31–9.04)
+P ⫽ 0.05
+0.30 (0.04–2.12)
+2.72 (0.85–8.70)
+2.75 (0.88–8.63)
+P ⫽ 0.05
+
+aOR estimated from logistic regression model adjusted for age, sex, race/ethnicity, beach, and any contact swimming.
+a
+The numbers are participants reporting new symptoms, among those without baseline symptoms.
+b
+Robust variance estimates clustering on household.
+c
+The numbers are participants with complete information on age, sex, race/ethnicity, beach, and any contact swimming, among those
+without baseline symptoms.
+d
+Reference category.
+e
+CCE/g indicates qPCR calibrator cell equivalents per gram of dry weight sand.
+f
+P value from a linear trend test across the non-sand-exposed to the highest sand-exposed category.
+
+Positive associations were observed between Bacteroidales with GI illness and diarrhea for each of the sand exposures
+(Table 5). Positive associations were observed between Bacteroidales and diarrhea for the above versus below the median for
+both digging in the sand (1.86 关1.14 –3.05兴) and being buried in
+sand (3.44 关1.31–9.04兴). Positive associations of Bacteroidales
+tertiles with diarrhea were also observed for both sand-contact
+groups, although numbers of events in some Bacteroidales
+tertiles were small (Table 5). There was a trend of increasing
+Bacteroidales calibrator cell equivalents/g in sand (above vs.
+below the median and tertiles) with diarrhea, among both sandexposure groups (Table 5).
+We observed less consistent relationships of fecal Bacteroides with illness among both sand-contact groups (Table
+6). With one exception, all comparisons of fecal Bacteroides
+in sand at densities above the median value showed smaller
+aORs than for densities below the median value (Table 6).
+Adjusted ORs for fecal Bacteroides tended to be higher in the
+middle than in the highest tertiles (Table 6).
+© 2011 Lippincott Williams & Wilkins
+
+We also observed inconsistent relationships of Clostridium spp. estimates (calibrator cell equivalents/g) in sand
+with GI illness and diarrhea among both sand-contact groups
+(Table 7). Overall, categorical comparisons of Clostridium
+spp. density (median and tertiles) showed smaller point estimates at the higher Clostridium spp. density categories compared with lower density categories (Table 7).
+A composite index variable suggested that a larger
+number of fecal indicators in sand was positively associated
+with GI illness and diarrhea. There was some evidence of an
+increasing trend of aORs across fecal-index tertiles, particularly for digging in sand and diarrhea (Table 8).
+The fecal indicator-enteric illness associations were also
+present among the subset of people who reported getting sand in
+their mouth. Among this group, 16% (14/90) had GI illness
+symptoms when Enterococcus (measured as calibrator cell
+equivalents/g) was in the highest tertile compared with 6%
+(242/4074) among those who did not get sand in their mouth
+(data not shown); the aOR was 2.53 (95% CI ⫽ 1.27–5.04).
+www.epidem.com | 101
+
+
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+Heaney et al
+
+TABLE 6. Relation of Fecal Bacteroides in Sand With Enteric Illness by Status of Sand Contact and
+by Categorical Classification
+GI Illness
+a
+
+No. (%)
+Digging in sand
+Not diggingd
+Digging
+Fecal Bacteroides
+⬍ Median 563 CCE/ge
+ⱖ Median 563 CCE/ge
+Test for trendf
+Tertile 1: ⱖ0–89 CCE/ge
+Tertile 2: ⬎89–1088 CCE/ge
+Tertile 3: ⬎1088 CEE/ge
+Test for trendf
+Buried in sand
+Not buriedd
+⬍ Median 563 CCE/ge
+ⱖ Median 563 CCE/ge
+Test for trendf
+Tertile 1: ⱖ0–89 CCE/ge
+Tertile 2: ⬎89–1088 CCE/ge
+Tertile 3: ⬎1088 CEE/ge
+Test for trendf
+
+174 (5)
+
+61 (9)
+40 (8)
+37 (8)
+39 (12)
+25 (7)
+
+256 (6)
+12 (11)
+7 (10)
+5 (7)
+7 (13)
+7 (12)
+
+Diarrhea
+b
+
+aOR (95% CI)
+(n ⫽ 4331)c
+1.00
+
+1.40 (0.96–2.06)
+1.29 (0.81–2.04)
+P ⫽ 0.15
+1.07 (0.67–1.69)
+2.11 (1.33–3.36)
+1.08 (0.63–1.84)
+P ⫽ 0.09
+(n ⫽ 4334)c
+1.00
+1.55 (0.72–3.33)
+1.38 (0.47–4.04)
+P ⫽ 0.30
+0.90 (0.35–2.36)
+2.12 (0.77–5.85)
+1.71 (0.58–5.11)
+P ⫽ 0.16
+
+a
+
+No. (%)
+
+110 (3)
+
+aOR (95% CI)b
+(n ⫽ 4364)c
+1.00
+
+43 (7)
+28 (6)
+
+1.62 (1.04–2.51)
+1.49 (0.89–2.51)
+P ⫽ 0.05
+26 (6)
+1.23 (0.74–2.03)
+26 (8)
+2.27 (1.33–3.90)
+19 (6)
+1.40 (0.74–2.63)
+P ⫽ 0.03
+(n ⫽ 4367)c
+167 (4)
+1.00
+7 (6)
+1.40 (0.46–4.29)
+7 (10)
+2.29 (0.78–6.76)
+P ⫽ 0.12
+1 (1)
+0.27 (0.04–1.94)
+6 (11)
+2.96 (0.89–9.83)
+7 (12)
+2.88 (0.96–8.65)
+P ⫽ 0.04
+
+aOR estimated from logistic regression model adjusted for age, sex, race/ethnicity, beach, and any contact swimming.
+a
+The numbers are participants reporting new symptoms, among those without baseline symptoms.
+b
+Robust variance estimates clustering on household.
+c
+The numbers are participants with complete information on age, sex, race/ethnicity, beach, and any contact swimming, among those
+without baseline symptoms.
+d
+Reference category.
+e
+CCE/g indicates qPCR calibrator cell equivalents per gram of dry weight sand.
+f
+P value from a linear trend test across the non-sand-exposed to the highest sand-exposed category.
+CCE indicates calibrator cell equivalents and are reported as per dry weight of sand.
+
+DISCUSSION
+Estimates of fecal contamination in wet sand measured
+by molecular methods (Enterococcus and Bacteroidales) and
+culture-based methods (Enterococcus) were positively associated with enteric illness among those digging in sand and
+being buried in sand at 2 recreational beach sites. This
+association was observed for a definition of enteric illness
+based on composite symptoms (GI illness) and a more narrow
+definition (diarrhea alone). Although there was some evidence of positive associations between sand-contact activities
+and enteric illness for culture-based F⫹ coliphage and molecular fecal Bacteroides and Clostridium spp. estimates,
+there was inconsistency across the exposure classifications
+considered (above vs. below the median and tertiles). Our
+ability to make conclusions for the F⫹ coliphage measure was
+limited because of its low frequency of detection in beach
+sand samples (17%).
+This is one of the first studies to show an association
+between beach sand contact and enteric illness as a function
+of microbial sand quality. One previous study observed a
+relationship between sand contact and GI illness, but expo102 | www.epidem.com
+
+sure was assessed as a function of time spent in contact with
+wet sand, not as a function of an objective measure of
+microbial sand quality.5 Two other studies of beach sand
+exposure and health effects (which included objective measures of beach sand fecal indicator densities) did not show
+consistent relationships between fecal contamination in beach
+sand, sand-contact activities, and illness (including GI illness).35,36 Another study,34 which lacked objective measures
+of fecal contamination of sand, observed an increased risk of
+enteric illness associated with beach sand-contact activities
+(digging in sand and being buried in sand).
+Investigators have observed manyfold higher concentrations of fecal microbial indicators (including E. coli and
+Enterococcus) in beach sand compared with nearby bathing
+water.35,36 Halliday and Gast7 recently completed a comprehensive review of studies of fecal microbial pollution of
+beach sand and observed that densities of fecal indicator
+bacteria in wet sand were up to 38 times higher than in nearby
+bathing waters. It has been hypothesized that sand could
+serve as a source of fecal contamination for bathing water,
+especially the surf zone along the shoreline.3,4,37 Others have
+© 2011 Lippincott Williams & Wilkins
+
+
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+Fecal Indicators in Beach Sand and Risk of Enteric Illness
+
+TABLE 7. Relation of Clostridium spp. in Sand With GI Illness by Status of Sand Contact and by
+Categorical Classification
+GI Illness
+a
+
+No. (%)
+Digging in sand
+Not diggingd
+Digging
+Clostridium spp.
+⬍ Median 2468 CCE/ge
+ⱖ Median 2468 CCE/ge
+Test for trendf
+Tertile 1: ⱖ0–1723 CCE/ge
+Tertile 2: ⬎1723–3579 CCE/ge
+Tertile 3: ⬎3579 CEE/ge
+Test for trendf
+Buried in sand
+Not buried d
+⬍ Median 2468 CCE/ge
+ⱖ Median 2468 CCE/ge
+Test for trendf
+Tertile 1: ⱖ0–1723 CCE/ge
+Tertile 2: ⬎1723–3579 CCE/ge
+Tertile 3: ⬎3579 CEE/ge
+Test for trendf
+
+182 (5)
+
+Diarrhea
+b
+
+aOR (95% CI)
+(n ⫽ 4672)c
+1.00
+
+63 (9)
+49 (8)
+
+1.46 (1.00–2.13)
+1.36 (0.89–2.09)
+P ⫽ 0.08
+23 (6)
+1.04 (0.62–1.75)
+50 (11)
+1.62 (1.06–2.48)
+39 (9)
+1.53 (0.96–2.44)
+P ⫽ 0.02
+(n ⫽ 4675)c
+274 (6)
+1.00
+13 (12)
+1.57 (0.69–3.56)
+7 (7)
+1.12 (0.50–2.49)
+P ⫽ 0.40
+4 (6)
+0.80 (0.22–2.87)
+9 (17)
+2.17 (0.78–6.01)
+7 (8)
+1.30 (0.58–2.90)
+P ⫽ 0.21
+
+a
+
+No. (%)
+
+115 (3)
+
+aOR (95% CI)b
+(n ⫽ 4706)c
+1.00
+
+53 (8)
+28 (5)
+
+1.98 (1.31–2.99)
+1.25 (0.77–2.04)
+P ⫽ 0.10
+18 (5)
+1.35 (0.74–2.49)
+40 (9)
+2.02 (1.30–3.16)
+23 (5)
+1.47 (0.84–2.55)
+P ⫽ 0.01
+(n ⫽ 4709)c
+181 (4)
+1.00
+12 (11)
+2.22 (0.92–5.38)
+3 (3)
+0.73 (0.22–2.38)
+P ⫽ 0.50
+4 (6)
+1.28 (0.35–4.70)
+8 (15)
+2.80 (0.90–8.70)
+3 (3)
+0.84 (0.26–2.78)
+P ⫽ 0.32
+
+aOR estimated from logistic regression model adjusted for age, sex, race/ethnicity, beach, and any contact swimming.
+a
+The numbers are participants reporting new symptoms, among those without baseline symptoms.
+b
+Robust variance estimates clustering on household.
+c
+The numbers are participants with complete information on age, sex, race/ethnicity, beach, and any contact swimming, among those
+without baseline symptoms.
+d
+Reference category.
+e
+CCE/g indicates qPCR calibrator cell equivalents per gram of dry weight sand.
+f
+P value from a linear trend test across the non-sand-exposed to the highest sand-exposed category.
+
+demonstrated that sand can serve as both a source and a sink
+of fecal microbial contamination.14 Debate continues about
+the applicability of fecal indicator bacteria (eg, E. coli and
+Enterococcus) as a measure of beach water quality and fecal
+contamination of beach sand.4,38,39 Several studies have examined potential for regrowth of E. coli and Enterococcus in
+sand.18,19 Beach sand may serve as a source of autochthonous
+fecal indicator bacteria (E. coli; Enterococcus) to nearby
+bathing water in the absence of inputs from point sources of
+fecal contamination (and associated pathogens). Beach sand
+has been implicated as contributing unnecessarily to beach
+advisories based on results of water-quality fecal indicator
+bacteria tests.4,14 EPA guidelines for monitoring fresh and
+marine recreational waters are based on E. coli and Enterococcus40,41; however, no guidelines exist for fecal contamination of sand.
+Our results suggest that Enterococcus density in sand
+increases the rate of GI illness and diarrhea among beachgoers who have contact with sand. The positive association of a
+qPCR-based measure of Enterococcus in sand with enteric
+illness was more consistent than that observed for a traditional culture-based measure of Enterococcus and several
+© 2011 Lippincott Williams & Wilkins
+
+alternative measures of sand fecal pollution (culture-based F⫹
+coliphage, and qPCR-based Bacteroidales, fecal Bacteroides,
+and Clostridium spp.). These alternative measures have been
+considered by some to be more specific indicators of human
+sewage sources of fecal contamination.9 Previous research
+has demonstrated a consistent positive association between
+Enterococcus calibrator cell equivalents and swimming-associated illness among both adults and children.21,22 Culturable
+fecal indicator bacteria cells (eg, total and fecal coliforms, E.
+coli, and Enterococcus) are considered a better measure of
+viable bacteria associated with fecal pollution than qPCRbased measures, which reflect the genetic material of bacterial cells and may have differential environmental fates.42– 46
+The 2 beaches were located near publicly owned treatment-works sewage outfalls. It is possible that fecal contamination from municipal sewage reached recreational beaches
+through tidal flow, wave action, on-shore wind direction, or
+currents. However, some evidence suggests that diffuse
+sources (including coastal birds, other animal populations,
+bather density, and run-off) may contribute most of the fecal
+contamination to beach sand.47,48 It is unclear whether the
+observed relationships of Enterococcus with enteric illness
+www.epidem.com | 103
+
+
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+Heaney et al
+
+TABLE 8. Relationship Between a Presence-absence Index of All 6 Fecal Indicators in Sand and
+Enteric Illness by Sand Contact Type
+GI Illness
+No. (%)
+Digging in sand
+Not diggingd
+Digging
+Fecal index
+Tertile 1
+Tertile 2
+Tertile 3
+Test for trende
+Buried in sand
+Not buriedd
+Buried
+Fecal index
+Tertile 1
+Tertile 2
+Tertile 3
+Test for trende
+
+a
+
+182 (5)
+
+38 (9)
+41 (9)
+33 (8)
+
+274 (6)
+
+4 (5)
+7 (11)
+9 (16)
+
+Diarrhea
+b
+
+aOR (95% CI)
+(n ⫽ 4672)c
+1.00
+
+a
+
+No. (%)
+
+115 (3)
+
+1.32 (0.83–2.10)
+1.59 (1.01–2.50)
+1.33 (0.82–2.13)
+P ⫽ 0.06
+(n ⫽ 4675)c
+1.00
+
+0.59 (0.21–1.65)
+1.89 (0.81–4.41)
+2.16 (0.75–6.19)
+P ⫽ 0.12
+
+27 (6)
+28 (6)
+26 (7)
+
+181 (4)
+
+2 (2)
+5 (8)
+8 (14)
+
+aOR (95% CI)b
+(n ⫽ 4706)c
+1.00
+
+1.48 (0.89–2.47)
+1.76 (1.07–2.90)
+1.69 (0.98–2.93)
+P ⫽ 0.01
+(n ⫽ 4709)c
+1.00
+
+0.44 (0.11–1.74)
+2.14 (0.72–6.34)
+2.92 (0.91–9.37)
+P ⫽ 0.07
+
+aOR estimated from logistic regression model adjusted for age, sex, race/ethnicity, beach, and any contact swimming.
+a
+The numbers are participants reporting new symptoms, among those without baseline symptoms.
+b
+Robust variance estimates clustering on household.
+c
+The numbers are participants with complete information on age, sex, race/ethnicity, beach, and any contact swimming, among those
+without baseline symptoms.
+d
+Reference category.
+e
+P value from a linear trend test across the non-sand-exposed to the highest sand-exposed category.
+
+can be generalized to beaches not influenced by municipal
+sewage outfalls (ie, nonpoint source pollution beaches), to
+freshwater beaches, or to tropical beaches where the population dynamics of fecal indicators in sand may be different.
+Swimming was strongly associated with sand contact;
+81% of swimmers versus 19% of nonswimmers reported
+digging in sand, and 89% of swimmers versus 11% of
+nonswimmers reported being buried in sand. As a result, our
+study has little power to evaluate associations between sand
+contact and illness among nonswimmers because there were
+very few sand-exposed cases among nonswimmers. For example, among nonswimmers who dug in sand with Enterococcus in the highest tertile, there were no exposed diarrhea
+cases and one exposed GI illness case. Therefore, although
+we adjusted for swimming in all analyses of sand contact, it
+is possible that associations between sand contact and illness
+reflect exposure to contaminated water as well as sand. In our
+previous study,34 which included more beaches but lacked
+measures of fecal contamination of sand, digging in sand was
+associated with GI illness (adjusted incidence proportion
+ratio ⫽ 1.26 关95% CI ⫽ 1.03–1.54兴) and diarrhea (1.26
+关0.98 –1.62兴) among nonswimmers, suggesting that sand may
+be an additional route of exposure to pathogens.
+Beachgoers’ contact with sand was assessed by questionnaire and included a question asking whether they had
+contact with wet or dry sand. However, only wet sand was
+104 | www.epidem.com
+
+collected and analyzed for microbial measurements. We used
+microbial quality in wet sand as a proxy for quality of all
+sand. To examine the potential influence of misclassification
+of exposure by wet versus dry sand contact, we examined
+associations restricted to participants with wet sand contact only.
+The results were similar to those among all participants. For
+example, among tertiles of the qPCR-based Enterococcus measure, the aORs of associations with GI illness among those
+digging in wet sand only were 1.02 (95% CI ⫽ 0.58 –1.80), 1.31
+(0.71–2.43), and 2.48 (1.46 – 4.21), respectively.
+Overall, associations were stronger among those buried
+in sand (which represents a more intense form of sand
+exposure) than among those digging in sand. Defining sand
+exposure as any sand contact, including either digging in the
+sand or buried in the sand, did not alter our conclusions (data
+not shown).
+Research on health effects among beachgoers has focused largely on swimming-associated illness and microbial
+water quality. We show a relation of sand-contact activities
+with GI illness and diarrhea as a function of objective
+measures of fecal pollution of beach sand. Limitations of the
+study include a small sample size for investigation of associations among subgroups (children, nonswimmers), use of
+wet sand as a proxy for exposure to dry sand-contact activities, lack of tests of specific enteric pathogens in beach sand,
+lack of analyses taking account of water quality, and lack of
+© 2011 Lippincott Williams & Wilkins
+
+
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+objective measures of enteric illness self-reports by microbial
+or immunologic tests of biospecimens. Laboratory confirmation of infection with pathogens via tests of saliva, blood, or
+stool could improve the classification of incident symptoms.
+Further investigation of sand exposure and its association
+with enteric and nonenteric illness appears warranted based on
+these results. It is unknown whether the relation of Enterococcus
+in sand with GI illness and diarrhea can be extended to nonenteric illnesses (eg, skin rash, upper respiratory illness, eye irritation, earache, infected cuts/wounds). Further studies at a
+broader geographic range of beach sites, including nonpoint
+source run-off, freshwater, and tropical beaches, may advance
+understanding of sand exposures associated with illness risk and
+the association of densities of fecal-indicator organisms in beach
+sand with illness risk among beachgoers.
+
+ACKNOWLEDGMENTS
+We thank the many individuals and organizations who
+helped with data collection on the NEEAR water study
+project, including Rebecca Calderon, Ann Williams, Joel
+Hansel, Holly Wirick, Ed Hudgens, Mike Ray, Danelle Lobdelle, Scott Rhoney, Beth Leamond, Lucas Neas, Stephanie
+Friedman, Westat Corp, and the beach interviewers. We
+thank Mark Sobsey for the use of his laboratory to perform
+coliphage analyses. We thank Jyotsna Jagai at EPA for
+reviewing the manuscript.
+
+Fecal Indicators in Beach Sand and Risk of Enteric Illness
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+REFERENCES
+1. Kinzelman J, McLellan SL, Daniels AD, et al. Non-point source
+pollution: determination of replication versus persistence of Escherichia coli in surface water and sediments with correlation of levels
+to readily measurable environmental parameters. J Water Health.
+2004;2:103–114.
+2. Skalbeck JD, Kinzelman JL, Mayer GC. Fecal indicator organism
+density in beach sands: impact of sediment grain size, uniformity, and
+hydrologic factors on surface water loading. J Great Lakes Res. 2010;
+36:707–714.
+3. Wheeler Alm E, Burke J, Spain A. Fecal indicator bacteria are abundant
+in wet sand at freshwater beaches. Water Res. 2003;37:3978 –3982.
+4. Whitman RL, Nevers MB. Foreshore sand as a source of Escherichia
+coli in nearshore water of a Lake Michigan beach. Appl Environ
+Microbiol. 2003;69:5555–5562.
+5. Bonilla TD, Nowosielski K, Cuvelier M, et al. Prevalence and distribution of fecal indicator organisms in South Florida beach sand and
+preliminary assessment of health effects associated with beach sand
+exposure. Mar Pollut Bull. 2007;54:1472–1482.
+6. Obiri-Danso K, Jones K. Distribution and seasonality of microbial
+indicators and thermophilic campylobacters in two freshwater bathing
+sites on the River Lune in northwest England. J Appl Microbiol.
+1999;87:822– 832.
+7. Halliday E, Gast RJ. Bacteria in beach sands: an emerging challenge in
+protecting coastal water quality and bather health. Environ Sci Technol.
+2011;45:370 –379.
+8. Wade TJ, Pai N, Eisenberg JN, Colford JMJr. Do U.S. Environmental
+Protection Agency water quality guidelines for recreational waters
+prevent gastrointestinal illness? A systematic review and meta-analysis.
+Environ Health Perspect. 2003;111:1102–1109.
+9. Whitman RL, Przybyla-Kelly K, Shively DA, Nevers MB, Byappanahalli MN. Hand-mouth transfer and potential for exposure to E. coli and
+F(⫹) coliphage in beach sand, Chicago, Illinois. J Water Health.
+2009;7:623– 629.
+10. Davies CM, Long JA, Donald M, Ashbolt NJ. Survival of fecal micro-
+
+© 2011 Lippincott Williams & Wilkins
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+organisms in marine and freshwater sediments. Appl Environ Microbiol.
+1995;61:1888 –1896.
+Beversdorf LJ, Bornstein-Forst SM, McLellan SL. The potential for
+beach sand to serve as a reservoir for Escherichia coli and the physical
+influences on cell die-off. J Appl Microbiol. 2007;102:1372–1381.
+Byappanahalli MN, Whitman RL, Shively DA, Sadowsky MJ, Ishii S.
+Population structure, persistence, and seasonality of autochthonous
+Escherichia coli in temperate, coastal forest soil from a Great Lakes
+watershed. Environ Microbiol. 2006;8:504 –513.
+Desmarais TR, Solo-Gabriele HM, Palmer CJ. Influence of soil on fecal
+indicator organisms in a tidally influenced subtropical environment.
+Appl Environ Microbiol. 2002;68:1165–1172.
+Ishii S, Hansen DL, Hicks RE, Sadowsky MJ. Beach sand and sediments
+are temporal sinks and sources of Escherichia coli in Lake Superior.
+Environ Sci Technol. 2007;41:2203–2209.
+Elmanama AA, Fahd MI, Afifi S, Abdallah S, Bahr S. Microbiological
+beach sand quality in Gaza Strip in comparison to seawater quality.
+Environ Res. 2005;99:1–10.
+Ghinsberg RC, Bar Dov L, Rogol M, Sheinberg Y, Nitzan Y. Monitoring
+of selected bacteria and fungi in sand and sea water along the Tel Aviv
+coast. Microbios. 1994;77:29 – 40.
+Whitman RL, Nevers MB, Byappanahalli MN. Examination of the
+watershed-wide distribution of Escherichia coli along Southern Lake
+Michigan: an integrated approach. Appl Environ Microbiol. 2006;72:
+7301–7310.
+Feng F, Goto D, Yan T. Effects of autochthonous microbial community
+on the die-off of fecal indicators in tropical beach sand. FEMS Microbiol
+Ecol. 2010;74:214 –225.
+Yamahara KM, Walters SP, Boehm AB. Growth of enterococci in
+unaltered, unseeded beach sands subjected to tidal wetting. Appl Environ
+Microbiol. 2009;75:1517–1524.
+Wade TJ, Sams E, Brenner KP, et al. Rapidly measured indicators of
+recreational water quality and swimming-associated illness at marine
+beaches: a prospective cohort study. Environ Health. 2010;9:66.
+Wade TJ, Calderon RL, Brenner KP, et al. High sensitivity of children
+to swimming-associated gastrointestinal illness: results using a rapid
+assay of recreational water quality. Epidemiology. 2008;19:375–383.
+Wade TJ, Calderon RL, Sams E, et al. Rapidly measured indicators of
+recreational water quality are predictive of swimming-associated gastrointestinal illness. Environ Health Perspect. 2006;114:24 –28.
+Haugland RA, Siefring SC, Wymer LJ, Brenner KP, Dufour AP.
+Comparison of Enterococcus measurements in freshwater at two recreational beaches by quantitative polymerase chain reaction and membrane filter culture analysis. Water Res. 2005;39:559 –568.
+Siefring S, Varma M, Atikovic E, Wymer L, Haugland RA. Improved
+real-time PCR assays for the detection of fecal indicator bacteria in
+surface waters with different instrument and reagent systems. J Water
+Health. 2008;6:225–237.
+Converse RR, Blackwood AD, Kirs M, Griffith JF, Noble RT. Rapid
+QPCR-based assay for fecal Bacteroides spp. as a tool for assessing fecal
+contamination in recreational waters. Water Res. 2009;43:4828 – 4837.
+Chern EC, Brenner KP, Wymer L, Haugland RA. Comparison of fecal
+indicator bacteria densities in marine recreational waters by QPCR.
+Water Qual Expo Health. 2009;1:203–214.
+EPA. Method 1600: Enterococci in water by membrane filtration using
+membrane-enterococcus indoxyl-beta-D-glucoside agar (mEI). Washington, DC: United States Environmental Protection Agency Office of
+Water; 2001.
+Love DC, Sobsey MD. Simple and rapid F⫹ coliphage culture, latex
+agglutination, and typing assay to detect and source track fecal contamination. Appl Environ Microbiol. 2007;73:4110 – 4118.
+EPA. Method 1601: Male-specific (F⫹) and somatic coliphage in water
+by two-step enrichment procedure. USEPA Publication EPA 821-R-01030. Washington, DC: United States Environmental Protection Agency
+Office of Water; 2001.
+Colford JM Jr, Wade TJ, Schiff KC, et al. Water quality indicators and
+the risk of illness at beaches with nonpoint sources of fecal contamination. Epidemiology. 2007;18:27–35.
+Rogers WH. sg17: regression standard errors in clustered samples. Stata
+Tech Bull. 1993;13:5.
+
+www.epidem.com | 105
+
+
+
+Heaney et al
+
+32. Royall RM. Model robust confidence intervals using maximum likelihood estimators. Int Stat Rev. 1986;54:6.
+33. Rothman K, Greenland S, Lash T. Modern Epidemiology. 3rd ed.
+Philadelphia: Lippincott Williams & Wilkins; 2008.
+34. Heaney CD, Sams E, Wing S, et al. Contact with beach sand among
+beachgoers and risk of illness. Am J Epidemiol. 2009;170:164 –172.
+35. Marino FJ, Morinigo MA, Martinez-Manzanares E, Borrego JJ. Microbiological-epidemiological study of selected marine beaches in Malaga
+(Spain). Wat Sci Tech. 1995;31:5.
+36. Seyfried PL, Tobin RS, Brown NE, Ness PF. A prospective study of
+swimming-related illness. II: morbidity and the microbiological quality
+of water. Am J Public Health. 1985;75:1071–1075.
+37. Solo-Gabriele HM, Wolfert MA, Desmarais TR, Palmer CJ. Sources of
+Escherichia coli in a coastal subtropical environment. Appl Environ
+Microbiol. 2000;66:230 –237.
+38. Oshiro R, Fujioka R. Sand, soil, and pigeon droppings: sources of
+indicator bacteria in the waters of Hanauma Bay, Oahu, Hawaii. Wat Sci
+Tech. 1995;31:251–254.
+39. Yamahara KM, Layton BA, Santoro AE, Boehm AB. Beach sands along
+the California coast are diffuse sources of fecal bacteria to coastal
+waters. Environ Sci Technol. 2007;41:4515– 4521.
+40. EPA. Ambient water quality criteria for bacteria. Washington, DC:
+United States Environmental Protection Agency Office of Water; 1986.
+41. EPA. Water quality standards for coastal and Great Lakes recreation
+waters. United States Environmental Protection Agency Office of Water;
+CFR Part 131. Vol. RIN 2040-AE63. Washington, DC; 2004.
+
+106 | www.epidem.com
+
+Epidemiology • Volume 23, Number 1, January 2012
+
+42. Berg G, Dahling DR, Brown GA, Berman D. Validity of fecal coliforms,
+total coliforms, and fecal streptococci as indicators of viruses in chlorinated primary sewage effluents. Appl Environ Microbiol. 1978;36:880 –
+884.
+43. Blatchley ER III, Gong WL, Alleman JE, et al. Effects of wastewater
+disinfection on waterborne bacteria and viruses. Water Environ Res.
+2007;79:81–92.
+44. Bonadonna L, Briancesco R, Cataldo C, Divizia M, Donia D, Pana A.
+Fate of bacterial indicators, viruses and protozoan parasites in a wastewater multi-component treatment system. New Microbiol. 2002;25:413–
+420.
+45. Lucena F, Duran AE, Moron A, et al. Reduction of bacterial indicators
+and bacteriophages infecting faecal bacteria in primary and secondary
+wastewater treatments. J Appl Microbiol. 2004;97:1069 –1076.
+46. Payment P, Plante R, Cejka P. Removal of indicator bacteria, human
+enteric viruses, Giardia cysts, and Cryptosporidium oocysts at a large
+wastewater primary treatment facility. Can J Microbiol. 2001;47:188 –
+193.
+47. Noble MA, Xu JP, Robertson GL, Rosenfeld LK. Distribution and
+sources of surfzone bacteria at Huntington Beach before and after
+disinfection on an ocean outfall–a frequency-domain analysis. Mar
+Environ Res. 2006;61:494 –510.
+48. Boehm AB, Weisberg SB. Tidal forcing of enterococci at marine
+recreational beaches at fortnightly and semidiurnal frequencies. Environ
+Sci Technol. 2005;39:5575–5583.
+
+© 2011 Lippincott Williams & Wilkins
+
+

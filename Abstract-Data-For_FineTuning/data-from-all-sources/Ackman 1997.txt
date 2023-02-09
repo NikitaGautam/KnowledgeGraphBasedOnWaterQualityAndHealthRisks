@@ -1,0 +1,768 @@
+Epidemiol. Infect. (1997), 119, 1–8. Printed in the United Kingdom
+
+# 1997 Cambridge University Press
+
+Swimming-associated haemorrhagic colitis due to Escherichia
+coli O157 : H7 infection : evidence of prolonged contamination
+of a fresh water lake*
+
+D. A C K M A N",#†, S. M A R K S$, P. M A C K$, M. C A L D W E LL$, T. R O O T%
+   G. B I R K H E AD#,&
+" The Epidemiology Program Office and the Epidemic Intelligence Service, Division of Field Epidemiology,
+Centers for Disease Control and Prevention, Atlanta, GA
+# Bureau of Communicable Disease Control, Office of Public Health, New York State Department of Health,
+Albany, NY
+$ Dutchess County Department of Health, Poughkeepsie, NY
+% Wadsworth Center, New York State Department of Health, Albany, NY
+& School of Public Health, University at Albany, State University of New York, Albany, NY
+
+(Accepted 1 February 1997)
+
+SUMMARY
+We describe an Escherichia coli O157 : H7 outbreak associated with a fresh water lake at a
+county park. Campers were surveyed for diarrhoeal illness within 10 days of their visit, and a
+case-control study of day visitors was conducted. A confirmed case was a symptomatic person
+with a stool culture positive for E. coli O157 : H7 and a probable case was a person with
+bloody diarrhoea. Clinical isolates of E. coli O157 were subtyped by pulsed field gel
+electrophoresis (PFGE). In the camper survey, 12 (38 %) of 32 swimmers had a diarrhoeal
+illness (relative risk [RR] ¯ 12±4 ; 95 % confidence interval [CI] ¯ 1±7–89±7). For the case-control
+study, the 12 cases were more likely than controls to have purposefully ingested lake water
+(odds ratio [OR] ¯ 6±9, 95 % CI ¯ 0±9–55±8). The PFGE patterns of six clinical isolates were
+indistinguishable. This report further demonstrates that contaminated fresh-water lakes can be
+the source of community outbreaks of E. coli O157 : H7.
+
+INTRODUCTION
+Escherichia coli O157 : H7 is increasingly recognized as
+a cause of sporadic and epidemic gastrointestinal
+disease. Most outbreaks have been traced to the
+consumption of undercooked ground beef [1–3].
+However, other foods [4, 5] and drinking water [6]
+have also been implicated. Three recent reports have
+demonstrated transmission through swimming water,
+* Presented in part at the 35th Interscience Conference on
+Antimicrobial Agents and Chemotherapy (ICAAC), Sept. 17–20,
+1995, San Francisco, CA.
+† Author for correspondence : D. Ackman, Bureau of Communicable Disease Control, New York State Department of Health,
+Room 651 Corning Tower, Albany, NY 12237.
+
+including an extended outbreak at a fresh water lake
+[7–9].
+In July 1993, New York State (NYS) mandated the
+reporting of E. coli O157 : H7 infections to local health
+departments. On 25 July 1994, a hospital in northern
+Dutchess County reported two children with bloody
+diarrhoea and a local laboratory reported that stool
+cultures from two other symptomatic children were
+positive for E. coli O157 : H7. Initial interviews of the
+four patients did not reveal any common food
+exposures. However, all had swum at a county park
+on 17 July 1994. The Dutchess County Department of
+Health suspected that transmission had occurred
+through swimming water and ordered the park closed
+
+
+
+2
+
+D. Ackman and others
+
+on 25 July. We conducted an investigation to
+determine the extent of the outbreak and to identify
+the source of infection.
+
+BACKGROUND
+The outbreak occurred at a multi-use park in northern
+Dutchess County (population 260 000). The park was
+open Wednesdays–Sundays from May to October and
+on summer weekend days often had more than 1000
+visitors. The park has 40 overnight camping sites,
+three pavilions for large picnic groups, several baseball
+fields, a small lake for rowing and fishing, and a larger
+lake for swimming. The swimming lake is approximately 5 acres in area with an average depth of 1±5
+metres. The lake is fed by rainwater and a small
+stream. Food was not sold at the park.
+
+METHODS
+To determine risk factors for illness among persons
+who visited the park, we surveyed groups that had
+camped at the park in the period 13–24 July,
+conducted a case-control study and conducted an
+environmental investigation.
+
+hospitals and large paediatric practices after the
+outbreak was recognized. Clinical laboratories in the
+county were informed of the outbreak and asked to
+test all bloody stools for the presence of E. coli
+O157 : H7. Health departments in neighbouring
+counties were also asked to question persons with
+E. coli O157 : H7 infection about visits to the park.
+Controls were selected from day visitors to the park
+in the period 17–24 July. The park recorded the
+licence plate number and number of occupants of over
+400 vehicles entering the park during this period. We
+obtained the names and addresses of owners of
+vehicles registered in New York State (" 99 % of
+vehicles). Owners of vehicles with three or more
+occupants (vehicles likely to have at least one child)
+were randomly selected and telephoned between
+1 August and 12 August. Because all case-patients were
+under age 14, we randomly selected a well person
+under age 14 from each vehicle until we enrolled three
+controls per case in three age groups (age ! 5 years,
+aged 5–9 years, age 10–14 years). Cases and controls
+(or a parent for children under 10 years) completed a
+formal questionnaire about swimming and water
+consumption at the park, what they had eaten the day
+of the visit, where they usually bought groceries,
+and what restaurants they had eaten at in the period
+10–20 July.
+
+Survey of campers
+To quickly assess whether the park was the source of
+infection, we surveyed persons by telephone who had
+registered to camp at the park in the period 13–24
+July. Persons were asked when they had been at the
+park, how many adults and children had been in their
+party, where they bought their food, and whether
+persons in their party had either drunk potable water
+from the park of swum in the lake, and whether any
+had diarrhoeal illness (& 3 loose stools within 24 h)
+within 10 days of their visit. Specific information on
+dates of swimming was not obtained for individual
+members of these groups.
+
+Case-control study
+For this study, we defined a confirmed case-patient as
+a symptomatic person with a stool culture positive for
+E. coli O157 : H7. A probable case-patient was defined
+as a person with bloody diarrhoea and illness onset
+within 10 days of visiting the park. Case-patients were
+identified through routine laboratory and physician
+reports and then by active surveillance of area
+
+Environmental investigation
+On 26 July, sanitarians from the Dutchess County
+Department of Health reviewed all park operations.
+Park supervisors and life guards were interviewed and
+campsites and picnic areas were inspected. We
+conducted fluorescein dye tests of the septic systems at
+the beach bathhouse and park headquarters to test for
+cross-connections between the septic system and the
+lake. Approximately 250 g of disodium fluorescein
+dye (Bruce Color and Chemical Co., Tranquility, NJ)
+was flushed down toilets at park headquarters and
+bathhouse. For the next 7 days, the lake and area
+above the septic systems were visually inspected for
+the presence of characteristic green dye.
+The Dutchess County Department of Health
+routinely collected swimming water samples for
+coliform analysis at 2-week intervals from all county
+bathing beaches. If any one sample exceeded 2400
+faecal coliforms}100 ml water, additional samples
+were collected to assess the bacteriological quality of
+the water, as required by the NYS sanitary code [10].
+
+
+
+Swimming-associated haemorrhagic colitis
+Sanitarians reviewed previous water quality tests and
+collected potable and lake water samples in the period
+26 July–1 August for bacteriologic testing using
+standard membrane filter methods [11] and performed
+qualitative tests for E. coli (Colilert, Index Corporation, Westbrook, ME) on lake water samples.
+Additional water samples were collected and tested
+for the presence of E. coli O157 : H7 by filtering
+followed by inoculation into trypticase soy broth,
+overnight incubation, and plating onto sorbitolMacConkey agar [12].
+
+Laboratory procedures
+
+3
+
+1–13) and 7 were female. The median incubation
+period from the date of park visit to onset of
+symptoms was 4±±5 days (range, 1–10 days). All 12
+case-patients had bloody diarrhoea, 11 (92 %) experienced abdominal cramps, and 10 (83 %) had fever.
+All but 1 case-patient had seen a physician, but 5
+probable case-patients did not have a stool culture.
+Five children were hospitalized and two developed the
+haemolytic-uraemic syndrome (both were confirmed
+cases). No deaths occurred and no secondary cases
+were identified. One other Dutchess County child who
+had not visited the park had E. coli O157 : H7 infection
+during the period of the outbreak. No additional
+information could be obtained from this patient.
+
+Microbiologic identification
+Isolates of E. coli O157 : H7 were obtained from area
+laboratories and their identity was confirmed by
+conventional biochemical methods at the New York
+State Laboratory (Wadsworth Center) [13].
+
+Subtyping of E. coli O157 : H7
+Isolates of E. coli O157 : H7 from Dutchess County
+residents were tested for the presence of shiga-like
+toxins. Park-associated isolates of E. coli O157 : H7
+were compared by pulsed field gel electrophoresis
+(PFGE) with a sample of other isolates submitted to
+the Wadsworth Center in 1994. Cellular DNA was
+digested with SpeI and restriction : fragment-length
+polymorphisms (RFLPs) were analysed using methods
+previously described [14].
+
+Statistical analysis
+Survey data were entered and analysed using Epi Info
+software, version 6.0 [15]. Mantel–Haenszel odds
+ratios (OR) and Taylor series 95 % confidence
+intervals (CI) were computed. In the analysis of the
+case-control study, swimming water exposure variables
+were analysed individually and in combination.
+
+RESULTS
+Descriptive epidemiology
+We identified 6 confirmed and 6 probable cases of E.
+coli O157 : H7 infection in persons who had visited the
+park in the period 17–24 July (Fig. 1). All of the casepatients had visited the park in this period (Fig. 2), all
+were under 14 years of age (median age 7 years ; range
+
+Camper survey
+We were able to contact leaders of 30 camping parties,
+representing 117 (27 %) of 437 persons camping at the
+park between 13 July and 24 July. Groups at the park
+the week of 13–17 July were compared to groups
+visiting 20–24 July. Of persons camping 20–24 July, 13
+(20 %) of 65 became ill with diarrhoeal illness within
+10 days of visiting the park, compared with 4 (8 %) of
+52 persons camping 13–17 July (relative risk [RR] ¯
+2±6, 95 % confidence interval [CI] ¯ 0±9–75±0). Among
+the groups who camped between 20 July and 24 July,
+12 (38 %) of 32 swimmers became ill, compared with
+1 (3 %) of 33 persons who did not swim (RR ¯ 12±4 ;
+95 %CI ¯ 1±7–89±7). One person reported bloody
+diarrhoea and two persons saw their physician. There
+were no confirmed cases of E. coli O157 : H7 infection
+in this group. None of the persons contacted in the
+camper survey was included in the case-control study.
+
+Case-control study
+Of 55 persons under 14 years of age contacted to
+participate as controls in this study, 9 (16 %) persons
+were excluded because they developed diarrhoeal
+illness within 10 days of visiting the park. Twelve casepatients were compared with 36 day-visitor controls.
+Cases and controls were frequency matched by age
+and were similar in sex and date on which they visited
+the park. All of the case-patients and 35 (97 %) of 36
+controls swam in the lake (Table 1). Only two of the
+case-patients reported drinking from any of the
+potable water sources at the park. Case-patients were
+more likely than controls to have accidentally
+swallowed lake water or drunk lake water on purpose,
+
+
+
+4
+
+D. Ackman and others
+5
+Confirmed cases
+Probable cases
+
+4
+
+Park closed for summer
+
+Cases
+
+3
+2
+1
+0
+19/7
+
+20/7
+
+21/7
+
+22/7
+
+23/7 24/7
+Date of onset
+
+25/7
+
+26/7
+
+27/7
+
+28/7
+
+Fig. 1. Confirmed and probable cases, E. coli O157 : H7 infection among swimmers, by date of onset, 19–28 July 1994,
+Dutchess County, New York.
+10
+Confirmed cases
+Probable cases
+
+8
+
+Cases
+
+6
+Park closed
+for summer
+
+4
+Park closed
+
+2
+0
+16/7 17/7
+
+18/7
+
+19/7 20/7 21/7 22/7
+Date of visit
+
+23/7
+
+24/7 25/7
+
+26/7
+
+Fig. 2. Confirmed and probable cases, E. coli O157 : H7 infection, by dates of park visit, 16–26 July 1994, Dutchess County,
+New York.
+
+Table 1. Risk factors for haemorrhagic colitis, case-control study,
+Dutchess County, New York, 1994
+Variable
+
+Case-patients Controls
+(n ¯ 12)
+(n ¯ 36)
+
+Swam in lake
+12}12
+Swam with head under water
+8}12
+Drank potable water
+2}10
+Swallowed lake water*
+7}10
+Drank lake water on purpose* 4}10
+
+35}36
+25}35
+3}31
+14}29
+3}34
+
+Odds
+ratio
+
+95 % CI
+
+Undef.
+0±8
+1±9
+2±5
+6±9
+
+0±1–inf.
+0±2–4±1
+0±2–17±0
+0±4–15±5
+0.9–55±8
+
+* The questions were phrased, ‘ Did you (your child) swallow water while swimming
+in the lake ’, and, ‘ Did you (your child) drink water on purpose from the lake ’.
+
+although this association was not statistically significant. No association was observed between case status
+and time spent in the water or swimming with one’s
+head under water (data not shown). None of the casepatients had eaten in the same restaurant between 10
+July and 20 July, and only one case-patient had eaten
+undercooked (pink) ground beef within 10 days of
+
+becoming ill. Only two case-patients shopped at the
+same market.
+Environmental investigation
+Dutchess County sanitarians had conducted biweekly
+inspections of the park through the summer. The
+
+
+
+Swimming-associated haemorrhagic colitis
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11 12
+
+5
+
+faecal coliforms to be ! 200 cfu}100 ml). Five 1-litre
+water samples collected in August tested at the
+Wadsworth Center and were negative for E. coli
+O157 : H7. Fluorescein dye tests done on the bathhouse and park headquarters septic systems showed
+no cross-connections between the septic systems and
+the lake.
+
+Bacterial subtyping
+E. coli O157 : H7 isolates from 7 Dutchess County
+residents, including 6 case-patients, were confirmed by
+serotyping. Shiga-like toxin type I and II activity was
+found in 5 isolates ; the other 2 isolates had Shiga-like
+toxin type II activity. Eleven isolates of E. coli
+O157 : H7 were subtyped by PFGE. Isolates from the
+6 case-patients and the 1 Dutchess County resident
+who did not visit the park had indistinguishable
+PFGE patterns (Fig. 3).
+Fig. 3. Subtyping of E. coli O157 : H7 isolates by pulsed-field
+gel electrophoresis. Isolates from six outbreak cases (lanes
+1–6), another Dutchess county resident (lane 7), and four
+sporadic New York State cases are shown. Lambda phage
+markers (48±5 concatemers) are shown in lane 12.
+
+beach, pond and campgrounds were clean, well
+maintained, and in compliance with sanitary regulations. Toilets and showers were in a bathhouse 20
+metres from the beach. Lifeguards did not notice
+anything unusual during the weekend of 17 July, but
+several lifeguards recalled removing human faeces
+from the lake at various times that summer. There was
+no livestock within the park’s watershed, although
+there were deer and other wild animals in the park. In
+the period 10–17 July there was only trace precipitation in Dutchess County.
+At 2-week intervals, from 3 May until 12 July 1994,
+1-litre samples of lake water were collected and tested
+for total coliforms. Except for one date (28 June) these
+samples met New York State standards for swimming
+water. After the park was closed on 25 July, extensive
+testing of the pond and potable water was conducted.
+No coliforms were isolated from public potable water
+in the park. Of 40 1-litre samples taken from various
+places in the swimming lake between 27 July and 1
+August, none exceeded 600 cfu}100 ml for total
+coliforms or 70 cfu}100 ml for faecal coliforms (NYS
+standards for single samples of swimming water
+require total coliforms to be ! 2400 cfu}100 ml and
+
+DISCUSSION
+We investigated an outbreak of bloody diarrhoea
+associated with swimming in a lake. The only common
+exposure among case-patients was swimming at the
+park between 17 July and 24 July. Among campers in
+the park the week of 20–24 July, illness was strongly
+associated with swimming, and among day visitors to
+the park, case-patients were more likely than controls
+to have ingested lake water while swimming. Food
+was not sold in the park, nor did any of the casepatients eat in the same restaurant during the 10 days
+before the outbreak. There was no evidence of
+contamination of potable water or leakage from septic
+systems at the park, and the lack of rain prior to the
+outbreak made surface runoff an unlikely source of
+contamination. Furthermore, there are no cows or
+other farm animals kept within the lake watershed,
+although deer and other small mammals are present.
+We cannot determine whether the lake was contaminated once or repeatedly during the week that
+cases were exposed, although PFGE analysis of faecal
+isolates supports a single source of infection. None of
+the known-case-patients returned to the lake after
+they became symptomatic, and so could not have been
+a source of repeated contamination. It is possible that
+one or more swimmers became ill early in the week
+and then returned to the lake later in the week. No
+additional cases of E. coli O157 : H7 infection were
+
+
+
+6
+
+D. Ackman and others
+
+reported from Dutchess or neighbouring counties
+after the lake was closed.
+Although only 12 persons met a case definition,
+many persons contacted during the camper survey
+and case-control investigation reported having nonbloody diarrhoea following their visit to the park. To
+avoid a misclassification bias, we chose a specific case
+definition and did not include these persons in the
+case-control study. Nevertheless, the high rate of
+diarrhoeal illness suggests a larger outbreak than
+reflected by confirmed and probable cases. In other
+outbreaks of gastroenteritis caused by E. coli O157 : H7
+infection, rates of non-bloody diarrhoea have varied
+from zero to 69 % of cases [16]. We believe as many as
+15 % of children who had visited the park during the
+outbreak had milder gastrointestinal illness. A high
+incidence of mild disease might be explained either by
+a low concentration of E. coli O157 : H7 in the
+contaminated water and}or by small amounts of
+water ingested by swimmers.
+Our findings are limited by several methodological
+weaknesses. In the camper survey, we did not collect
+person-specific information on dates people swam.
+Furthermore, members of both camper groups (those
+in the park 13–17 July and those in the park 20–24
+July) were potentially exposed to contaminated lake
+water because the first confirmed case was exposed on
+17 July. However, exposure of both groups to
+potentially contaminated water would only tend to
+reduce the strength of the association between
+swimming and illness. In the case control study, there
+was a potential for recall bias as well as misclassification bias due to parents inaccurately reporting on
+their child’s exposure. These weaknesses are inherent
+in outbreak investigations, particularly when the
+exposure (putting lake water in one’s mouth) may be
+viewed as innocuous. We were also unable to isolate
+E. coli O157 : H7 from the environment. Although
+there were no other bacterial pathogens identified in
+any of the stool samples submitted by the cases, viral
+pathogens were not tested for, and it is possible that
+some of the illness reported by campers was due to
+viral gastroenteritis. Nevertheless, the association
+between exposure to lake water and illness in two
+studies, the identification of a single strain in all cases,
+and the lack of any other common exposure make the
+lake the likely route of transmission.
+Many viral, bacterial and parasitic pathogens have
+been implicated in recreational water outbreaks
+[17–20]. In the period 1991–2 11 outbreaks of
+gastroenteritis associated with recreational water use
+
+were reported to the Centers for Disease Control and
+Prevention, of which 6 (55 %) were due to Giardia or
+cryptosporidium [21]. In many of these outbreaks, the
+most likely source of contamination was other
+swimmers. Various behaviours, including putting
+one’s head underwater, having water in one’s mouth,
+or swallowing water have all been shown to increase
+the risk of illness [7, 17].
+Are current standards for monitoring fresh water
+lakes adequate to prevent illness among swimmers ?
+NYS requires that bathing beaches be free of sewage
+and untreated sewage discharge, and that the watershed for the beach meets basic sanitary conditions. A
+local health authority may require the beach to
+monitor bacteriologic water quality, although the
+regulations call for measuring indicator organisms
+(total or faecal coliforms) that have been shown to
+correlate poorly with rates of gastroenteritis in
+swimmers [22, 23]. Most studies of gastrointestinal
+illness among swimmers have been done either in
+marine water or in large lakes with sewage outlets or
+commercial boating. The value of monitoring small
+lakes for faecal contamination from septic systems or
+swimmers has not been studied. Furthermore, current
+methods for collecting and testing recreational water
+may be insensitive to low concentrations of pathogens
+such as E. coli O157 : H7. As is the case in many
+bacterial waterborne outbreaks, we were unable to
+recover the pathogen from the environment [24].
+When is it safe to reopen fresh water lakes after
+evidence of faecal contamination ? Many factors,
+including water temperature, dilutional effect, currents
+and amount of organic matter may affect the survival
+and growth of bacteria in lakes. Under laboratory
+conditions, E. coli O157 : H7 has been shown to
+survive for up to 35 days at 5 °C and 20 °C [6] and
+shigella has been shown to survive in water for " 100
+days [25]. Because the infectious dose of E. coli
+O157 : H7 may be very small [26], recreational water
+that meets current standards for indicator organisms
+may still have a sufficient density of pathogens to
+cause disease. Therefore, it may not be possible to
+determine when the risk of disease is sufficiently low to
+allow the beach to reopen. In this outbreak, total
+coliform levels on scheduled testing dates fell within
+acceptable levels. It is not shown whether more
+frequent testing would have identified faecal contamination, although in the only other previously
+published outbreak of swimming-associated E. coli
+O157 : H7 infection, transmission occurred over a 3week period during which time enterococcus counts (a
+
+
+
+Swimming-associated haemorrhagic colitis
+more specific indicator of human faecal contamination) were mostly within Environmental Protection
+Agency standards [7].
+Because routine monitoring of recreational water
+may not detect faecal contamination by swimmers,
+the Dutchess County Department of Health is
+promoting proper hygiene for swimmers using the
+lake. Pamphlets and posted signs will warn against
+drinking lake water and ask that persons suffering
+from gastrointestinal disease or infants with dirty
+diapers not go in the lake. Changing tables have been
+installed in men’s and women’s locker rooms to
+encourage parents to change their children’s diapers
+away from the beach.
+Prompt reporting through routine disease surveillance and the recognition of a common exposure
+among the first case-patients led to the identification
+of the outbreak. Had local health officials not
+recognized this common link between initial casepatients, the lake might have remained open and more
+people might have become ill. Physicians and
+laboratories should promptly report cases of E. coli
+O157 infection to their local health department.
+Physicians and local health officials should consider
+exposure to recreational fresh water as a possible
+vehicle for enteric pathogens, including E. coli
+O157 : H7.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+11.
+
+12.
+
+A C K N O W L E D G E M E N TS
+We thank Drs William Mackenzie, Division of
+Training, Epidemiology Program Office, Centers for
+Disease Control and Prevention, Dale Morse, New
+York State Department of Health, for their helpful
+criticism, and Dr Charles Csiza, Wadsworth Center
+for Laboratories and Research, for performing the
+toxin testing.
+
+13.
+
+14.
+
+15.
+
+REFERENCES
+1. Riley LW, Remis RS, Helgerson SD, McGee HB, Wells
+JG, Davis BR. Hemorrhagic colitis associated with a
+rare Escherichia coli subtype. N Engl J Med 1983 ; 308 :
+681–5.
+2. Belongia EA, MacDonald KL, Parham GL, White KE,
+Korlath JA, Lobato MN, et al. An outbreak of
+Escherichia coli O157 : H7 colitis associated with consumption of precooked meat patties. J Infect Dis 1991 ;
+164 : 338–43.
+3. Bell BP, Goldoft M, Griffin PM, Davis MA, Gordon
+DC, Tarr PL, et al. A multistate outbreak of Escherichia
+coli O157 : H7-associated bloody diarrhea and hemolytic
+
+16.
+
+17.
+
+18.
+
+7
+
+uremic syndrome from hamburgers. The Washington
+experience. JAMA 1994 ; 272 : 1349–53.
+Morgan D, Newman CP, Hutchinson DN, Walker
+AM, Rowe B, Majid F. Verotoxin producing Escherichia
+coli O157 infections associated with the consumption of
+yoghurt. Epidemiol Infect 1993 ; 111 : 181–7.
+Besser RE, Lett SM, Weber JT, et al. An outbreak of
+diarrhea and hemolytic uremic syndrome from
+Escherichia coli O157 : H7 in fresh-pressed apple cider.
+JAMA 1993 ; 269 : 2217–20.
+Swerdlow DL, Woodruff BA, Brady RC, Griffin PM,
+Tippen S, Donnell HD, et al. A waterbone outbreak in
+Missouri of Escherichia coli O157 : H7 associated with
+bloody diarrhea and death. Ann Int Med 1992 ; 117 :
+812–9.
+Keene WE, McAnulty JM, Hoesly FC, et al. A
+swimming-associated outbreak of hemorrhagic colitis
+caused by Escherichia coli O157 : H7 and Shigella sonnei.
+N Engl J Med 1994 ; 331 : 579–84.
+Brewster DB, Brown MI, Robertson D, Houghton GL,
+Bimson J, Sharp JC. An outbreak of Escherichia coli
+O157 associated with a children’s paddling pool.
+Epidemiol Infect 1994 ; 112 : 441–7.
+Centers for Disease Control. Lake-Associated Outbreak of Escherichia coli O157 : H7-Illinois, 1995.
+MMWR 1996 ; 45 (21) : 437–9.
+New York State Sanitary Code, §6–20.15.
+American Public Health Association, American Water
+Works Association, Water Pollution Control Federation. Standard Methods for the examination of water
+and wastewater, 18th ed. Washington, D.C. : American
+Water Works Association, 1992.
+March SB, Ratnam S. Sorbitol-MacKonkey medium
+for detection of E. coli O157 : H7 associated with
+hemorrhagic colitis. J Clin Micro 1986 ; 23 : 869–72.
+Balows A, Hausler WJ Jr, Herrmann KL, Isenberg HD,
+Shadomy HJ, eds. Manual of clinical microbiology. 5th
+ed. Washington, D.C. : American Society for Microbiology, 1991.
+Schoonmaker D, Heimberger T, Birkhead G. Comparison of Ribotyping and restriction enzyme analysis
+using pulsed-field gel electrophoresis for distinguishing
+Legionella pneumophila isolates obtained during a
+nosocomial outbreak. J Clin Micro 1992 ; 30 : 1491–8.
+Dean AG, Dean JA, Coulombier D, Brendel KA,
+Smith KA, Burton AH, et al. Epi Info, Version 6.
+Centers for Disease Control and Prevention, Atlanta,
+GA, USA, 1994.
+Griffin PM, Ostroff SM, Tauxe RV, Greene KD, Wells
+JG, Lewis JH, et al. Illnesses associated with Escherichia
+coli O157 : H7 infections. A broad clinical spectrum.
+Ann Int Med 1988 ; 109 : 705–12.
+Sorvillo FJ, Waterman SH, Vogt JK, England B.
+Shigellosis associated with recreational water contact in
+Los Angeles County. Am J Trop Med & Hyg 1988 ; 38 :
+613–7.
+McAnulty JM, Fleming DW, Gonzalez AH. A community-wide outbreak of cryptosporidiosis associated
+with swimming at a wave pool. JAMA 1994 ; 272 :
+1597–600.
+
+
+
+8
+
+D. Ackman and others
+
+19. Katz AR, Manea SJ, Sasaki DM. Leiptospirosis on
+Kauai : Investigation of a common source waterborne
+outbreak. Am J Public Health 1991 ; 81 : 1310–12.
+20. Baron RC, Murphy FC, Greenberg HB, Davis CE,
+Bergman DJ, Gary GW, et al. Norwalk gastrointestinal
+illness : an outbreak associated with swimming in a
+recreational lake and secondary person-to-person transmission. Am J Epidemiol 1982 ; 115 : 163–72.
+21. Centers for Disease Control. Surveillance for waterbone
+disease outbreaks – United States, 1991–1992. MMWR
+1993 ; 42 (SS-5) : 1–22.
+22. Dufour AP. Health effects criteria for fresh recreational
+waters. Research Triangle Park, North Carolina : US
+Environmental Protection Agency, 1984 ; EPA publication no. 600}1–84–004.
+23. Fleisher JM, Jones F, Kay D, Stanwell-Smith, Wyer M,
+Morano R. Water and non-water-related risk factors
+
+for gastroenteritis among bathers exposed to sewagecontaminated marine waters. Int J Epidemiol 1993 ; 22 :
+698–708.
+24. Rose JB. Environmental sampling for waterborne
+pathogens : Overview of methods, application limitations and data interpretation. In : Graun GF, ed.
+Methods for the Investigation and Prevention of
+Waterborne Disease Outbreaks. Cincinnati, Ohio :
+Health Effects Research Laboratory, U.S. Environmental Protection Agency ; 1990 : 223–34.
+25. Mitscherlich E, Marth EH. Microbiological survival in
+the environment. New York : Springer Verlag, 1994 :
+449.
+26. Griffin PM, Tauxe RV. The epidemiology of infections
+caused by Escherichia coli O157 : H7 :, other enterohemorrhagic E. coli, and the associated hemolytic
+uremic syndrome. Epidemiol Rev 1991 ; 13 : 60–98.
+
+

@@ -1,0 +1,1196 @@
+C
+
+Journal of
+Environmental
+Monitoring
+
+Dynamic Article Links <
+
+Cite this: J. Environ. Monit., 2011, 13, 2427
+
+PAPER
+
+www.rsc.org/jem
+
+A comparison of rapid and conventional measures of indicator bacteria as
+predictors of waterborne protozoan pathogen presence and density†
+Samuel Dorevitch,*abc Mary Doi,b Fu-Chih Hsu,ad King-Teh Lin,e Jennifer D. Roberts,a Li C. Liu,b
+Ross Gladding,a Ember Vannoy,a Hong Li,b Margit Javora and Peter A. Scheffa
+Received 5th May 2011, Accepted 8th July 2011
+DOI: 10.1039/c1em10379b
+E. coli and enterococci in recreational waters are monitored as indicators of fecal contamination,
+pathogen presence, and health risk. Quantitative polymerase chain reaction (qPCR) tests for fecal
+indicator bacteria can provide beach managers with same-day information about water quality, unlike
+culture methods which provide that information the following day. The abilities of qPCR
+measurements of indicator bacteria, as compared to culture measurements of indicator bacteria, as
+predictors of pathogen presence or density in surface waters are not well understood. The purpose of
+this study was to make such comparisons between water samples collected from Chicago area surface
+waters, including rivers, inland lakes, Lake Michigan, and the Chicago Area Waterways System, which
+is dominated by wastewater effluent. A total of 294 twenty-litre samples were collected and analyzed for
+Giardia and Cryptosporidium. qPCR and membrane filtration methods were used to quantify E. coli
+and enterococci. Correlation, logistic regression, and zero-inflated Poisson modeling were utilized to
+evaluate associations between indicators and parasites. qPCR and culture measures of the indicator
+bacteria were similar in their ability to predict parasite presence and density. Correlations between
+parasites and indicators were generally stronger at waters not dominated by effluent. Associations
+between indicator density and Giarida presence were observed more consistently than between
+indicator density and Cryptosporidium presence. Associations between enterococci and parasites were
+generally stronger than associations between E. coli and parasites. The use of qPCR monitoring in our
+setting would generate more timely results without compromising the ability to predict parasite
+presence or density.
+
+a
+University of Illinois at Chicago School of Public Health, Division of
+Environmental and Occupational Health Sciences, 2121 West Taylor
+Street, M/C 922, Chicago, IL, 60612. E-mail: sdorevit@uic.edu; Fax:
+(+312) 355-3629; Tel: (+312) 355-3629
+b
+University of Illinois at Chicago School of Public Health, Division of
+Epidemiology and Biostatistics, 2121 West Taylor Street, M/C 922,
+Chicago, IL, 60612
+c
+University of Illinois at Chicago School of Public Health, Institute for
+Environmental Science and Policy, 2121 West Taylor Street, M/C 922,
+Chicago, IL, 60612
+d
+Scientific Methods, Inc., Granger, IN, USA
+e
+Mycometrics, Monmouth Junction, NJ, USA
+† Electronic supplementary information (ESI) available. See DOI:
+10.1039/c1em10379b
+
+Introduction
+A variety of bacterial, viral, and protozoan pathogens have been
+identified as causes of recreational waterborne illness outbreaks
+in the US.1,2 Outside of the context of recognized outbreaks
+approximately 2–4 percent of beachgoers develop sporadic cases
+of acute gastrointestinal illness attributable to swimming at
+freshwater and marine beaches.3,4 Rather than performing the
+costly, time-consuming, and technically challenging tests for
+a myriad of pathogens, easily measured bacteria that are associated with health risk have been monitored instead. At US
+recreational waters, the fecal indicator bacteria (FIB) measured
+
+Environmental impact
+The quantitative polymerase chain reaction, because it is more rapid that culture measures of indicator bacteria, may become
+a requirement of monitoring programs at US beaches. However, it is not know whether the new method of measuring indicators
+actually ‘‘indicates’’ the presence of waterborne pathogens better than culture methods of measuring indicator bacteria. This
+manuscript is the first to ask, and answer that question. These findings should help regulators and the scientific community select
+measurement targets and methods for monitoring surface waters.
+This journal is ª The Royal Society of Chemistry 2011
+
+J. Environ. Monit., 2011, 13, 2427–2435 | 2427
+
+
+
+are Escherichia coli (for freshwater) and Enterococcus spp. (for
+fresh or marine water). FIB densities are determined by counting
+the colony-forming units after overnight incubation in culture
+media. This method takes at least 18 to 24 h to complete, during
+which time swimmers can be exposed to poor-quality water.5–7
+The quantitative polymerase chain reaction (qPCR) has been
+used to detect and quantify the genetic material of indicator
+bacteria within 4 h of arrival at the laboratory.8 Because qPCR
+provides a faster method for assessing water quality, it has the
+potential to reduce illnesses resulting from exposure to contaminated waters. In 2004, the National Research Council of the
+National Academy of Sciences released the findings9 of
+a committee that, among other tasks, sought to ‘‘evaluate the
+strengths and weaknesses of [candidate indicators] for reflecting
+the presence, quantity, and viability of.important pathogens.’’
+Little is known about how qPCR measures of FIB compare to
+culture measures of FIB as predictors of pathogen presence and
+density. Giardia lamblia and Cryptosporidium parvum are
+protozoan pathogens that have caused outbreaks of recreational
+waterborne gastrointestinal illness.1,2 The present study
+compares two methods (qPCR and culture) for quantifying fecal
+indicator bacteria (E. coli and enterococci) as predictors of
+Giardia and Cryptosporidium presence and density.
+
+sampling. Grab sampling was used to collect water for both
+the culture and qPCR analyses of the indicator microbes. The
+surface of the water (up to 10 cm of depth) was sampled with the
+bottle’s opening facing against the current at an angle of
+45 degrees. Samples were collected in sterile containers at 2 h
+intervals at recreational access points. One to four rounds of
+sampling took place per day, depending on the duration of
+recreational activities of study participants. On days of sampling
+CAWS recreation areas, samples were also collected at 6 h
+intervals at locations approximately 3km above and 3km below
+the WWTPs. Large-volume sampling methods were used to
+collect samples for analysis of Giardia spp. and Cryptosporidium
+spp. with the use of continuous flow centrifugation (CFC),
+a method that concentrate protozoan parasite (oo)cysts.11 These
+samples were collected 1–2 times per day at 6 h intervals. Grab
+samples for analysis of indicator bacteria were generally collected
+within one hour of large-volume sampling the parasites.
+Precipitation data was obtained from the Illinois State Water
+Survey (http://www.isws.illinois.edu/data.asp) and variables
+were created to summarize the amount of rain in the 24, 48, 72,
+and 96 h prior to each round of sampling.
+
+Materials and methods
+
+Culture methods. After transportation of samples on ice to
+a commercial laboratory (Microbac, Inc., Merrilville, IN), E. coli
+was analyzed according to U.S. EPA Method 160312 with
+modified membrane-Thermotolerant E. coli (mTEC) agar (BD,
+product # 214880). Enterococci was analyzed using U.S. EPA
+method 160013 with modified membrane-Enteroccocus Indoxylb-D-Glucoside (mEI) agar (BD, product # 214881). For both
+indicator bacteria, a minimum of five dilutions were performed
+per sample in order to generate at least one plate per sample in
+the optimal range of colonies for enumeration.
+
+Setting
+The Chicago Health, Environmental Exposure, and Recreation
+Study (CHEERS) was a prospective cohort study performed by
+researchers at the University of Illinois at Chicago School of
+Public Health (UIC) with the objective of investigating the health
+risks of limited contact recreation on the effluent-dominated
+Chicago Area Waterways System (CAWS) (Fig. 1). The CAWS
+is a 126 km system of rivers and channels that diverts wastewater
+and urban drainage away from Lake Michigan, the source of
+drinking water for the Chicago area. Overall, about 75% of the
+flow in the CAWS is secondary-treated (aerobic digestion)
+effluent from three wastewater treatment plants (WWTPs) of the
+Metropolitan Water Reclamation District of Greater Chicago.10
+The effluent is not disinfected. During dry weather, effluent from
+the WWTPs accounts for nearly all flow in the system. During
+wet weather, storm runoff and combined sewer overflows
+contribute to flow on the CAWS. In addition to the CAWS,
+water was also sampled at locations not dominated by effluent,
+such as Lake Michigan harbors and beaches, local rivers (Fox,
+DuPage, Des Plaines) and inland lakes (Crystal, Maple, Busse,
+Tampier, Skokie Lagoons, others). We refer to these other
+waters, which are not dominated by effluent, as general use
+waters (GUW). At Lake Michigan beaches, full-contact recreation takes place; at the other GUW sites, limited contact recreation predominates.
+Sample collection
+Water samples were collected between April and July 2009 at 17
+CAWS sites and 28 GUW sites. Water was sampled at boat
+launches, piers and other access points. Surface water sample
+collection was performed according to U.S. EPA methods by two
+main procedures, direct (‘‘grab’’) sampling and large-volume
+2428 | J. Environ. Monit., 2011, 13, 2427–2435
+
+Microbiological methods
+
+qPCR methods. At UIC, under a laminar flow hood, 100 mL
+aliquots of grab samples were poured into disposable filter funnels and vacuum filtered through 47-mm, 0.4 micrometre poresized Millipore Isopore polycarbonate membrane filters.
+These membrane filters were then folded and placed into 2 mL
+extraction tubes pre-loaded with 212–300 mm Sigma acid-washed
+glass beads (Cat# S0205-50, GeneRite). These were stored at
+80  C until transport to Mycometrics, Inc (Monmouth Junction, NJ) laboratory for real time PCR quantification.
+Enterococci were analyzed by qPCR consistent with Method
+A.14 E. coli were analyzed by qPCR using the EC23S857 target
+recently described by Chern and colleagues.15 The primers and
+probes used are listed in Table 1. Reactions were performed in
+96-wells optical grade reaction plates (Cat# N801-0560, Applied
+Biosystems) by addition of the following components: 12.5 mL of
+TaqMan Universal Master Mix with AmpliTaq Gold  DNA
+polymerase (Cat# 4318157, Applied Biosystems), 3.5 mL of
+mixture of forward and reverse primers (5 mM each) and 400 nM
+TaqMan probe, 2.5 mL of BSA 2 mg ml1 BSA (fraction V,
+sigma), 1.5 mL of sterile H2O and 5 mL of DNA template. The
+reactions were monitored in a 7300 Real Time PCR System
+(Applied Biosystems). The thermal cycling conditions were: 2
+min at 50  C, 10 min at 95  C, 40 cycles of 15 s at 95  C, and 1 min
+at 60  C. Fluorescence values for determinations of cycle
+This journal is ª The Royal Society of Chemistry 2011
+
+
+
+Fig. 1 CHEERS research area.
+
+threshold (Ct) were manually set at 0.03. Cycler settings were the
+same for E. coli and enterococci analyses.
+Three calibration standards were prepared for each sample
+process as described in EPA Method A.14 Calibrator cells (Ent.
+faecalis, ATCC 29212 and E. coli, ATCC 25922) were purchased
+from ATCC and cultured in house at Mycometrics. A known
+amount of 10 mL calibrator cell suspension (1  105 cells for
+Enterococci and 5  105 cells for E. coli) was spotted onto the
+clean polycarbonate filter in preloaded bead tubes (Cat# 0205-
+
+50, GeneRite, NJ) of the three calibrator standards, each run in
+duplicate for a total of six reactions. A preloaded bead tube
+containing a clean polycarbonate filter served as the method
+blank for each sample process.
+All the sample filters, calibrator samples, and blanks (negative
+controls) were placed in 600 mL of extraction buffer for a final
+concentration of 0.2 mg mL1 salmon testes DNA (SigmaAldrich #D1626) and were processed by glass milling to release
+total DNA. The concentration of salmon testes DNA stock was
+
+Table 1 Primers and probes used for qPCR analysis
+Enterococci27
+E. coli13
+
+This journal is ª The Royal Society of Chemistry 2011
+
+Forward Primer: 50 -AGAAATTCCAAACGAACTTG-30
+Reverse Primer: 50 -CAGTGCTCTACCTCCATCATT-30
+Probe: 50 -6FAM-TGGTTCTCTCCGAAATAGCTTTAGGGCTA-30 TAMRA
+Forward Primer: 50 -GGTAGAGCACTGTTTTGGCA-30
+Reverse Primer: 50 -TGTCTCCCGTGATAACTTTCTC-30
+Probe: 50 -6FAM-TCATCCCGACTTACCAACCCG-30 TAMRA
+
+J. Environ. Monit., 2011, 13, 2427–2435 | 2429
+
+
+
+determined by OD260 reading in a spectrophotometer. An OD260
+of 1 is approximately equal to 50 mg/mL. After milling, the
+extraction tubes were centrifuged at 12,000  g for 1 min and
+400 mL of crude extract was transferred to clean, low-DNAbinding, 1.7 mL microcentrifuge tubes (Cat# S1203-17-PK,
+GeneRite, NJ). 400 mL crude extract was centrifuged for 5 min at
+12,000  g. 350 mL of clarified supernatant was transferred to
+another 1.7 mL tube as undiluted clarified crude extract. A 50 mL
+of aliquot of each sample was diluted with 200 mL of elution
+buffer (Cat# S2401-50, GeneRite, NJ) to make 5-fold dilutions
+for qPCR analyses.
+The comparative cycle threshold (CT) method (also called
+the DDCT method) was used to quantify the relative quantity
+of target DNA. This method determines the calibrator cell
+equivalents (CCE) of target DNA sequences extracted from an
+unknown test sample compared to the quantity of target
+sequences extracted from a known quantity (calibrator cell
+standard) of target organism in a calibrator sample. This is
+done after normalizing for the relative recoveries of total DNA
+in the extraction process from the two samples by comparing
+the recovered quantities of an external reference organism
+added to both calibrator and test (water) samples. For each test
+sample and corresponding calibrator sample reaction, a DCT
+value is obtained by subtracting the CT value of the reference
+assay (CTref) from the Ct value of the target sequence assay
+(CTtarget). A DDCT value is obtained by subtracting the DCT
+value of the calibrator sample from the DCT value of the test
+sample. The ratio of the target sequences in the test and calibrator samples is described by AE DDCT, where AE is the
+amplification efficiency of the target assay. The ratios are
+multiplied by the known number of the target organism cell in
+the calibrator samples to obtain estimates of the number of
+target cells (also called calibrator cell equivalents) in each test
+sample. The TaqMan Mix assays systems used in this study
+was shown to have approximately equal AE for target
+(E. facalis) and reference (Sketa 2) (96% and 93%, respectively).16 Samples that showed substantial inhibition (DCT of
+the SPC in the test and calibrator sample $3) were excluded
+from data analyses.
+Parasites. Analyses of Giardia and Cryptosporidium (oo)cysts
+were performed according to U.S. EPA Method 1623.17
+Twenty L samples were centrifuged at UIC, and CFC samples
+were sent to Scientific Methods, Inc. (Granger, IN) for analysis. Pellets were processed by immunomagnetic separation
+with Dynabeads GC-Combo (Dynal Cat. No. 730.12) to
+concentrate and purify the (oo)cysts. The (oo)cysts were placed
+on slide wells, then stained and fluorescently-labeled with
+Aqua-Glo (TM) monoclonal antibodies G/C Direct (Waterborne Inc., Cat. No. A100FLR, New Orleans, LA). (Oo)cysts
+were identified by fluorescence and differential interference
+contrast microscopy and confirmed to be Giardia and Cryptosporidium qualitatively based on size, shape, color, and
+morphology.
+Quality monitoring. In order to monitor sample handling and
+laboratory performance, field blanks, method blanks, matrix
+spikes and sample splits were sent to the three commercial labs
+performing analyses.
+2430 | J. Environ. Monit., 2011, 13, 2427–2435
+
+Indicator bacteria by culture. One field blank was collected
+after the first round of sampling at every location sampled on
+a given day. Field blanks were prepared by filling a sampling
+container with sterile buffer solution at the location of surface
+water sampling. For qPCR and culture methods of both indicator bacteria, a 2 L grab sample was split among three
+containers; two were analyzed as splits to evaluate precision
+while the third was spiked with BioBall material (BTF, Pty, Ltd.,
+North Ryde, Australia). E. coli BioBalls either 550 and 10 000
+CFU, depending on the density of E. coli previously observed at
+a given location, were used for spiking. Between 1 and 10
+enterococci 550 CFU BioBalls were used, depending on the
+previously observed densities of enterococci at a given location.
+Indicator bacteria by qPCR. One field blank was prepared
+after the first round of sampling at every location being sampled
+on a given day. Field blanks were prepared by pouring 1 L of
+sterile buffer solution into an empty sample collection bottle at
+the time and place of water sampling. One method blank was
+prepared in the laboratory for every six sample aliquots by
+filtering 100 mL of PCR-grade sterile buffer solution following
+the same procedure used for the field samples. The same cell
+suspension used for preparing calibrator samples was used for
+spiking by micropipetting spike material directly into the filter
+funnel containing a 100 mL aliquot of sample water (matrix
+spike) or sterile buffer solution (blank spike) before filtration In
+the first half of the study the spike solution concentration was
+10 000 CE/100 mL and in the second half of the study it was
+20 000 CE/100 mL.
+Parasites. One blank sample per sampling date was prepared
+at UIC by running 20 L of sterile water through the CFC system.
+Ten percent of samples were collected as splits; the first split was
+processed as a sample while the second split was processed as
+a spike by adding a approximately 160 Giardia cysts and 160
+Cryptosporidium oocysts in a 5mL spike solution (Wisconsin
+State Laboratory of Hygiene) to the 20L cubitainer before
+centrifugation.
+Limits of detection for both Giardia and Cryptosporidium was
+one (oo)cyst per 20 litres, as one (oo)cyst could be reported for
+a 20L sample. The limit of detection for both bacterial indicators
+was 1 CFU per 100 mL. For qPCR analyses, the limit of quantification was 100 CCE per 100 mL.
+Statistical analysis
+Microbe densities were log10-transformed prior to correlation
+and regression analyses. Because of the large number of parasite
+non-detects, the data were heavily skewed and therefore the
+nonparametric rank order correlation analysis was performed to
+calculate the Spearman correlation coefficient (rs). Non-detects
+were assigned values of 0.1 the limit of detection; the results of
+data analysis were compared to those obtained when the nondetects were assigned 0.5 the limit of detection. Because of the
+large number of non-detects, particularly for Cryptosporidium,
+zero-inflated Poisson (ZIP) regression modeling was used. This
+approach allows the modeling of a continuous measurement
+among a variable with many zero values,18 in our case, the
+density of parasite (oo)cysts. Poisson regression predicting
+This journal is ª The Royal Society of Chemistry 2011
+
+
+
+non-zero parasite counts and a logistic regression predicting nondetects were simultaneously estimated. This allows the use of
+a common set of covariates for predicting both values among
+non-zero counts and the occurrence of zero count observations.
+Multivariate analysis was performed adjusting for location
+group (CAWS versus GUW) and amount of precipitation in the
+preceding 48 h based on the observed associations between these
+variables and (oo)cyst densities (the dependent variable).
+Because coefficients were not estimable for the ZIP models of
+non-detects, simple logistic regression was used to model parasite
+presence, a binary outcome variable, using indicator bacteria
+densities as predictors. Our interest was in comparing estimates
+of indicator bacteria measured by qPCR and culture rather than
+constructing a model with the greatest predictive ability; for that
+reason no attempt was made to use both indicator bacteria or
+both measurement methods in the same model. All statistical
+analyses were performed using SAS software version 9.2 (SAS
+Institute Inc., Cary, NC).
+
+Results
+Quality monitoring of water microbiology data
+Of the 392 method and field blank samples analyzed for
+enterococci by qPCR, 82.9% were undetectable after 40 cycles
+(Supplementary Data, Table 1). Of the blanks, 4.1% contained
+enterococci targets at densities greater than 100 CCE/100 mL. Of
+the 215 E. coli qPCR blank samples, only 44.6% were undetectable after 40 cycles (Supplementary Data, Table 2). Of the
+215 blanks analyzed for E. coli, 32.1% had CCE greater than
+1,000 CCE/100 mL. Although E. coli targets were frequently
+detected in the blanks, the distribution of E. coli in the 215 blanks
+(mean CCE, 95% confidence interval) 1,222 (962, 1,682) was
+distinct from the distribution of E. coli targets in the 149 surface
+water samples 82,269 (29,054, 135,483), Wilcoxon 2-sided
+p-value < 0.0001.
+All E. coli and enterococci laboratory blanks analyzed by
+culture method showed no growth. Of the 174 field blanks
+analyzed for enterococci by culture, 142 (81.6%) showed no
+growth (Supplementary Data, Table 3). Thirteen (7.5%) of the
+field blanks had densities of enterococci greater than 10 CFU/
+100mL by culture. Of the 175 field blank analyzed for E. coli by
+culture, 159 (90.9%) showed no growth (Supplementary Data,
+Table 4). Six of the field blanks (3.4%) showed more than 10
+CFU/100mL of E. coli. No false-positive results were observed
+for tests for Giardia and Cryptosporidium (oo)cysts in blank
+samples. Control charts, plotting the results of blank samples
+(field and method) against sampling time, demonstrated no
+systematic errors or trends in positive method or field blank
+samples. As noted in Supplementary Data, Table 5, recovery of
+(oo)cysts and of indicator bacteria by culture were within EPA
+method requirements.
+Water quality
+A total of 294 samples analyzed for parasites were linked to both
+enterococci culture and qPCR data. Of those, 124 samples were
+linked to both E. coli culture and qPCR data. Of the enterococci
+and E. coli culture samples, 99% and 97%, respectively were
+collected within one hour of the parasite samples. Summary
+This journal is ª The Royal Society of Chemistry 2011
+
+statistics for the log10 transformed values for all of the organisms
+are shown in Table 2. Fewer samples analyzed for E. coli by
+qPCR because the analysis for E. coli by qPCR was discontinued
+due to the positive E. coli blanks. Giardia cysts were detected in
+86.1% of CAWS samples and 47.1% of GUW samples. Cryptosporidium oocysts were detected in 34.8% of CAWS samples and
+22.1% of GUW samples. The E. coli freshwater criterion for
+a single-sample maximum allowable density for a designated
+bathing beach of 235 CFU per 100 mL was exceed in 69.6% of
+CAWS samples and 36% of GUW samples. The enterococci
+freshwater criterion for a single-sample maximum allowable
+density for a designated bathing beach of 61 CFU per 100 mL
+was exceeded in 116 of 168 (73.5%) CAWS samples and 75 of 136
+(55.2%) of GUW samples.
+The geometric mean (GM) indicator densities summarized
+in Table 2 show that qPCR GM values were 2–33 times
+higher than the GM culture values. The ratios of GM were
+higher in the effluent dominated CAWS samples than in the
+GUW samples, and higher for enterococci than for E. coli.
+Densities of indicator bacteria measured by both methods, as
+well as densities of parasites, were higher at CAWS locations
+than GUW locations (p < 0.05). The impact of assigning
+different values to below the limit of detection (LOD) samples
+for FIB densities measured by culture was evaluated. The use
+of 0.5 the LOD, rather than 0.1 the LOD had a minimal
+impact, increasing GM of FIB densities by about 5% for
+GUW samples only.
+Statistically significant positive correlations were found
+between Giardia and both indicator bacteria measured by both
+methods, ranging from 0.446 to 0.684 (Table 3). Currently
+available statistical methods do not allow determining whether
+differences between Spearman (rank) correlation coefficients (rs)
+are statistically significant (the significance of difference of
+Pearson correlation can be compared, but our data were not
+distributed normally nor lognormally, precluding Pearson
+correlation analysis). Thus, we can only comment on the size of
+the rs qualitatively rather than statistically testing differences in
+correlation. All rs for Giardia and the FIB (both indicators, both
+measurement methods) were greater than the corresponding rs
+between Cryptosporidium and the FIB. The rs were larger for
+indicator-pathogen correlations in samples collected in the noneffluent-dominated GUW locations than on the effluent-dominated CAWS. Clear and consistent differences between rs for
+associations involving qPCR and culture measures of FIB were
+not apparent.
+Logistic models were used to evaluate FIB as predictors of
+parasite presence because ZIP models did not generate stable
+estimates of association between the indicator bacteria and
+pathogen presence. Bivariate logistic models demonstrated
+associations between Giardia presence and water type (CAWS vs.
+GUW), orientation to the WWTPs, precipitation, and both
+indicator bacteria measured by both methods (Table 4). The
+strength of associations between parasites and either qPCR or
+culture measures of FIB were comparable. Cryptosporidium was
+associated with enterococci (by both measurement methods) but
+not with E. coli (by either measurement method). In CAWS
+samples, Giardia presence (but not Cryptosporidium presence)
+was strongly associated with a downstream orientation relative
+to the WWTPs.
+J. Environ. Monit., 2011, 13, 2427–2435 | 2431
+
+
+
+Table 2 Summary tatistics for parasites and indicator bacteria.a,b,c,d
+Parasites (10 L1)
+Giardia
+Organism unit
+No. of samples
+Geometric mean (all)
+CAWS
+GUW
+Median
+Geometric SD
+Max
+Min
+CAWS n ¼ 158
+GUW n ¼ 136
+
+E. coli (100 mL1)
+Crypto
+
+Culture
+
+Cyst
+294
+1.4
+6.5
+0.2
+2.5
+23.4
+449.8
+0.0
+
+Oocyst
+294
+0.1
+0.1
+0.1
+0.0
+8.4
+69.5
+0.0
+Detected n, (%)
+136 (86.1)
+55 (34.8)
+64 (47.1)
+30 (22.1)
+
+CFU
+293
+274.8
+677.6
+95.7
+278.6
+9.4
+25,351
+0.1
+110 (69.6)
+49 (36.0)
+
+Enterococci (100 mL1)
+qPCR
+
+Culture
+
+qPCR
+
+CCE
+CFU
+125
+294
+1,396.4
+110.2
+9,571.9
+163.8
+210.4
+69.5
+3,198.9
+140.9
+58.3
+7.8
+1,901,078
+18,493
+0.1
+0.1
+Above EPA single-sample maximume n,(%)
+116 (73.5)
+75 (55.2)
+
+CCE
+294
+1,790.6
+5,482.8
+487.5
+3,097.4
+16.0
+561,048
+0.1
+
+a
+CFU ¼ colony forming units. b CCE ¼ cell equivalent. c LOD ¼ limit of detection. d SD ¼ standard deviation. e Single sample maxima for freshwater
+beaches: E. coli, 235 CFU/100 mL; enterococci, 61 CFU/100 mL.
+
+Among samples with detectable parasites, density was estimable using the ZIP models, which included terms for precipitation and location type. The qPCR measures of both indicator
+bacteria were associated with Giardia density and qPCR
+measures of enterococci were associated with Cryptosporidium
+density (Table 5). Culture measures of enterococci, but not E.
+coli, were associated with Giardia density, and neither indicator
+measured by culture was associated with Cryptosporidium. An
+inverse association between E. coli measured by qPCR and
+Cryptosporidium was observed. Stratifying the data by location
+type (effluent-dominated vs. other) resulted in unstable parameter estimates for the indicator term.
+
+Discussion
+In this study, fecal indicator bacteria measured by qPCR, a rapid
+molecular method, were compared to culture methods as
+predictors of Giardia and Cryptosporidium presence and density.
+This study involved a relatively large number of samples
+analyzed for parasite (oo)cysts and sampling from diverse water
+types. Measures of the two parasites differed from one another,
+
+with more frequent detection and higher densities of Giardia
+compared to Cryptosporidium. As expected, the odds of detecting
+Giardia were considerably higher on the effluent-dominated
+CAWS than on the general use waters, while the odds of
+detecting Cryptosporidium on the CAWS (vs. GUW) were less
+dramatically elevated. On the CAWS, Giardia cysts, but not
+Cryptosporidium oocysts, were more likely to be present downstream (versus upstream) of the treatment plants. Given these
+differences between the two parasites, Giardia appears to be
+a better indicator of human fecal pollution (from wastewater
+discharge or combined sewer overflow) than is Cryptosporidium
+in our setting. We compared qPCR and culture measures of FIB
+in association with parasites in three ways: rank correlation,
+prediction of parasite presence/absence in simple logistic models,
+and, among samples that contained detectable parasites, ZIP
+models to evaluate indicators as predictors of parasite density.
+Enterococci (both methods) density predicted Giardia and
+Cryptosporidum presence, while E. coli (both methods) predicted
+only Giardia presence. Among samples that contained quantifiable parasite (oo)cysts, enterococci, measured by both methods
+predicted Giardia density, and by the qPCR method,
+
+Table 3 Spearman rank order correlation coefficient (rs) matrix.b,c
+
+Giardia
+Crypto
+E. coli culture (all)
+CAWS
+GUW
+E. coli qPCR (all)
+CAWS
+GUW
+Entero culture (all)
+CAWS
+GUW
+Entero qPCR (all)
+CAWS
+GUW
+
+Giardia
+
+Crypto
+
+1.00
+0.384
+0.552
+0.306
+0.522
+0.578
+0.211a
+0.437
+0.446
+0.397
+0.524
+0.684
+0.498
+0.670
+
+1.00
+0.073a
+0.224
+0.359
+0.100a
+0.238
+0.317
+0.243
+0.100a
+0.376
+0.223
+0.017a
+0.428
+
+E.coli culture
+
+E.coli qPCR
+
+Entero culture
+
+Entero qPCR
+
+1.00
+0.572
+0.497
+0.341
+0.773
+0.759
+0.766
+0.656
+0.429
+0.628
+
+1.00
+0.519
+0.572
+0.342
+0.556
+0.121a
+0.492
+
+1.00
+0.516
+0.308
+0.652
+
+1.00
+
+a
+p value > 0.05; all others # 0.05. b CAWS ¼ Chicago Area Waterways System; Entero ¼ enterococci; GUW ¼ general use waters. c For correlations
+involving enterococci, n ¼ 294; for correlations involving E. coli, n ¼ 124.
+
+2432 | J. Environ. Monit., 2011, 13, 2427–2435
+
+This journal is ª The Royal Society of Chemistry 2011
+
+
+
+Table 4 Odds ratio (95% CI) for parasite presence in single-predictor models
+Giardia presence
+Variables:
+
+detected/total
+
+CAWS vs. GUW
+Below vs. above WWTP
+Rain past 12 h
+Rain, past 48 h
+Rain, past 72 h
+Rain, past 96 h
+Log10 E. coli culture
+Log10 E. coli qPCR
+Log10 Entero culture
+Log10 Entero qPCR
+a
+
+Cryptosporidium presence
+
+OR (95% CI)
+a
+
+200/294
+135/149
+200/294
+200/294
+200/294
+200/294
+101/149
+101/149
+200/294
+200/294
+
+6.95 (3.96, 12.2)
+7.43 (2.19, 25.2)a
+1.62 (0.47, 5.57)
+2.16 (1.27, 3.67)a
+1.65 (1.19, 2.28)a
+1.56 (1.23, 1.97)a
+3.83 (2.27, 6.45)a
+1.69 (1.33, 2.16)a
+2.59 (1.86, 3.62)a
+3.84 (2.64, 5.57)a
+
+detected/total
+
+OR (95% CI)
+
+85/294
+55/149
+85/294
+85/294
+85/294
+85/294
+38/149
+38/149
+85/294
+85/294
+
+1.89 (1.12, 3.18)a
+1.37 (0.65, 2.89)
+0.24 (0.04, 1.40)
+0.82 (0.55, 1.23)
+1.09 (0.86, 1.37)
+1.04 (0.92, 1.18)
+1.21 (0.84, 1.75)
+1.10 (0.88, 1.39)
+1.82 (1.30, 2.54)a
+1.59 (1.20, 2.11)a
+
+p < 0.05.
+
+Cryptosporidium density. Culture measures of E. coli were not
+associated with (oo)cysts density, while qPCR measures of E. coli
+had a paradoxical inverse association with Cryptosporidium
+oocyst density. Clear advantages were not apparent for qPCR vs.
+culture measures of FIB in association with parasite (oo)cysts in
+rank correlation, presence/absence, and (oo)cyst density
+analyses.
+A prior study evaluated qPCR measures of a fecal indicator
+bacterium, Bacteroidales spp., as a predictor of the presence of
+parasite (oo)cysts, as well as pathogenic bacteria.19 In that study,
+the rank correlation between Bacteroidales and Cryptosporidium
+was 0.213 (p ¼ 0.013), comparable to that between the bacterial
+indicator fecal coliforms (measured by culture) and Cryptosporidium, 0.180 (p ¼ 0.035). The many differences between that
+study and our own - sites, pollutant sources, measurement
+methods, measurement targets - preclude drawing firm conclusions about indicator-pathogen relationships for qPCR and
+culture measures of indicators. Nevertheless, neither study
+demonstrated clearly stronger associations between parasite (oo)
+cysts and indicators measured by qPCR than by culture. Another
+study reported correlations between reduction in qPCR measures
+of indicators and reduction in measures of viral pathogens
+throughout the wastewater treatment process.20 The partial
+correlations reported in that study were quite high – more than
+0.9 in many cases. However, associations between viral pathogen
+presence or density and indicator measures were not reported,
+precluding comparison to our findings. Several studies in other
+settings have shown absent correlations between indicator
+bacteria culture and parasite levels at wastewater treatment
+
+plants, but weak to moderate rank correlations in surface waters
+(Table 6), consistent with our findings.
+qPCR measures DNA, as opposed to culturable cells. The
+DNA quantified in qPCR analyses may represent DNA from
+lysed/damaged cells, nonviable cells, or cells in the viable but
+nonculturable state.21 These sources of DNA can lead to the
+overestimation of indicator bacteria measured by qPCR when
+compared with the culture-based assays by an order of magnitude,22,23 as was the case in our setting. The qPCR method of
+measuring enterococci has been shown to be a predictor of health
+risks among swimmers at freshwater3 and marine beaches4 in the
+National Epidemiological and Environmental Assessment of
+Recreational water (NEEAR) study. Among NEEAR freshwater swimmers, enterococci qPCR a better predictor of GI
+illness than was enterococci measured by culture.3 This suggests
+that perhaps the persistence of entoercoccal DNA resulted in
+stronger indicator-pathogen associations than associations
+between culturable bacteria and pathogens. Our results do not
+demonstrate substantially stronger correlations between parasite
+(oo)cysts on one hand and either qPCR vs. culture measures of
+FIB on the other. This observation, however, does preclude the
+possibility of stronger associations between the relevant pathogens and qPCR measures of indicators compared to culture
+measures of indicators, as it is not known whether GI illness
+attributable to swimming in the NEEAR study was caused by
+bacterial, viral, and/or protozoan pathogens.
+The detection and densities of protozoan pathogens on the
+CAWS several years prior to our study has been described (Rijal
+et al., 2009). Our findings from CAWS locations are consistent
+
+Table 5 Zero inflated Poisson adjusted estimates of the increase in parasite (oo)cysts (per 10L) for a log10 increase in indicator bacteria, among samples
+with detectable (non-zero) parasites.a
+Giardia
+
+E. coli
+Enterococci
+
+Cryptosporidium
+
+Culture
+
+qPCR
+
+Culture
+
+qPCR
+
+2.27 (14.2, 18.76)
+3.07 (0.80, 1.50)b
+
+0.27 (0.03, 0.52)b
+2.91 (0.56, 1.80)b
+
+5.26 (29.70, 40.22)
+8.41 (9.38, 22.36)
+
+1.76 (2.34, 1.19)b
+1.54 (0.50, 2.58)b
+
+All models are adjusted for the amount of precipitation in the past 48 h, and location group (CAWS vs. GUW). b p value < 0.05. CAWS ¼ Chicago
+Area Waterways System; Entero ¼ enterococci; GUW ¼ general use waters.
+a
+
+This journal is ª The Royal Society of Chemistry 2011
+
+J. Environ. Monit., 2011, 13, 2427–2435 | 2433
+
+
+
+Table 6 Previously reported correlations between parasites and E. coli or enterococci
+E. coli
+Reference
+28
+
+Cizek et al., (2008)
+Cost
+an-Longares et al., (2008)29
+Coupe et al., (2006)30
+H€
+anninen et al., (2005)31
+Harwood et al., (2005)25
+H€
+orman et al., (2004)32
+Mons (2009)33
+Briancesco and Bonadonna (2005)34
+Wilkes et al., (2009)24
+
+Schriewer, et al., 201017
+Present study (from Table 3)
+
+Type of water (Location)
+
+Giardia
+
+5 tributaries to Kensico Reser (New York)
+4 WWTP with secondary & tertiary
+effluent (Spain)
+2 recreational lakes & 3 river sites with
+bathing & boating (near Paris)
+WWTPs, river, & drinking water plant
+(Finland)
+6 wastewater treatment plants (AZ, FL,
+CA)
+Surface freshwater from lakes and rivers
+(Finland)
+Seine and Marne Rivers (France)
+Raw/treated wastewater, surface, pool,
+and drinking water (Italy)
+River tributaries within South Nation
+River basin (Canada)
+After stratifying by season and sample
+sites
+Monterray Bay, CA area streams,
+estuaries
+Indicator culture, unstratified
+Indicator culture, CAWS
+Indicator culture, GUW
+Indicator PCR, unstratified
+Indicator PCR, CAWS
+Indicator PCR, GUW
+
+rs 0.12
+p < 0.01b
+
+Limitations
+In this study, water sampling took place in a single year,
+primarily in late spring through mid-summer. Sampling
+throughout the year may been informative, as in other settings
+seasonal changes in the indicator-parasite relationship have been
+reported.24 Also, this study only measured densities of the
+parasites in surface waters and did not differentiate between (oo)
+cysts that were infectious and those which were not, as has been
+done in other studies.10,25 The CAWS is a unique engineered
+waterway in which the majority of the flow is treated but nondisinfected wastewater. Thus, our observations about indicatorprotozoan pathogen associations on the CAWS may be of
+limited generalizability.
+The water tested for indicator bacteria and protozoa did not
+come from a single larger sample that was then split. Rather,
+grab samples were collected for the indicator bacteria and
+separate 20-L samples were collected at the same location, but
+not simultaneously (generally within the same hour). We speculate that the indicator-parasite associations would have been
+2434 | J. Environ. Monit., 2011, 13, 2427–2435
+
+Crypto
+NSa
+NSb
+
+Giardia
+rs 0.17
+p < 0.01b
+
+Crypto
+NSa
+NSb
+
+NSa
+NSa
+NS
+
+rs 0.17c
+
+rs 0.29c
+r 0.062
+
+rs 0.05
+r 0.060
+
+rs 0.35c
+r 0.81c
+
+rs 0.11
+r 0.67c
+
+rs 0.20c
+
+rs 0.37c
+
+rs 0.17c
+
+rs 0.33c
+
+rs 0.82c
+
+rs 0.67c
+
+rs 0.55c
+
+rs 0.67c
+
+NS
+
+rs 0.18c
+
+rs 0.55c
+rs 0.31c
+rs 0.52c
+rs 0.58c
+rs0.21
+rs 0.44c
+
+a
+Spearman correlations ‘‘not significant’’ between indicator bacteria and viable Cryptosporidium oocysts.
+bacterial levels >100 CFU 100 ml1 and parasite presence. c p value < 0.05.
+
+with the observation of that earlier study, which noted higher
+rates of detection and greater density of Giardia cysts than
+Cryptosporidium oocysts. Clear differences in Giardia cyst presence downstream, compared to upstream, of the WWTPs were
+less apparent in the earlier study than in our work, perhaps due in
+part to differences in exact sampling locations, weather, and the
+use of the centrifuge for concentrating (oo)cysts in our study.
+
+Enterococci
+
+rs 0.07
+rs 0.22c
+rs 0.36c
+rs 0.10
+rs-0.24c
+rs 0.32c
+b
+
+rs
+rs
+rs
+rs
+rs
+rs
+
+0.45c
+0.40c
+0.52c
+0.68c
+0.50c
+0.67c
+
+rs 0.24c
+rs0.10
+rs 0.38c
+rs 0.22c
+rs-0.02
+rs 0.43c
+
+Chi-square test of association between
+
+somewhat stronger had the samples come from a single larger
+sample.
+Another limitation is that E. coli CCE enumerated by the
+qPCR method used Taq polymerase which is produced from E.
+coli. This has been described by others, most recently by Chern
+et al., (2011) and likely resulted in the presence measurable E. coli
+target sequences in the blanks (Supplementary Data, Table 2).
+Because the blanks were negative for enterococci on qPCR
+analysis, field or laboratory contamination seems less likely. We
+used AmpliTaq Gold; others have noted better control for E.
+coli DNA contamination by using AmpliTaq Gold, Ultra
+Pure.15 In retrospect the discontinuation of qPCR analyses of E.
+coli was unfortunate, as, despite the positive blanks the distribution E. coli CCE values did not overlap with the E. coli CCE
+values of the surface water samples. Furthermore, despite the
+positive blanks, the analyses clearly yielded valuable information, as the E. coli CCE data were correlated with Giardia presence and density.
+Methods for qPCR laboratory methods and calculations are
+evolving. A variety of sources of error, as well as ways of
+addressing those sources, are being investigated in many laboratories. Variability in nucleic acid extraction and sample inhibition can be addressed to some degree by using the DDCT
+method. Contamination of samples can be identified through
+blank analysis; variability can be reduced by minimizing the
+number of analysts that perform DNA extraction and sample
+analysis. Using reagents from the same vendor and creating new
+calibrations curves with each batch of reagents should reduce the
+amount of random error in qPCR results. Further method
+This journal is ª The Royal Society of Chemistry 2011
+
+
+
+development research may identify a threshold of inhibition for
+which adjustment using the DDCT method may not be appropriate (we excluded from analyses, rather attempting any
+correction of CCE values, samples with a delay or three or more
+cycles). It is possible that qPCR methods that utilize propidium
+monozaide (PMA-qPCR) to differentiate target sequences of
+viable bacteria from other sources (non-viable bacteria, cell-free
+DNA) would generate different indicator-pathogen relationships,26 particularly for pathogenic bacteria; however, this
+method was not used in our study.
+
+Conclusions
+To the best of our knowledge, this is the first study to compare
+the performance of the qPCR method and culture methods of
+FIB as predictors of protozoan pathogen presence and/or
+density. Relationships between indicator bacteria and protozoan
+pathogens are complex, and depend upon the specific indicator
+and the method of measuring the indicator. Generally, the rank
+correlations between indicator bacteria and protozoa appeared
+stronger at the inland lakes, rivers, and Lake Michigan than in
+the effluent-dominated waters. In our setting, there may be
+advantage to using enterococci, rather than E. coli, as a ‘‘parasite
+indicator’’ because, while both microbes were associated with
+Giardia, only enterococci was associated with Cryptosporidium
+oocyst presence. On the other hand, Giarida cysts are more
+strongly associated with wastewater discharge (effluent dominated vs. other waters and below vs. above the treatment plant on
+the effluent-dominated waters) than Cryptosporidium oocysts.
+For that reason E. coli, which was associated with Giardia but
+not Cryptosporidium (oo)cysts, may be somewhat more specific
+as an indicator of wastewater in our setting. The relevance of
+a ‘‘parasite indicator’’ may be limited, however, as recent
+modeling suggests that the most common causes of recreational
+waterborne gastrointestinal illness may be viruses, rather than
+protozoa.27 Given that qPCR methods generate more timely
+results, there is a clear advantage to using that method for
+indicator bacteria measurement; our results suggest that there is
+no loss in ability to predict parasite presence and density using
+the rapid molecular method for indicator monitoring.
+
+Acknowledgements
+This research was funded by the Metropolitan Water Reclamation District of Greater Chicago. Many thanks to Meredith
+Wroblewski for data management.
+
+Notes and references
+1 E. J. Dziuban, J. L. Liang, G. F. Craun, V. Hill, P. A. Yu, J. Painter,
+M. R. Moore, R. L. Calderon, S. L. Roy and M. J. Beach, MMWR
+Surveill Summ, 2006, 55, 1–30.
+2 J. S. Yoder, M. C. Hlavsa, G. F. Craun, V. Hill, V. Roberts, P. A. Yu,
+L. A. Hicks, N. T. Alexander, R. L. Calderon, S. L. Roy and
+M. J. Beach, MMWR Surveill Summ, 2008, 57, 1–29.
+3 T. J. Wade, R. L. Calderon, K. P. Brenner, E. Sams, M. Beach,
+R. Haugland, L. Wymer and A. P. Dufour, Epidemiology
+(Cambridge, Mass), 2008, 19, 375–383.
+4 T. J. Wade, E. Sams, K. P. Brenner, R. Haugland, E. Chern,
+M. Beach, L. Wymer, C. C. Rankin, D. Love, Q. Li, R. Noble and
+A. P. Dufour, Environ. Health, 2010, 9, 66.
+
+This journal is ª The Royal Society of Chemistry 2011
+
+5 A. B. Boehm, S. B. Grant, J. H. Kim, S. L. Mowbray, C. D. McGee,
+C. D. Clark, D. M. Foley and D. E. Wellman, Environ. Sci. Technol.,
+2002, 36, 3885–3892.
+6 D. Hou, S. J. Rabinovici and A. B. Boehm, Environ. Sci. Technol.,
+2006, 40, 1737–1743.
+7 R. L. Whitman and M. B. Nevers, Environ. Sci. Technol., 2004, 38,
+4241–4246.
+8 R. A. Haugland, S. C. Siefring, L. J. Wymer, K. P. Brenner and
+A. P. Dufour, Water Res., 2005, 39, 559–568.
+9 Committee on Indicators for Waterborne Pathogens National
+Research Council, Indicators for Waterborne Pathogens, National
+Academies Press, 2004.
+10 G. Rijal, C. Petropoulou, J. K. Tolson, M. DeFlaun, C. Gerba,
+R. Gore, T. Glymph, T. Granato, C. O’Connor, L. Kollias and
+R. Lanyon, Water Sci. Technol., 2009, 60, 1847–1855.
+11 U. Zuckerman and S. Tzipori, J. Appl. Microbiol., 2006, 100, 1220–
+1227.
+12 USEPA, Method 1603: Escherichia coli in Water by Membrane
+Filtration Using Modified Membrane-Thermotolerant Escherichia coli
+Agar (Modified mTEC). EPA 821-R-06–011. U.S. Environmental
+Protection Agency, 2006.
+13 USEPA, Method 1600: :Enterococci in Water by Membrane Filtration
+Using Membrane-Enterococcus Indoxyl-b-D-Glucoside Agar (mEI).
+EPA 821-R-06–009. U.S. Environmental Protection Agency, 2006.
+14 USEPA, Method A: Enterococci in Water by TaqMan Quantitative
+Polymerase Chain Reaction (qPCR) Assay. 2010.
+15 E. C. Chern, S. Siefring, J. Paar, M. Doolittle and R. A. Haugland,
+Lett. Appl. Microbiol., 2011, 52, 298–306.
+16 S. Siefring, M. Varma, E. Atikovic, L. Wymer and R. A. Haugland, J.
+Water Health, 2008, 6, 225–237.
+17 USEPA, Method 1623: Cryptosporidium and Giardia in Water by
+Filtration/IMS/FA. 2005.
+18 D. Lambert, Technometrics, 1994, 34, 1–14.
+19 A. Schriewer, W. A. Miller, B. A. Byrne, M. A. Miller, S. Oates,
+P. A. Conrad, D. Hardin, H. H. Yang, N. Chouicha, A. Melli,
+D. Jessup, C. Dominik and S. Wuertz, Appl. Environ. Microbiol.,
+2010, 76, 5802–5814.
+20 M. Varma, R. Field, M. Stinson, B. Rukovets, L. Wymer and
+R. Haugland, Water Res., 2009, 43, 4790–4801.
+21 M. M. Lleo, M. C. Tafi and P. Canepari, Syst Appl Microbiol, 1998,
+21, 333–339.
+22 J. W. He and S. Jiang, Appl. Environ. Microbiol., 2005, 71, 2250–
+2255.
+23 R. L. Whitman, Z. Ge, M. B. Nevers, A. B. Boehm, E. C. Chern,
+R. A. Haugland, A. M. Lukasik, M. Molina, K. Przybyla-Kelly,
+D. A. Shively, E. M. White, R. G. Zepp and M. N. Byappanahalli,
+Environ. Sci. Technol., 2010, 44, 5049–5054.
+24 G. Wilkes, T. Edge, V. Gannon, C. Jokinen, E. Lyautey, D. Medeiros,
+N. Neumann, N. Ruecker, E. Topp and D. R. Lapen, Water Res.,
+2009, 43, 2209–2223.
+25 V. J. Harwood, A. D. Levine, T. M. Scott, V. Chivukula, J. Lukasik,
+S. R. Farrah and J. B. Rose, Appl. Environ. Microbiol., 2005, 71,
+3163–3170.
+26 S. Bae and S. Wuertz, Appl. Environ. Microbiol., 2009, 75, 2940–2944.
+27 J. A. Soller, T. Bartrand, N. J. Ashbolt, J. Ravenscroft and
+T. J. Wade, Water Res., 2010, 44, 4736–4747.
+28 A. R. Cizek, G. W. Characklis, L. A. Krometis, J. A. Hayes,
+O. D. Simmons, 3rd, S. Di Lonardo, K. A. Alderisio and
+M. D. Sobsey, Water Res., 2008, 42, 4421–4438.
+29 A. Costan-Longares, M. Montemayor, A. Payan, J. Mendez, J. Jofre,
+R. Mujeriego and F. Lucena, Water Res., 2008, 42, 4439–4448.
+30 S. Coupe, K. Delabre, R. Pouillot, S. Houdart, M. Santillana-Hayat
+and F. Derouin, FEMS Immunol. Med. Microbiol., 2006, 47, 351–359.
+31 M. L. Hanninen, H. Haajanen, T. Pummi, K. Wermundsen,
+M. L. Katila, H. Sarkkinen, I. Miettinen and H. Rautelin, Appl.
+Environ. Microbiol., 2003, 69, 1391–1396.
+32 A. Horman, R. Rimhanen-Finne, L. Maunula, C. H. von Bonsdorff,
+N. Torvela, A. Heikinheimo and M. L. Hanninen, Appl. Environ.
+Microbiol., 2004, 70, 87–95.
+33 C. Mons, A. Dumetre, S. Gosselin, C. Galliot and L. Moulin, Water
+Res., 2009, 43, 211–217.
+34 R. Briancesco and L. Bonadonna, Environ. Monit. Assess., 2005, 104,
+445–457.
+
+J. Environ. Monit., 2011, 13, 2427–2435 | 2435
+
+

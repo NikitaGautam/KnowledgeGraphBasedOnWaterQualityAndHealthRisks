@@ -1,0 +1,187 @@
+
+
+
+
+
+
+J. V. LEE er al.
+
+168
+
+RESULTS
+Out of 755 canoeists and rafters, 473 (63%) returned their questionnaire. The crude rates of self reported
+symptoms are shown in Table 1. The results of the microbiological testing are shown in Table 2. The
+significant results of the logistic regression analyses are shown in Table 3. The levels of E. coli and S.
+faecalis were associated with GI-illness but this effect was not independent after controlling for the level of
+bacteriophages in the water. No other symptoms, including general symptoms, respiratory tract, skin
+problems, ear or eye complaints, were associated with activities on the course or water quality. No
+difference in illness rates were seen between males and females, canoeists and rafters. No association with
+illness was seen with any food or frequency of particular foods in the week before or after the study day.
+Table 2. Mean bacteria and virus levels and turbidity in water from the slalom course
+Date
+5/3/95
+2/4/95
+14/5/95
+4/6/95
+17/7/95
+22/8/95
+2019195
+25/9/95
+15/10/95
+2611 1/95
+
+E coli
+/ 1OOmL
+7,168
+769
+188
+278
+70 1
+576
+1,238
+1,640
+527
+5,640
+
+Enterococci
+11OOmL
+990
+74
+7
+65
+61
+113
+102
+136
+90
+3,693
+
+F-specific
+phage11 00mL
+
+Turbidity
+
+72
+26
+2
+32
+1
+3
+28
+3
+3
+99
+
+22.76
+5.49
+4.38
+5.03
+6.45
+6.08
+8.55
+4.20
+5.88
+
+Clostridia
+
+Enterovirus
+
+IIOOmL
+1,427
+21
+139
+32
+153
+Ill
+258
+3 10
+274
+603
+
+pWlOL
+0
+2
+0
+0
+0
+25
+4
+2
+4
+
+Table 3. Relative risks for significant associations with gastrointestinal illness for users of the slalom course
+Exposure
+F-specific phage/ I0 mL
+
+RR
+
+95% CI
+
+1-3
+26- 32
+69 308
+
+1 .O
+2.6
+2.8
+
+1.3 - 5.2
+1.3 6.0
+
+1 .O
+1.5
+1.9
+
+0.7 3.3
+1.0 3.6
+
+1.O
+1.6
+0.3
+2.3
+2.1
+
+0.8 - 3.3
+0.1 -0.7
+1.2 -4.3
+1.1 - 4 . 0
+
+-
+
+ref
+
+-
+
+,
+
+Number of times swallowed water
+2+
+
+ref
+
+-
+
+,
+
+Number of uses of HPP slalom course in previous year
+0
+1-6
+7+
+
+Accidental swimming in slalom course
+Drinking before getting changed
+
+ref
+
+DISCUSSION
+Our results clearly show a significant rate of gastrointestinal illness after using the slalom course fed by the
+River Trent and that the risk is related to bacteriophages and ingestion of water. Our study is the first to
+show a relationship between the count of F-specific bacteriophages and the incidence of illness following the
+recreational use of fresh water. The other investigations which have studied fresh water (Philipp et al.,
+1985; Ferley et al., 1989; Fewtrell et al., 1992) did not study bacteriophages. Two of these investigations
+
+
+
+
+
+

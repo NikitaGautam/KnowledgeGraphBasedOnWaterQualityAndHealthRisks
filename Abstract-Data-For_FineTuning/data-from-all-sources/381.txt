@@ -1,0 +1,1673 @@
+Q IWA Publishing 2005 Journal of Water and Health | 03.4 | 2005
+
+381
+
+A review of technologies for rapid detection of bacteria
+in recreational waters
+Rachel T. Noble and Stephen B. Weisberg
+
+ABSTRACT
+Monitoring of recreational beaches for fecal indicator bacteria is currently performed using culturebased technology that can require more than a day for laboratory analysis, during which time
+swimmers are at risk. Here we review new methods that have the potential to reduce the
+measurement period to less than an hour. These methods generally involve two steps. The first is
+
+Rachel T. Noble (corresponding author)
+University of North Carolina at Chapel Hill,
+Institute of Marine Sciences,
+3431 Arendell St, Morehead City,
+NC 28557,
+USA
+E-mail: rtnoble@email.unc.edu
+
+target capture, in which the microbial group of interest (or some molecular/chemical/or
+biochemical signature of the group) is removed, tagged or amplified to differentiate it from the
+remaining material in the sample. We discuss three classes of capture methods: 1) Surface and
+whole-cell recognition methods, including immunoassay techniques and molecule-specific probes;
+2) Nucleic acid methods, including polymerase chain reaction (PCR), quantitative PCR (Q-PCR),
+
+Stephen B. Weisberg
+Southern California Coastal Water
+Research Project,
+7171 Fenwick Lane, Westminster,
+CA 92683,
+USA
+E-mail: stevew@sccwrp.org
+
+nucleic acid sequence based amplification (NASBA) and microarrays; and 3) Enzyme/substrate
+methods utilizing chromogenic or fluorogenic substrates. The second step is detection, in which
+optical, electrochemical or piezoelectric technologies are used to quantify the captured, tagged or
+amplified material. The biggest technological hurdle for all of these methods is sensitivity, as EPA’s
+recommended bathing water standard is less than one cell per ml and most detection technologies
+measure sample volumes less than 1 ml. This challenge is being overcome through addition of
+preconcentration or enrichment steps, which have the potential to boost sensitivity without the
+need to develop new detector technology. The second hurdle is demonstrating a relationship to
+health risk, since most new methods are based on measuring cell structure without assessing
+viability and may not relate to current water quality standards that were developed in
+epidemiology studies using culture-based methods. Enzyme/substrate methods may be the first
+rapid methods adopted because they are based on the same capture technology as currentlyapproved EPA methods and their relationship to health risk can be established by demonstrating
+equivalency to existing procedures. Demonstration of equivalency may also be possible for some
+surface and whole-cell recognition methods that capture bacteria in a potentially viable state.
+Nucleic acid technologies are the most versatile, but measure nonviable structure and will require
+inclusion in epidemiological studies to link their measurement with health risk.
+Key words | E. coli, enterococci, water quality, recreational, optical, electrochemical
+
+INTRODUCTION
+Considerable resources are expended each year to measure
+
+current methods of enumerating bacteria are too slow to
+
+indicator bacteria and assess whether recreational beaches
+
+provide full protection from exposure to waterborne
+
+are free from fecal contamination (Schiff et al. 2002).These
+
+pathogens. The current United States Environmental
+
+monitoring programs are compromised, though, because
+
+Protection Agency (USEPA) approved methods to evaluate
+
+doi: 10.2166/wh.2005.051
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+
+
+382
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+Journal of Water and Health | 03.4 | 2005
+
+recreational waters require an 18 to 96 hour incubation
+
+tration approach included in sample processing. In addition,
+
+period, while several studies have shown that temporal
+
+presence/absence information is not adequate for assessing
+
+changes in indicator bacteria levels in beach water occur on
+
+recreational waters. Methods must yield accurate quantitative
+
+much shorter time scales (Leecaster and Weisberg 2001;
+
+information. Other problems with water samples include the
+
+Boehm et al. 2002). Thus, contaminated beaches remain
+
+presence of potential interferents to specific methodological
+
+open during the laboratory incubation period and are often
+
+approaches, such as salinity, humic acids, highly variable and
+
+clean by the time warnings are posted.
+
+complex sample matrices, and the presence of other con-
+
+This processing time lag can also negatively affect
+
+founding dominant native bacterial species. In this paper, we
+
+tracking of contamination sources. A frequently used
+
+review rapid methodologies that are being developed for use in
+
+tracking approach is to look for differential bacterial
+
+recreational waters and also identify the major impediments to
+
+concentrations at the confluence of upstream tributaries.
+
+adoption of these methods. For the purpose of this article, we
+
+However, the fecal contamination signal can dissipate or
+
+treat “rapid” as methods that provide results in less than 4
+
+disperse while the initial samples that would trigger such an
+
+hours (including sample preparation time), which is the
+
+investigation are being processed, making it difficult to
+
+longest time frame that reasonably allows managers to take
+
+subsequently track the sources of fecal contamination. Even
+
+action to protect public health (i.e. post or close a beach) on the
+
+when upstream tracking is successfully initiated, the slow
+
+same day that water samples are collected.
+
+laboratory processing time requires that many locations be
+examined simultaneously, rather than using spatially-
+
+METHODOLOGICAL OVERVIEW
+
+sequential sampling that would be possible if a more rapid
+(and possibly field-based) method were available.
+
+There are two general steps involved in the application of
+
+The limiting factor for present methods is that they rely
+
+rapid technologies. The first is the capture, in which
+
+on culturing techniques that either measure a metabolic
+
+the microbial species or group of interest (or some
+
+endpoint or determine growth of a microorganism after an
+
+molecular/chemical/or biochemical signature of the group)
+
+extended incubation period. New molecular methods that
+
+is removed, tagged or amplified to differentiate it from the
+
+allow direct measurement of cellular properties without
+
+remaining material in the sample. This step is typically
+
+incubation are becoming available and have the potential to
+
+responsible for the selectivity of the approach. The second
+
+reduce the measurement period to less than an hour. These
+
+step is the detection, in which the captured, tagged or amplified
+
+new technologies also allow expansion of the number and
+
+material is counted or measured quantitatively. The detector
+
+types of microbiological indicators that can be measured.
+
+typically acts as a transducer, translating the biological,
+
+Beach monitoring programs are presently based primarily
+
+physical, or chemical alteration into a measurable signal.
+
+on E. coli and Enterococcus spp. because they are easily and
+
+These
+
+steps
+
+differ
+
+slightly
+
+among
+
+measurement
+
+inexpensively cultured. Molecular methods do not require
+
+approaches, but they provide a useful outline for organizing
+
+culturing and allow for pathogens such as viruses to be
+
+our discussion. In many cases, a third step, preconcentration,
+
+measured as easily as bacterial indicators, potentially
+
+may be added prior to target capture because most rec-
+
+providing a more direct link to public health risk.
+
+reational waters have relatively dilute levels of contaminants
+
+While development of molecular methods has advanced
+
+compared to other applications. Recreational water stan-
+
+considerably for use in several disciplines, such as the food
+
+dards for bacterial indicators are roughly 100 cfu/100 ml, or
+
+service and hospital industries (Fung 2002), there has been less
+
+1 cell/ml. Since many detection technologies are based on
+
+effort toward application of new methods for recreational
+
+measuring less than a single ml, preconcentration may be
+
+water quality testing. Water testing can present challenges that
+
+necessary to achieve acceptable precision.
+
+are not frequently encountered in these other fields. Generally
+speaking, there are small numbers of the microorganisms of
+
+Capture methods
+
+interest in a water sample, therefore large volumes of water
+
+There are three broad classes of capture methods used in
+
+must typically be processed, or some enrichment or concen-
+
+rapid microbial detection technology. Firstly, molecular
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+
+
+383
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+Journal of Water and Health | 03.4 | 2005
+
+whole-cell and surface recognition methods capture and/or
+
+2002; Dubitsky et al. 2002; Kooser et al. 2003). After antigen
+
+label the target microorganism by binding to molecular
+
+capture by the primary Ab, remaining excess material is
+
+structures on the exterior surface or to structures within the
+
+typically washed away, and fluorescently labeled secondary
+
+interior of a bacterium, virus, or to genetic material of
+
+Abs are used for detection. Immunomagnetic capture, in
+
+interest. These include immunoassay techniques, bacterio-
+
+which organisms are captured using an Ab-antigen-magnet
+
+phage, and molecule-specific probes, such as lipid or
+
+complex, can also be employed (e.g. Shelton et al. 2003).
+
+protein attachment-based approaches. Secondly, nucleic
+
+With use of an external magnet, the bound material can be
+
+acid detection methods target specific nucleic acid
+
+effectively separated from the remainder of the sample. One
+
+sequences of bacteria, viruses, or protozoa. These include
+
+advantage of Ab-based approaches is that captured bacteria
+
+polymerase chain reaction (PCR), reverse transcriptase
+
+are still viable and can be further studied, having the
+
+polymerase chain reaction (RT-PCR), quantitative PCR
+
+potential to yield more specific information about the
+
+(Q-PCR), nucleic acid sequence based amplification
+
+sources of the bacteria through assessment of genotypic or
+
+(NASBA), and microarrays. Thirdly, enzyme/substrate
+
+phenotypic information (Scott et al. 2002).
+
+methods are based upon either existing chromogenic or
+
+The third type of capture technology is nucleic acid
+
+fluorogenic substrate methods already in wide use, or new
+
+priming, which relies upon the affinity of specific nucleic
+
+enzyme-substrate approaches.
+
+acid sequences, or primers, to “fish” for a complementary
+
+Enzyme/substrate methods are enhancements of cur-
+
+sequence of interest. The biochemical basis for nucleic
+
+rently approved methods such as the defined substrate
+
+acid priming is the foundation for techniques such as
+
+w
+
+technology employed in the commercial kits, Colilert and
+
+polymerase chain reaction (PCR) based methods, micro-
+
+Enterolertw (IDEXX Laboratories, Inc). Several new tech-
+
+arrays and nucleic acid sequence based amplification
+
+nologies that are being developed use that technology in
+
+(NASBA). Primers can be designed that are complemen-
+
+conjunction with high-sensitivity fluorescence detection
+
+tary to a single gene sequence, allowing these methods to
+
+instruments to reduce the time required for the assay. Capture
+
+be highly specific.
+
+is achieved through fluorophore-tagged growth substrates
+
+PCR utilizes a combination of reagents and temperature
+
+included in a proprietary powder media that are added to
+
+change schemes to anneal and denature nucleic acid
+
+water samples. Upon growth, specific bacterial enzymatic
+
+sequences for exponential amplification of the gene of
+
+activity cleaves the fluorophore from the substrates, causing
+
+interest (Saiki et al. 1985). Quantitative PCR (Q-PCR) is a
+
+fluorescence to increase (Edberg et al. 1989). This fluor-
+
+primer-based molecular technique that combines the
+
+escence can then be detected by a number of instruments.
+
+specificity of conventional PCR with the quantitative
+
+Molecular recognition approaches have the potential
+
+measurement of fluorescence for determining the presence
+
+for being more rapid, more sensitive and adaptable to a
+
+of specific types of nucleic acid in environmental samples.
+
+wider class of indicators and pathogens. Antibody (Ab)-
+
+One type is the molecular beacon approach, which employs
+
+based approaches, which take advantage of the specific
+
+the use of dual-labeled oligonucleotide probes, that typically
+
+binding affinities of Abs to specific antigens, can either be
+
+bear a 50 -fluorescent reporter dye and a “dark” quencher
+
+produced in the laboratory or purchased commercially. The
+
+group in the 30 -position (most commonly Dabcyl). The
+
+Abs can be specific for a single strain (or serotype) of
+
+probe has a unique structure designed to specifically
+
+bacteria (e.g. E. coli O157:H7), or can potentially be
+
+hybridize to a target sequence. When the probe hybridizes
+
+produced for a single species (E. coli) or groups or families
+
+to its target sequence, the structure is disrupted and the 50 -
+
+of organisms (enterococci), although the latter two
+
+reporter is physically separated from the 30 -quencher,
+
+approaches are generally more difficult. Once produced
+
+allowing fluorescence emission to be detected and
+
+and tested for specificity, Abs are typically mounted onto a
+
+measured quantitatively (Heid et al. 1996). Lyon (2001) has
+
+support system. Well-documented support systems include
+
+used this approach for detection of Vibrio cholerae in both
+
+polystyrene waveguides, nylon supports, glass slides, and
+
+oysters
+
+cantilevers (Kasempimolporn et al. 2000; DeMarco & Lim
+
+approaches are also possible, including the use of
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+and
+
+seeded
+
+water
+
+samples.
+
+Other
+
+Q-PCR
+
+
+
+384
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+Taqmanw and Scorpionw primer-probe chemistries which
+can be used with various flourescent dyes for sensitive, highfidelity Q-PCR.
+Microarrays (or ‘microchips’) involve the attachment of a
+sequence specific probe on a slide, or array, where specific
+hybridization of the sequence of interest occurs after a series
+of linking and wash steps, and subsequent color change
+indicates positive detection. Microarrays involve the use of
+cDNA probes, often greater than 200 nucleotides in length, or
+smaller oligonucleotides (20 –100 nucleotides in length) that
+are fashioned to glass supports, nylon strips, or silica wafers
+(Richmond et al. 1999; Bavykin et al. 2001; Wu et al. 2003).
+With a single microarray, thousands of microorganisms can
+be analyzed at a single time. Upon hybridization of a target to
+the probe of interest, fluorescence is generated as data on the
+surface of each slide or “chip”. This fluorescence can be read
+in a number of ways. A planar waveguide can be used for
+successful imaging of surface confined fluorescence, in
+conjunction with the use of a cooled charge coupled device
+(CCD) camera (Rowe-Taitt et al. 2000). Laser scanning can
+also be used to “read” the fluorescent signals, the approach
+that the well-known microarray manufacturing company
+Affymetrix recommends (www.Affymetrix.com). Microarrays can also be analyzed with wide-field-high aperture
+fluorescence microscopes equipped with cooled CCD
+cameras.
+NASBA is similar to PCR technology, but is an
+isothermal based method of RNA amplification that was
+applied originally to HIV-1 detection (Kievits et al. 1991).
+Instead of utilizing a thermostable DNA polymerase, as
+PCR does, RNA is amplified using an enzyme mixture at
+a fixed temperature. NASBA detection systems are
+currently commercially available from BioMerieux, Inc
+(http://www.biomerieux.com) and have shown tremendous potential for use in environmental samples (Collins
+et al. 2003; Paul et al. 2003). One advantage of NASBA
+over PCR-based rapid detection methods is it does not
+require a thermal cycler, improving portability. However,
+some Q-PCR manufacturers have already addressed
+portability of thermal cyclers. For example, Cepheid,
+Inc.
+
+manufactures
+
+a
+
+portable,
+
+car
+
+Detection technology
+There are many instruments which can be used to detect a
+range of chemical, optical, and biological signals generated by
+the aforementioned capture methods. Most detection technologies revolve around measurement of optical, electrochemical, or piezoelectric properties. The technical aspects
+of these approaches have been reviewed by Deisingh (2003).
+Optical methods are the most frequently used detection
+approach. The simplest detection units are spectrometers
+and fluorometers, which can be used for spectroscopic or
+fluorescence detection of indicator bacteria, respectively,
+and are field portable. Another widely used option is flow
+cytometry (FCM), in which cells are physically analyzed
+based upon characteristics such as natural fluorescence or
+light scattering (Collier and Campbell 1999; Veal et al.
+2000). FCM is often paired with immunomagnetic capture
+to concentrate cells which are passed single file in a fluid
+stream with the light scatter from a laser defining cell count.
+Advanced flow cytometers can even sort target cells away
+from waste materials onto membranes or slides, for further
+verification methods. FCM systems have been deployed in
+the field, but they are generally not portable or robust and
+require advanced training to operate.
+Other options for optical detection systems include fiber
+optics and laser-based interferometry. Both of these are
+evanescent wave-based technologies, allowing measurement of binding (e.g. of fluorescently labeled antibodies to
+antigens) at the fiber surface. This greatly reduces the
+number of separation steps required to separate target from
+non-target organisms in environmental samples.
+Fiber optics is the most advanced of these technologies.
+Fiber optic devices appear to be promising for environmental applications for two reasons: the ability to make remote
+in situ measurements and the inherent sensitivity of optical
+approaches. Most currently used fiber optics biosensors
+involve the use of a combination of immuno-based capture
+approaches, depending upon a series of non-labeled and
+fluorescently labeled Abs designed specifically for the
+organism(s) of interest.
+Laser-based interferometry is based upon the fact that
+
+powered
+
+planar waveguides have evanescent fields that are responsive
+
+Q-PCR instrument system, already in use for real-time
+
+to changes in index of refraction. By optically combining
+
+sampling for a variety of applications.
+
+guided
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+battery
+
+Journal of Water and Health | 03.4 | 2005
+
+and
+
+reference
+
+beams
+
+in
+
+an
+
+interferometric
+
+
+
+385
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+Journal of Water and Health | 03.4 | 2005
+
+configuration, this response can be measured with high
+
+for E. coli detection in natural samples. Even though they
+
+sensitivity. Schneider et al. (1997) discuss the Hartman
+
+succeeded in reducing detection time, their currently
+
+Interferometer, which allows a microsensor fitted with the
+
+reported detection limit was still . 104 cfu/100 ml, too
+
+proper chemical/biological coatings to detect multiple
+
+high for use in recreational waters.
+
+contaminants in soil, groundwater, and air. Interferometric
+
+Piezoelectric-based biosensors are based on quartz
+
+technology can easily be combined with Ab-antigen
+
+crystals that oscillate at a defined frequency when an
+
+binding mechanisms. Detection is based upon small shifts
+
+oscillating voltage is applied, allowing high sensitivity.
+
+in optical properties of the organism (upon Ab binding),
+
+Binding of an analyte to the quartz crystal surface changes
+
+making this approach highly sensitive. Hartman et al. (1995)
+
+the mass of the crystal and causes a measurable change in
+
+originally applied this technology to detect proteins specific
+
+the
+
+oscillation
+
+frequency.
+
+Piezoelectric
+
+detection
+
+to Salmonella spp in food, and have more recently applied
+
+approaches are currently most commonly paired with Ab-
+
+their technology to detect 12 different pathogens. Interfero-
+
+antigen capture modes. Microorganisms captured by
+
+metric approaches have been demonstrated to be highly
+
+specific antibodies are immobilized onto the surface of the
+
+sensitive, able to detect down to 1 cell. However, the
+
+quartz crystal, which is then subjected to an electrical field.
+
+availability and specificity of the Abs used must be pre-
+
+Once the electrical field is applied, the quartz begins to
+
+determined and empirically demonstrated. This approach
+
+oscillate with increasing amplitude. At a specific oscillation,
+
+has not been fully developed for recreational water testing,
+
+the antigen (virus or bacteria) suddenly is removed from the
+
+but with an appropriate preconcentration method, this
+
+surface of the crystal. The noise created during this
+
+technology holds promise for development.
+
+disruption is proportional to the number of antigens that
+
+Electrochemical signal detectors measure an electro-
+
+were originally attached to the surface of the crystal.
+
+chemical response, of which there are three basic types: 1)
+
+Piezoelectric biosensors have been used to detect Salmo-
+
+conductometric, which is a change in conductance of a
+
+nella typhimurium in food (Babacan et al. 2002), and for the
+
+bacterial cell between a pair of electrodes due to cell
+
+detection of Listeria monocytogenes (Vaughan et al. 2001).
+
+metabolism; 2) potentiometric, which is the difference in
+
+Sensitivity levels have not been demonstrated at 1 cell/ml to
+
+electrical potential between a sample and a reference
+
+date for piezoelectric-based detection, but flow-through
+
+electrode; and 3) amperometric, which is a response due to
+
+systems as presented by Babacan et al. (2002) have the
+
+oxidation or reduction of a specific chemical at a constant
+
+potential to be combined with preconcentration systems.
+
+applied potential. Electrochemical detection approaches are
+typically fast and the equipment necessary to measure the
+signal can be low-cost. Electrochemical approaches are not
+
+SAMPLE PREPROCESSING
+
+as susceptible to turbidity interference as optical-based
+
+The biggest technical impediments to the implementation of
+
+detection and typically have very low detection limits.
+
+these methods are the detection sensitivity and the volume
+
+However, seawater is highly buffered, which can interfere
+
+assayed. Most detection technologies are based on measur-
+
+with some electrochemical-based measurements.
+
+ing sample volumes less than 1 ml. EPA’s recommended
+
+Several groups have been working to develop novel
+
+marine bathing water standard is 35 enterococci per 100 ml,
+
+electrochemical applications to measure bacteria. Perez
+
+which equates to less than one cell per ml. Thus, detectors
+
+et al. (2001) has developed an E. coli method based on
+
+measuring only a 1 ml volume, even if they are capable of
+
+hydrolysis of 4-APGal to 4-aminophenyl (4AP), which is a
+
+detection of one cell per ml, will necessarily produce
+
+highly electro-active process that can be detected by small
+
+unacceptable sensitivity and poor precision at concen-
+
+shifts in amperes. This approach is paired with the
+
+trations near the standard.
+
+measurement of cellobiose oxidation, which is indicative
+
+There are two possible approaches to overcoming
+
+of viability, but has been limited by the time necessary for
+
+inadequate sensitivity. The first is to improve detector
+
+bacterial growth to produce the 4AP molecule. Nistor et al.
+
+technology to allow measurement of larger volume samples,
+
+(2002) have used amplification to reduce the time required
+
+but this is a longer term option. Most researchers already
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+
+
+386
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+Journal of Water and Health | 03.4 | 2005
+
+use the most advanced detectors available and more
+
+widespread use in the next few years. Other researchers are
+
+sensitive detector technology is not likely to be available
+
+working to adapt similar techniques toward measurement
+
+in the near future because of the cost and time necessary for
+
+of specific pathogens, but we have chosen to focus on
+
+development. The preferred option at the present time is
+
+methods being developed for E. coli or enterococci because
+
+preconcentration, which can enhance sensitivity several
+
+the management of recreational waters is presently based
+
+fold by increasing the number of target organisms per unit
+
+upon comparison to these bacterial standards.
+
+volume at a relatively modest cost.
+Several available modes of preconcentration are being
+used, including filtration, size-fractionation, centrifugation
+
+Dual wavelength fluorometry
+
+and immunomagnetic separation or combinations of these
+
+Rapid methods based on the enzyme-substrate capture
+
+methods. Preconcentration needs vary according to the
+
+approach are likely to be available commercially in the
+
+amount of indicator bacteria present in the sample,
+
+shortest time-frame, because they are enhancements of pre-
+
+the detection limit of the technology being used and the
+
+existing technology. Whereas commercial applications of
+
+presence of abiotic and biotic confounding factors that are
+
+this technology, such as those produced by IDEXX
+
+commonly found in recreational water samples. The biggest
+
+Laboratories, Inc., rely on technicians looking for a visible
+
+drawback to preconcentration is the additional time it
+
+color change after an 18-hour incubation, advanced
+
+requires, potentially pushing some methods past the 4-hour
+
+fluorometry techniques enhance the time to results by
+
+criterion. Depending on the method employed, preconcen-
+
+quantifying bacterial concentration based on the rate of
+
+tration could also result in partial loss of target organisms or
+
+color change early in the incubation process. Researchers at
+
+the unintended concentration of environmental contami-
+
+the University of Connecticut have further refined the
+
+nants, both of which could have unpredictable effects on
+
+method of Jadamec et al. (1999), through the use of dual
+
+results. Still, these potential shortcomings can be overcome
+
+wavelength fluorometry to simultaneously assess both
+
+and preconcentration developments will play an important
+
+enzymatic hydrolysis and the loss of substrate. A Farrand
+
+role in advancing the field.
+
+dual wavelength fluorometer is used at excitation and
+
+Preprocessing may also be necessary to remove poten-
+
+emission wavelengths of 340 and 450 nm, respectively,
+
+tial biotic and abiotic interferences in the sample, particu-
+
+with the ratio between the two readings used to infer
+
+larly if the samples are preconcentrated. Organic matter
+
+bacterial concentrations without lengthy incubations. Dual
+
+(e.g., humic acids), cellular debris and heavy metals can
+
+wavelength fluorometry is less susceptible to interference
+
+inhibit the reactions necessary for measurement of nucleic
+
+from environmental contaminants because detection of
+
+acids (Reynolds et al. 1997). Preprocessing to separate
+
+both substrate and product would be affected equally
+
+microorganisms or molecular targets in microorganisms
+
+leaving the ratio unchanged regardless of turbidity or the
+
+from matrix constituents may involve chemical precipi-
+
+presence of colored substances. To date, the researchers
+
+tation, solvent extraction, adsorption to charged surfaces,
+
+have been able to detect Enterococcus spp., Escherichia coli
+
+chelation, or binding through immunomagnetic separation.
+
+and total coliforms at EPA’s recommended bathing water
+standards in less than 6 hours. Given the relationship of the
+change in fluorescence signal intensity of the product and
+
+SPECIFIC TECHNOLOGIES IN DEVELOPMENT
+
+substrate ratio with increasing cell numbers, along with an
+algorithm for determining the starting concentrations of the
+
+A number of researchers are presently working to develop
+
+cells of interest, a measurement of original bacterial
+
+technologies for recreational water quality assessments
+
+indicator concentration can be made (Figures 1 and 2).
+
+based on combinations of the above-mentioned capture
+
+Further optimization of the growth conditions for several of
+
+and detection concepts. Below, we highlight a few of the
+
+the bacterial indicators, and optimization of dual wave-
+
+technologies that show promise for accurately measuring
+
+length instrumental detection parameters has recently
+
+indicator bacteria and which are likely to be available for
+
+reduced the time to detection by 25%, resulting in a current
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+
+
+387
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+Journal of Water and Health | 03.4 | 2005
+
+Figure 1 | The relationship of Enterococcus growth rate with the ratio of change in fluorescence signal intensity of the product and available substrate using dual-wavelength
+fluorometry.
+
+Figure 2 | A preliminary algorithm demonstrating the time to detection for a given starting concentration of Enterococcus faecalis in an environmental sample using dual wavelength
+fluorometry.
+
+detection time of about 4 hours for a starting population of
+
+antibody within an evanescent wave and is detected with
+
+1 CFU/ml.
+
+a narrow-band laser light from the biosensor. The data are
+expressed as increases in fluorescence proportional in
+magnitude to target pathogen concentrations. Lim and
+
+Immunoassay approaches
+
+colleagues have developed an innovative system to detect
+
+There are several promising immunoassay approaches in
+
+pathogens such as E. coli O157:H7 directly from ground
+
+development that have been adapted from technologies
+
+beef, apple juice, and raw sewage (DeMarco et al. 1999;
+
+applied for rapid detection of food borne pathogens (Lim
+
+Demarco and Lim, 2001, DeMarco and Lim 2002; Kramer
+
+2000; Lim 2001). An example is the evanescent wave fiber
+
+et al. 2002). Biotin-streptavidin interactions were used to
+
+optic biosensor (Tims et al. 2001; DeMarco and Lim 2001;
+
+attach polyclonal anti-E. coli O157:H7 antibodies to the
+
+Lim 2003; Kramer and Lim 2004). This approach is based on
+
+surface of the fiber optic probe. These researchers are
+
+a biosensor sandwich immunoassay that utilizes antibodies
+
+experimenting with hollow fiber filters and incubation in
+
+on a fiber optic waveguide to detect the target pathogen
+
+selective enrichment broth for 3 to 6 hours prior to
+
+(Figure 3). The captured target is illuminated by a
+
+biosensor assay to detect low bacterial concentrations for
+
+fluorophore-labeled
+
+application to recreational waters. If the preconcentration
+
+(Cy5
+
+or
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+Alexa
+
+Fluor
+
+647)
+
+
+
+388
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+Journal of Water and Health | 03.4 | 2005
+
+Capture antibody
+
+Y Y Y Y YY Y YY
+Y Y Y Y Y Y YY
+
+Antigen
+
+Y Y Y Y YY Y YY
+
+Sample applied, antigen
+binds to capture antibody
+
+Y Y Y Y YY Y YY
+
+Other cells and debris
+washed away
+
+Y Y Y Y Y Y YY
+Y Y Y Y Y Y YY
+
+Detection antibody
+(( ))((
+))
+(( ))
+
+Y Y Y YY Y
+
+Y Y Y Y YY Y YY
+
+Y
+
+(( ))
+
+Y Y Y Y Y Y YY
+
+Laser on
+
+Y Y Y Y YY Y
+
+Y
+
+(( ))
+(( )) (( ))
+
+Y
+
+(( ((
+)) ))
+
+Y
+
+(( ))
+
+Detection antibody binds
+to antigen and fluoresces
+when laser turned on.
+
+(( ))
+(( ((
+)) )) (( ))
+(( ))(( ))(( ))
+
+Figure 3 | Biosensor sandwich assay. Target antigen is bound by a capture antibody on the fiber optic waveguide. A fluorophore (Cy5)-labeled detection antibody is then attached to
+form a sandwich assay. The fluorophore is excited by a laser to generate a detectable signal.
+
+needs can be addressed, this assay is advantageous because
+
+identifies bacteria cells which have been labeled with
+
+live bacteria can be recovered from fiber optic waveguides
+
+fluorochrome-conjugated antibodies. The RBD provides
+
+after the assay to confirm viability or other analyses
+
+graphical output with fluorescence intensity (x-axis), 90
+
+(Kramer et al. 2002; Tims and Lim 2003). In addition, the
+
+degree scattered laser light (y-axis) and count (z-axis) as a dot
+
+fiber optic biosensor platform is portable and can be used by
+
+density display (Figure 4). The operator defines an analysis
+
+minimally-trained personnel in the field.
+
+box to encompass the labeled bacterial cells and output is
+
+Several other technologies under development rely upon
+
+provided in counts per unit volume within the box at the end
+
+the Ab-antigen binding mechanism. Lee and Deininger
+
+of an eight-minute analysis time. Using controlled speed
+
+(2004) have developed a system for trapping bacteria on a
+
+centrifugation for preconcentration, AATI has been able to
+
+filter, resuspending it in a small amount of buffer and
+
+achieve detection in the 102/100 ml range within two hours.
+
+washing it with a Fluor-Ab-magnetic bead mixture specific
+
+AATI is also exploring use of the RBD with fluorochrome
+
+to the bacterial species of interest. A magnetic field is used
+
+labeled rRNA specific peptide nucleic acid (PNA) probes.
+
+to separate the tagged bacteria from the remainder of the
+sample. Bacterial cell counts are then assessed by determining the concentration of ATP in the sample using a
+
+PCR-Based technologies
+
+luciferase assay. ATP provides a measure of cell viability,
+
+Q-PCR methods are sufficiently advanced that EPA has
+
+as ATP degrades rapidly upon cell death (Deininger and Lee
+
+already incorporated them into two epidemiology studies.
+
+2001). In a California laboratory intercalibration study,
+
+The methods that they have used are outlined in Haugland
+
+enterococcus concentrations for six of eight ambient water
+
+et al. (2005) and modifications of approaches used by
+
+samples estimated using this method were within 10% of
+
+Bernhard et al. (2003), with techniques for application in
+
+the median concentration from 26 laboratories that used
+
+water analysis described by Brinkman et al. (2003). Ambient
+
+conventional culture-based methods.
+
+water samples are collected on a polycarbonate filter,
+
+The Advanced Analytical Technologies, Inc. (AATI)
+
+followed by disruption of cells on the filter with glass bead
+
+commercially available Rapid Bacteria Detection (RBD)
+
+milling in buffer and brief centrifugation. Aliquots of the
+
+system is based on laser-based flow-through technology that
+
+supernatants are diluted, if necessary, to overcome PCR
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+
+
+389
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+Journal of Water and Health | 03.4 | 2005
+
+Figure 4 | Rapid Bacterial Detection (RBD) analysis and enumeration of antibody labeled E. faecalis and E. faecium in concentrated ocean water. The left panel represents a negative
+water sample (in box count of 6/0.25 ml), while the middle and the right panels represent artificially contaminated water samples from a dilution series with in box counts
+of 44/0.25 ml (middle panel) and in box counts of 333/0.25 ml (right panel).
+
+inhibition. Detection is accomplished using TaqManY
+
+.0.995) with detection over a wide dynamic range from
+
+chemistry in a real time PCR instrument (e.g. Cepheid
+
+greater than 105 to less than 2 bacteria per reaction
+
+Inc., Sunnyvale, CA). Specialized primer/probe sets have
+
+(Blackwood et al. 2004).
+
+thus far been used in assays for two groups of indicator
+organisms, enterococci and Bacteroides-Prevotella spp.
+Quantitative measurements of these organisms are obtained
+either by comparing test sample cycle threshold values to a
+
+IMPEDIMENTS TO IMPLEMENTATION
+
+standard curve of values from similarly prepared DNA
+
+While the largest technical impediment to implementation
+
+extracts of known quantities of the target organisms, or by
+
+of rapid methods is sensitivity, another factor that will limit
+
+the comparative cycle threshold (CT) method. The com-
+
+use of new methods is regulatory acceptance. Most
+
+parative CT method employs an arithmetic formula to
+
+recreational water quality monitoring is required by, or
+
+determine target sequence quantities in DNA extracts from
+
+conducted with funding from, EPA, whose approval will be
+
+test samples relative to those in similarly-prepared DNA
+
+necessary before most practitioners will transition to a new
+
+extracts from calibration samples containing a known
+
+method. Some of the testing necessary for approval, such as
+
+quantity of the target organism cells (Brinkman et al.
+
+demonstration of method accuracy, specificity, and pre-
+
+2003). The method takes approximately 2 – 3 hr to perform.
+
+cision, is relatively easy to accomplish. However, the most
+
+An advantage of this method is that it is an extension of one
+
+important criterion for evaluating acceptability of a
+
+that has been used successfully for source identification
+
+new method is a demonstrated relationship to human
+
+(Field et al. 2003a,b; Bernhard et al. 2000, 2003), potentially
+
+health risk.
+
+providing additional information which can assist in health
+risk management decisions.
+
+A relationship to health risk is critical because current
+water quality standards are based on epidemiology studies
+
+Q-PCR methods specific for enterococci and other
+
+in which exposure was assessed using culture-based
+
+pathogens have been developed by Blackwood et al. (2004),
+
+methods which measure some aspect of metabolic activity.
+
+using multiplex reactions that allow for simultaneous
+
+In contrast, most new methods, particularly nucleic acid
+
+quantification of three targets, such as total enterococci,
+
+methods, are based on measuring the presence of specific
+
+E. faecalis and Salmonella spp., or total enterococci,
+
+genes without assessing cell viability. As such, the new
+
+Bacteroides spp., and adenovirus, yielding information
+
+methods have the potential to overestimate health risk
+
+that could potentially indicate source of fecal contami-
+
+relative to present standards. Unfortunately, the epidemio-
+
+nation and a link to public health risk. For example a
+
+logical studies necessary to establish the health risk
+
+multiplex assay has been developed for quantification of B.
+
+relationship are expensive and time consuming. However,
+
+thetaiotaomicron, Salmonella sp., and total enterococcus.
+
+many of the rapid techniques described above are equally
+
+Preliminary results demonstrate efficiencies in the multiplex
+
+applicable to a wide array of microbes, perhaps allowing
+
+reactions ranging from 95 –122% with no significant
+
+adoption of indicators that have an even better relationship
+
+differences in the slopes within a reaction (r-squared
+
+to pathogens or health risk than occurs for existing methods
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+
+
+390
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+Journal of Water and Health | 03.4 | 2005
+
+measuring current indicator bacteria (Jiang et al. 2001;
+
+be recouped over time if enough analyses are run, although
+
+Noble and Fuhrman 2001).
+
+these costs may remain an impediment for smaller
+
+For this reason, the enzyme substrate methods are most
+
+laboratories.
+
+likely to be the first rapid methods adopted for recreational
+water quality. Enzymatic substrate methods are based on
+the same capture technology as currently-approved EPA
+methods, with greater speed attained through enhanced
+detection technology. As such, the relationship to health
+risk can be established by demonstrating that the new
+detection capability produces equivalent results to existing
+procedures.
+Demonstration of equivalency may also be possible for
+some surface recognition capture methods, such as antibody-based systems, which capture bacteria in a potentially
+viable state. For instance, Deininger and Lee (2001)
+combined immunomagnetic capture with a luciferase
+measure of cell viability. However, such measures of
+viability do not measure the same growth properties used
+in the current approved methods, so it is unclear whether
+they will provide comparable results. Epidemiological
+studies would not be required, though, if equivalency with
+existing methods could be demonstrated.
+Epidemiology studies may also be required because of
+improvements in capture approaches. New antibodies for
+surface recognition, or new primers for nucleic acid
+approaches, have the potential to increase capture specificity. Whereas present culture-based methods measure a
+broad class of indicator organisms, such as enterococci, new
+
+CONCLUSIONS
+The development of rapid microbial indicator methods is
+moving quickly and they will likely become available for use
+within the next few years, allowing managers to take action
+toward protecting swimmers from exposure to waterborne
+pathogens on the same day that samples are collected.
+Sensitivity is the major technological hurdle facing all three
+classes of rapid methods, but this may be overcome through
+a preconcentration step, which has the potential to boost
+sensitivity without the need to develop new detector
+technology.
+In the short term, available methods are likely to be
+based on technological improvements to existing enzyme/substrate-based methods that reduce incubation times from
+overnight to a few hours and can be approved for use based
+on demonstrated equivalency with current EPA approved
+methods. Molecular surface recognition-based methods will
+also become available soon, but may require inclusion in an
+epidemiological study to gain EPA approval. Eventually,
+rapid methods will gravitate toward newer nucleic acid
+technologies, which are more versatile and sensitive, but are
+still early in their development and will also require
+inclusion in an epidemiological study for approval.
+
+molecular methods provide the opportunity to capture
+individual species, such as Enterococcus faecalis. This will
+improve monitoring systems by allowing measurement of
+
+ACKNOWLEDGEMENT
+
+indicators, or even the pathogens themselves most closely
+associated with swimmer health. However, new epidemiol-
+
+This review is based in part on presentations and findings at
+
+ogy studies will be required to establish water quality
+
+an Alliance for Coastal Technologies workshop on rapid
+
+standards associated with the measurement of more specific
+
+indicator methods held in Seaside, California in May 2003.
+
+target organisms.
+
+We thank the workshop participants for their input. We
+
+Cost is another potential impediment to the adoption of
+
+thank R. Haugland, J. Lee, C. Koerting, K. Harkins,
+
+new technologies. Many new methods require sophisticated
+
+A. DuFour, J. Griffith and D. Lim for providing helpful
+
+detection instrumentation costing in excess of $30,000.
+
+critiques and information for this review.
+
+There are also additional training costs, as the technicians at
+most public health agencies are unfamiliar with molecular
+techniques. However, disposable material costs and personnel time required for analysis are generally less for the
+new methods and the initial capital and training costs may
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+REFERENCES
+Babacan, S., Pivarnik, P., Letcher, S. & Rand, A. 2002 Piezoelectric
+flow injection analysis biosensor for the detection of Salmonella
+typhimurium. Journal of Food Science 67, 314– 320.
+
+
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+Journal of Water and Health | 03.4 | 2005
+
+Bavykin, S. G., Akowski, J. P., Zakhariev, V. M., Barsky, V. E.,
+Perov, A. N. & Mirzabelov, A. D. 2001 Portable system for
+microbial sample preparation and oligonucleotide microarray
+analysis. Applied and Environmental Microbiology 67,
+922 –928.
+Bernhard, A. E., Goyard, T., Simonich, M. T. & Field, K. G. 2003 A
+rapid method for identifying fecal pollution sources in coastal
+waters. Water Research 37, 909–913.
+Bernhard, A. E. & Field, K. G. 2000 A PCR assay to discriminate
+human and ruminant feces based on host differences in
+Bacteroides-Prevotella 16S rRNA. Applied Environmental
+Microbiology 66, 4571 –4574.
+Blackwood, A. D., Gregory, J. B. & Noble, R. T. 2004 Development
+of a multiplex quantitative PCR assay using species-associated
+bacterial indicators with specific types of fecal pollution in
+environmental water samples. In Proceedings from American
+Society for Microbiology National Meeting. ASM Press,
+Washington, DC.
+Boehm, A. B., Grant, S. B., Kim, J. H., Mowbray, S. L., McGee,
+C. D., Clark, C. D., Foley, D. M. & Wellman, D. E. 2002
+Decadal and shorter period variability and surf zone water
+quality at Huntington Beach, California. Environmental
+Science and Technology 36, 3885 –3892.
+Brinkman, N. E., Haugland, R. A., Wymer, L. J., Byappanahalli, M.,
+Whitman, R. L. & Vesper, S. J. 2003 Evaluation of a rapid,
+quantitative real-time PCR method for cellular enumeration of
+pathogenic Candida species in water. Applied and
+Environmental Microbiology 69, 1775 –1782.
+Collier, J. L. & Campbell, L. 1999 Flow cytometry in molecular
+aquatic ecology. Hydrobiologia 401, 34 –54.
+Collins, R. A., Ko, L.-S., Fung, K.-Y., Chan, K.-Y., Xing, J., Lau, L.-T.
+& Yu, A. C. H. 2003 Rapid and sensitive detection of avian
+influenza virus subtype H7 using NASBA. Biochemical and
+biophysical research communications 300, 507 –515.
+Deininger, R. A. & Lee, J. 2001 Rapid determination of bacteria in
+drinking water using an ATP assay. Field Analytical Chemistry
+and Technology 5, 185 –189.
+Deisingh, A. 2003 Biosensors for microbial detection. Microbiologist
+2, 30 – 33.
+DeMarco, D. R., Saaski, E. W., McCrae, D. A. & Lim, D. V. 1999
+Rapid detection of Escherichia coli O157:H7 in ground beef
+using a fiber optic biosensor. J. Food Protection 62, 711 –716.
+DeMarco, D. R. & Lim, D. V. 2001 Direct detection of Escherichia
+coli O157:H7 in unpasteurized apple juice with an evanescent
+wave biosensor. J. Rapid Methods and Automation in
+Microbiology 9, 241 –257.
+DeMarco, D. R. & Lim, D. V. 2002 Detection of Escherichia coli
+O157:H7 in 10- and 25-gram ground beef samples using an
+evanescent wave biosensor with silica and polystyrene
+waveguides. J. Food Protection 65, 596 –602.
+Dubitsky, A., DeCollibus, D. & Ortolano, G. A. 2002 Sensitive
+fluorescent detection of protein on nylon membranes. Journal
+of Biochemical and Biophysical Methods 51, 47 –56.
+Edberg, S. C., Allen, M. J. & Smith, D. B. 1989 National field
+evaluation of a defined substrate method for the simultaneous
+
+enumeration of total coliforms and Escherichia coli from
+drinking water: comparison with presence-absence techniques.
+Applied and Environmental Microbiology 55, 1003 –1008.
+Field, K. G., Bernhard, A. E. & Brodeur, T. J. 2003 Molecular
+approaches to microbiological monitoring: fecal source
+detection. Environmental Monitoring and Assessment 81,
+313– 326.
+Field, K. G., Chern, E. C., Dick, L. K., Fuhrman, J., Griffith, J.,
+Holden, P. A., LaMontagne, M. G., Olson, B. & Simonich,
+M. T. 2003 A comparative study of culture-independent,
+library-independent genotypic methods of fecal source
+tracking. J. Water and Health 1, 181– 194.
+Fung, D. Y. C. 2002 Rapid methods and automation in
+microbiology. Comprehensive Reviews in Food Science and
+Food Safety 1, 1– 20.
+Heid, C. A., Stevens, J., Livak, K. J. & Williams, P. M. 1996 Real
+time quantitative PCR. Genome Research 6, 986– 994.
+Hartman, N. F., Wyvill, J. C., Campbell, D. & Edmonds, P. 1995
+Rapid response biosensor for detection and identification of
+common foodborne pathogens. In: International Society for
+Optical Engineering (SPIE) Proceedings: Optics in Agriculture,
+Forestry, and Biological Processing (eds Meyer G. E. &
+DeShazer J. A.). SPIE Press, Boston, MA, pp. 128– 137.
+Haugland, R. A., Siefring, S. C., Wymer, L. J., Brenner, K. P. &
+Dufour, A. P. 2005 Comparison of enterococcus measurements
+in freshwater at two recreational beaches by quantative
+polymerase chain reaction and membrane filter culture
+analysis. Wat. Res. 39, 559 –568.
+Jadamec, J. R., Bauman, R., Anderson, C. P., Jakubielski, S. A.,
+Sutton, N. S. & Kovacs, M. J. 1999 Method for detecting
+bacteria in a sample. United States Patent No. 5,968,762 19
+October 1999.
+Jiang, S., Noble, R. T. & Chu, W. 2001 Human adenoviruses and
+coliphage in urban-runoff impacted coastal waters of southern
+California. Appl. Environ. Microbiol. 67, 179 –184.
+Kasempimolporn, S., Saengseesom, W., Lumlertdacha, B. &
+Sitprija, V. 2000 Detection of rabies virus antigen in dog saliva
+using a latex agglutination test. Journal of Clinical
+Microbiology 38, 3098 –3099.
+Kievits, T., nan Gemen, B., van Strijp, D., Schukkink, R., Dircks,
+M., Adriaanes, H., Malek, L., Sooknanan, R. & Lens, P. 1991
+NASBAY isothermal enzymatic in vitro nucleic acid
+amplification optimized for the diagnosis of HIV-1 infection.
+J. Virol. Methods 35, 273–286.
+Kooser, A., Manygoats, K., Eastman, M. P. & Porter, T. L. 2003
+Investigation of the antigen antibody reaction between antibovine serum albumin (a-BSA) and bovine serum albumin
+(BSA) using piezoresistive microcantilever based sensors.
+Biosensors and Bioelectronics 19, 503– 508.
+Kramer, M. F. & Lim, D. V. 2004 A rapid and automated fiber
+optic-based biosensor assay for the detection of Salmonella in
+spent irrigation water used in the sprouting of sprout seeds.
+J. Food Protection 67, 46 – 52.
+Kramer, M. F., Tims, T. B., DeMarco, D. R. & Lim, D. V. 2002
+Recovery of Escherichia coli O157:H7 from optical
+
+391
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+
+
+392
+
+R. T. Noble and S. B. Weisberg | Technologies for rapid detection of bacteria
+
+waveguides used for rapid biosensor detection.
+J. Rapid Methods and Automation in Microbiology 10,
+93 –106.
+Lee, J. & Deininger, R. A. 2004 Detection of E. coli in beach water
+within 1 hour using immunomagnetic separation and ATP
+bioluminescence. Luminescence 19, 31 –36.
+Leecaster, M. K. & Weisberg, S. B. 2001 Effect of sampling
+frequency on shoreline microbiology assessments. Marine
+Pollution Bulletin 42, 1150 –1154.
+Lim, D. V. 2000 Rapid pathogen detection in the new millennium.
+National Food Processors Association Journal 2, 13 –17.
+Lim, D. V. 2001 Rapid biosensor detection of foodborne microbial
+pathogens. Microbiological Methods Forum Newsletter 18,
+13 –17.
+Lim, D. V. 2003 Detection of microorganisms and toxins with
+evanescent wave, fiber optic biosensors. Proc. IEEE 91,
+902– 907.
+Lyon, W. J. 2001 Taqman PCR for detection of Vibrio cholerae O1,
+O139, Non-O1, and Non-O139 in pure cultures, raw oysters,
+and synthetic seawater. Applied and Environmental
+Microbiology 67(10), 4685 –4693.
+Nistor, C., Osvik, A., Davidsson, R., Rose, A., Wollenberger, U.,
+Pfeiffer, D., Emnéus, J. & Fiksdal, L. 2002 Detection of
+Escherichia coli in water by culture-based amperometric and
+luminometric methods. Water Science and Technology 45,
+191– 199.
+Noble, R. T. & Fuhrman, J. A. 2001 Enteroviruses detected by
+reverse transcriptase polymerase chain reaction from the
+coastal waters of Santa Monica Bay, California: low
+correlation to bacterial indicator levels. Hydrobiologia 460,
+175– 184.
+Paul, J. H., Casper, E. T., Smith, M. C. & Fries, D. 2003 Use of realtime NASBA for monitoring coastal water quality. In 103rd
+General Meeting of the American Society for Microbiology,
+Washington, DC, Abs N-102.
+Perez, F., Tryland, I., Mascini, M. & Fiksdal, L. 2001 Rapid
+detection of E. coli in water by a culture based amperometric
+method. Anal. Chim. Acta 427, 149 –154.
+Reynolds, K. S., Gerba, C. P. & Pepper, I. L. 1997 Rapid PCR-based
+monitoring of infectious enteroviruses in drinking water.
+Water Science and Technology 35(11 –12), 423 –427.
+Richmond, C. S., Glasner, J. D., Jin, H., Mau, R. & Blattner, F. R.
+1999 Genome-wide expression profiling in Escherichia coli K12. Nucleic Acids Research 27, 3821 –3835.
+
+Downloaded from http://iwaponline.com/jwh/article-pdf/3/4/381/396349/381.pdf
+by guest
+
+Journal of Water and Health | 03.4 | 2005
+
+Rowe-Taitt, C. A., Golden, J. P., Feldstein, M. J., Cras, J. J.,
+Hoffman, K. E. & Ligler, F. S. 2000 Array biosensor for
+detection of biohazards. Biosensors & Bioelectronics 14,
+785 –794.
+Saiki, R. K., Scharf, S., Faloona, F., Mullis, K. B., Horn, G. T.,
+Erlich, H. A. & Arnheim, N. 1985 Enzymatic amplification of
+beta-globin genomic sequences and restriction site analyses for
+diagnosis of sickle cell anemia. Science 230, 1350 – 1354.
+Schiff, K. C., Weisberg, S. B. & Raco-Rands, V. 2002 Inventory of
+ocean monitoring in the Southern California Bight.
+Environmental Management 29, 871– 876.
+Scott, T. M., Rose, J. B., Jenkins, T. M., Farrah, S. R. & Lukasik, J.
+2002 Microbial source tracking: current methodology and
+future directions. Applied and Environmental Microbiology 68,
+5796 –5803.
+Shelton, D. R., van Kessel, J. S., Wachtel, M. R., Belt, K. T. &
+Karns, J. S. 2003 Evaluation of parameters affecting
+quantitative detection of Escherichia coli O157 in enriched
+water samples using immunomagnetic
+electrochemiluminescence. Journal of Microbiological Methods
+55, 717 –725.
+Schneider, B. H., Edwards, J. G. & Hartman, N. F. 1997 Hartman
+interferometer: versatile, integrated, optic sensor for label-free,
+real-time quantification of nucleic acids, proteins, and
+pathogens. Clinical Chemistry 43, 1757 –1763.
+Tims, T. B., Dickey, S. S., DeMarco, D. R. & Lim, D. V. 2001
+Detection of low levels of Listeria monocytogenes within 20
+hours using an evanescent wave biosensor. Am. Clin. Labor
+20, 28 –29.
+Tims, T. B. & Lim, D. V. 2003 Confirmation of viable E. coli
+O157:H7 by enrichment and PCR after rapid biosensor
+detection. J. Microbiol. Methods 55, 141 –147.
+Vaughan, R. D., O’Sullivan, C. K. & Guilbault, G. G. 2001
+Development of a quartz crystal microbalance (QCM)
+immunosensor for the detection of Listeria monocytogenes.
+Enzyme and Microbial Technology 29, 635– 638.
+Veal, D. A., Deere, D., Ferrari, B., Piper, J. & Attfield, P. V. 2000
+Fluorescence staining and flow cytometry for monitoring
+microbial cells. Journal of Immunological Methods 243,
+191 –210.
+Wu, C., Valdes, J. J., Bentley, W. E. & Sekowski, J. W. 2003 DNA
+microarray for discrimination between pathogenic O157:H7
+EDL933 and non-pathogenic Escherichia coli strains.
+Biosensors and Bioelectronics 19, 1 –8.
+
+

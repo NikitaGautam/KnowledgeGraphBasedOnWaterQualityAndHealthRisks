@@ -1,0 +1,1083 @@
+American Journal of Epidemiology
+ª The Author 2009. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of
+Public Health. All rights reserved. For permissions, please e-mail: journals.permissions@oxfordjournals.org.
+
+Vol. 170, No. 12
+DOI: 10.1093/aje/kwp297
+Advance Access publication:
+November 11, 2009
+
+Original Contribution
+Sporadic Gastroenteritis and Recreational Swimming in a Longitudinal
+Community Cohort Study in Melbourne, Australia
+
+Katie Dale*, Rory Wolfe, Martha Sinclair, Margaret Hellard, and Karin Leder
+* Correspondence to Katie Dale, School of Epidemiology and Preventive Medicine, Monash University, Alfred Hospital, Melbourne,
+Australia, 3004 (e-mail: kwebby@hotmail.com).
+
+Initially submitted March 30, 2009; accepted for publication August 18, 2009.
+
+bathing beaches; fresh water; gastroenteritis; gastrointestinal diseases; population surveillance; swimming;
+swimming pools
+
+Abbreviations: CI, conﬁdence interval; HCG, highly credible gastroenteritis; IRR, incidence rate ratio; OR, odds ratio.
+
+Community gastroenteritis is a common illness in developed countries, and it causes significant associated morbidity and economic costs through visits to medical
+practitioners and time taken off from work (1). Communicable disease surveillance predominantly focuses on outbreaks of gastroenteritis rather than on sporadic cases (2).
+To facilitate targeting of interventions designed to reduce
+the prevalence of community gastroenteritis, a better understanding of the common sources of sporadic gastroenteritis
+is required (1).
+Recreational swimming can lead to gastrointestinal disease, as demonstrated by many published outbreak studies
+(3–12). Fecally transmitted pathogenic microorganisms that
+can cause gastroenteritis are often found in fresh and marine
+water settings because of contamination from sewage effluent, livestock, urban runoff, and wildlife (13), especially
+after rainfall (14; http://www.epa.vic.gov.au/water/threats/
+
+default.asp). In recreational swimming venues, including
+swimming pools and spas, such microorganisms may also
+be derived from human use of the water (through defecation
+and/or shedding) (13).
+Several epidemiologic studies have shown recreational
+swimming to be a significant risk factor for sporadic gastroenteritis (15–20). Retrospective and prospective cohort studies and randomized controlled trials have shown that
+a specific episode of contact with marine or fresh water
+can increase the risk of gastroenteritis (21–23). Several
+case-control studies have also demonstrated swimming to
+be a risk factor for infection by specific pathogens (15–19).
+To date, however, no studies have examined the relation
+between self-reported sporadic/endemic gastrointestinal illness in a community cohort (both children and adults) and
+exposure to a variety of different swim settings over a long
+period of time.
+1469
+
+Am J Epidemiol 2009;170:1469–1477
+
+Downloaded from aje.oxfordjournals.org at UIC Library, Collections Development on September 16, 2011
+
+The relation between sporadic gastroenteritis and recreational swimming was examined in a cohort of 2,811
+people in Melbourne, Australia, over a 15-month period (September 1997–February 1999). Data from a prospective
+community-based study of gastroenteritis were used for a Poisson analysis of temporality between reported
+swimming (in public or private pools/spas and in marine or freshwater settings) and a highly credible gastroenteritis
+(HCG) event. Overall, HCG events were more likely in participants who had swum in a public pool/spa (incidence
+rate ratio (IRR) ¼ 1.25, 95% conﬁdence interval (CI): 1.10, 1.42; P ¼ 0.001) or river/lake/dam (IRR ¼ 1.77, 95% CI:
+1.13, 2.79; P ¼ 0.014) during the previous week or had swum in a public pool/spa (IRR ¼ 1.29, 95% CI: 1.13, 1.46;
+P < 0.001) during the previous 2 weeks. Subanalysis by age showed that HCG episodes were also more likely in
+adults who had swum in a private pool/spa (IRR ¼ 1.56, 95% CI: 1.02, 2.39; P ¼ 0.042) during the previous week or
+swum at an ocean/beach (IRR ¼ 1.78, 95% CI: 1.12, 2.81; P ¼ 0.014) during the previous 2 weeks, demonstrating
+signiﬁcant associations between all swimming locations and gastrointestinal symptoms. This study showed that
+although the incremental risk of recreational swimming is signiﬁcant, it is relatively small.
+
+
+
+1470 Dale et al.
+
+Our aim in this study was to examine the temporal association between highly credible gastroenteritis (HCG) and
+recreational swimming, using data from a large, prospective, longitudinal community-based cohort study of gastroenteritis. Previous analysis of this cohort showed that both
+age and time elapsed since the start of the study (a steady
+decline in reported HCG occurred during the course of the
+study) were related to reported HCG episodes (24). We felt
+that an analysis of the role of swimming over and above
+these factors might provide additional information about
+the burden of sporadic gastroenteritis caused by recreational
+swimming in the community.
+
+Data analysis
+
+Deﬁnitions
+
+RESULTS
+
+Participants were considered to have had an episode of
+HCG if, during a 24-hour period, they had 2 or more loose
+stools; 2 or more episodes of vomiting; 1 loose stool plus
+abdominal pain or nausea or vomiting; or 1 episode of vomiting plus abdominal pain or nausea. Episodes of HCG were
+deemed to be distinct if the participant had been symptomfree (of vomiting, diarrhea, nausea, and abdominal pain) for
+6 days or more.
+Recreational swimming settings were defined as a public
+pool/spa, a private pool/spa, an ocean/beach, or a river/lake/
+dam. Participants were asked to record whether they had
+swum during the week, on what days, and in which setting.
+No information was recorded regarding the length of swimming, how many times the participant had entered the water,
+or whether the participant had put his/her head underwater.
+
+Participants
+
+MATERIALS AND METHODS
+
+The Water Quality Study was a large community-based
+study in Melbourne, Australia, that assessed the relation
+between drinking water quality and gastroenteritis. Information was gathered from 600 families in Melbourne from
+about September 1997 to February 1999, with each household consisting of at least 4 members comprising 2 or more
+children aged 1–15 years. Full details on the study and the
+methods used have been reported previously (24). In brief,
+the study families completed a health diary each week in
+which they recorded information about their recreational
+swimming activity, illness, medication, contact with pets,
+and travel. All participants were requested to collect stool
+samples within 1 week of the onset of any gastroenteritis
+episode experienced during the study. Data recording was
+suspended for 4 weeks during the 2 Christmas holiday periods (which occur in summer in Australia), splitting the
+study observation period into 3 segments of 98, 336, and
+42 days.
+Ethics approval and informed consent
+
+Of the 2,811 participants, 1,440 (51%) were male; 648
+(23%) were under age 6 years, 928 (33%) were between the
+ages of 6 and 15 years, and 1,235 (44%) were aged 16 years
+or older. Out of a possible 191,148 person-weeks of health
+diary data, a total of 173,298 person-weeks of data (91%)
+were recorded. Seventeen participants returned no health
+diaries for the entirety of the study, which left 2,794 participants for whom data were received.
+Gastroenteritis
+
+There were 2,669 cases of HCG during the study (0.80
+cases/person/year), with 1,387 (49%) participants reporting
+Am J Epidemiol 2009;170:1469–1477
+
+Downloaded from aje.oxfordjournals.org at UIC Library, Collections Development on September 16, 2011
+
+Approval for the Water Quality Study was granted by the
+Monash Standing Committee on Ethics in Research Involving Humans. Written informed consent was obtained from
+all adult participants at enrollment and from an adult parent
+or guardian for all children participating in the study (24).
+
+Taking an ecologic approach, we compared the reporting
+of at least 1 HCG event during the study with the participant’s number of swimming episodes in each recreational
+swimming setting, using logistic regression. We accounted
+for clustering of participants within households by using
+robust standard errors.
+The temporal association between swimming and gastroenteritis was analyzed with a case-cohort approach. First,
+for each of the 476 days of data collection and for each
+participant, we evaluated the participant’s history of swimming in the prior 7 days. The same thing was done for
+14-day swimming history. Secondly, we identified days on
+which an HCG episode had begun, and other days of that
+episode were excluded. Thirdly, using Poisson regression,
+we compared the swimming history of days that were not
+the start of an HCG episode with the swimming history of
+days that were the start of an episode. Where there were
+missing days in health records or in 7-day or 14-day swimming history, those days were excluded—for example, immediately after the Christmas holiday break. We accounted
+for repeated days of recording by participants and clustering
+of participants within households by using robust standard
+errors at the household level of clustering.
+To ensure that the associations found in the analyses were
+not being unduly influenced by a particular subgroup of
+participants, we performed separate analyses according to
+age group, sex, and the frequency of reported swimming and
+HCG events (participants were categorized into 4 groups
+based on their being frequent swimmers (10 swims or
+not) and reporting frequent HCG events (2 or not) during
+the study period).
+To allow analysis of occasions on which participants swam
+while suffering an HCG episode, we created additional variables for occasions when participants swam on the same day
+as the start of an HCG episode, within 7 days of the start of an
+episode, or within 14 days of the start of an episode. Logistic
+regression analysis was used to determine odds ratios.
+Two-sided P values of 0.05 were considered significant.
+All analyses were undertaken in Stata (Stata Statistical Software, release 10; Stata Corporation, College Station, Texas).
+
+
+
+Recreational Swimming and Sporadic Gastroenteritis
+
+1471
+
+no episodes, 749 (27%) participants reporting 1 episode,
+579 (21%) reporting 2–4 episodes, and 79 (3%) reporting
+5 or more (up to 14) episodes. The age of a participant was
+significantly associated with HCG events (P < 0.001). HCG
+episodes were reported for 70% of participants aged 0–5
+years but only 47% of participants aged 6–15 years and
+43% of participants aged 16 years. There was weak evidence that being an adult female was associated with reporting an HCG episode during the study period (P ¼ 0.16) and
+with the number of HCG episodes reported (P ¼ 0.05).
+Swimming episodes/habits of participants
+
+The number of days on which each participant swam
+ranged from 0 to 320, with 2,366 (85%) participants recording swimming on at least 1 day. Public pools/spas were the
+most popular swimming setting (Figure 1).
+Overall, patterns of swimming frequency were similar for
+males and females, but statistically they differed significantly across age groups. Young participants (age <16
+years) swam more frequently than others. Considering swim
+settings separately, young participants also swam more often in a public swimming pool/spa. Participants aged 6–15
+years swam more often in private swimming pools/spas, the
+ocean/beaches, and rivers/lakes/dams than did other participants (Figure 1).
+More participants swam in rivers/lakes/dams, at the
+ocean/beaches, and in private pools/spas during the warmer
+seasons and months, but the pattern of swimming in public
+pools/spas differed and did not rise as significantly over the
+summer months (Figure 2).
+Swimming-gastroenteritis relation, by participant
+
+In univariate analysis, swimming at an ocean/beach and
+swimming in a private or public pool/spa were associated
+Am J Epidemiol 2009;170:1469–1477
+
+with reporting of at least 1 HCG episode (Table 1). When the
+results were adjusted for age and sex, the number of swims
+in a public or private pool/spa remained significantly associated with having developed an HCG episode (Table 1).
+Temporal association between swimming and
+gastroenteritis
+
+Univariate Poisson analysis confirmed factors related to the
+risk of an HCG episode, including age (previously established), sex, and season. Children aged 0–5 years (incidence
+rate ratio (IRR) ¼ 2.12, 95% confidence interval (CI): 1.88,
+2.38; P < 0.001) and female participants (IRR ¼ 1.12, 95%
+CI: 1.01, 1.24; P ¼ 0.025) were significantly more likely to
+have a reported HCG event, and participants who swam during summer (IRR ¼ 0.76, 95% CI: 0.97, 0.86; P < 0.001) or
+winter (IRR ¼ 0.72, 95% CI: 0.62, 0.84; P < 0.001) were less
+likely to have a reported HCG event. All swimming exposures
+were found to be associated with HCG in univariate analysis
+(Table 2). Adjusting for age, sex, season, and the amount of
+time that had elapsed in the study made little difference in
+these associations, except for swimming in a public pool/spa;
+this latter change was attributable largely to confounding
+by age (Table 2, ‘‘Adjusted 1’’ results). Additional adjustment
+for other swimming exposures (Table 2, ‘‘Adjusted 2’’ results)
+revealed that, except for swimming in a public pool/spa, the
+risk of HCG following swimming in a specific setting was
+influenced by a person’s history of swimming in other settings. This analysis revealed that participants were at significantly increased risk of an HCG episode if they had swum in
+a public pool/spa or river/lake/dam during the previous 7 days
+or in a public pool/spa during the previous 14 days (Table 2,
+‘‘Adjusted 2’’ results). Similar results were observed for all
+analyses, regardless of whether we were examining swimming during the 7 days prior to HCG onset or swimming
+during the 14 days prior to HCG onset.
+
+Downloaded from aje.oxfordjournals.org at UIC Library, Collections Development on September 16, 2011
+
+Figure 1. Numbers of times that participants of different sexes and age groups swam during a study of recreational swimming and sporadic
+gastroenteritis, by swim setting, Melbourne, Australia, September 1997–February 1999. White bars—did not swim; black bars—swam 10 or more
+times; striped bars—swam 2–9 times; dotted bars—swam once.
+
+
+
+1472 Dale et al.
+
+The results of subgroup analyses were broadly similar to
+those presented in Table 2. They showed that adults had an
+increased risk of commencing an HCG episode during the
+week following swimming in a private pool/spa (IRR ¼
+1.56, 95% CI: 1.02, 2.39; P ¼ 0.04) and during the 2 weeks
+following swimming at the ocean/beach (IRR ¼ 1.78, 95%
+CI: 1.12, 2.81; P ¼ 0.01).
+Of 2,623 HCG episodes recorded during the study, on 140
+occasions a participant swam on the same day as the start of
+an HCG episode; on 218 occasions, the participant swam
+within the following 7 days, and on 229 occasions the participant swam within the following 14 days. Compared with
+adults, children aged 0–5 years had an increased likelihood
+of reportedly swimming on the same day as the start of an
+HCG episode (odds ratio (OR) ¼ 1.84, 95% CI: 1.15, 2.94;
+P ¼ 0.011) or within the next 7 days (OR ¼ 1.87, 95% CI:
+1.24, 2.83; P ¼ 0.003) or 14 days (OR ¼ 1.87, 95% CI: 1.24,
+
+2.82; P ¼ 0.003). Participants aged 5–16 years also had an
+increased likelihood of reportedly swimming on the same
+day as the start of an HCG event (OR ¼ 1.96, 95% CI: 1.20,
+3.22; P ¼ 0.008) or within the next 7 days (OR ¼ 2.39, 95%
+CI: 1.60, 3.58; P < 0.001) or 14 days (OR ¼ 2.65, 95% CI:
+1.78, 3.95; P < 0.001).
+DISCUSSION
+
+To our knowledge, this was the first prospective longitudinal cohort study to examine the temporal association
+between community gastroenteritis and swimming over a
+15-month period. The findings from this study confirm that
+recreational swimming in treated, fresh, and marine water is
+associated with an increased risk of episodes of HCG. The
+results revealed the most significant association between
+HCG and swimming to occur among participants who had
+
+Table 1. Odds of Reporting At Least 1 Episode of Highly Credible Gastroenteritis in Crude
+(Univariate) and Adjusted (Multivariate) Logistic Regression Models, by Swim Setting,
+Melbourne, Australia, September 1997–February 1999a
+Adjusted Analysisb
+
+Crude Analysis
+Swim Setting
+OR
+
+95% CI
+
+P Value
+
+OR
+
+95% CI
+
+P Value
+
+0.36
+
+Ocean/beach
+
+1.12
+
+1.01, 1.25
+
+0.035
+
+1.05
+
+0.94, 1.19
+
+Private pool/spa
+
+1.17
+
+1.08, 1.26
+
+<0.001
+
+1.10
+
+1.01, 1.20
+
+0.03
+
+Public pool/spa
+
+1.26
+
+1.17, 1.35
+
+<0.001
+
+1.18
+
+1.08, 1.28
+
+<0.001
+
+River/lake/dam
+
+1.09
+
+0.96, 1.24
+
+0.190
+
+1.03
+
+0.90, 1.18
+
+0.64
+
+Abbreviations: CI, conﬁdence interval; OR, odds ratio.
+Both univariate and multivariate analyses accounted for clustering by household. Odds ratios
+should be interpreted as the dose-response increase in the odds of at least 1 gastroenteritis
+episode per single-category increase in the number of swims (0, 1, 2–9, or 10 swims).
+b
+Results were adjusted for age group, sex, and swimming in a different setting (grouped).
+a
+
+Am J Epidemiol 2009;170:1469–1477
+
+Downloaded from aje.oxfordjournals.org at UIC Library, Collections Development on September 16, 2011
+
+Figure 2. Median numbers of swims and highly credible gastroenteritis (HCG) episodes reported per day for each month in a study of recreational
+swimming and sporadic gastroenteritis, by swim setting, Melbourne, Australia, September 1997–February 1999. Black area—river/lake/dam;
+striped area—ocean/beach; dotted area—private pool/spa; white area—public pool/spa. The black solid line (3) shows the median number of
+HCG episodes reported per day.
+
+
+
+Recreational Swimming and Sporadic Gastroenteritis
+
+1473
+
+Table 2. Likelihood of Reporting At Least 1 Episode of Highly Credible Gastroenteritis, by Recency of Swimming
+and Swim Setting, in Unadjusted and Adjusted Poisson Analysis, Melbourne, Australia, September 1997–February
+1999a
+Recency of Swimming
+and Swim Setting
+
+Adjusted 1b
+
+Unadjusted
+IRR
+
+95% CI
+
+P Value
+
+IRR
+
+Adjusted 2c
+
+95% CI
+
+P Value
+
+IRR
+
+1.18, 1.51
+
+<0.001
+
+1.13, 2.10
+
+0.007
+
+1.11
+
+1.05, 1.64
+
+0.016
+
+1.14
+
+1.14, 1.47
+
+<0.001
+
+95% CI
+
+P Value
+
+Swimming in the
+last 7 days
+Any setting
+No
+
+1.0
+
+Yes
+
+1.45
+
+1.0
+1.29, 1.64
+
+<0.001
+
+1.34
+
+1.11, 2.07
+
+0.009
+
+1.54
+
+1.02, 1.60
+
+0.032
+
+1.31
+
+1.31, 1.68
+
+<0.001
+
+Ocean/beach
+No
+
+1.0
+
+Yes
+
+1.52
+
+1.0
+
+1.0
+0.75, 1.64
+
+0.598
+
+0.91, 1.44
+
+0.263
+
+1.10, 1.42
+
+0.001
+
+1.13, 2.79
+
+0.014
+
+0.96, 1.75
+
+0.093
+
+0.95, 1.44
+
+0.131
+
+1.13, 1.46
+
+<0.001
+
+0.77, 1.70
+
+0.504
+
+Private pool/spa
+No
+
+1.0
+
+Yes
+
+1.28
+
+1.0
+
+1.0
+
+No
+
+1.0
+
+Yes
+
+1.48
+
+1.0
+1.29
+
+1.0
+1.25
+
+River/lake/dam
+No
+
+1.0
+
+Yes
+
+2.21
+
+1.0
+1.58, 3.09
+
+<0.001
+
+2.27
+
+1.31, 1.67
+
+<0.001
+
+1.24, 1.98
+
+<0.001
+
+1.56
+
+1.10, 1.62
+
+0.003
+
+1.33
+
+1.0
+1.63, 3.16
+
+<0.001
+
+1.77
+
+1.19, 1.52
+
+<0.001
+
+1.23, 1.98
+
+<0.001
+
+1.29
+
+1.09, 1.61
+
+0.004
+
+1.17
+
+Swimming in the
+last 14 days
+Any setting
+No
+
+1.0
+
+Yes
+
+1.48
+
+1.0
+1.35
+
+Ocean/beach
+No
+
+1.0
+
+Yes
+
+1.56
+
+1.0
+
+1.0
+
+Private pool/spa
+No
+
+1.0
+
+Yes
+
+1.33
+
+1.0
+
+1.0
+
+Public pool/spa
+No
+
+1.0
+
+Yes
+
+1.51
+
+1.0
+1.34, 1.71
+
+<0.001
+
+1.31
+
+1.23, 2.23
+
+0.001
+
+1.67
+
+1.0
+1.15, 1.48
+
+<0.001
+
+1.29
+
+1.24, 2.24
+
+0.001
+
+1.14
+
+River/lake/dam
+No
+
+1.0
+
+Yes
+
+1.66
+
+1.0
+
+1.0
+
+Abbreviations: CI, conﬁdence interval; IRR, incidence rate ratio.
+All analyses accounted for clustering by household.
+b
+Results were adjusted for amount of time in the study, sex, age group, and season.
+c
+Results were adjusted for amount of time in the study, sex, age group, season, and swimming in other settings.
+a
+
+swum in a river/lake/dam during the prior 7 days or in
+a public pool/spa during the prior 7 or 14 days (Table 2).
+Analysis by age group also revealed a significant association
+between HCG and swimming among adults who had swum
+in a private pool/spa in the prior 7 days or at the ocean/beach
+in the prior 14 days.
+Although the association between sporadic communitybased gastroenteritis and recreational swimming is not
+a new finding, previous studies have largely been prospecAm J Epidemiol 2009;170:1469–1477
+
+tive or retrospective cohort studies (21, 22, 25) or randomized controlled trials (23) that have focused only on the
+effects of 1 specific swimming episode in a marine or freshwater environment on the risk of gastroenteritis. Several
+case-control studies have also been performed, but those
+studies have only considered gastroenteritis patients with
+laboratory-confirmed infections (15–19). This study was
+unique in that it was a prospective cohort study carried
+out over a 15-month period involving both children and
+
+Downloaded from aje.oxfordjournals.org at UIC Library, Collections Development on September 16, 2011
+
+Public pool/spa
+
+
+
+1474 Dale et al.
+
+other times of the year. In addition, the information recorded
+during summer was limited because data recording was
+suspended for 4 weeks over the 2 Christmas holiday periods.
+We recognize that much recreational swimming may have
+occurred during this time; however, we expected that many
+people would be away from home during this period, so the
+decision was made to suspend recording.
+The relation between sporadic gastroenteritis and swimming is likely to be complex. As the World Health Organization noted in its recreational water guidelines, the risk of
+‘‘infection or disease depends upon the specific pathogen,
+the form in which it is encountered, the conditions of exposure, and the host’s susceptibility and immune status’’ (13,
+p. 53). For these reasons, a straightforward linear association between swimming events and HCG is not expected
+and was not seen in our study. The extent to which prior
+immunity affects the swimming-gastroenteritis association
+is uncertain; more frequent water use may increase the overall level of exposure, but it may also confer some resistance
+to infection on a per-event basis (33). Additionally, the duration of water exposure and other factors, such as whether
+water was swallowed, can play a role in the relation (34);
+however, our study did not include collection of such detailed information.
+Other studies have found Cryptosporidium and Giardia
+to be most often associated with treated water such as
+swimming-pool water (8, 35–37), and freshwater and
+marine venues have a higher proportion of outbreaks caused
+by bacterial and viral etiologic agents (3). No recreational
+water quality testing was performed in our study. Although
+microbiologic analyses of fecal samples were performed,
+samples were collected for only 27% of HCG events, and
+pathogens were detected infrequently in laboratory testing
+(25% of samples submitted). Therefore, we did not attempt
+to analyze the data for associations between swimming
+events and specific pathogens. The incubation periods for
+the most common pathogens reported to cause or be associated with gastroenteritis and recreational water exposure,
+as well as the precedent set by other studies (38, 39), led us
+to consider swimming activity that occurred both 7 days and
+14 days before an HCG event as significant. Overall, results
+obtained using these 2 time intervals were similar.
+One outbreak of cryptosporidiosis was identified during
+the study from contamination of a public swimming pool.
+This outbreak occurred during February and March of 1998
+and has been previously reported (40). The 11 cases of
+cryptosporidiosis in this outbreak were not identified by
+routine communicable disease surveillance, and no affected
+person visited a medical practitioner; rather, the cases were
+identified as an outbreak by the study investigators only
+because submission of fecal specimens was encouraged as
+part of the study. Since linkage of the cases would not have
+been identified under normal surveillance conditions, these
+cases were treated as if they were sporadic and were not
+excluded from the analysis. Indeed, many cases of gastroenteritis that are classified as sporadic may actually be part
+of unidentified clusters or outbreaks. It is well recognized
+that most cases of gastroenteritis do not come to the attention of health-care providers or surveillance units, as surveillance has low sensitivity for detection of gastroenteritis
+Am J Epidemiol 2009;170:1469–1477
+
+Downloaded from aje.oxfordjournals.org at UIC Library, Collections Development on September 16, 2011
+
+adults, and it considered multiple swimming exposures
+(public and private pools/spas and marine and freshwater
+settings).
+The study relied on self-reported gastroenteritis symptoms. We acknowledge that self-reporting may have produced over- or underestimation of the true number of
+HCG events because of misclassification of symptoms not
+due to infectious gastroenteritis; however, the use of a relatively stringent definition for HCG should have minimized
+this (24). In addition, the rate of sporadic gastroenteritis
+detected in the study (0.80 cases/person/year) was consistent with rates found in other community-based studies
+(26–29).
+The risks of reporting an HCG event were similar regardless of the swim setting. However, only for the most commonly reported swim setting, swimming in a public pool/
+spa, was the association between swimming and HCG
+events found to be significant in all age groups and both
+sexes. Swimming is only 1 of multiple risk factors for sporadic gastroenteritis. Certain foods and drinking-water sources (18), person-to-person contact (19), and travel (17, 30)
+have all been associated with sporadic gastroenteritis as
+well. Therefore, it is unsurprising that although we found
+that recreational swimming in public/private pools, fresh
+water, and marine water were all significant predictors of
+an HCG episode, the size of the association was not large.
+Participants generally had only a 1–2 times’ increased likelihood of reporting an HCG event during the 7 or 14 days
+following swimming in any setting.
+We considered the effects of several factors on the
+swimming-HCG association during the study, including
+age, sex, season, and history of swimming in other settings.
+The risk of HCG following swimming in a public pool/spa
+was influenced by age, with a high percentage of children
+aged 0–5 years swimming in public pools/spas and, as previous research has found (25, 28, 29, 31, 32), younger age
+groups being the most likely to suffer from HCG events. For
+all other swim settings, however, the risk of an HCG event
+following swimming was most influenced, in our analysis,
+by a participant’s history of swimming in other settings
+(Table 2, ‘‘Adjusted 2’’ results). A participant’s history of
+swimming in public pools/spas, for example, contributed to
+the unadjusted association seen between all other swimming
+exposures and HCG. This is perhaps not surprising, given its
+status as the most common exposure; however, adjusting for
+river/lake/dam swimming also partly explained the association. As can be seen in Figure 2, increased river/lake/dam
+swimming coincided with increases in both ocean and private pool/spa swimming over the summer months, whereas
+public pool/spa exposure followed a different pattern
+throughout the study period. There does not appear to have
+been a significant increase in public pool use during summer, as there was for other recreational settings; this may
+have been due to the relatively high proportion (56%) of
+children under age 16 years in our study and the fact that
+many Australian children take swimming lessons in public
+pools during the school year (and then cease over the summer holidays). Alternatively, it may be that some participants preferred to swim in outdoor settings, such as the
+beach/ocean, during summer and at indoor public pools at
+
+
+
+Recreational Swimming and Sporadic Gastroenteritis
+
+Am J Epidemiol 2009;170:1469–1477
+
+radic gastroenteritis and swimming and the health benefits
+that recreational swimming confers (46), it is important that
+these preventive efforts be continued in all swim settings.
+The likely increase in extreme weather events due to climate
+change (47)—sea-level rise and an increased frequency of
+floods and heavy precipitation—may lead to an increased
+risk of waterborne disease through an increase in contaminated stormwater runoff and challenges to existing infrastructure (48). Thus, preventive efforts for ensuring recreational
+water quality will remain important in the future.
+
+ACKNOWLEDGMENTS
+
+Author affiliations: Department of Postgraduate Studies,
+School of Public Health, La Trobe University, Melbourne,
+Victoria, Australia (Katie Dale); Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Victoria, Australia (Rory Wolfe, Martha Sinclair,
+Karin Leder); and Macfarlane Burnet Institute, Melbourne,
+Victoria, Australia (Margaret Hellard).
+The Water Quality Study was conducted by the Department of Epidemiology and Preventive Medicine, Monash
+University, and the Melbourne Water Corporation under
+the auspices of the Cooperative Research Centre for Water
+Quality and Treatment. Several agencies provided financial
+support for the initial study, including the Cooperative
+Research Centre for Water Quality and Treatment; the Water
+Services Association of Australia; the Melbourne Water Corporation; South East Water Limited; Yarra Valley Water
+Limited; City West Water Limited; and the Department of
+Human Services, Victoria. M. H. was supported by a scholarship from the National Health and Medical Research Council
+and the Australian government’s Cooperative Research Centres Program. K. D. received support from the Victorian
+Public Health Training Scheme.
+The authors thank all members of the Water Quality
+Study team who collected data for this study.
+Conflict of interest: none declared.
+
+REFERENCES
+1. Hellard ME, Sinclair MI, Harris AH, et al. Cost of community
+gastroenteritis. J Gastroenterol Hepatol. 2003;18(3):322–328.
+2. Victoria Department of Human Services. Guidelines for the
+Investigation of Gastrointestinal Illness. Melbourne, Victoria,
+Australia: Victoria Department of Human Services; 1998.
+3. Yoder JS, Hlavsa MC, Craun GF, et al. Surveillance for waterborne disease and outbreaks associated with recreational
+water use and other aquatic facility-associated health
+events—United States, 2005–2006. MMWR Surveill Summ.
+2008;57(9):1–29.
+4. Baron RC, Murphy FD, Greenberg HB, et al. Norwalk gastrointestinal illness: an outbreak associated with swimming in
+a recreational lake and secondary person-to-person transmission. Am J Epidemiol. 1982;115(2):163–172.
+5. Kappus KD, Marks JS, Holman RC, et al. An outbreak of
+Norwalk gastroenteritis associated with swimming in a pool
+
+Downloaded from aje.oxfordjournals.org at UIC Library, Collections Development on September 16, 2011
+
+outbreaks (41). Since an outbreak is usually defined as 2 or
+more cases linked to a common source or event, it may only
+take 1 case of gastroenteritis remaining unreported for an
+outbreak to be missed (42, 43).
+While potentially confounding factors such as household
+clustering, age, sex, and swimming in other settings were
+taken into account during analysis, we acknowledge that
+there may have been other possible confounding influences
+that we were not able to consider. Since most participants
+lived in a defined area and all of them were of similar socioeconomic status, we were unable to consider the effect of
+socioeconomic factors. In addition, adjustment for child day
+care and animal contact was not performed. It is also conceivable that certain behaviors that are associated with
+swimming at recreational water venues may have also affected gastroenteritis risk. Increased person-to-person contact, consumption of certain foods, use of public facilities,
+and even contact with intertidal beach sand (44), for example, are all potential sources of pathogens that may have
+confounded the relation.
+Another acknowledged limitation of the study is that, as
+Figure 2 shows, the rate of reported HCG declined throughout the study, for an unknown reason. However, the rate of
+participant reporting for other factors, including swimming,
+did not decline; thus, although diminishing participant motivation may have contributed to the decline in reported
+HCG events, it is also possible that fewer events were experienced (24).
+Using temporal information on HCG episodes and swimming activity, we were able to reveal that on many occasions
+participants swam while they were ill. Younger participants,
+in particular, were significantly more likely to swim on the
+same day as the start of an HCG episode (although a limitation of our data was that we were unable to know whether
+a participant swam before or after the onset of symptoms on
+that day) or within the following 7 or 14 days. Depending on
+the causative organism, the infectious period may begin
+prior to the onset of symptoms, may peak during the symptomatic period, and may continue for days or weeks after
+symptoms have resolved. It is important that public education about the importance of avoiding swimming during
+gastrointestinal illness be reinforced (3).
+The quality of recreational water in Melbourne is controlled using a preventive risk management approach to
+‘‘assure safety at [the] point of use’’ (45, p. 1-1) and prevent
+the occurrence of waterborne gastrointestinal disease. Public health authorities in Melbourne generally recommend
+that people suffering from diarrhea not use public pools
+until at least 1 week after their symptoms have cleared. If
+someone is known to have had cryptosporidiosis or giardiasis as the cause of diarrhea, they are advised not to swim
+for at least 2 weeks after symptoms have resolved. However,
+levels of compliance with this advice are unknown. Additionally, there are no specific recommendations regarding
+gastroenteritis and swimming in oceans, beaches, rivers,
+or dams.
+In conclusion, this study showed that recreational swimming in a variety of settings may contribute to the risk of
+sporadic gastroenteritis; however, the incremental risk is
+relatively small. Given the likely association between spo-
+
+1475
+
+
+
+1476 Dale et al.
+
+6.
+7.
+8.
+9.
+
+10.
+11.
+
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+
+20.
+21.
+22.
+23.
+24.
+
+25.
+
+26. Monto AS, Koopman JS. The Tecumseh Study. XI. Occurrence of acute enteric illness in the community. Am J Epidemiol. 1980;112(3):323–333.
+27. Mead PS, Slutsker L, Dietz V, et al. Food-related illness and
+death in the United States. Emerg Infect Dis. 1999;5(5):607–
+625.
+28. OzFoodNet Working Group. Foodborne disease in Australia:
+incidence, notifications and outbreaks. Annual report of the
+OzFoodNet network, 2002. Commun Dis Intell. 2003;27(2):
+209–243.
+29. Kuusi M, Aavitsland P, Gondrosen B, et al. Incidence of gastroenteritis in Norway—a population-based survey. Epidemiol
+Infect. 2003;131(1):591–597.
+30. Hoque ME, Hope VT, Kjellström T, et al. Risk of giardiasis in
+Aucklanders: a case-control study. Int J Infect Dis. 2002;6(3):
+191–197.
+31. Alexander LM, Heaven A, Tennant A, et al. Symptomatology
+of children in contact with sea water contamination with
+sewage. J Epidemiol Community Health. 1992;46(4):340–344.
+32. Strauss B, King W, Ley A, et al. A prospective study of rural
+drinking water quality and acute gastrointestinal illness
+[electronic article]. BMC Public Health. 2001;1:8.
+33. Schijven J, de Roda Husman AM. A survey of diving behaviour and accidental water ingestion among Dutch occupational
+and sport divers to assess the risk of infection with waterborne
+pathogenic microorganisms. Environ Health Perspect. 2006;
+114(5):712–717.
+34. Keene WE, McAnulty JM, Hoesly FC, et al. A swimmingassociated outbreak of hemorrhagic colitis caused by Escherichia coli O157:H7 and Shigella sonnei. N Engl J Med. 1994;
+331(9):579–584.
+35. Joce R, Bruce J, Kiely D, et al. An outbreak of cryptosporidiosis associated with a swimming pool. Epidemiol Infect.
+1991;107(3):497–508.
+36. Sorvillo F, Fujioka K, Nahlen B, et al. Swimming-associated
+cryptosporidiosis. Am J Public Health. 1992;82(5):742–744.
+37. Furtado C, Adak GK, Stuart JM, et al. Outbreaks of waterborne infectious intestinal disease in England and Wales,
+1992–5. Epidemiol Infect. 1998;121(1):109–119.
+38. Werber D, Mason BW, Evans MR, et al. Preventing household
+transmission of Shiga toxin-producing Escherichia coli O157
+infection: promptly separating siblings might be the key. Clin
+Infect Dis. 2008;46(8):1189–1196.
+39. Perry S, de la Luz Sanchez M, Hurst PK, et al. Household
+transmission of gastroenteritis. Emerg Infect Dis. 2005;11(7):
+1093–1096.
+40. Hellard ME, Sinclair MI, Fairley CK, et al. An outbreak of
+cryptosporidiosis in an urban swimming pool: why are such
+outbreaks difficult to detect? Aust N Z J Public Health. 2000;
+24(3):272–275.
+41. Padiglione A, Fairley CK. Early detection of outbreaks of
+waterborne gastroenteritis. Water. 1998;25(6):11–15.
+42. Wheeler JG, Sethi D, Cowden JM, et al. Study of infectious
+intestinal disease in England: rates in the community, presenting to general practice, and reported to national surveillance. The Infectious Intestinal Disease Study Executive. BMJ.
+1999;318(7190):1046–1050.
+43. Majowicz SE, Edge VL, Fazil A, et al. Estimating the underreporting rate for infectious gastrointestinal illness in Ontario.
+Can J Public Health. 2005;96(3):178–181.
+44. Bonilla TD, Nowosielski K, Cuvelier M, et al. Prevalence and
+distribution of fecal indicator organisms in South Florida
+beach sand and preliminary assessment of health effects associated with beach sand exposure. Mar Pollut Bull. 2007;
+54(9):1472–1482.
+Am J Epidemiol 2009;170:1469–1477
+
+Downloaded from aje.oxfordjournals.org at UIC Library, Collections Development on September 16, 2011
+
+12.
+
+and secondary person-to-person transmission. Am J Epidemiol. 1982;116(5):834–839.
+Smith A, Reacher M, Smerdon W, et al. Outbreaks of waterborne infectious intestinal disease in England and Wales,
+1992–2003. Epidemiol Infect. 2006;134(6):1141–1149.
+Iwamoto M, Hlady G, Jeter M, et al. Shigellosis among
+swimmers in a freshwater lake. South Med J. 2005;98(8):
+774–778.
+Craun GF, Calderon RL, Craun MF. Outbreaks associated with
+recreational water in the United States. Int J Environ Health
+Res. 2005;15(4):243–262.
+Sartorius B, Andersson Y, Velicko I, et al. Outbreak of norovirus in Västra Götaland associated with recreational activities
+at two lakes during August 2004. Scand J Infect Dis. 2007;
+39(4):323–331.
+Kuusi M, Nuorti JP, Hänninen ML, et al. A large outbreak of
+campylobacteriosis associated with a municipal water supply
+in Finland. Epidemiol Infect. 2005;133(4):593–601.
+Papapetropoulou M, Vantarakis AC. Detection of adenovirus
+outbreak at a municipal swimming pool by nested PCR amplification. J Infect. 1998;36(1):101–103.
+van Heerden J, Ehlers MM, Grabow WO. Detection and risk
+assessment of adenoviruses in swimming pool water. J Appl
+Microbiol. 2005;99(5):1256–1264.
+World Health Organization. Guidelines for Safe Recreational
+Water Environments. Vol 1. Coastal and Fresh Water. Geneva,
+Switzerland: World Health Organization; 2003.
+Turbow DJ, Kent EE, Jiang SC. Web-based investigation of
+water associated illness in marine bathers. Environ Res. 2008;
+106(1):101–109.
+Gray SF, Gunnell DJ, Peters TJ. Risk factors for giardiasis:
+a case-control study in Avon and Somerset. Epidemiol Infect.
+1994;113(1):95–102.
+Dennis DT, Smith RP, Welch JJ, et al. Endemic giardiasis in
+New Hampshire: a case-control study of environmental risks.
+J Infect Dis. 1993;167(6):1391–1395.
+Hoque ME, Hope VT, Scragg R, et al. Children at risk of
+giardiasis in Auckland: a case-control analysis. Epidemiol
+Infect. 2003;131(1):655–662.
+Schönberg-Norio D, Takkinen J, Hänninen ML, et al. Swimming and Campylobacter infections. Emerg Infect Dis. 2004;
+10(8):1474–1477.
+Robertson B, Sinclair MI, Forbes AB, et al. Case-control
+studies of sporadic cryptosporidiosis in Melbourne and
+Adelaide, Australia. Epidemiol Infect. 2002;128(3):
+419–431.
+Prüss A. Review of epidemiological studies on health effects
+from exposure to recreational water. Int J Epidemiol. 1998;
+27(1):1–9.
+Haile RW, Witte JS, Gold M, et al. The health effects of
+swimming in ocean water contaminated by storm drain runoff.
+Epidemiology. 1999;10(4):355–363.
+Corbett SJ, Rubin GL, Curry GK, et al. The health effects
+of swimming at Sydney beaches. The Sydney Beach Users
+Study Group. Am J Public Health. 1993;83(12):1701–1706.
+Kay D, Fleisher JM, Salmon RL, et al. Predicting likelihood of
+gastroenteritis from sea bathing: results from randomised exposure. Lancet. 1994;344(8927):905–909.
+Hellard ME, Sinclair MI, Forbes AB, et al. A randomized,
+blinded, controlled trial investigating the gastrointestinal
+health effects of drinking water quality. Environ Health Perspect. 2001;109(8):773–778.
+Cabelli VJ, Dufour AP, McCabe LJ, et al. Swimmingassociated gastroenteritis and water quality. Am J Epidemiol.
+1982;115(4):606–616.
+
+
+
+Recreational Swimming and Sporadic Gastroenteritis
+
+45. Natural Resource Management Ministerial Council, National
+Health and Medical Research Council, Australian Government.
+Australian Drinking Water Guidelines 6. National Water Quality
+Management Strategy. Canberra, Australian Capital Territory,
+Australia: National Health and Medical Research Council; 2004.
+46. Lehmann D, Tennant MT, Silva DT, et al. Benefits of swimming pools in two remote Aboriginal communities in Western
+Australia: intervention study. BMJ. 2003;327(7412):415–419.
+
+1477
+
+47. Intergovernmental Panel on Climate Change. Climate Change
+2007: Synthesis Report. An Assessment of the Intergovernmental Panel on Climate Change. (Fourth Assessment Report).
+Geneva, Switzerland: World Meteorological Organization;
+2007.
+48. Patz JA, Vavrus SJ, Uejio CK, et al. Climate change and waterborne disease risk in the Great Lakes region of the U.S. Am
+J Prev Med. 2008;35(5):451–458.
+
+Downloaded from aje.oxfordjournals.org at UIC Library, Collections Development on September 16, 2011
+
+Am J Epidemiol 2009;170:1469–1477
+
+

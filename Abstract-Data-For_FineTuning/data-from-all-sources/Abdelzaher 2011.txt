@@ -1,0 +1,1816 @@
+443
+
+© iWA Publishing 2011 Journal of Waterand Health
+
+09.3
+
+2011
+
+Daily measures of microbes and human heaith
+at a non-point source marine beach
+Amir M. Abdelzaher, Mary E. Wright, Cristina Ortega, A. Rasem Hasan,
+Tomoyoi<i Shibata, Helena M. Solo-Gabrieie, Jonathan Kish, Keiiy Withum,
+Guoqing He, Samir M. Elmir, J. Aifredo Boniiia, Tonya D. Boniiia,
+Caroi J. Paimer, Troy M. Scott, Jerzy Lukasik, Vaierie J. Harwood,
+Shannon McQuaig, Christopher D. Sinigalliano, Maribeth L. Cidley,
+David Wanless, Lisa R. W. Piano, Anna C. Garza, Xiaofang Zhu,
+Jill R. Stewart, Jerold W. Dickerson, Jr, Helen Yampara-lquise,
+Charles Carson, Jay M. Fleisher and Lora E. Fleming
+
+ABSTRACT
+Stu(dies evaluating the relationship between microbes and human health at non-point source
+beaches are necessary for establishing criteria which would protect pubiic health while minimizing
+economic burdens. The objective of this study was to evaluate water quality and daily cumulative
+health effects (gastrointestinal, skin, and respiratory illnesses) for bathers at a non-point source
+subtropical marine recreational beach in order to better understand the inter-relationships between
+these factors and hence improve monitoring and pollution prevention techniques. Daily composite
+samples were collected, during the Oceans and Human Health Beach Exposure Assessment and
+Characterization Health Epidemiologie Study conducted in Miami (Florida, USA) at a non-point source
+beach, and analyzed for several pathogens, microbial source tracking markers, indicator microbes,
+and environmental parameters. Analysis demonstrated that rainfall and tide were more influential,
+when compared to other environmental factors and source tracking markers, in determining the
+presence of both indicator microbes and pathogens. Antecedent rainfall and F+ coliphage detection
+in water should be further assessed to confirm their possible association with skin and
+gastrointestinal (Gl) illness outcomes, respectively. The results of this research illustrate the potential
+complexity of beach systems characterized by non-point sources, and how more novel and
+
+Amir M. Abdelzaher
+Mary E Wright
+Cristina Ortega
+A. Rasem Hasan
+Tomoyoki Shibata
+Helena M. Solo.Gabrlele (corresponding author)
+Jonathan KIsh
+Kelly Withum
+Guoqing He
+samir M. Elmir
+J. Alfredo Bonilla
+Tonya D. Bonilla
+Carol J. Palmer
+Troy M. Scott
+Christopher D. SIntgaltiano
+iviaribeth L. Gidley
+David Wanless
+Lisa R. W Piano
+Anna C. Garza
+Xiaofang Zhu
+Jay M. Fleisher
+Lora E. Fleming
+NSF NIEHS Oceans and Human Health Center.
+University of Miami. 4600 Rickenbacker Causeway
+Miami. FL 33149, USA
+E-maii: hmsolo@miami.edu
+
+comprehensive approaches are needed to assess beach water quality for the purpose of protecting
+bather health.
+Key words | beach, epidemiology, health, marine, microbes, non-point
+
+Tomoyoki Shibata
+Northern Illinois University. DeKalb, iL 60115. USA
+Samir iVI. Elmir
+Miami Dade County Heaith Department
+1725 NW 167 St. Miami, FL 33056, USA
+J. Alfredo Bonilla
+Tonya D Bonilla
+Department of Infectious Diseases and Pathoiogy.
+University of Florida. 2015 SW 16th Ave
+Gainesville. FL 32608. USA
+Troy M. Scott
+BCS Laboratories inc., 4842 SW 74th Court. Miami.
+FL 33155, USA
+
+doi; 10.2166/wh.20U.146
+
+
+
+444
+
+A.M. Abdelzaher eí ai | Microbes and human health at a noh-point source marine beach
+
+Journal of Water and Health
+
+09.3
+
+2011
+
+jerzy Lukaslk
+BCS Laboratories Inc., 4641 NW 6th St. Suite C,
+Gainesviile, FL 32609, USA
+
+Valerie J. Harwood
+Shannon McQuaig
+Department of integrative Bioiogy, University of
+South Florida, 4202 East Fowier Ave, SCA110,
+Tampa, FL 33620, USA
+Christopher 0. Sinigalliano
+Mahbeth L GIdley
+David Waniess
+National Oceanic and Atmospheric Administration,
+Atiantic océanographie and Meteoroiogicai
+Laboratories, Ocean Chemistry Division,
+4301 Ricicenbacker Cswy., Miami, FL 33149, USA
+Usa R. w. Piano
+Departments of Pediatrics and Microbioiogy &
+Immunology, university of iviiami, 1600 N.w.
+10th Avenue, Miami, FL 33136, USA
+XIaofang Zhu
+Division of Applied Marine Physics, University of
+Miami, 4600 Rickenbacker causeway, Miami,
+FL 33149, USA
+Jill R. Stewart
+Jerold w. Dickerson, Jr
+NOAA National Ocean Service, Center for Coastal
+Environmental Heaith and Biomoiecuiar
+Research, Charleston, 219 Fort Johnson Road,
+Charleston, SC 29412-9110, USA
+Jill R. Stewart
+Department of Environmentai sciences and
+Engineering, university of North Carolina,
+135 Dauer Drive, Chapei Hili, NC 27599-7431, USA
+Helen Yampara-lqulse
+Charles Cai'son
+Department of Veterinary Pathobioiogy,
+University of Missouri, 1600 East Roilins, Columbia,
+MO6S211
+Jay M. Flelsher
+Department of Public Health, Nova Southeastern
+university, 3200 S, University Drive,
+Ft. Lauderdale, FL 33328, USA
+Lora E. Fleming
+Department of Epidemioiogy & Pubiic Health and
+Marine Biology & Fishenes University of Miami,
+4600 Rickenbacker Causeway, fuliami,
+FL 33149, USA
+
+INTRODUCTION
+Illness associated with microbial pathogens in recreational
+marine beaches can have significant health and economic
+impacts. Globally, each year, there are in excess of 120
+million cases of gastrointestinal disease and in excess of
+50 million cases of respiratory diseases caused by swimming
+and bathing in wastewater-poUuted coastal waters (Shuval
+2003). A study in Orange County, California, USA demonstrated an estimated 3.3 million US dollars per year in
+
+excess illness costs for Newport and Huntington beaches
+(Dwight et al. 2005). Since the 1950s, epidemiologic studies
+have been performed to evaluate relationships between
+bathing in point source impacted beaches and health risk
+(gastrointestinal disease, respiratory, skin, eye, and ear illnesses); and they concluded that symptoms for all these
+illnesses were increased in bathers compared to non-bathers
+(Priiss 1998).
+
+
+
+445
+
+A.M. Abdelzaher et al.
+
+Microbes and human health at a non-point source marine beach
+
+Indicator microbes are used routinely to evaluate risk of
+illness from recreational bathing at beaches. These nonpathogenic microbes serve as surrogates for microbial pollution containing pathogenic microbes and are utilized for
+several reasons. These reasons include: their high concentrations in raw untreated human sewage, ease of detection,
+and in some cases, associations with human illness rates.
+Studies show that the Environmental Protection Agency
+(EPA)-recommended indicator microbe for marine beaches,
+enterococci, has demonstrated a significant association with
+illness in point source impacted marine beaches, at least in
+temperate climates (Priiss 1998; Wade et al. 2003).
+As was shown with point source impacted beaches,
+swimming in non-point source impacted beaches may also
+be a cause of increased illness when compared to nonbathers (Colford et al. 2007; Bonilla et al. 2007; Fleisher
+et al. 2010; Sinigalliano et al. 2010). However a relationship
+between enterococci and bather health has not been consistently established at non-point source impacted or
+subtropical marine beaches (Priiss 1998; Haile et al. 1999;
+Wade et al. 2003; Colford et al. 2007). Recent studies however have shown preliminary relationships between health
+outcomes and indicators. A study conducted in Miami,
+Florida demonstrated a relationship between enterococci
+measured by membrane filtration and skin illness, between
+24 hour prior rainfall and skin illness, and between
+water temperature and acute febrile respiratory illness
+(Sinigalliano et al. 2010). Another study conducted on the
+California west coast demonstrated a relationship between
+male-speciñc coliphage and several symptoms reported by
+bathers (Colford et al. 2007).
+In addition to the lack of a consistent association between
+enterococci and bather health at non-point source impacted
+and subtropical marine beaches, there are many limitations
+to using indicator microbes to monitor for fecal contamination and significant human health risk. Enterococci can
+originate from sources other than humans, and therefore
+the ratios of pathogens to enterococci may not be consistent
+with that of human fecal pollution. Enterococci are also heavily influenced by environmental factors, and they do not
+necessarily address the risks for non-gastrointestinal illnesses,
+since their association was originally established specifically
+with gastrointestinal illness (Boehm et al. 2009). Additionally,
+research has shown that the presence and levels of indicators
+
+Journal of Water and Health
+
+09.3
+
+2011
+
+are not always associated with pathogens in areas impacted
+by non-point sources of indicator organisms (e.g. rainfall
+runoff, animals, human shedding, and sand re-suspension)
+(Deetz et al. 1984; Fujioka et al. 1981; Gerba & Rose 1990;
+Jiang et al. 2001; Noble & Fuhrman 2001; Jiang & Chu 2004).
+Furthermore, at both subtropical and temperate climates,
+the indicator bacteria can multiply in the environment,
+giving a false impression of an increase of fecal pollution,
+which is in turn interpreted through current US federal guidelines as an increase in human health risk (Fujioka et al. 1981;
+Solo-Gabriele et al. 2000; Desmarais et al. 2002; Whitman
+et al. 2003; Shibata et al. 2004; Whitman et al. 2004; Alm
+et al. 2006; Beversdorf e/ al. 2007).
+Monitoring directly for the specific disease-causing
+pathogens themselves would be ideal. Studies have shown
+the presence of pathogenic viruses (such as enteroviruses,
+reoviruses, adenoviruses, hepatitis A virus, and norovirus)
+in marine waters in many areas (including Greece, Italy,
+California, Florida, and Hawaii) (Griffln et al. 2003; Ortega
+et al. 2009). Pathogenic protozoa and bacteria have also
+been detected in recreational beaches (Elmir et al. 2007;
+Sunderland et al. 2007; Abdelzaher et al. 2010; Graczyk
+et al. 2010). However, in both point and non-point source
+impacted marine beaches in temperate and sub/tropical
+climates, epidemiologic studies have not established associations between health risk and specific pathogens. To the
+author's knowledge, Haile et al. (1999) was the only study
+which measured pathogens (enterovirus), other then S.
+aureus (Fujioka et al. 1994), in conjunction with human
+effects. Several epidemiologic studies have been initiated
+at several California beaches (Avalon, Doheny, and
+Malibu), which have measured pathogens in conjunction
+with health effects and publications from these studies are
+pending. The US EPA has also initiated studies in Mississippi, Rhode Island, Alabama, and Puerto Rico, but these
+study results are also pending and focus on point source
+impacted beaches. To date, no published studies have evaluated pathogens and health effects concurrently within a
+subtropical beach environment.
+The objectives of this study were to evaluate the water
+quality (indicator microbes, pathogens, and environmental
+factors) and daily cumulative health effects (gastrointestinal,
+skin, and respiratory illnesses) for bathers at a non-point
+source subtropical marine recreational beach. This study
+
+
+
+446
+
+Journal of Waterand Health
+
+A.M. Abdelzaher et al. \ Microbes and human health at a noh-point source marine beach
+
+evaluated the relationships between microbes and environmental conditions; it also evaluated the inter-relationship
+between health effects and water quality, and identified possible implications for beach regulation practices. Given cost
+limitations when screening multiple targets including pathogens and concurrently assessing human health, this study was
+not intended to establish a conclusive relationship between
+the various factors and targets, but rather to give further
+insight on how the non-point source beach system functions.
+The results of this study should be utilized with results from
+other epidemiologic and water quality studies to establish
+conclusive statements about the relationship between water
+quality and human health at non-point source beaches. This
+study differs from previously published work as part of the
+BEACHES study (Fleisher et al. 2010; Sinigalliano et al.
+2010; Shibata et al. 2010) by reporting the results from daily
+composite samples during the BEACHES study therefore
+allowing many more microbiological measures to be compared to environmental parameters and health outcomes
+and providing an alternate perspective to beach monitoring
+through composite as opposed to grab samples.
+
+METHODS
+Site description
+Samples were collected from a study beach within MiamiDade County, Florida, USA (Figure 1). The climate of
+Miami is classified as 'subtropical' because of its geographic
+location, and its average ambient temperature of 24.8 C.
+The study beach is an irregularly narrow beach, with an
+approximate average distance between the mean water
+line and the outer edge of the sand of 5 m. The beach is
+1.6 km long, relatively shallow, and characterized by weak
+water circulation (Shibata et al. 2004). This beach is the
+only beach in Miami-Dade County where visitors can
+bring their pets, particularly dogs. Beach admission is free,
+and many bathers frequent the beach, particularly during
+the summer months (Wang et al. 2010). Extensive prior
+evaluation of the vicinity of the study beach had not found
+point sources of pollution to this beach (such as sewage outfalls, failing lift stations) or other direct sewage inputs (such
+as through septic tanks) (Shibata et al. 2004). However
+
+09.3
+
+2011
+
+Figure 1 I study beach aerial photograph and sampling scheme inciuding bather
+sampiing area where bather-coiiected composite samples were collected and
+the investigator sampiihg transect where the investigator-collected samples
+were collected (aerial photograph courtesy of USGS).
+
+several potential non-point sources of pollution such as
+sand efflux, trash bins, bather shedding, rainfall runoff, offshore boat dumping, dogs and other animals may impact
+the study beach (Wright et al. 200g; Wright et al. 2on).
+Sand efflux is believed to be significant (Zhu et al. accepted)
+due to elevated levels of indicators observed in the sand
+along with intermittent detection of pathogens including
+Giardia spp., Gryptosporidium spp., enterovirus, and Vibrio
+vulnificus (Abdelzaher et al. 2010; Shah et al. accepted).
+This beach is usually in compliance with regulatory monitoring criteria, but periodically (i.e. 2.1 times per year averaged
+from 2002 to 2010) has been placed under an advisory due
+to microbiai water quality violations (Polk D., personal
+communication).
+Epidemiologie study
+Sampling occurred as part of the Oceans and Htunan Health
+Beach Exposure Assessment and Characterization Health
+Epidemiologic Study, 'BEACHES' (Fleisher et al. 2010). In
+brief, this study was the first randomized control exposure epidemiological study to be conducted in the United States. The
+study design involved randomly assigning adults who report
+regularly bathing in South Florida to either a 'bather' or 'nonbather' category. Bathers were asked to spend 15 minutes in
+
+
+
+447
+
+A.M. Abdelzaher ei al. \ Microbes and human health at a non-point source marine beach
+
+the water, while non-bathers spent 15 minutes on the beach.
+Approval was obtained by the Florida Department of Health
+Internal Review Board (IRB 1491; DOH IRB Number,
+H07164) and the University of Miami Internal Review Board
+(IRB 20070306) to include bathers in this study (Fleisher
+et al. 2oio). As part of the BEACHES study two distinct types
+of water samples were collected, 'individual' samples collected
+by individual bathers and 'daily composite samples' which
+were combined water samples collected throughout each
+sampling day. The earlier published work focused on describing the epidemiologic data (Fleisher et al. 2010) and also
+evaluated, for the 'individual' samples, dose-response relafionships between microbes and environmental measures and
+health effects (Sinigalliano et al. 2010). The current manuscript
+complements these earlier publications by reporting the results
+from the daily composite samples, comparing microbiological
+and environmental measurements, as well as evaluating
+combined human illness rates corresponding to the daily composite samples. The results from the daily composite samples
+have not been reported elsewhere. Due to the fewer number
+and larger sample sizes of the daily composite samples, many
+more microbiological measures were included in the analyses
+allowing for the comparisons between a much broader range
+of microbes. In this manuscript, illness among individual
+participants was combined on a daily basis (number of participants who became ill relafive to the total number of
+participants per day), and then excess illness was computed
+(average daily difference in percentages for gastrointestinal,
+skin, and acute respiratory febrile illnesses between bathers
+and non-bathers). This approach yields, however, an underesfimate of risk due to the misclassification of exposure (i.e. the
+assignment of a single daily microbial exposure value to multiple bathers with different exposures albeit on the same day)
+(Fleisher et al. 1993). Nevertheless this approach provides an
+alternative perspective to monitoring and hence beach regulation through compositing samples over several hours and
+from different locations as opposed to grab sampling.
+Sample collection and measurement of
+physical-chemical parameters
+Fifteen sampling events were conducted on 15 different
+sampling days ranging from December 2007 to June 2008
+as part of the BEACHES study described above. Sampling
+
+Journal of Water and Health
+
+09.3
+
+2011
+
+occurred over the study day span of 3.5 hours starting at
+approximately 8:00 am and ending at 11:30 am local time.
+Two sets of composite water samples were collected and
+analyzed per sampling day: 'bather-collected composite'
+and 'investigator-collected composite'. Bathers (30-60 per
+sampling day), assigned to spend 15 minutes in the water,
+each collected 5 L water samples in pre-sterilized sampling
+containers. These bathers collected samples from their
+sampling zone (area of exposure) at knee depth, which
+varied with tide (Figure 1). Bathers were trained (asked to
+conduct a thorough pre-rinse of the sample container,
+avoid touching the inside of the container, and to sample
+just below the surface of the water, etc.) on how to collect
+the water sample to minimize variafion between bathers.
+One liter of each of these samples was added to a50Lpresterilized carboy, and this sample (30 to 50 L) was called the
+'bather-collected composite'. When there were greater than
+50 bathers, smaller sample aliquots (0.8 L) were added to
+the 50 L carboy to not exceed the carboy capacity. The
+remaining 4 L collected by bathers was also analyzed individually on a 'per bather basis' and was thus not composited;
+the analysis of the remaining 4 L has been discussed elsewhere (see Fleisher et al. 2010; Sinigalliano et al. 2010).
+Another composite sample was also collected by study
+staff and called the 'investigator-collected composite'. This
+sample involved collecting two 10 L water samples at
+knee depth approximately every 10 minutes from the time
+the first bather entered the water and throughout the 3.5
+hour sampling duration. Invesfigators collected samples
+using 5 gallon pre-sterilized buckets supported by a fioat.
+Sample collection was done in a manner as to minimize
+sediment disturbance and minimize contamination from
+the invesfigators by standing downstream of the sampling
+locafion. These 10 L aliquots were pooled into two 250 L
+sterilized plastic drums by pouring approximately 5 L from
+each aliquot into both drums. The total volume of this
+sample ranged from 200 to 225 L/sampling day. The
+sampling transect for the investigator-collected composite
+samples was approximately 10 m away from the bather
+sampling zone where the bather-collected composite
+samples were collected in order to minimize the impacts
+from the individual epidemiologic study participants
+(Figure 1). Both the 50 L bather-collected carboy and 200
+to 225 L investigator collected drum were kept in the
+
+
+
+448
+
+A.M. Abdelzaher et al. \ Microbes and human health at a non-point source marine beach
+
+shade during the 3.5 hour sampling time to minimize temperature increase of the sample.
+Water temperature, pH, salinity and turbidity were
+measured for the bather-collected composite samples in
+the field using a YSI probe (600R series sonde, YSI Inc.,
+Yellow Springs, Ohio) and a turbidimeter (Model 66120200, VWR, Newark, DE, USA). Additionally, other environmental conditions were obtained from National Ocean and
+Atmospheric Administration (NOAA) (tidal height) and the
+University of Miami (National Science Foundation (NSF)
+National Insfitute of Environmental Health Sciences
+(NIEHS) OHH Center Remote Sensing Facilities Core)
+(rainfall, wind speed, and solar radiation). Solar radiation,
+tidal height, and wind speed were determined by averaging
+measured values every 2 to 6 minutes from the time of the
+first bather-collected sample to the last. Some peaks in
+microbe measurements were noticed when the majority of
+sampling for the composites occurred right after peak high
+tide. This was further analyzed quantitafively by computing
+the percentage of samples on a given sampling day which
+were collected beyond peak high tide (post-HT sampling %).
+For sampling days where sampling did not overlap with
+peak high tide, this value was set to zero.
+
+Journal of Water and Health | 09.3 | 2011
+
+spp. via qPCR) and viruses (pan enterovirus, norovirus, and
+hepatitis A via qPCR). The volumes analyzed for each
+microbe, as well as a description of the methods used in
+the analysis, are summarized in the electronic supplement
+to this article (available at http://vs7ww.iwaponline.com/
+jwh/146.pdf).
+Concentration and analysis of investigator-coiiected
+composite sampies
+Investigator-collected composite samples, consisting of two
+large drums of approximately 225 L, were used to collect
+samples for pathogen analysis using tradifional large
+volume concentration methods. Filters (Envirochek, PalF"^
+Ann Arbor, MI, USA) obtained from processing the water
+from one of the drums was used for protozoan analysis
+{Cryptosporidium spp. and Giardia spp. via immunomagnetic separation followed by microscopic analysis), while
+the filter obtained from the second drum (Filterite, PalF'^,
+after acidification of water in the drum) was used for enterovirus analysis via culture. Details of the corresponding
+analyses methods are included in the electronic supplement
+to this article (available at http://www.iwaponline.com/
+jwh/146.pdf).
+
+Concentration and analysis of bather-coilected
+composite sampies
+
+Statistical analysis
+
+Bather-collected composites were analyzed for many different microbes, including the EPA-recommended marine
+bacterial indicator, enterococci, using three methods:
+membrane filtration (MF), chromogenic substrate (CS),
+and quantitative polymerase chain reaction (qPCR).
+Additional microbial indicators (fecal coliform, Escherichia coli, Clostridium perfringens by MF and coliphage
+via single agar layer method) were measured as well as
+human and dog-associated microbial source tracking
+(MST) markers including Bacteriodales [Bacteroides thetaiotaomicron, BacHum-UCD, HF8, and DogBac), human
+polyomavirus (HPyVs) and the esp gene of Enterococcus
+faecium. Pathogens evaluated included: bacteria {Staphylococcus aureus by MF, Vibrio vulnificus with enrichment by
+MF and confirmation by PCR) and a low volume concentration method (bilayer method, Abdelzaher et al. 2009)
+for processing protozoa (Cryptosporidium spp. and Giardia
+
+Data were checked for normality using the Shapiro-Wilk
+test, and normalized using a log transformation when
+needed. Parameters that did not meet normality requirements (such as rainfall, post-HT sampling %, pathogens,
+coliphage, and all of the source tracking markers except
+Bacteriodales BacHum-UCD), mostly due to being frequently below detecfion limits (i.e. left censured data),
+were not evaluated statistically. Parameters that met the normality requirements were analyzed using the following
+parametric tests: a student i-test was used to determine statistical significance of different results between the different
+enterococci analysis methods using ExceF", and a Pearson
+analysis was conducted using XLSTAP'" to determine correlation coefficients between parameters as well as their
+statistical significance. The few values below detection
+limits within these statistically analyzed parameters were
+analyzed at their respective detection limits.
+
+
+
+449
+
+A.fvi. Abdeizaher et al. \ Microbes and human health at a non-point source marine beach
+
+RESULTS
+Heaith outcomes
+The method for assessing illness, as well as other epidemiologic considerations using the individual exposure data,
+have been previously described (Fleisher et al. 2010). The
+number of total bathers per day ranged from 29 to 55
+(avg = 43 ± 10), while the number of total non-bathers per
+day ranged from 25 to 60 (avg = 43 ±11). This yielded a
+total of 652 bathers and 651 non-bathers for the 15 study
+days. Daily gastrointestinal, skin, and acute febrile respiratory illness reported in follow up interviews ranged from 0
+to 3, 0 to 9, and 0 to 4 participants for bathers, and 0 to 2,
+0 to 2, and 0 to 2 for non-bathers, respectively. The
+total number of cases over the 15 study days for gastrointestinal, skin, and acute febrile respiratory illness were 31, 47,
+and 12 for bathers, and 18, 9, and 4 for non-bathers,
+respectively.
+Illness rates were computed by subtracting daily illness
+percentage rates of non-bathers from that of bathers, and
+termed 'excess illness'. Average daily excess illness percentage rates for GI, skin and acute febrile respiratory illness
+were 2.0 ± 3.3, 5.6 ± 4.7, and 1.2 ± 2.9%, respectively
+(Figure 2). Negative excess illness values represented days
+in which a higher illness percentage was reported in nonbathers when compared to bathers. Cumulative daily
+excess health effects (sum of percentages of GI, skin, and
+respiratory illness) ranged from - 7 % to 22%.
+F - coliphage was detected on 3 of the 5 days characterized by the highest excess GI illness (see dotted rectangles
+on Figure 2). F-l- coliphage was not detected in any of the
+samples, and hence no association was apparent in this
+study between this microbe and health conditions. The
+3 highest levels of Bacteriodales BacHum-UCD human
+marker corresponded to the 3 days characterized by the
+highest excess skin illness. These 3 days also corresponded
+to days when enterovirus were detected; 6-24 hour rainfall
+was observed during 2 of the 3 days characterized by the
+highest excess skin illness (see rounded rectangles on
+Figure 2). The highest excess skin illness level on May 10th
+also corresponded with the highest values of enterococci
+measured by qPCR and CS, Bacteroidales DogBac marker.
+
+Journal of Water and Health | 09.3 | 2011
+
+cumulative pathogens {Cryptosporidium spp., Giardia spp.
+and enterovirus), and the highest level (2.82 cm) of 6-24
+rainfall (see solid rectangles on Figure 2).
+Environmental parameters
+The daily values for environmental parameters (pH, salinity, and temperature, turbidity and wind speed) for each
+of the 15 bather-collected study samples over the 15 study
+days can be found in the electronic supplement to this
+article (available at http://www.iwaponline.com/jwh/146.
+pdf). The average and standard deviation values for pH,
+salinity, temperature, and wind speed were 8 ± 0.3,
+35.6 ± 1.4 psu, 26.4 ± 3.0 C, and 6.7 ± 2.3 m/s, respectively. Solar radiation and tidal height yielded average
+values of 307 ± 92 W/m^ and 0.35 ± 0.18 m, respectively
+(Figure 2). The turbidity varied significantly between
+study days, with a range of 2.8 to 64.4 nephelometric turbidity units (NTU) and an average of 14.5 ± 14.7 NTU.
+Rainfall was detected immediately prior to 7 of the 15
+sampling dates, and reported as 0-6 h, 6-24 h, and 24-48 h
+rainfall prior to the mean sampling time (Figure 2).
+Correlations were noted between water temperature
+and solar radiation, as well as water temperature and turbidity (Table 1). The increase in turbidity in the water
+with decreasing water temperature may be due to the presence of rainfall which occurs during cloudy conditions and
+hence decreases solar radiation and water temperature.
+Solar radiation was also found to correlate with enterococci (CS) (Table 1). Absolute tidal height was not
+associated with any microbes; however, enterococci (MF)
+values greater than the regulatory geometric mean value
+of 35 colony-forming units (CFU) 100 ml ' occurred only
+when sampling was conducted immediately after peak
+high tide (i.e. post-HT sampling percentage greater than
+0) (see circled areas on Figure 2).
+Zero to 6 hour rainfall corresponded to elevated levels of
+turbidity and bacterial indicators: enterococci (MF), E.coli,
+fecal coliform, and C perfringens (see light gray shading in
+Figure 2). Rainfall during the prior 6 to 24 hours had additional
+significance. The simultaneous presence of Cryptosporidium
+spp., Giardia spp. and enterovirus only occiured after 6
+to 24 h rain events (see medium gray shading in Figure 2).
+
+
+
+450
+
+A.M. Abdelzaher eí al. \ Microbes and human health at a non-point source marine beach
+
+•S'
+
+'V
+
+V
+
+S"
+
+r 70
+
+Ä
+
+2.5 -
+
+Raintall (0- 6 hours)
+• • Rainfall ( 6-24 hrs)
+• • Rain lall (24-48 hrs)
+^- •Turbidity (NTU)
+
+2 •
+
+1 \
+
+rai
+
+c
+
+e
+
+n
+
+*—
+
+1.
+
+m
+
+0%
+0.41
+nsinq
+
+(W/m^)
+
+241
+
+<2
+<2
+CFU/lOOml
+
+3
+
+<2
+55
+
+GEU/100mi
+PFU/100 mi
+
+100L
+CFU/500ml
+CFU/lOOml
+TSC/100 ml
+GEU/100ml
+perl L
+per 500 mi
+illness
+
+68
+<0.3
+«0.3
+
+0%
+0.50
+risinq
+230
+15
+<2
+104
+<2
+52
+81
+<0.3
+
+0%
+0.60
+nsinq
+325
+4
+31
+27
+7
+61
+233
+<0.3
+
+i i : W.ï ;
+
+<0 6
+'06
+<0.5
+pos
+pos
+11
+16
+391
+2090
+64
+51
+3
+<1
+neg
+pos
+neg
+neq
+pos
+neg
+0.0% 9 7%
+10.3% 3.0%
+
+0%
+0.05
+abbinq
+449
+
+15
+3
+10
+
+<2
+18
+512
+<0.3
+<0.3
+<0.5
+<0.5
+<0.5
+
+<0.5
+<0.5
+<0.5
+neg
+pos
+11
+24
+1640
+532
+15
+59
+5
+<1
+neg
+pos
+neq
+neq
+neq
+neg
+: 4 8 % ; 0.1%
+4.8% -2.3%
+-4.7%
+
+21%
+0.47
+risinq
+383
+13
+
+7
+20
+1295
+13
+1647
+<0.3
+<0.3
+<0.5
+<0.5
+<0.5
+pos
+4
+4738
+43
+<1
+pos
+pos
+necj
+2.2%
+4.2%
+0.0%
+
+• 50
+
+H
+
+30 '^
+
+/
+
+J
+
+1 -
+
+60
+
+40
+
+/
+
+'S ^-^ •
+
+0.5 •
+
+•s-'
+
+1,
+
+3 •
+
+o
+
+Journal of Water and Health | 09.3 | 2011
+
+l1
+
+20
+/ \
+
+S
+>
+
+(B4%-X29%:i 0%
+( P I S 0.57 0.15
+ebbinq risinq nsinq
+260 190 352
+(^9 T n O 9 3 <2
+3
+ST Tr
+196
+61
+66
+1653 402
+13
+69
+100
+23
+483
+89
+124
+<0.3 <0.3 <0.3
+<0.3 <0.3 <0.3
+<05 <0.5 <0.5
+<0.5 2.1 <0.5
+<0.6 <0.6 <0.5
+pos neq neq
+<2
+8
+<2
+120 463
+<1
+25
+28
+25
+<1
+<1
+<1
+neg neg pos
+pos neq pos
+neg neq neq
+2 4% •5 8%-0.2%
+8.6% 8.3% 7.7%
+0.0% 5.9% 7.3%
+
+V
+0%
+
+(77°,?)
+
+0 )3
+nsing
+366
+
+378
+
+3
+
+<2
+<2
+4
+13
+46
+
+29
+3
+
+5
+5
+124
+
+0%
+0%
+0%
+07o
+0 33 0.28 0.19 0.45
+ebbinq ebbinq nsinq ebbnq rising
+
+2Í
+9
+34
+43
+974
+
+2361
+<0.3 <0.3
+<0.3
+<0.3 <0 3 <0 3
+<0.5
+0,9 1 ;. 7
+<0 5 . ¡2.a
+<0.5 i
+0.5
+pos
+11
+
+üé
+pos
+<2
+
+neg
+<2
+
+12900
+
+1102
+
+<1
+
+273
+<1
+
+407
+<1
+
+neg
+pos
+neq
+
+neg
+neq
+neg
+
+neg
+neg
+neg
+
+314
+6
+
+Jl
+
+10
+• n
+
+0%
+
+0.27
+nsing
+312
+
+S,
+
+393
+
+380
+
+113
+
+13
+25
+127
+24
+15
+472
+
+<2
+<2
+7
+
+14
+30
+159
+
+6
+11
+
+159
+48
+285
+
+<0.3
+0.3
+
+1
+<0.5
+<0.6
+pos
+19
+119
+4
+<1
+neg
+neg
+
+449
+
+<0.3
+:0.3
+1.5
+<05
+pos
+14
+<1
+
+<1
+<1
+
+neg
+neq
+pos
+
+236
+
+<2
+17
+147
+16
+68
+
+637
+<0.3 <0.3
+<0.3 <0.3
+<0.5 1 ^
+<0.5 I ^ H
+0.5 ^ ^ ^
+pos
+pos 1
+2
+13
+516
+37
+<1
+
+538
+28
+<1
+
+neg
+neq
+
+neg
+neq
+neg
+
+pos
+0.5% : 4.2% : 1 9% -0 1 % ;4 1 % 0 0% -4.9%
+2.8% r15.6%j
+5.1% 5.9% 0.0% -1.1%
+2.2% 2.U% 2.0% 0.0% -2.0% 0.0% 0.0%
+
+Post-HT Samplinq
+Tidal Height
+Tidal Staqe
+Solar Radiation
+EnterocQcci (MF)
+E.coli
+Fecal coliform
+C. perfringens
+Enterococci(CS)
+Enterococci (qPCR)
+F- coliphaqe
+CrvptosDOridium oocvsts
+Giardia cysts
+Enterovirus
+V.vulntfícus
+Bacteroidales DogBac
+Bacteroidales BacHum-UCD
+Bacteroidales HF8
+S. thetaiotaomicron
+Poiyomavirus
+Gi Illness
+Skin Illness
+AFRI
+
+Figure 2 I Beach 'snapshots' including microbial indicators, pathogen levels, source tracking markers, and excess illness percentages between bathers and non-bathers rates, and their
+potential association vi/ith environmental parameters. Data highlighted to indicate possible influence of rainfall. Data circled or vi/ith a rectangle to indicate possible relationships
+between factors (see results). Excess illness percentage rates of 0% represent sampling days where there was neither bather nor non-bathers iilness/infectlon while negative
+values represent days in which the number of cases in non-bathers exceeded the number in bathers. AFRI, acute febrile respiratory illness; Gi, gastrointestinal.
+
+The highest values of enterococci measured by qPCR and CS,
+Bacteroidales DogBac marker, cumulative pathogens {Cryptosporidium spp., Giardia spp. and enterovirus) occurred on
+May 10th which had the highest level (2.82 cm) of 6-24 rainfall
+(see solid rectangles on Figure 2).
+Microbial indicators
+Enterococci levels in water samples over the 15 sampling
+days ranged from <2 to 109 CFU 100 ml"' using MF
+methods, 11 to 124 MPN 100 ml"' using CS, and 46 to
+2360 genome equivalent units (GEU) 100 ml ' using
+
+qPCR (Figure 2). Measured concentrations of enterococci
+by qPCR were greater than MF (p < 0.0001) and CS (p <
+0.0001) measurements; while measurements by CS were
+greater (p = 0.005) than those by MF. No significant
+(p < 0.05) correlations were noted between each of the
+enterococci measurement methods, qPCR, MF and CS.
+Enterococci levels measured by CS correlated with
+Bacteroidales BacHum-UCD levels and the inverse of
+solar radiation (Table 1). Escherichia coli, fecal coliform,
+and C. perfringens values ranged from <2 to 83, <2 to
+196, and <2 to 1,653 CFU 100 m l ' , respectively
+(Figure 2). The maximum values for these three indicators.
+
+
+
+451
+
+A M . Abdelzaher et al. \ Microbes and human heaith at a hon-point source marine beach
+
+Table 1 I Correlation coefficients for significant (p < 0.05) correlations between indicator
+microbes, microbiai source tracking markers and environmentai factors
+
+Enterococci (MF)
+Enterococci (CS)
+
+£. coli (MF)
+Water temperature
+
+E. coli
+
+0.57
+
+0.02
+
+C. perfringens
+
+0.57
+
+0.03
+
+Bacteroidales
+(BacHum-UCD)
+
+0.68
+
+0.005
+
+Solar radiation
+
+-0.56
+
+Fecal coliform
+
+0.68
+
+0.005
+
+C. perfringens
+
+0.70
+
+0.004
+
+0.53
+
+0.04
+
+-0.58
+
+0.02
+
+Solar radiation
+Turbidity
+
+0.03
+
+Note: Parameters that did not meet normality requirements (such as rainfaii, post HT
+sampiihg %. pathogens, coiiphage. and aii of the source tracking markers except Bacteriodaies BacHum-uCD). mostiy due to being frequentiy below detection limits, were not
+evaiuated statistically.
+
+as well as the second highest value of enterococci (MF),
+were measured from the March 8 samples which had
+the highest level of 0-6 hour rainfall of 1.17 cm (Figure 2).
+Correlations were noted between E.coli and the remaining
+three indicator bacteria: enterococci (MF), C. perfringens,
+and fecal coliform (Table 1). Glostridium perfringens also
+correlated with enterococci (MF) (Table 1). Both F+ and
+F~ coiiphage were predominately below detection limits;
+however, F - coiiphage was detected in 4 samples at low
+concentrations of 0.3 to 1.7 plaque-forming units (PFU)
+100 mL"^ (Figure 2).
+MST markers and bacterial pathogens
+
+Polyomavirus, ß. thetaiotaomicron, and Enterococcus faecium esp gene were detected on 4, 4, and 3 of the
+sampling days, respectively (Figure 2). Bacteriodales HF8
+marker was predominately below detection limits with
+only two detects at (5 and 3 GEU 100 mL"') (Figure 2). Bacteroidales BacHum-UCD marker levels ranged from below
+detection to 407 GEU 100 mL~' with an average of 71
+GEU 100 mL ' (Figure 2), and were found to correlate
+with enterococci (CS) (Table 1). Bacteroidales DogBac
+marker levels ranged from below detection to 12,900
+target sequence copies (TSC) 100 mL"' with an average of
+1,700 TSC 100 mL"' (Figure 2). Staphylococcus aureus
+levels ranged from <2 to 24 CFU 100 mL ' with an average
+
+Journal of Water and Health | 09.3 | 2011
+
+of 9.7 ±7 CFU 100 mL"^; V. vulnificus was detected on 11
+of the 15 sampling days (Figure 2).
+Protozoan and virai pathogens
+
+Using the bilayer concentration method (5 L filtration) and
+subsequent qPCR analysis, all bather-collected composite
+samples were below detection limits for both viruses and
+protozoa. However, for the large-volume investigatorcollected composite samples, Gryptosporidium spp., Giardia
+spp., and enterovirus were detected on 4, 5, and 5, respectively, of the 15 sampling days (Figure 2). Levels of the
+organisms detected did not exceed 2.3 organisms per 100 L
+(Figure 2). The simultaneous presence of Gryptosporidium
+spp., Giardia spp. and enterovirus only occurred during 3
+of the 15 sampling dates. Common environmental conditions during these 3 days were rainfall during the
+preceding 6 to 24 hours (Figure 2), and sample collection
+during rising tide. Also of interest was that during these 3
+days, enterococci levels by MF were below regulatory
+thresholds (Figure 2). When enterococci levels exceeded
+the single sample regulatory standard of 104 CFU mL ',
+Giardia spp. was detected, although it was also detected
+on days when levels were below this regulatory standard.
+
+DISCUSSION
+Properly assessing the safety of recreational bathing waters
+is an evolving field of study which will continue to require
+further investigation. The complexity of the non-point
+source impacted beach system and its components poses a
+challenge to investigators attempting to make simple associations between environmental parameters, microbe
+presence, and human health risks in order to ultimately
+improve beach safety through source remediafion and monitoring. The uniqueness of this study was in the multitude of
+different parameters that were analyzed along with human
+health effects, providing a wide 'snapshot' of the complex
+beach system that may be used to further our understanding
+of the system. To the authors' knowledge, this is the first
+study published that includes the analysis of such a wide
+range of varying parameters at a recreational beach. This
+is also the first study to measure pathogens concurrently
+
+
+
+452
+
+A.M. Abdelzaher et al. \ Microbes and human health at a non-point source marine beach
+
+with human health effects in a subtropical beach environment. The results of this study should assist in directing
+future research, but are not sufficient (15 sampling days,
+beach 'snapshots') to make conclusions in regards to how
+the system functions or which beach monitoring practices
+should be taken.
+Health outcomes
+Average daily excess illness rates for bathers after subtracting the control group (non-bathers) provided an estimate
+for the daily health outcomes of bathers during this epidemiologic study (BEACHES) conducted In Miami, Florida.
+These daily average illness rates were therefore compared
+to the daily average water quality (by analyzing the composite sample made up of water aliquots from each sample
+collected by individual bathers). This approach does not
+assess the more precise exposure of the bather to the
+water in their vicinity at a specific dme during the day (by
+analyzing each water sample collected by each bather
+during bathing (Sinigalliano et al. 2010; Fleisher et ai
+2010). However, the analysis discussed in this study allowed
+the investigators to compare health outcomes with a wider
+range of pathogens, indicator microbes, and microbial
+source tracking markers, which were not available for the
+individual water sample collected by each individual bather.
+Statistically significant correlations between health outcomes and water quality were not identified in this study.
+However, the data suggest relafionships which could not
+be verified statistically given the limited number of times
+that samples were positive for many of the water quality parameters. The lack of relafionship between health outcomes
+and pathogens that could potentially cause that particular
+illness may be due to the small samples size (15 samples),
+the fact that the pathogen causing increased illness in bathers may not be among those analyzed in this study, the
+inefficiency of the sampling techniques (as pathogen concentration and analysis methods may be subject to
+significant recovery loss), or that increased illness rates are
+not the result of one specific pathogen.
+However, a relationship that was alluded to in this
+study but more strongly supported in Sinigalliano et al.
+(2010), was excess skin illness and prior 24 hour rainfall.
+The highest rate of skin illness (15.6%) was observed
+
+Journal of Water and Health | 09.3 | 2011
+
+during the day (May 10) characterized by the highest
+quantity of 24 hour rainfall. This day was also characterized by the highest enterococci levels as measured by CS
+and qPCR, the highest levels of Bacteroidales DogBac
+marker, the second highest Bacteroidales BacHum-UCD
+human marker, and the presence of multiple pathogens
+{Cryptosporidium spp., Giardia spp. and enterovirus).
+The potential relationship between skin illness and rainfall may be due to the rainfall carrying skin pathogen(s),
+which were not analyzed for in this study, into the water
+column. These skin pathogen(s) (which may include
+unmeasured microbes such as pathogenic helminthes
+and yeasts detected in another study within the sand at
+this study beach (Shah et al. accepted)) may be transported in a similar fashion as the gastrointestinal
+protozoan and viral pathogens detected in this current
+study. However, 24 hour antecedent rainfall did not consistently result in increased skin illness rates, possibly
+due to impacts from other environmental factors such as
+fide and solar radiation or due to smaller amounts of
+rain which may have been insufficient to release the
+skin pathogens presumably residing in the beach sand.
+Also of interest is that on May 10, the day characterized
+by the greatest 24 hour rainfall, the GI illness rate was
+also elevated (4.2%) which is consistent with the detection
+of Gl-related pathogens, Cryptosporidium, Giardia, and
+enterovirus. However elevated GI illness among bathers
+was not observed during other days where GI pathogens
+were detected (e.g. December 15 and June 21), thus
+further emphasizing the complexity between human
+health outcomes, microbial measures, and environmental
+parameters at this particular beach site.
+Another potenfial relafionship that was indicated in this
+study was that of F - coliphage and gastrointestinal illness
+(detected during 3 of the 5 days characterized by the highest
+excess GI). F - coliphage was only detected in 4 of the 15
+samples, and therefore more sampling would be needed
+before determining whether or not this association truly
+exists. Nevertheless, this finding is interesting since F+
+coliphage was the only indicator microbe which showed a
+correlafion with bather GI illness in the only other published non-point source beach epidemiológica! study
+besides the BEACHES study, which was conducted in
+Mission Bay, California (Colford et al. 2007). Although F -
+
+
+
+453
+
+A.M. Abdelzaher et al.
+
+Microbes and human health at a non-point source marine beach
+
+(somatic) and F+ (male-specific) coliphage are not the same,
+the fact that they both are bacterial viruses and both showed
+some (albeit weak) associations with gastrointestinal illness
+in two separate epidemiologic studies at non-point source
+study sites suggests that these indicators should be further
+evaluated. One reason for the lack of detection of F+ coliphage in this study may have been due to sample size. In this
+study, 100 mL samples were concentrated for F+ coliphage,
+while in the Colford et al. (2007) study, 1 L samples were
+used, thereby increasing detection limits.
+Indicator microbes and pathogens
+
+Comparison of the different enterococci enumeration
+methods showed that results from MF and CS methods
+were generally below values analyzed by qPCR. Previous
+studies have also shown that the MF method yields lower
+values than qPCR (Haughland et al. 2005; Sinigalliano
+et al. 2007; Abdelzaher et al. 2010); this might be explained
+by the fact that qPCR will detect target DNA from nonviable
+and non-culturable cells, whereas the culture-based methods
+will not. Additionally, enterococci values by MF were generally below values analyzed by the CS method, which may be
+attributed to the differences in the culture methods; MF
+requires the formation of a colony on agar-containing
+media, whereas CS requires the growth of bacteria in
+liquid media. Significant correlations were not found
+between these three analysis methods. These findings
+should be considered when updating regulations to include
+alternative methods for the analysis of this indicator
+microbe.
+The current study did not demonstrate a consistent
+relationship between indicator microbes and pathogens.
+Giardia spp. and S. aureus were the only pathogens detected
+when enterococci by MF exceeded the single sample maximum (March 22). Piano et al. (2on) observed S. aureus
+including methicillin resistant S. aureus in the beach water
+and sand at this particular study site and attribute the
+source to shedding from human bathers. Abdelzaher et al.
+(2010) also observed detectable levels of Giardia during a
+set of prior sampling events at this same study site, with
+the detection of Giardia spp. only when enterococci by
+MF exceeded the single sample maximum of 104 CFU
+100 mL '. However, in the current study Giardia spp. and
+
+Journal of Water and Health | 09.3 | 2011
+
+other pathogens were also detected when enterococci
+levels were low. These inconsistencies can be attributed to
+different transport pathways, and possibly different sources
+of indicator and pathogens to the beach site. Although
+human bather shedding and dog and bird feces have been
+identified as intermittent sources of enterococci to the
+beach site (Elmir et al. 2007, 2009; Wright et al. 2009), the
+quantities of these sources are insufficient to account for
+the persistent elevated levels observed in beach water
+located near the shore line (Zhu et al. accepted). The
+cause of these persistent levels of enterococci to the beach
+study site has been firmly established as the inter-tidal
+zone at this study beach (Shibata et al. 2004; Wright et al.
+2on). The sources of pathogens have not been as firmly
+established for this study site, although limited studies
+detecting pathogen presence in sand suggest that they
+too may originate from the shoreline as discussed below
+(Abdelzaher et al. 2010; Shah et al. accepted).
+Bacterial indicators were elevated after 6 hour rainfall,
+when samples were taken immediately after high tide and
+during high turbidity events (which are likely due to the
+combined effects of rainfall and tide). This finding is consistent with other studies conducted on both this study beach
+(Shibata et al. 2004; Abdelzaher et al. 2010; Wright et al.
+2011) and other non-point source study beaches (SoloGabriele et al. 2000; Coulliette & Noble 2008). High bacterial loads detected in runoff samples at the study beach
+(Wright et al. 2on) indicate that these indicator microbes
+are washed off from the surface of the beach sand into the
+water column in significant numbers which could warrant
+a bather swimming warning if analyzed by regulators
+within a few hours of the rain event. Elevated levels of indicator microbes also occur through tidal washing of the
+microbes from the beach sand into the water column, as is
+evident by elevated indicator levels after peak high tides at
+the study beach during this study and previous studies
+(Abdelzaher et al. 2010; Shibata et al. 2010; Wright et al. 2on).
+In prior studies, pathogens have also been shown to
+increase in water bodies after rain events (Lipp et al. 2001).
+In this study, pathogens (detected less frequently than indicators, and therefore cautious conclusions should be made
+about associations with other parameters), seemed to associate with rainfall as well. However, pathogens showed a
+delayed response with rain, and were specifically detected
+
+
+
+454
+
+A.M. Abdelzaher eí al. | Microbes and human health at a noh-point source marine beach
+
+when rainfall occurred 6 to 24 hours prior to sampling. In a
+prior study (Abdelzaher et al. 2010), at this same study site,
+pathogens were most frequently detected during a sampling
+event characterized by significant rainfall during the previous 24 to 48 hours (3.3 cm) as opposed to rainfall during
+the previous 6 to 24 hours. Therefore more work is
+needed focusing on the pathogen response to the size and
+timing of antecedent rainfall events.
+The findings from this study suggest that the pathogens
+detected in the water may not be mobilized by rainfallrunoff processes from the surface of beach sand as is the
+case with indicators, but rather are entering the water
+column via the rain through a different pathway potentially
+through sand/sediment as well. One possibility is that the
+pathogens are entering beach water through groundwater
+as has been suggested to be the case for indicator microbes
+(Boehm et al. 2004). Rainfall infiltration can induce an
+increased hydraulic gradient (increase in the groundwater
+table) which would encourage the movement of groundwater towards the intertidal zone and ultimately out into
+the water column along the shore. Pathogens present in
+groundwater could be transported towards the beach
+water column under these favorable hydraulic conditions.
+Response times of groundwater infiows are generally
+slower relative to surface water flow as shown for river systems (Solo-Gabriele & Perkins 1997), and similar effects
+could be observed along the coastal zone. Thus, if indicators
+are more abundant at the sediment surface, whereas pathogens are more abundant at depth, it would be reasonable to
+observe two difterent response times to storm events: a short
+response time for indicator microbes (0 to 6 hours) via surface runoff, and longer response times (24 hours) for
+pathogens via groundwater.
+Unlike indicators, pathogens were also not associated
+with either peak or post high tide, but rather were more
+likely detected when the tide was rising. A review of the literature studying the exchange of water from the terrestrial
+environment to the sea describes that if the density of the
+ocean water increases above that of the pore water for any
+reason, pore water can float out of the sediment by gravitational convection in an exchange with denser seawater in a
+process termed 'floating' (Burnett et al. 2003). Such effects
+can occur through rainfall decreasing the density of the
+pore water, hence causing a buoyancy differential which
+
+Journal of Water and Health
+
+09 3
+
+2011
+
+would enhance the transport of the pore water potentially
+containing the pathogens into the water column. In
+addition, during rising tide, a similar effect would occur as
+less dense pore water floats out of the sediment in exchange
+with denser seawater.
+Thus, the results of this study show that indicators and
+pathogens are present in the water during different time
+periods. These observations suggest that indicators and
+pathogens may enter the water column through different
+pathways characterized by different response times to rainfall events and tidal conditions. Enterococci was chosen as
+the recommended marine beach indicator based on prior
+epidemiologic studies at point source beaches which associated enteroccoci levels with gastrointestinal illness (Cabelli
+1983). The assumption behind the existence of this relationship is that enterococci, itself non-pathogenic via
+waterborne routes, is related to a pollution matrix from
+human fecal sources that contains pathogens which are
+causing the detected health outcome. For the case of a
+beach dominated by point sources of pollution, it is reasonable to assume that the indicators closely track pathogens as
+their source and transport towards the beach (e.g. via currents) would be similar. However, for the case of nonpoint sources because of the different sources and possible
+different potential transport pathways, the indicator and
+pathogen signal may likely be decoupled (Goodwin et al.
+2009), resulting in an inability of indicator microbes to
+track pathogens thus decoupling the relationship between
+indicators and health effects. This potential decoupling is
+supported since a relationship between enterococci levels
+and gastrointestinal disease has not been established in the
+limited non-point source beach epidemiologic studies conducted thus far (Colford et al. 2007; Fleisher et al. 2010).
+Recommendations
+The results of this study are intended to guide further
+research at non-point source beaches by providing a series
+of 'snapshots' of relevant parameters as opposed to establishing conclusive statements regarding associations
+between different water quality parameters and health outcomes. This research supports the fact that correlations
+between water quality and health outcomes (especially in
+non-point source beaches) are complex, lending support to
+
+
+
+455
+
+A.M. Abdelzaher eí al.
+
+Microbes and human health at a non-point source marine beach
+
+the need for more comprehensive approaches to beach
+monitoring and regulation strategies.
+Such a comprehensive approach should include multipletarget monitoring (including the consideration of multiple
+microbial targets, measurements of physical-chemical parameters, and hydrometeorologic conditions). Through
+further sampling of the beach water quality, criteria may be
+developed, relevant to the study beach conditions, which are
+based on a combination of targets i.e., elevated enterococci
+levels plus positive detection for pathogens. In developing
+such criteria, standards may also reflect cumulative health
+effects (sum of GI, skin, and respiratory illnesses) as opposed
+to one specific illness. In addition to strengthening monitoring
+criteria by assessing multiple targets to reflect the nature of
+localized conditions, other factors should he taken into
+account including sampling in worst case scenarios. Along
+with improved monitoring techniques, improved source
+prevention of potential non-point sources at the study
+beach should also be implemented, including: re-nourishing
+sand, treating runoff or diverting it from bathing areas,
+installation of showers for bathers to use both pre and post
+bathing to limit bather shedding and infection after exiting
+the water, developing an upper limit for the amount of
+people allowed on the beach, properly sealing waste bins
+and limiting the access of dogs and other animals in areas
+where humans recreate. More fiexibility should also be
+incorporated into monitoring and source prevention policies
+to take advantage of recent developments and discoveries
+such that study results can be used in a timely fashion to ultimately decrease bather health risk while limiting economic
+burdens.
+
+ACKNOWLEDGEMENTS
+
+The investigators would like to thank the following
+collaborators at the following Institutions: NOAA Atlantic
+Océanographie and Meteorological Laboratory - Miami;
+Miami-Dade County Dept. of Health; Miami SeaAquarium,
+University of Florida; BCS Laboratories; University of
+South Florida; NOAA HoUings Marine Laboratory Charleston; Woods Hole Océanographie Institute; and the
+University of Missouri. The investigators would also like
+to thank the many University of Miami and Florida
+
+Journal of Water and Health | 09.3 | 2011
+
+International University Students and other investigators
+for their assistance in the performance of this study.
+This study was funded in part from the following sources:
+the National Center for Environmental Health (NCEH),
+Centers for Disease Control and Prevention (CDC); Florida
+Dept of Health (FL DOH) through monies from the Florida
+Dept of Environmental Protection (FL DEP); the
+Environmental Protection Agency (EPA) Internship
+Program; the National Science Foundation (NSF), the
+University of Miami IRDI Program, and the National
+Institute of Environmental Health Sciences (NIEHS)
+Oceans and Human Health Center at the University of
+Miami Rosenstiel School (NSF 0CE0432368/0911373) and
+(NIEHS P50 ES12736) and NSF REU in Oceans and
+Human Health, and the NSF SGER (NSF SGER 0743987)
+in Oceans and Human Health. We would also like to thank
+IDEXX Corporation for their support of our project through
+the provision of supplies needed for the chromogenic
+substrate analysis of enterococci.
+Development and utilization of the dog-host-specific
+Bacteroidales 'DogBac' qPCR assay was funded in part by
+the Northern Gulf Institute, a NOAA Cooperative Institute
+(US Department of Commerce award NA06OAR4320264).
+The investigators would like to also dedicate this research
+to the memory of Ms Seana Campbell, a very talented,
+hardworking and creative young investigator who enriched
+all people whose lives she touched, and who died very
+young.
+
+REFERENCES
+Abdelzaher, A. M., Solo-Gabriele, H. M., Palmer, C. ]. & Scott, T.
+M. 2009 Simultaneous concentration of Enterococci and
+Coliphage from marine waters using a dual layer filtration
+system, ¡oumat of Environmental Quality 38, 2468-2473.
+Abdelzaher, A. M., Wright, M. E., Ortega, C, Solo-Gabriele,
+H. M., Miller, G., Elmir, S., Newman, X., Shih, P., Bonilla,
+]. A., Bonilla, T. D., Palmer, C. ]., Scott, T., Lukasik, J.,
+Harwood, V. ]., McQuaig, S., Sinigalliano, C, Gidley, M.,
+Piano, L. R. W., Zhu, X., Wang, J. D. & Fleming, L. E. 2010
+Présence of pathogens and indicator microbes at a non-point
+source subtropical recreational marine beach. Appl. Environ.
+Microbiol. 76 (3), 724-732.
+Alm, E. W., Burke, J. & Hagan, E. 2006 Persistence and potential
+growth of the fecal indicator bacteria, Escherichia, in Shoreline
+sand at Lake Huron. /. Great Ukes Res. 32, 401-405.
+
+
+
+456
+
+A.M. Abdelzaher ef al. \ Microbes ahd human health at a non-point source marine beach
+
+Beversdorf, L. J., Bomstein-Forst, S. M. & McLellan, S. L. 2007
+The potential for beach sand to serve as a reservoir for
+Escherichia coli and the physical influences on cell die-off.
+Appl. Environ. Microbiol. 102, 1372-1381.
+Boehm, A. B., Shellenbarger, G. & Payton, A. 2004 Groundwater
+discharge: potential association with fecal indicator bacteria
+in the surf zone. Environ. Sei. Technol. 38, 3558-3566.
+Boehm, A. B., Ashbolt, N. J., Colford, J. M., Dunbar, L. E.,
+Fleming, L. E., Gold, M. A., Hansel, J., Hunter, P. R, Ichida,
+A. M., McGee, C. D., Soller, J. A. & Weisberg, S. B. 2009 A
+sea change ahead for recreational water quality criteria.
+Journal of Water and Health 7 (1), 9-20.
+Bonilla, T. D., Nowosielski, K., Cuvelier, M., Hartza, A., Greenb, M.,
+Esiobub, N., McCorquodalea, D. S., Fleisher, J. M. &
+Rogerson, A. 2007 Prevalence and distribution of fecal
+indicator organisms in South Florida beach sand and
+preliminary assessment of health effects associated with beach
+sand exposure. Marine Pollution Bulletin 54, 1472-1482.
+Burnett, W. C, Bokuniewicz, H., Huettel, M., Moore, W. S. &
+Taniguchi, M. 2003 Groundwater and pore water inputs to
+the coastal zone. Biogeochemistry 66 (1-2), 3-33.
+Cabelli, V. 1983 Health Effects Criteria for Marine Recreational
+Waters. U.S. EPA Report EPA-600/1-80-031. US
+Environmental Protection Agency, Cincinnati, Ohio.
+Colford Jr, J. M., Wade,T. J., Schiff, K. C, Wright, C. C, Griffith,
+J. F., Sandhu, S. K., Burns, S., Hayes, J., Sobsey, M.,
+Lovelace, G. & Weisberg, S. 2007 Water quality indicators
+and the risk of illness at non-point source beaches in Mission
+Bay, California. Epidemiology 18, 27-35.
+CouUiette, A. D & Noble, R. T. 2008 Impacts of rainfall on
+the water quality of the Newport River Estuary (Eastern
+North Carolina, USA). Journal of Water Health 6 (4),
+473-482.
+Deetz, T. R., Smith, E. M., Goyal, S. M., Gerba, C. P., Vollet, J. J.,
+Tsai, Y. L., Du Pont, H. L. & Keswick, B. H. 1984 Occurrence
+of rota- and enterovirus in drinking water and environmental
+water in a developing nation. Water Res. 18, 567-571.
+Desmarais, T. R., Solo-Gabriele, H. M. & Palmer, C. J. 2002
+Influence of soil on fecal indicator organisms in a tidally
+influenced subtropical environment. Appl. Environ.
+Microbiol. 68, 1165-1172.
+Dwight, R. H., Fernandez, L. M., Baker, D. B., Semenza, J. C. &
+Olson, B. H. 2005 Estimating the economic burden from
+illnesses associated with recreational coastal water pollution a case study in Orange County, California. /. Environ. Manage.
+76, 95-103.
+Elmir, S., Wright, M., Abdelzaher, A., Solo-Gabriele, H., Fleming, L.,
+Miller, G., Rybolowik, M., Shih, P., Pillai, S., Cooper, J. &
+Quaye, E. 2007 Quantitative evaluation of bacteria released
+by bathers in a marine water. Water Research 41, 3-10.
+Elmir, S. M., Shibata, T., Solo-Gabriele, H. M., Sinigalliano, C. D.,
+Gidley, M. L., Miller, G., Piano, L., Kish, J., Withum, K. &
+Fleming, L. 2009 Quantitative evaluation of enterococci
+and Bacteroidales released by adults and toddlers in marine
+water. Water Research 43 (18), 4610-4616.
+
+Journal of Water and Health
+
+09.3
+
+2011
+
+Fleisher, J. M., Jones, F., Kay, D., Stanwell-Smith, R., Wyer, M. &
+Morano, R. 1993 Water and non-water risk factors for
+gastroenteritis among bathers exposed to sewagecontaminated marine waters. International Journal of
+Epidemiology 22, 698-708.
+Fleisher, J. M., Fleming, L. E., Solo-Gabriele, H. M., Kish, J. K.,
+Sinigalliano, C. D., Piano, L. R., Elmir, S., Wang, J., Withum, K.,
+Shibata, T., Gidley, M. B., Abdelzaher, A., He, G., Ortega, C,
+Zhu, X., Wright, M., Hollenbeck, J. & Backer, L. C. 2010 The
+BEACHES study: health effects and exposures from non-point
+source microbiai contaminants in subtropical recreational
+marine waters. Int. J. Epidemiol 5, 1291-1298.
+Fujioka, R. S., Hashimoto, H., Siwak, E. B. & Young, R. 1981 Effect
+of sunlight on survival of indicator bacteria in seawater. Appl.
+Environ. Microbiol. 41, 690-696.
+Fujioka, R. S., Roll, K. & Morens, D. 1994 A Pilot Epidemiological
+Study of Health Risks Associated with Swimming at Kuhio
+Beach, Hawaii Water Resources Research Center, Hawaii.
+Gerba, C. P. & Rose, J. B. 1990 Viruses in source and drinking
+water. In: Drinking Water Microbiology (G. A. McFeters, ed.),
+Springer-Verlag, New York, pp. 380-395.
+Goodwin, K. D., Matragrano, L., Wanless, D., Sinigalliano, C. D &
+LaGier, M. J. 2009 A preliminary investigation of fecal
+indicator bacteria, human pathogens, and source tracking
+markers in beach water and sand. /. Environ Res. 2 (4),
+395-417.
+Graczyk, T. K., Sunderland, D., Awantang, G. N., Mashinski, Y.,
+Lucy, F. E., Graczyk, Z., Chômiez, L. & Breysse, P. N. 2010
+Relationships among bather density, levels of human
+waterborne pathogens, and fecal coliform counts in marine
+recreational beach water. Parasitol Res. 106, 1103-1108.
+Griffin, D. W., Donaldson, K. A., Paul, J. H. & Rose, J. B. 2003
+Pathogenic human viruses in coastal waters. Clin. Microbiol.
+Rev. 16, 129-143.
+Haile, R. W., Witte, J. S., Gold, M., Cressey, R, McGee, C, Millikan,
+R. C, Glasser, A., Harawa, N., Ervin, C, Harmon, P., Harper, J.,
+Dermand, J., Alamillo, J., BarreU", K., Nides, M. & Wang, G.
+1999 The health effects of swimming in ocean water
+contaminated by storm drain runoff. Epidemiol. Res.
+10, 355-363.
+Haughland, R. A., Seifring, S. C, Wymer, L. J., Brenner, K. P. &
+Dufour, A. P. 2005 Comparison of Enterococcus
+measurements in freshwater at two recreational beaches by
+quantitative polymerase chain reaction and membrane filter
+culture analysis. Water Res. 39, 559-568.
+Jiang, S. C. & Chu, W. 2004 PCR detection of pathogenic viruses
+in southern California urban rivers. /. Appl. Microbiol. 97,
+17-28.
+Jiang, S., Noble, R. & Chui, W. P. 2001 Human adenoviruses and
+coliphages in urban runoff-impacted coastal waters of
+Southern California. Appl. Environ. Microbiol. 67, 179-184.
+Lipp, E. K., Kurz, R., Vincent, R., Rodriguez-Palacios, C, Farrah,
+S. R. & Rose, J. B. 2001 The effects of seasonal variability and
+weather on microbiai fecal pollution and enteric pathogens
+in a subtropical estuary. Estuaries 24, 266-276.
+
+
+
+457
+
+A.M. Abdeizaher et al. \ Microbes and human health at a non-point source marine beach
+
+Noble, R. T. & Fuhrman, J. A. 2001 Enteroviruses detected by
+reverse transcriptase polymerase chain reaction from the
+coastal waters of Santa Monica Bay, California: low
+correlation to bacterial indicator levels. Hydrobiologia 460,
+175-184.
+Ortega, C, Solo-Gabriele, H. M., Abdelzaher, A., Wright, M.,
+Deng, Y. & Stark, L. M. 2009 Correlations between microbial
+indicators, pathogens, and environmental factors in a
+subtropical estuary. Marine Pollution Bulletin 58,
+1374-1381.
+Piano, L. R. W., Garza, A. C, Elmir, S. M., Shibata, T., Solo-Gabriele,
+H. M., Kish, J., Sinigalliano, C. D., Gidley, M. L., Miller, G.,
+Withum, K. & Fleming, L. E. 2on Quantitative evaluation of
+Staphylococcus aureus and methicillin resistant S. aureus
+released by adults and toddlers in marine water. BMC
+Microbiol. 11 (1), 5.
+Prüss, A. 1998 Review of epidemiological studies on health effects
+from exposure to recreational water. Int j . Epidemiol. 27,1-9.
+Shah, A., Abdelzaher, A. M., Phillips, M., Hernandez, R., SoloGabriele, H. M., Kish, J., Scorzetti, G., Fell, ]. W., Diaz, M. R.,
+Scott, T. M., Lukasik, ]., Harwood, V. J., McQuaig, S.,
+Sinigalliano, C. D., Gidley, M. L., Wanless, D., Agar, A., Lui,
+J., Stewart, I. R., Piano, L. R. W. & Fleming, L. E. Indicator
+microbes correlate with pathogenic bacteria, yeast, and
+helminthes in sand at a subtropical recreational beach site.
+Applied Microb. (accepted).
+Shibata, T., Solo-Gabriele, H., Fleming, L. & Elmir, S. 2004
+Monitoring marine recreational water quality using multiple
+microbial indicators in an urban tropical environment.
+Wa/erRes. 38, 3119-3131.
+Shibata, T., Solo-Gabriele, H. M., Sinigalliano, C. D., Gidley, M. L.,
+Piano, L. R. W., Fleisher, J. M., Wang, J. D., Elmir, S. M.,
+He, G., Wright, M. E., Abdelzaher, A. M., Ortega, C, Wanless,
+D., Garza, A. C, Kish, J., Scott, T., Hollenbeck, J., Backer, L. C.
+& Fleming, L. E. 2010 Evaluation of conventional and
+alternative monitoring methods for a recreational marine
+beach with non-point source of fecal contamination.
+Environmental Science & Technology 44, 8175-8181.
+Shuval, H. 2003 Estimating the global burden of thalassogenic
+diseases: human infectious diseases caused by wastewater
+pollution of the marine environment. /. Water Health 2,53-64.
+Sinigalliano, C. D., Gidley, M. L., Shibata, T., Whitman, D., Dixon,
+T. H., Laws, E., Hou, A., Bachoon, D., Brand, L., AmaralZettler, L., Gast, R. J., Steward, G. F., Nigro, O. D., Fujioka,
+R., Betancourt, W. Q., Vithanage, G., Mathews, ]., Fleming,
+L. E. & Solo-Gabriele, H. M. 2007 Impacts of hurricanes
+Katrina and Rita on the microbial landscape of the New
+
+Journal of Water and Health | 09.3 | 2011
+
+Orleans area. Proceedings of the National Academy of
+Sciences 104, 9029-9034.
+Sinigalliano, C. D., Fleisher, J. M., Gidley, M. L., Solo-Gabriele, H. M.,
+Shibata, T., Plano, L., Elmir, S. M., Wang, ]. D., Wanless, D.,
+Bartowiak, ]., Boiteau, R., Withum, K., Abdelzaher, A., He, G.,
+Ortega, C, Zhu, X., Wright, M., Kish, J., Hollenbeck, )., Backer,
+L. & Fleming, L. E. 2010 Traditional and molecular analyses for
+fecal indicator bacteria in non-point source subtropical
+recreational marine waters. Water Res. 44, 3763-3772.
+Solo-Gabriele, H. M. & Perkins, F. E. 1997 A watershed-specific
+model for streamflow, sediment, and metal transpori;. fournal
+of Environmental Engineering 123 (1), 61-70.
+Solo-Gabriele, H., Wolfert, M. & Palmer, C. 2000 Sources of £. coli
+to a sub-tropical coastal environment. Appl. Environ.
+Microbiol. 66 (1), 230-237.
+Sunderland, D., Graczyk, T. K., Tamang, L. & Breysse, P. N. 2007
+Impacts of bathers on levels of Cryptosporidium parvum
+oocysts and Giardia lamblia cysts in recreational beach
+waters. Water Res. 41, 3483-3489.
+Wade, T. J., Pai, N., Eisenberg, ]. N. & Colford Ir, J. M., 2003
+Do U.S. Environmental Protection Agency water quality
+guidelines for recreational waters prevent gastrointestinal
+illness? A systematic review and meta-analysis. Environ
+Health Perspect 8, 1102-1109.
+Wang, I. D., Solo-Gabriele, H. M., Abdelzaher, A. M. & Fleming.
+L. E. 2010 Estimation of enterococci input from bathers and
+animals on a recreational beach using camera images. Mar.
+Poll. Bull. 60, 1270-1278.
+Whitman, R. L., Shively, D. A., Pawlik, H., Nevers, M. B. &
+Byappanahalli, M. N. 2003 Occurrence of Escherichia coli
+and enterococci in Cladophora (Chlorphyta) in nearshore
+water and beach sand of Lake Michigan. Applied and
+Envirortmental Microbiology 69 (8), 4714-4719.
+Whitman, R. L., Nevers, M. B., Korinek, G. C. & Byappanahalli,
+M. N. 2004 Solar and temporal effects on Escherichia coli
+concentration at a Lake Michigan swimming beach. Appl.
+Environ. Microbiol. 70, 4276-4285.
+Wright, M. E., Solo-Gabriele. H. M., Elmir. S. & Fleming, L. E.
+2009 Microbial load from animal feces at a recreational
+beach. Mar. Poll. Bull 58 (11), 1649-1656.
+Wright, M. E., Abdelzaher, A. M., Solo-Gabriele, H. M., Elmir, S. &
+Fleming, L. The inter-tidal zone is the pathway of input of
+enterococci to a subtropical recreational marine beach.
+Water Sei. Tech. 63, 542-549.
+Zhu, X., Wang, I. D., Solo-Gabriele, H. M., Fleming, L. E. & Elmir,
+S. A microbial water quality model for recreational marine
+beaches, (accepted).
+
+First received 15 August 2010; accepted in revised form 17 lanuary 2011. Available online 18 April 2011
+
+
+
+Copyright of Journal of Water & Health is the property of IWA Publishing and its content may not be copied or
+emailed to multiple sites or posted to a listserv without the copyright holder's express written permission.
+However, users may print, download, or email articles for individual use.
+
+

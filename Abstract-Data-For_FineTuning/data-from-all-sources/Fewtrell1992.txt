@@ -1,0 +1,401 @@
+1587
+
+REFERENCES
+1. Penketh ARL, Wise A, Mearns MB, Hodson ME, Batten JC. Cystic
+fibrosis in adolescents and adults. Thorax 1987; 42: 526-32.
+2. Hodson ME. Managing adults with cystic fibrosis. Br Med J 1989; 298:
+471-72.
+3. Report of the Royal College of Physicians. Recommendations for care of
+CF patients in the UK. London: Royal College of Physicians of
+London, November, 1990.
+4. British Paediatric Association Working Party on Cystic Fibrosis. Cystic
+fibrosis in the United Kingdom 1977-1985: an improving picture. Br
+Med J 1988; 297: 1599-602.
+5. Niellsen OH, Schiotz PO. Evaluation of centralised treatment 19451981. Acta Paed Scand 1982; (suppl 301): 107-19.
+6. Corey M, McLaughlin FJ, Williams M, et al. A comparison of survival
+growth and pulmonary function in patients with cystic fibrosis in
+Boston and Toronto. J Clin Epidermiol 1988; 41: 583-91.
+7. Rommers JM, Ianuzzi MC, Kerrem B, et al. Identification of the cystic
+fibrosis gene: chromosome walking and jumping. Science 1989; 245:
+
+1059-65.
+8. Yacoub MH, Banner NR, Khaghani A, et al. Heart-lung transplantation
+
+for cystic fibrosis and subsequent domino heart transplantation.
+J Heart Transplant 1990; 9: 459-67.
+9. Scott J, Higenbottam T, Hutter J, et al. Heart-lung transplantation for
+cystic fibrosis. Lancet 1988; ii: 192-94.
+10. Yacoub MH, Banner NR. Recent developments in lung and heart-lung
+transplantation. In: Morris PJ, Tilney NL, eds. Transplantation
+reviews. Philadelphia: Saunders, 1990: 1-29.
+11. Patterson GA. Double lung transplantation. Pediatr Pulmonol 1989; 4:
+56-57.
+12. Hodson ME, Madden BP, Steven MH, Tsang VT, Yacoub MH.
+Non-invasive mechanical ventilation for cystic fibrosis patients: a
+bridge to transplantation. Eur Respir J 1991; 4: 524-27.
+13. Alajmo FR, Giancarlo C, Pema AM, et al. High dose aprotinin
+haemostatic effects in open heart operations. Ann Thorac Surg 1989; 48:
+536-39.
+14. Smyth RL, Higenbottam T, Scott J, Wallwork J. The current state of
+lung transplantation for cystic fibrosis. Thorax 1991; 46: 213-16.
+15. Wood A, Higenbottam T, Jackson M. Airway mucosal bioelectric
+potential differences in cystic fibrosis after lung transplantation. Am
+Rev Respir Dis 1989; 140: 1645-49.
+
+PUBLIC HEALTH
+Health effects of white-water canoeing
+
+There is little quantitative information on the
+relation between water quality and disease attack
+rates after recreational activities in fresh water. We
+conducted a prospective cohort study to measure the
+health effects of white-water and slalom canoeing in
+two channels with different degrees of microbial
+contamination.
+Site A, fed by a lowland river, showed high
+enterovirus concentrations (arithmetic mean 198 pfu
+per 10 litre and moderate faecal coliform
+concentrations (geometric mean 285/dl); at site B,
+from an upland impoundment, all samples were free
+of enteroviruses and the geometric mean faecal
+coliform concentration was 22/dl. Between 5 and 7
+days after exposure canoeists using site A had
+significantly higher incidences of gastrointestinal
+and upper respiratory symptoms than canoeists
+using site B or non-exposed controls (spectators).
+Like seawater bathers, fresh-water canoeists can
+be made ill by sewage contamination. The hazard of
+fresh water may be best measured by counting of
+viruses rather than bacteria.
+Introduction
+is made of inland waters by canoeists, water
+skiers, sailboarders, and casual bathers; and, as with
+seawater bathing, the effects of sewage contamination give
+cause for concern.1,2 Opinions differ on whether the same
+microbiological safety standards should be applied to
+marine and fresh recreational waters.2,3 Further, there is
+currently a debate about possible changes to the
+microbiological standards in the European Bathing Water
+Directive.4 Although the LTK maintains that this directive
+relates exclusively to coastal bathing waters, other member
+Much
+
+use
+
+countries apply it to inland freshwater sites and its standards
+are used as a guide by recreational groups. Notwithstanding
+earlier research5-7 there are insufficient data to determine the
+microbiological dose-response relation between water
+quality and disease attack rates for the various freshwater
+activities. We have used methods developed in
+epidemiological studies at marine bathing sites8 to measure
+the health effects of canoeing in two slalom channels with
+different water quality.
+
+Methods
+At site A, an artificial concrete channel diverts water around a
+weir in the river’s main channel and provides facilities for
+white-water and slalom canoeing. The water comes from a large
+lowland river receiving effluent from several sewage treatment
+plants upstream. Site B receives water from a pristine upland
+impoundment. Water samples were taken at each site during the
+event. Bacteriological analysis included counts of faecal coliforms,9
+faecal streptococci,9 and total staphylococci.10 Samples were also
+assessed for enteroviruses" by measurement of plaque forming
+units (pfu) with Buffalo green monkey kidney cells and the
+suspended cell method; poliovirus 2 was used as a control.
+Subjects were recruited by advertising in the canoeing press and
+by approaching canoeists and spectators before the events. Data on
+age, sex, occupation, place of residence, water activities including
+canoeing, consumption of various foods, and illness were obtained
+on a structured questionnaire by trained interviewers, initially on
+arrival. Participants were interviewed a second time on leaving the
+site to determine water exposure, and 5-7 days later a third
+interview was conducted by telephone to record subsequent illness.
+A fourth questionnaire was sent by post so that subjects could
+record illness experienced between the second interview and 28
+
+days.
+ADDRESSES: Centre for Research into Environment and Health,
+University of Wales, Lampeter (L. Fewtrell, MSc, F. Jones, B Tech,
+D. Kay, PhD, M. D. Wyer, PhD); Acer Environmental, Daresbury,
+Cheshire (A. F. Godfree, BSc); and PHLS Communicable Disease
+Surveillance Centre, Welsh Unit, Cardiff (B. L. Salmon, MFPHM).
+Correspondence to Mrs L. Fewtrell, Centre for Research into Environment
+and Health, University of Wales, Lampeter, Dyfed SA48 7ED, UK.
+
+
+
+1588
+
+TABLE I-RESULTS OF ENVIRONMENTAL MICROBIOLOGICAL
+SAMPLING
+I
+
+I
+
+t
+
+I
+
+I
+
+bacteriological quality between the two sites
+compared by the Mann-Whitney U test and virological
+differences by Student’st test. 2 x2 tables were used to compare the
+frequencies of each of 33 symptoms in the exposed subjects from
+site A and site B with the combined non-exposed subjects from both
+sites; analysis for confounders was performed with the MantelHaenszel test. The frequencies of symptoms in those exposed at
+each site were compared in the same way with relative risks (RR)
+and confidence intervals (CI).
+Differences in the
+
+were
+
+Results
+Site A showed higher counts of faecal coliforms
+(p 0-001) and faecal streptococci (p < 005) than site B. The
+arithmetic mean enterovirus concentration from site A (198
+pfu/ 10 litre) was likewise significantly higher than the zero at
+site B (p < 0.001) (table I).
+A total of 572 subjects were recruited-304 at site A and
+268 at site B, of whom 160 and 218, respectively, engaged in
+canoeing. Information on exposure of 8 subjects from site A
+and 3 from site B was not obtained and these were excluded
+from further analysis. 516 subjects (90%) completed
+interviews at 5-7 days and 366 (64%) at one month.
+Significantly different baseline results were as follows:
+<
+
+M/F ratios
+
+Exposed 328/378
+Non-exposed 95/183
+p < 0.001
+Site A exposed 78/136
+Site B exposed 17/47
+p < 0-05
+Age
+p < 0-05
+Non-exposed 28
+Exposed 25
+(95% CI 26-29)
+(95% CI 23-26)
+Hamburger consumption
+Non-exposed 27/173
+p < 001
+Exposed 93/352
+Canoeists at the two sites did not differ in M/F ratios or age;
+nor were there differences between any of the groups in
+frequency of self-reported illness before exposure.
+
+days (table 11) the frequency of self-reporting of
+of respiratory and gastrointestinal (GI) symptoms
+was significantly higher in those exposed at site A than in the
+At 5-7
+
+’flu and
+
+combined control group. At one month there was an excess
+RR 3-12,
+of ear/eye symptoms (13/109 vs 5/131, p<005:
+95% CI 1.15-8.49) and GI symptoms (40/109 vs 27/131,
+p<0-01: RR 178, 95% CI 1-17-270). Site B exposed
+subjects reported a significant excess only of respiratory
+symptoms at 5-7 days.
+When we compare canoeists at site A with those at site B
+the frequency in the reporting of all symptom groups was
+significantly higher at 5-7 days and this excess persisted at
+one month for GI symptoms (40/109 vs 24/126, p<001:
+RR 1 -93,95% CI 1-25-2-98) and skin symptoms (14/109 vs
+6/126, p < 005; RR 2-70, 95% CI 1 07-678).
+In site-A participants the excess of illness at 5-7 days in
+the exposed group persisted when allowance was made for
+age, gender, and hamburger consumption. By contrast, at
+site B the excess of respiratory symptoms observed in the
+canoeing group was no longer significant when stratified by
+gender, although the relative risk was not much altered (RR
+1.53 95% CI: 0-94-2-48). With controlling for age and
+gender, at one month the only significant difference between
+canoeists from the two sites was an excess of GI symptoms in
+site-A participants.
+
+Discussion
+The two sites represent the extremes of water quality
+encountered by white-water canoeists in the UK. The
+results suggest that microbiological contamination, as
+reflected by indicator bacteria and enteroviruses, is
+associated with an appreciable burden of illness in canoeists.
+A weakness of the study design is that the exposed and
+non-exposed subjects were self-selected. 12 Thus, the
+canoeists were more likely to be male and eat hamburgers;
+however, accurate recording of potential confounding
+factors was possible and these do not explain the differences
+observed.
+Because there were no significant differences in
+symptoms between any of the groups before exposure, the
+most plausible explanation for the post-exposure excess at
+site A is poor quality water. A further indication that this is
+so is the similarity between symptom frequencies in the two
+exposed groups on the study day compared with the excess
+confined to canoeists at site A at 5-7 days. Indeed, at site B
+only respiratory symptoms were reported significantly more
+frequently in the exposed than the non-exposed group. This
+may be a gender effect, but previous investigators13 have
+suggested that certain symptoms developing after exposure
+at microbiologically uncontaminated sites are due to thermal
+shock, endogenous infection, or chemical irritation.
+The response to the 4-week follow-up was low. These
+questionnaires were self-administered, unlike the previous
+interviews. However, the results are broadly consistent with
+
+TABLE II-DIFFERENCES IN SYMPTOM FREQUENCY AT 5-7 DAYS IN SUBJECTS EITHER NOT EXPOSED OR CANOEING IN TWO
+FRESHWATER SITES OF CONTRASTING MICROBIOLOGICAL QUALITY*
+
+*Full details are available trom the authors
+
+tp < 0 05.
+
+
+
+1589
+
+those at 5-7 days and the persistent excess of GI symptoms
+in the exposed group at site A may represent infection with
+pathogens such as Cryptosporidium spp or Giardia
+intestinalis.
+The finding that illness occurred more frequently after
+canoeing in fresh water at a site A receiving sewage effluent
+agrees broadly with results of sea bathing research in the
+UK.8 Bacterial concentrations were not strikingly high by
+comparison with UK seawaters. The enterovirus
+concentrations, however, were considerably higher14 than
+those recorded in marine waters with similar enteric
+bacterial concentrations.8 This may be explained by the
+contribution from sewage works effluent. Sewage treatment
+produces greater attenuation of bacterial than viral
+concentrations.1s Thus enteroviruses, although presumably
+not causing the symptoms, may provide a better indicator of
+fresh water quality than the bacteria measured.
+White-water canoeing in poor quality water leads to a
+measurable amount of illness. Further studies are needed to
+determine whether there is a dose-response relation with
+microbial contamination. If so, knowledge of this relation
+would be valuable for both water quality standard
+formulation and public education.
+We acknowledge the help of Mr John Davies and his staff; the British
+Canoe Union; Mr Mike Hubbard and Mr John Gregson; Miss Gillian
+Davies and her colleagues in the National Rivers Authority; Dr R.
+Stanwell-Smith (Communicable Diseases Surveillance Centre, Colindale);
+Prof Jay Fleisher (State University of New York); Mr Trevor Harris; Mrs
+Paula Hopkins; Mr Jerome Whittingham; Dr Ann Delahunty; Dr Helen
+Merrett (Enviros Ltd); and Dr E. B. Pike and colleagues, Water Research
+Centre.
+
+2. Godfree AF, Jones F, Kay D. Recreational water quality: the
+management of environmental health risks associated with sewage
+discharges. Marine Pollution Bull 1990; 21: 414-22.
+3. United States Environmental Protection Agency ambient water quality
+criteria for bacteria-1986. EPA440/5-84-002. Washington DC: Office
+of Water Regulations and Standards Division, 1986.
+4. Anonymous. EEC Council Directive of8 December 1975 concerning the
+quality of bathing water (76/160/EEC). Offic J Europ Commun 1976;
+
+L/31,
+
+1-7.
+
+Ferley JP, Zimrou D, Balducci F, et al. Epidemiological significance of
+microbiological pollution criteria for river recreational waters. Int J
+Epidemiol 1989; 18: 198-205.
+6. Philipp R, Evans EJ, Hughes AO, Grisdale SK, Enticott RG, Jephcott
+AE. Health risks of snorkel swimming in untreated water. Int J
+Epidemiol 1985; 14: 624-27.
+7. Philipp R, Waitkins S, Caul O, Roome A, McMahon S, Enticott R.
+Leptospiral and hepatitis A antibodies amongst windsurfers and
+waterskiers in Bristol city docks. Publ Health 1989; 103: 123-29.
+8. Jones F, Kay D, Stanwell-Smith R, Wyer MD. Results of the first
+pilot-scale controlled cohort epidemiological investigation into the
+possible health effects of bathing in seawater at Langland Bay,
+Swansea. J Inst Water Environ Management 1990; 5: 91-98.
+9. Anonymous. The bacteriological analysis of drinking water supplies. (Rep
+Publ Health Med Subj no 71). London: HM Stationery Office, 1983.
+10. Alico RK, Dragonjac MF. Evaluation of media for recovery of
+Staphylococcus aureus from swimming pools. Appl Environ Microbiol
+1986; 51: 699-702.
+11. Goyal SM, Gerba CP. Concentration of viruses from water by membrane
+filters. In: Gerba CP, Goyal SM, eds. Methods in environmental
+virology. New York: Marcel Dekker, 1982: 59-116.
+12. Lightfoot NE. A prospective study of swimming related illness at six
+freshwater beaches in southern Ontario. PhD thesis, University of
+Toronto, 1989.
+13. Stevenson AH. Studies of bathing water quality and health. Am J Publ
+5.
+
+Health 1953; 43: 529-38.
+14.
+
+Merrett-Jones M, Morris R, Coope C, Wheeler D. The relation between
+enteric viruses and indicators of sewage pollution in UK seawaters. In:
+Morris R, ed. Meeting on health related microbiology, IAWPRC,
+
+Glasgow, Sept 12-14, 1991, 158-64.
+REFERENCES
+1. Fewtrell L. Freshwater recreation:
+11: 215-26.
+
+a cause
+
+for concern.
+
+Appl Geogr 1991;
+
+15. Consultants in Environmental Sciences. Review of operational and
+experimental techniques for the removal of bacteria, viruses and
+pathogens from sewage effluents. PECD 7/7/260, London:
+Department of the Environment, 1988.
+
+VIEWPOINT
+Indian medical journals
+
+Although Indian doctors produce half the articles
+published from the third world, little has been written
+about Indian medical journals. We examined 75 of
+the 113 serious English-language journals published
+in India. Of the 22 included in the Cumulated Index
+Medicus only 8 were judged by Indian and foreign
+referees to be of international standard. A survey of
+Indian authors indicated that foreign journals were
+chosen for the best papers because of their wider
+circulation, better refereeing practices, and
+punctuality. More than 98% of medical articles from
+India probably go unnoticed by the international
+medical community.
+
+Introduction
+Medical journals published in western countries have
+been catalogued and studied in great detail, often from the
+Science Citation Index. This provides data on nearly 3000 of
+
+estimated 50 000 journals that are published
+internationally. It includes, however, only 3 Indian medical
+journals despite the fact that India (which has approximately
+250 000 practitioners of western medicine) accounts for
+almost half the articles published from the third world. India
+produces a large number of journals that are not included in
+any indexing system and have never been studied in detail.
+We therefore undertook an in-depth examination of Indian
+medical journals.
+the
+
+Methods
+Lists of Indian medical journals were made from the Annual
+Report of the Registrar of Newspapers for India of 1984 and 1986,
+and from these we recorded the date of first publication, subjects
+covered, periodicity, circulation, and sponsoring bodies.
+ADDRESS. Department of Gastrointestinal Surgery, All India
+Institute of Medical Sciences, New Delhi 110029, India (P.
+Sahni, MS, P. P. Reddy, MS, R. Kiran, BLibSc, K. S. Reddy, MS, G. K.
+Pande, MS, Prof S Nundy, FRCS). Correspondence to Professor Nundy.
+
+

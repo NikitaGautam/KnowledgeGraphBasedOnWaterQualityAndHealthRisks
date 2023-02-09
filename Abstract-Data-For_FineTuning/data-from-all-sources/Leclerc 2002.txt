@@ -1,0 +1,2916 @@
+Critical Reviews in Microbiology, 28(4):371–409 (2002)
+
+Microbial Agents Associated with Waterborne
+Diseases
+H. Leclerc,1,3 L. Schwartzbrod,2 and E. Dei-Cas1,3
+1
+
+Faculté de Médecine de Lille, France, 2Faculté de Pharmacie de Nancy, France;
+Institut Pasteur de Lille, France
+
+3
+
+* Correspondence to: Professor H. Leclerc, Faculté de Médecine de Lille – Pôle recherche, 1 Place de
+Verdun, 59045 Lille Cedex, France (e-mail: hleclerc@univ-lille2.fr)
+
+I. INTRODUCTION
+Four epidemiological categories were
+initially devised for classifying water-related
+infectious “diseases” with regard to the engineering technologies required to prevent
+or control them. The categories defined for
+water transmission of infectious agents were
+waterborne (classic and other); water washed
+(intestinal and body surface); water-based
+(dependent on intermediate aquatic host(s);
+and water-related insect vectors (breed in/
+bite near water).1,2,3 Waterborne diseases are
+those transmitted through the ingestion of
+contaminated water and water acts as the
+passive carrier of the infectious agent.
+The use of operative words such as
+“waterborne” and “disease” is justified for
+reports of outbreaks or cases of disease associated with drinking water because traditional epidemiological investigation relies on
+the occurrence of disease, which for drinking water is primarily waterborne. The use
+of “waterborne” as a generic term encompassing all infections arising from water use,
+however, is too simplistic and poses difficulties when attempting a theoretical analysis of water-associated infections, because
+not all develop from the ingestion of water.
+Likewise, “disease” should not be used synonymously with “infection”, which may be
+
+either asymptomatic (without clinical expression) or symptomatic (clinically observable
+syndrome and therefore a “disease”, when
+the causal agent was identified). It could be
+argued that if “disease” is not the end result
+of a water-related infection with a pathogenic agent then the role of water in its
+epidemiology is unimportant. However,
+many of the bacteria and viruses that may be
+spread in low levels by the water route produce asymptomatic infections. This seeding
+of susceptible individuals could result in an
+endemic situation with the potential for an
+epidemic to occur from direct person-to-person, food, or water spread (through contamination with greater levels of pathogenic
+agents released from infected carriers). Therefore, for the purposes of clarification and
+general discussion, the use of “infection”
+instead of “disease” is preferred.
+This review attempts to describe present
+knowledge about waterborne diseases, their
+epidemiology, and the microbial agents commonly associated.
+
+II. WATERBORNE DISEASES AND
+ETIOLOGIC AGENTS
+A wide variety of bacterial, viral, and
+protozoan pathogens excreted in feces are
+
+1040-841X/02/$.50
+© 2002 by CRC Press LLC
+
+371
+
+
+
+capable of initiating waterborne infections,
+although the potential for this, predicted from
+latency, survival, and infective dose data,
+which is usually higher for viruses and protozoa, remains unknown in many cases.
+Waterborne spread of infection by pathogenic agents depends on factors such as
+pathogen survival in water and the dose required for establishing infection in susceptible individuals. In addition to pathogen
+survival, latency (the period between pathogen excretion and acquisition of actual infectious power) and pathogen ability for
+multiplication in the environment are factors
+influencing the infective dose. The minimum
+infective dose has been determined only for
+some bacteria, viruses, or protozoa that are
+excreted with feces and thus potentially water
+transmitted.
+Therefore, it is important to distinguish
+different classes of pathogens.
+1.
+
+2.
+
+3.
+
+372
+
+Viruses may only remain static in number or die off. They cannot grow in the
+receiving waters; they cannot, indeed,
+multiply outside of susceptible living
+cells. The infective dose of these agents
+is low, typically in the range of one to
+ten infectious units.
+Enteric protozoa such as Giardia and
+Cryptosporidium are highly resistant in
+the aquatic environment and to most disinfectants and antiseptics commonly used
+in water treatment. Like viruses, they
+cannot multiply in the receiving waters.
+The infective dose of Cryptosporidium in
+humans is highly variable in terms of the
+strain virulence4 and probably of the host
+susceptibility.
+The recognized waterborne bacterial
+pathogens include enteric and aquatic
+bacteria. The persistence of enteric bacteria, including Salmonella spp., Shigella spp., and Escherichia coli, in the
+aquatic environment depends on various parameters, but especially being a
+
+function of nutrients present and temperature. Although enteric bacteria are
+usually assumed to exist under starving
+conditions, there is evidence that some
+can grow in fresh water. Other bacterial infectious agents such as Legionella
+spp., Aeromonas spp., Pseudomonas
+aeruginosa, and Mycobacterium avium
+are indigenous aquatic organisms that
+can both survive and proliferate in
+drinking water. An additional mode of
+water-related transmission is through
+the direct inhalation of aerosols, specifically with Legionella pneumophila,
+the etiologic agent of Legionnaires’ disease and probably with nontuberculous
+mycobacteria such as Mycobacterium
+avium. The infectious dose of historic
+enteric bacteria are in the range of 107
+to 108 cells but much lower with some
+species, including Shigella spp.,
+Campylobacter spp., and enterohemorrhagic E. coli O157:H7.
+This discussion concerns the epidemiology of waterborne diseases, that is to say the
+rates of infection and characteristics of the
+diseases principally associated with waterborne transmission in developed countries.
+The situation is markedly different in developed or developing countries. In many worldwide countries, more illnesses and deaths
+result from sheer lack of availability of water in quantities sufficient for personal and
+household hygienic uses than from impurities in drinking water. These deficiencies in
+quantity or availability, along with malnutrition and lack of medical care, are responsible for the millions of deaths ascribed annually to diarrhea and enteritis, which are
+water associated, but much less commonly
+waterborne. In 1997 diarrhea disease ranked
+first in the WHO report’s assessment of
+causes of morbidity (4.109) and sixth in
+causes of mortality.5,6 It can be suggested
+that up to 70% of diarrhea illness could oc-
+
+
+
+cur by contaminated food, and therefore 30%
+could result from polluted water origin. It
+should also be stated that food responsible
+for outbreaks could be contaminated by
+water.
+The most complete data on waterborne
+disease are those reported for the United
+States by the Center for Disease Control and
+Prevention (CDC) and the Environmental
+Protection Agency (EPA). Two or more persons must show the same clinical symptoms
+before the incident is included in the statistics. Water systems are classified as community water systems, noncommunity systems,
+and private or individual water systems. National statistics dating back to 1920 on outbreaks associated with drinking water were
+analyzed by Craun2,7,8 in an attempt to estimate the effects and adequacy of public health
+programs, regulations, treatment technologies, and microbial monitoring. Epidemiological course of waterborne disease in the
+
+U.S. (Figure 1) is marked by a clear-cut
+break of bacterial diseases during the period
+1920 through 1998 with continuance of
+shigellosis, emergence of campylobacteriosis
+and E. coli O157:H7 hemorrhagic colitis,
+and correlatively by extended incidence of
+protozoan outbreaks from 1970s, including
+the largest documented incident in Milwaukee in 1993 since record keeping began in
+1920. During the last decade, the etiology of
+acute gastroenteritis (AGI) was not determined in almost half of the outbreaks. However, in many of these outbreaks, a viral
+etiology (Norwalk agents, human rotaviruses,
+and adenoviruses) has been suspected and
+was supported by the detection of Norwalk
+agents in the US in 1980 to 1990s.3,9 Several
+reports and reviews have been published
+recently in the U.S. on the concern.6,10,11,12,13,14
+Unfortunately, there is a paucity of data
+available on the occurrence in Europe of
+outbreaks of water-related infections. This
+
+FIGURE 1. Etiology of waterborne outbreaks, United States of America, 1920–1996.
+
+373
+
+
+
+may be because water-related outbreaks are
+rare in Europe, but it is more likely attributed to the problems associated with epidemiological investigations of such outbreaks.
+Some reports on European waterborne disease have been published, including the
+U.K.15 and Nordic countries,16 while Hunter17
+conducted the most comprehensive review
+of waterborne disease world-wide.
+It is generally agreed that waterborne
+outbreak reports are incomplete. A growing
+number of reports6,8,18 indicate that waterborne disease is far more prevalent than reported outbreaks. Craun7,8 suggests that only
+one-half to one-third, or even one-tenth, of
+waterborne outbreaks occurring in the U.S.
+are detected, investigated, and reported. According to Morris and Levin,18 annual incidence in the U.S. could be 7 to 8 million
+cases of illness and 1200 deaths attributable
+to waterborne infectious disease.
+
+1920 through 1960 to 1970. This applies
+particularly to typhoid fever, which is seen
+rarely since 1970 as a result of the widespread application of disinfecting and filtration treatments, introduced between 1890 and
+1900. Deaths from waterborne infections
+were almost entirely attributed to typhoid
+fever from 1920 to 1945 to 1950.8 On the
+other hand, the number of reported outbreaks
+of salmonellosis has been relatively stable
+over the years, whereas those of shigellosis
+have increased (Figure 2). Since 1961, Shigella sonnei has become the most prevalent
+bacterial agent, replacing S. flexneri that
+dominated previously. The change in Shigella species causing the majority of cases
+of illness can probably be explained by a
+similar change in incidence of Shigella serotypes in patients.
+
+B. Campylobacter
+III. BACTERIAL ENTEROPATHOGENS
+A. Salmonella – Shigella
+Waterborne outbreaks of bacterial origin
+in the U.S. have declined dramatically from
+
+Waterborne outbreaks caused by Campylobacter jejuni in the U.S. (three outbreaks
+1971 to 1980, 10 outbreaks 1981 to 1990,
+three outbreaks 1991 to 1996)2,8 demonstrate
+that Campylobacter is now a leading cause
+of bacterial gastroenteritis in the commu-
+
+FIGURE 2. Comparison of typhoid fever and shigellosis occurring in the waterborne
+outbreaks (USA, 1930–1990). I, typhoid fever outbreaks, G, shigellosis outbreaks.
+
+374
+
+
+
+nity. It is isolated as commonly as Salmonella and Shigella from patients with diarrhea; it is the most frequently identified bacterial cause of diarrhea in the U.S. and the
+U.K. Human campylobacteriosis is a severe
+disease, often leading to serious sequel and
+sometimes resulting in death. Following the
+introduction of an improved surveillance system in England and Wales, the Communicable Disease Surveillance Centre observed
+26 outbreaks between 1992 to 1995 in which
+there was evidence for waterborne transmission of infection.19 In Nordic–European countries, campylobacters have been known as
+important human pathogens since the late
+1970s. More recently, they were associated
+with presumed waterborne outbreaks;20,21 in
+Finland, a waterborne epidemic in a hospital
+caused nearly hundred persons to become
+ill. 22 Other outbreaks have been described in
+Canada23,24 and in New Zealand.25
+Campylobacter species appear to be particularly well adapted to the avian intestinal
+tract, thus causing poultry to be the primary
+vehicle of transmission to humans. 26
+Campylobacter enteritis is a zoonosis and
+animals used for food production, such as
+poultry, account for a large reservoir of environmental pollution. Virtually all surface
+waters contain campylobacters, even in remote areas, where contamination stems from
+wild birds. Waterborne outbreaks typically
+follow the consumption of untreated surface
+water that may be contaminated with bird
+feces. 27
+The occurrence of thermophilic campylobacters was studied in river and lake waters, some of which was the source of the
+drinking water. C. jejuni was recovered frequently from samples of fresh water.28,29,30
+Campylobacter-type bacteria were found,
+however, in treated water because they are
+susceptible to chlorination.31 The first isolation of C. jejuni from groundwater32 supports the theory that groundwater may be a
+vehicle for campylobacter transmission. In
+
+water microcosm experiments, factors such
+as temperature, oxygenation, anaerobic conditions, nutrient, and biofilms influence the
+survival times.33,34 Survival was enhanced
+by the presence of autochthonous microflora
+and nutrient with decreasing temperature and
+anaerobic conditions. The existence of viable but noncultivable campylobacter, and
+their power for retaining pathogenicity and
+virulence35,36,37 was a debatable point until it
+appeared elucidated by Cappelier et al.38 and
+Talibart et al.39
+The spread of Arcobacter organisms (previously designated as aerotolerant Campylobacter) via the drinking water path must
+be suspected.40,41 Some cases of acute diarrhea, however, were associated with
+Arcobacter butzleri;42 little is known about
+the clinical significance of infections in humans.
+
+C. Escherichia coli O157:H7
+Escherichia coli O157:H7, first recognized as a pathogen in 1982,43 is now known
+as an important cause of bloody diarrhea
+(hemorrhagic colitis) and renal failure
+(hemolytic uremic syndrome) in humans. Its
+pathogenicity has been attributed in part to
+the production of toxin cytotoxic for Vero
+cells (a fibroblastic green monkey kidney
+line cell). The toxin was appropriately named
+Verotoxin (VT), and the group of E. coli that
+produce VT became known as the Verotoxinproducing E. coli (VTEC).44 Subsequently,
+other verotoxin-producing E. coli strains have
+been associated with hemorrhagic colitis and
+hemolytic ureic syndrome.44 E. coli O157:H7,
+however, is recognized as the most common
+cause of VTEC-related human illness. VTEC,
+including E. coli O157:H7, are strongly associated with cattle, and they can clearly
+pass through stomachs of ruminants. The
+transmission of VTEC O157 is often foodborne, particularly from contaminated ground
+
+375
+
+
+
+beef or raw milk, or person-to-person, and
+contact with farmed animals has also resulted in human infection. Farmed and wild
+animals grazing in water catchment areas,
+however, are a potential source of fecal contamination, and therefore of waterborne
+VTEC O157 infection. VTEC O157 is particularly adapted for surviving in the aquatic
+environment, as suggested by outbreaks associated with swimming in lakes (Wang and
+Doyle, 1998).45,46 It is capable of surviving
+for many days, especially at cold temperatures.
+The waterborne route of VTEC O157
+infection was first clearly demonstrated
+by an unusually large outbreak by
+unchlorinated municipal water in the Missouri Community. 47 Since then, waterborne VTEC O157 has been described in
+sporadic cases and in outbreaks of illness. Chalmers et al. 48 have analyzed published outbreaks of VTEC O157 associated with recreational waters, private and
+municipal supplies. Despite the potential
+for large contamination of environment
+with VTEC O157, however, waterborne
+infection is relatively rare because VTEC
+O157 is as susceptible to chlorination as
+bacterial indicators. 48
+Epidemiological investigations have
+elucidated the mechanisms by which E. coli
+O157:H7, Shigella spp., and campylobacters
+have become a source of concern recently.
+The most striking feature is the low inoculum of organisms that may trigger disease.
+As few as 10 to 100 organisms of the most
+virulent S. dysenteriae type 1 are sufficient
+to cause clinical dysentery, while the other
+species may require a 10 to 100 times more
+elevated dose.49 The dose required to trigger campylobacteriosis is also low, probably no more than a few hundred bacteria.50,51 E. coli O157:H7, like Shigella and
+C. jejuni, appears to have a low infectious
+dose, approximately some hundred organisms or less.52
+
+376
+
+D. Yersinia enterocolitica
+Bacteria of the genus Yersinia have been
+isolated commonly from the environment,
+including water supplies of various types.
+Environmental strains therefore should be
+differentiated from serotypes O:3, O:9, O:5,
+O:27 and O:8 of Y. enterocolitica, which are
+the most frequently ones associated with
+human infections in Europe, Japan, Canada,
+and the U.S. 53 These pathotypes are
+psychrotrophic, and hence can multiply in
+fresh waters and could constitute a major
+hazard to drinking water. Epidemiological
+data concerning waterborne yersiniosis, however, are scarce (Schieman, 1990)53 and involve only a small number of individuals. A
+large outbreak of intestinal illness at a Montana ski resort in 1977 was suggested to be
+waterborne yersiniosis,54 but the many strains
+isolated from water sources were later identified as nonpathogenic, leaving the cause of
+this outbreak uncertain.17 Three prospective
+studies from Norway55,56 and from New
+Zealand57 seem to demonstrate that, however, Y. enterocolitica could be waterborne
+in these area.
+Y. enterocolitica became the repository
+for a large number of “atypical” or
+Y. enterocolitica-like strains. Usually isolated from terrestrial and fresh water ecosystems, they are often referred to environmental strains, including nonpathogenic serotypes
+of Y. enterocolitica and the related species
+Y. aldovae, Y. bercovieri, Y. frederiksenii,
+Y. intermedia, Y. kristensenii, Y. mollaretii,
+and Y. rohdei.58 These aquatic environmental strains were, however, relatively common in the examined water supplies.59,60,61
+
+E. Vibrio cholerae
+Cholera caused by toxigenic Vibrio
+cholerae is a major public health problem
+concerning developing countries, where out-
+
+
+
+breaks occur in a regular seasonal pattern
+and are associated with poverty and poor
+sanitation. Among the 193 currently recognized O serogroups of V. cholerae, only
+serogroups O1 and O139 have been associated with epidemics of cholera. The other
+serogroups usually referred to as non-O1,
+non O-139, can cause sporadic diarrhea.62
+This sharp distinction between serogroups is
+related to virulence associated genes. The
+strains belonging to serogroups O1 and O139
+(more than 95%) produce cholera toxin (CT)
+and colonization factor known as toxincoregulated pilus (TCP) that is coordinately
+regulated with CT production. In contrast,
+the strains of non-O1 non-O-139 (more than
+95%) serogroups lack these two virulence
+genes.
+From 1817 to 1994, seven distinct
+pandemics of cholera occurred; all these were
+caused by V. cholerae O1. During the first
+six pandemics, cholera remained principally
+confined to South and Southeast Asia,
+whereas the seventh pandemic reached West
+and East Africa and South America. In late
+1992, V. cholerae belonging to a non-O1
+serogroup (now referred as O139 Bengal)
+caused explosive epidemics of cholera
+through India, Bangladesh, and neighboring
+countries.
+Systematic surveillance of cholera in
+these countries from 1992 to 2000 revealed
+temporal alternation or coexistence of
+V. cholerae O1 and O139 in different regions.63,64,65 A clone of serogroup O37 demonstrated epidemic potential in the 1960s.66
+The close evolutionary relationships among
+O1, O139 and O37 epidemic clones indicates that new cholera clones were likely
+arisen from a lineage that was already epidemic or closely related to such a
+clone.63,66,67,68 An endemic focus of cholera was reported in the U.S. in 1970 to
+1990s. Most cases were associated with
+the consumption of undercooked crabs or
+shrimp, or raw oysters from the Gulf of
+
+Mexico.69 In Europe, several countries were
+affected (concerned) by cholera in the
+1990s.70,71,72,73
+V. cholerae is now recognized as an
+autochtonous member of the microflora in
+many aquatic environments such as in riverine and estuarine areas. The importance of
+water ecology is suggested by the close association of V. cholerae with surface water
+and population interacting with the waterfood also plays an essential role, although in
+many instances water is the source of contamination of foods.74 Many ecological aspects remain unknown to explain seasonal
+appearance epidemic V. cholerae strains and
+outbreaks of cholera. Recent data suggest
+that Vibrio features can be involved:
+1.
+
+2.
+
+The state of an aquatic reservoir of
+V. cholerae O1 or O139 being capable not only to survive in water but
+also to form a complete component
+of the ecosystem.75 It has been postulated that under stress conditions the
+vibrios can be converted to a viable
+but nonculturable form (VNC)76,77,78 that
+can be reverted back to live infectious bacteria.
+The major pathogenic gene in toxinogenic
+V. cholerae are clustered in several chromosomic regions (CTX genetic element
+and TCP pathogenicity island) that are
+capable of being propagated horizontally
+to non-O1 and non-O139 strains by
+lysogenic conversion.63 More recently,
+Chakraborty et al.62 have demonstrated
+the occurrence and expression of critical
+virulence genes in environmental strains
+of V. cholerae that appear to constitute an
+environmental reservoir of virulence
+genes. These new data on the ecology of
+V. cholerae appear to be of great significance. Likewise, that non O1 and non
+O139 strains are more commonly detected
+than O1 and O139 strains, in fresh water
+and estuarine areas, is also relevant. 63,79,80
+
+377
+
+
+
+In outbreaks with a bacterial etiology,
+the CDC and the EPA make efforts to relate
+waterborne-disease surveillance with processing deficiencies. Thus, it has been established that untreated surface or ground water, inadequate disinfecting procedures or
+distribution system were the major causes of
+waterborne outbreaks; control of such deficiencies is usually within reach. These conclusions substantiate the basic concepts of
+management of enteric diseases by multiple
+barriers and monitoring by using indicators.6
+
+IV. PUTATIVE BACTERIAL
+PATHOGENS THAT GROW IN
+WATER SUPPLIES
+Like fecal pathogens that may have access to the aquatic environment and survive
+or remain viable but nonculturable, other
+bacterial pathogens are able to multiply in
+water even with low levels of organic nutrients. They are opportunistic pathogens in
+humans, but concern about their occurrence
+in drinking water is disputed. The most important organisms to consider are Pseudomonas aeruginosa, Aeromonas, Legionella, and
+Mycobacterium avium complex.
+
+A. Pseudomonas aeruginosa
+Pseudomonas aeruginosa is an ubiquitous microorganism, inhabitant of fresh waters, soil, and plants. This bacterium has been
+isolated from numerous vegetables, such as
+tomatoes, radishes, cucumbers, onions, and
+lettuces81 at rates capable of reaching 103/g.
+Its presence is constant and abundant in waste
+waters82,83 and consequently in surface waters that receive polluted effluents. Its growth
+in water is not directly linked to the organic
+matter content, because it can develop abundantly in the purest of waters. P. aeruginosa
+is a species of considerable versatility and a
+
+378
+
+significant pathogen that can cause infection
+in a variety of plants, insects, and warmblooded animals. In man it is an opportunist
+pathogen, well known in the hospital environment; it seems likely to be the cause of 10
+to 20% of nosocomial infections. Its extreme
+resistance to antibiotics explains why this
+ubiquitous bacteria has been selected to colonize the skin and mucous membranes of
+patients.
+As some P. aeruginosa strains are capable
+of producing enterotoxins, the enteropathogenicity of this species was sometimes surmized.
+Since 1894, many later publications have recognized this bacterium as an enteric pathogen
+and causative agent of diarrhea in infants and
+children.84,85,86,87 Enteric disease associated with
+septicaemia was described earlier by Dold in
+191888 as “Shangai fever”, a prolonged febrile
+illness that affected both children and adults.
+As expounded by Hardalo and Edberg89 the
+colonization of children by P. aeruginosa
+quickly ceases once the environmental sanitary conditions are corrected. Moreover, each
+of these “infections” was diagnosed before there
+were adequate means of precluding a viral or
+protozoan etiology. Community acquired
+P. aeruginosa gastrointestinal disease with sepsis rarely occurs in healthy infants, that is,
+those who lack identified underlying immunological or haematological problems.90 On the
+other hand, P. aeruginosa can be a colonizer of
+the gastrointestinal tract in immunocompromised
+and hospitalized adults and children. There
+have been no significant outbreaks reported in
+recent decades, possibly as result of better
+hygienic control measures and diagnostic techniques.90 Moreover, a 1969 study91 demonstrated that the ingestion of up to 106 viable
+P. aeruginosa did not lead to infection or colonization, but only to a brief period of recovery
+of the organism from the stool.
+In the past, Hoadley92 considered the
+presence of P. aeruginosa in drinking water
+as a public health risk. However,
+P. aeruginosa is predominantly an environ-
+
+
+
+mental organism and fresh surface water an
+ideal reservoir. As a consequence of contemporary lifestyles, P. aeruginosa reaches
+relatively high numbers in food and on moist
+surfaces. Daily, substantial numbers of the
+species are ingested with our food, particularly with raw vegetables, while our body
+surfaces also are in continuous contact with
+the organism. The risk to the general population originating from P. aeruginosa in
+drinking water is insignificant, and Hardalo
+and Edberg89 think that attempts at guideline
+for P. aeruginosa in drinking water would
+not yield public health protection benefits.
+On the other hand, this bacterium is primarily a nosocomial pathogen.93 There is abundant evidence that specific hosts are at risk
+for an infection with P. aeruginosa, including patients with deep neutropenia, cystic
+fibrosis, severe burns, and those subject to
+foreign device installation.94,95,96 For these
+highly vulnerable hosts water supplies in
+hospitals with P. aeruginosa should be
+avoided.
+
+B. Aeromonas
+Many experimental, clinical, and epidemiological data tend to lend credence to the
+assertion that Aeromonas may be etiologically involved in diarrhea illness.97,98,99 Some
+authors are more cautious and consider that
+only some strains are likely to be pathogenic, a situation similar to that with E. coli
+and Y. enterocolitica.100 Beyond any doubt,
+Aeromonas may be isolated as many times
+from the feces of patients with diarrhea as
+persons without diarrhea, suggesting that
+Aeromonas would as a rule be a nonpathogenic “fellow traveler”. The most striking
+argument against the role of Aeromonas in
+human diarrhea emerged from studies of
+Morgan et al.101 with human volunteers; despite that high challenge doses were used,
+this investigation failed to establish Aero-
+
+monas spp. as an enteropathogen. However,
+the pathogenicity of aeromonads may be
+strain or pathovar related.
+Aeromonas spp. are widely associated
+with environmental waters; most available
+strains were not from human fecal origin,
+but represented the natural habitat of the
+organism. The concentration of mesophilic
+aeromonads range from 106 to 108/ml in crude
+sewage to 10 to 103/ml in clean river water
+like in superficial ground water.102,103,104,105
+Aeromonads readily multiply in domestic or
+industrial wastewater and are also found in
+siphons, sinks, and drainage systems.103 Temperature is an important factor for enhancing
+the colonization by aeromonads in wastewater. That is probably the reason why
+Aeromonas spp., which are psychrotrophic
+organisms, outgrow coliforms in sewage.103,106,107 Hence, aeromonads are natural
+residents in wastewater and fresh surface
+water, their rate is closely related to organic
+load and temperature. On the other hand, it
+appears that aeromonads survive poorly in
+nutrient-poor waters in comparison with other
+autochtonous oligotrophic bacteria.103,108
+Since 1962, we have demonstrated that 30%
+of drinking water samples found positive for
+“fecal-coliforms” indeed contained strains
+of Aeromonas that would have falsely indicated that the sample was positive in the
+fecal coliform test.109 These observations
+have since been confirmed by many
+teams.103,110,111
+The frequent presence of Aeromonas in
+drinking water raised the question of its role
+as an enteric pathogen, because production of
+enterotoxins and/or adhesins had been demonstrated.74,112,113 Burke110 observed that
+Aeromonas spp.-associated gastroenteritis was
+closely correlated with mean number of
+Aeromonas spp. in water samples within the
+distribution systems. The epidemiological
+relationship between aeromonads isolated
+from humans and those isolated from distribution system has been studied by typing.114
+
+379
+
+
+
+These investigations demonstrated conclusively that the aeromonads isolated from the
+public water supply were unrelated to those
+isolated from patients with gastroenteritis.
+With regard to the epidemiological relationship with drinking water, in contrast to other
+waterborne pathogens, no clearly defined
+outbreaks of diarrhea illness due to Aeromonas
+have ever been reported, although this bacterium is frequently isolated from water.115
+
+C. Legionella
+The genus Legionella had at least 42 named
+species,116 among which L. pneumophila
+serogroup 1 is most frequently related to human disease. Legionella infections can lead to
+two forms of disease, namely, legionellosis or
+Legionnaires’ disease, an acute purulent pneumonia and Pontiac fever, a self-limiting
+nonpneumonic disease consisting of fever and
+mild constitutional symptoms. Infection is the
+result of inhalation of contaminated aerosols.
+Legionella is a common inhabitant, usually in low numbers, of natural aquatic habitats and of water supplies that meet drinking
+water standards.117 A number of abiotic factors, of which temperature is the most important one, significantly influence Legionella
+survival and growth.118 Therefore, hot water
+tanks, cooling systems, and towers,119 because
+of their heat-exchanging function, serve as
+bacterial “amplifiers”. Then, Legionella spp.
+are able to colonize all parts of internal distribution systems of hospitals, hotels, or buildings.120,121,122 Thus, these bacteria can potentially infect susceptible persons through
+aerosols created in showers bubble baths,
+sinks, etc.
+Evidence also indicates that amoebae and
+other protozoa may be natural hosts and “amplifiers” for legionellae in the environment. Invasion and subsequent intracellular replication of
+L. pneumophila within protozoa in the environment should play a major role in the transmis-
+
+380
+
+sion of Legionnaires’ disease.117,123,124,125,126 Recently, it has been shown that viability and infectivity of environmental noncultivable
+L. pneumophila can be restored by intracellular
+replication within protozoa.127 Intracellular
+growth even enhances the infectious power of
+L. pneumophila to human-derived cells.128 At
+some stage after the ingestion of bacteria, amoebae produce vesicles that contain high numbers
+of legionellae, which may reach the alveoli of
+the lungs and there constitute an infectious
+dose.129
+It appears that it is impossible to prevent
+the contamination of water supply systems
+and reservoirs with legionellae during extended periods of time by thermal eradication or hyperchlorination.124 The risk of infection following exposure to Legionella
+cannot be assessed and remains open to
+speculation.130 Therefore, risk management
+strategies should be introduced to control
+Legionella at locations where a health risk is
+recognized, that is, in water supply systems
+of hospitals, in public spas, in swimming
+pools, and whirlpools. Quantifying relative
+risks for exposed robust vs. debilitated persons is yet impossible. However, special measures of surveillance and intervention should
+be introduced for people with reduced resistance against respiratory disease, such as
+elderly people, diabetics, etc.
+
+D. Nontuberculosis Mycobacteria
+The Mycobacterium tuberculosis complex
+(M. tuberculosis, M. bovis, and M. africanum)
+is composed of species pathogenic for man
+and animal, and “nontuberculosis mycobacteria” (NTMs) or “mycobacteria other than
+M. tuberculosis”, include the formerly called
+“atypical” mycobacteria. In a benchmark review131 the evidence was summarized that some
+nontuberculosis mycobacteria were able to
+cause disease. The most common among these
+include the Mycobacterium avium complex
+
+
+
+(MAC) composed of M. avium and
+M. intracellulare clearly different species based
+on DNA-DNA homology and 16S rRNA sequences.132 On the other hand, on the basis of
+DNA homology and phenetic relatedness, it
+has been proposed that M. avium, M. paratuberculosis, and the wood pigeon bacillus be
+placed in one species with the designations
+M. avium subsp. avium, M. avium subsp.
+paratuberculosis, M. avium subsp. silvaticum,
+respectively.133 It should be noted that a “MAIS”
+complex, including M. avium, M. intracellulare,
+and M. scrofulaceum has been occasionally
+described. However, M. scrofulaceum is genetically and phenetically distinct from
+M. avium and M. intracellulare and is not a
+member of the M. avium complex.134 Several
+other reviews135,136,137,138 have contributed to an
+increase in evidence that the environment and
+more particularly water may be the vehicle by
+which these organisms infect or colonize man.
+The concern about nontuberculosis mycobacterial disease has been changed radically by the emergence of the AIDS epidemic throughout the world. Before the
+AIDS epidemic and still today in immunocompetent people, nontuberculous mycobacterial disease was primarily pulmonary
+and the major pathogens were M. kansasii,
+M. avium, and M. intracellulare. In the
+absence of evidence of person-to-person
+transmission, it was suggested that man is
+infected from environmental sources via
+aerosols.131 M. scrofulaceum was considered the causative agent of cervical lymphadenitis in children, and M. marinum
+was associated with skin infections originating from aquaria or swimming pools.
+However, with the advent of the AIDS
+epidemic in the U.S. and Europe, in AIDS
+patients and other immunodeficient individuals, nontuberculous mycobacterial disease is usually systemic with acid-fast organisms being isolated more commonly
+from either blood or stool and caused principally by M. avium. Therefore, infections
+
+possibly occur via the lungs or gastrointestinal tract. Thus, a wider range of sources
+and routes of exposure has had to be investigated in AIDS patients. In Africa and
+other areas of the developing world, where
+the incidence of tuberculosis is high, the
+rate of nontuberculous mycobacterial disease in AIDS people is low.139 In all probability AIDS patients die of other infections before they reach a stage at which
+slow onset M. avium disease develops.
+
+E. Occurrence of Nontuberculous
+Mycobacteria and Transmission in
+Water
+In contrast to tuberculous bacteria that live
+and grow in human tissue, nontuberculous bacteria are free-living saprophytes that are widely
+distributed in the environment: water, soil, dust,
+and aerosols.138,140,141 They have been recovered from many piped and treated drinking
+waters throughout the world.135,136,142,143,144,145,146
+NTMs are not contaminants picked up from
+another source, but residents able to survive
+and grow in water.
+The physiological characteristics of
+nontuberculous mycobacteria have provided an
+understanding of their ecological distribution;138
+(1) they grow best at low pH values, that is,
+between 5 and 5.5, and (2) microaerobically;138
+(3) M. avium strains grow at 45˚C, unlike
+M. intracellulare that can grow to only 42˚C;
+(4) they grow equally well in water with a high
+level of salt and are found in large numbers in
+brakish swamps and estuaries; (5) they are hydrophobic and collect largely at air-water interfaces; (6) they are relatively resistant to heavy
+metals and may be isolated from water by highly
+polluted metals; (7) it has been shown that they
+may be responsible for degradation of a wide
+variety of xenobiotic organic coumpound; they
+are capable of transforming compounds not
+readily biodegradable such as humic and fulvic
+acids;147 (8) their high resistance to disinfection
+
+381
+
+
+
+by chlorine undoubtedly contributes to their
+persistence in drinking water systems.138 Several experimental data suggest a role for protozoa present in water environments as host for
+pathogenic mycobacteria, such as M. avium.148,149
+These attributes favor their survival and even
+occasional growth in natural waters such as
+fresh water, salt water, and estuaries, in piped
+and treated waters such as drinking and domestic waters, swimming pools and aquaria, public
+baths, and whirlpools.135,136,138,141,146,148 Increases
+in the immunodeficient population and the prevalence of nontuberculous mycobacteria in water
+systems contribute to an emerging problem of
+waterborne mycobacterial infections.
+Von Reyn et al.144 were among the first
+to document a relationship between infections in AIDS patients, and water as the
+source of the M. avium complex, examination of isolates from patients and from waters by PFGE showing identical patterns.
+The study from Aronson et al.150 also supports the possibility that potable water is a
+source of the nosocomial spread of M. avium
+infections in hospitals. Recirculating hot
+water systems, used in many institutions such
+as hospitals, hotels, apartments, and office
+buildings, may allow thermotrophic and chlorine-resistant mycobacteria to persist and
+colonize once they have been introduced from
+municipal systems. 136,142 Infection with
+M. avium complex is thought to occur from
+colonization of the gastrointestinal tract,151
+although respiratory access has also been
+documented.152 Therefore, hot water showers may be the source of infection, but it
+cannot be excluded that drinking water acts
+as a possible source, because a common tap
+may deliver both hot and cold water.153
+Before the emergence of the AIDS epidemic, M. kansasii infection were generally
+more common than M. avium complex infections. The AIDS epidemic has had, in
+most countries, a striking effect on the incidence of disease caused by the M. avium
+complex but not M. kansasii. Indeed, be-
+
+382
+
+tween 1984 to 1992 there has been a 10-fold
+increase in the number of M. avium complex
+infections compared with M. kansasii infections in England.154 M. kansasii disease in
+immunocompetent patients (e.g., those with
+AIDS) can be disseminated or exclusively
+Pulmonary. There have been a number of
+reports relating the occurrence of M. kansasii
+in drinking water and shower heads.135,138,155,156
+Therefore, like with the M. avium complex
+infections, the water exposure route may be
+possible.
+M. paratuberculosis is the agent of
+Johne’s disease in cattle. Several data have
+suggested that M. paratuberculosis may be
+also implicated with Crohn’s disease in humans, which is a chronic, invalidating, inflammatory disease of the gastrointestinal
+tract.138 Epidemiologic studies of incidence
+and geographic distribution of disease have
+led Herman Taylor et al.157 to propose that it
+is due to the transmission of M. paratuberculosis via water contaminated by cattle feces. If it is later proved that M. paratuberculosis or wood pigeon strains of M. avium158
+are the responsible bacteria of disease, human infection would also occur through exposure to contaminated water (e.g., drinking
+or aerosols).
+
+V. HELICOBACTER PYLORI
+The assumption that Helicobacter pylori is
+waterborne needs to be substantiated. Half of
+the world’s population is infected with H. pylori, making it a pathogen of potentially great
+significance. Although in the majority of cases,
+infection is harmless, many infected people
+develop chronic gastritis, peptic ulcer disease,
+or gastric cancer.159 Although all evidence
+shows that H. pylori is well suited to attach to
+the gastric mucus and the gastric epithelium, it
+is difficult, however, to establish whether this
+ecological niche is the only one. Studies suggest four transmission ways:160,161,162,163
+
+
+
+1.
+
+2.
+
+3.
+
+4.
+
+By the fecal-oral route, the bacterium,
+excreted by feces, might colonize water sources, becoming available to be
+transmitted to man;
+By the oral-oral route, H. pylori, which
+colonizes dental plaque and saliva, may
+be transmitted by saliva to other individuals (person to person transmission);
+By the gastric-oral way, the typical modality of transmission in childhood, by
+contaminated vomit;
+Finally, by the gastric-gastric route, the
+bacterium might be transmitted by endoscopic procedures.
+
+The natural route of transmission is by
+gastric juice, specifically as a result of epidemic vomiting in childhood.161,162 The different modalities of transmission may be
+contemporaneously involved, however, because no one per se is able to explain the
+widespread occurrence of H. pylori infection. Many studies have examined the possibility that H. pylori is waterborne. H. pylorispecific DNA was detected in sewage,164
+surface water,165 and water supplies,166,167,168
+although the organisms should be readily
+inactivated by free chlorine.169 Actively respiring bacteria were found by monoclonal
+antibody in the majority of surface and shallow groundwater samples tested in the U.S.170
+The survival capacity of H. pylori is related
+to the noncultivable coccoid form that may
+persist up to 20 to 30 days in water165,170,171
+and also in food.172
+Studies of the prevalence or seroprevalence
+suggested that drinking water might play some
+role in infection with H. pylori,168 which is
+unconfirmed by other works.173,174 More and
+more data show that H. pylori DNA can be
+detected by PCR from feces samples of infected individuals or patients with peptic ulcers,175,176,177,178 strongly suggesting fecal-tooral transmission. The detection of H. pylori
+antigen in stools (Hp SA) brings new promise
+for diagnosing H. pylori infection.179 The re-
+
+sults obtained from H. pylori infection in an
+experimental murine model also seem to support an oral-fecal route as the mode of transmission.180
+However, many characteristics make
+H. pylori a special bacterium in the world of
+human pathogens. A long way remains for
+the epidemiology of transmission, while the
+environmental occurrences of this pathogen
+are better defined.
+
+VI. PATHOGENIC PROTOZOA
+The most prevalent enteric protozoa
+associated with waterborne disease include
+Giardia lamblia and Cryptosporidium
+parvum.127,181,182,183,184,185 The last species,
+Cyclospora cayetanensis, Isospora belli, and
+many Microsporidian species appear like
+emerging pathogen protists.186,187,188,189
+
+A. Giardia, Cryptosporidium
+As a result of proliferation and evolution
+in the intestinal tract, cysts (Giardia), oocysts (Cryptosporidium, Cyclospora, Isospora) or infective spore (Microsporidia) are
+produced and excreted in feces in a fully
+infective form (Giardia, Cryptosporidium,
+Microsporidia), or like immature stages
+(Cyclospora, Isospora), which will shortly
+complete their development in the environment acquiring their infectious power. Giardiasis has become the most common cause
+of human waterborne disease in the U.S.
+over the last 30 years. The first outbreak was
+documented in 1965 at Aspen, Colorado.2
+From then until 1996, 122 outbreaks involving 27,000 patients have been reported (Table
+1).
+The Apicomplexan Cryptosporidium has
+only more recently been recognized as a
+cause of waterborne outbreaks. The first
+occurred in 1985 in Texas, with sewage-
+
+383
+
+
+
+TABLE 1
+Enteric Protozoa and Waterborne-Disease Outbreaks
+
+contaminated ground water as the source of
+the infection.190 The outbreak in Milwaukee
+was the largest documented waterborne incident ever in the U.S. since 1920. An estimated 403,246 cases of diarrhea were recorded over a span of 2 months, 4400 persons
+were hospitalized and 69 deaths were
+recensed among immunocompromised patients.191,192 From 1985 to 1996, 10 outbreaks
+occurred in the U.S. that resulted in 419,914
+cases of illness.184 Many outbreaks have also
+been reported in the U.K.17 The size and
+severity of waterborne cryptosporidiosis have
+prompted investigations in depth about their
+etiology and transmission. A striking result
+was that many outbreaks of giardiasis and
+cryptosporidiosis were found associated with
+potable water, even when processing systems had been operated in accordance with
+conventional standards of water treatment,
+and while current microbiological standards
+were met.183,181,193 Relying on Cryptosporidium as a model protozoan pathogen, investigations by Casemore,181 Rose,194 Current and Garcia,182 and Meinhart et al.183
+attempted to clarify the transmission patterns for these diseases, and the problems to
+be overcome in their management and monitoring for compliance. These are briefly reviewed below.
+
+384
+
+1.
+
+2.
+
+A broad variety of animal reservoirs,
+including farm livestock, pets, and wildlife spread oocysts to man and the water
+environment, particularly through agricultural and human effluents, compounded by an abundant rainfall. In addition, zoonotic and person-to-person
+transmission occurs frequently. Oocysts
+excreted by man and animals in large
+numbers and in fully infective form constitute probably the main risk factor for
+the spread of Cryptosporidium in aquatic
+environment.183,194,195 The contamination
+of water sources may lead to penetration
+of water treatment plants and drinking
+water supplies.17,183,196
+Cryptosporidium oocysts possess a substantially elevated resistance against disinfectants used in water decontamination, with the exception of ozone and
+chlorine dioxide.197,198 The physical removal of the parasite by coagulation
+and filtration should, in theory, overcome the risk. All outbreaks of waterborne cryptosporidiosis that occurred
+in the U.S. between 1985 and 1993,
+however, hit communities where surface water supplies had been filtered
+and where processing equipment met
+federal and state standards. According
+
+
+
+3.
+
+to Gale,199 available evidence suggests
+that many pathogenic microorganisms,
+including cryptosporidia, are clustered
+to some degree, even within small volumes, exposing some drinking water
+consumers to much higher doses than
+others. By assuming that enteric pathogens are randomly dispersed, current
+models underestimate the risk of contracting infectious diseases.200 Modeling pathogen densities in drinking water obtained from source water, and
+performance criteria for treatments, for
+example, removal of efficiencies calls
+for more information on the degree to
+which treatment process (e.g., filtration
+and coagulation) affect pathogen clustering. Also, the practice of recycling
+filter backwash water can lead to breakthrough of oocysts into finished water.201 Finally, oocysts of Cryptosporidium can attach to and persit in
+biofilms, then be released by sloughing
+into the water system. By such mechanisms, some persons may be exposed
+to infectious clusters, whereas the majority of consumers are not.
+The infective dose of Cryptosporidium
+in humans is not exactly known. Experiments in human volunteers202,203 obtained dose-response curves indicating
+a median infective dose (ID50) of 132
+oocysts and a minimum infective dose
+of less than 30. A more recent study4
+reported that the minimal infective dose
+for immunocompetent volunteers can
+vary between 10 and 1000 oocysts in
+terms of the Cryptosporidium strain.
+Studies using animal models showed
+that as few as one to ten oocysts may
+initiate an infection.183,204 However, IDs
+vary strongly with the viability of oocysts that depends on incurred environmental stress, and on their virulence.
+Nevertheless, the model of risk assessment developed by Perz et al.185 tends
+
+4.
+
+to demonstrate that transmission of oocysts may occur at low levels of the
+pathogen in drinking water.205 With
+respect to the Milwaukee epidemic,
+mathematical modeling combined with
+epidemiological data suggest that persons might indeed become infected after exposition to only one oocyst.192
+Waterborne cases have been related,
+however, in the absence of detectable
+oocyst levels as in the Las Vegas outbreak.206
+Recent molecular studies on Cryptosporidium genetic diversity are changing
+basically the usual views about the epidemiological pattern of cryptosporidiosis. Until recently, C. parvum was
+the species considered like responsible
+for cryptosporidiosis both animals and
+humans. Consequently, human cryptosporidiosis was usually considered a
+typical zoonosis. In fact, on the basis of
+isoenzymatic and molecular studies, two
+genotypes (1 and 2) were revealed in
+the species C. parvum. Genotype 1 was
+found only in humans, whereas the
+genotype 2 was found in both infected
+humans and livestock. Moreover, crossinfection studies have shown that the
+bovine genotype infects readily mice
+and cattle, while the human genotype
+does not.207,208,209 Multilocus analysis
+indicated that the two genotypes are
+genetically isolated.210,211 These results
+suggest the existence of two C. parvum
+separate transmission cycles: one that
+may occur in humans or animals, and
+other that exclusively passes through
+humans. However, subsequent studies
+are revealing a situation that is still more
+complex. Thus, in addition to the two
+major bovine and human genotypes,
+six other genotypes were identified in
+C. parvum isolates from domestic or
+wild mammals (dog, mouse, pig, ferret,
+marsupial, and monkey). Furthermore,
+
+385
+
+
+
+5.
+
+the species C. meleagridis (from birds),
+C. felis, and C. muris have been identified in human patients from the New or
+the Old World.212 Indeed, as only molecular methods allow species or genotype identification of human, animal,
+or environmental Cryptosporidium isolates,213 new Cryptosporidium taxonomy and cryptosporidiosis transmission patterns are being defined on
+molecular bases.
+In immunocompromised persons, particularly AIDS patients, symptoms of
+illness are of a greater severity than in
+immunocompetent people, which may
+result in death of the former.185,183 Most
+waterborne cryptosporidiosis outbreaks
+have substantiated the more fulminant
+reaction in AIDS patients. Among the
+69 deaths in the Milwaukee outbreak
+the majority of victims were AIDS patients.191
+
+B. Cyclospora, Isospora,
+Microsporidia
+In addition to Giardia and Cryptosporidium,
+Apicomplexa protozoa like Cyclospora, Isospora, and many Microsporidian species are
+emerging as opportunistic pathogens and may
+have waterborne routes of transmission. Overall, recently species have received attention because of their high infection rates in AIDS patients.186,188,214,215
+Before 1995, the parasite C. cayetanensis
+was primarily described in gastroenteritis
+among children living in poor sanitary conditions and in travelers who had visited developing countries. Several outbreaks of
+Cyclospora infection (or isolated cases) have
+linked to waterborne transmission216,217,218
+but in only one case216 were Cyclospora
+oocysts demonstrated in drinking water. In
+1996, the largest ever reported outbreak of
+cyclosporiasis, affecting more than 1400
+
+386
+
+persons in North America219 was associated
+with eating fresh raspberries from Guatemala. Most likely, fecal-polluted water, used
+for spraying biocides on fruit, was the indirect source. Notwithstanding technologic
+limitations, Cyclospora have been recovered
+in limited numbers from water sources and
+vegetables.188,191
+Unlike Cryptosporidium, which has
+many known animal hosts,220 Cyclosporalike organisms have been recovered from
+ducks, chickens, dogs, and primates,187 perhaps having been passed through these hosts.
+The Apicomplexa Isospora belli is among
+the protozoa that most commonly causes
+gastroenteritis in immunocompromised hosts,
+such as patients with AIDS.221 The waterborne transmission of this parasite is possible and some epidemiological data suggest
+this route.6
+Microsporidia protists are obligate, intracellular, spore-forming protozoan parasites. Their host range is extensive and includes most invertebrates and all classes of
+vertebrates. Five microsporidian genera have
+been associated with human disease primarily in immunocompromised persons. They
+are the following Enterocytozoon, Encephalitozoon, Trachipleistophora, Vittaformae,
+and Nosema. Enterocytozoon bienensi, and
+E. intestinalis are the most prevalent
+Microsporidian parasite that cause gastrointestinal infection in AIDS patients;222,223
+Microsporidia could also be a possible cause
+of traveler’s diarrhea.224 Microsporidia may
+disseminate to cause systemic infection as
+well as ocular infection affecting cornea,
+conjonctiva, liver, and biliary tract infection.
+They have been recognized as a group of
+pathogens that have potential for waterborne
+transmission,14,225 and recently an evaluation
+of methodologies was developed for the
+detection of human pathogenic Microsporidia
+in water.226 However, the study by Fournier
+et al.227 shows a low rate of water contamination by E. bienensi, suggesting that the
+
+
+
+risk of waterborne transmission to humans is
+limited.
+
+1.
+
+VIII. VIRAL PATHOGENS
+The modern era in environmental virology is characterized by the recognition of
+hepatitis E virus (HEV) and the more recently
+identified enteric virus capable of producing
+waterborne outbreaks.228,229,230,231,232 More than
+15 different groups of viruses, encompassing
+more than 140 distinct types, can be found in
+the human gut. They are excreted by patients
+and find their way into sewage.
+These viruses can be divided into three
+categories with respect to their epidemiological significance (Table 2).
+
+2.
+
+3.
+
+Some are either nonenteropathogenic,
+or cause illness unrelated with the gut
+epithelium; these include poliovirus,
+coxsackieviruses A and B, echovirus,
+hepatitis A and E viruses, and some
+other human enteroviruses.
+A relatively small group of viruses has
+been incriminated as the causes of acute
+gastroenteritis in humans, and fewer
+still have been proven to be true etiologic agents; they include Norwalk virus and other caliciviruses, rotaviruses,
+astroviruses, and some enteric adenoviruses.
+A third category encompasses putative
+enteropathogens, such as coronavirus,
+enterovirus, torovirus, parvovirus, and
+reovirus, for which a causal relationship
+is still unproven.228
+
+TABLE 2
+Human Viral Pathogens or Putative Pathogens That Can Be
+Transmitted by Fecally Polluted Water
+
+387
+
+
+
+The occurrence of a virus in a fecal specimen from a patient with gastroenteritis does
+not prove that the virus is indeed the causative agent of diarrhea. The first step in an
+attempted confirmation procedure relies on
+establishing the identity of the virus by molecular biology (PCR), immunological assessment, or after it has grown in culture.
+The second step in demonstrating causality
+is based largely on guidelines developed from
+epidemiological knowledge over the years.233
+
+reported occurred in Kasspur, India, with an
+estimated total of over 79,000 cases of disease.237 Another waterborne outbreak occurred in Delhi in 1955 to 1956 affected
+approximately 29,300 persons.238 Such largescale hepatitis epidemics are invariably
+waterborne and caused by HEV.239,240 Recent evidence indicates that HEV might also
+be prevalent at a low level in Europe.241
+
+B. Viral Gastroenteritis
+A. Hepatitis
+Hepatitis A virus (HAV) and Hepatitis E
+virus (HEV) are associated with epidemics
+and sporadic cases of hepatitis; they are transmitted by the fecal-oral route, and therefore
+sewage polluted water may constitute a
+source.17
+The most established virus group associated with waterborne outbreaks is hepatitis
+A virus. It results in widespread epidemics
+and constitutes an important cause of asymptomatic infections in young children.
+Mosley234 has summarized reports of 50
+outbreaks from 1895 to 1964. Twenty-nine
+of them show features supporting transmission by water. The highest incidence of
+waterborne infectious hepatitis in the U.S.
+has been in 1950 to 1960s and 1961 to 1970s
+with, respectively, 18 outbreaks (757 cases
+of illness) and 29 outbreaks (896 cases of
+illness). It has declined since 1971 with 16
+outbreaks in 1971 to 1980 and 11 outbreaks
+in 1981 to 1990.2,8 Since 1991, only two
+outbreaks caused by hepatitis virus A were
+reported.235,236
+Hepatitis E is much less widespread and
+mostly confined to tropical and subtropical
+areas. Infection can be more severe than
+hepatitis A, with a high incidence of
+cholestasis and increased mortality in pregnant women (20%). In 1991, the largest
+waterborne outbreak of viral hepatitis E yet
+
+388
+
+The recognized viral agents of gastroenteritis include rotavirus, calicivirus, astrovirus,
+and some enteric adenovirus. Rotaviruses are
+classified by antigenic groups A, B, and C,
+subgroup, and serotype. Group A rotaviruses
+are the most common cause of diarrhea disease in infants and young children. Group C
+rotaviruses, like group A strains, principally
+cause diarrhea in young children, age 4 months
+to 4 years. In contrast to other human
+rotaviruses, group B rotaviruses are responsible predominantly for adult diarrheal disease, therefore designated as adult diarrhea
+rotavirus or ADVR.
+The most notorious of caliciviruses that
+have been identified as a cause of gastroenteritis was the agent termed Norwalk virus. This
+originated from an outbreak of epidemic gastroenteritis in an elementary school in Norwalk,
+Ohio, in 1968. Many other related viruses were
+later classified by IEM as small round structured viruses (SRSV). These induded the Hawaii, Snow Mountain, Montgomery Country,
+Taunton, Otofuke, Sapporo, and the Osaka
+agents. Most of these have been identified as
+calicivirus, like over 50 other SRSVs. The
+family Caliciviridae includes the following four
+genera: vesivirus, lagovirus, Norwalk-like viruses (NLV), and Sapporo-like viruses
+(SLV).242 Viruses in the NLV and SLV genera
+have been found only in humans, but recent
+data suggest that calves and pigs may be reservoir hosts of NLVs.232 Genetically, the human
+
+
+
+caliciviruses (Hu CVs) contains at least three
+genetic clusters or genogroups (GC), that is,
+GGI, GGII NLV, and GGIII SLV.243 However, recently accumulated sequences of HuCV
+strains indicate these genogroups can be further divided.244,245,246,247,248
+Some SRSVs from infant stools with diarrhea were named astrovirus for the characteristic five- or six-pointed star configuration
+that was evident on the surface of the viral
+particles. To date, seven serotypes of human
+astroviruses (HAstV) have been identified by
+enzyme immuno-assays immunoelectron microscopy or reverse transcriptase-polymerase
+chain reaction (RT-PCR).249,250 Phylogenetic
+analysis identified two genogroups A and B
+correlated with serotypes.251
+There are currently 47 serotypes of human adenoviruses, subdivided into six subgroups A through F. Many types of
+adenoviruses have been isolated from stools,
+but only types 40 and 41 have been consistently associated with gastroenteritis.252 The
+two serotypes from the F subgroup are colloquially referred to enteric adenoviruses
+(EAd).
+Rotaviruses are one of the most important causes of infantile gastroenteritis in the
+world. If untreated, rotavirosis can result in
+severe dehydration and death, especially in
+developing countries. Calicivirus and
+astrovirus gastroenteritis are generally mild,
+typically explosive but self-limited, with
+symptoms lasting from 1 to 4 days after a
+mean incubation time of 2 days. The clinical
+picture of adenovirus gastroenteritis is similar to that of rotavirosis, but the incubation
+period lasts 8 to 10 days.
+In American statistics viral enteritis outbreaks of drinking water occur infrequently:
+10 between 1971 and 1980, 15 between 1981
+and 1990, 1 from 1991 to 1996. Because of
+their low incidence they have not been included in Figure 2. However, it is more than
+likely that a marked fraction of gastroenteritis
+of unidentified origin (AGI) is indeed associ-
+
+ated with a viral aetiology (Section II). In
+recent years, the predominant part of SRSVs,
+especially NLVs, was revealed in several
+waterborne outbreak reports.253,254,255,256 Epidemiological studies of seroprevalence confirm that a large number of infections owing
+to Norwalk viruses occur throughout the
+year.257 Data from Lodder et al.229 suggest
+that NLVs may exceed rotaviruses in importance as a cause of illness in the Netherlands.
+The sensitive new molecular techniques based
+on the reverse transcriptase-polymerase chain
+reaction (RT-PCR) available now have made
+it possible to detect low levels of a wide
+variety of enteric viruses. The results obtained154,231,258 also support epidemiological
+data that suggests low-level transmission of
+viruses by drinking water supplies.
+
+C. Other Candidate Viruses
+A relatively small group of viruses
+has been incriminated as the causes of
+acute gastroenteritis in humans, but while
+most of them could be identified in fecal
+specimens from patients with diarrhea,
+not all were necessarily the etiologic
+agent. Coronaviruses have been associated to humans gastroenteritis259 to neonatal necrotising entero-colitis260 and were
+found regularly in the feces of patients
+with nonbacterial gastroenteritis. 261 Despite 2 decades of research to assess their
+causality, the results so far have been
+inconclusive. Other viruses such as
+picobirnaviruses, toroviruses, enteroviruses, reoviruses, and parvoviruses were
+also identified in fecal specimens from
+children and adults with gastroenteritis,
+and HIV-infected patients. 233,249,261,262
+However, their role as an etiologic agent
+of diarrhea in the human population remains to be determined because many are
+also found in healthy controls. More recently, immune response has been intro-
+
+389
+
+
+
+duced as a parameter in such investigations. 233
+5.
+D. Factors Affecting Viral Infections
+Certain characteristics of enteric viruses
+point to their potentially important role in
+waterborne outbreaks.
+1.
+
+2.
+
+3.
+
+4.
+
+390
+
+More than 140 types of human or animal enteric viruses can be found in sewage (Table 2). Some of them have
+proven enteropathogenicity, other just
+being putative enteropathogens in humans.233 Most of the novel viral agents
+(caliciviruses, astroviruses) found in
+human diarrhea specimens are known
+to cause gastroenteritis in different animal species.
+Viruses, found in the feces of symptomatic or asymptomatic hosts attain
+numbers up to 1010 infectious doses per
+gram, excreted for 1 to 4 weeks. The
+number of viruses currently detectable
+in raw sewage can reach 102 to 103
+infectious units per liter.
+The wide distribution of enteric viruses
+is demonstrated by sero-epidemiological surveys of North American populations: most of the adults testing positive.257
+Many methods have been applied for
+eliminating viruses from water; all
+marred by the small size (20 to 100
+nm), multiplicity of the virions, their
+resistance being much higher than that
+of bacteria, and various analytical shortcomings, such as the variation in microbial load of raw water, seasonal effects, and no random dispersion of
+pathogens within large volumes. After
+drinking water treatments, viruses are
+still occasionally detectable.263 The
+main limitation of water treatments is
+that they may promote further cluster-
+
+6.
+
+ing of pathogens, exposing some water-drinking consumers to much higher
+doses than others.
+The number of viruses required to initiate infection can be estimated in animal models or human volunteers. Under appropriate conditions, as little as
+one infectious particle of rotavirus can
+trigger disease in animal264 or human
+models.265 From studies in volunteers
+with Norwalk and related viruses,266,267
+astroviruses,268 enteroviruses,265 it appears that the number of virions needed
+to infect man or animals is low in terms
+of infectious units: Payment269 rightly
+stated, “The cell culture infectious unit
+is only a fraction of the real number of
+infectious viruses”. For rotaviruses, the
+proportion of culturable among electron microscopically detectable viruses
+can be as high as 1:1000 or more.270 In
+the most enteropathogenic bacteria the
+ID50 are generally high, on the order of
+106 to 108 except some species (cf. Section II).
+In some waterborne outbreaks of gastroenteritis, viruses were isolated from
+water that met current bacteriological
+standards and contained an adequate
+chlorine level.2,269,271,272,273 The isolation
+of viruses from samples of “bacteriologically safe” potable water indicates
+that bacteriological indicators are inadequate to monitor the occurrence of
+viruses in water.
+
+IX. GASTROENTERITIS OF
+UNDETERMINED ETIOLOGY
+In the majority of outbreaks of acute
+gastroenteritis related in the U.S., the etiology could not be determined. Between 1940
+to 1950, 213 outbreaks were recorded and
+177 in 1970 to 1980. Because waterborne
+outbreak reporting system is voluntary, the
+
+
+
+differences observed in the frequency of their
+occurrence might be largely attributed to poor
+recording by State and Local Health Departments.2 Although, in principle, many incidents could have a bacterial or protozoan
+etiology, many of these outbreaks could be
+of viral origin.
+A bacterial cause is relatively easy to
+identify, while filtration and disinfecting
+procedures effectively eliminate these agents.
+Also, some outbreaks were clinically and
+epidemiologically consistent with Norwalklike virus infection.9 Finally, the detection of
+enteric viral pathogens was impossible at
+that time. Even in 1970 to 1980 Giardia and
+Cryptosporidium were only rarely recognized
+as etiologic agents.
+
+X. ENDEMIC GASTROENTERITIS
+A few studies carried out in Canada and
+later in France seem to point at endemic
+infections associated with drinking water
+complying with bacteriological standards.
+Payment et al.274,275 in Montreal, followed a
+randomized trial design in order to quantify
+the health hazard, which remains after a standard, well-conducted treatment of bacteriologically contaminated surface water has
+been completed. This study showed that
+municipal tap water drinkers had a significantly higher rate of acute gastrointestinal
+illnesses (35%) than those provided with a
+domestic water filter, despite that the treatment used in the community water system
+included predisinfecting, flocculation, sand
+filtration, ozonation, and final chlorine or
+chlorine dioxide disinfecting procedures
+meeting the North American microbiological and physicochemical water quality standards. Payment et al.276 suggest that heterotrophic, potentially pathogenic agents, for
+example, Bacillus spp., could be responsible
+for these incidents. This assumption has never
+been confirmed, however, while this dispro-
+
+portionately high percentage of Bacillus in
+the studied water supplies has not been found
+by other authors.277
+In order to assess the residual health risk
+after mere disinfecting of piped water processed from ground water, an epidemiological study was conducted in France by Zmirou
+et al.278 The crude incidence rate of diarrhea
+was 1.4 times more frequent among children
+drinking treated water than among controls.
+The morbidity observed in this study comprises small sporadic outbreaks, along with
+an endemic occurrence of acute gastrointestinal infection. Even when days with ‘epidemics’ were excluded from the analysis,
+the routine occurrence of acute gastroenteritis events is still greater in relying on water,
+suggesting that microbiological contamination is continuous.
+In Vermont, where giardiasis was the
+most common disease with annual incidence
+rates higher than other states, waterborne
+transmission was suggested to be an important cause of non-outbreak related cases;
+indeed, rates of infection were highest in
+persons that drank nonfiltered city water.279
+These observations have been confirmed by
+Fraser and Cook280 in New Zealand and by
+Dennis et al.281 in New Hampshire, where
+drinking untreated surface water and recreational water exposure were strongly associated with endemic giardiasis.
+Cryptosporidium spp. probably present
+enhanced endemic risks compared with Giardia spp., because of their more frequent
+occurrence in surface water and higher resistance to water purification technology, including filtration. Perz et al.185 used a risk
+assessment model to examine the potential
+role of tap water in endemic infections with
+Cryptosporidium spp. In comparing the
+model output with surveillance data for
+cryptosporidiosis, the analysis showed that
+low-level transmission via tap water can represent an important exposure route for endemic Cryptosporidium infection.
+
+391
+
+
+
+Endemic transmission of protozoan infections results from the low infectious dose
+of these organisms for man, and their heterogeneous distribution in clusters in treated
+waters. Similarly, enteric viruses might be
+involved in outbreaks of endemic waterborne
+gastroenteritis. On the other hand, a similar
+role for bacterial enteropathogens seems less
+likely because their infectious dose is usually higher and their resistance to water purification treatments lower.
+These data demonstrate that management
+of endemic transmission of waterborne infections call for many supplemental epidemiological and analytical data. Such information has to be provided by prospective
+studies on populations that have been exposed to different levels of pathogens, including control subjects. The outcome of
+such investigations may well call for improvements in customarily applied water
+purification treatments aiming at an unconditionally safe drinking water supply.
+
+XI. TAKING INTO ACCOUNT
+EXPOSURE OF
+IMMUNOCOMPROMISED SUBJECTS
+In all waterborne cryptosporidiosis outbreaks
+it has been observed that immunocompromised
+persons, such as AIDS patients, are at greater
+risk than immunocompetent persons for developing severe illness, and for a potential lethal
+outcome. In the Milwaukee epidemic,192 at least
+69 fatalities were recorded amongst immunocompromised patients. In the outbreak that occurred in 1994 in Clark County (Nevada),193,282
+63 of the 78 laboratory confirmed cases were in
+HIV-infected adults, among whom 32 died.
+Thus, current data indicate that during waterborne outbreaks immunocompromised persons,
+such as AIDS patients, can acquire cryptosporidiosis more likely than immunocompetent
+persons, while illness is more severe and life
+threatening.
+
+392
+
+Not surprisingly, more recently reported
+cases of cyclosporiasis, and diarrhea with Isospora or Microsporidia in stools include
+overrepresentation of immunocompromised
+patients with AIDS.184 This follows the pattern
+of substantially enhanced risks for the classic
+group of debilitated subjects: the very young,
+old, pregnant, and immunocompromised
+(YOPI) category.200 It is striking that YOPIs
+seem to incur more risks, particularly from
+exposure to protozoa, more specifically
+Cryptosporidium spp. than from other pathogens. This prompted Public Health Authorities
+to launch an information campaign targeted at
+YOPIs recommending to take specific measures aiming at reducing the risk for waterborne cryptosporidiosis, including boiling water before use, using water filters, or bottled
+water and avoiding swimming in lakes, rivers,
+or public swimming pools. This does not exempt these authorities, however, from the obligation to manage health risks associated with
+low-level oocyst contamination of fully treated
+drinking water. Such efforts should be guided
+by surveillance systems and by epidemiologic
+studies designed for assessing the public health
+significance of low levels of Cryptosporidium
+oocysts.
+
+SUMMARY
+Many classes of pathogens excreted in
+feces are able to initiate waterborne infections. There are bacterial pathogens, including enteric and aquatic bacteria, enteric viruses, and enteric protozoa, which are
+strongly resistant in the water environment
+and to most disinfectants. The infection dose
+of viral and protozoan agents is lower than
+bacteria, in the range of one to ten infectious
+units or oocysts.
+Waterborne outbreaks of bacterial origin
+(particularly typhoid fever) in the developing countries have declined dramatically from
+1900s. Therefore, some early bacterial agents
+
+
+
+such as Shigella sonnei remains prevalent
+and new pathogens of fecal origin such as
+zoonotic C. jejuni and E. coli O157:H7 may
+contaminate pristine waters through wildlife
+or domestic animal feces. The common feature of these bacteria is the low inoculum (a
+few hundred cells) that may trigger disease.
+The emergence in early 1992 of serotype
+O139 of V. cholerae with epidemic potential
+in Southeast Asia suggests that other serotypes than V. cholerae O1 could also getting
+on epidemic.
+Some new pathogens include environmental bacteria that are capable of surviving
+and proliferating in water distribution systems. Other than specific hosts at risk, the
+general population is refractory to infection
+with ingested P. aeruginosa. The significance of Aeromonas spp. in drinking water
+to the occurrence of acute gastroenteritis
+remains a debatable point and has to be evaluated in further epidemiological studies.
+Legionella and Mycobacterium avium complex (MAC) are environmental pathogens
+that have found an ecologic niche in drinking and hot water supplies. Numerous studies have reported Legionnaires’ disease
+caused by L. pneumophila occurring in residential and hospital water supplies. M. avium
+complex frequently causes disseminated infections in AIDS patients and drinking water
+has been suggested as a source of infection;
+in some cases the relationship has been
+proven.
+More and more numerous reports show
+that Helicobacter pylori DNA can be amplified from feces samples of infected patients,
+which strongly suggests fecal-to-oral transmission. Therefore, it is possible that H. pylori infection is waterborne, but these assumptions need to be substantiated.
+Giardiasis has become the most common cause of human waterborne disease in
+the U.S. over the last 30 years. However, as
+a result of the massive outbreak of waterborne cryptosporidiosis in Milwaukee, Wis-
+
+consin, affecting an estimated 403,000 persons, there is increasing interest in the epidemiology and prevention of new infection
+disease caused by Cryptosporidium spp. as
+well as monitoring water quality. The transmission of Cryptosporidium and Giardia
+through treated water supplies that meet water
+quality standards demonstrates that water
+treatment technologies have become inadequate, and that a negative coliform no longer
+guarantees that water is free from all pathogens, especially from protozoan agents. Substantial concern persists that low levels of
+pathogen occurrence may be responsible for
+the endemic transmission of enteric disease.
+In addition to Giardia and Cryptosporidium,
+some species of genera Cyclospora, Isospora, and of family Microsporidia are emerging as opportunistic pathogens and may have
+waterborne routes of transmission.
+More than 15 different groups of viruses,
+encompassing more than 140 distinct types
+can be found in the human gut. Some cause
+illness unrelated with the gut epithelium, such
+as Hepatitis A virus (HAV) and Hepatitis E
+virus (HEV). Numerous large outbreaks have
+been documented in the U.S. between 1950
+and 1970, and the incidence rate has strongly
+declined in developing countries since the
+1970s. Hepatitis E is mostly confined to tropical and subtropical areas, but recent reports
+indicate that it can occur at a low level in
+Europe. A relatively small group of viruses
+have been incriminated as causes of acute
+gastroenteritis in humans and fewer have
+proven to be true etiologic agents, including
+rotavirus, calicivirus, astrovirus, and some
+enteric adenovirus. These enteric viruses have
+infrequently been identified as the etiologic
+agents of waterborne disease outbreaks, because of inadequate diagnostic technology,
+but many outbreaks of unknown etiology
+currently reported are likely due to viral agents.
+Actually, Norwalk virus and Norwalk-like
+viruses are recognized as the major causes of
+waterborne illnesses world-wide.
+
+393
+
+
+
+The global burden of infectious waterborne disease is considerable. Reported numbers highly underestimate the real incidence
+of waterborne diseases. The most striking
+concern is that enteric viruses such as
+caliciviruses and some protozoan agents, such
+as Cryptosporidium, are the best candidates
+to reach the highest levels of endemic
+transmission, because they are ubiquitous in
+water intended for drinking, being highly
+resistant to relevant environmental factors,
+including chemical disinfecting procedures.
+Other concluding concerns are the enhanced
+risks for the classic group of debilitated subjects (very young, old, pregnant, and
+immunocompromised individuals) and the
+basic requirement of to take specific measures aimed at reducing the risk of waterborne infection diseases in this growing,
+weaker population.
+
+REFERENCES
+1. Bradley, D.J. (1977) Improvements of rural
+domestic water supplies. Proceedings of the
+Royal Society of London Series B 199, 37–47.
+2. Craun, G.F. (1986) Waterborne Diseases in
+the United States. CRC Press, Boca Raton,
+Florida.
+3. Moe, C.L. (1997) Waterborne transmission
+of infectious agents. In: Manual of Environmental Microbiology. Hurst, C.J., Knudsen,
+G.R., McInerney, M.J., Stetzenbach, L.D., and
+Walter, M.V., Eds. pp. 136–153. Washington: ASM Press.
+4. Okhuysen, P.C., Chappell, C.L., Crabb, J.H.,
+Sterling, C.R., and DuPont, H.L. (1999) Virulence of three distinct Cryptosporidium
+parvum isolates for healthy adults. Journal of
+Infectious Diseases 180, 1275–1281.
+5. WHO. World Health Report. 1998. Conquering suffering-enriching humanity. Geneva:
+World Health Organization.
+6. Ford, T.E. 1999. Microbiological safety of
+drinking water: United States and global per-
+
+394
+
+spectives. Environmental Health Perspectives
+107, 191.
+7. Craun, G.F. (1990) Methods for the investigation and prevention of waterborne disease
+outbreaks. Cincinnati: Environmental Protection Agency.
+8. Craun, G.F. (1992) Waterborne disease outbreaks in the United States of America: causes
+and prevention. Rapport trimestriel de
+statistiques sanitaires mondiales 45, 192.
+9. Kaplan, J.E., Gary, G.W., Baron, R.C., Singh,
+N., Schonberger, L.B., Feldman, R. and
+Greenberg, H.B. (1982) Epidemiology of
+Norwalk gastroenteritis and the role of
+Norwalk virus in outbreaks of acute nonbacterial gastroenteritis. Annals of Internal Medicine 96, 756.
+10. Anon. (1999) Waterborne pathogens. AWWA
+Manual of water practices, M48. American
+Water Works Association, Denver, Colorado.
+11. LeChevallier, M.W., Abbaszadegan, M.,
+Camper, A.K., Hurst,C.J., Izaguirre, G.,
+Marshall, M.M., Naumovitz, D., Payment, P.,
+Rice,E.W., Rose, J., Schaub, S., Slifko, T.R.,
+Smith, D.B., Smith, H.V., Sterling, C.R. and
+Stewardt, M. (1999) Committee report:
+Emerging pathogens - viruses, protozoa, and
+algal toxins. Journal of the American Water
+Works Association 91, 110–121.
+12. LeChevallier, M.W., Abbaszadegan, M.,
+Camper, A.K., Hurst,C.J., Izaguirre, G.,
+Marshall, M.M., Naumovitz, D., Payment, P.,
+Rice,E.W., Rose, J., Schaub, S., Slifko, T.R.,
+Smith, D.B., Smith, H.V., Sterling, C.R., and
+Stewardt, M. (1999) Committee report:
+Emerging pathogens - bacteria. Journal of the
+American Water Works Association 91, 101–
+109.
+13. LeChevallier, M.W., Abbazaszadegan, M.,
+Camper, A.K., Izaguire, G., Stewart, M.,
+Naumovitz, D., Marshall, M., Sterling, C.R.,
+Payment, P., Rice, E.W., Hurst, C.J., Schaub,
+S. Slifko, T.R., Rose, J.B., Smith, H.V. and
+Smith, D.B. (1999) Emerging pathogens:
+names to know and bugs to watch out for. In:
+Identifying future drinking water contaminants. pp. 139–172. Washington DC: National
+Research Council.
+
+
+
+14. Szewzyk, U., Szewzyk, R., Manz, W., and
+Schleifer, K. (2000) Microbiological safety
+of drinking water. Annual Review of Microbiology 54, 81–127.
+15. Galbraith, N.S. (1994) A historical review of
+microbial disease spread by water in England
+and Wales. In Water and Public Health. Noah,
+N., Stanwell-Smith, R., Eds., pp. 15–37. London: Smith-Gordon & Co. Golding AMB.
+16. Stenström, T.A. (1994) A review of waterborne
+outbreaks of gastroenteritis in Scandinavia. In
+Water and Public Health. Noah, N. and Stanwell
+Smith, Rds., R. pp. 137–143. London: Smith
+Gordon & Co. Golding AMB.
+17. Hunter, P.R. (1997) Waterborne disease.
+Epidemiology and Ecology. Chichester: John
+Wiley & Sons. 372 p.
+18. Morris, R.D. and Levin, R. (1995) Estimating
+the incidence of waterborne infectious disease
+related to drinking water in the United States.
+In Assessing and managing health risks from
+drinking water contamination: approaches and
+applications. Reichard, E.G. and Zapponi, G.A.,
+Eds., pp. 75–88. Wallingford, UK: International Association of Hydrological Sciences.
+19. Furtado, C., Adak, G.K., Stuart, J.M., Wall,
+P.G., Evans, H.S., and Casemore, D.P. (1998)
+Outbreaks of waterborne infectious intestinal
+disease in England and Wales, 1992–5. Epidemiology and Infection 121, 109–119.
+20. Melby, K., Gondrosen, B., Gregusson, S.,
+Ribe, H., and Dahl, O.P. (1991) Waterborne
+campylobacteriosis in northern Norway. International Journal of Food Microbiology 12,
+151–156.
+21. Rautelin, H. and Hanninen, M.L. (2000)
+Campylobacters: the most common bacterial
+enteropathogens in the Nordic countries. Annals of Medicine 32, 440–445.
+22. Rautelin, H., Koota, K., von Essen, R.,
+Jahkola, M., Siitonen, A., and Kosunen, T.U.
+(1990) Waterborne Campylobacter jejuni
+epidemic in a Finnish hospital for rheumatic
+diseases. Scandinavian Journal of Infectious
+Diseases 22, 321–326.
+23. Alary, M. and Nadeau, D. (1990) An outbreak of Campylobacter enteritis associated
+
+with a community water supply. Canadian
+Journal of Public Health 81, 268–271.
+24. Millson, M., Bokhout, M., Carlson, J.,
+Spielberg, L., Aldis, R., Borczyk, A., and
+Lior, H. (1991) An outbreak of Campylobacter
+jejuni gastroenteritis linked to meltwater contamination of a municipal well. Canadian
+Journal of Public Health 82, 27–31.
+25. Stehr-Green, J.K., Nicholls, C., McEwan, S.,
+Payne, A., and Mitchell, P. (1991) Waterborne outbreak of Campylobacter jejuni in
+Christchurch: the importance of a combined
+epidemiologic and microbiologic investigation. New Zealand Medical Journal 104, 356–
+358.
+26. Tauxe, R.V., Hargrett-Bean,N., Patton, C.M.,
+and Wachsmuth, I.K. (1988) Campylobacter
+isolates in the United States, 1982–1986.
+Morbidity and Mortality Weekly Report 37,
+1–13.
+27. Taylor, D.N., McDermott ,K.T., Little, J.R., Wells,
+J.G., and Blaser, M.J. (1983) Campylobacter
+enteritis from untreated water in the Rocky Mountains. Annals of Internal Medicine 99, 38–40.
+28. Brennhovd, O., Kapperud, G., and Langeland, G.
+(1992) Survey of thermotolerant Campylobacter
+spp. and Yersinia spp. in three surface water
+sources in Norway. International Journal of Food
+Microbiology. 15, 327–338.
+29. Popowski, J., Lekowska-Kochaniak, A., and
+Korsak, D. (1997) The incidence of heat tolerant Campylobacter in rivers and lakes of
+the Warsaw region. Roczniki Panstwowego
+Zakladu Higiene 48, 253–262.
+30. Obiri-Danso, K. and Jones, K. (1999) Distribution and seasonality of microbial indicators
+and thermophilic campylobacters in two freshwater bathing sites on the River Lune in northwest England. Journal of Applied Microbiology 87, 822–832.
+31. Megraud, F. and Serceau, R. (1990) Search
+for Campylobacter species in the public water supply of a large urban community.
+Zentralblatt fur Hygiene und Umweltmedizin
+189, 536–542.
+32. Stanley, K., Cunningham, R., and Jones, K.
+(1998) Isolation of Campylobacter jejuni from
+
+395
+
+
+
+groundwater. Journal of Applied Microbiology 85, 187–191.
+33. Buswell, C.M., Herlihy, Y.M. Lawrence L.M.,
+McGuiggan, J.T., Marsh, P.D., Keevil, C.W.,
+and Leach, S.A. (1998) Extended survival and
+persistence of Campylobacter spp. in water and
+aquatic biofilms and their detection by immunofluorescent-antibody and –rRNA staining. Applied
+and Environmental Microbiology 64, 733–741.
+34. Thomas, C., Hill, D.J., and Mabey, M. (1999)
+Evaluation of the effect of temperature and
+nutrients on the survival of Campylobacter
+spp. in water microcosms. Journal of Applied
+Microbiology 86, 1024–1032.
+35. Rollins, D.M. and Colwell, R.R. (1986) Viable but nonculturable stage of Campylobacter
+jejuni and its role in survival in natural, aquatic
+environment. Applied and Environmental
+Microbiology 58, 531–538.
+36. Jones, D.M., Sutcliffe, E.M., and Curry, A.
+(1991) Recovery of viable but non-culturable
+Campylobacter jejuni. Journal of General
+Microbiology137, 2477–2482.
+37. Medema, G.J., Schets, F.M., van de Giessen,
+A.W., and Havelaar, A.H. (1992) Lack of
+colonization of 1-day-old chicks by viable,
+non-culturable Campylobacter jejuni. Journal of Applied Bacteriology 72, 512–516.
+38. Cappelier, J.M., Minet, J., Magras, C.,
+Colwell, R.R., and Federighi, M. (1999) Recovery in embryonated eggs of viable but
+nonculturable Campylobacter jejuni cells and
+maintenance of ability to adhere to HeLa cells
+after resuscitation. Applied and Environmental Microbiology 65, 5154–5157.
+39. Talibart, R., Denis, M., Castillo, A., Cappelier,
+J.M., and Erme, G. (2000) Survival and recovery of viable but noncultivable forms of
+Campylobacter in aqueous microcosm. International Journal of Food Microbiology 55,
+263–267.
+40. Jacob, J., Woodward, D., Feuerpfeil, I., and
+Johnson, W.M. (1998) Isolation of Arcobacter
+butzleri in raw water and drinking water treatment plants in Germany. Zentralblatt fur
+Hygiene und Umweltmedizin 201, 189–198.
+41. Rice, E.W., Rodgers, M.R., Wesley, I.V.,
+Johnson, C.H., and Tanner, S.A. (1999)
+
+396
+
+Isolation of Arcobacter butzleri from ground
+water. Letters of Applied Microbiology 28, 31–
+35.
+42. Lerner, J., Brumberger, V., and Preac-Mursic,
+V. (1994) Severe diarrhea associated with
+Arcobacter butzleri. European Journal of
+Clinical Microbiology and Infectious Diseases
+13, 660–662.
+43. Riley, L.W., Remis, R.S., Helgerson, S.D.,
+McGee, H.B., Wells, J., Davis, B.R., Hebert,
+R.J., Olcott, E.S., Johnson, L.M., Hargrett,
+N.T., Blake, P.A., and Cohen, M.L. (1983)
+Hemorrhagic colitis associated with a rare
+Escherichia coli serotype. New England Journal of Medicine 308, 681–685.
+44. Chart, H. (2000) VTEC enteropathogenicity.
+Journal of Applied Microbiology. SS. 88, 12S23S.
+45. Rice, E.W., Johnson, C.H., Wild, D.K., and
+Reasoner, D.J. (1992) Survival of Escherichia coli O157:H7 in drinking water associated with a waterborne disease outbreak of
+hemorrhagic colitis. Letters of Applied Microbiology 15, 38–40.
+46. Wang, G., Doyle, M.P. (1998) Survival of
+enterohemorrhagic Escherichia coli O157:H7
+in water. Journal of Food Protection 61, 662–
+667.
+47. Swerdlow, D.L., Woodruff, B.A., Brady,
+R.C., Griffin, P.M., Tippen, S., Donnell,
+H.D.J, Geldreich, E., Payne, B.J., Meyer,
+A.J., Wells, J.G. et al. (1992) A waterborne
+outbreak in Missouri of Escherichia coli
+O157:H7 associated with bloody diarrhea
+and death. Annals of Internal Medicine 117,
+812–819.
+48. Chalmers, R.M., Aird, H., and Bolton, F.J.
+(2000) Waterborne Escherichia coli O157.
+Journal of Applied Microbiology Symposium
+Supplement 88, 124S–132S.
+49. DuPont, H.L., Levine, M.M., Hornick, R.B.,
+and Formal, S.B. (1989) Inoculum size in
+shigellosis and implications for expected mode
+of transmission. Journal of Infectious Diseases 159, 1126–1128.
+50. Robinson, D.A. 1981. Infective dose of
+Campylobacter jejuni in milk. British Medical Journal 282, 1584.
+
+
+
+51. Black, R.E., Levine, M.M., and Clements, M.L.
+et al. (1988) Experimental Campylobacter
+jejuni infection in humans. Journal of Infectious Diseases 157, 472–479.
+52. Griffin, P.M. and Tauxe, R.V. (1991) The
+epidemiology of infections caused by Escherichia coli O157:H7, other enterohemorrhagic
+E. coli, and the associated hemolytic uremic
+syndrome. Epidemiologic Reviews 13, 60–
+98.
+53. Schieman, D.A. (1990) Yersinia enterocolitica
+in drinking water. In Drinking water microbiology. McFeters, G.A., Ed., pp. 322–340. New
+York: Springer-Verlag.
+54. Eden, K.V., Rosenberg, M.L., Stoopler, M.,
+Wood, B.T., Highsmith, A.K., et al. (1977)
+Waterborne gastrointestinal illness at a ski
+resort. Public Health Reports 92, 245–250.
+55. Ostroff, S.M., Kapperud, G., Hutwagner, L.C.,
+Nesbakken, T., Bean, N.H. et al. (1994)
+Sources of sporadic Yersinia enterocolitica
+infections in Norway: a prospective case-control study. Epidemiology and Infection 112,
+133–141.
+56. Saebo, A., Kapperud, G., Lassen, J., and
+Waage, J. (1994) Prevalence of antibodies to
+Yersinia enterocolitica O:3 among Norwegian military recruits: association with risk
+factors and clinical manifestations. European
+Journal of Epidemiology 10, 749–755.
+57. Satterthwaite, P., Pritchard, K., Floyd, D.,
+and Law, B. (1999) A case-control study of
+Yersinia enterocolitica infections in Auckland.
+Australian and New Zealand Journal of Public Health 23, 482–485.
+58. Brenner, D.J. (1992) Introduction to the family Enterobacteriaceae. In The Prokaryotes.
+2nd ed. Vol III. 142. Balows, A., Trüper,
+H.G., Dworkin, M., Harder, W., and Schleifer,
+K.H., Eds., pp. 2673–2696.
+59. Kapperud, G. (1977) Yersinia enterocolitica
+and Yersinia-like microbes isolated from mammals and water in Norway and Denmark. Acta
+Pathologica et Microbiologica Scandinavica
+85, 129–135.
+60. Langeland, G. (1983) Yersinia enterocolitica
+and Yersinia enterocolitica-like bacteria in
+drinking-water and sewage sludge. Acta
+
+Pathologica et Microbiologica Scandinavica
+91, 179–185.
+61. Aleksic, S. and Bockem H.L.J. (1988) Serological and biochemical characteristics of 416
+Yersinia strains from well water and drinking-water plants in the Federal Republic of
+Germany: lack of evidence that these strains
+are of public health importance. Zentralblatt
+fur Bakteriologie, Mikrobiologie and Hygiene,
+Reihe B 185, 527–533.
+62. Chakraborty, S., Mukhopadhyay, A.K.,
+Bhadra, R.K., Ghosh, A.N., Mitra, R.,
+Shimada, T., Yamasaki, S., Faruque, S.M.,
+Takeda, Y., Colwell, R.R., and Nair, G.B.
+(2000) Virulence genes in environmental
+strains of Vibrio cholerae. Applied and Environmental Microbiology 66, 4022–4028.
+63. Faruque, S.M., Albert, M.J., and Mekalanos,
+J.J. (1998) Epidemiology, genetics, and ecology of toxigenic Vibrio cholerae. Microbiology and Molecular Biology Reviews 62,1301–
+1314.
+64. Basu, A., Garg, P., Datta, S., Chakraborty, S.,
+Bhattacharya, T., Khan, A., Ramamurthy, S.,
+Bhattacharya, S.K., Ymasaki, S., Takeda, Y.,
+and Nair, G.B. (2000) Vibrio cholerae O139 in
+Calcutta, 1992–1998: incidence, antibiograms
+and genotypes. Emergency Infectious Disease
+6, 139–147.
+65. Reeves, P.R. and Lan, R. (1998) Cholera in
+the 1990s. British Medical Bulletin 54, 611–
+623.
+66. Beltran, P., Delgado, G., Navarro, A., Trujillo,
+F., Selander, R.K., and Cravioto, A. (1999)
+Genetic diversity and population structure of
+Vibrio cholerae. Journal of Clinical Microbiology. 37, 581–590.
+67. Faruque, S.M., Saha, M.N., Asadulghani, Bag,
+P.K., Bhadra, R.K., Bhattacharya, S.K., Sacl,
+R.B., Takeda, Y., and Nair, G.B. (2000) Genomic diversity among Vibrio cholerae O139
+strains isolated in Bangladesh and India between 1992 and 1998. FEMS Microbiology
+Letters 184, 279–284.
+68. Jiang, S.C., Matte, M., Matte, G., Huq, A.,
+and Colwell, R.R. (2000) Genetic diversity of
+clinical and environmental isolates of Vibrio
+cholerae determined by amplified fragment
+length polymorphism fingerprinting. Applied
+
+397
+
+
+
+and Environmental Microbiology 66, 148–
+153.
+
+ments. Revista Panamericana de Salud Publica 1, 3–8.
+
+69. Craun, G.F., Swerdlow, D., Tauxe, R., Clark,
+R., Fox, K., Geldreich, E., Reasoner, D., and
+Rice, E. (1991) Prevention of waterborne
+cholera in the United States. Journal of the
+American Water Works Association 83, 40–
+47.
+
+78. Jesudason, M.V., Balaji, V., Mukindan, U.,
+and Thomson, C.J. (2000) Ecological study
+of Vibrio cholerae in Vellore. Epidemiology
+and Infection 124, 201–206.
+
+70. Onishchenko, G.G., Toporkov, V.P., Prometnoi,
+V.I., and Naumov, A.V. (1995) The cholera
+epidemic in mountainous regions of Dagestan
+in relation to the probable role of the water
+factor in its spread. Zhurnal Mikrobiologii,
+Epidemiologii i Immunobiologii 2, 64–69.
+71. Maggi, P., Carbonara, S., Fico, C., Santantonio,
+T., Romanelli, C., Sforza, E., and Pastore, G.
+(1997) Epidemiological, clinical and therapeutic evaluation of the Italian cholera epidemic in
+1994. European Journal of Epidemiology 13,
+95–97.
+72. Clark, C.G., Kravetz, A.N., Alekseenko, V.V.,
+Krendelev, Y., and Johnson, W.M. (1998)
+Microbiological and epidemiological investigation of cholera epidemic in Ukraine during
+1994 and 1995. Epidemiology and Infection
+121, 1–13.
+73. Cavalieri d’oro L. et al. (1999) Vibrio cholerae
+outbreak in Italy. Emerging Infectious Diseases 5, 300–301.
+74. Albert ,M.J., Neira, M., and Motarjemi, Y.
+(1997) The role of food in the epidemiology
+of cholera. World Health Statistics 50, 111–
+118.
+75. Franco, A.A., Fix, A.D., Prada, A., Paredes,
+E., Palomino, J.C., Wright, A.C., Johnson,
+J.A., McCarter, R., Guerra, H., and Morris,
+J.G. Jr. (1997) Cholera in Lima, Peru, correlates with prior isolation of Vibrio cholerae
+from the environment. American Journal of
+Epidemiology 146, 1067–1075.
+
+79. Uchiyama, H. (1998) A number of Vibrio
+cholerae non-O1 isolated from aquatic environments. Kansenshogaku Zasshi. 72, 720–
+726.
+80. Thomson, C.J., Jesudason, M.V., Balaji, V.,
+Malathi, B., Mukundan, U., and Amyes, S.G.
+(1998) The prevalence of Vibrio spp. in drinking water and environmental samples in
+Vellore South India. Epidemiology and Infection 121, 67–76.
+81. Stiles, M.E. (1989) Less recognized or presumptive foodborne pathogenic bacteria. In:
+Foodborne Bacterial Pathogens. Doyle, M.P.,
+Ed., pp. 673–733. New York: Marcel Dekker
+Inc.
+82. Leclerc, H. and Oger, C. (1974) Les eaux usées
+des hôpitaux et leur importance épidémiologique.
+Revue Epidémiologique de Médecine Sociale et
+Santé Publique 22, 185–198.
+83. Leclerc, H. and Oger, C. (1975) Les eaux
+usées des abattoirs et leur importance
+épidémiologique. Revue Epidémiologique de
+Médecine Sociale et Santé Publique 23, 429–
+444.
+84. Williams, E.P. and Cameron, B.A. (1897) Upon
+general infection by Bacillus pyocyaneus in
+children. Journal of Pathology and Bacteriology 3, 344–351.
+85. Hunter, C.A. and Ensign, P.R. (1947) An
+epidemic of diarrhea in a newborn nursery
+caused by Pseudomonas aeruginosa. American Journal of Public Health 37, 1166–1169.
+86. Florman, A.L. and Schifrin, N. (1950) Observations on a small outbreak of infantile diarrhea associated with Pseudomonas aeruginosa.
+Journal of Pediatrics 36, 758–766.
+
+76. Colwell, R.R. and Huq, A. (1994) Vibrios in the
+environment: viable but non-culturable Vibrio
+cholerae. In Vibrio cholerae and cholera: molecular to global perspectives. Wachsmuth,
+I.K., Blake, P.A., and Olsvik, O., Eds., pp.117–
+133. Washington, D.C.: ASM Press.
+
+87. Henderson, A., MacLaurin, J., and Scott, J.M.
+1969. Pseudomonas in a Glasgow baby unit.
+Lancet 1, 316–317.
+
+77. Borroto, R.J. (1997) Ecology of Vibrio
+cholerae serogroup O1 in aquatic environ-
+
+88. Dold, H. (1918) On pyocyaneus sepsis and
+intestinal infections in Shanghai due to Bacil-
+
+398
+
+
+
+lus pyocyaneus. Chinese Medical Journal 32,
+435.
+
+nus Aeromonas. Clinical Microbiology Reviews 4, 397–410.
+
+89. Hardalo, C. and Edberg, S.C. (1997) Pseudomonas aeruginosa: assessment of risk from
+drinking water. Critical Reviews in Microbiology 23, 47–75.
+
+98. Janda, J.M. and Abbott, S.L. (1998) Evolving
+concepts regarding the genus Aeromonas: an
+expanding panorama of species, disease presentations, and unanswered questions. Clinical Infectious Diseases 27, 332–344.
+
+90. Lepow, M.L. (1994) Pseudomonas aeruginosa
+colonization and infection of the gastrointestinal tract. In Pseudomonas aeruginosa infections and treatment. Baltch, A.L. and Smith,
+R.P. Eds., pp. 421–440. New York: Marcel
+Dekker.
+91. Buck, A.C. and Cook, E.M. (1969) The fate
+of ingested Pseudomonas aeruginosa in normal persons. Journal of Medical Microbiology 2, 521–525.
+92. Hoadley, A. (1977) Potential health hazards
+associated with Pseudomonas aeruginosa in
+water. In Bacterial indicators/Health hazards
+associated with water. Hoadley, A. and Dutka,
+B.J. Eds., pp. 80. Philadelphia: ASTM.
+93. Rusin, P.A., Rose, J.B., Haas, C.N., and Gerba,
+C.P. (1997) Risk assessment of opportunistic
+bacterial pathogens in drinking water. Reviews of Environmental Contamination and
+Toxicology 152, 57–83.
+94. Boukadida, J., de Montalembert, M., Gaillard,
+J.L., Gobin, J., Grimont, F., Girault, D., Véron,
+M., and Berche, P. (1991) Outbreak of gut
+colonization by Pseudomonas aeruginosa in
+immunocompromised children undergoing
+total digestive decontamination: analysis by
+pulsed-field electrophoresis. Journal of Clinical Microbiology 29, 2068–2071.
+95. Römling, U., Wingender, J., Müller, H., and
+Tümmler, B. (1994) A major Pseudomonas
+aeruginosa clone common to patients and
+aquatic habitats. Applied and Environmental
+Microbiology 60, 1734–1738.
+96. Foca, M., Jakob, K., Whittier, S., Della Latta,
+Ph.D., Factor, S., Rubenstein, D., and Saiman,
+L. (2000) Endemic Pseudomonas aeruginosa
+infection in a neonatal intensive care unit.
+New England Journal of Medicine 343, 695–
+700.
+97. Janda, J.M. (1991) Recent advances in the
+study of the taxonomy, pathogenicity, and
+infectious syndromes associated with the ge-
+
+99. Albert, M.J., Ansaruzzaman, M., Talukder,
+K.A., Chopra, A.K., Kuhn, I., Rahman, M.,
+Faruque, A.S., Islam, M.S., Sack, R.B., and
+Mollby, R. (2000) Prevalence of enterotoxin
+genes in aeromonas spp. isolated from children with diarrhea, healthy controls, and the
+environment. Journal of Clinical Microbiology 38, 3785–3790.
+100. Farmer, J.J., Arduino, M.J., and HickmanBrenner, F.W. (1992) The genera Aeromonas
+and Plesiomonas. In: The Prokaryotes. 2nd
+edition. Balows, A.,Trüper, G., Dworkin, M.,
+Harder, W. and Schleifer, K.H. Eds., New
+York: Springer-Verlag.
+101. Morgan, D.R., Johnson, P.C., Dupont, H.L.,
+Satterwhite, T.K., and Wood, L.V. (1985)
+Lack of correlation between known virulence
+properties of Aeromonas hydrophila and
+enteropathogenicity for humans. Infection and
+Immunity 50, 62–65.
+102. Hazen, T.C., Fliermans, C.B., Hirsch, R.P.,
+and Esch, G.W. (1978) Prevalence and distribution of Aeromonas hydrophila in the United
+States. Applied and Environmental Microbiology 36, 731–738.
+103. Schubert, R.H. (1991) Aeromonads and their
+significance as potential pathogens in water.
+Journal of Applied Bacteriology Symposium
+Supplement 70, 131S-135S.
+104. Kersters, I., Van Vooren, L., Huys G., Janssen,
+P., Kersters, K., and Verstraete, W. (1995)
+Influence of temperature and process technology on the occurrence of Aeromonas species and hygienic indicator organisms in drinking water production plants. Microbial
+Ecology 30, 203–218.
+105. Pettibone, G.W. (1998) Population dynamics of
+Aeromonas spp. in an urban river watershed.
+Journal of Applied Microbiology 85, 723–730.
+106. Seidler, R.J., Allen, D.A., Lockman, H.,
+Colwell, R.R., Joseph, S.W., and Daily, O.P.
+
+399
+
+
+
+(1980) Isolation, enumeration and characterization of Aeromonas from polluted waters
+encountered in diving operations. Applied and
+Environmental Microbiology 39, 1010–1018.
+107. Araujo, R.M., Arribas, R.M., Lucena, F., and
+Pares, R. (1989) Relation between Aeromonas
+and faecal coliforms in fresh waters. Journal
+of Applied Bacteriology 67,213–217.
+108. Kersters, I., Huys, G., Van Duffel, H.,
+Vancanneyt, M., Kersters, K., and Verstraete,
+W. (1996) Survival potential of Aeromonas
+hydrophila in freshwaters and nutrient-poor
+waters in comparison with other bacteria.
+Journal of Applied Bacteriology 80, 266–276.
+109. Leclerc, H. and Buttiaux, R. (1962) Fréquence
+des Aeromonas dans les eaux d’alimentation.
+Annales de l’Institut Pasteur 103, 97–100.
+110. Burke, V., Robinson, J., Gracey, M., Peterson,
+D., and Partridge, K. (1984) Isolation of
+Aeromonas hydrophila from a Metropolitan
+water supply: seasonal correlation with clinical isolates. Applied and Environmental Microbiology 48, 361–366.
+111. Havelaar, A.H., Versteegh, J.F.M., and During, M. (1990) The presence of Aeromonas in
+drinking water supplies in the Netherlands.
+Zentralblatt fur Hygiene 190, 236–256.
+112. Krovacek, K., Faris, A., Baloda, S.B.,
+Lindberg, T., Peterz, M., and Mansson, I.
+(1992) Isolation and virulence profiles of
+Aeromonas spp. from different municipal
+drinking water supplies in Sweden. Food
+Microbiology 9, 215–222.
+113. Kühn, I., Allestram, G., Huys, G., Janssen, P.,
+Kersters, K., Krovacek, K. and Stenstrom,
+T.A. (1997) Diversity, persistence, and virulence of Aeromonas strains isolated from
+drinking water distribution systems in Sweden. Applied and Environmental Microbiology 63, 2708–2715.
+114. Havelaar, A.H., Schets, F.M., Van Silfhout,
+A., Jansen, W.H., Wieten, G., and Van Der
+Kooij, D. (1992) Typing of Aeromonas strains
+from patients with diarrhoea and from drinking water. Journal of Applied Bacteriology
+72, 435–344.
+115. Schubert, R.H. (2000) Intestinal cell adhesion and maximum growth temperature of
+
+400
+
+psychrotrophic aeromonads from surface
+water. International Journal of Hygiene and
+Environmental Health 203, 83–85.
+116. Hookey, J.V., Saunders, N.A., Fry, N.K.,
+Birtles, R.J., and Harrison, T.G. (1996) Phylogeny of Legionellaceae on small-subunit
+ribosomal DNA sequences and proposal of
+Legionella lytica comb. nov. for Legionella
+like amoebal pathogens. International Journal of Systematic Bacteriology 46, 526–531.
+117. States, S.J., Wadowsky, R.M., Kuchta, J.M.,
+Wolford, R.S., Conley, L.F., and Yee, R.B.
+(1990) Legionella in drinking water. In Drinking Water Microbiology. McFeters, G.A., Ed.,
+pp. 340–368. New York: Springer Verlag.
+118. Bates, M.N., Maas, E., Martin, T., Harte, D.,
+Grubner, M., and Margolin, T. (2000) Investigation of the prevalence of Legionella species in domestic hot water systems. New
+Zealand Medical Journal 113, 218–220.
+119. Martinelli, F., Caruso, A., Moschini, L., Turano,
+A., Scarcella, C., and Speziani, F. (2000) A
+comparison of Legionella pneumophila occurrence in hot water tanks and instantaneous
+devices in domestic, nosocomial, and community environments. Current Microbiology 41,
+374–376.
+120. Kool, J.L., Bergmire-Sweat, D., Butler, J.C.,
+Brown, E.W., Peabody, D.J., Massi, D.S.,
+Carpenter, J.C., Pruckler, J.M., Benson, R.F.,
+and Fields, B.S. (1999) Hospital characteristics associated with colonization of water
+systems by Legionella and risk of nosocomial
+legionnaires’disease: a cohort study of 15
+hospitals. Infection Control and Hospital
+Epidemiologyy 20, 798–805.
+121. Rangel-Frausto, M.S., Rhomberg, P., Hollis,
+R.J., Pfaller, M.A., Wenzel, R.P., Helms,
+C.M., and Herwaldt, L.A. (1999) Persistence
+of Legionella pneumophila in a hospital’s
+water system: a 13–year survey. Infection
+Control and Hospital Epidemiology 20, 793–
+797.
+122. Yu, V.L. and Stout, J.E. (2000) Hospital characteristics associated with colonization of
+water systems by Legionella and risk of nosocomial legionnaires’disease: a cohort study
+of 15 hospitals. Infection Control and Hospital Epidemiology 21, 434–435.
+
+
+
+123. Rowbotham, T.J. (1980) Preliminary report on
+the pathogenicity of Legionella pneumophila
+for freshwater and soil amoebae. Journal of
+Clinical Pathology 33, 1179–1183.
+124. Fliermans, C.B. (1996) Ecology of Legionella:
+from data to knowledge with a little Wisdom.
+Microbial Ecology 32, 203–228.
+125. Winiecka-Krusnell, J. and Linder, E. (1999)
+Free-living amoebae protecting Legionella in
+water: the tip of an iceberg? Scandinavian
+Journal of Infectious Diseases, 31, 383–385.
+
+avium subsp. silvaticum subsp. nov. International Journal of Systematic Bacteriology 40,
+254–260.
+134. Wayne, L.G. and Kubica, G.P. (1986) The
+mycobacteria. In Bergey’s Manual of Systematic Bacteriology. Sneath, P.H.A., Mair, N.S.,
+Sharpe, M.E., and Holt, J.G., Eds., pp. 1436–
+1457. Baltimore: Williams & Wilkins.
+135. Collins, C.H., Grange, J.M., and Yates, M.D.
+(1984) Mycobacteria in water. Journal of
+Applied Bacteriology 57, 193–211.
+
+126. Swanson, M.S. and Hammer, B.K. (2000)
+Legionella pneumophila pathogenesis: a fateful journey from amoebae to macrophages.
+Annual Review of Microbiology 54, 567–613.
+
+136. du Moulin, G.C. and Stottmeier, K.D. (1986)
+Waterborne mycobacteria: an increasing threat
+to health. American Society of Microbiology
+News 52, 525–529.
+
+127. Steinert, M., Emödy, L., Amann, R., and
+Hacker, J. (1997) Resuscitation of viable but
+nonculturable Legionella pneumophila Philadelphia JR32 by Acanthamoeba castellanii.
+Applied and Environmental Microbiology 63,
+2047–2053.
+
+137. Jenkins, P.A. (1991) Mycobacteria in the
+environment. Journal of Applied Bacteriology 70, 137S–141S.
+
+128. Fritsche, T.R., Sobek, D., and Gautom, R.K.
+(1998) Enhancement of in vitro cytopathogenicity by Acanthamoeba spp. following acquisition of bacterial endosymbionts. FEMS
+Microbiology Letters 166, 231–236.
+129. Berk, S.G., Ting, R.S., Turner, G.W., and
+Ashburn, R.J. (1998) Production of respirable
+vesicles containing live Legionella pneumophila
+cells by two Acanthamoeba spp. Applied and
+Environmental Microbiology 64, 279–286.
+130. O’Brien, S. and Bhopal, R.S. (1993)
+Legionnaires’disease: the infective dose paradox. Lancet 342, 5.
+131. Wolinsky, E. (1979) Nontuberculous mycobacteria and associated diseases. American
+Review of Respiratory Disease 119, 107–159.
+132. Shinnick, T. and Good, R.C. (1994) Mycobacterial taxonomy. European Journal of
+Clinical Microbiology and Infectious Diseases
+13, 884–901.
+133. Thorel, M.F., Krichevsky, M.I., and LevyFrebault, V. (1990) Numerical taxonomy of
+mycobactin-dependent mycobacteria, emended
+description of Mycobacterium avium, and description of Mycobacterium avium subsp. avium
+subsp. nov., Mycobacterium avium subsp.
+paratuberculosis subsp. nov., Mycobacterium
+
+138. Falkinham, J.O. (1996) Epidemiology of infection by nontuberculous mycobacteria.
+Clinical Microbiology Reviews 177–215.
+139. Morrissey, A.B., Aisu, T.O., Falkinham, J.O.,
+Eriki, P.P., Eliner, J.J., and Daniel, T.M.
+(1992) Absence of Mycobacterium avium
+complex disease in patients with AIDS. Journal of Acquired Immune Deficiency Syndromes 5, 477–478.
+140. Grange, J.M., Yates, M.D., and Boughton, E.
+(1990) Review: the avian tubercle bacillus
+and its relatives. Journal of Applied Bacteriology 68,411–431.
+141. Yajko, D.M., Chin, D.P., Gonzalez, P.C.,
+Nassos, P.S., Hopewell, P.C., Reingold, A.L.,
+Horsburgh, C.R., Yakrus, M.A., Ostroff, S.M.,
+and Hadley, W.K. (1995) Mycobacterium
+avium complex in water, food, and soil
+samples collected from the environment of
+HIV-infected individuals. Journal of Acquired
+Immune Deficiency Syndromes and Human
+Retrovirology 9, 176–182.
+142. du Moulin, G.C., Stottmeier, K.D., Pelletier,
+P.A., Tsang, A.Y. and Hedley-Whyte, J.
+(1988) Concentration of Mycobacterium
+avium by hospital hot water systems. Journal
+of the American Medical Association 260,
+1599–1601.
+143. Von Reyn, C.F., Waddell, R.D., Eaton, T.,
+Arbeit, R.D., Maslow, J.N., Barber, T.W.,
+
+401
+
+
+
+Brindle, R.J., Gilks, C.F., Lumio, J.,
+Lahdevirta, J. et al. (1993) Isolation of Mycobacterium avium complex from water in the
+United States, Finland, Zaire, and Kenya.
+Journal of Clinical Microbiology 31, 3227–
+3230.
+144. Von Reyn, C.F., Maslow, J.N., Barber,T.W.,
+Falkinham, J.O., and Arbeit, R.D. (1994) Persistent colonisation of potable water as a
+source of Mycobacterium avium infection in
+AIDS. Lancet 343, 1137.
+145. Glover, N., Holtzman, A., Aronson, T.,
+Froman, S., Berlin, O.G.W., Dominguez, P.,
+Kunkel, K.A., Overturf, G., Stelma, G., Jr.,
+Smith, C. and Yakrus, M. (1994) The isolation and identification of Mycobacterium
+avium complex (MAC) recovered from Los
+Angeles potable water, a possible source of
+infection in AIDS patients. International Journal of Environmental Health Research 1, 63–
+72.
+146. Montecalvo, M.A., Forester, G., Tsang, A.Y.,
+Du Moulin, G. and Wormser, G.P. (1994)
+Colonization of potable water with Mycobacterium avium complex in homes of HIV-infected patients. Lancet 343, 1639.
+147. Kirschner, R.A., Parker, B.C., and Falkinham,
+J.O. (1999) Humic and fulvic acids stimulate
+the growth of Mycobacterium avium. FEMS
+Microbiology Ecology 30, 327–332.
+148. Cirillo, J.D., Falkow, S., Tompkins, L.S., and
+Bermudez, L.E. (1997) Interaction of Mycobacterium avium with environmental amoebae enhances virulence. Infection and Immunity 65, 3759–3767.
+149. Steinert, M., Birkness, K., White, E., Fields,
+B., and Quinn, F. (1998) Mycobacterium
+avium bacilli grow saprozoically in coculture
+with Acanthamoeba polyphaga and survive
+within cyst walls. Applied and Environmental Microbiology 64, 2256–2261.
+150. Aronson, T., Holtzman, A., Glover, N., Boian,
+M., Froman, S., Berlin, O.G., Hill, H., and
+Stelma, G. Jr. (1999) Comparison of large
+restriction fragments of Mycobacterium avium
+isolates recovered from AIDS and non-AIDS
+patients with those of isolates from potable
+water. Journal of Clinical Microbiology 37,
+1008–1012.
+
+402
+
+151. Bodmer, T., Miltner, E. and Bermudez, L.E.
+(2000) Mycobacterium avium resists exposure to the acidic conditions stomach. FEMS
+Microbiology Letters 182, 45–49.
+152. Horsburgh, C.R. (1992) Epidemiology of
+mycobacterial diseases in AIDS. Research in
+Microbiology 143, 373–377.
+153. Squier, C., Yu, V.L., and Stout, J.E. (2000)
+Waterborne nosocomial infections. Current
+Infectious Diseases Reports 2(6): 490–96
+154. Yates, M.V., Citek, R.W., Kamper, M.F., and
+Salazar, A.M. (2000) Detecting enteroviruses
+in water: comparing infectivity, molecular,
+and combination methods.
+155. Engel, H.W.B., Berwald, L.G., and Havelaar,
+A.H. (1980) The occurrence of Mycobacterium kansasii in tap water. Tubercle 61, 21–
+26.
+156. Kaustova, J., Olsovsky, Z., Kubin, M.,
+Zatloukai, O., Pelikan, M., and Hradil, Y.
+(1981) Endemic occurrence of Mycobacterium kansasii in water supply systems. Journal of Hygiene, Epidemiology, Microbiology
+and Immunology 25, 24–30.
+157. Herman-Taylor, J., Bull, T.J., Sheridan, J.M,
+Cheng, J., Stellakis, M.L., and Sumar, N.
+(2000) Causation of Crohn’s disease by Mycobacterium avium subspecies paratuberculosis. Canadian Journal of Gastroenterology
+14, 521–539.
+158. McFadden, J.J., Collins, J., Beaman, B., Arthur,
+M., and Gitnick, G. (1992) Mycobacteria in
+Crohn’s disease: DNA probes identify the wood
+pigeon strain of Mycobacterium avium and
+Mycobacterium paratuberculosis from human
+tissue. Journal of Clinical Microbiology 30,
+3070–3073.
+159. Ernst, P.B. and Gold, B.D. (2000) The disease spectrum of Helicobacter pylori: the
+immunopathogenesis of gastroduodenal ulcer
+and gastric cancer. Annual Review of Microbiology 54, 615–640.
+160. Tursi, A., Cammarota, G., Papa, A., Cuoco,
+L., Gentiloni, N., Fedeli, P., Fedeli, G.,
+and Gasbarrini, G. (1997) The modes of
+transmission of Helicobacter pylori infection. Recenti Progressi in Medicina 88,
+232–236.
+
+
+
+161. Leung, W.K., Siu, K.L., Kwok, C.K., Chan,
+S.Y., Sung, R., and Sung, J.J. (1999) Isolation of Helicobacter pylori from vomitus in
+children and its implication in gastro-oral
+transmission. American Journal of Gastroenterology 94, 2881–2884.
+162. Parsonnet, J., Shmuely, H., and Haggerty, T.
+(1999) Fecal and oral shedding of Helicobacter
+pylori from healthy infected adults. JAMA 282,
+2240–2245.
+163. Deltenre, M. and de Koster, E. (2000) How
+come I’ve got it? (A review of Helicobacter
+pylori transmission). European Journal of
+Gastroenterology and Hepatology 12, 479–
+482.
+164. Vincent, P. (1995) Transmission and acquisition of Helicobacter pylori infection: evidences and hypothesis. Biomédecine et
+Pharmacothérapie 49, 11–18.
+165. Sasaki, K., Tajiri, Y., Sata, M., Fujii, Y.,
+Matsubara, F., Zhao, M., Shimizu, S.,
+Toyonaga, A., and Tanikawa, K. (1999)
+Helicobacter pylori in the natural environment. Scandinavian Journal of Infectious
+Diseases 31, 275–279.
+166. Hulten, K., Han, S.W., Enroth, H., Klein,
+P.D., Opekun, A.R., Gilman, R.H., Evans,
+D.G., Engstrand, L., Graham, D.Y., and ElZaatari, F.A. (1996) Helicobacter pylori in
+the drinking water in Peru. Gastroenterology
+110, 1031–1035.
+167. Hulten, K., Enroth, H., Nyström, T., and
+Engstrand, L. (1998) Presence of Helicobacter
+species DNA in Swedish water. Journal of
+Applied Microbiology 85, 282–286.
+168. McKeown, I., Orr, P., Macdonald, S., Kabani,
+A., Brown, R., Coghlan, G., Dawood, M.,
+Embil, J., Sargent, M., Smart, G., and
+Bernstein, C.N. (1999) Helicobacter pylori in
+the Canadian arctic: seroprevalence and detection in community water samples. American Journal of Gastroenterology 94, 1823–
+1829.
+169. Johnson, C.H., Rice, E.W., and Reasoner, D.J.
+(1997) Inactivation of Helicobacter pylori by
+chlorination. Applied and Environmental Microbiology 63, 4969–4970.
+
+170. Hegarty ,J.P., Dowd, M.T., and Baker, K.H.
+(1999) Occurrence of Helicobacter pylori in
+surface water in the United States. Journal of
+Applied Microbiology 87, 697–701.
+171. Mizoguchi, H., Fujioka, T., and Nasu, N.
+(1999) Evidence for viability of coccoid forms
+of Helicobacter pylori. Journal of Gastroenterology 34, 32–36.
+172. Jiang, X. and Doyle, M.P. (1998) Effect of
+environmental and substrate factors on survival and growth of Helicobacter pylori. Journal of Food Protection 61, 929–933.
+173. Parsonnet, J., Blaser, M.J., Perez-Perez, G.I.,
+Hargrett-Bean, N., and Tauxe, R.V. (1992)
+Symptoms and risk factors of Helicobacter
+pylori infection in a cohort of epidemiologists. Gastroenterology 102, 41–46.
+174. Begue, R.E., Gonzales, J.L., Correa-Gracian,
+H., and Tang, S.C. (1998) Dietary risk factors
+associated with the transmission of Helicobacter
+pylori in Lima, Peru. American Journal of Tropical Medicine and Hygiene 59, 637–640.
+175. Watanabe, T., Tomita, S., Kudo, M.,
+Kurokawa, M., Orino, A., Todo, A., and
+Chiba, T. (1998) Detection of Helicobacter
+pylori gene by means of immunomagnetic
+separation-based polymerase chain reaction
+in feces. Scandinavian Journal of Gastroenterology 33, 1140–1143.
+176. Makristathis, A., Pasching, E., Schutze, K.,
+Wimmer, M., Rotter, M.L. and Hirschl, A.M.
+(1998) Detection of Helicobacter pylori in
+stool specimens by PCR and antigen enzyme
+immunoassay. Journal of Clinical Microbiology 36, 2772–2774.
+177. Russo, F., Notarnicola, M., Di Matteo, G.,
+Leoci, C., Caruso, M.L., Pirrelli, M.,
+Caradonna, M., Morandi, L., and Di Leo, A.
+(1999) Detection of Helicobacter pylori cagA
+gene by polymerase chain reaction in faecal
+samples. European Journal of Gastroenterology and Hepatology 11, 251–256.
+178. Gramley, W.A., Asghar, A., Frierson, H.R.,
+Jr., and Powell, S.M. (1999) Detection of
+Helicobacter pylori DNA in fecal samples
+from infected individuals. Journal of Clinical
+Microbiology 37, 2236–2240.
+
+403
+
+
+
+179. Vaira, D., Malfertheiner, P., Megraud, F.,
+Axon, A.T., Deltenre, M., Hirschl, A.M.,
+Gasbarrini, G., O’Morain, C., Garcia, J.M.,
+Quina, M. and Tytgat, G.N. (1999) Diagnosis
+of Helicobacter pylori infection with a new
+non-invasive antigen-based assay. HpSA European study group. Lancet 354, 30–33.
+180. Cellini, L., Dainelli, B., Angelucci, D., Grossi,
+L., Di Bartolomeo, S., Di Campli, E., and Marzio,
+L. (1999) Evidence for an oral-faecal transmission of Helicobacter pylori infection in an experimental murine model. APMIS 107, 477–484.
+181. Casemore, D.P. (1990) Epidemiological aspects of human cryptosporidiosis. Epidemiology and Infection 104, 1–28.
+182. Current, W.L. and Garcia, L.S. (1991)
+Cryptosporidiosis. Clinical Microbiology Reviews 4, 325–358.
+183. Meinhardt, P.L., Casemore, D.P. and Miller,
+K.B. (1996) Epidemiologic aspects of human
+cryptosporidiosis and the role of waterborne
+transmission. Epidemiology Reviews 18,118.
+184. Marshall, M.M., Naumovitz, D., Ortega, Y.,
+and Sterling, C.R. (1997) Waterborne protozoan pathogens. Clinical Microbiology Reviews 10, 67–85.
+185. Perz, J.F., Ennever, F.K., and Le Blancq, S.M.
+(1998) Cryptosporidium in tap water. American Journal of Epidemiology 147, 289.
+186. Curry, A. and Smith, H.V. (1998) Emerging pathogens: Isospora, Cyclospora and microsporidia.
+Parasitology 117S, 143–159.
+187. Sterling, C.R. and Ortega, Y.R. (1999)
+Cyclospora: an enigma worth unraveling.
+Emerging Infectious Diseases 5, 48–53.
+188. Mota, P., Rauch, C.A., and Edberg, S.C. (2000)
+Microsporidia and Cyclospora: epidemiology
+and assessment of risk from the environment.
+Critical Reviews in Microbiology 26, 69–90.
+189. Herwaldt, B.L. (2000) Cyclospora cayetanensis:
+a review, focusing on the outbreaks of
+cyclosporiasis in the 1990s. Clinical Infectious
+Diseases 31, 1040–1057.
+190. D’Antonio, R.G., Winn, R.E., Taylor, J.P., et al.
+(1985) A waterborne outbreak of cryptosporidiosis
+in normal hosts. Annals of Internal Medicine
+103, 886–888.
+
+404
+
+191. Mac Kenzie, W.R., Hoxie, N.J., Proctor, M.E.,
+Gradus, M.S., Blair, K.A., Peterson, D.E. et
+al. (1994) A massive outbreak in Milwaukee
+of Cryptosporidium infection transmitted
+through the public water supply. New England Journal of Medicine 331, 161–167.
+192. Haas, C.N. and Rose, J.B. (1994) Reconciliation of microbial risk models and outbreak epidemiology: the case of the Milwaukee outbreak. In Proceedings of the
+American Water Works Association. pp.
+517–523. Denver: American Water Works
+Association.
+193. Goldstein, S.T., Juranek, D.D., Ravanholt, O.,
+Hightower, A.W., Martin, D.G., Mesnik, J.L.,
+Griffiths, S.D., Bryant, A.J., Reich, R.R., and
+Herwald, B.L. (1996) Cryptosporidiosis: an
+outbreak associated with drinking water despite state-of-the-art water treatment. Annals
+of Internal Medicine 124, 459.
+194. Rose, J.B. (1990) Occurrence and control
+of Cryptosporidium in drinking water. In:
+Drinking Water Microbiology. Progress
+and Recent Developments. McFeters, G.A.,
+Ed., pp. 294–322. New York: Springer
+Verlag.
+195. Rose, J.B. (1993) Enteric waterborne protozoa: hazard and exposure assessment. In Safety
+of water disinfection: balancing chemical and
+microbial risks. Craun, G.F., Ed., pp. 115–
+126. Washington D.C.: ILSI Press.
+196. Payment, P., Berte, A., Prevost, M., Menard,
+B., and Barbeau, B. (2000) Occurrence of
+pathogenic microorganisms in the Saint
+Lawrence river (Canada) and comparison of
+health risks for populations using it as their
+source of drinking water. Canadian Journal
+of Microbiology 46, 565–576.
+197. Casemore, D.P. (1995) Disinfection options.
+In Proceedings of Workshop on Treatment
+Optimisation for Cryptosporidium Removal
+from Water Supplies. West, P.A. and Smith,
+M.S., Eds., pp 19–24. London: HMSO.
+198. Chauret, C., Nolan, K., Chen, P., Springthorpe,
+S., and Sattar, S. (1998) Aging of Cryptosporidium parvum oocysts in river water and
+their susceptibility to disinfection by chlorine
+and monochloramine. Canadian Journal of
+Microbiology 44, 1154–1160.
+
+
+
+199. Gale, P. (1996) Developments in microbiological risk assessment models for drinking
+water—a short review. Journal of Applied
+Bacteriology 81, 403–410.
+200. Mossel, D.A.A, Weenk, G.H., Morris, G.P.,
+and Struijk, C.B. (1998) Identification, assessment and management of food-related
+microbiological hazards: historical, fundamental and psycho-social essentials. International
+Journal of Food Microbiology 40, 211–243.
+201. Lisle, J.T. and Rose, J.B. (1995) Cryptosporidium
+contamination of water in the USA and UK: a
+mini-review. Journal of Water Supply: Research
+and Technology-Aqua 44, 103–117.
+202. DuPont, H.L., Chappell, C.L., Sterling, C.R.,
+Okhuysen, P.C., Rose, J.B., and Jakubowski,
+W. (1995). Infectivity of Cryptosporidium
+parvum for adult humans. New England Journal of Medicine 332, 855–859.
+203. Chappell, C.L., Okhuysen, P.C., Sterling C.R.,
+and DuPont, H.L. (1996) Cryptosporidium
+parvum: intensity of infection and oocysts
+excretion patterns in healthy volunteers. Journal of Infectious Diseases 173, 232–236.
+204. Kwa, B.H., Moyad, M., Pentella, M.A., and
+Rose, J.B. (1993) A nude mouse model as an
+in vivo infectivity assay for cryptosporidiosis.
+Water Sciences & Technology 27, 65–68.
+205. Gibson, C.J. 3rd., Haas, C.N., and Rose, J.B.
+(1998) Risk assessment of waterborne protozoa: current status and future trends. Parasitology. 117, S205–212.
+206. Haas, C.N. (2000) Epidemiology, microbiology, and risk assessment of waterborne pathogens including Cryptosporidium. Journal of
+Food Protection 63, 827–831.
+207. Peng, M.M., Xiao, L., Freeman, A.R.,
+Arrowood, M.J., Escalante, A.A., Weltman,
+A.C., Ong, C.S., Mac Kenzie, W.R., Lal, A.A.,
+and Beard, C.B. (1997) Genetic polymorphism
+among Cryptosporidium parvum isolates:
+evidence of two distinct human transmission
+cycles. Emerging Infectious Diseases 3, 567–
+573.
+208. Awad-El-Kariem, F.M., Robinson, H.A.,
+Petry, F., McDonald, V., Evans, D. and
+Casemore, D. (1998) Differentiation between
+human and animal isolates of Cryptosporidium
+
+parvum using molecular and biological markers. Parasitology Research 84, 297–301.
+209. Widmer, G., Tchack, L., Chappell, C.L., and S.
+Tzipori. (1998) Sequence polymorphism in the
+beta-tubulin gene reveals heterogeneous and variable population structures in Cryptosporidium
+parvum. Applied and Environmental Microbiology 64, 4477–4481.
+210. Spano, F., Putignani, L., Guida, S., and Crisanti,
+A. (1998) Cryptosporidium parvum: PCR-RFLP
+analysis of the TRAP-C1 (thrombospondin-related adhesive protein of Cryptosporidium-1)
+gene discriminates between two alleles differentially associated with parasite isolates of animal and human origin. Experimental Parasitology 90, 195–198.
+211. Caccio, S., Homan, W., van Dijk, K., and
+Pozio. E. (1999) Genetic polymorphism at
+the beta-tubulin locus among human and animal isolates of Cryptosporidium parvum.
+FEMS Microbiology Letters 170, 173–179.
+212. Guyot, K. (2001) 7th- International Workshops on Opportunistic Protists, Cincinnati,
+June 13–16.
+213. Guyot, K., Gireaudot-Liepmann, M.F. Cabon,
+A., Riveau-Ricard, I., Lange, M., Delattre,
+J.M. and Dei-Cas. E. (2000) Influence of US
+EPA 1622 method successive steps on the
+viability of Cryptosporidium oocysts. Water
+Science and Technology 41, 189–196.
+214. Sobottka, I., Schwartz, D.A., Schottelius, J.,
+Visvesvara, G.S., Pieniazed, N.J., Schmetz,
+C., Kock, N.P., Laufs, R., and Albrecht, H.
+(1998) Prevalence and clinical significance
+of intestinal microsporidiosis in human immunodeficiency virus-infected patients with
+and without diarrhea in Germany: a prospective coprodiagnostic study. Clinical Infectious
+Diseases 26, 475–480.
+215. Leder, K., Ryan, N., Spelman, D., and Crowe,
+S.M. (1998) Microsporidial disease in HIVinfected patients: a report of 42 patients and
+review of the literature. Scandinavian Journal of Infectious Diseases 30, 331–338.
+216. Rabold, J.G., Hoge, C.W., Shlim, D.R.,
+Kefford, C., Rajah, R., and Echeverria, P.
+(1994) Cyclospora outbreak associated with
+chlorinated drinking water. Lancet 344, 1360–
+1361.
+
+405
+
+
+
+217. Huang, P., Weber, J.T., Sosin, D.M., Griffin,
+P.M., Long, E.G., Murphy, J.J., Kocka, F.,
+Peters, C., and Kallick, C. (1995) The first
+reported outbreak of diarrheal illness associated with Cyclospora in the United States.
+Annals of Internal Medicine 123, 409–414.
+218. Koumans, E.H.A., Katz, D.J., Malecki, J.M.,
+Kumar, S., Wahlquist, S.P., Arrowood, M.J.,
+et al. (1998) An outbreak of cyclosporiasis in
+Florida 1995: a harbinger of multistate outbreaks in 1996 and 1997. American Journal
+of Tropical Medicine and Hygiene 59, 235–
+242.
+219. Herwaldt, B., Ackers, M.L., and the Cyclospora
+working group. (1997) An outbreak in 1996 of
+cyclosporiasis associated with imported raspberries. New England Journal of Medicine 336,
+1548–1556.
+220. Dumoulin, A., Guyot, K., Lelievre, E., Dei-Cas,
+E., and Cailliez. J.C. (2000) Cryptosporidium et
+faune sauvage: un risque pour l’homme? Parasite. 7, 167–172.
+221. Lindsay, D.S., Dubey, J.P., and Blagburn,
+B.L. (1997) Biology of Isospora spp. from
+humans, nonhuman primates, and domestic
+animals. Clinical Microbiology Reviews 10,
+19–34.
+222. Weber, R. Bryan, R.T., Schwartz, D.A., and
+Owen, R.L. (1994) Human microsporidial
+infections. Clinical Microbiology Reviews 7,
+426–461.
+223. Gumbo, T., Sarbah, S., Gangaidzo, I.T.,
+Ortega, Y., Sterling, C.R., Carbille, A.,
+Tzipori, S., and Wiest ,P.M. (1999) Intestinal
+parasites in patients with diarrhea and human
+immunodeficiency virus infection in Zimbabwe. AIDS 13, 819–821.
+224. Lopez-Velez, R., Turrientes, M.C., Garron,
+C., Montilla, P., Navajas, R., Fenoy, S., and
+del Aguila, C. (1999) Microsporidiosis in travelers with diarrhea from the tropics. Journal
+of Travel Medicine 6, 223–227.
+225. Sparfel, J.M., Sarfati, C., Liguory, O., Caroff,
+B., Dumoutier, N., Gueglio, B., Billaud, E.,
+Raffi, F., Molina, J.M., Miegeville, M., et al.
+(1997) Detection of microsporidia and identification of Enterocytozoon bienensi in surface
+water by filtration followed by specific PCR.
+Journal of Eukaryotic Microbiology 44, 78S.
+
+406
+
+226. Wolk, D.M., Johnson, C.H., Rice, E.W.,
+Marshall, M.M., Grahn, K.F., Plummer, C.B.,
+and Sterlin, C.R. (2000) A spore counting
+method and cell culture model for chlorine
+disinfection studies of Encephalitozoon syn.
+Septata intestinalis. Applied and Environmental Microbiology 66, 1266–1273.
+227. Fournier, S., Liguory, O., Santillana-Hayat,
+M., Guillot, E., Sarfati, C., Dumoutier, N.,
+Molina, J., and Derouin, F. (2000) Detection
+of microsporidia in surface water: a one-year
+follow-up study. FEMS Immunology and
+Medical Microbiology 29, 95–100.
+228. Metcalf, T.G., Melnick, J.L., and Estes, M.K.
+(1995) Environmental virology: from detection of virus in sewage and water by isolation
+to identification by molecular biology - A trip
+of over 50 years. Annual Review of Microbiology 49, 461–487.
+229. Lodder, W.J., Vinje, J., Van de Heide, R.,
+Roda Husman, A.M., Leenen, E.J.T., and
+Koopmans, M.P.G. (1999) Molecular detection of Norwalk-like caliciviruses in sewage.
+Applied and Environmental Microbiology 65,
+5624–5627.
+230. Koopmans, M.P.G., Goosen, E.S., Lima, A.,
+McAuliffe, I.T., Nataro, J.P., Barrett, L.J.,
+Glass, R.I., and Guerrant, R.L. 1997. Association of torovirus with acute and persistent
+diarrhea in children. Pediatric Infectious Disease Journal 16, 504–507.
+231. Grabow, W.O.K, Taylor, M.B., Clay, C.G.,
+and De Villiers, J.C. (1999) Molecular detection of viruses in drinking water implications
+for safety and disinfection. In: The Safety of
+Water Disinfection: Balancing Chemical and
+Microbial Risks. Miami Beach: ILSI Press.
+232. Van der Poel, W.H.M, Vinje, J., Van der
+Heide, R., Herrera, M.I., Vivo, A., and
+Koopmans, M.P.G. (2000) Norwalk-like
+calicivirus genes in farm animals. Emerging
+Infectious Diseases 6, 36.
+233. Glass, R.I. (1995) Other viral agents of gastroenteritis. In Infections of the Gastrointestinal Tract. Blaser, M.J., Smith, P.D., Ravdin,
+J.I., Greenberg, H.B. and Guerrant, R.L., Eds.,
+pp. 1055–1064. New York: Raven Press Ltd.
+234. Mosley, J.W. (1967) Transmission of viral
+diseases by drinking water. In: Transmission
+
+
+
+of Viruses by the Water Route. Berg, G., Ed.,
+pp. 5. New York: Interscience.
+235. Center for Disease Control and Prevention
+(1994) Surveillance for waterborne disease
+outbreaks - United States, 1991–1992. Morbidity and Mortality Weekly Report 42, 1–22.
+236. Center for Disease Control and Prevention
+(1996) Surveillance for waterborne disease
+outbreaks-United States, 1993–1994. Morbidity and Mortality Weekly Report 45, 1–33.
+237. Naik, S.R., Aggarwal, R., Salunke, P.N., and
+Mehrotra, N.N. (1992) A large waterborne viral
+hepatitis E epidemic in Kanpur, India. Bulletin
+of the World Health Organization 70, 597–604.
+238. Vishwanathan, R. (1957) Infectious hepatitis in
+Delhi (1955–56): a critical study; epidemiology.
+Indian Journal of Medical Research 45, 1–30.
+239. Bradley, D.W. (1992) Hepatitis E: epidemiology, aetiology and molecular biology. Review of Medical Virology 2, 19–28.
+240. Aggarwal, R. and Krawczynski, K. (2000)
+Hepatitis E: an overview and recent advances
+in clinical and laboratory research. Journal of
+Gastroenterology and Hepatology 15, 9–20.
+
+246. Wright, P.J., Gunesekere, I.C., Doultree, J.C.,
+and Marshall, J.A. (1998) Small round-structured (Norwalk-like) viruses and classical
+human caliciviruses in southeastern Australia, 1980–1996. Journal of Medical Virology
+55, 312–320.
+247. Parks, C.G., Moe, C.L., Rhodes, D., Lima,
+A., Barrett, L., Tseng, F., Baric, R., Talal, A.,
+and Guerrant, R. (1999) Genomic diversity of
+“Norwalk like viruses” (NLVs): pediatric infections in a Brazilian shantytown. Journal of
+Medical Virology. 58, 426–434.
+248. Vinje, J., Deijl, H., van der Heide, R., Lewis,
+D., Hedlund, K.O., Svensson, L., and
+Koopmans, M.P. (2000) Molecular detection
+and epidemiology of sapporo-like viruses.
+Journal of Clinical Microbiology 38, 530–
+536.
+249. Koopmans, M.P.G., Bijen, M.H., Monroe,
+S.S., and Vinje, J. (1998) Age-stratified
+seroprevalence of neutralizing antibodies to
+astrovirus types 1 to 7 in humans in the Netherlands. Clinical and Diagnostic Laboratory
+Immunology 5, 33–37.
+
+242. Pringle, C.R. (1998) Virus taxonomy-San Diego 1998. Archives of Virology 143, 1449–459.
+
+250. Matsui, M., Ushijima, H., Hachiya, M., Kakizawa,
+J., Wen, L., Oseto, M., Morooka, K., and Kurtz,
+J.B. (1998) Determination of serotypes of
+astroviruses by reverse transcription-polymerase
+chain reaction and homologies of the types by the
+sequencing of Japanese isolates. Microbiology
+and Immunology 42, 539–547.
+
+243. Jiang, X., Matson, D.O., Cubitt, W.D., and
+Estes, M.K. (1996) Genetic and antigenic
+diversity of human caliciviruses (HuCVs)
+using RT-PCR and new EIAs. Archives of
+Virology Supplementum 12, 251–262.
+
+251. Belliot, G., Laveran, H., and Monroe, S.S.
+(1997) Detection and genetic differentiation
+of human astroviruses: phylogenetic grouping varies by coding region. Archives of Virology 142,1323–1334.
+
+244. Jiang, X., Cubitt, W.D., Berke, T., Zhong,
+W., Dai, X., Nakata, S., Pickering, L.K., and
+Matson, D.O. (1997) Sapporo-like human
+caliciviruses are genetically and antigenically
+diverse. Archives of Virology 142, 1813–1827.
+
+252. Herrmann, J.E. and Blacklow, N.R. (1995)
+Enteric adenoviruses. In: Infections of the
+Gastrointestinal Tract. Blaser, M.J., Smith,
+P.D., Ravdin, J.I., Greenberg, H.B. and
+Guerrant, R.L., Ed., pp. 1047–1053. New
+York: Raven Press Ltd.
+
+241. Winn, W.C. (1999) Enterically transmitted
+hepatitis. Hepatitis A and E viruses. Clinics
+in Laboratory Medicine 19, 661–673.
+
+245. Noel, J.S., Liu, B.L., Humphrey, C.D.,
+Rodriguez, E.M., Lambden, P.R., Clarke, I.N.,
+Dwyer, D.M., Ando, T., Glass, R.I., and Monroe, S.S. (1997) Parkville virus: a novel genetic variant of human calicivirus in the
+Sapporo virus clade, associated with an outbreak of gastroenteritis in adults. Journal of
+Medical Virology 52, 173–178.
+
+253. Kapikian, A.Z., Estes, M.K. and Chanock,
+R.M. (1996) Norwalk group of viruses. In:
+Fields Virology, 3rd edition. Fields, B.N.,
+Knipe, D.M., Howley, P.M., Chanock, R.M.,
+Melnick, J.L., Monath, T.P., Roizman, B.,
+and Straus, S.E., Ed., Philadelphia, Pa:
+Lippincott-Raven.
+
+407
+
+
+
+254. Kukkula, M., Maunula, L., Silvennoinen, E.,
+and von Bonsdorff, C.H. (1999) Outbreak of
+viral gastroenteritis due to drinking water
+contaminated by Norwalk-like viruses. Journal of Infectious Diseases 180, 1771–1776.
+255. Hardy, M.E. (1999) Norwalk and “Norwalklike viruses” in epidemic gastroenteritis. Clinics in Laboratory Medicine 19, 675–690.
+256. Glass, R.I., Noel, J., Ando, T., Fankhauser,
+R., Belliot, G., Mounts, A., Parashar, U.D.,
+Brese, J.S., and Monroe, S.S. (2000) The epidemiology of enteric caliciviruses from humans: a reassessment using new diagnostics.
+Journal of Infectious Diseases 181, S254–
+261.
+257. Payment, P. (1991) Antibody levels to selected enteric viruses in a French-Canadian
+population in the province of Quebec
+(Canada). Immunology and Infectious Diseases 1, 317–322.
+258. Abbaszadegan, M., Stewart, P., and LeChevallier,
+M. (1999) A strategy for detection of viruses in
+groundwater by PCR. Applied and Environmental Microbiology 65, 444–449.
+259. Mortensen, M.L., Ray, C.G., Payne, C.M.,
+Friedman, A.D., Minnich, L.L., and Rousseau,
+C. (1985) Coronavirus-like particles in human gastrointestinal disease: epidemiologic,
+clinical and laboratory observations. American Journal of Diseases of Children 139, 928–
+934.
+260. Chany, C., Moscovici, O., Lebon, P., and
+Rousset, S. (1982) Association of Coronavirus
+infection with neonatal necrotizing enterocolitis. Pediatrics, 69, 209–214.
+261. Gonzalez, P., Sanches, A., Rivera, P., Jimenez,
+C., and Hernandez, F. (1997) Rotavirus and
+coronavirus outbreak: etiology of annual diarrhea in Costa Rican children. Revista de
+Biologia Tropical 45, 989–991.
+262. Giordano, M.O., Martinez, L.C., Rinaldi, D.,
+Espu,l C., Martinez, N., Isa, M.B., Depetris,
+A.R., Medeot, S.I., and Nates, S.V. (1999
+Diarrhea and enteric emerging viruses in HIV
+-infected patients. AIDS Research and Human Retrovirus 15, 1427–1432.
+263. Payment, P. and Armon, R. (1989) Virus removal by drinking water treatment processes.
+
+408
+
+CRC Critical Reviews in Environmental Control 19, 15–31.
+264. Graham, D.Y., Dufour, G.R., and Estes, M.K.
+(1987) Minimal infective dose of rotavirus.
+Archives of Virology 92, 261–271.
+265. Ward, R.L., Bernstein, D.I., Ylung, E.C.,
+Sherwood, J.R., Knowlton, D.R., and Schiff,
+G.M. (1986) Human rotavirus studies in volunteers: determination of infectious dose and
+serological response to infection. Journal of
+Infectious Diseases 154, 871–880.
+266. Cubitt, W.D. (1989) Diagnosis, occurrence
+and clinical significance of the human “candidate” caliciviruses. Progress in Medical
+Virology 36, 103–119.
+267. Kapikian, A.Z. and Chanock, R.M. (1990)
+Norwalk group of viruses. In: Virology. 2nd
+ed. Fields, B.N., Knipe, D.M., Chanock, R.M.
+et al., Eds., pp. 61–93 New York: Raven
+Press.
+268. Kurtz, B., Lee, T.W. (1987) Astroviruses:
+human animal. In: Novel Diarrhoea Viruses.
+Bock, G. and Whelan., J., Eds., Foundation
+Symp. 128 pp. 92–107. Chichester UK: John
+Wiley.
+269. Payment, P. (1993) Viruses: prevalence of
+disease, levels and sources. In: Safety of Water
+Disinfection: Balancing Chemical and Microbial Risks. Craun, G.F., Ed., pp. 99–115.
+Washington D.C.: ILSI Press.
+270. Payment, P. and Morin, E. (1989) Minimal
+infective dose of the OSU strain of porcine
+rotavirus. Archives of Virology 112, 277–282.
+271. Goyal, S.M. (1983) Indicators of viruses. In
+Viral pollution of the environment. ed.Berg,
+G. pp. 211–227. Boca Raton: CRC Press.
+272. Gerba, C.P. and Rose, J.B. (1990) Viruses in
+source and drinking water. In: Drinking Water Microbiology. McFeters, G.A., Ed., pp.
+380–96. New York: Springer-Verlag.
+273. Schwartzbrod, L. (1991) Virologie des milieux hydriques. Paris: Tec. & Doc - Lavoisier.
+274. Payment, P., Franco, E., Richardson, L., and
+Siemiatychi, J. (1991) Gastrointestinal health
+effects associated with the consumption of
+drinking water produced by point-of-use domestic reverse-osmosis filtration units. Ap-
+
+
+
+plied and Environmental Microbiology 57,
+945–948.
+275. Payment, P., Richardson, L., Siemiatycki, J.,
+Dewar, R., Edwardes, M., and Franco, E.
+(1991b) A randomized trial to evaluate the
+risk of gastrointestinal disease due to consumption of drinking water meeting current
+microbiological standards. American Journal
+of Public Health 81, 703.
+276. Payment, P., Coffin, E., and Paquette, G..
+(1994) Blood agar to detect virulence factors
+in tap water heterotrophic bacteria. Applied
+and Environmental Microbiology 60, 1179–
+1183.
+277. Edberg, S.C., Kops, S., Kontnick, C., and
+Escarzaga, M. (1997) Analysis of cytotoxicity and invasiveness of heterotrophic plate
+count bacteria (HPC) isolated from drinking
+water on blood media. Journal of Applied
+Microbiology 82, 455–461.
+278. Zmirou, D., Reys, S., Courtois, X. et al. (1995)
+Residual microbiological risk after simple
+
+chlorine treatment of drinking groundwater
+in small community systems. European Journal of Public Health 5, 75–81.
+279. Birkhead, G. and Vogt, R.L. (1989) Epidemiologic surveillance for endemic Giardia
+lamblia infection in Vermont. The roles of
+waterborne and person-to-person transmission. American Journal of Epidemiology 129,
+762–768.
+280. Fraser, G.G. and Cooke, K.R. (1991) Endemic giardiasis and municipal water supply.
+American Journal of Public Health 81, 760.
+281. Dennis, D.T., Smith, R.P., Welch, J.J., Chute,
+C.G., Anderson, B., Herndon, J.L. and
+Fordham von Reyn, F. (1993) Endemic giardiasis in New Hampshire: a case-control study
+of environmental risks. Journal of Infectious
+Diseases 167, 1391–1395.
+282. Roefer, P.A., Monscvitz, J.T., and Rexing,
+D.J. (1996) The Las Vegas cryptosporidiosis
+outbreak. Journal of the American Water
+Works Association 88, 95–106.
+
+409
+
+
+
+

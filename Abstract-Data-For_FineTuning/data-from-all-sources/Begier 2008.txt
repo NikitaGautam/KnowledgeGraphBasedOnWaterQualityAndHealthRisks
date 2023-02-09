@@ -1,0 +1,977 @@
+MAJOR ARTICLE
+
+An Outbreak of Concurrent Echovirus 30 and
+Coxsackievirus A1 Infections Associated with Sea
+Swimming among a Group of Travelers to Mexico
+Elizabeth M. Begier,1,4,a M. Steven Oberste,5 Marie L. Landry,3 Timothy Brennan,2 Diana Mlynarski,1
+Patricia A. Mshar,1 Kasia Frenette,1 Terry Rabatsky-Ehr,1 Katherine Purviance,1 Ava Nepaul,1 W. Allan Nix,5
+Mark A. Pallansch,5 David Ferguson,3 Matt L. Cartter,1 and James L. Hadler1
+1
+
+Infectious Diseases Division and 2Public Health Laboratory, Connecticut Department of Public Health, Hartford, and 3Department of Laboratory
+Medicine, Yale New Haven Hospital and Yale University School of Medicine, New Haven, Connecticut; and 4Epidemic Intelligence Service
+Program and 5Polio and Picornavirus Laboratory Branch, Division of Viral Diseases, National Center for Immunization and Respiratory Diseases,
+Centers for Disease Control and Prevention, Atlanta, Georgia
+
+(See the editorial commentary by Leveque and Laurent on pages 624–6)
+
+Background. Enteroviruses are shed in human stool and can cause a wide spectrum of illness. They are the
+leading cause of aseptic meningitis.
+Methods. In 2004, the Connecticut Department of Public Health investigated a meningitis cluster among
+persons returning from a school-organized trip to Mexico.
+Results. Among 29 travelers (25 teenagers and 4 adult chaperones), 21 became acutely ill. Viral culture and
+nucleic acid amplification testing of stool (n p 27 ) and cerebrospinal fluid (n p 4) specimens identified enteroviral
+infection in 20 of 28 travelers from whom any specimen was obtained; 4 had echovirus 30 only, 11 had coxsackievirus
+(CV) A1 only, 4 had both echovirus 30 and CVA1, and 1 had CVA5 only. Illness onset dates were tightly clustered
+4 days after a prolonged swim in the Gulf of Mexico. Time spent swimming was significantly associated with the
+odds of enteroviral infection (univariate odds ratio for each additional hour swimming, 14.3; 95% confidence
+interval, 1.3–154.3). Headache, fever, vomiting, and nausea occurred more frequently among the echovirus 30–
+infected travelers than among the uninfected control subjects (P ! .05 ). The most frequent symptoms among
+travelers infected with only CVA1 identified were nausea and diarrhea (36% each), but neither was significantly
+associated with CVA1 infection; 5 patients with CVA1 infection were asymptomatic.
+Conclusions. We identified multiple enteroviruses among the travelers. Clustered illness onsets suggest pointsource exposure, which likely was a sea swim in sewage-contaminated seawater. Novel molecular amplification
+and sequencing methodologies were required to recognize the rarely identified CVA1, but it is ambiguous whether
+CVA1 infection caused illness. Travelers should be aware of risks associated with swimming in natural waters when
+visiting areas where there is limited sewage treatment.
+Enteroviruses (EVs) cause 10–15 million symptomatic
+infections in the United States annually [1], and EV
+infection can be acquired through ingestion of infectious fecal material and oral or respiratory secretions
+[2, 3]. Transmission is more frequent in places where
+
+Received 19 October 2007; accepted 7 May 2008; electronically published 18
+July 2008.
+Reprints or correspondence: Dr. Elizabeth M. Begier, Director for Epidemiology
+and Field Services, Bureau of HIV/AIDS Prevention & Control, New York City Dept.
+of Health, 346 Broadway, Rm. 707, New York, NY 10013 (ebegier@health.nyc.gov).
+Clinical Infectious Diseases 2008; 47:616–23
+ 2008 by the Infectious Diseases Society of America. All rights reserved.
+1058-4838/2008/4705-0005$15.00
+DOI: 10.1086/590562
+
+616 • CID 2008:47 (1 September) • Begier et al.
+
+routine hygiene is limited (e.g., where there is no running water for hand washing) [3], because EV is shed
+in stool for weeks after infection [2]. Transmission is
+markedly seasonal in temperate regions, but incidence
+in tropical and subtropical areas is high throughout the
+year. EVs cause a wide illness spectrum, from asymptomatic infections to encephalitis [2], and are the leading cause of aseptic meningitis in developed countries
+[3]. Approximately 90 serotypes are recognized [4].
+
+The findings and conclusions in this article are those of the authors and do
+not necessarily represent the views of the Centers for Disease Control and
+Prevention or the authors’ affiliated institutions.
+a
+Present affiliation: Epidemiology and Field Services, Bureau of HIV/AIDS
+Prevention & Control, New York City Department of Health, New York, New York.
+
+
+
+Historically, virus isolation has been used to diagnose EV
+infection, usually through fecal, respiratory, or CSF specimen
+inoculation into cell cultures (primary or continuous cell lines)
+or suckling mice. Isolates are identified using serotype-specific
+neutralizing antibodies [5]. Unfortunately, viral culture is slow
+and labor intensive and usually cannot produce a result within
+a clinically relevant time. Furthermore, certain EV serotypes
+replicate poorly, if at all, in commonly used cell lines, and use
+of suckling mice in clinical diagnostics has decreased sharply
+in recent years. More recently, clinical laboratories have adopted
+nucleic acid amplification techniques (e.g., RT-PCR), using
+primers targeted to highly conserved EV genome regions [6].
+These methods are highly specific and sensitive and can detect
+virus directly in clinical specimens. Molecular methods are also
+now widely used for EV typing; RT-PCR amplifies a portion
+of the genome’s capsid-coding region (usually the region encoding major viral capsid protein 1 [VP1]), and the PCR product sequence is compared with reference sequences of known
+serotypes [7].
+Although risk of poliomyelitis among nonimmunized travelers to tropical, developing countries is well documented [8],
+other travel-related EV disease has not been frequently reported, perhaps because of low clinical attack rates and nonspecific symptoms. We report an investigation of an outbreak
+of nonpolio EV disease among travelers to Mexico that included
+use of novel laboratory detection methods for the determination of etiologic outcome.
+On 30 June 2004, the director of the Yale-New Haven Hospital Clinical Virology Laboratory contacted the Connecticut
+Department of Public Health to notify of 2 high school students
+hospitalized with confirmed EV meningitis after a schoolorganized religious trip to Mexico that involved 29 travelers.
+The Connecticut Department of Public Health conducted an
+investigation to determine the extent of the outbreak, to implement immediate infection-control measures, and to improve
+understanding of such outbreaks to aid in future prevention
+efforts.
+METHODS
+To identify potentially related illnesses outside the 29 trip participants, we contacted the youth organization that organized
+the school’s trip, notified the Centers for Disease Control and
+Prevention (CDC), and posted a case inquiry on Epi-X, the
+CDC’s national epidemic information exchange for public
+health officials.
+All trip participants were interviewed regarding religious mission–related and recreational activities, food and drink exposures, hygienic practices during the 10 days of their trip, and
+any symptoms of illness during their trip or 2 weeks after
+returning from the trip. We obtained menu lists for all meals;
+all meals were eaten as a group. Travelers were requested to
+
+provide stool specimens, which underwent culture for EV at
+the Connecticut Department of Public Health (Hartford) and
+were tested by EV-specific nucleic acid sequence–based amplification (NASBA) at Yale-New Haven Hospital (New Haven,
+CT) and by EV VP1 seminested RT-PCR (RT-snPCR) at the
+CDC (Atlanta, GA). Available CSF specimens (n p 4 ) collected
+for treatment purposes were forwarded to the CDC for VP1
+RT-snPCR.
+Stool culture. A stool-coated sterile swab was added to 1
+mL of inoculation minimal essential media containing 2% fetal
+bovine serum; the tube was vortexed for 10 s. Then, 0.1 mL
+of the resulting stool suspension was added to each cell culture
+tube (cell lines were primary monkey kidney, normal human
+fibroblast, and A549); these tubes were placed on a rocker
+platform at 33C for ⭓1 h. An additional 1 mL of inoculation
+minimal essential media was added to all tubes before incubation at 33C in humidified 5% carbon dioxide atmosphere.
+Tubes were inspected daily. When typical EV cytopathic effect
+was observed, cells were tested by indirect immunofluorescence
+with EV group–specific monoclonal antibodies. EV-positive
+isolates were serotyped using indirect immunofluorescence with
+monoclonal antibodies specific for individual EV serotypes
+(Millipore).
+NASBA. NucliSens basic kit (bioMérieux) was used for EV
+RNA extraction and detection in accordance with the manufacturer’s EV NASBA protocol [9]. RNA was isolated from 100
+mL (stool) or 200 mL (CSF) of specimen with use of a modified
+Boom method [10] with Nuclisens kit reagents. BioMérieux’s
+EV-specific internal control (i.e., cloned EV sequences containing a 20-bp potato-leaf-roll virus fragment) was added to
+each specimen to evaluate RNA extraction and amplification
+efficiency. EV amplification products were detected by hybridization in 2 separate reactions using 2 different probes, 1 of
+which was specific for the EV product and 1 of which was
+specific for internal control product; both contained generic
+ruthenium-labeled electrochemiluminescence detection probe.
+EV VP1 RT-snPCR. EV VP1-specific RT-PCR and sequencing were conducted as described elsewhere [11]. Fecal specimens were pretreated by extraction of a 10% suspension with
+0.1 mL chloroform, followed by extraction with 1 mL Vertrel
+XF (Miller-Stephenson Chemical). RNA was extracted from
+clinical specimens, fecal extracts, and virus isolates with use of
+the QIAamp Viral RNA Mini Kit (Qiagen).
+cDNA was synthesized with use of primers in the VP1 capsid
+protein–encoding genome region. PCR was performed using
+degenerate, inosine-containing primers in the genome region
+encoding VP3 and VP1 capsid proteins, to produce an ∼700–
+base pair first-round product. One microliter of the first PCR
+product was added to a second PCR containing degenerate
+primers (both within VP1), resulting in a 320–350-base pair
+product. Reaction products were separated and visualized on
+
+Swimming-Associated Outbreak of EV Infection • CID 2008:47 (1 September) • 617
+
+
+
+Figure 1. Summary of laboratory testing results and illness status for the travelers. CV, coxsackievirus; E30, echovirus 30.
+
+agarose gel and were purified using QIAquick Gel Extraction
+Kit (Qiagen). Resulting DNA templates were sequenced with
+the same primers with use of Big Dye Terminator, version 1.1,
+Ready Reaction Cycle Sequencing Kit on an ABI Prism 3100
+automated sequencer (Applied Biosystems).
+Amplicon sequences were compared with VP1 sequences of
+EV reference strains, including ⭓1 representative of each recognized serotype, by script-driven sequential pairwise comparison, using Gap (Wisconsin Sequence Analysis Package, version 10.3; Accelrys), as described elsewhere [12–14]. A partial
+VP1 nucleotide sequence identity of 175% confirmed the serotype in the specimen.
+Data analysis. Travelers with EV identified by culture,
+NASBA, or PCR in any specimen were considered to have EV
+infection. Travelers with a specimen available and no evidence
+of EV infection by laboratory testing were considered to not
+have EV infection. Symptoms were not used to classify travelers
+as infected or uninfected because of the wide illness spectrum
+that can result from EV infection, including asymptomatic infections and the possibility of other similar concurrent travelrelated illnesses.
+An epicurve was constructed by plotting acute illnesses
+among travelers with onset during the trip or 2 weeks after the
+group’s return. Epicurve boxes were marked with laboratory
+results for each ill traveler and their symptom group. Two
+symptom groups were developed—a group with headache and/
+or vomiting and a group with diarrhea but not headache or
+vomiting—to separate those with symptoms potentially consistent with traveler’s diarrhea from those with symptoms more
+consistent with viral meningitis (i.e., headache and/or
+vomiting).
+To report the symptomatology of the 2 predominant EV
+infections (i.e., echovirus [E] 30 and coxsackievirus [CV] A1),
+618 • CID 2008:47 (1 September) • Begier et al.
+
+we calculated the frequencies of symptoms in the groups of
+patients stratified by laboratory results (i.e., all patients infected
+with E30, patients infected with only E30, all patients infected
+with CVA1, patients infected with only CVA1, and patients who
+had no EV detected). The groups of all patients infected with
+E30 and all patients infected with CVA1 were used to create
+larger comparison groups to increase statistical power. Fisher’s
+exact test was used to identify statistically significant associations between symptoms and outcomes for patients infected
+with specific EVs, compared with control subjects who did not
+have EV detected.
+For analysis of risk factors, 3 travelers with illness onset after
+27 June were excluded, because they likely contracted infection
+from other ill trip members (i.e., these illnesses were secondary
+cases); this determination was based on delayed symptom timing after the primary illness peak (figure 1). Because of excluded
+cases, analysis of risk factors was conducted as a nested casecontrol study rather than as a cohort study. Univariate ORs for
+EV infection were calculated for all exposures. Because of small
+numbers, Fisher’s exact test was used to test for statistical significance of dichotomous variables, the Mann-Whitney 2-sample statistic was used for continuous variables, and Cuzick’s
+nonparametric test for trend across ordered groups was used
+for trend testing. This outbreak investigation underwent human
+subjects review at the CDC and was determined to be public
+health practice rather than research activity (HSR #200400293).
+RESULTS
+Outbreak time course. Of the 29 travelers (25 teenagers and
+4 adult chaperones), 21 (72%) became ill. An epicurve (figure
+1) with all illnesses depicted by onset date shows a sharp peak
+
+
+
+in onset of illness; most illnesses occurred within 3 days after
+return to the United States. A small, presumably secondary
+illness peak occurred 4 days after the primary peak. Of the 21
+ill travelers, 14 (67%) had headache or vomiting and 7 (33%)
+had diarrhea but not headache or vomiting (figure 1).
+Laboratory results. Twenty-seven travelers (including 20 of
+the 21 ill travelers) provided stool samples (figure 2). E30 was
+yielded by culture in 5 stool specimens; no other EVs were
+identified by culture. EV was identified in the same 18 stool
+samples by both NASBA and VP1 RT-snPCR. CVA1 was identified in 15 samples, and E30 was identified in 3 samples. Only
+1 EV was identified in each stool sample by VP1 RT-snPCR;
+this method usually identifies only the most abundant EV in
+the sample and not necessarily all EVs present. Among 5 stool
+samples that were culture positive for E30, VP1 RT-snPCR
+identified CVA1 in 4 and E30 in 1. Among 4 CSF samples
+obtained, VP1 RT-snPCR identified E30 in 3 and CVA5 in 1.
+One E30-positive CSF samples was from an ill traveler who did
+not have a stool sample obtained. Overall, on the basis of all
+of the testing performed for 28 travelers, 4 travelers had only
+E30 identified, 11 had only CVA1 identified, 4 had both E30
+and CVA1 identified, 1 had CVA5 identified, and 8 had no EV
+identified (figure 2).
+The mean duration from onset of illness to sample collection
+was similar for NASBA- and PCR-negative samples and
+NASBA- and PCR-positive samples (10 and 11 days, respectively; P p .332, by Mann-Whitney comparison of means).
+
+Bacterial stool cultures were performed for the 7 travelers who
+had diarrhea only (figure 1). One culture yielded Salmonella
+enterica serotype Kentucky; the results of the other cultures
+were negative.
+Symptoms. The frequencies of symptoms stratified by the
+travelers’ results of testing for EV (excluding the traveler who
+had only CVA5 identified) are presented in table 1. Headache,
+nausea, vomiting, and subjective fever were the most frequent
+symptoms among the 8 travelers with E30 infection and were
+significantly more frequent among this group than among the
+EV-negative travelers. Among 11 travelers who had only CVA1
+identified, diarrhea and nausea were the most frequent symptoms (frequency for both, 36%). Five infected travelers (all
+infected with CVA1 only) were not ill, and thus, data for them
+are not shown in figure 1, which plots travelers according to
+the date of illness onset.
+Risk factors for infection. Activities significantly associated
+with EV infection were playing soccer with villagers during the
+afternoon of arrival in the fishing village (OR, 12.5; 95% CI,
+1.2–168.8) and swimming in the Gulf of Mexico during a trip
+to a nearby island (OR for each additional hour spent swimming that day, 14.3; 95% CI, 1.3–154.3). The soccer game
+occurred 7 days before the primary illness peak; the swimming
+occurred 4 days before this peak. Because no increase in the
+risk of infection was found with increased time spent playing
+soccer and because the timing of the sea swim exposure
+matched the incubation period estimated for our secondary
+
+Figure 2. Acute illnesses among travelers, by symptom group and enterovirus serotype—June 2004. CV, coxsackievirus; E30, echovirus 30; NEG,
+negative (no enterovirus was detected); SALM, Salmonella Kentucky.
+Swimming-Associated Outbreak of EV Infection • CID 2008:47 (1 September) • 619
+
+
+
+Table 1.
+
+Frequency of individual symptoms among travelers to Mexico, by serotype of enterovirus infection.
+No. (%) of travelers
+
+Symptom
+
+All infected
+with E30
+(n p 8)
+
+Nausea
+Headache
+
+8 (100)
+7 (88)b
+
+Vomiting
+Subjective fever
+
+7 (88)
+b
+5 (63)
+
+Light sensitivity
+Pain with eye movement
+Cough
+Pain with head movement
+
+4
+4
+4
+3
+
+Chills
+Rhinorrhea
+
+3 (38)
+3 (38)
+
+1 (25)
+2 (50)
+
+5 (33)
+2 (13)
+
+3 (27)
+1 (9)
+
+0 (0)
+0 (0)
+
+Sore throat
+Muscle aches
+
+3 (38)
+2 (25)
+
+1 (25)
+1 (25)
+
+5 (33)
+4 (27)
+
+3 (27)
+3 (27)
+
+1 (14)
+0 (0)
+
+Petechial rash
+Diarrhea
+
+2 (25)
+1 (13)
+
+1 (25)
+1 (25)
+
+1 (7)
+4 (27)
+
+0 (0)
+4 (36)
+
+0 (0)
+3 (38)
+
+Stiff neck
+Conjunctival infection
+Asymptomatic
+
+0 (0)
+0 (0)
+0 (0)
+
+0 (0)
+0 (0)
+0 (0)
+
+3 (20)
+0 (0)
+5 (33)
+
+3 (27)
+0 (0)
+5 (45)
+
+1 (14)
+1 (14)
+2 (25)
+
+b
+
+b
+
+(50)
+(50)
+(50)
+(38)
+
+Infected
+a
+with E30 only
+(n p 4)
+
+All infected
+with CVA1
+(n p 15)
+
+Infected
+a
+with CVA1 only
+(n p 11)
+
+No enterovirus
+detected
+(n p 8)
+
+4 (100)
+
+8 (53)
+
+4 (36)
+
+2 (25)
+
+3 (75)
+4 (100)
+
+7 (47)
+4 (27)
+
+3 (27)
+1 (9)
+
+2 (25)
+0 (0)
+
+2 (50)
+
+6 (40)
+
+3 (27)
+
+0 (0)
+
+2
+1
+2
+1
+
+3
+5
+4
+5
+
+1
+2
+2
+3
+
+1
+0
+1
+1
+
+(50)
+(25)
+(50)
+(25)
+
+(20)
+(33)
+(27)
+(33)
+
+(9)
+(18)
+(18)
+(27)
+
+(14)
+(0)
+(14)
+(14)
+
+NOTE. Presence of echovirus (E) 30 or coxsackievirus (CV) A1 was determined by stool culture, stool PCR, or CSF PCR. Of
+the 28 travelers who had their specimens tested for enterovirus, 2 were excluded from this analysis (1 of whom did not have
+a clinical specimen obtained, and 1 of whom had CVA5 identified in a CSF sample and had no evidence of E30 or CVA1 infection).
+a
+
+Excludes travelers with evidence of coinfection with other enteroviruses, although more travelers may have been coinfected,
+because species-specific PCR only identifies the most abundant enterovirus species present.
+b
+Symptoms that were statistically significantly more frequent (P ! .05 , by Fisher’s exact test) among travelers with enterovirus
+infection outcome (E30 or CVA1) than among travelers who had no enterovirus detected.
+
+cases (i.e., the 4 days between illness peaks), we considered sea
+swimming to be the likely source of the outbreak and focused
+additional analysis on this. Despite extensive analysis of individual menu items, meals, and drinks, no food or drink exposures were associated with increased risk of infection. Seventeen (59%) of the 29 travelers reported always using hand
+sanitizer before meals; hand sanitizer use before meals was not
+associated with lower risk of EV infection.
+Table 2 shows associations between EV infection and seawater exposure during the travelers’ swim on 21 June 2004.
+ORs under “All travelers” are for associations between seawater
+exposure and EV infection, comparing EV-positive patients
+with EV-negative control subjects; 3 patients with secondary
+cases were excluded from this comparison. Only 3 travelers did
+not swim, but 2 of these travelers, including the only infected
+patient who did not swim, visited the beach with other travelers.
+All sea swimming exposures were associated with increased risk
+of EV infection, but only the time spent swimming was significantly associated with increased risk of EV infection, as
+noted previously.
+Both EV-negative control subjects who swallowed seawater
+had diarrheal illnesses with onset during the primary illness
+peak. Table 2 also shows an analysis of associations between
+620 • CID 2008:47 (1 September) • Begier et al.
+
+infection and seawater exposure, with the exclusion of ill EVnegative travelers from the control group (i.e., EV-positive patients vs. well EV-negative control subjects). All associations
+had higher estimates for risk of seawater exposure than those
+calculated when ill control subjects were included. A statistically
+significant trend toward increased risk of EV infection was
+observed for swallowing seawater (OR, 16.0), compared with
+swimming without recalling any swallowing of water (OR, 12.0)
+and with not swimming at all (OR, 1.0 [reference]; P p .040,
+by Cuzick’s nonparametric trend test)
+DISCUSSION
+We report an outbreak of primarily EV illnesses associated with
+youth-group travel to Mexico. Illness onset dates were tightly
+clustered, consistent with point-source exposure. Laboratory
+testing identified multiple pathogens (E30, CVA1, CVA5, and
+S. Kentucky), all of which were shed in infected human feces.
+Analysis of exposures suggests that a sea swim 4 days before
+the primary illness peak was the infection source, likely because
+of sewage-contaminated seawater. To our knowledge, this is the
+first reported outbreak of EV infection associated with seawater
+swimming. Furthermore, this is only the second reported out-
+
+
+
+Table 2. Odds of enterovirus infection associated with swimming in the Gulf of Mexico on 21 June 2004.
+Excluding control subjects
+with diarrheal illnesses
+
+a
+
+All travelers
+Case
+patients
+
+Control
+subjects
+
+OR
+
+P
+
+1
+16
+
+2
+6
+
+1.0
+5.3
+
+.231
+
+0
+10 but !1
+
+1
+4
+
+2
+5
+
+1
+
+5
+7
+
+Variable
+
+Case
+patients
+
+Control
+subjects
+
+OR
+
+P
+
+1
+16
+
+2
+2
+
+1.0
+16.0
+
+.080
+
+1.0
+1.6
+
+1
+4
+
+2
+2
+
+1.0
+4.0
+
+1
+
+10.0
+
+5
+
+0c
+
+20.0
+
+c
+
+28.0
+
+.010
+
+7
+
+0
+
+c
+
+28.0
+
+.010
+
+2
+15
+
+2
+6
+
+1.0
+2.
+
+.570
+
+2
+15
+
+2
+2
+
+1.0
+7.5
+
+.148
+
+2
+5
+
+2
+2
+
+1.0
+2.5
+
+2
+5
+
+2
+1
+
+1.0
+5.0
+
+10
+1
+12
+
+4
+2
+4
+
+2.5
+1.0
+6.0
+
+.500
+
+10
+1
+12
+
+1
+2
+2
+
+10.0
+1.0
+12.0
+
+.100
+
+4
+
+2
+
+4.0
+
+.490
+
+4
+
+0c
+
+16.0
+
+.040
+
+b
+
+b
+
+Swimming
+None
+Any
+Total time spent swimming, h
+
+11
+
+0
+
+Submerging head under water
+None
+Any
+No. of times head submerged under water
+Never
+1–4 times
+15 times
+Did not swim
+Swam and swallowed no water
+Swam and swallowed water 1–2 timesd
+a
+
+Data are for 25 of the 28 travelers from whom a specimen was obtained, because 3 patients with secondary cases were excluded from the
+analysis.
+b
+P values were determined with use of Fisher’s exact test, except for frequency data, for which P values were determined with use of Cuzick’s
+nonparametric test for trend across ordered groups (tests for trend associated with increasing behavior frequency).
+c
+OR estimated with use of Woolf’s estimates and with substitution of 0.05 for 0 cells.
+d
+None of the travelers swallowed seawater 12 times.
+
+break in which CVA1 infection was confirmed, requiring novel
+laboratory methodologies for identification (although whether
+CVA1 caused illness is unclear).
+The high morbidity observed among these travelers was likely
+because of E30 infection. Asymptomatic and mild infections
+are reportedly representative of most EV infections [1]. However, published reports [15, 16] documented high rates of
+symptomatic disease in other outbreaks of E30 infection. Two
+investigations of child-care center–associated outbreaks of E30
+infection found that 52%–59% of adults with serologically confirmed E30 infection were symptomatic and that 18%–21% had
+meningitis [15, 16]. In accordance with the known predisposition of E30 to cause more cases of aseptic meningitis than
+do other EVs [17], we found that only meningitis-associated
+symptoms (i.e., headache, fever, vomiting, and nausea) were
+significantly associated with E30 infection. We did not identify
+any asymptomatic E30 infections.
+In contrast, it is ambiguous whether CVA1 infection caused
+any illness. The only prior documented CVA1-associated outbreak was an outbreak of diarrhea among immunocompromised children who had recently undergone bone marrow
+transplantations [18, 19]. CVA1 was also identified in a single
+student traveler to Mexico who had low-grade fever, chills,
+
+nausea, and diarrhea in a small study that investigated the viral
+etiologies of traveler’s diarrhea [20]. Similarly, the most frequent symptoms in our investigation among those who had
+only CVA1 identified were nausea and diarrhea (frequency for
+each, 36%); however, neither symptom was significantly associated with CVA1 infection, and 5 patients were asymptomatic. However, small numbers likely limited our ability to identify significant associations with specific symptoms. Notably,
+CVA1 was not found in any CSF sample, suggesting that CVA1
+likely was not a cause of viral meningitis in this cohort.
+Historically, CVA1 has had a wide geographic distribution
+[21], but only 9 cases of CVA1 infection have been reported
+to the National Enterovirus Surveillance System since the establishment of the voluntary passive system in 1970 [22]. CVA1
+grows poorly in cell culture, and isolation generally requires
+inoculation of suckling mice [23, 24]. Currently, suckling mice
+are infrequently used for viral diagnostics; thus, few clinical
+laboratories can detect CVA1. Until this outbreak, the CDC
+identified CVA1 only 6 times since 1962 (last in 1982), always
+by suckling-mouse inoculation.
+The new, ultrasensitive VP1 RT-snPCR assay allows detection
+and identification of noncultivable EVs without sucklingmouse inoculation [11]. The EV genome was detected with
+
+Swimming-Associated Outbreak of EV Infection • CID 2008:47 (1 September) • 621
+
+
+
+equivalent sensitivity with use of NASBA at Yale-New Haven
+Hospital’s Clinical Virology Laboratory. EV genus–specific
+NASBA and RT-PCR are increasingly available in clinical laboratories, allowing greater sensitivity in detecting EV. Illustratively, only 5 of 18 NASBA-positive samples were viral culture
+positive. However, the genome region targeted by genus-specific
+molecular assays commonly used in clinical laboratories cannot
+differentiate serotypes [7].
+The steep primary illness peak indicates a point-source exposure. The secondary illness peak occurred 4 days after the
+first, indicating a 4-day incubation period (which is within the
+usual 3–6-day incubation period for EV [2]). Four days before
+the primary illness peak, the group participated in a prolonged
+sea swim. All seawater exposures were associated with increased
+risk of EV infection; time spent swimming was significantly
+associated with infection. CVA1 and E30, as well as S. Kentucky
+and the other pathogens, were likely present in the same fecescontaminated seawater, resulting in this outbreak of mixed
+infection.
+We removed travelers with diarrheal illnesses from the control group, because such illnesses might have been caused by
+infections due to other undetected pathogens for which we did
+not test (i.e., other enteric viruses) that resulted from the same
+exposure (i.e., sewage-contaminated seawater). Including patients with such illnesses in the control group might have hindered the identification of risk factors for illness. Removing
+patients with these illnesses from the control group increased
+point estimates for all seawater exposure associations, supporting our hypothesis that sea swimming caused this outbreak.
+Furthermore, a significant trend in increasing risk of infection
+was observed for swallowing seawater, compared with swimming without swallowing water and with not swimming.
+Although outbreaks of EV infection resulting from sea swimming have not been reported previously, other contaminated
+natural waters have been implicated in other outbreaks of EV
+infection [25, 26]; inadequately chlorinated contaminated
+swimming pools have also been implicated [27–29]. E30-contaminated river water and groundwater sources were implicated
+in a drinking water–associated outbreak of E30 infection [30],
+illustrating the ability of E30 to remain viable in natural waters.
+In addition, other viral infections resulting from seawater exposure have been documented in multiple studies [31, 32].
+During this outbreak, seawater may have become contaminated from raw sewage disposal relatively near shore, resulting
+in observed EV illness and other enteric illnesses after sea swimming. Environmental agencies have been concerned about sewage treatment and disposal practices in the Gulf of Mexico [33],
+particularly in Mexico’s Quintana Roo state [34], which was
+this group’s destination. Travelers should be aware of risks associated with swimming in natural waters when visiting areas
+with limited sewage treatment. Travelers should avoid swim622 • CID 2008:47 (1 September) • Begier et al.
+
+ming in oceans and lakes (1) near urban areas where sewage
+might be inadequately treated; (2) after heavy rainfalls, which
+may overwhelm sewage systems, causing increased natural-water contamination; and (3) near water outflows (i.e., pipes or
+rivers), because such outflows can bring contaminated water
+into swimming areas [35].
+The primary limitation of our investigation is the small number of travelers in the group; this likely affected our ability to
+identify statistically significant associations and precluded multivariate analysis. Furthermore, all but 3 travelers swam in the
+seawater; this limited our power to identify statistically significant associations between seawater exposure and EV infection.
+Finally, we were unable to test the seawater for EV because of
+the site’s distance and because of the time elapsed between
+exposure and recognition of the probable exposure source. We
+also did not test stool samples from travelers for other viral
+agents that may have caused diarrheal symptoms.
+In summary, we report high morbidity associated with an
+outbreak of EV disease among travelers to Mexico that likely
+occurred as a result of swimming in sewage-contaminated seawater. Travelers and physicians who advise them should be
+aware of health risks associated with global recreational water
+use and of ways to reduce risk. Finally, EV VP1 RT-snPCR is
+a new methodology that will likely assist in real-time etiologic
+outcome assessment of future outbreaks of EV infection.
+Acknowledgments
+We thank the student travelers and their parents, the trip chaperones,
+and the school administration, for their crucial participation and cooperation in our investigation; Bob Howard, for help with the bacterial culture
+of collected stool specimens; and Michael Beach and Julie Magri, for helpful
+comments on an earlier version of this manuscript.
+Potential conflicts of interest. All authors: no conflicts.
+
+References
+1. Strikas RA, Anderson LJ, Parker RA. Temporal and geographic patterns
+of isolates of nonpolio enterovirus in the United States, 1970–1983. J
+Infect Dis 1986; 153:346–51.
+2. American Academy of Pediatrics. Enterovirus (nonpoliovirus) infections. In: Pickering LK, ed. Red book: 2003 report of the Committee
+on Infectious Diseases. 26th ed. Elk Grove Village, IL: American Academy of Pediatrics, 2003:269–70.
+3. Rotbart HA. Viral meningitis. Semin Neurol 2000; 20:277–92.
+4. Pallansch MA, Roos R. Enteroviruses: polioviruses, coxsackieviruses,
+echoviruses, and newer enteroviruses. In: Knipe DM, Howley PM,
+Griffin DE, et al., eds. Fields virology. 5th ed. Philadelphia, PA: Lippincott Williams & Wilkins, 2006:839–93.
+5. Schnurr D. Enteroviruses. In: Lennette EH, ed. Laboratory diagnosis
+of viral infections. 2nd ed. New York, NY: Marcel Dekker, 1992:351–64.
+6. Rotbart HA. Nucleic acid detection systems for enteroviruses. Clin
+Microbiol Rev 1991; 4:156–68.
+7. Oberste MS, Pallansch MA. Enterovirus molecular detection and molecular typing. Rev Med Microbiol 2005; 16:163–71.
+8. Strebel PM, Sutter RW, Cochi SL, et al. Epidemiology of poliomyelitis
+in the United States one decade after the last reported case of indigenous wild virus-associated disease. Clin Infect Dis 1992; 14:568–79.
+9. Landry ML, Garner R, Ferguson D. Rapid enterovirus RNA detection
+
+
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+20.
+
+21.
+22.
+
+in clinical specimens by using nucleic acid sequence-based amplification. J Clin Microbiol 2003; 41:346–50.
+Boom R, Sol CJA, Salimans MMM, Jansen CL, Wertheim-van Dillen
+PME, van der Noordaa J. Rapid and simple method for the purification
+of nucleic acids. J Clin Microbiol 1990; 28:495–503.
+Nix WA, Oberste MS, Pallansch MA. Sensitive, nested PCR-amplification of enterovirus VP1 sequences for direct identification of enterovirus serotype from original clinical specimens. J Clin Microbiol
+2006; 44:2698–704.
+Oberste MS, Nix WA, Maher K, Pallansch MA. Improved molecular
+identification of enteroviruses by RT-PCR and amplicon sequencing.
+J Clin Virol 2003; 26:375–7.
+Oberste MS, Michele SM, Maher K, et al. Molecular characterization
+of two proposed new enterovirus serotypes, EV74 and EV75. J Gen
+Virol 2004; 85:3205–12.
+Oberste MS, Maher K, Michele SM, Belliot G, Uddin M, Pallansch
+MA. Enteroviruses 76, 89, 90, and 91 represent a novel group within
+the species human enterovirus A. J Gen Virol 2005; 86:445–51.
+Mohle-Boetani JC, Matkin C, Pallansch M, et al. Viral meningitis in
+child care center staff and parents: an outbreak of echovirus 30 infections. Public Health Rep 1999; 114:249–56.
+Helfand RF, Khan AS, Pallansch MA, et al. Echovirus 30 infection and
+aseptic meningitis in parents of children attending a child care center.
+J Infect Dis 1994; 169:1133–7.
+Centers for Disease Control and Prevention. Outbreaks of aseptic meningitis associated with echoviruses 9 and 30 and preliminary surveillance reports on enterovirus activity—United States, 2003. MMWR
+Morb Mortal Wkly Rep 2003; 52:761–4.
+Townsend TR, Bolyard EA, Yolken RH, et al. Outbreak of Coxsackie
+A1 gastroenteritis: a complication of bone-marrow transplantation.
+Lancet 1982; 1:820–3.
+Madeley CR. Fatal diarrhoea and Coxsackie A1 virus. Lancet 1982; 1:
+1013–4.
+Rosenbluth MA, Schaffner W, Kean BH. The diarrhea of travelers. IV.
+Viral studies of visiting students in Mexico with further bacteriologic
+and parasitologic observations. Am J Trop Med Hyg 1963; 12:239–45.
+Gelfand HM. Occurrence in nature of the Coxsackie and ECHO viruses. Pror Med Virol 1961; 3:193–244.
+Khetsuriani N, LaMonte-Fowlkes A, Oberste MS, Pallansch MA; Centers for Disease Control and Prevention. Enterovirus surveillance—
+United States, 1970–2005. MMWR Surveill Summ 2006; 55:1–20.
+
+23. Lipson SM, Walderman R, Costello P, Szabo K. Sensitivity of rhabdomyosarcoma and guinea pig embryo cell cultures to field isolates of
+difficult-to-cultivate group A coxsackieviruses. J Clin Microbiol
+1988; 26:1298–303.
+24. Schmidt NJ, Ho HH, Lennette EH. Propagation and isolation of group
+A coxsackieviruses in RD cells. J Clin Microbiol 1975; 2:183–5.
+25. Hauri AM, Schimmelpfennig M, Walter-Domes M, et al. An outbreak
+of viral meningitis associated with a public swimming pond. Epidemiol
+Infect 2005; 133:291–8.
+26. Hawley HB, Morin DP, Geraghty ME, Tomkow J, Phillips CA. Coxsackievirus B epidemic at a boys’ summer camp: isolation of virus
+from swimming water. JAMA 1973; 226:33–6.
+27. Kee F, McElroy G, Stewart D, Coyle P, Watson J. A community outbreak
+of echovirus infection associated with an outdoor swimming pool. J
+Public Health Med 1994; 16:145–8.
+28. Lenaway DD, Brockmann R, Dolan GJ, Cruz-Uribe F. An outbreak of
+an enterovirus-like illness at a community wading pool: implications
+for public health inspection programs. Am J Public Health 1989; 79:
+889–90.
+29. Centers for Disease Control and Prevention. Aseptic meningitis outbreak associated with echovirus 9 among recreational vehicle campers—Connecticut, 2003. MMWR Morb Mortal Wkly Rep 2004; 53:
+710–3.
+30. Amvrosieva TV, Titov LP, Mulders M, et al. Viral water contamination
+as the cause of aseptic meningitis outbreak in Belarus. Cent Eur J
+Public Health 2001; 9:154–7.
+31. Pruss A. Review of epidemiological studies on health effects from exposure to recreational water. Int J Epidemiol 1998; 27:1–9.
+32. Environmental Protection Agency. Water quality standards for coastal
+and Great Lakes recreation waters. 40 CFR Part 131. Fed Reg 2004;
+69(220):67218–43.
+33. van de Guchte C, Vandeweerd V. Targeting sanitation. Our Planet
+2004; 14:19–21.
+34. Dudenhoefer D. Scientists and divers join forces to seek solution to
+messy problem that threatens the Caribbean Reef off Mexico’s Yucatán
+Peninsula. Eco-exchange. February 2005. Available at: http://www
+.rainforest-alliance.org/programs/neocomm/newsletter/2005/feb05-2
+.html. Accessed 26 June 2005.
+35. Haile RW, Witte JS, Gold M, et al. The health effects of swimming in
+ocean water contaminated by storm drain runoff. Epidemiology
+1999; 10:355–63.
+
+Swimming-Associated Outbreak of EV Infection • CID 2008:47 (1 September) • 623
+
+

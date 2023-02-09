@@ -1,0 +1,961 @@
+ RESEARCH 
+
+The Association Between Extreme Precipitation
+and Waterborne Disease Outbreaks
+in the United States, 1948–1994
+| Frank C. Curriero, PhD, Jonathan A. Patz, MD, MPH, Joan B. Rose, PhD, and Subhash Lele, PhD
+
+According to the US National Assessment on
+the Potential Consequences of Climate Variability and Change,1 determining the role of
+weather in the incidence of waterborne disease outbreaks is a priority public health research issue for this country. Rainfall and
+runoff have been implicated in individual outbreaks in the United Kingdom and the United
+States. A waterborne disease outbreak of giardiasis in Montana was related to rainfall,2 as
+was the largest reported waterborne disease
+outbreak ever documented, which occurred
+in Milwaukee, Wis, in 1993. There, an estimated 403 000 cases of intestinal illness and
+54 deaths occurred,3 and the outbreak was
+preceded by a period of heavy rainfall and
+runoff with a subsequent turbidity load that
+compromised the efficiency of the drinking
+water treatment plant.4,5
+Even outbreaks of Escherichia coli, generally considered a foodborne pathogen, have
+been linked to rainfall events. In fact, the
+largest reported outbreak of E coli O157:H7
+occurred at a fairground in the state of New
+York in September 1999 and was linked to
+contaminated well water. Unusually heavy
+rainfall, which was preceded by a drought, coincided with this major outbreak.1 Under conditions of high soil saturation, rapid transport
+of microbial organisms can be enhanced.
+Part of the rationale for this study, conducted through a US Environmental Protection Agency grant for studying the effects of
+global climate change on public health, comes
+from projections of more intense rainfall that
+may accompany global warming. In the past
+century, average daily temperatures in the
+conterminous United States increased by approximately 1°F.6 Warmer air can hold more
+moisture, and changes in the hydrologic cycle
+in the United States have been evidenced by
+increases in cloud cover7 and total precipitation.8 Moreover, the type of precipitation has
+
+Objectives. Rainfall and runoff have been implicated in site-specific waterborne disease outbreaks.
+Because upward trends in heavy precipitation in the United States are projected to increase with climate
+change, this study sought to quantify the relationship between precipitation and disease outbreaks.
+Methods. The US Environmental Protection Agency waterborne disease database, totaling 548 reported
+outbreaks from 1948 through 1994, and precipitation data of the National Climatic Data Center were
+used to analyze the relationship between precipitation and waterborne diseases. Analyses were at the
+watershed level, stratified by groundwater and surface water contamination and controlled for effects
+due to season and hydrologic region.A Monte Carlo version of the Fisher exact test was used to test for
+statistical significance.
+Results. Fifty-one percent of waterborne disease outbreaks were preceded by precipitation events
+above the 90th percentile (P = .002), and 68% by events above the 80th percentile (P = .001). Outbreaks
+due to surface water contamination showed the strongest association with extreme precipitation during the month of the outbreak; a 2-month lag applied to groundwater contamination events.
+Conclusions. The statistically significant association found between rainfall and disease in the United
+States is important for water managers, public health officials, and risk assessors of future climate
+change. (Am J Public Health. 2001;91:1194–1199)
+been changing in the United States, with increases in extreme precipitation events (those
+with an intensity of more than 2 inches per
+day).9,6,10 These rainfall patterns are consistent
+with expectations of a more vigorous hydrologic cycle caused by anthropogenic greenhouse gas warming of the earth’s surface.11–13
+The purpose of our study was to analyze
+the relationship between precipitation and
+waterborne diseases, using the complete database of all reported waterborne disease outbreaks in the United States from 1948 to
+1994. Rainfall intensity is assumed to be a
+key determining factor in the fate and transport of pathogenic microorganisms, but the
+relationship has never been analyzed at the
+national level.
+
+METHODS
+US Waterborne Disease Outbreaks and
+Precipitation Data Sets
+Data on all reported waterborne disease
+outbreaks in the United States between 1948
+
+1194 | Research Articles | Peer Reviewed | Curriero et al.
+
+and 1994 were obtained from the US Environmental Protection Agency’s Office of Research and Development. Included in this
+data set were the etiologic agent, the community and state where the outbreak occurred,
+and the month and year of each outbreak.
+The outbreak source was designated as either
+surface water or groundwater contamination.
+The community and state information was
+geocoded and expressed as longitude and latitude coordinates marking the affected city or
+county.
+A waterborne disease outbreak is defined
+as an outbreak in which epidemiologic evidence points to a drinking water source from
+which 2 or more persons become ill at similar
+times. All recreational outbreaks and outbreaks associated with cross-connections or
+back-siphonage between sewage and drinking
+water in the distribution system, including
+chemical outbreaks, were removed from the
+database. We excluded these outbreaks to
+focus the analysis on source waters and watershed contamination and to exclude acci-
+
+American Journal of Public Health | August 2001, Vol 91, No. 8
+
+
+
+ RESEARCH 
+
+Note. Outbreak locations represent the centroid of the affected watershed.
+
+FIGURE 1—Waterborne disease outbreaks and associated extreme levels of precipitation (precipitation in the highest 10% [90th percentile])
+within a 2-month lag preceding the outbreak month: United States, 1948–1994.
+
+dental fecal releases associated with recreational outbreaks and infrastructure problems
+in the distribution system.
+The conterminous United States is subdivided into 2105 hydrologic cataloging units
+called watersheds, which are geographic areas
+representing part or all of a surface drainage
+basin, a combination of drainage basins, or a
+distinct hydrologic feature. Watersheds act as
+the drinking water source for the surrounding
+area; thus, we chose watersheds as the geographic units for our investigation. Outbreak
+locations, originally designating the affected
+city or county, were recoded to correspond to
+the centroid of the associated watershed. Data
+on US hydrologic units, a hierarchy of geographic subdivisions including watersheds,
+were downloaded from the US Geological
+Survey.14 Figure 1 includes boundaries for the
+
+largest subdivision in this hierarchy (watersheds are the smallest), which divides the
+United States into 18 distinct hydrologic regions, each containing the drainage area of a
+major river or the combined drainage areas
+of a series of rivers.
+Total monthly precipitation readings for the
+more than 16 000 weather stations located
+across the United States from 1948 through
+1994 were downloaded from the National Climatic Data Center.15 The weather station locations were also coded to the watershed level;
+each watershed, on the average, contained approximately 7 weather stations. To account for
+local variations, we replaced recorded total
+monthly precipitation for each weather station
+with its corresponding z score, which was
+computed on the basis of the distribution of
+values recorded for that month from 1948 to
+
+August 2001, Vol 91, No. 8 | American Journal of Public Health
+
+1997. We considered there to be sufficient information to compute z scores only if the corresponding distributions contained at least 20
+years of recorded data. The z score thresholds
+were chosen to indicate extreme levels of precipitation. For example, z scores greater than
+0.84, 1.28, and 1.65 correspond, respectively,
+to total monthly precipitation in the highest
+20%, 10%, and 5% observed for that station
+and month from 1948 to 1994. The maximum z score determined from weather station–specific z scores within a watershed was
+used as a measure of extreme precipitation for
+that watershed.
+
+Statistical Analysis
+Figure 1 displays the 548 waterborne disease outbreaks, plotted using the centroid of
+the affected watershed, within the contermi-
+
+Curriero et al. | Peer Reviewed | Research Articles | 1195
+
+
+
+ RESEARCH 
+
+TABLE 1—Waterborne Disease Outbreaks, With Associated Extreme Levels of Precipitationa
+in the Preceding 2 Months: United States, 1948–1994
+Extreme Precipitation
+Outbreak
+
+Yes
+
+No
+
+Total
+
+Yes
+No
+
+268
+NC
+
+257
+NC
+
+525
+1 186 695
+
+NC
+
+NC
+
+1 187 220
+
+Total
+
+Note. There were 1 187 220 watershed outbreak possibilities. Shown are the 525 outbreaks for which extreme precipitation
+data were available. Information regarding extreme precipitation status for watersheds not experiencing an outbreak was not
+compiled (NC).
+a
+Precipitation in the highest 10% (90th percentile).
+
+nous United States that were reported from
+1948 to 1994. Of these outbreaks, 51% were
+preceded within a 2-month lag by an extreme
+level of precipitation in the highest 10% (or
+90th percentile), as indicated in the figure.
+Several methods, and an accompanying large
+body of literature, are available to test for
+spatial clustering of disease events.16 In this
+study we were interested in testing whether
+the outbreaks cluster around extreme precipitation events, as opposed to solely investigating geographic clustering of outbreaks.
+Information in Figure 1 can be represented
+with a 2 × 2 contingency table, watershed outbreak status × watershed extreme precipitation
+status. Since this information is collapsed over
+time, there are a total of 1 187 220 watershed outbreak possibilities (47 years × 12
+months × 2105 watersheds). Table 1 displays
+extreme precipitation status for only those
+watersheds known to have experienced an
+outbreak. Enumerating the bottom row would
+require determining the extreme precipitation
+status within a 2-month lag for the remaining
+watershed outbreak possibilities, a computational burden we wished to avoid. The total
+number of outbreaks is shown to be 525, not
+548, because sufficient precipitation data
+were not available for 23 outbreak-associated
+watersheds.
+Associations between events in contingency tables are usually described with odds
+ratios followed by a χ2-based test of independence. Proceeding in this fashion, however, would require a completely enumerated
+table. Note that the percentage of coincident
+events reported (51%) is simply the (1,1) cell
+(outbreak and extreme precipitation) divided
+
+by its marginal total (number of outbreaks).
+Since the row and column totals in Table 1
+are fixed, the (1,1) cell determines the remaining cells and hence the odds ratio; thus,
+the percentage of coincident events and the
+odds ratio are equivalent descriptors of association. Also, because the marginal totals are
+fixed, the Fisher exact test17 can be used to
+assess the significance of the association
+based on the percentage of coincident events.
+Although the calculation of P values in the
+Fisher exact test requires fully enumerated information as well, the rationale behind the
+calculation can be approximated with the following Monte Carlo simulation.
+The general idea is to repeatedly generate
+sets of “outbreaks” in a random fashion, tabulating the percentage of these artificial outbreaks that coincide with extreme levels of
+precipitation at each step. Such a process
+would produce a distribution of coincident
+percentages under the assumption of no association, which can then be compared with the
+observed percentage to compute a P value.
+The following algorithm describes the process
+for a given set of outbreaks overlaid with extreme precipitation events.
+
+1196 | Research Articles | Peer Reviewed | Curriero et al.
+
+1. Generate a set of outbreaks.
+a. Randomly select watersheds.
+b. Randomly select a month (1–12) and
+year (1948–1994) for each watershed.
+2. Calculate and store the percentage of
+these outbreaks coincident with extreme
+levels of precipitation within a given preceding monthly lag.
+3. Repeat steps 1 and 2 one thousand
+times.
+
+The expected percentage of outbreaks coincident with extreme levels of precipitation
+within a given preceding monthly lag, under
+the assumption of no association, can be estimated by averaging the Monte Carlo distribution of percentages in step 2.
+For the data shown in Table 1, if the 525
+waterborne disease outbreaks are clustered
+both spatially and temporally within watersheds experiencing extreme levels of precipitation, then the observed 51% would be
+higher than the percentage expected under
+the assumption of no association. We were
+therefore interested in testing the one-sided
+alternative representing a positive association
+between outbreaks and extreme precipitation.
+P values for such a test can be obtained by
+dividing by 1000 the number of percentages
+in step 2 that are higher than their respective
+observed percentages.
+
+RESULTS
+Table 2 cross-tabulates the 548 reported
+waterborne disease outbreaks by the 18 hydrologic regions and 4 seasons. The distribution of outbreaks across the seasons (column
+totals) shows that the number of outbreaks is
+highest during the summer months and lowest during the winter months. The distribution across the hydrologic regions (row totals)
+may be due to specific hydrologic features
+present in these regions. The distributional
+variations across regions and seasons can be
+controlled for in the Monte Carlo test by restricting the randomization scheme in step 1
+of that algorithm to adhere to the marginal
+totals shown in Table 2. Thus, each artificial
+set of outbreaks would have identical row
+and column totals, as shown in Table 2. The
+resulting test would then be one of conditional association between outbreaks and extreme precipitation, controlling for variations
+across both regions and seasons.
+Of the 548 waterborne disease outbreaks
+reported between 1948 and 1994, 133 (approximately 24%) were known to be from surface water contamination, 197 (approximately
+36%) were known to be from groundwater
+contamination, and 218 (approximately 40%)
+had an unknown water contamination source.
+The outbreak data also included the etiologic
+agents involved in each outbreak. More than
+
+American Journal of Public Health | August 2001, Vol 91, No. 8
+
+
+
+ RESEARCH 
+
+nificant at the .05 level across all of the scenarios we considered for the combined data.
+The analysis stratified by water contamination source showed that outbreaks due to surface water contamination were most significant for extreme precipitation during the
+month of the outbreak. Outbreaks due to
+groundwater contamination, however,
+showed highest significance for extreme precipitation 2 months prior to the outbreak.
+This might be expected, considering the direct vs complex routes of exposure.
+
+TABLE 2—Waterborne Disease Outbreaks, by Hydrologic Region and Season:
+United States, 1948–1994
+Season
+Region
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+Total
+
+Winter
+
+Spring
+
+Summer
+
+Fall
+
+Total
+
+2
+14
+4
+6
+6
+1
+2
+1
+1
+5
+6
+0
+0
+6
+1
+0
+6
+9
+
+8
+27
+5
+2
+9
+1
+12
+1
+0
+5
+9
+3
+1
+6
+3
+1
+17
+6
+
+17
+63
+12
+18
+18
+2
+10
+5
+1
+24
+16
+4
+5
+7
+3
+3
+34
+14
+
+11
+29
+8
+8
+6
+3
+3
+2
+1
+7
+8
+2
+1
+4
+1
+0
+8
+4
+
+38
+133
+29
+34
+39
+7
+27
+9
+3
+41
+39
+9
+7
+23
+8
+4
+65
+33
+
+70
+
+116
+
+256
+
+106
+
+548
+
+DISCUSSION
+
+Note. Winter = December, January, February; Spring = March, April, May; Summer = June, July, August; Fall = September,
+October, November.
+
+half the outbreaks were determined to be
+“acute gastrointestinal illness,” about 13% were
+attributed to Giardia, and the remainder were
+caused by 35 other specific agents.
+We used the Monte Carlo test presented
+above to test the significance of the overlaid
+information shown in Figure 1 and other associations between waterborne disease outbreaks and extreme precipitation, controlling
+for the possible confounding effects due to
+hydrologic region and season. Different scenarios were investigated by varying the preceding monthly lag time and level of extreme
+precipitation. Separate analyses were performed for outbreaks due to surface water
+contamination, outbreaks due to groundwater
+contamination, and the combined data, including outbreaks with an unknown water
+contamination source. The results, which are
+presented in Table 3, include for each scenario the observed percentage of outbreaks
+coincident with extreme precipitation events;
+an estimated expected percentage of coincident events, assuming no association; and the
+
+P value testing the significance of the observed percentage.
+Results for the association depicted in Figure 1 (combined data, monthly lag 0, 1, 2,
+and 90th percentile extreme precipitation) indicate that after controlling for variations
+across regions and seasons, we would have
+expected 43.2% of the outbreaks to be coincident with extreme precipitation if there was
+no association between outbreaks and extreme precipitation. The observed percentage
+of outbreaks coincident with levels of extreme
+precipitation—51.0%—was highly significant
+(P = .002). P values of less than .001 in
+Table 3 indicate the strongest evidence of an
+association; they occurred when the random
+selection of watershed outbreaks, for the
+1000 iterations performed in step 1 of the
+Monte Carlo algorithm, did not produce a
+percentage of outbreaks coincident with this
+level of extreme precipitation that was higher
+than the observed percentage.
+The association between outbreaks and extreme precipitation remained statistically sig-
+
+August 2001, Vol 91, No. 8 | American Journal of Public Health
+
+This study represents the first quantitative
+analysis of the relationship between extreme
+precipitation and waterborne disease outbreaks at the national level and over an extended period. Our findings show a statistically significant association between weather
+events and disease. However, we recognize
+that multiple factors are involved, which
+must occur simultaneously in time and
+space. Elements of an outbreak event include (1) a source of contamination (infected
+humans, domestic animals, or wildlife); (2)
+fate and transport of the contaminant from
+source to drinking water supplies; (3) inadequate treatment; and (4) detection and reporting of the outbreak.18 Given the variability of these factors across the United States,
+the robustness of our findings demonstrates
+the important role of extreme wet-weather
+events in microbial fate and transport and as
+a contributing factor in US waterborne disease outbreaks.
+Incorporating data on other causal components will be important in the development of
+better predictive models extending beyond
+this study’s limitations. We have partially controlled for source of outbreak by conducting
+analyses at the watershed level. Watersheds
+might be expected to maintain some consistency in land use patterns; however, these
+patterns, inevitably, have changed over the
+47 years analyzed. Several state-specific
+analyses that could include more detailed
+land use and treatment facility information
+would, therefore, be of benefit as a follow-up
+to this national-level study.
+Our study is limited by the temporal resolution of the waterborne disease outbreak
+
+Curriero et al. | Peer Reviewed | Research Articles | 1197
+
+
+
+ RESEARCH 
+
+TABLE 3—Monte Carlo Simulation Results for the Association Between Waterborne Disease
+Outbreaks and Extreme Precipitation: United States, 1948–1994
+Extreme Precipitation Percentile
+Surface Water Contamination
+Monthly Lag
+Monthly lag 0
+Observed, %
+Monte Carlo, %
+P
+Monthly lag 0,1
+Observed, %
+Monte Carlo, %
+P
+Monthly lag 0,1,2
+Observed, %
+Monte Carlo, %
+P
+Monthly lag 1
+Observed, %
+Monte Carlo, %
+P
+Monthly lag 1,2
+Observed, %
+Monte Carlo, %
+P
+
+Groundwater Contamination
+
+Combined
+
+80th
+
+90th
+
+95th
+
+80th
+
+90th
+
+95th
+
+80th
+
+90th
+
+95th
+
+39.1
+26.9
+.001
+
+28.9
+17.4
+<.001
+
+22.7
+11.7
+.001
+
+31.2
+28.8
+.229
+
+21.4
+18.6
+.173
+
+13.5
+12.4
+.314
+
+33.3
+27.7
+.001
+
+22.8
+17.9
+<.001
+
+16.8
+12.0
+.002
+
+55.1
+45.5
+.022
+
+41.7
+31.2
+.003
+
+33.9
+21.7
+.002
+
+53.9
+48.0
+.059
+
+39.3
+33.0
+.039
+
+26.2
+22.7
+.132
+
+52.3
+46.5
+.003
+
+38.3
+31.9
+.001
+
+28.8
+22.0
+<.001
+
+65.9
+58.9
+.063
+
+50.8
+42.3
+.023
+
+42.9
+30.3
+.001
+
+71.6
+61.6
+.002
+
+52.1
+44.4
+.021
+
+36.8
+31.6
+.062
+
+68.0
+59.9
+<.001
+
+51.0
+43.2
+.002
+
+39.4
+30.7
+<.001
+
+34.6
+26.8
+.033
+
+22.8
+17.4
+.060
+
+18.1
+11.6
+.026
+
+33.2
+28.7
+.083
+
+22.8
+18.5
+.070
+
+14.5
+12.3
+.183
+
+31.6
+27.5
+.005
+
+20.3
+17.7
+.047
+
+14.9
+11.8
+.009
+
+54.8
+45.4
+.023
+
+36.5
+31.0
+.109
+
+31.0
+21.5
+.003
+
+57.8
+47.7
+.002
+
+41.7
+32.6
+.009
+
+28.6
+22.4
+.027
+
+54.4
+46.3
+<.001
+
+37.5
+31.6
+.001
+
+27.8
+21.7
+<.001
+
+Note. Shown are results for outbreaks known to be from surface water contamination, outbreaks known to be from groundwater contamination, and the combined data, including outbreaks with an
+unknown water contamination source. Listed for each monthly lag and extreme precipitation scenario are the observed percentage of outbreaks coincident with extreme precipitation, the Monte
+Carlo–expected percentage of coincident events, and the corresponding P value.
+
+data. These data have been reported in the
+same way for approximately 50 years. Improved understanding and better prevention
+might be achieved if outbreak data included
+start and end dates rather than simply the
+month of occurrence.18
+Reporting bias is a key component in the
+waterborne disease outbreak data. Experts estimate that we may be seeing only a small fraction of the actual outbreaks.19 With such a bias,
+many of the cluster detection methods that
+focus primarily on geographic clustering of diseases would clearly be inappropriate. The
+method we applied, which is focused more on
+the clustering of outbreaks around extreme
+precipitation, is appropriate under the assumption that outbreak reporting is independent of
+surrounding monthly precipitation.
+Although the United States is thought to
+have high-quality drinking water, the risk of
+contamination from leaking septic tanks or
+
+agricultural runoff remains. One pathogen,
+Cryptosporidium, a protozoan that completes its
+life cycle within the intestine of mammals, is
+shed in high numbers of infectious oocysts that
+are dispersed in feces. It is highly prevalent in
+ruminants and readily transmitted to humans.20 In a cross-sectional analysis of 50 livestock farms sampled within the 100-year
+floodplain in Lancaster County, Pennsylvania,
+manure samples from 64% of the farms tested
+positive for C parvum.21 Therefore, it is biologically plausible that increases in rainfall and
+runoff intensity would result in more contamination of source waters by this parasite.
+Our results are also consistent with findings
+from other studies. For example, Atherholt et
+al. found that concentrations of Cryptosporidium oocysts and Giardia cysts in the Delaware
+River were positively correlated with rainfall.22 In 1998, a drinking water outbreak of
+cryptosporidiosis that occurred in Brushy
+
+1198 | Research Articles | Peer Reviewed | Curriero et al.
+
+Creek, Tex, was linked to storms that led to
+sewage contamination of wells and creeks.23
+Cryptosporidium oocysts are very small (~5
+microns) and are difficult to remove from
+water; a recent study found that 13% of finished water still contained Cryptosporidium
+oocysts,24 indicating some passage of microorganisms from source to treated drinking water.
+Municipal water systems, even today, can
+be overburdened by extreme rainfall events.
+For example, many communities still have
+combined sewer systems designed to carry
+both storm water and sanitary wastewater to
+a sewage treatment plant. During periods of
+heavy rainfall or snowmelt, the stormwater
+can exceed the capacity of the sewer system
+or treatment plant, and these systems are designed to discharge the excess wastewater directly into surface water bodies.25,26 For
+northern latitudes and high-elevation regions, the addition of temperature values
+
+American Journal of Public Health | August 2001, Vol 91, No. 8
+
+
+
+ RESEARCH 
+
+could further enhance the analysis by addressing the contribution of snowmelt.
+During the heavy rainfall that accompanied
+the very strong El Niño of 1997 and 1998, a
+survey of a southwest Florida estuary found
+higher concentrations of fecal indicator organisms than occurred throughout the rest of the
+year,27,28 implicating heavy rainfall as a risk
+factor for waterborne or seafood-borne disease. In urban watersheds, more than 60% of
+the annual load of all contaminants is transported during storm events.29 In general, turbidity increases during storm events, and
+studies have recently shown a correlation between increases in turbidity and illness in
+communities.30,31
+In summary, there is mounting evidence
+that heavy precipitation and runoff events
+significantly contribute to the risk of waterborne disease outbreaks. In the future, incorporation of other site-specific parameters,
+particularly land use patterns and treatment
+facility specifications, may allow for the development of more localized predictive models that can benefit water managers and public health planners. Our findings provide
+further insight into the linkage between
+weather and human disease that can be applied to risk assessments of future climate
+change.
+
+About the Authors
+Frank C. Curriero is with the Department of Biostatistics
+and Jonathan A. Patz is with the Department of Environmental Health Sciences, The Johns Hopkins University,
+Baltimore, Md. Joan B. Rose is with the Department of
+Marine Sciences, University of South Florida, St. Petersburg. Subhash Lele is with the Department of Mathematical Sciences, University of Alberta, Edmonton.
+Requests for reprints should be sent to Jonathan A.
+Patz, MD, MPH, Program on Health Effects of Global Environmental Change, Department of Environmental Health
+Sciences, The Johns Hopkins University, 615 N Wolfe St,
+Baltimore, MD 21205 (e-mail: jpatz@jhsph.edu).
+This article was accepted January 1, 2001.
+
+Contributors
+F. C. Curriero developed the statistical methodology and
+performed all data analyses. J. A. Patz was the principal
+investigator for this study and conceived and led the
+overall design of this project. J. B. Rose obtained all the
+outbreak data and was responsible for plotting them,
+using a geographic information systems (GIS) format;
+provided information on the details of the database;
+and reviewed the article. S. Lele provided expert guidance on the statistical analyses and made revisions to
+the manuscript.
+
+Acknowledgments
+This study was supported by the US Environmental
+Protection Agency, STAR Grant R824995, “Integrated
+Assessment of the Public Health Effects of Climate
+Change for the United States.’’
+We are grateful to Rebecca Calderon of the Office of
+Research and Development, US Environmental Protection Agency, for providing the waterborne disease outbreak data. We also thank Scott Daeschner, University
+of South Florida, and Timothy Shields, the Johns Hopkins University, for their assistance in processing the outbreak data and GIS support, and Drs Paul Jameson and
+Dave Easterling, National Climatic Data Center, for providing quality assurance pertaining to the climate data.
+
+References
+1. Patz JA, McGeehin MA, Bernard SM, et al. The
+potential health impacts of climate variability and
+change for the United States: executive summary of the
+report of the health sector of the US National Assessment. Environ Health Perspect. 2000;108:367–376.
+2. Weniger BG, Blaser MJ, Gedrose J, Lippy EC, Juranek DD. An outbreak of waterborne giardiasis associated with heavy water runoff due to warm weather
+and volcanic ashfall. Am J Public Health. 1983;73:
+868–872.
+3. Hoxie NJ, Davis JP, Vergeront JM, Nashold RD,
+Blair KA. Cryptosporidiosis-associated mortality following a massive waterborne outbreak in Milwaukee, Wisconsin. Am J Public Health. 1997;87:2032–2035.
+4. MacKenzie WR, Hoxie NJ, Proctor ME, et al. Massive waterborne outbreak of Cryptosporidium infection
+associated with a filtered public water supply. N Engl J
+Med. 1994;331:161–167.
+5. Kramer MH, Herwaldt BL, Craun GF, Calderon
+RL, Juranek DD. Surveillance for waterborne-disease
+outbreaks—United States, 1993–1994. MMWR Morb
+Mortal Wkly Rep. 1996;45(SS-1):1–33.
+
+15. National Climate Data Center. Available at http://
+www.ncdc.noaa.gov/ol/climate/climatedata.html.
+Accessed May 30, 2001.
+16. Stat Med. 1996;15; nos. 7–9.
+17. Agresti A. An Introduction to Categorical Data
+Analysis. New York, NY: John Wiley & Sons Inc; 1996.
+18. Rose JB, Daeschner S, Easterling DR, Curriero FC,
+Lele S, Patz JA. Climate and waterborne outbreaks in
+the U.S.: a preliminary descriptive analysis. J Am Water
+Works Assoc. 2000;92(9):77–87.
+19. Frost FJ, Craun GF, Calderon RL. Waterborne disease surveillance. J Am Water Works Assoc. 1996;
+88(9):66–75.
+20. Fayer R, Speer CA, Dubey JP. The general biology
+of Cryptosporidium. In: Fayer R, ed. Cryptosporidium
+and Cryptosporidiosis. Boca Raton, Fla: CRC Press Inc;
+1997:1–42.
+21. Graczyk TK, Evans BM, Shiff CJ, Karreman HJ,
+Patz JA. Environmental and geographical factors contributing to contamination of watershed with Cryptosporidium parvum oocysts. Environ Res. 2000;82:
+263–271.
+22. Atherholt TB, LeChevallier MW, Norton WD,
+Rosen JS. Effect of rainfall on Giardia and Cryptosporidium. J Am Water Works Assoc. 1998;90(9):
+66–80.
+23. CCN: Cryptosporidium Capsule Newsletter. August
+1998.
+24. LeChevallier MS, Norton WD. Giardia and Cryptosporidium in raw and finished water. J Am Water
+Works Assoc. 1995;87(9):54–68.
+25. Perciasepe R. Combined Sewer Overflows: Where
+Are We Four Years After Adoption of the CSO Control
+Policy? Washington, DC: Office of Wastewater Management, Environmental Protection Agency; 1998.
+
+6. Karl TR, Knight RW, Easterling DR, Quayle RG.
+Indices of climate change for the United States. Bull
+Am Meteorol Soc. 1996;77:279–303.
+7. Karl TR, Steurer PM. Increased cloudiness in the
+United States during the first half of the twentieth century: fact or fiction? Geophys Res Lett. 1990;17:
+1925–1928.
+8. Groisman PY, Easterling DR. Variability and
+trends of precipitation and snowfall over the United
+States and Canada. J Climate. 1994;7:184–205.
+9. Karl TR, Knight RW, Plummer N. Trends in highfrequency climate variability in the twentieth century.
+Nature. 1995;377:217–220.
+10. Karl TR, Knight RW. Secular trends of precipitation amount, frequency, and intensity in the USA. Bull
+Am Meteorol Soc. 1998;79:231–241.
+11. Fowler AM, Hennessey KJ. Potential impacts of
+global warming on the frequency and magnitude of
+heavy precipitation. Natural Hazards. 1995;11:
+283–303.
+12. Mearns LO, Giorgi F, McDaniel L, Shields C.
+Analysis of daily variability of precipitation in a nested
+regional climate model: comparison with observations
+and doubled CO2 results. Global Planetary Change.
+1995;10:55–78.
+13. Trenberth KE. Conceptual framework for changes
+of extremes of the hydrologic cycle with climate
+change. Climatic Change. 1999;42:327–339.
+
+August 2001, Vol 91, No. 8 | American Journal of Public Health
+
+14. US Geological Survey. Available at http://
+water.usgs.gov. Accessed May 30, 2001.
+
+26. Rose JB, Simonds J. King County Water Quality Assessment: Assessment of Public Health Impacts Associated
+With Pathogens and Combined Sewer Overflows. Seattle,
+Wash: Water and Land Resources Division, Department of Natural Resources; 1998.
+27. Harvell CD, Kim K, Burkholder JM, et al. Emerging marine diseases: climate links and anthropogenic
+factors. Science. 1999;285:1505–1510.
+28. Lipp EK, Rose JB, Vincent R, Kurz RC, RodriquezPalacios C. Assessment of the Microbiological Water
+Quality of Charlotte Harbor, Florida. Tampa: Southwest
+Florida Water Management District; 1999.
+29. Fisher GT, Katz BG. Urban Stormwater Runoff: Selected Background Information and Techniques for Problem Assessment With a Baltimore, Maryland, Case Study.
+Reston, Va: US Geological Survey; 1988.
+30. Morris RD, Naumova EN, Levin R, Munasinghe
+RL. Temporal variation in drinking water turbidity and
+diagnosed gastroenteritis in Milwaukee. Am J Public
+Health. 1996;86:237–239.
+31. Schwartz J, Levin R, Hodge K. Drinking water turbidity and pediatric hospital use for gastrointestinal illness in Philadelphia. Epidemiology. 1997;8:615–620.
+
+Curriero et al. | Peer Reviewed | Research Articles | 1199
+
+

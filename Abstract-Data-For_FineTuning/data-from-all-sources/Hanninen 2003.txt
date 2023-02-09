@@ -1,0 +1,812 @@
+APPLIED AND ENVIRONMENTAL MICROBIOLOGY, Mar. 2003, p. 1391–1396
+0099-2240/03/$08.00⫹0 DOI: 10.1128/AEM.69.3.1391–1396.2003
+Copyright © 2003, American Society for Microbiology. All Rights Reserved.
+
+Vol. 69, No. 3
+
+Detection and Typing of Campylobacter jejuni and Campylobacter coli
+and Analysis of Indicator Organisms in Three Waterborne
+Outbreaks in Finland
+Marja-Liisa Hänninen,1* H. Haajanen,2 T. Pummi,3 K. Wermundsen,4 M.-L. Katila,5
+H. Sarkkinen,6 I. Miettinen,7 and H. Rautelin8
+Department of Food and Environmental Hygiene, University of Helsinki,1 Food and Environmental Laboratory Varkaus,
+Varkaus,2 Lahti Research Laboratory, Lahti,3 Department of Environmental Health, Vihti,4 Department of Clinical
+Microbiology, Kuopio University Hospital, Kuopio,5 Department of Clinical Microbiology, Central Hospital
+of Päijät-Häme, Lahti,6 National Public Health Laboratory, Kuopio,7 and Department of
+Bacteriology and Immunology, Haartman Institute, University of Helsinki and
+HUCH Laboratory Diagnostics, Helsinki,8 Finland
+Received 18 July 2002/Accepted 11 December 2002
+
+Waterborne outbreaks associated with contamination of drinking water by Campylobacter jejuni are rather
+common in the Nordic countries Sweden, Norway, and Finland, where in sparsely populated districts groundwater is commonly used without disinfection. Campylobacters, Escherichia coli, or other coliforms have rarely
+been detected in potential sources. We studied three waterborne outbreaks in Finland caused by C. jejuni and
+used sample volumes of 4,000 to 20,000 ml for analysis of campylobacters and sample volumes of 1 to 5,000 ml
+for analysis of coliforms and E. coli, depending on the sampling site. Multiple samples obtained from possible
+sources (water distribution systems and environmental water sources) and the use of large sample volumes
+(several liters) increased the chance of detecting the pathogen C. jejuni in water. Filtration of a large volume
+(1,000 to 2,000 ml) also increased the rate of detection of coliforms and E. coli. To confirm the association
+between drinking water contamination and illness, a combination of Penner serotyping and pulsed-field gel
+electrophoresis (digestion with SmaI and KpnI) was found to be useful. This combination reliably verified
+similarity or dissimilarity of C. jejuni isolates from patient samples, from drinking water, and from other
+environmental sources, thus confirming the likely reservoir of an outbreak.
+the possibility of infection by drinking water containing only a
+few hundred viable campylobacters (19). In the Finnish population of 5.3 million people, between 1998 and 2000 21 waterborne outbreaks were registered. Ten of these outbreaks were
+caused by Norwalk-like caliciviruses, and nine were caused by
+campylobacters (18, 20).
+Determination of fecal indicator organisms, such as total
+coliforms and especially Escherichia coli, has been used for
+more than 100 years for routine monitoring of the microbiological safety of drinking water. According to most regulations,
+a 100-ml sample of drinking water should not contain any
+coliform bacteria (27); a prerequisite for use of this volume is
+that the safety of the drinking water has been assessed by risk
+analysis, and any possibility of fecal contamination thus is minimized (27). Microbiological analysis is an additional tool for
+safety assessment. In confirmed waterborne outbreaks, however, when epidemiological studies have indicated that drinking water is the source of the infection, coliforms or E. coli has
+not always been detected either in source or net water samples
+(1, 5, 15, 17, 31, 32). One reason for the low detection rate may
+be too few samples combined with sample volumes that are too
+small (100 ml).
+We studied three waterborne outbreaks caused by C. jejuni
+in Finland in 2000 and 2001 by using an intensified sampling
+procedure and analyzing both small and large water samples
+for indicator organisms and campylobacters. The campylobacter isolates from water, environmental, and patient samples
+were compared by typing for heat-stable Penner serotypes
+
+Campylobacters are the most common registered bacterial
+causes of human intestinal infections in many developed countries, including Finland (6, 20, 30). The most important species
+associated with these infections is Campylobacter jejuni (19).
+Most C. jejuni infections are sporadic, and in most cases the
+source of infection remains unknown (6, 26). In epidemiological studies, the commonly recognized risk factors for acquisition of campylobacter infection have been eating or handling
+poultry and drinking unpasteurized milk or untreated drinking
+water from private wells or groundwater sources (6, 13, 21). In
+waterborne epidemics associated with campylobacters, the
+drinking water source has been shown to be fecally contaminated either by runoff of surface water after rain or by leakage
+of a sewage pipe close to the drinking water pipeline (14, 31).
+Campylobacters colonize a wide variety of hosts, from domestic animals to wild birds (14, 29), and thus the burden of
+campylobacters excreted via animal fecal material is extensive.
+Campylobacters are also common in natural water, such as
+streams, rivers, and lakes, due to discharges from wastewater
+treatment plants, runoff from pastures after rain, and direct
+contamination by wild birds (12). Campylobacters are able to
+survive for several days in moist, cool environments, including
+wells and groundwater (12). The low infectious dose increases
+* Corresponding author. Mailing address: Department of Food and
+Environmental Hygiene, University of Helsinki, P.O. Box 57, 00014
+Helsinki University, Finland. Phone: 358-0-19149704. Fax: 358-019149718. E-mail: marja-liisa.hanninen@helsinki.fi.
+1391
+
+
+
+1392
+
+HÄNNINEN ET AL.
+
+(Pen) and by genotyping with pulsed-field gel electrophoresis
+(PFGE) to evaluate any association between exposure to contaminated drinking water and illness.
+MATERIALS AND METHODS
+Outbreak 1. During the last days of July and at the beginning of August 2000,
+in a small community in southern Finland with 5,500 inhabitants, approximately
+400 people developed enteritis. All of these people used the same groundwater
+sources for drinking water. The first patient positive for C. jejuni was diagnosed
+on 8 August, and the highest numbers of symptomatic patients were found from
+4 August through 10 August. Advice to boil water and discontinue use of the
+suspected groundwater sources began on 11 August. The epidemic lasted for
+approximately 2 weeks, and the last diagnostic stool samples positive for C. jejuni
+were taken on 22 and 23 August (18, 20).
+In the conventional official monitoring program, no failures had been detected
+in the microbiological quality of water in samples taken approximately 1 month
+before the outbreak. Intensified sampling and analysis for campylobacters took
+place from 10 August through 6 September 2000, and the samples included
+samples from two groundwater wells in use and tap water samples from the
+distribution net. The volumes used for analysis of fecal indicator bacteria ranged
+from 100 to 1,000 ml.
+Outbreak 2. In August 2001, approximately 50 people in a small community in
+eastern Finland acquired diarrhea. The infections of individual patients were
+epidemiologically linked to a drinking water distribution net, and C. jejuni was
+isolated from five patients. The suspected source of infection was a groundwater
+well located close to a lake; the network served 600 to 800 users. Drinking water
+was distributed to the consumers after aeration, quartz sand filtration for iron
+removal, and lime alkalization for pH adjustment, but there was no chlorination.
+Prior to the outbreak a pipeline biofilm purification operation had been performed by a using pipeline internal gauging technique which also included (as the
+last step) spooling of the pipeline with a large amount of water from the groundwater source. Residents had been advised not to drink tap water from 30 July
+through 16 August. Most infections occurred from 21 August through 25 August.
+Advice to boil any drinking water from the pipeline was given on 27 August, and
+chlorination of the source was started on 29 August. No new patients with
+campylobacter infection associated with drinking water were seen after this.
+Routine microbiological monitoring of source water and tap water samples in
+June and July 2001 had shown no abnormalities. After the pipeline purification
+operation, an intensified microbiological analysis program was started, which
+included sampling of lake water, raw water, and outlet water after sand filtration
+and sampling of tap water.
+Outbreak 3. From October through November 2001, an outbreak caused by C.
+jejuni occurred in a community located in southern Finland. Approximately 1,000
+of the 18,000 users of the local drinking water distribution system acquired the
+infection. C. jejuni was detected in fecal samples from 56 patients. The last
+diagnosis associated with the outbreak was made on 6 November. Ten groundwater wells located in three different aquifers served as drinking water sources
+for the community. Water from these sources was combined in the net, and no
+chlorination was in use before the outbreak. Advice to boil water was given 24
+October, and chlorination of the net began at the same time.
+The first water samples (10,000 ml) were taken from the 10 groundwater
+sources and from two taps on 23 October. Additional 10,000-ml water samples
+from two groundwater sources found to be contaminated in the first sampling
+and from 15 additional points in the drainage area of the contaminated groundwater wells and surface water sources located close to the wells were taken from
+26 October through 1 November. Fecal samples from 10 pigs and five ducks on
+a farm located close to the contaminated source were also studied. The last water
+samples were taken on 19 November from five sampling sites found to be positive
+in earlier studies.
+Microbiological analyses of water samples for coliforms and E. coli. Water
+samples examined for coliforms and for E. coli in outbreak 1 were studied at the
+Lahti Research Laboratory by using membrane filtration and Les Endo medium;
+typical colonies were confirmed to be E. coli colonies by indole and lactose
+fermentation at 44.5°C (3). Intensified monitoring of the water sources and
+distribution net by using 100- to 1,000-ml water samples continued until 6 September.
+In outbreak 2, water samples used to examine indicator organisms were studied at the Municipal Food Laboratory Varkaus. Fecal coliforms in raw water,
+treated water, and tap water were studied on mFC media (3). Samples of lake
+water were also included. The volumes studied ranged from 10 to 5,000 ml.
+
+APPL. ENVIRON. MICROBIOL.
+Colonies were confirmed to be E. coli colonies by the API 20E method (Biomerieux, Marcy l’Etoile, France).
+Water samples in outbreak 3 were studied at the Department of Food and
+Environmental Hygiene, University of Helsinki, for E. coli and coliforms by using
+membrane filtration onto Chromocult Coliform medium (CM956; Oxoid Ltd.,
+Basingstoke, United Kingdom) and for enterococci by using Slanetz-Bartley
+medium (3). A sample volume of 2,000 ml was used in the initial studies for
+coliforms and E. coli. In later studies100- and 1-ml samples were also used based
+on the level of contamination suspected.
+Thermophilic campylobacters. Thermophilic campylobacters (C. jejuni,
+Campylobacter coli, and Campylobacter lari) in outbreaks 1, 2, and 3 were studied
+by using 4,000- to 10,000-ml portions of suspected water samples sent to the
+laboratories. Within 2 to 8 h after sampling, the samples were filtered through
+0.45-␮m-pore-size membranes, which were incubated in a microaerobic atmosphere either in Preston broth (Oxoid) at 42°C for 24 h (22) (for outbreak 1) or
+in Bolton enrichment broth (Oxoid) for 24 and 48 h at 37°C (for outbreaks 2
+and 3). After 24 and 48 h of microaerobic incubation a loopful of each enrichment broth was cultured on modified charcoal cefoperazone deoxycholate
+agar (mCCDA) (Oxoid). Organisms growing on mCCDA plates were confirmed
+to be campylobacters by Gram staining and motility analysis. Hippurate hydrolysis and catalase tests were used for preliminary identification of C. jejuni and
+C. coli.
+MPN of C. jejuni in water samples (outbreak 3). For campylobacter-positive
+well water and dike water samples, most-probable-number (MPN) counts were
+determined. A total of 1,500 ml of well water was analyzed by filtering 15 100-ml
+portions through a 0.45-␮m-pore-size membrane. Each membrane was enriched
+in 20 ml of Bolton enrichment broth for 48 h, and after this each broth was
+subcultured onto an mCCDA plate, as described above. Similarly, 100 ml of dike
+water was distributed in 10-ml portions into 10 bottles with 10 ml of doublestrength Bolton enrichment broth and cultured onto mCCDA plates. MPN
+counts were estimated from positive and negative tubes by using MPN tables (4).
+Culture of human and animal fecal samples. Human fecal samples were
+originally cultured at the local hospital laboratories on Campylobacter blood-free
+selective media (LabM or Oxoid), and organisms were identified as C. jejuni by
+using the tests described above. The isolates were further analyzed at the University of Helsinki. Fecal samples from pigs and ducks were cultured on mCCDA
+plates, and typical growth of campylobacters was analyzed after 48 h of incubation.
+Penner serotyping and PFGE genotyping. C. jejuni isolates from water and
+human fecal samples were analyzed further by Penner serotyping for heat-stable
+antigens and PFGE genotyping. In addition, all C. coli isolates were genotyped
+by PFGE. Penner serotyping for heat-stable antigens (24) was performed by
+using horse blood agar cultures of C. jejuni isolates and a commercially available
+antiserum set (Seiken campylobacter antiserum set; Denka Seiken, Tokyo, Japan) according to a procedure described previously (10). The agarose plugs for
+PFGE were prepared and the electrophoresis conditions used were as described
+previously (8, 9, 10). The restriction enzymes used for digestion were SmaI and
+KpnI.
+
+RESULTS
+Outbreak 1. In outbreak 1, C. jejuni was detected in a
+4,000-ml tap water sample collected on 10 August (Table 1).
+Among the 100-ml water samples studied, only one tap water
+sample from sampling point 2 was positive for indicator organisms. Neither campylobacters nor indicator bacteria were detected in the two groundwater wells used as water sources
+(Table 1). In later analyses, no coliforms were found in any of
+the 100-ml samples studied. Two separate 1,000-ml samples
+from wells 1 and 2 were found to be positive for E. coli at the
+end of August and at the beginning of September, respectively
+(Table 1).
+All 10 C. jejuni isolates analyzed from 10 patients, as well as
+the C. jejuni isolate from the tap water, were the same serotype, Pen 12, and produced identical SmaI and KpnI patterns
+in the PFGE analysis (Fig. 1, lanes 1 to 3).
+Outbreak 2. In outbreak 2, starting on 7 August, coliforms
+were recovered from several 100-ml samples taken from raw
+
+
+
+DETECTION AND TYPING OF C. JEJUNI AND C. COLI
+
+VOL. 69, 2003
+
+1393
+
+TABLE 1. Detection of coliforms, E. coli, and C. jejuni in water samples collected either from a groundwater source
+or tap water in waterborne outbreak 1
+Detection of bacteria (CFU)
+Sampling site
+
+Groundwater source 1 (two wells)
+Groundwater source 2 (two wells)
+Sampling point 1, tap
+Sampling point 2, tap
+
+Coliforms
+
+a
+
+E. colib
+
+C. jejunic
+
+Aug. 10
+
+Aug. 14
+
+Aug. 30
+
+Sept. 6
+
+Aug. 10
+
+Aug. 14
+
+Aug. 30
+
+Sept. 6
+
+Aug. 10
+
+Aug. 14
+
+⫺ (100)d
+⫺ (100)
+⫺ (100)
+1 (100)
+
+⫺ (100)
+⫺ (100)
+⫺ (100)
+⫺ (100)
+
+1 (1,000)
+⫺ (1,000)
+ND
+ND
+
+1 (1,000)
+⫺ (1,000)
+ND
+ND
+
+⫺ (100)
+⫺ (100)
+⫺ (100)
+1 (100)
+
+⫺ (100)
+⫺ (100)
+⫺ (100)
+⫺ (100)
+
+1 (1,000)
+⫺ (1,000)
+ND
+ND
+
+⫺ (1,000)
+⫺ (1,000)
+ND
+ND
+
+NDe
+ND
+⫹ (4,000)
+ND
+
+⫺ (10,000)
+⫺ (10,000)
+ND
+ND
+
+a
+
+Les Endo medium (100 or 1,000 ml) was used for the analysis.
+The results were confirmed by using Les Endo medium and the API20E method.
+c
+The sample size was 4,000 or 10,000 ml.
+d
+⫺, not detected; ⫹, detected; The values in parentheses are sample sizes (in milliliters).
+e
+ND, not done.
+b
+
+water, from outlet water at the plant, and from tap water
+(Table 2). None of the confirmed coliform colonies was an E.
+coli colony. During the outbreak, five E. coli colonies were
+obtained from a 5,000-ml tap water sample on 27 August. No
+campylobacters were detected when a 20,000-ml raw water
+sample collected on 28 August was examined. None of the
+100-ml samples collected in September from the water distribution system contained coliforms. The five human C. jejuni
+isolates from five patients analyzed had identical SmaI and
+
+KpnI patterns, and each isolate was a serotype Pen 12 isolate.
+The PFGE genotype of a C. jejuni isolate from lake water was
+different from the PFGE genotypes of isolates obtained from
+the patients (Fig. 1, lanes 4 to 6).
+Outbreak 3. In outbreak 3, the samples collected on 23
+October included samples from all 10 groundwater sources and
+tap water from two sites, and they were studied for coliforms,
+E. coli, and campylobacters. One of the samples (well C) contained coliforms but no E. coli (results not shown). For another
+
+FIG. 1. SmaI (A) and KpnI (B) PFGE patterns of selected C. jejuni and C. coli strains isolated in association with waterborne outbreaks 1, 2,
+and 3. Lanes 1 and 2, patient isolates from outbreak 1; lane 3, drinking water isolate from outbreak 1; lanes 4 and 5, patient isolates from outbreak
+2; lane 6, lake water isolate from outbreak 2; lanes 7, 8, and 9, patient isolates from outbreak 3; lane 10, C. jejuni isolate from well 2; lane 11, C.
+coli isolate from well 1; lane 12, C. coli isolate from dike; lane 13, C. coli isolate from a well at a farm; lane 14, C. jejuni isolate from duck pond;
+lanes mw, molecular weight markers.
+
+
+
+1394
+
+HÄNNINEN ET AL.
+
+APPL. ENVIRON. MICROBIOL.
+
+TABLE 2. Detection of coliforms and E. coli in water samples collected in association with waterborne outbreak 2
+Sampling site
+
+Lake water
+Raw water
+Outlet water after treatment
+Tap water, point 1
+Tap water, point 2
+
+No. of coliforms (CFU/100 ml)
+June 13
+
+Aug. 7
+
+Aug. 9
+
+Aug. 13
+
+Aug. 20
+
+Aug. 27
+
+Aug. 28
+
+Aug. 30
+
+Aug. 31
+
+Sept. 3
+
+ND
+21
+31
+4
+ND
+
+ND
+5
+9
+ND
+ND
+
+ND
+2
+4
+3
+ND
+
+ND
+13
+21
+15
+ND
+
+28
+5
+195b
+5c
+171
+
+ND
+2
+168b
+ND
+ND
+
+ND
+2
+⬍1
+⬍1
+16
+
+ND
+9
+1
+⬍1
+⬍1
+
+ND
+1
+⬍1
+⬍1
+⬍1
+
+a
+
+ND
+ND
+⬍1
+ND
+ND
+
+a
+
+ND, not done.
+None of the colonies studied was confirmed to be E. coli.
+c
+The volume studied was 5,000 ml, and all five colonies were confirmed to be E. coli.
+b
+
+groundwater source, which included two wells (wells 1 and 2),
+one colony of E. coli was recovered from 2,000 ml from well 1,
+but no campylobacters were recovered from an 8,000-ml sample from this well (Table 3); C. jejuni was detected in an
+8,000-ml sample from well 2 (Table 3). C. coli was isolated
+from an 8,000-ml sample from well 1 collected on 26 October
+(Table 3). The route and source of contamination of wells 1
+and 2 were studied by sampling the the groundwater drainage
+area and a dike running from a nearby farm toward the wells.
+Several species, including pigs and ducks, were being raised on
+the nearby farm. Analyses of the dike water and water samples
+from a duck pond verified that there was fecal contamination
+and that C. jejuni and C. coli were present at both sampling
+sites (Table 3). It was possible to obtain an MPN count of C.
+jejuni only for a dike water sample, and this analysis resulted in
+a value of 9 per 100 ml. Samples obtained from wells 1 and 2
+later, in November, showed that they were still fecally contaminated, but no campylobacters were isolated from these samples (Table 3).
+All 10 C. jejuni isolates from 10 patients were serotype Pen
+12 isolates and had identical PFGE KpnI patterns (Fig. 1B,
+lanes 7 to 9). Their DNA could not be digested with SmaI (Fig.
+1A, lanes 7 to 9). The C. jejuni isolate from well 2 was a
+serotype Pen 55 isolate, and it also had a different genotype
+than the patient isolates (Fig. 1, lanes 10). The SmaI and KpnI
+PFGE patterns of the C. coli isolate from well 2 are shown in
+Fig. 1 (lanes 11). Two different genotypes were identified
+among the C. coli isolates from dike water (lanes 12) and well
+
+water from a farm (lanes 13), and the PFGE pattern of the
+pond water C. jejuni isolate was also unique (Fig. 1, lanes 14).
+DISCUSSION
+In the three waterborne outbreaks caused by C. jejuni that
+we studied, it was evident that multiple samples and analysis of
+rather large sample volumes improved the chances of detecting
+the pathogen. Similarly, larger volumes (1,000 to 2,000 ml)
+were needed to detect the fecal indicator organism, E. coli. A
+combination of serotyping and PFGE genotyping was useful
+for confirming the association between drinking water and
+illness. In outbreaks 1 and 3 the cause of contamination was
+probably runoff of surface water into groundwater wells after
+heavy precipitation. The source of contamination in outbreak
+2 remained unresolved.
+Waterborne outbreaks caused by campylobacters have been
+reported especially in countries where groundwater sources
+that are not chlorinated are commonly used as the drinking
+water supply (2, 15, 16, 17, 18, 25, 31). In Finland, almost 1,500
+small drinking water plants use groundwater as a raw water
+source, and they distribute approximately 45% of the total
+amount of drinking water consumed (18). In normal situations,
+the hygienic and chemical quality of groundwater is good, and
+only minor treatment procedures are needed to improve the
+quality. Due to free carbonate activity and rather high Fe and
+Mn contents, the most common treatment procedures include
+removing these compounds by aeration and sand filtration and
+
+TABLE 3. Detection of coliforms, E. coli, enterococci, and campylobacters in selected water samples in waterborne outbreak 3
+Sampling site
+
+Groundwater, well 1
+
+Groundwater, well 2
+Tap water sample 1
+Tap water sample 2
+Dike 1 close to wells 1 and 2
+Dike 2
+Duck pond
+a
+b
+c
+
+Date
+
+Oct. 23
+Oct. 26
+Nov. 1
+Nov. 19
+Oct. 23
+Nov. 1
+Nov. 19
+Oct. 23
+Oct. 23
+Oct. 31
+Oct. 31
+Oct. 31
+
+The values in parentheses are sample sizes (in milliliters).
+ND, not done.
+⫺, not detected.
+
+CFU
+Coliforms
+
+E. coli
+
+Enterococci
+
+Campylobacter(s)
+detected
+
+1 (2,000)a
+NDb
+⬁ (5,000)
+66 (100)
+10 (2,000)
+⫺ (5,000)
+⫺ (100)
+⫺ (100)
+⫺ (100)
+ND
+ND
+ND
+
+1 (2,000)
+ND
+200 (5,000)
+1 (100)
+⫺ (2,000)
+⫺ (5,000)
+⫺ (100)
+⫺ (100)
+⫺ (100)
+100 (100)
+630 (100)
+(1)
+
+3 (2,000)
+ND
+ND
+ND
+⫺ (2,000)
+ND
+ND
+ND
+ND
+360 (100)
+1,080 (100)
+ND
+
+⫺c (8,000)
+C. coli (10,000)
+⫺ (5,000)
+⫺ (10,000)
+C. jejuni (8,000)
+⫺ (5,000)
+⫺ (10,000)
+⫺ (10,000)
+⫺ (10,000)
+C. jejuni (140)
+C. jejuni and C. coli (100)
+C. jejuni (100)
+
+
+
+VOL. 69, 2003
+
+increasing the pH with NaOH (http://www.vyh.ymparisto.fi). If
+no disinfection procedure is used, there is no barrier against
+fecal contamination.
+In waterborne outbreaks caused by C. jejuni, epidemiological studies often indicate that there is a strong association
+between consumption of drinking water and human illness, but
+neither fecal indicators nor campylobacters have been detected
+in the water samples studied, or coliforms but no campylobacters have been detected (15, 17, 23, 31, 32). There are
+multiple reasons for these negative results. The biology and
+pathogenesis of human campylobacter infections result in a lag
+of approximately 2 weeks between exposure and recognition of
+waterborne transmission in a campylobacter outbreak in a
+community. First, the incubation time of the illness ranges
+from a few days to 1 week (6). Then diagnosis of fecal samples
+takes a few days. Finally, it takes a few days before the number
+of patients with gastrointestinal symptoms is high enough to
+make health authorities suspect a common source of infection.
+Water samples are usually taken for analysis when first suspicions of waterborne transmission are presented, and this may
+be too late to perform water analysis, especially if the drinking
+water has been contaminated only transiently.
+In our studies, outbreaks 1 and 3 were more long-lasting
+than outbreak 2, and the contamination source implicated was
+groundwater wells. In outbreak 1, C. jejuni was detected in a
+tap water sample but not in a source water sample. In outbreak
+3, two wells were continuously contaminated by floodwater
+from a dike which had been contaminated by runoff, probably
+originating from animal sources. Contamination of the dike
+water and the groundwater well was verified with several samples by detection of C. jejuni, C. coli, or E. coli in samples. All
+tap water samples were negative, even when 8,000-ml samples
+were studied for campylobacters. The contamination source in
+outbreak 2 remained unverified. It was either the groundwater
+well in which water was suspected to be contaminated by lake
+water when the net was rinsed with a large volume of groundwater after a biofilm purification operation or tap water contaminated in the distribution system by leakage in a pipe. The
+hygienic quality of the lake water was known to be good,
+because the microbiological quality at a local beach, located
+close to the well, was regularly checked during the summer.
+Detection of coliforms in several tap water samples and especially detection of a few E. coli colonies in a 5,000-ml tap water
+sample obtained in the area where several ill patients were
+identified suggest that there was fecal contamination of the
+pipeline.
+As shown in our studies, the volume of water studied either
+for fecal indicator microbes or for suspected pathogens is crucially important. With the exception of one 100-ml tap water
+sample (outbreak 1) that contained one colony of E. coli, the
+100-ml samples were negative for E. coli. When larger volumes
+(1,000 to 2,000 ml) were used for studies of E. coli in outbreaks
+1 and 3, some samples were positive, and evidence of fecal
+contamination was obtained. In outbreak 1, the contamination
+by surface runoff was not continuous but occurred after rain. In
+outbreak 2, the only sample positive for E. coli was obtained
+from a 5,000-ml tap water sample. This result confirmed that
+drinking water in the drinking water pipeline had been fecally
+contaminated and probably also had been the source of C.
+jejuni.
+
+DETECTION AND TYPING OF C. JEJUNI AND C. COLI
+
+1395
+
+It has been proposed that the ratio of enterococci to fecal
+coliforms in a water sample is an indicator of the contamination source. A value of ⬍0.7 indicates that there was fecal
+contamination from animal sources, and a value of ⬎4 indicates that there was a human source (7). The index value,
+calculated by using the ratio of enterococci to E. coli, was 0.27
+in the dike water in outbreak 3, indicating that there was
+contamination from animal sources. This was also consistent
+with the fact that the dike drained a duck pond at the farm. A
+sample of pond water contained both E. coli and C. jejuni.
+As indicated by the findings described here, the volume used
+for detection of the suspected pathogen C. jejuni in drinking
+water should be several liters. In outbreak 1 C. jejuni was
+detected by using a 4,000-ml tap water sample, and in outbreak
+3 campylobacters were detected in a drinking water source
+when 8,000- to 10,000-ml samples were used but not when a
+5,000-ml sample was used. Savill et al. (28) showed that low
+campylobacter counts (maximum, 0.3 CFU/100 ml) occurred in
+their drinking water samples collected in nonepidemic situations. In our study, campylobacters were also detected by enrichment from a 100-ml sample of dike water, and an MPN
+count of 9 CFU/100 ml was detectable. Our studies suggest
+that sample volumes of 100 to 1,000 ml, as proposed in the
+International Standardisation Organisation draft for detection
+of campylobacters from drinking water (11), are too small for
+detection of campylobacters in waterborne outbreaks.
+Typing of pathogens associated with an outbreak has been
+shown to be a useful tool for confirming the similarity or
+dissimilarity of the isolates from patients and from the suspected source. In outbreak 1, the serotype (Pen 12) and the
+PFGE genotype of the isolates from the patients and the isolate from water were identical, confirming the results of epidemiological studies. In outbreak 2, all patient isolates had the
+same serotype (Pen 12) and the same PFGE genotype. Interestingly, in outbreak 3, although all patient isolates obtained
+from 19 October through 29 October had the same serotype
+(Pen 12) and the same PFGE genotype, the C. jejuni isolate
+from contaminated well 2, sampled on 23 October, was a serotype Pen 55 isolate, and its PFGE genotype was also different. The isolate from well 1 was C. coli. A variety of unique
+genotypes were also identified by PFGE analysis among the
+isolates from dike water, the duck pond, and a well at the farm.
+It is possible that wells 1 and 2 were also contaminated by the
+same C. jejuni serogenotype that was identified in patients, but
+either its level was below the threshold of detection with the
+method which we used or our enrichment methods suppressed
+the growth of this particular type. It is also possible that the C.
+jejuni strain associated with the outbreak had already disappeared from the wells by the time of sampling. The presence of
+both C. jejuni and C. coli and the variety of C. jejuni and C. coli
+genotypes in the wells and in the surrounding water sources
+indicate that there was a continuous inflow of campylobacters
+from the surrounding environment into the wells after precipitation and flooding in late September. Several animal species
+were raised on the farm, including ducks and pigs, which were
+sampled and were studied for campylobacters during the outbreak. C. coli was found in fecal samples from all 10 pigs.
+Ducks are known avian sources of C. jejuni and C. coli, and C.
+coli commonly colonizes the porcine gut (28). Continuous fecal
+contamination of a drinking water source by several serotypes
+
+
+
+1396
+
+HÄNNINEN ET AL.
+
+that are different from those identified in patients has also
+been seen in other waterborne campylobacter outbreaks (16).
+All three outbreaks were caused by the same serotype, Pen
+12, and the SmaI and KpnI patterns of the isolates from outbreaks 1 and 2 were closely related. The DNA of the human
+isolates from outbreak 3 was not digested by SmaI, but the
+KpnI patterns were closely related to those found in outbreaks
+1 and 2. In our follow-up studies of human domestically acquired campylobacter infections since 1995, serotype Pen 12
+with the same three variants of PFGE genotypes that were
+found among waterborne isolates in the present study has been
+among the most common serogenotypes identified in patients
+(8, 9, 10).
+In conclusion, our studies of three waterborne outbreaks of
+disease caused by C. jejuni showed that large volumes of water
+and multiple samples from groundwater sources and several
+sites in the drinking water distribution system over a longer
+period of time improved campylobacter detection rates. In
+addition, larger water volumes also allowed detection of coliform bacteria and E. coli as indicators of environmental contamination, which allowed the route and source of contamination to be determined more definitely. The combination of
+serotyping and PFGE typing of patient and water isolates further confirmed the source of infection.
+ACKNOWLEDGMENTS
+This study was supported by The Helsinki University’s Research
+Funds and the Finnish Cultural Foundation, Helsinki, Finland.
+REFERENCES
+1. Aho, M., M. Kurki, H. Rautelin, and T. U. Kosunen. 1989. Waterborne
+outbreak of campylobacter enteritis after outdoors infantry drill in Utti,
+Finland. Epidemiol. Infect. 103:133–141.
+2. Andersson, Y., and T. A. Stenstöm. 1987. Waterborne outbreaks in Sweden—causes and etiology. Water Sci. Technol. 19:575–580.
+3. Clesceri, L. S., A. E. Greenberg, and A. D. Eaton (ed.). 1998. Standard
+methods for the examination of water and wastewater, 20th ed., p 956–976.
+American Public Health Association, Washington, D.C.
+4. deMan, J. C. 1975. The probability of most probable numbers. Eur. J. Appl.
+Microbiol. 1:67–78.
+5. Engberg, J., P. Gerner-Smidt, F. Scheutz, E. Moller-Nielsen, S. L. On, and
+K. Molbak. 1998. Water-borne Campyloabcter jejuni infection in a Danish
+town—a 6-week continuous source outbreak. Clin. Microbiol. Infect. 4:648–
+656.
+6. Friedman, J., J. Neimann, H. C. Wegener, and R. V. Tauxe. 2000. Epidemiology of Campylobacter jejuni infections in the United States and other
+industrialized nations, p. 121–138. In I. Nachamkin and M. J. Blaser (ed.),
+Campylobacter, 2nd ed. American Society for Microbiology; Washington,
+D.C.
+7. Gelreich, E. E., and B. A. Kenner. 1969. Concepts of fecal streptococci in
+stream pollution. J. Water Pollut. Control Fed. 41:R355–R352.
+8. Hänninen M.-L., S. Pajarre, M.-L. Klossner, and H. Rautelin. 1998. Typing
+of human Campylobacter jejuni isolates in Finland by pulsed-field gel electrophoresis. J. Clin. Microbiol. 36:1787–1789.
+9. Hänninen M.-L., P. Perko-Mäkelä, A. Pitkälä, and H. Rautelin. 2000. A
+three-year study of Campylobacter jejuni genotypes in humans with domestically acquired infections and in chicken samples from the Helsinki area.
+J. Clin. Microbiol. 38:1998–2000.
+
+APPL. ENVIRON. MICROBIOL.
+10. Hänninen M.-L., P. Perko-Mäkelä, H. Rautelin, B. Duim, and J. A. Wagenaar. 2001. Genomic relatedness within five common pulsed-field gel
+electrophoresis genotypes studied by amplified fragment length polymorphism analysis, ribotyping, and serotyping. Appl. Environ. Microbiol. 67:
+1581–1586.
+11. International Standardisation Organisation. 2002. Water quality—detection and enumeration of thermophilic campylobacter. Committee Draft
+ISO/CD 17995. International Standardisation Organisation, Geneva, Switzerland.
+12. Jones, K. 2001. Campylobacters in water, sewage and environment. J. Appl.
+Microbiol. 90:68S-79S.
+13. Kapperud, G., E. Skjerve, L. Vik, K. Hauge, A. Lysaker, I. Aalmen, S. M.
+Ostroff, and M. Potter. 1992. Risk factors for sporadic Campylobacter infections: results of a case-control study in southeastern Norway. J. Clin. Microbiol. 30:3117–3121.
+14. Koenraad, P. M. F. J., F. M. Rombouts, and S. H. W. Notermans. 1997.
+Epidemiological aspects of thermophilic Campylobacter in water-related environments: a review. Water Environ. Res. 69:52–63.
+15. Kramer, M. H., B. L. Herwaldt, F. C. Craun, R. L. Calderon, and D. D.
+Juranek. 1996. Surveillance for waterborne-disease outbreaks. United States
+1993–1994. Morbid. Mortal. Wkly. Rep. 45:1–33.
+16. Melby, K. K., B. Gondrosen, S. Gregusson, H. Ribe, and O. P. Dahl. 1991.
+Waterborne campylobacteriosis in northern Norway. Int. J. Food Microbiol.
+12:151–156.
+17. Melby, K. K., J. G. Svenby, T. Eggebo, L. A. Holmen, B. M. Andersen, L.
+Lind, E. Sjögren, and B. Kaijser. 2000. Outbreak of campylobacter infection
+in a subarctic community. Eur. J. Clin. Microbiol. Infect. Dis. 19:542–544.
+18. Miettinen, I. T., O. Zacheus, C.-H. von Bonsdorff, and T. Vartiainen. 2001.
+Waterborne epidemics in Finland 1998–1999. Water Sci. Technol. 43:67–71.
+19. Nachamkin, I. 1997. Campylobacter jejuni, p. 159–170. In M. P. Doyle, L. R.
+Beuchat, and T. J. Montville (ed.), Food microbiology: fundamentals and
+frontiers. American Society for Microbiology, Washington, D.C.
+20. National Public Health Institute. 2001. Infectious diseases in Finland 2000.
+Publication KTL B10/2001. [Online.] National Public Health Institute, Helsinki, Finland. http://www.ktl.fi/ttr/tt_en_2000.pdf.
+21. Niemann, J., J. Engberg, K. Molbak, and H. C. Wegener. 1998. Foodborne
+risk factors associated with sporadic campylobacteriosis in Denmark. Dan.
+Veterinaertidssk. 81:702–705. (In Danish.)
+22. Nordic Committee on Food Analysis. 1990. Campylobacter jejuni/coli. Detection in foods. Publication 119. Nordic Committee on Food Analysis, Helsinki, Finland.
+23. Pebody, R. G., M. J. Ryan, and P. G. Wall. 1997. Outbreaks of campylobacter
+infection: rare events for a common pathogen. Commun. Dis. Rep. 7:R33–
+R37.
+24. Penner, J. L., and J. N. Hennessy. 1980. Passive hemagglutination technique
+for serotyping Campylobacter fetus subsp. jejuni on the basis of soluble heatstable antigens. J. Clin. Microbiol. 12:732–737.
+25. Rautelin, H., K. Koota, R. von Essen, M. Jahkola, A. Siitonen, and T. U.
+Kosunen. 1990. Waterborne Campylobacter jejuni epidemic in a Finnish
+hospital for rheumatic diseases. Scand. J. Infect. Dis. 22:321–326.
+26. Rautelin, H., and M.-L. Hänninen. 2000. Campylobacters: the most common
+bacterial enteropathogens in the Nordic countries. Ann. Med. 32:440–445.
+27. Sartory, D. P., and J. Watkins. 1999. Conventional culture for water quality
+assessment: is there a future? J. Appl. Microbiol. Symp. Suppl. 85:225S-233S.
+28. Savill, M. G., J. A. Hudson, A. Ball, J. D. Klena, P. Scholes, R. J. Whyte, R. E.
+McCormick, and D. Jankovic. 2001. Enumeration of Campylobacter in New
+Zealand recreational and drinking waters. J. Appl. Microbiol. 91:38–46.
+29. Skirrow, M. B. 1994. Diseases due to Campylobacter, Helicobacter and related bacteria. J. Comp. Pathol. 111:113–149.
+30. Swedish Institute for Infectious Disease Control. 2001. Communicable diseases in Sweden 2001. Annual report of the Department of Epidemiology.
+[Online.] Swedish Institute for Infectious Disease Control, Solna, Sweden.
+http://www.smittskyddsinstitutet.se/download/pdf/rapp01.pdf.
+31. Thomas, C., H. Gibson, D. J. Hill, and M. Mabey. 1999. Campylobacter
+epidemiology: an aquatic perspective. J. Appl. Microbiol. Symp. Suppl. 85:
+168S-177S.
+32. Vogt, R. L., H. E. Sours, T. Barrett, R. A. Feldman, R. J. Dickinson, and L.
+Witherell. 1982. Campylobacter enteritis associated with contaminated water. Ann. Intern. Med. 96:292–296.
+
+

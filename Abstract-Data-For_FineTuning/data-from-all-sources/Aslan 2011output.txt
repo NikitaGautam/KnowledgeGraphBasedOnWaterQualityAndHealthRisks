@@ -1,0 +1,1411 @@
+Journal of Applied Microbiology ISSN 1364-5072
+
+ORIGINAL ARTICLE
+
+Occurrence of adenovirus and other enteric viruses in
+limited-contact freshwater recreational areas and bathing
+waters
+A. Aslan1, I. Xagoraraki2, F.J. Simmons2, J.B. Rose1 and S. Dorevitch3
+1 Department of Fisheries and Wildlife, 13 Natural Resources, Michigan State University, East Lansing, MI, USA
+2 Department of Civil and Environmental Engineering, Michigan State University, East Lansing, MI, USA
+3 Division of Environmental and Occupational Health Sciences, School of Public Health, and Institute for Environmental Science and Policy,
+University of Illinois at Chicago, Chicago, IL, USA
+
+Keywords
+adenovirus, cell culture, human enteric
+viruses, limited-contact recreation,
+wastewater.
+Correspondence
+Samuel Dorevitch, Division of Environmental
+and Occupational Health Sciences, School of
+Public Health, and Institute for Environmental
+Science and Policy, University of Illinois at
+Chicago, Chicago, IL 60612, USA.
+E-mail: sdorevit@uic.edu
+
+2011 ⁄ 0664: received 19 April 2011, revised
+26 July 2011 and accepted 12 August 2011
+doi:10.1111/j.1365-2672.2011.05130.x
+
+Abstract
+Aims: The goal of this study was to characterize enteric virus concentrations
+and their infectivity in a variety of limited-contact recreation and bathing
+waters, including Great Lakes beaches, inland lakes, rivers, and an effluentdominated urban waterway. Additionally, we evaluated associations between
+point sources of human faecal pollution and enterovirus and adenovirus presence and concentrations.
+Methods and Results: Quantitative polymerase chain reaction (qPCR) and two
+cell culture lines were used to identify and quantify viruses in water samples.
+The presence of human adenoviruses F was strongly associated with effluentdominated waters (odds ratio 6Æ1, confidence interval 2Æ3, 15Æ7), as was
+adenovirus concentration; though, neither enterovirus presence nor concentration was associated with an effluent source. Samples with high concentrations
+of qPCR targets all tested positive by cell culture on both cell lines, although
+qPCR target concentrations were not correlated with culture values.
+Conclusions: Adenovirus was strongly associated with point sources of human
+faecal pollution while enterovirus was not, indicating that adenovirus measured
+by qPCR is a better target than enterovirus for identifying wastewater discharges in recreational freshwaters.
+Significance and Impact of the Study: The development of monitoring for
+enteric human viral pathogens at recreational waters should include adenovirus
+testing. Further research is needed to interpret the results of qPCR testing in
+relationship to the presence of infectious viruses using cell culture.
+
+Introduction
+Recreational outbreaks caused by adenoviruses, coxsackieviruses, echoviruses and noroviruses in ambient freshwaters have been reported (Sinclair et al. 2009). Wastewater,
+combined sewer overflows (CSOs) and stormwater are
+sources of viruses which could significantly impact
+recreational water quality and thus threaten public health
+(Kay et al. 2004; ten Veldhuis et al. 2010). Most of the epidemiologic studies of the health risks of water recreation
+1250
+
+were set in waters that support full-contact recreation
+such as swimming (Wade et al. 2008, 2010). Those studies also focused on faecal indicator bacteria, rather than
+pathogens associated with waterborne illness, as predictors of health outcomes. In many parts of the world, limited-contact recreation, such as fishing and boating, takes
+place on waters that may be heavily impacted by human
+wastewater.
+The Great Lakes provide one of the largest shorelines
+in the northern hemisphere for freshwater recreation with
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+
+
+A. Aslan et al.
+
+over 500 beaches. Lake Michigan is the second largest lake
+in the basin and serves large urban communities including the city of Chicago, where the river, canals and other
+inland water systems are used only for limited-contact
+recreational activities.
+Faecal indicator bacteria are limited as predictors of
+viral pathogens in recreational waters (Jiang et al. 2001;
+Miagostovich et al. 2008) because of their lack of correlation with viral persistence in the environment (Boehm
+et al. 2009), their growth in sediments (Byappanahalli
+and Fujioka 1998), sand (Whitman et al. 2003), algae
+(Verhougstraete et al. 2010), and water (He et al. 2007).
+To address these limitations, molecular tools are now
+being used to identify and quantify human enteric viral
+pathogens in recreational waters. Xagoraraki et al. (2007)
+studied the human adenovirus concentrations at the two
+beaches on the eastern shore of Lake Michigan and found
+that these viruses are diverse and may be useful as faecal
+indicators at Great Lakes beaches, and Fong et al. (2010)
+found similar results in a river system influenced directly
+by sewage and CSOs. Wong et al. (2009) revealed that
+viral concentrations measured by qPCR could be used to
+characterize the most contaminated beach, which was in
+agreement to the virus cell culture most probable number
+(MPN) assays.
+The objectives of this study were: (i) to describe the
+presence and concentrations of human enteric viral
+pathogens (human adenoviruses F, enteroviruses and
+noroviruses) in recreational freshwaters by qPCR and
+then by two cell culture lines (A549 and BGM) for
+selected samples and (ii) to evaluate associations between
+point sources of human wastewater and the presence and
+density of these viruses at Great Lakes waters and a
+variety of inland waters.
+Materials and Methods
+Sampling areas
+The sampling areas for this study are shown in Fig. 1.
+Wastewater from the city of Chicago was historically
+discharged into Lake Michigan via the Chicago River.
+In the early 1900s, a series of channels and locks were
+constructed for transportation, urban drainage and wastewater discharge. This system is known as the Chicago
+Area Waterways System (CAWS). Today, the wastewater
+flows away from Lake Michigan and ultimately into the
+Mississippi River via the CAWS. The system receives discharge from wastewater treatment plants that carry out
+secondary (aerobic digestion) treatment of the sewage but
+disinfection is not performed. The CAWS also receives
+discharges from combined wastewater and storm water
+overflows. About 75% of the annual flows in the CAWS
+
+Occurrence of adenovirus and other enteric viruses
+
+are generated from the discharge of secondary-treated
+municipal wastewater effluent from these facilities (Rijal
+et al. 2009). Limited-contact recreation activities, such as
+motor boating, canoeing, kayaking, rowing and fishing,
+are allowed in this system. In the state of Illinois, all
+waters other than the CAWS are designated for full-contact recreation. However, local authorities can restrict recreational activities in these areas based on water quality
+and safety hazards to limited-contact recreation.
+Water sampling was performed from December 2008 to
+November 2009, and 82 of the total 85 surface water samples were collected during water recreation season of 2009.
+Sampling locations (28 sites) were categorized into 13
+different surface water groups (Table 1). In addition to the
+surface water sampling locations, four samples were collected at a CSO pumping station during events in August
+and October 2009. Additionally, one final effluent sample
+was collected at a wastewater treatment facility (WWTP).
+Sample collection
+Water samples were filtered through 1-MDS filters for a
+total sample volume varying between 20 and 200 l (median 75 l). The volumes filtered varied depending on the
+type of the water whether it was a CSO effluent or a beach
+sample. Waters with turbidity <10 NTU were filtered up
+to 200 l. The pH of the sample before filtration was measured. If the pH was >7Æ5, the pH was titrated to or
+slightly <7Æ5 using 0Æ05 N HCl. Temperature and turbidity
+were also measured. All filters were held on ice, transported to the Water Quality and Environmental Molecular
+Microbiology Laboratory at Michigan State University,
+and viruses were eluted within 24 h. Virus elution and
+secondary concentration were performed by organic flocculation as described (USEPA, 2001a). The filters were
+backwashed twice with 0Æ5 l of beef extract solution (1Æ5%
+[wt ⁄ vol] beef extract, 0Æ05 mol l)1 glycine, pH 9Æ0–9Æ5) to
+elute adsorbed viral particles. Subsequently, the eluents
+were flocculated by adding ferric chloride to a final concentration of 2Æ5 mmol l)1 and by lowering the solution
+pH to 3Æ5. The flocs were collected by centrifugation at
+2500 g for 15 min at 4C and resuspended in 30 ml of
+0Æ15 mol l)1 sodium phosphate (pH of 9Æ0). The
+re-dissolved precipitates were centrifuged at 6700 g for
+10 min at 4C. Finally, the supernatants (c. 30 ml) were collected (pellet was discarded), neutralized (pH 7Æ0–7Æ5) with
+1 M HCl, filtered through 0Æ45- and 0Æ22-lm pore-sized
+filters, aliquoted and stored at )80C until further analysis.
+Nucleic acid extraction
+Viral nucleic acids were extracted from the concentrates
+and from infected cell culture using an automated nucleic
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+1251
+
+
+
+Occurrence of adenovirus and other enteric viruses
+
+A. Aslan et al.
+
+(a)
+
+(b)
+
+Des Plaines River
+
+OL1
+Crystal Lake
+
+R2
+
+Lake
+Michigan
+
+CAWS- North
+
+Fox River
+
+C1
+
+OL2
+
+R1
+
+C2
+C6
+OL5 MLH3
+C4
+MLH1
+C5
+MLB2
+C3
+MLB1
+C7
+MLH2
+C8
+C9
+CAWS- South
+MLB3
+
+Maple Lake
+OL3
+
+OL4
+Mastodon Lake
+
+C13
+OL6
+Tampier Lake
+
+C12
+
+C11
+
+C10
+
+Calumet-Saganashkee
+N
+
+Figure 1 (a) Sampling area map in the Great Lakes. (b) Location of the sampling points in the Chicago Area.
+
+acid extraction system (MagNa Pure Compact System;
+Roche Applied Sciences, Indianapolis, IN, USA). A
+1000 ll portion of the subsample was used for the extraction with a final volume of 100 ll used for qPCR.
+Quantitative PCR assay
+All primers and probes used for the qPCR assays for adenoviruses, enteroviruses and noroviruses are summarized in
+1252
+
+Table 2 (Kageyama et al. 2003; Xagoraraki et al. 2007;
+Dierssen et al. 2008). For adenoviruses, each 20 ll qPCR
+mixture contained 4 ll of 5· LightCycler TaqMan Master
+Mix, 0Æ8 ll of 10 lmol l)1 forward primer (final concentration, 400 nmol l)1), 0Æ4 ll of each 10 lmol l)1 reverse
+primer (final concentration, 200 nmol l)1), 0Æ6 ll of
+10 lmol l)1 TaqMan probe (final concentration, 300
+nmol l)1), 8Æ8 ll of PCR-grade water and 5 ll of
+template. The PCR program was set to 15 min at 95C,
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+
+
+A. Aslan et al.
+
+Table 1 Summary and recreational use of
+sampling locations in the Chicago Area
+
+Occurrence of adenovirus and other enteric viruses
+
+Sampling area
+
+Sampling points
+
+Surface water
+Chicago Area Waterways System
+North Side
+Bridge Street
+Skokie Rowing
+Center
+Clark Park
+Lincoln Avenue
+North Avenue
+River Park
+Main Stem
+Main Stem
+South Side
+Ping Tom
+Canal Origins
+Calumet-Sag
+Beaubien Woods
+Riverdale Marina
+Alsip
+Worth
+Lake Michigan
+Belmont Harbour
+Harbours
+Jackson Harbour
+Montrose Harbour
+Lake Michigan
+Leone Beach
+Beaches
+Montrose Beach
+Jackson Park
+Rivers
+Fox River
+Des Plaines River
+Other Lakes
+Crystal Lake
+Busse Woods
+Maple Lake
+Mastodon Lake
+Skokie Lagoons
+Tampier Lake
+North Branch Dam North Branch Dam
+Surface water total
+Infrastructure
+Waste water
+treatment plant
+CSO
+
+Sample
+ID
+
+Bathing
+water
+
+Limited-contact
+water*
+
+6
+1
+
+X
+X
+
+C3
+C4
+C5
+C6
+C7
+C8
+C9
+C10
+C11
+C12
+C13
+MLH1
+MLH2
+MLH3
+MLB1
+MLB2
+MLB3
+R1
+R2
+OL1
+OL2
+OL3
+OL4
+OL5
+OL6
+NBD1
+
+2
+8
+3
+1
+2
+1
+1
+3
+3
+2
+3
+2
+2
+5
+2
+5
+1
+7
+2
+2
+3
+2
+1
+4
+5
+6
+85
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+North Side
+
+WWTP
+
+1
+
+North Side
+(downstream NBD)
+
+CSO
+
+4
+
+Infrastructure total
+
+C1
+C2
+
+Sample
+#
+
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+
+5
+
+CSO, combined sewer overflow.
+*The actual use of each sampling location (either bathing or limited contact) is confirmed with
+the local authorities.
+
+followed by 45 cycles at 95C for 15 s, 60C for 30 s and
+72C for 10 s, with a final step for 30 s at 40C (Roche
+LightCycler 1.5 instrument; Roche Applied Sciences).
+Adenovirus hexon gene (380 bp) was amplified using a
+published primer set (Jiang et al. 2005) with methods
+described by Xagoraraki et al. (2007). The amplicon was
+cloned into plasmid vector (pCR4-TOPO) based on the
+one-shot chemical transformation described in the manufacturer’s instructions (TOPO TA Cloning Kit for
+Sequencing; Invitrogen, Carlsbad, CA, USA). Plasmid
+DNA carrying the cloned hexon gene was purified using
+Wizard Plus SV Minipreps DNA Purification System
+
+(Promega, Madison, WI, USA) and adjusted to
+2 · 108 copies per ll for standard stock solution, and
+working standards were obtained from the serial dilutions
+from the stock.
+Reverse transcription was applied before the qPCR on
+enterovirus and noroviruses GI and GII. Each reverse
+transcription reaction mixture included 2Æ5 ll of
+10 lmol l)1 reverse primer, 1 ll of reverse transcriptase
+(Promega), 4 ll of 5· transcriptor reaction buffer
+(Roche), 20 U of Protector RNase inhibitor (Roche) and
+2 ll of 10 mmol l)1 deoxynucleotide (Roche). The reaction conditions for all three RNA viruses were the same;
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+1253
+
+
+
+Occurrence of adenovirus and other enteric viruses
+
+A. Aslan et al.
+
+Table 2 Primer and probes used for adenovirus, enterovirus and norovirus
+
+Human adenovirus F-40 ⁄ 41
+
+Human enterovirus
+
+Norovirus GII type 4
+
+Norovirus GI
+
+Primers and probes
+
+5¢–3¢ Sequence
+
+References
+
+HAdV-F4041-hex157f
+HAdV-F40-hex245r
+HAdV-F41-hex246r
+HAdV-F4041-hex214probe
+EntQuant-1
+EntQuant-2
+EntProbe
+COG2F
+COG2R
+RING2-TP
+COG1F
+COG1R
+RING1
+
+ACC-CAC-GAT-GTA-ACC-ACA-GAC
+ACT-TTG-TAA-GAG-TAG-GCG-GTT-TC
+CAC-TTT-GTA-AGAATA-AGC-GGT-GTC
+6-FAM-CGA-CKG-GCA-CGA-AKC-GCA-GCG-T-BHQ-1
+ACA-TGG-TGT-GAA-GAG-TCT-ATT-GAG-CT
+CCA-AAGTAG-TCG-GTT-CCG-C
+6-FAM-TCC-GGC-CCC-TGA-ATG-CGG-CTA-AT-TAMRA
+CARGARBCNATGTTYAGRTGGATGAG
+TCGACGCCATCTTCATTCACA
+FAM-TGGGAGGGCGATCGCAATCT-TAMRA
+CGYTGGATGCGNTTYCATGA
+CTTAGACGCATCATCATTYAC
+FAM-AGATYGCGATCYCCTGTCCA-TAMRA
+
+Xagoraraki et al. (2007)
+
+the reaction mixture was incubated at 55C for 30 min
+and then at 85C for 5 min to inactivate the enzyme.
+For the human enterovirus assay, each 20 ll PCR mixture contained 10 ll of 2· LightCycler TaqMan Master
+Mix, 1 ll of 10 lmol l)1 forward primer, 0Æ1 ll of each
+10 lmol l)1 reverse primer, 0Æ6 ll of 10 lmol l)1 TaqMan
+probe, 2Æ4 ll of PCR-grade water and 5 ll of template.
+The real-time PCR program was set to 10 min at 95C,
+followed by 45 cycles at 95C for 10 s, 58C for 30 s and
+72C for 30 s, with a final step for 30 s at 40C. For the
+norovirus assay, each 20 ll PCR mixture contained 10 ll
+of 2· LightCycler TaqMan Master Mix, 0Æ8 ll of
+10 lmol l)1 forward primer, 0Æ8 ll of each 10 lmol l)1
+reverse primer, 0Æ5 ll of 10 lmol l)1 TaqMan probe,
+2Æ9 ll of PCR-grade water and 5 ll of template. The realtime PCR program was set to 10 min at 95C, followed
+by 45 cycles at 95C for 15 s, 56C for 60 s and 72C for
+5 s, with a final step for 30 s at 40C. Transcripts of 5¢
+noncoding region of coxsackievirus B3 for human enterovirus and ORF1–ORF2 junction region for norovirus GI
+and GII were RT-PCR amplified using published primers
+(Dierssen et al. 2008 and Kageyama et al. 2003 respectively). The amplicon was cloned into plasmid vector
+(pCR4-TOPO) according to the manufacturer’s instructions (TOPO TA Cloning Kit for Sequencing; Invitrogen).
+The plasmid was purified by Qiagen purification kit. T7
+Transcription kit was used and the product cleaned by
+Qiagen RNeasy MinElute Cleanup kit. Linearization was
+performed by digestion enzyme and checked on agarose
+gel electrophoresis. The orientation of the insert was
+checked by sequencing at the Research Technology Support Facility at Michigan State University. The target gene
+sequences were compared with those published in the
+National Center for Biotechnology Information (NCBI)
+database by using the Basic Local Alignment Search Tool
+(Blast). The equivalent gene copies were measured by
+NanoDrop 1000 spectrophotometer.
+1254
+
+Dierssen et al. (2008)
+
+Kageyama et al. (2003)
+
+Kageyama et al. (2003)
+
+The plasmids were used for the development of the
+standard curves and as positive controls for each qPCR
+assay.
+All qPCR assays were performed in a Roche LightCycler 1.5 instrument (Roche Applied Sciences). Samples
+and standards were each run in triplicate. Negative
+control (PCR-grade H2O without template) and an
+amplification control were included in each qPCR run.
+The crossing point (Cp) of each qPCR was automatically
+determined by the LightCycler program, version 4.0. PCR
+products were further confirmed by gel electrophoresis.
+The detection limit for adenovirus, enterovirus and norovirus by qPCR was 10, 100 and 10 copies per reaction,
+respectively. Because of the variation in sampling volumes
+and sample characteristics, the detection limits (Table 3)
+were calculated based on the average volumes filtered for
+each area. For example, for a sampling area with average
+volume of 50 l, the limits of detection were 120, 1200
+and 120 copies l for adenovirus, enterovirus and norovirus, respectively.
+Infectivity detection of total culturable viruses
+Adenovirus- and enterovirus-positive samples with high
+viral concentrations (copies per l) as detected by qPCR
+were further analysed by cell cultures with buffalo green
+monkey kidney cells (BGM) and human carcinoma cells
+(A549). The BGM cells were at passage number of 170
+(kindly provided by Dr. Shay Fout; USEPA, Cincinnati,
+OH, USA), and A549 cells were at the passage number of
+95 (ATCC, CCL-185). The total culturable virus method
+as described in USEPA, 2001b, was used as the infectivity
+protocol. Briefly, the cells were grown in flasks until at
+least 70–90% confluence. Filtered virus concentrates were
+added to the flasks and incubated at 36Æ5 ± 1C for 2 h
+with occasional shaking to ensure complete contact
+between the cells and viral particles after which minimum
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+
+
+A. Aslan et al.
+
+Occurrence of adenovirus and other enteric viruses
+
+Table 3 Summary of human adenovirus and enterovirus qPCR results in bathing and limited-contact waters and infrastructure samples (wastewater and CSO)
+Human adenovirus F
+
+Sampling area
+Surface water
+North Side (C1–2)*
+North Side (C3–6)
+Main Stem (C7)
+South Side (C8–9)
+Calumet-Sag (C10)*
+Calumet-Sag (C11–13)
+Lake Michigan Harbours (MLH1–3)
+Lake Michigan Beaches (MLB1–3)
+Rivers (R1)
+Rivers (R2)
+Other Lakes (OL1)
+Other Lakes (OL2–6)
+North Branch Dam (NBD1)
+Surface water total
+Infrastructure
+Waste water treatment plant (WWTP)
+CSO
+Infrastructure total
+
+Human enterovirus
+
+N
+
+% pos
+
+Geomean
+copies per l
+
+7
+13
+2
+2
+3
+8
+9
+9
+7
+2
+2
+15
+6
+85
+
+83
+71
+0
+100
+33
+63
+56
+11
+0
+0
+0
+27
+0
+36
+
+1460
+10 512
+–
+18 452
+570
+1038
+390
+110
+–
+–
+–
+189
+–
+457
+
+78 100
+127 000
+ND
+56 000
+17 500
+11 600
+176 000
+169 000
+ND
+ND
+ND
+30 000
+ND
+176 000
+
+50
+29
+50
+50
+33
+13
+22
+22
+0
+0
+0
+33
+0
+20
+
+1
+4
+5
+
+100
+100
+100
+
+–
+41 000
+
+63 300
+2 360 000
+2 360 000
+
+100
+75
+80
+
+Max
+
+% pos
+
+Geomean
+copies per l
+
+Max
+
+3523
+1664
+1048
+4214
+2378
+1184
+1093
+929
+–
+–
+–
+2030
+–
+1306
+
+66 100
+60 700
+1600
+18 500
+12 700
+2490
+172 000
+49 100
+ND
+ND
+ND
+45 800
+ND
+17 2000
+
+–
+14 000
+
+13 500
+102 000
+102 000
+
+CSO, combined sewer overflow; ND, non-detect.
+*Upstream WWTP discharge.
+Nondetect samples (average detection limits calculated for each area ranged from 37 to 122 copies per l for adenoviruses and 338–1065 copies
+per l for enteroviruses).
+Bathing water samples.
+
+essential medium (MEM) was added to the flasks. Cells
+were maintained with MEM supplemented with L-glutamine, Earle’s salts and 2% foetal bovine serum. The
+development of cytopathic effects (CPE) that are indicative of a viral infection in the cell cultures was monitored
+for up to 14 days. Presence or absence of CPE was
+confirmed as described in USEPA 2001b. After three
+freeze-thaw cycles, CPE positive and negative samples
+were filtered through 0Æ22-lm syringe filters and were
+inoculated in new BGM and A549 cells for another
+14 days. Samples that showed CPE at the end of the confirmation step were reported as positive for infectivity.
+Statistical analysis
+Virus concentrations were not normally distributed, and
+categorical and nonparametric analyses were used to evaluate virus presence and concentration. The MPN values
+were log-normally distributed. Surface water samples were
+dichotomized as virus present or virus absent for adenoviruses and enteroviruses. Odds ratios were calculated for
+the association between virus presence and water type
+(CAWS vs other) and between virus presence and orienta-
+
+tion of CAWS samples to the treatment plants (upstream
+vs downstream). Statistical significance was evaluated
+using two-sided P-values for Fisher’s exact test where
+appropriate. The geometric mean and maximum values
+were calculated for virus qPCR and MPN data. The differences between the log10-transformed MPN results for
+BGM and A549 cell cultures were characterized using ttests, and correlations between the log10-transformed
+BGM and A549 results were analysed with Pearson’s rho.
+Other correlations were evaluated using Spearman’s rho.
+The Wilcoxon two-sided test was used for comparisons
+of ranked variables that were not normally distributed. A
+P-value <0Æ05 was considered statistically significant. Data
+were analysed using SAS ver. 9.1 (SAS Institute, Cary,
+NC, USA).
+Results
+Viruses in surface waters
+One or more of the three types of viruses (adenovirus,
+enterovirus, norovirus) was detected in 39 of the 85 surface
+water samples (45%). Adenoviruses and enteroviruses
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+1255
+
+
+
+Occurrence of adenovirus and other enteric viruses
+
+A. Aslan et al.
+
+were detected in 31 (36%) and 17 (20%) samples, respectively (Table 3). All four CSO samples were positive for
+human adenoviruses F; three of the four were positive for
+enteroviruses. Noroviruses were detected in two (2Æ3%)
+surface water samples, collected from a site downstream of
+a wastewater treatment plant. One final effluent sample was
+also positive for noroviruses. Noroviruses detected in all
+three samples were identified as genogroup II with a concentration range of 1Æ21 · 104 to 8Æ74 · 104 copies per l.
+Examination of the water samples based on the type of
+recreational activities showed that adenoviruses and enteroviruses were detected in 6 and 18% of the samples, respectively, in waters used for full-contact recreation and 49 and
+24% of the samples, respectively, in waters used for limited-contact recreation. Concentrations of adenoviruses
+and enteroviruses in Lake Michigan swimming beaches
+were 1Æ10 · 102 and 9Æ29 · 102 copies per l (geometric
+means), respectively. No viruses were detected in the river
+and inland lake waters used for full-contact recreation.
+Adenoviruses were detected in 65% of the CAWS samples
+(including North side, Main Stem, Cal-Sag and the South
+side) with average level of 2Æ6 · 103 copies per l, while
+enteroviruses were detected in 32% of the CAWS samples
+with average level of 1Æ9 · 103 copies per l (Table 3). In the
+CAWS, the adenovirus geometric mean was over 103 copies
+per l. The percentage of positive samples for adenoviruses
+and enteroviruses at the Lake Michigan harbour was higher
+than other non-CAWS locations, including Lake Michigan
+beaches. In contrast, the highest enterovirus concentrations
+were detected at the inland lakes used for limited-contact
+recreation, such as Maple Lake (OL3) and Tampier Lake
+(OL6), where concentrations were 1Æ4 · 104 and
+4Æ6 · 104 copies per l, respectively. The only positive sample for adenoviruses in these lakes, OL6 was in December
+2008, with genome concentrations of 3 · 104 copies per l.
+Adenoviruses were detected in one of the inland lakes
+(OL3) in June 2009, with genome concentrations of
+1Æ6 · 103 copies per l.
+Figure 2 contrasts adenovirus and enterovirus concentrations showing the graphical estimation of how the
+ranges were distributed around the median (horizontal
+line) in the CAWS system compared with the CSO, other
+limited-contact recreational lakes and the harbour as well
+as to the bathing beaches at Lake Michigan. Adenoviruses
+were detected more frequently and found in higher concentrations than enteroviruses in all samples except for
+the inland lakes. Lake Michigan bathing beaches where
+both viruses were found was on average lower by 10- to
+100-fold compared to the other areas. Adenovirus showed
+greater variability across locations, with much higher
+median concentrations in CSO samples than other water
+types. Given the fact that we tested only human adenovirus type F, the total human adenovirus genomic copies
+1256
+
+might be higher in these samples if tested for other
+human adenoviruses.
+In this study, adenovirus was more likely to be detected
+in samples from the effluent-dominated CAWS compared
+with the other area surface waters (odds ratio 6Æ1; 95%
+confidence interval 2Æ3–15Æ7); an association between
+enterovirus and effluent-dominated water was not
+observed (P = 0Æ9). The ranked order adenovirus qPCR
+results were greater at CAWS locations compared with
+the other locations (Wilcoxon 2-sided P < 0Æ001). There
+was no difference in the ranked order enterovirus qPCR
+results for the CAWS compared with the other waters
+(Wilcoxon 2-side P = 0Æ9) Within CAWS locations, rank
+order differences were not apparent upstream (for only
+two locations) vs downstream of the plants for either
+adenovirus (P = 0Æ33) or enterovirus (P = 0Æ46).
+Viruses in infrastructure samples
+Heavy rainfall, as indicated by CSO occurrence, appeared
+to be related to virus detection and concentration. The
+four CSO samples were all positive for adenoviruses, three
+were positive for enteroviruses but no sample contained
+detectable norovirus. The one final effluent sample analysed was positive for all three viruses. The highest average
+adenovirus and enterovirus concentrations were observed
+in the CSO samples (Table 3).
+Virus infectivity
+Thirteen samples with the highest concentrations of adenoviruses and ⁄ or enteroviruses as determined by qPCR
+were selected for infectivity analysis. Nine of the thirteen
+samples were from sites that were used for limitedcontact, two for full-contact recreation and two samples
+were from the CSO pumping station.
+Culturable viruses were detected in all thirteen samples
+and were positive on both BGM and A549 cell lines. The
+infectious virus numbers ranged from 0Æ12 to 33 MPN
+per l using BGM cells and 0Æ11–26 MPN per l using A549
+cells (Fig. 3). Average virus concentration in limitedcontact recreational waters as determined by cell culture
+using BGM cells and A549 cells was 5Æ5 and 7Æ6 MPN per
+l, respectively. For bathing beaches, average virus concentration as determined by cell culture using BGM cells and
+A549 cells was 8Æ8 and 2Æ5 MPN per l, respectively.
+The log10-transformed infectivity results for A549 and
+BGM cell lines were correlated with one another, reaching
+borderline statistical significance (Pearson r = 0Æ59,
+P = 0Æ07), despite the small number (n = 11) of surface
+water samples that were tested using cell culture. The
+BGM cell line displayed lower infectivity for viruses in
+samples collected from the CAWS when compared with
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+
+
+A. Aslan et al.
+
+Occurrence of adenovirus and other enteric viruses
+
+10000000
+
+(a)
+
+1000000
+
+Copies/l
+
+100000
+10000
+1000
+100
+10
+
+WWTP
+
+NBD
+
+NBD
+
+CSO
+
+Inland Lakes
+
+Inland Lakes
+
+Rivers
+
+MLH
+MLB1
+
+MLB
+
+Cal-Sag
+
+Cal-Sag
+C11
+
+MLH
+
+South Side
+
+South Side
+
+North Side
+
+Main Stem
+
+1
+
+10000000 (b)
+1000000
+
+Copies/l
+
+100000
+10000
+1000
+100
+
+WWTP
+
+CSO
+
+Rivers
+
+MLB
+
+North Side
+
+1
+
+Main Stem
+
+10
+Figure 2 (a) Concentrations of human
+adenoviruses F by qPCR for bathing and
+limited-contact waters and combined sewer
+overflow (CSO) samples. (b) Concentrations of
+enteroviruses by qPCR for bathing and
+limited-contact waters and CSO samples.
+
+10
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+CSO2
+
+CSO1
+
+OL6
+
+OL4
+
+OL3
+
+MLH3
+
+MLB2
+
+C7
+
+0·1
+
+C5
+
+1
+
+C4
+
+Figure 3 Comparison of the total culturable
+viruses using both A549 ( ) and BGM ( ) cell
+lines for bathing and limited-contact waters
+and combined sewer overflow samples.
+
+100
+
+C1
+
+MPN/l (Total culturable viruses)
+
+1000
+
+1257
+
+
+
+Occurrence of adenovirus and other enteric viruses
+
+A. Aslan et al.
+
+other surface waters (t-test of log-transformed values
+P = 0Æ06). The A549 cell line resulted in comparable measures of infectivity on CAWS and other waters (P = 0Æ9).
+From the subset of samples analysed by both culture and
+qPCR, the culture MPN and the qPCR concentrations
+were not correlated. Nevertheless, the highest measurement of infectivity on the A549 cell line (110 MPN per l)
+was obtained in CSO sample which had an adenovirus
+concentration of 2Æ4 · 106 copies per l as determined by
+qPCR (Table 3 and Fig. 3).
+Discussion
+This study characterized the presence and concentration
+of human viruses by qPCR and their infectivity by cell
+cultures in recreational waters in an urban area in the
+Great Lakes basin. Adenoviruses were detected more frequently with higher average concentrations at the CAWS,
+an effluent-dominated system when compared with other
+sampling locations. The detection of adenoviruses by PCR
+has been suggested as an index of the presence of human
+viruses in the environment (Pina et al. 1998). Prior studies have showed that adenoviruses were more abundant
+in sewage than other enteric viruses (Pina et al. 1998),
+and their stability in wastewaters has also been documented (Bofill-Mas et al. 2006). In contrast to adenovirus
+results, we found that neither the presence nor the concentrations of enteroviruses were statistically associated
+with effluent-dominated waters.
+The fact that enterovirus was not associated with
+wastewater effluent while adenoviruses was, might be due
+to differential persistence in water, particularly because of
+lower susceptibility to inactivation by solar radiation.
+Adenoviruses were shown to be resistant to inactivation
+by UV in earlier studies (Laverick et al. 2004; da Silva
+et al. 2007; Katayama et al. 2008; Mena and Gerba 2009).
+A prior study of adenovirus, enteric virus and norovirus on the CAWS reported by Rijal et al. (2009) identified
+comparable rates of virus detection in dry weather at similar locations to those at which we sampled (downstream
+of the North Side and Calumet treatment plants). In our
+study, the concentrations of adenovirus and enterovirus
+that we measured by qPCR were often 10- to 100-fold
+higher than in the earlier study, which utilized cell culture
+for the primary analysis and PCR for confirmation, consistent with the sensitivity of qPCR compared with conventional PCR (Rodriguez et al. 2009). The rate of
+detection and concentration of norovirus in CAWS samples was similar between the two studies, both of which
+used qPCR measures of the virus.
+The presence of enteric viruses in inland lakes and harbours in our study may be a result of nondisinfected
+wastewater discharge from boats. Enteroviruses were
+1258
+
+found as frequently and in similar concentration in inland
+lakes and at Lake Michigan as they were in the CAWS,
+where indicator bacteria levels are historically orders of
+magnitude higher. In this study, infectious viruses were
+detected in water samples collected from bathing beaches
+particularly at Montrose Beach (MLB2). At both Leone
+(MLB1) and Montrose (MLB2) beaches, concentrations
+of Escherichia coli often exceed EPA Ambient Water
+Quality Criteria (USEPA 2004) according to the State of
+Illinois records (http://app.idph.state.il.us/envhealth/ilbeaches/public/site.aspx?SiteID=359&Tab=Closure). MLB1 was
+closed or had an advisory seven times, and MLB2 had 14
+advisories (19 days) during this study period in 2009,
+although not specifically on the dates of sample collection
+for viral analysis. Both MLB1 and MLB2 beaches were
+closed after a 2-day unusual heavy rainfall event (3–
+4 inches) on 19, June 2009, which resulted in the reversal
+of the Chicago River, discharging 191Æ6 million gallons of
+freshwater into Lake Michigan (http://www.mwrd.org/irj/
+go/km/docs//documents/MWRD/internet/protecting%20the%
+20environment/Combined%20Sewer%20Overflows/htmls/
+Reversals.pdf). However, the point of that discharge is
+several miles away from the sampling point, and water
+samples were not collected for this study at MLB1 until
+1 week later and at MLB2, until 2 weeks later. Detecting
+infective viruses particularly at MLB2 at this period suggests that viruses might tend to survive for longer periods
+of time in these waters or that the river reversal was not
+the source of viruses detected, as viruses were detected at
+these locations both before the reversal as well. Bathers
+themselves may be sources of human viruses at these
+bathing waters (Elmir et al. 2009) as these beaches do not
+receive wastewater directly or contain CSO outfalls; therefore, further study is needed to better understand the
+presence of human viruses in waters impacted by nonpoint sources of faecal pollution.
+The qPCR signals (copies per l) for viruses were 100to 1000-fold greater than MPN levels as measured by cell
+cultures. Frequent discordant results of adenovirus analysis using qPCR and integrated cell culture-PCR were
+identified in a prior study of Lake Michigan beaches
+(Xagoraraki et al. 2007). Together with our findings, this
+suggests that further research is needed into the relationship between virus infectivity and adenovirus detection by
+qPCR. Similar results were reported in several studies
+showing the differences between qPCR and infectivity
+results. Girones et al. (2010) reviewed laboratory studies
+which compared qPCR with the infectivity of viruses in
+seeded seawater samples. The infectivity results were two
+to three logs lower than the qPCR results. While BGM
+cells have been long used for virus infectivity assay in
+environmental samples, A549 cells could be a better
+alternative for detecting infectious adenoviruses. Lee et al.
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+
+
+A. Aslan et al.
+
+(2004) found similar results with the A549 cell line demonstrating the support of adenovirus growth. In our
+setting, the lack of correlation between molecular target
+concentration and infectivity in A549 cells might also be
+due to the dominance of other adenovirus species within
+the samples that produce faster CPE than serotypes 40
+and 41. It is also possible that a correlation between virus
+concentration and infectivity would have been observed if
+all samples could have been analysed by culture. More
+work is needed to address the use of molecular signals of
+viruses for microbial risk assessment, as the dose–
+response relationships are based on cultivation techniques
+prior to the advent of qPCR analyses of viruses in water
+samples (Couch et al. 1966; Haas et al. 1999).
+Several recent studies have reported enteric virus concentrations in major cities.. Muscillo et al. 2008 analysed
+14 freshwater samples for adenoviruses in Rome using
+qPCR and found concentrations ranging between 3Æ4 104
+and 2Æ3 105 copies per l. Hundesa et al. (2006) collected
+five river water samples close to farming areas and found
+all samples were positive with adenoviruses with 102 genome copies per l. Choi and Jiang (2005) analysed 114
+samples in Los Angeles and San Gabriel Rivers and
+reported that 16% were positive for adenoviruses ranging
+from 102 to 104 genome copies per l. Higher virus presence and concentration in our study compared with other
+studies might be due to differences in the rates of infection in the community, type of wastewater treatment,
+virus transport, environmental persistence and analytical
+methods. Persistence of enteric viruses in water depends
+partly on attachment to suspended sediments (Muscillo
+et al. 2008), distance from the source of pollution, temperature, turbidity, salinity and sunlight (Borchardt et al.
+2003; Shen et al. 2008). In canals in the Florida Keys,
+where septic tanks drained directly to warm saline waters
+used for boating (Griffin et al. 2003; Wetz et al. 2004),
+88% of the samples positive by PCR were negative by cell
+culture. Our observation of infectivity in Lake Michigan
+samples may be due to the persistence of infectivity in a
+relatively cooler freshwater system.
+This study is one of the larger analyses of three viral
+pathogens in recreational waters. We used qPCR for
+quantification and more than one cell line for evaluating
+infectivity in the diverse types of recreational waters
+(inland lake, river, engineered waterway dominated by
+effluent, as well as sites at a Great Lake). Our observation
+that adenovirus, rather than enterovirus, was strongly
+associated with wastewater may not be true in all settings
+(particularly those in which wastewater is chlorinated).
+Only samples that contained the highest concentrations of
+viruses on qPCR analysis were then assessed for infectivity. After evaluating surface water and infrastructure
+samples for human viruses, we conclude that adenovirus
+
+Occurrence of adenovirus and other enteric viruses
+
+was strongly associated with point sources of human faecal pollution, whereas enterovirus was not correlated with
+the source. Adenoviruses may be of use in developing
+future approaches for monitoring health risk and identifying sewage sources to remediate. At designated bathing
+beaches without direct sources of human faecal pollution,
+concentrations of infectious human viruses were at times
+high, as they were in inland lakes. This suggests a public
+health risk and points to the need for more sophisticated
+determinations of pollutant sources at beaches. Rapid
+methods for detecting, quantifying and evaluating the
+infectivity of viral pathogens at recreational waters,
+including those without obvious point sources of human
+faecal pollution, would be valuable.
+Acknowledgements
+This study was funded by the Metropolitan Water Reclamation District of Greater Chicago. Authors would like
+to thank to Ember Vannoy for her efforts in field sampling and Matthew Field for cell culture analysis.
+References
+Boehm, A.B., Ashbolt, N.J., Colford, J.M. Jr, Dunbar, L.E.,
+Fleming, L.E., Gold, M.A., Hansel, J.A., Hunter, P.R. et al.
+(2009) A sea change ahead for recreational water quality
+criteria. J Water Health 7, 9–20.
+Bofill-Mas, S., Albinana-Gimenez, N., Clemente-Casares, P.,
+Hundesa, A., Rodriguez-Manzano, J., Allard, A., Calvo, M.
+and Girones, R. (2006) Quantification and stability of
+human adenoviruses and polyomavirus JCPyV in wastewater matrices. Appl Environ Microbiol 72, 7894–
+7896.
+Borchardt, M.A., Bertz, P.D., Spencer, S.K. and Battigelli, D.A.
+(2003) Incidence of enteric viruses in groundwater from
+household wells in Wisconsin. Appl Environ Microbiol 69,
+1172–1180.
+Byappanahalli, M.N. and Fujioka, R.S. (1998) Evidence that
+tropical soil environment can support the growth of
+Escherichia coli. Water Sci Tech 38, 171–174.
+Choi, S. and Jiang, S.C. (2005) Real-time PCR quantification
+of human adenoviruses in urban rivers indicates genome
+prevalence but low infectivity. Appl Environ Microbiol 71,
+7426–7433.
+Couch, R.B., Cate, T.R., Douglas, R.G. Jr, Gerone, P.J. and
+Knight, V. (1966) Effect of route of inoculation on
+experimental respiratory viral disease in volunteers and
+evidence for airborne transmission. Bacteriol Rev 30,
+517–529.
+Dierssen, U., Rehren, F., Henke-Gendo, C., Harste, G. and
+Heim, A. (2008) Rapid routine detection of enterovirus
+RNA in cerebrospinal fluid by a one-step real-time RTPCR assay. J Clin Virol 42, 58–64.
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+1259
+
+
+
+Occurrence of adenovirus and other enteric viruses
+
+A. Aslan et al.
+
+Elmir, S.M., Wright, M.E., Abdelzaher, A., Solo-Gabriele,
+H.M., Fleming, L.E., Miller, G., Rybolowikc, M., Shih,
+M.P. et al. (2009) NIH public access. Water 41, 3–10.
+Fong, T.T., Phanikumar, M.S., Xagoraraki, I. and Rose, J.B.
+(2010) Quantitative detection of human adenoviruses in
+wastewater and combined sewer overflows influencing a
+Michigan River. Appl Environ Microbiol 76, 715–723.
+Girones, R., Ferrús, M.A., Alonso, J.L., Rodriguez-Manzano, J.,
+Calgua, B., de Abreu Correâ, A., Hundesa, A., Carratala,
+A. et al. (2010) Molecular detection of pathogens in water:
+the pros and cons of molecular techniques. Water Res 44,
+4325–4339.
+Griffin, D.W., Donaldson, K.A., Paul, J.H. and Rose, J.R.
+(2003) Pathogenic human virus in coastal waters. Clin
+Microbiol Rev 16, 129–143.
+Haas, C.N., Rose, J.B. and Gerba, C.P. (1999) Quantitative
+Microbial Risk Assessment. New York: John Wiley & Sons
+Inc., 449pp.
+He, L., Lu, J. and Shi, W. (2007) Variability of indicator
+bacteria in flowing and ponded waters in southern
+California: implications for bacterial TMDL development
+and implementation. Water Res 41, 3132–3140.
+Hundesa, A., de Motes, C.M., Bofill-Mas, S., Albinana-Gimenez,
+N. and Girones, R. (2006) Identification of human and
+animal adenoviruses and polyomaviruses for determination
+of sources of fecal contamination in the environment. Appl
+Environ Microbiol 72, 7886–7893.
+Jiang, S., Noble, R. and Chui, W.P. (2001) Human adenoviruses and coliphages in urban runoff-impacted coastal waters
+of southern California. Appl Environ Microbiol 67, 179–
+184.
+Jiang, S., Dezfulian, H. and Chu, W. (2005) Real-time quantitative PCR for enteric adenovirus serotype 40 in environmental waters. Can J Microbiol 51, 393–398.
+Kageyama, T., Kojima, S., Shinohara, M., Uchida, K., Fukushi,
+S., Hoshino, F.B., Takeda, N. and Katayama, K. (2003)
+Broadly reactive and highly sensitive assay for norwalk-like
+viruses based on real-time quantitative reverse transcription-PCR. J Clin Microbiol 41, 1548–1557.
+Katayama, H., Haramoto, E., Oguma, K., Yamashita, H.,
+Tajima, A., Nakajima, H. and Ohgaki, S. (2008) One-year
+monthly quantitative survey of noroviruses, enteroviruses,
+and adenoviruses in wastewater collected from six plants
+in Japan. Water Res 42, 1441–1448.
+Kay, D., Bartram, J., Pruss, A., Ashbolt, N., Wyer, M.D.,
+Fleisher, J.M., Fewtrell, L., Rogers, A. et al. (2004)
+Derivation of numerical values for the World Health
+Organization guidelines for recreational waters. Water Res
+38, 1296–1304.
+Laverick, M.A., Wyn-Jones, A.P. and Carter, M.J. (2004)
+Quantitative RT-PCR for the enumeration of noroviruses
+(norwalk-like viruses) in water and sewage. Lett Appl
+Microbiol 39, 127–136.
+Lee, C., Lee, S.H., Han, E. and Kim, S.J. (2004) Use of cell
+culture-PCR assay based on combination of A549 and
+
+1260
+
+BGMK cell lines and molecular identification as a tool to
+monitor infectious adenoviruses and enteroviruses in river
+water. Appl Environ Microbiol 70, 6695–6705.
+Mena, K.D. and Gerba, C.P. (2009) Waterborne adenovirus.
+Rev Environ Cont Toxicol 198, 133–167.
+Miagostovich, M.P., Ferreira, F.F.M., Guimaraes, F.R., Fumian,
+T.M., Diniz-Mendes, L., Luz, S.L.B., Silva, L.A. and Leite,
+J.P.G. (2008) Molecular detection and characterization of
+gastroenteritis viruses occurring naturally in the stream
+waters of Manaus, Central Amazonia, Brazil. Appl Environ
+Microbiol 74, 375–382.
+Muscillo, M., Pourshaban, M., Iaconelli, M., Fontana, S., Di
+Grazia, A., Manzara, S., Fadda, G., Santangelo, R. et al.
+(2008) Detection and quantification of human adenoviruses
+in surface waters by nested PCR, TaqMan real-time PCR
+and cell culture assay. Water Air Soil Poll 191, 83–93.
+Pina, S., Puig, M., Lucena, F., Jofre, J. and Girones, R. (1998)
+Viral pollution in the environment and in shellfish: human
+adenovirus detection by PCR as an index of human
+viruses. Appl Environ Microbiol 64, 3376–3382.
+Rijal, G., Petropoulou, C., Tolson, J.K., DeFlaun, M., Gerba,
+C., Gore, R., Glymph, T., Granato, T. et al. (2009) Dry
+and wet weather microbial characterization of the Chicago
+area waterway system. Water Sci Technol 60, 1847–1855.
+Rodriguez, R.A., Pepper, I.A. and Gerba, C.P. (2009) Application of PCR based methods to assess the infectivity of
+enteric viruses in environmental samples. Appl Environ
+Microbiol 75, 297–307.
+Shen, C., Phanikumar, M.S., Fong, T.T., Aslam, I., McElmurry,
+S.P., Molloy, S.L. and Rose, J.B. (2008) Evaluating bacteriophage P22 as a tracer in a complex surface water system: the
+Grand River, Michigan. Environ Sci Tech 42, 2426–2431.
+da Silva, A.K., Le Saux, J., Parnaudeau, S., Pommepuy, M.,
+Elimelech, M. and Le Guyader, F.S. (2007) Evaluation of
+removal of noroviruses during wastewater treatment,
+using real-time reverse transcription-PCR: different
+behaviors of genogroups I and II. Appl Environ Microbiol
+73, 7891–7897.
+Sinclair, R.G., Jones, E.L. and Gerba, C.P. (2009) Viruses in
+recreational water-borne disease outbreaks: a review. J Appl
+Microbiol 107, 1769–1780.
+United States Environmental Protection Agency (USEPA)
+(2001a) Manual of Methods for Virology Chapter 14. EPA
+600 ⁄ 4-84 ⁄ 013 (N14). Washington, DC: Office of Research
+and Development, United States Environmental Protection
+Agency.
+United States Environmental Protection Agency (USEPA)
+(2001b) Manual of Methods for Virology Chapter 15. EPA
+600 ⁄ 4-84 ⁄ 013 (N15). Washington, DC: Office of Research
+and Development, United States Environmental Protection
+Agency.
+United States Environmental Protection Agency (USEPA)
+(2004) Water quality standards for coastal and great lakes
+recreation waters 40 CFR part 131 [OW–2004–0010;
+FRL–7837–5] RIN 2040–AE63.
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+
+
+A. Aslan et al.
+
+ten Veldhuis, J.A.E., Clemens, F.H.L.R., Sterk, G. and Berends,
+B.R. (2010) Microbial risks associated with exposure to
+pathogens in contaminated urban flood water. Water Res
+44, 2910–2918.
+Verhougstraete, M.P., Byappanahalli, M.N., Rose, J.B. and
+Whitman, R.L. (2010) Cladophora in the Great Lakes:
+impacts on beach water quality and human health. Water
+Sci Tech 62, 68–76.
+Wade, T.J., Calderon, R.L., Brenner, K.P., Sams, E., Beach, M.,
+Haugland, R., Wymer, L. and Dufour, A. (2008) High sensitivity of children to swimming-associated gastrointestinal
+illnesses. Epidemiology 19, 375–383.
+Wade, T.J., Sams, E., Brenner, K.P., Haugland, R., Chern, E.,
+Beach, M., Wymer, L., Rankin, C.C. et al. (2010) Rapidly
+measured indicators of water quality and swimming-associated illnesses at marine beaches: a prospective cohort
+study. Environ Health 9, 1–14.
+Wetz, J.J., Lipp, E.K., Griffin, D.W., Lukasik, J., Wait, D.,
+Sobsey, M.D., Scott, T.M. and Rose, J.B. (2004) Presence,
+
+Occurrence of adenovirus and other enteric viruses
+
+infectivity, and stability of enteric viruses in seawater:
+relationship to marine water quality in the Florida keys.
+Marine Poll Bull 48, 698–704.
+Whitman, R.L., Shively, D.A., Pawlik, H., Nevers, M.B. and
+Byappanahalli, M.N. (2003) Occurrence of Escherichia coli
+and Enterococci in Cladophora (Chlorophyta) in nearshore water and beach sand of Lake Michigan. Appl
+Environ Microbiol 69, 4714–4719.
+Wong, M., Kumar, L., Jenkins, T.M., Xagoraraki, I., Phanikumar, M.S. and Rose, J.B. (2009) Evaluation of public
+health risks at recreational beaches in Lake Michigan via
+detection of enteric viruses and a human-specific bacteriological marker. Water Res 43, 1137–1149.
+Xagoraraki, I., Kuo, D.H.W., Wong, K., Wong, M. and Rose,
+J.B. (2007) Occurrence of human adenoviruses at two recreational beaches of the great lakes. Appl Environ Microbiol
+73, 7874–7881.
+
+ª 2011 The Authors
+Journal of Applied Microbiology 111, 1250–1261 ª 2011 The Society for Applied Microbiology
+
+1261
+
+

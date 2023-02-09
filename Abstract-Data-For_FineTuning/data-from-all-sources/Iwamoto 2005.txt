@@ -1,0 +1,449 @@
+Original Article
+
+Shigellosis Among Swimmers in a Freshwater
+Lake
+Martha Iwamoto, MD, MPH, Gary Hlady, MD, MS, Monica Jeter, BA, Cindy Burnett,
+Cherie Drenzek, DVM, MS, Susan Lance, DVM, PHD, James Benson, BS,
+David Page, MD, MPH, and Paul Blake, MD, MPH
+
+Objective: Shigella infection is highly communicable; however,
+outbreaks associated with swimming in recreational fresh water are
+rarely identified.
+Materials and Methods: A cohort study of lake visitors was performed.
+Results: Seventeen (24.6%) case patients among 69 persons who
+visited the lake over the holiday weekend were identified. Attack
+rates increased with increasing exposure to lake water; the risk of
+illness was greatest among swimmers who reported getting lake
+water in their mouths (relative risk ⫽ 5.37, 95% confidence interval
+⫽ 2.2, 13.3). Shigella sonnei was isolated from stool samples of four
+of eight swimmers tested.
+Conclusions: The outbreak likely was caused by fecal contamination of lake water by an infected swimmer; there was no evidence of
+sewage contamination into the lake. Fresh water is a potential source
+of infection in patients with acute gastroenteritis and recent exposure. Since testing and chlorination of lake water is impractical,
+prevention relies on avoidance of fecal contamination and/or minimizing ingestion of the water.
+Key Words: recreational water, shigellosis, swimming, waterborne
+disease outbreaks
+
+S
+
+higella infection is highly communicable. Transmission
+occurs through direct or indirect contact with feces of
+infected persons, and ingestion of as few as 10 viable organ-
+
+From Epidemic Intelligence Service, Epidemiology Program Office, Centers
+for Disease Control and Prevention, Atlanta, GA; Georgia Department of
+Human Resources, Division of Public Health, Atlanta, GA; Coastal Health
+District, Brunswick, GA; and Georgia Department of Human Resources,
+Georgia Public Health Laboratory, Atlanta, GA.
+Reprint requests to Martha Iwamoto, MD, MPH, Centers for Disease Control
+and Prevention, 1600 Clifton Road NE, Mailstop C-09, Atlanta, GA
+30333. Email: miwamoto@cdc.gov
+Accepted April 1, 2005.
+The use of trade names and commercial sources is for information only and
+does not imply endorsement by the Department of Health and Human
+Services, CDC, or the Georgia Department of Human Resources.
+Copyright © 2005 by The Southern Medical Association
+0038-4348/0⫺2000/9800-0774
+
+774
+
+MPH,
+
+isms is sufficient for infection to occur.1 Outbreaks have been
+associated with person-to-person transmission in crowded environments, ingestion of contaminated food and water and,
+less commonly, swimming in recreational fresh water. During
+1991 to 2000, 11 Shigella outbreaks associated with recreational water in the United States were reported to the Centers
+for Disease Control and Prevention.2– 6 Shigellosis is endemic
+in tropical and temperate climates, and epidemic cycles have
+been described. The incidence of shigellosis in Georgia increases and decreases in cycles lasting approximately 7 years;
+since 2001, an increase in laboratory-confirmed cases has
+occurred throughout the state (unpublished data; Georgia Department of Human Resources, Division of Public Health
+[GDPH]).
+On May 27, 2003, a local health department in Georgia
+was notified that an 11-year-old girl had fever, bloody diarrhea, vomiting, and headache 2 days after swimming in a
+freshwater lake at a county park over Memorial Day weekend, May 24 to 26. She had a diagnosis of bacterial dysentery,
+and a stool culture confirmed Shigella sonnei infection. The
+patient’s mother was aware of other park visitors having similar symptoms. Epidemiologists from the GDPH assisted the
+local health department in an investigation to confirm the
+existence of an outbreak, assess risk factors, and determine
+the source of infection.
+
+Key Points
+• Lake water was the vehicle of transmission for Shigella sonnei.
+• The most likely source of Shigella in the lake water
+was transient fecal contamination by an infected swimmer.
+• Since there are no reliable methods for determining if
+fresh water is contaminated, prevention relies on
+avoidance of contamination and minimizing ingestion
+of lake water.
+
+© 2005 Southern Medical Association
+
+
+
+Original Article
+
+MATERIALS AND METHODS
+
+Statistical analysis
+
+Epidemiologic investigation
+
+Information was entered and analyzed using Epi Info
+6.04 (CDC; Atlanta, GA). ␹2 tests and Fisher exact tests were
+used to evaluate measures of significance. Probability values
+of less than 0.05 were considered statistically significant.
+
+Case finding. To determine if there were additional patients with culture-confirmed Shigella infection that had been
+to the county park, we interviewed ill patients about other ill
+contacts, reviewed routine surveillance reports and records in
+three local laboratories, and interviewed local pediatricians
+and family practitioners in the county. We also searched emergency department records at the one hospital that serves the
+county and surrounding area to identify patients presenting
+with vomiting, diarrhea, or abdominal pain during May 2003.
+Persons with laboratory-confirmed Shigella infection during
+the last 2 weeks of May and first week of June 2003 were
+interviewed by telephone about exposures at the county park.
+
+Environmental inspection
+We visited the park facilities, and park operations were
+reviewed. The bathroom facilities were inspected, and a fluorescein dye study was performed to evaluate the integrity of
+the septic system. Lake water samples from the swimming
+area collected May 27 and June 5, 2003, were cultured for
+fecal coliform bacteria. The sample collected on June 5, 2003,
+was also cultured for Shigella.
+
+Results
+Cohort study
+
+Epidemiologic investigation
+
+Based on the original report of other park visitors with
+illness and the results of case findings, which supported the
+association between illness and park exposure, we performed
+a cohort study of persons who visited the park over Memorial
+Day weekend, May 24 to 26, 2003. We set out to determine
+if unreported cases of diarrheal illness had occurred and
+whether such cases were associated with exposure to the lake
+water. The park recorded only visitors who registered for the
+campground or a picnic pavilion. Members of the cohort were
+identified through park registries, interviews with registered
+visitors who reported other family members and friends at the
+park at the same time, and interviews of persons with laboratory-confirmed Shigella infection who reported visiting the
+park. A questionnaire was administered to the cohort by telephone to inquire about park activities, including date, time,
+duration, and type of lake exposure (ie, wading in the water,
+face immersion, or swallowing water), clinical symptoms,
+and dates of illness onset. We defined a case as vomiting or
+diarrhea in a park visitor that began 1 to 4 days after visiting
+the county park. Persons whose symptoms began 2 or more
+days after another household member’s illness were considered to have possible secondary causes and were excluded
+from the analysis. Stool testing was offered to park visitors
+who met our case definition. Pulsed-field gel electrophoresis
+(PFGE) was performed on Shigella isolates available for subtyping.
+
+Case finding. Laboratory records showed that S sonnei
+was isolated from stool samples from five patients during the
+last 2 weeks of May 2003. Of these five culture-positive
+patients, two reported lake exposure at the park and two
+reported no park exposure; we were unable to contact one
+patient. The two patients who reported park exposure met our
+case definition and were part of the cohort study. Local pediatricians and family practitioners reported no notable increase in patients with diarrheal disease and no patients with
+bloody diarrhea. Emergency department records revealed no
+additional cases clinically compatible with shigellosis.
+
+Cohort study
+
+To determine if the lake was a continuing source of
+Shigella infection, we similarly identified and surveyed persons who visited the park on the weekend of May 31 through
+June 1, 2003. Weekday attendance at the park was very low.
+Stool samples from park visitors who reported diarrheal illness were submitted for bacterial culture.
+
+From park records and interviews with known park visitors, we located and surveyed 69 members of 20 households
+who had visited the park during Memorial Day weekend,
+May 24 to 26, 2003. Of these 69 park visitors, 17 (24.6%) had
+illness meeting the case definition (Fig. 1). Symptoms included diarrhea (100%), abdominal pain (76%), fever (71%),
+headache (59%), vomiting (53%), and bloody diarrhea (47%).
+Median age of the patients was 10.5 years (range, 17 months
+to 55 years). Of the 17 patients, 13 (76.5%) reported contact
+with lake water on May 24 and/or May 25, 2003; median time
+between lake exposure and onset of symptoms was 2 days
+(range, 1 to 3 days).
+Exposure to lake water was the only risk factor significantly associated with illness. The attack rate among park
+visitors increased with the degree of lake water exposure
+(Table 1). Park visitors who reported any contact with lake
+water had 3.4 times higher risk of developing illness (13
+cases/34 persons with lake water exposure) than those who
+reported no lake water exposure (4 cases/35 persons without
+lake water exposure) (P ⫽ 0.01, 95% confidence interval ⫽
+1.2 to 9.3). Among those with lake exposure, persons who
+reported getting water in their mouths had 7.4 times higher
+
+Southern Medical Journal • Volume 98, Number 8, August 2005
+
+775
+
+Study of ongoing transmission
+
+
+
+Iwamoto • Shigellosis Among Swimmers in a Freshwater Lake
+
+ranged from 1 to 4 days. Stool samples collected from all
+three ill persons, 1 to 13 days after illness onset were negative
+for Shigella.
+
+Environmental investigation
+
+Fig. Period of lake exposure, illness onset, and incubation period among patients with reported lake water exposure on May
+24 and/or 25, 2003, in Georgia.
+
+risk of becoming ill (12 cases/21 persons who reported lake
+water in mouth) than those who only waded in the water (1
+case/13 persons who waded in water) (P ⫽ 0.005, 95% confidence interval ⫽ 1.1 to 50.6). The amount of time spent in
+the water was similar among those who became ill and those
+who did not become ill. Eleven of the 13 ill persons with lake
+water exposure had lake contact on one day only, either May
+24 or May 25 (Fig. 1). Persons who were exposed to lake
+water only on May 24 only had 4.1 times greater risk of
+developing illness (8 cases/11 persons with exposure to lake
+water on May 24 only, 73%) than persons exposed to lake
+water the next day, May 25 only (3 cases/17 persons with
+exposure to lake water on May 25 only, 18%) (P ⬍ 0.01, 95%
+confidence interval ⫽ 1.4 to 12.2). There was no association
+between illness and use of drinking water facilities.
+Eight of the 17 patients submitted a stool sample for
+testing, and S sonnei was isolated from samples from four
+patients. Antibiotic sensitivity patterns of the isolates were
+similar; all four were sensitive to trimethoprim-sulfamethoxazole, ciprofloxacin, ceftriaxone, and tetracycline and had
+intermediate sensitivity to ampicillin. Three of the Shigella
+isolates were identical by PFGE. The fourth isolate was very
+similar, with only a single band deletion; this minimal variability and the epidemiologic connection make it likely that
+this person was infected with the same strain (CDC, personal
+communication).
+
+Study of ongoing transmission
+We surveyed 32 persons from eight family groups who
+visited the park during May 31 to June 5, 2003. Twenty
+persons (62.5%) recalled lake exposure. Of the 20, 3 (15%)
+reported diarrhea and abdominal pain. Incubation periods
+
+776
+
+The park is a 1,100-acre public facility owned by the
+county. The park facilities include a freshwater lake with a
+swimming beach area, picnic pavilions with tables, and a
+campground. The 9-acre manmade lake has no outlet. A 0.5acre section of the lake is designated for swimming with a
+414-foot beach access. Bathroom facilities are available near
+the swimming area. Food was not sold at the park. Park staff
+estimated that 200 to 300 persons visited the lake during
+Memorial Day Weekend, May 24 to 26, 2003.
+The bathroom facilities at the swimming area were well
+maintained and of adequate capacity. Hand washing facilities
+were available. The septic system consisted of two septic
+tanks and three drain fields per tank. The drain fields were 80
+to 300 feet from the lake shore. Dye testing found no sewage
+leaks. A sample of water collected from the swimming area
+on May 27, 2003, revealed 160 fecal coliform bacteria per
+100 mL. A sample collected June 5, 2003, 12 days after the
+exposure of the index case, had 230 fecal coliform bacteria
+per 100 mL, slightly above recommended guidelines. Attempts to isolate Shigella from this lake water sample were
+not successful.
+
+Discussion
+The epidemiologic findings of this investigation demonstrate that lake water was the likely vehicle of transmission
+for S sonnei. Transmission can occur through ingestion of
+contaminated water, and outbreaks of shigellosis caused by
+swimming in fresh water have been reported.7–10 Exposure to
+lake water was strongly associated with diarrheal disease.
+Furthermore, S sonnei was isolated from stool samples from
+four swimmers, and the similar antibiotic susceptibility and
+PFGE patterns among isolates suggest a common source of
+infection. Incubation periods between lake exposure and onset of illness were consistent with Shigella infection. Attack
+rates varied with the degree of water exposure; the risk of
+illness was greatest among swimmers who reported getting
+lake water in their mouths or swallowing water. We were not
+able to contact all persons who swam in the lake, but estimates using the proportion of ill persons among those we
+contacted and the estimated number of park visitors suggest
+that more than 60 persons may have became ill during this
+outbreak.
+In this outbreak, the most likely source of Shigella organisms in the lake water was transient fecal contamination
+by an infected swimmer. No sewage contamination was detected. Water can become contaminated through transfer of
+organisms from the feces of an infected person who defecates
+in the water or has inadequate hygiene. Fecal excretion of
+© 2005 Southern Medical Association
+
+
+
+Original Article
+
+Table. Associations of lake water exposure and lake water in mouth with illness among park visitors: Georgia, May
+24 to 25, 2003
+Exposure
+Park visitor (n⫽69)
+No reported lake water exposure
+Lake water exposure
+Persons with lake water exposure (n⫽34)
+No lake water in mouth
+Lake water in mouth
+
+Ill
+
+Well
+
+Total
+
+Attack rate
+
+Relative risk
+
+95% CI
+
+4
+13
+
+31
+21
+
+35
+34
+
+11%
+38%
+
+Ref.
+3.4
+
+–
+1.2–9.3
+
+1
+12
+
+12
+9
+
+13
+21
+
+8%
+57%
+
+Ref.
+7.4
+
+–
+1.1–50.6
+
+Shigella can be 103 to 109 organisms per gram of stool, and
+the infectious dose is as small as 10 to 100 organisms.1 Humans are the reservoir. Transmission of the organism was
+greatest on Saturday, May 24, and the risk of illness decreased by 4-fold the next day, suggesting that the water was
+less contaminated. We could not document that the lake was
+a continuing source of infection after May 25. Transmission
+usually lasts only a few days after contamination; however,
+prolonged outbreaks have been documented.8,9
+Routine monitoring of the lake water would not have
+prevented this outbreak; there are no reliable methods for
+determining if fresh water is contaminated with Shigella. The
+Environmental Protection Agency has guidelines for periodic
+sampling of recreational waters to monitor bacterial water
+quality, but these provide no protection from transient or
+sudden contamination of untreated freshwater by Shigella or
+other enteric pathogens.11,12 The infectious dose of Shigella
+is very small, and routine monitoring for fecal coliform bacteria or other bacterial indicators may not detect low concentrations of organisms or transient contamination. The sensitivity of culturing Shigella from water is low, and little is
+known about the survival of Shigella in freshwater environments. However, in experimental settings, Shigella survived
+for up to 12 days in pond water samples.13 Shigella is effectively inactivated in chlorinated water, as specified for treated
+pool or drinking water. However, chlorination of freshwater
+bodies that naturally contain organic matter that inactivates
+chlorine is difficult and not practical to maintain at levels
+adequate to kill Shigella.
+Interpretation of findings from this investigation is subject to several limitations. There were no records of all visitors to the swimming area. In retrospective studies such as
+this, recall bias concerning exposure among persons can occur and exaggerate the risk if patients are more likely to recall
+their exposure. Shigella are not hardy organisms, so isolation
+from stool and environmental samples is difficult and sensitivity is low. Improper storage of stool samples and collection
+after the acute illness has passed may have contributed to the
+negative culture results in our investigation. Stool samples
+were not tested for viruses, and we cannot exclude viral pathogens as causative agents among some persons who reported
+illness.
+Southern Medical Journal • Volume 98, Number 8, August 2005
+
+Clinicians should consider recreational fresh water as a
+potential source of infection among patients with acute gastroenteritis and recent exposure. It is important to talk to
+patients and parents about the risks associated with swimming in recreational waters. Prevention of transmission of
+Shigella and other enteric pathogens by recreational fresh
+water depends on prevention of fecal contamination of the
+water and/or minimizing ingestion of the water, since continuous monitoring of water for enteric pathogens is not currently possible and chlorination of lake water is not practical.
+Recommended prevention measures during this outbreak included encouraging proper hygiene for swimmers, frequent
+restroom visits with proper hand washing after bathroom use
+or diaper change, exclusion of swimmers with gastrointestinal illness, close supervision of diaper-aged children, provision of alternate play areas for diaper-aged children, and discouragement of drinking lake water and defecation in water.
+Prompt reporting of gastrointestinal illnesses associated with
+recreational water to public health authorities will facilitate
+detection of outbreaks and will help define appropriate control measures.
+
+Acknowledgments
+The authors thank Saroyi Morris, Stanley Santee, Nancy
+Morris, Jennifer Foster, Randy McCall, Julie Magri, Bob
+Manning, and Timothy Barrett, who contributed to this investigation. We are indebted to the park visitors for their
+cooperation.
+
+References
+1. DuPont HI, Levin MM, Homick RB, Formal SB. Inoculum size in
+shigellosis and implications for expected mode of transmission. J Infect
+Dis 1989;159:1126–1128.
+2. Moore AC, Herwaldt BL, Craun GF, Calderon RL, Highsmith AK,
+Juranek DD. Surveillance for waterborne disease outbreaks: United
+States, 1991–1992. In: CDC Surveillance Summaries, November 19,
+1993. MMWR Morb Mortal Wkly Rep 1993;42(SS-5):1–21.
+3. Kramer MH, Herwaldt BL, Craun GF, Calderon RL, Juranek DD. Surveillance for waterborne disease outbreaks: United States, 1993–1994.
+In: CDC Surveillance Summaries, April 12, 1996. MMWR Morb Mortal
+Wkly Rep 1996;45(SS-1):1–33.
+4. Levy DA, Bens MS, Craun GF, Calderon RL, Herwaldt BL. Surveil-
+
+777
+
+
+
+Iwamoto • Shigellosis Among Swimmers in a Freshwater Lake
+
+lance for waterborne disease outbreaks: United States, 1995–1996. In:
+CDC Surveillance Summaries, December 11, 1998. MMWR Morb Mortal Wkly Rep 1998;47(SS-5):1–34.
+5. Barwick RS, Levy DA, Craun GF, Beach MJ, Calderon RL. Surveillance
+for waterborne disease outbreaks: United States, 1997–1998. In: CDC
+Surveillance Summaries, May 26, 2000. MMWR Morb Mortal Wkly Rep
+2000;49(SS-5):1–35.
+6. Lee SH, Levy DA, Craun GF, Beach MJ, Calderon RL. Surveillance for
+waterborne disease outbreaks: United,1999 –2000. In: CDC Surveillance
+Summaries, November 22, 2002. MMWR Morb Mortal Wkly Rep 2002;
+51(SS-8):1–47.
+
+9. Makintubee S, Mallonee J, Istre GR. Shigellosis outbreak associated
+with swimming. Am J Public Health 1987;77:166–168.
+10. Sorvillo FJ, Waterman SH, Vogt JK, et al. Shigellosis associated with
+recreational water contact in Los Angeles County. Am J Trop Med Hyg
+1988;38:613–617.
+11. Environmental Protection Agency. Bacterial water quality standards for
+recreational waters (freshwater and marine waters): status report.
+Washington, DC: Environmental Protection Agency, June 2003. (Accessed March 22, 2005, at http://www.epa.gov/waterscience/beaches/
+local/statrept.pdf).
+
+7. Rosenberg MS, Hazlet KK, Schaefer J, Wells JG, Pruneda RC. Shigellosis from swimming. JAMA 1976;236:1849–1852.
+
+12. Calderon RL, Wood EW, DuFour AP. Health effects of swimmers and
+nonpoint sources of contaminated water. Int J Environ Health Res 1991;
+1:21–31.
+
+8. Keene WE, McAnulty JM, Hoesly FC, et al. A swimming-associated
+outbreak of hemorrhagic colitis caused by Escherichia coli O157:H7 and
+Shigella sonnei. N Engl J Med 1994;331:579–584.
+
+13. Mitscherlich E, Marth EH. Microbial survival in the environment: bacteria and rickettsiae important in human and animal health. Berlin, Germany: Springer-Verlab, 1984:693-704.
+
+Be who you are and say what you feel, because those
+who mind don’t matter and those who matter don’t
+mind.
+––Dr. Seuss
+
+778
+
+© 2005 Southern Medical Association
+
+

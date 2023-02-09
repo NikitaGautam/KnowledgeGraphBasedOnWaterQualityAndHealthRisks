@@ -1,0 +1,1746 @@
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+Available online at www.sciencedirect.com
+
+journal homepage: www.elsevier.com/locate/watres
+
+Using rapid indicators for Enterococcus to assess the risk
+of illness after exposure to urban runoff contaminated
+marine water
+John M. Colford Jr.a,*, Kenneth C. Schiff b, John F. Griffith b, Vince Yau a,1,
+Benjamin F. Arnold a, Catherine C. Wright a, Joshua S. Gruber a, Timothy J. Wade c,
+Susan Burns d, Jacqueline Hayes d, Charles McGee e, Mark Gold f, Yiping Cao b,
+Rachel T. Noble g, Richard Haugland h, Stephen B. Weisberg b
+a
+
+University of California Berkeley, School of Public Health, 101 Haviland, MC# 7358, Berkeley, CA 94720-7358, USA
+Southern California Coastal Water Research Project, 3535 Harbor Blvd., Suite 110, Costa Mesa, CA 92626, USA
+c
+United States Environmental Protection Agency, National Environmental Health Effects Research Laboratory, Chapel Hill, NC 27711, USA
+d
+University of California Berkeley, Survey Research Center, 2538 Channing Way #C, Berkeley, CA 94720-5101, USA
+e
+Orange County Sanitation District, 10844 Ellis Avenue, Fountain Valley, CA 92708, USA
+f
+Heal the Bay, 1444 9th Street, Santa Monica, CA 90401, USA
+g
+University of North Carolina at Chapel Hill, Institute of Marine Sciences, 3431 Arendell Street, Morehead City, NC 28557, USA
+h
+United States Environmental Protection Agency, National Exposure Research Laboratory, 26 W. Martin Luther King Dr.,
+Cincinnati, OH 45268, USA
+b
+
+article info
+
+abstract
+
+Article history:
+
+Background: Traditional fecal indicator bacteria (FIB) measurement is too slow (>18 h) for
+
+Received 23 July 2011
+
+timely swimmer warnings.
+
+Received in revised form
+
+Objectives: Assess relationship of rapid indicator methods (qPCR) to illness at a marine-
+
+24 January 2012
+
+beach impacted by urban runoff.
+
+Accepted 25 January 2012
+
+Methods: We measured baseline and two-week health in 9525 individuals visiting Doheny
+
+Available online 2 February 2012
+
+Beach 2007e08. Illness rates were compared (swimmers vs. non-swimmers). FIB measured
+by traditional (Enterococcus spp. by EPA Method 1600 or Enterolert, fecal coliforms, total
+
+Keywords:
+
+coliforms) and three rapid qPCR assays for Enterococcus spp. (Taqman, Scorpion-1, Scor-
+
+Gastrointestinal illness
+
+pion-2) were compared to health. Primary bacterial source was a creek flowing untreated
+
+Recreational water quality
+
+into ocean; the creek did not reach the ocean when a sand berm formed. This provided
+
+Diarrhea
+
+a natural experiment for examining FIB-health relationships under varying conditions.
+
+Indicator organisms
+
+Results: We observed significant increases in diarrhea (OR 1.90, 95% CI 1.29e2.80 for swal-
+
+qPCR
+
+lowing water) and other outcomes in swimmers compared to non-swimmers. Exposure
+(body immersion, head immersion, swallowed water) was associated with increasing risk
+of gastrointestinal illness (GI). Daily GI incidence patterns were different: swimmers (2-day
+peak) and non-swimmers (no peak). With berm-open, we observed associations between GI
+and traditional and rapid methods for Enterococcus; fewer associations occurred when berm
+status was not considered.
+
+Abbreviations: FIB, fecal indicator bacteria; qPCR, quantitative polymerase chain reaction; GI, gastrointestinal illness; HCGI, highly
+credible gastrointestinal illness; UTI, urinary tract infection; HCRESP, highly credible respiratory illness; CI, confidence interval; OR, odds
+ratio; CFU, colony forming unit; WQS, water quality standard; LOD, level of detection; MGD, million gallons per day.
+* Corresponding author. Tel.: þ1 510 642 9370; fax: þ1 510 666 2551.
+E-mail address: jcolford@berkeley.edu (J.M. Colford).
+1
+Present address. Kaiser Permanente Division of Research, 2000 Broadway, Oakland, CA 94612, USA.
+0043-1354/$ e see front matter ª 2012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.watres.2012.01.033
+
+
+
+2177
+
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+Conclusions: We found increased risk of GI at this urban runoff beach. When FIB source
+flowed freely (berm-open), several traditional and rapid indicators were related to illness.
+When FIB source was weak (berm-closed) fewer illness associations were seen. These
+different relationships under different conditions at a single beach demonstrate the difficulties using these indicators to predict health risk.
+ª 2012 Elsevier Ltd. All rights reserved.
+
+1.
+
+Introduction
+
+Current methods for monitoring beach water quality involve
+the enumeration of fecal indicator bacteria (FIB) using culturebased methods, such as membrane filtration or defined
+substrate kits. These methods are widely accepted because of
+relative ease of use, low cost, and demonstrated relationship
+to health risk (Wade et al., 2003; Zmirou et al., 2003). However,
+the time required for FIB enumeration ranges from 18 to 24 h,
+with confirmation steps adding 1þ days. Each beach is unique,
+but FIB concentrations can change substantially on time
+scales of less than a day (Boehm et al., 2002). Thus, contaminated beaches remain open during the enumeration period
+and the contamination event may have passed by the time
+warnings are posted (Leecaster and Weisberg, 2001).
+Technological advances provide opportunities to measure
+bacterial water quality more rapidly (Bushon et al., 2009;
+Haugland et al., 2005; Noble et al., 2010; Noble and Weisberg,
+2005). Whereas current EPA-approved methods rely on bacterial growth and metabolic activity, these new rapid molecular
+methods directly quantify intracellular molecules, such as
+ATP, DNA, or RNA. Eliminating the enrichment and incubation
+steps associated with culture-based methods reduces assay
+time to as little as two hours and provides the opportunity for
+public health warnings to be issued on the same day that
+samples are collected (Griffith and Weisberg, 2011). The best
+developed of these methods is quantitative polymerase chain
+reaction (qPCR), such as the Enterococcus spp. (herein referred
+to as Enterococcus) assay developed by Haugland et al. (2005).
+Quantitative PCR has been found to correlate with traditional
+culture-based methods (Griffith et al., 2009; Haugland et al., 2005;
+Lavender and Kinzelman, 2009; Noble et al., 2010), even though
+the measurement endpoint is different. Given the inherent
+differences between the two classes of methods, epidemiology
+studies are needed to establish health-risk relationships before
+establishing qPCR-based standards. Several studies have
+developed this relationship for waters affected by wastewater
+effluent (Wade et al., 2006, 2008, 2010), but few have assessed it
+for beaches affected by urban runoff (Sinigalliano et al., 2010).
+Here we report results from an epidemiologic study comparing
+health-risk relationships between qPCR-based (three different
+assays) and culture-based quantification of Enterococcus at
+a marine recreational beach affected by urban runoff.
+
+2.
+
+Materials and methods
+
+2.1.
+
+Study site
+
+The study was conducted at Doheny State Beach in Dana Point,
+California, USA. Based on the frequency and magnitude of FIB
+
+water quality standards exceedances, Doheny Beach is chronically listed as one of the most polluted beaches in California
+(www.healthebay.org). Several potential sources of beach FIB
+exist including an adjacent small craft harbor and a 21 MGD
+secondary treated wastewater outfall 2.1 km offshore, but
+modeling and current measurement studies suggest that these
+sources are too distant to have a consistent effect on water
+quality at this beach (Jones, 2009). The largest and most direct
+FIB source to Doheny State Beach is San Juan Creek, which
+drains the adjacent 347 km2 watershed. However, southern
+California has a Mediterranean climate and San Juan Creek
+does not flow to the ocean year-round because a sand berm
+forms and effectively dams the creek when creek flow is low.
+When the berm is open, the untreated creek-flow discharges
+directly to the surf zone and dramatically increases FIB
+concentration; when closed, water quality generally improves.
+There was no measurable rain during this 12-week study, as is
+typical in the summer, and the berm was open for three weeks.
+
+2.2.
+
+Study design
+
+The study was designed as a prospective cohort, similar to
+prior studies (Coford et al., 2007; Wade et al., 2006, 2008, 2010).
+Participants were recruited each sampling day with current
+health and degree of water exposure recorded. Ten to 14 days
+later interviewers contacted participants by phone and
+recorded illness occurring after their visit. We used regression
+models to evaluate the association of illness between swimmers and non-swimmers and between FIB and illness.
+
+2.3.
+
+Water quality data collection and analysis
+
+Surface water samples were collected in sterilized containers at
+0.5 m depth on incoming waves. We collected samples three
+times (8 AM, 12 Noon, 3 PM) at each of five beach sites, three of
+which were within 400 m of the creek mouth (sites A, B, and D),
+one that was in the creek (site C), and one that was a reference
+site located about 3000 m to the south (site E; see Supplemental
+Material, Figure 1). Samples were analyzed for traditional
+culture-based FIB (Enterococcus, fecal coliforms, total coliforms)
+and three qPCR assays for Enterococcus. Total and fecal coliform
+bacteria were enumerated by membrane filtration on m-Endo
+and m-FC media, respectively (APHA, 2009). Culture methods
+for Enterococcus included EPA Method 1600 (USEPA, 2006) and
+EnterolertTM (IDEXX, Westbrook ME; APHA, 2009) a defined
+substrate technology. All culture methods were processed
+immediately, while filters for the three qPCR methods were
+frozen for later processing. Two of the qPCR methods, here
+referred to as TaqMan and Scorpion-1 targeted the same broad
+species range of the genus Enterococcus, but differed in their
+probe chemistries and the manner in which final quantitative
+
+
+
+2178
+
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+results were calculated (Haugland et al., 2005; Noble et al., 2010).
+The third method, here referred to as Scorpion-2, was identical
+to Scorpion-1 except that the primer-probe complex was
+slightly modified for more specific amplification of Enterococcus
+faecium and Enterococcus faecalis, two of the more common
+Enterococcus spp. commonly found in human fecal contamination (Layton et al., 2010). Taqman qPCR results were reported as
+calibrator cell equivalents per 100 ml based on the delta-deltaCt
+method described in Haugland et al. (2005), whereas Scorpion-1
+and Scorpion-2 results were reported in cell equivalents (CE) per
+100 ml using the deltaCt method outlined in Pfaffl (2001) and
+used by Noble et al. (2010).
+
+2.4.
+
+Beach recruitment and follow-up interviews
+
+The Committee for Protection of Human Subjects at the
+University of California, Berkeley approved all protocols.
+Eligibility criteria included: 1) no previous participation in the
+study; 2) at least one household member at the beach 18 years
+old; 3) home address in United States, Canada, or Mexico; and
+4) verbal consent. Interviewers recorded the closest watersampling site to the recruit. Participants were given an incentive (beach ball) and a questionnaire to complete prior to
+departure. The questionnaire assessed possible confounding
+exposures at the beach and exposures/illnesses experienced
+the previous three days. Participants failing to complete the
+beach survey on-site were contacted within 3 days by telephone. Ten to 14 days following their visit, participants were
+telephoned for a 10e15 min interview. This interview collected
+demographic information, swimming and exposures since the
+beach day, pre-existing health problems (e.g., chronic diarrhea), and acute health conditions since the beach visit. The
+head of household answered questions on behalf of the family.
+
+2.5.
+
+Health outcomes
+
+Health outcomes included gastrointestinal, respiratory,
+dermatologic symptoms, and non-specific symptoms. Gastrointestinal outcomes included nausea, vomiting, diarrhea, and
+stomachache or abdominal cramping. Diarrhea was defined as
+3 loose or watery stools in 24 h (Baqui et al., 1991). Highly
+credible gastrointestinal illness (HCGI) was defined as: i) diarrhea; or ii) vomiting; or iii) nausea and stomach cramps; or iv)
+nausea and missed daily activities due to gastrointestinal
+illness, or (v) stomach cramps and missed daily activities due to
+gastrointestinal illness (identical to “GI illness” defined in Wade
+et al., 2010). Respiratory outcomes included cough and sore
+throat symptoms. Highly credible respiratory illness was
+defined as any 2 of the following symptoms: cough, runny nose,
+sore throat, fever or cold. Dermatologic outcomes included skin
+rashes and infected cuts. Non-specific symptoms included
+fever, ear infection, allergies, watery eyes, eye infection, and
+urinary tract infection. Respondents who reported a symptom
+at baseline (within 72 h before the beach visit) were excluded
+from analysis for that outcome, but not other outcomes.
+
+2.6.
+
+Definition of swimming
+
+We used four graded definitions of “swimmer” based on an
+individual’s reported minimum exposure: i) any water contact;
+
+ii) body immersion; iii) head immersion; and iv) swallowed
+water. We defined body immersion as water contact above the
+waist, head immersion as head below the water line, and
+swallowed water as ingestion of any ocean water.
+
+2.7.
+
+Statistical methods and data analysis
+
+For swim exposure analyses, we modeled the probability of
+illness, p, with a logistic regression:
+ln ½p=ð1  pÞ ¼ a þ b1 A þ b2 S þ gX
+
+(1)
+
+where A is an indicator variable for any water contact, S is
+a dichotomous indicator variable for exposure greater than or
+equal to some level of water contact (body immersion, head
+immersion, swallowed water), and X is a vector of potentially
+confounding covariates (see below). We estimated the relative
+risk of illness due to swim exposure using the odds ratio (OR),
+^2 ). Thus the comparison group
+^1 þ b
+estimated as OR ¼ exp (b
+for these analyses was non-swimmers: individuals who had
+no contact with ocean water during their day at the beach.
+In our analyses of the relationships between FIB concentrations and health outcomes, our goal was first to identify
+a set of conditions under which the traditional indicators
+appeared to have the expected relationships to health
+outcomes, especially gastrointestinal symptoms, as reported
+in prior studies (Wade et al., 2006, 2008, 2010). The conditions
+we examined included berm status (open, closed, and all days
+combined), level of participant exposure to water (body
+immersion, head immersion, swallowed water), specific
+health symptoms (detailed in 2.5 above) and indicator averaging method. Based on these exploratory analyses, we chose
+to use a site-specific daily average (one of nine averaging
+methods that we considered). We estimated site-specific daily
+averages by calculating the geometric mean of the indicator
+concentration levels over the 8:00 AM, 12 Noon, and 3 PM
+samples for each of the five sampling sites. Each swimmer
+was assigned the average indicator value for the sampling site
+nearest to where the individual reported swimming.
+FIB concentrations were log10 transformed for the analysis
+because they were right-skewed. When indicator values were
+below the level of detection (LOD) for a given assay results
+were set equal to 10 per 100 ml. We also explored other
+imputation methods by substituting the LOD, the LOD/2, and
+LOD/SQRT(2). We restricted the population for each analysis
+to swimmers with a defined level of water contact. The
+probability of illness, p, was modeled for all berm days
+combined using logistic regression:
+ln ½p=ð1  pÞ ¼ a þ bI ¼ gX
+
+(2)
+
+where I is a continuous measure of the site-specific daily
+average for the indicator of interest and X is a vector of
+potentially confounding covariates. All ORs were estimated as
+^ and, thus estimate the increase in risk for a one
+OR ¼ exp ðbÞ
+unit change on the log10 scale of the indicator concentration
+among swimmers with a defined water exposure level.
+The probability of illness, p, on berm-open and bermclosed days was modeled using logistic regression with
+a berm-indicator interaction term:
+ln ½p=1  p ¼ a þ bI þ gXþdBþ4ðI  BÞ
+
+(3)
+
+
+
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+where I and X are equivalent to equation (2), B is a dichotomous indicator of berm status (open ¼ 1, closed ¼ 0) and I * B is
+an interaction term between indicator concentration and
+berm status. ORs for berm-closed days were estimated from
+^ and for berm-open days as
+equation (3) as OR ¼ exp (b)
+^þ4
+^ ), and estimate the increase in risk for a one
+OR ¼ exp (b
+unit change on the log10 scale of the indicator concentration
+among swimmers with a defined water exposure level. The
+coefficient (^
+4) and associated p-value were used to test
+whether the interaction term differed from 0, and thus
+whether the association between an indicator concentration
+and health differed by berm status. Both models (2) and (3)
+assume that the association between indicators and illness
+is linear on the log-odds scale.
+Models were adjusted for covariates, X, that were associated with the outcome or judged to be potential confounders:
+study year, age, sex, race, swimming on multiple days, allergies, contact with animals, contact with other sick people,
+frequency of beach visits, digging in the sand, and consumption of raw or undercooked eggs or meat. All covariates, except
+age and frequency of beach visits, were categorized as 1 or 0.
+Race was dichotomized as white or nonwhite. Consistent with
+prior recreational water analyses (Coford et al., 2007; Wade
+et al., 2006, 2008, 2010), we selected a subset of these covariates for each model using a change in estimate algorithm,
+which retains covariates that change the estimated OR by at
+least 5% when removed from a multivariable specification
+(Rothman and Greenland, 1998 ). We estimated the 95%
+confidence intervals (CIs) for the ORs using robust standard
+errors (Freedman, 2010) that allow for correlated observations
+within household, but assume that households are independent. The decision to examine the health-indicator relationships stratified by berm status (berm-open, berm-closed, and
+all days combined) was planned prior to the initiation of the
+study. The “berm-open” analyses provide estimates of
+indicator-health relationships under poor water quality
+conditions; the “combined” analyses provide estimates of the
+indicator-health relationships averaged over the mix of berm
+conditions as would be typical for use of FIB at this beach.
+
+2179
+
+10 CFU/100 mL on berm-closed days. Similarly, 5% of samples
+from the same site exceeded single sample WQS on bermclosed days compared to 71% on berm-open days (data not
+shown).
+
+3.2.
+
+Population characteristics
+
+We approached 6686 eligible households. Of these, 4499
+households (67%) agreed to participate and completed the
+beach interview, and 3587 households completed the twoweek follow-up interview. Of 9525 individuals completing
+the study, 62% were swimmers (Table 1). Among individuals
+completing the study, 21% failed to complete beach interviews
+on-site (while at the beach) and were contacted by phone
+within 3 days of their visit, consistent with Coford et al. (2007).
+No differences were found in reported swim exposures by
+beach interview format (on-site vs. phone) or in the basic
+demographics of the two groups (data not shown). We
+collected limited data on those who enrolled but could not be
+located for follow-up; we did not observe notable differences
+(“lost to follow-up” in Tables 1 and 2).
+
+3.3.
+Health outcomes for swimmers compared to nonswimmers
+
+3.
+
+Results
+
+Among the 3585 non-swimmers at Doheny Beach, 3.49% had
+an episode of diarrhea in the 10e14 days following their visit
+(Table 3); this is comparable to the estimated 3.26% endemic
+12-day prevalence of diarrhea in the United States (Scallan
+et al., 2005). The incidence of diarrhea following the beach
+visit was significantly higher for body immersion (4.58%), head
+immersion (4.59%) and those who swallowed water (6.13%)
+than among those with no contact. The adjusted odds ratio
+(aOR) for diarrhea among swimmers compared to nonswimmers increased with increasing water exposure: body
+immersion (aOR ¼ 1.38, 95% CI 1.03e1.86); head immersion
+(aOR 1.46, 95% CI 1.07e1.99); and swallowed water (aOR 1.90,
+95% CI 1.29e2.80). Similar patterns were observed for HCGI.
+We also collected information on non-gastrointestinal
+outcomes (see Supplemental Material, Tables 1e4 and 6e9).
+Generally these symptoms were less frequently observed than
+diarrhea and HCGI.
+
+3.1.
+
+Water quality
+
+3.4.
+
+A total of 481 water samples were collected and analyzed.
+Overall, Enterococcus concentrations by EPA 1600 ranged from
+<2 to 41,000 colony forming units (CFU)/100 mL. Overall, 17%
+of the samples exceeded the single sample marine water
+quality standard (WQS) of 104 CFU/100 ml for Enterococcus as
+determined by EPA Method 1600. At least 10% of the samples
+exceeded the standard at each of the three sampling sites
+located near the creek (see sites A, B, and D in Supplemental
+Material, Figure 1). Water quality at Doheny Beach differed
+significantly when the sand berm restraining San Juan Creek
+was closed compared to when open and the creek flowed
+untreated into beach waters (see Supplemental Material,
+Figure 2). Examining the site directly in front of the creek,
+median Enterococcus concentrations as measured by EPA1600
+were 316 CFU/100 mL on berm-open days compared to
+
+Associations of indicators with diarrhea and HCGI
+
+The strongest associations between levels of FIB and diarrhea
+among swimmers were seen among those with highest level
+of water exposure (“swallowed water“) on berm-open days
+(Table 4). For example, log10 increases in Enterococcus CFU
+measured by EPA Method 1600 were associated with an aOR of
+2.50 (95% CI 1.52e4.11), fecal coliforms had an aOR of 2.30 (95%
+CI 1.48e-3.59) and TaqMan qPCR had an aOR of 2.34 (95% CI
+1.13e4.84) when swimmers swallowed water on berm-open
+days. Berm-open ORs were consistently higher than bermclosed and berm-combined ORs. For each indicator, we
+report P-values for a test of interaction between indicator
+concentration and berm status (comparing open and closed
+estimates from the interaction model). The tests of interaction
+suggest that indicator-health associations differ by
+berm status, in particular among swimmers that swallowed
+
+
+
+2180
+
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+Table 1 e Doheny beach demographics by swimmer exposure status, individual level.
+Variable
+
+Lost to
+follow-up
+
+Completed
+follow-up
+
+Non-swimmers
+
+Body
+immersion
+
+Head
+immersion
+
+Swallowed
+water
+
+2194
+912
+
+9525
+3587
+
+3585
+913
+
+4335
+2159
+
+3290
+1784
+
+1219
+769
+
+12.7%
+13.6
+15.6
+13.9
+18.0
+16.8
+9.4
+0.4
+
+12.5%
+14.2
+15.2
+9.1
+18.4
+18.2
+12.0
+0.4
+
+9.7%
+2.9
+7.5
+10.2
+24.2
+26.1
+19.0
+0.4
+
+13.3%
+24.1
+23.3
+7.9
+12.6
+12.1
+6.3
+0.3
+
+10.3%
+25.2
+26.1
+7.7
+11.9
+12.0
+6.5
+0.3
+
+16.5%
+29.1
+26.2
+7.5
+9.4
+7.2
+3.8
+0.4
+
+45.9%
+54.1
+0.4
+
+47.4%
+52.2
+0.3
+
+38.0%
+61.8
+0.3
+
+58.3%
+41.3
+0.4
+
+62.1%
+37.4
+0.5
+
+59.8%
+39.7
+0.5
+
+58.0%
+0.0
+0.0
+2.4
+7.3
+0.0
+0.0
+8.8
+23.5
+
+66.8%
+4.4
+10.8
+1.3
+4.9
+0.5
+7.1
+2.0
+2.0
+
+68.8%
+4.4
+10.5
+1.3
+5.4
+0.6
+5.3
+1.9
+1.9
+
+66.8%
+4.3
+10.3
+1.2
+4.3
+0.5
+8.9
+1.9
+1.8
+
+67.4%
+4.4
+9.9
+1.1
+3.6
+0.4
+9.8
+1.7
+1.6
+
+66.9%
+5.7
+8.9
+1.0
+3.7
+0.3
+10.2
+1.9
+1.4
+
+Individuals
+Households
+Age (years)
+0e5
+5.1e10
+10.1e20
+20.1e30
+30.1e40
+40.1e50
+>50
+Missing
+Sex
+Male
+Female
+Missing
+Race/Ethnicity
+White
+White, Hispanic
+Non-White, Hispanic
+Black
+Asian
+Indian
+Multiple
+Other
+Missing
+
+water. Similar patterns (stronger, significant effects on bermopen days, among those who swallowed water) were seen for
+the association of traditional and rapid measurements of FIB
+with gastrointestinal illness (Table 5). Alternate LOD imputation methods were explored for indicator analyses, but did not
+alter conclusions (see Supplemental Material, Tables 10e12
+for LOD/2; other results not shown.)
+
+Table 2 e Doheny beach demographics, household level.
+Variable
+
+Lost to
+follow-up (%)
+
+Number of household residents
+1
+2
+3
+4
+5
+6
+7
+8
+Household income
+<$10,000e$25,000
+$25,001e$50,000
+$50,001e$75,000
+$75,001e$100,000
+$100,001e$150,000
+>$150,000
+Missing
+Citizenship
+US
+Canada
+Mexico
+
+Completed
+follow-up (%)
+
+14.9
+17.7
+24.6
+26.1
+11.9
+3.3
+1.3
+0.4
+
+9.5
+19.8
+22.3
+27.9
+13.4
+5.2
+1.0
+0.8
+
+e
+e
+e
+e
+e
+e
+e
+
+5.50
+10.90
+14.50
+15.80
+22.70
+19.10
+11.50
+
+99.5
+0.2
+0.3
+
+99.6
+0.03
+0.4
+
+3.5.
+
+Lagged analysis (EPA 1600)
+
+In current beach monitoring practice, the 24 h incubation time
+needed for culture-based methods means that water quality
+results are not available until the day following collection. We
+therefore repeated our epidemiological analyses lagging
+culture-based exposure by one day to account for laboratory
+processing time (i.e. measuring the association between FIB
+on a given day and illness among swimmers the following
+day). In these analyses (Supplemental Material, Table 13) we
+found no significant associations between prior-day FIB and
+illness. For example, with berm-open the aOR for diarrhea was
+1.30 (95% CI, 0.66e2.52) among swimmers with head
+immersion.
+
+3.6.
+
+Dichotomized analysis (EPA 1600)
+
+In current practice, single samples measuring EPA 1600 are
+typically reported as values above or below 104 CFU/100 ml.
+As a further check on the internal consistency of our findings,
+we dichotomized site-specific daily average values for log10
+EPA 1600 at 2.017, corresponding to a concentration of
+104 CFU/ml. We then took this dichotomized variable and
+measured the association with diarrhea and HCGI. We found
+strong associations between exposure and illness when
+specifying Enterococcus in this manner (see Supplemental
+Material, Tables 14 and 15). For example, among the small
+subsample of those who swallowed water (N ¼ 181) on bermopen days, the aOR for diarrhea was 8.66 (95% CI 1.89e39.81)
+for those exposed to EPA 1600 levels above 104 CFU/100 ml
+compared to those exposed to levels below 104 CFU/100 ml.
+
+
+
+2181
+
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+Table 3 e Associations between gastrointestinal illness and swimming for various levels of water exposure and different
+berm conditions.
+Health outcome
+
+No contact
+(N ¼ 3585)
+
+Berm-combined
+Diarrhea
+HCGI
+Berm-open
+Diarrhea
+HCGI
+
+Body immersion
+(N ¼ 4335)
+
+Head immersion
+(N ¼ 3290)
+
+Swallowed water
+(N ¼ 1219)
+
+% Ill
+
+% Ill
+
+Adjusted ORa
+[95% CI]
+
+% Ill
+
+Adjusted ORa
+[95% CI]
+
+% Ill
+
+Adjusted ORa
+[95% CI]
+
+3.49
+5.37
+
+4.58
+6.82
+
+1.38 [1.03e1.86]
+1.16 [0.90e1.50]
+
+4.59
+6.92
+
+1.46 [1.07e1.99]
+1.25 [0.96e1.63]
+
+6.13
+8.07
+
+1.90 [1.29e2.80]
+1.32 [0.96e1.79]
+
+3.65
+6.41
+
+4.13
+6.80
+
+1.27 [0.64,2.51]
+1.00 [0.59,1.67]
+
+4.71
+7.50
+
+1.61 [0.82,3.16]
+1.21 [0.72,2.01]
+
+6.28
+8.97
+
+1.92 [0.77,4.78]
+1.31 [0.67,2.56]
+
+HCGI, highly credible gastrointestinal illness.
+a Odds Ratio calculated using non-swimmers as the reference group.
+
+3.7.
+Indicator-illness associations among nonswimmers: “negative controls”
+Our a priori assumption was that there should be only
+random associations between FIB concentrations and
+
+gastrointestinal illness among the non-swimmers. Because
+our study was observational rather than randomized and
+involved a multiplicity of analyses (i.e. multiple hypothesis
+testing), we carried out an additional step to investigate the
+robustness of the associations we observed. We used non-
+
+Table 4 e Associations between diarrhea and exposure to specific indicators for various levels of water exposure and berm
+conditions.
+Indicatorsa
+Body immersion
+Traditional
+EPA 1600
+Enterolert
+Fecal coliform
+Total coliform
+Rapid
+Taqman qPCR (delta delta)
+Scorpion-1 qPCR
+Scorpion-2 qPCR
+Head immersion
+Traditional
+EPA 1600
+Enterolert
+Fecal coliform
+Total coliform
+Rapid
+Taqman qPCR (delta delta)
+Scorpion-1 qPCR
+Scorpion-2 qPCR
+Swallowed water
+Traditional
+EPA 1600
+Enterolert
+Fecal coliform
+Total coliform
+Rapid
+Taqman qPCR (delta delta)
+Scorpion-1 qPCR
+Scorpion-2 qPCR
+a
+b
+c
+d
+
+Berm-combined
+Adjusted OR (95%)b
+
+1.33
+1.25
+1.14
+1.11
+
+Berm-closed
+Adjusted OR (95%)c
+
+Berm-open
+Adjusted OR (95%)c
+
+Test of interaction
+P-valued
+
+[1.07,1.64]
+[1.03,1.50]
+[0.93,1.40]
+[0.93,1.31]
+
+1.20 [0.94,1.53]
+1.20 [0.99,1.46]
+1.02 [0.82,1.28]
+1.08 [0.9,1.29]
+
+1.70
+1.46
+1.52
+1.40
+
+[1.17,2.46]
+[0.94,2.26]
+[1.05,2.19]
+[0.81,2.41]
+
+0.12
+0.42
+0.07
+0.38
+
+1.03 [0.78,1.35]
+1.05 [0.82,1.33]
+1.03 [0.82,1.30]
+
+0.92 [0.69,1.22]
+0.99 [0.74,1.33]
+1.01 [0.79,1.29]
+
+1.50 [0.92,2.44]
+1.20 [0.76,1.91]
+1.15 [0.71,1.88]
+
+0.09
+0.34
+0.64
+
+1.33
+1.29
+1.18
+1.12
+
+[1.03,1.73]
+[1.02,1.62]
+[0.92,1.52]
+[0.91,1.37]
+
+1.12 [0.83,1.51]
+1.20 [0.95,1.51]
+1.04 [0.79,1.38]
+1.03 [0.84,1.28]
+
+1.87
+1.54
+1.61
+1.49
+
+[1.28,2.72]
+[0.97,2.45]
+[1.12,2.31]
+[0.85,2.59]
+
+0.04
+0.35
+0.06
+0.23
+
+1.05 [0.76,1.45]
+1.12 [0.84,1.49]
+1.04 [0.79,1.36]
+
+0.87 [0.62,1.22]
+1.07 [0.75,1.53]
+0.93 [0.67,1.27]
+
+1.66 [1.02,2.68]
+1.24 [0.74,2.06]
+1.30 [0.82,2.04]
+
+0.03
+0.65
+0.23
+
+1.74
+1.38
+1.29
+1.29
+
+[1.25,2.43]
+[0.99,1.93]
+[0.89,1.87]
+[0.93,1.80]
+
+1.42 [0.93,2.18]
+1.07 [0.77,1.49]
+0.96 [0.65,1.43]
+1.13 [0.82,1.56]
+
+2.50
+2.17
+2.30
+2.15
+
+[1.52,4.11]
+[1.35,3.49]
+[1.48,3.59]
+[0.91,5.13]
+
+0.09
+0.02
+0.00
+0.17
+
+1.28 [0.82,2.01]
+1.34 [0.89,2.03]
+1.49 [1.14,1.95]
+
+0.90 [0.56,1.44]
+1.16 [0.72,1.87]
+1.25 [0.90,1.73]
+
+2.34 [1.13,4.84]
+2.02 [0.73,5.60]
+2.30 [1.46,3.61]
+
+0.03
+0.34
+0.03
+
+Indicator exposure assigned based on site-specific daily average.
+Odds Ratio for diarrhea associated with a 1 unit increase in the log10 indicator concentration using non-interaction model.
+Odds Ratio for diarrhea associated with a 1 unit increase in the log10 indicator concentration using interaction model.
+P-value associated with interaction term comparing open to closed berm conditions.
+
+
+
+2182
+
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+Table 5 e Associations between HCGI and exposure to specific indicators for various levels of water exposure and berm
+conditions.
+Indicatorsa
+Body immersion
+Traditional
+EPA 1600
+Enterolert
+Fecal coliform
+Total coliform
+Rapid
+Taqman qPCR (delta delta)
+Scorpion-1 qPCR
+Scorpion-2 qPCR
+Head immersion
+Traditional
+EPA 1600
+Enterolert
+Fecal coliform
+Total coliform
+Rapid
+Taqman qPCR (delta delta)
+Scorpion-1 qPCR
+Scorpion-2 qPCR
+Swallowed water
+Traditional
+EPA 1600
+Enterolert
+Fecal coliform
+Total coliform
+Rapid
+Taqman qPCR (delta delta)
+Scorpion-1 qPCR
+Scorpion-2 qPCR
+
+Berm-combined
+Adjusted OR (95%)b
+
+Berm-closed
+Adjusted OR (95%)c
+
+1.16 [0.97,1.39]
+1.10 [0.94,1.30]
+1.11 [0.95,1.31]
+1.10 [0.96,1.27]
+
+1.08
+1.09
+1.03
+1.09
+
+0.97 [0.79,1.20]
+1.02 [0.84,1.24]
+0.96 [0.79,1.16]
+
+[0.88,1.32]
+[0.92,1.29]
+[0.87,1.23]
+[0.94,1.27]
+
+Berm-open
+Adjusted OR (95%)c
+
+[0.98,1.89]
+[0.79,1.66]
+[1.00,1.84]
+[0.83,1.72]
+
+0.24
+0.79
+0.13
+0.66
+
+0.90 [0.71,1.13]
+1.00 [0.79,1.28]
+0.95 [0.77,1.17]
+
+1.23 [0.80,1.91]
+1.06 [0.75,1.50]
+0.98 [0.66,1.45]
+
+0.21
+0.80
+0.91
+
+1.16 [0.94,1.45]
+1.13 [0.93,1.36]
+1.15 [0.94,1.39]
+1.16 [0.99,1.36]
+
+1.01
+1.07
+1.03
+1.09
+
+1.54
+1.26
+1.49
+1.38
+
+[1.10,2.16]
+[0.85,1.86]
+[1.09,2.03]
+[0.95,2.01]
+
+0.04
+0.45
+0.06
+0.27
+
+0.94 [0.74,1.21]
+1.11 [0.89,1.39]
+1.00 [0.80,1.23]
+
+0.83 [0.63,1.09]
+1.02 [0.77,1.36]
+0.93 [0.73,1.18]
+
+1.26 [0.78,2.03]
+1.25 [0.85,1.82]
+1.12 [0.75,1.67]
+
+0.14
+0.41
+0.42
+
+1.52 [1.12,2.06]
+1.20 [0.88,1.63]
+1.15 [0.84,1.59]
+1.32 [1.01,1.72]
+
+1.29
+0.93
+0.89
+1.16
+
+1.94
+1.75
+1.95
+2.01
+
+[1.23,3.05]
+[1.16,2.64]
+[1.29,2.97]
+[1.06,3.83]
+
+0.18
+0.02
+0.00
+0.12
+
+1.21 [0.83,1.75]
+1.28 [0.92,1.77]
+1.35 [1.03,1.75]
+
+0.95 [0.65,1.39]
+1.17 [0.79,1.71]
+1.19 [0.88,1.61]
+
+1.95 [1.05,3.59]
+1.55 [0.80,3.00]
+1.70 [1.10,2.63]
+
+0.05
+0.46
+0.18
+
+[0.79,1.29]
+[0.87,1.30]
+[0.83,1.29]
+[0.91,1.31]
+
+[0.88,1.88]
+[0.69,1.26]
+[0.63,1.27]
+[0.88,1.53]
+
+1.36
+1.15
+1.36
+1.19
+
+Test of interaction
+P-valued
+
+HCGI, highly credible gastrointestinal illness.
+a Indicator exposure assigned based on site-specific daily average.
+b Odds Ratio for HCGI associated with a 1 unit increase in the log10 indicator concentration using non-interaction model.
+c Odds Ratio for HGCI associated with a 1 unit increase in the log10 indicator concentration using interaction model.
+d p-value associated with interaction term comparing open to closed berm conditions.
+
+swimmers as “negative controls” (Lipsitch et al., 2010): we
+explored the association between average FIB concentrations
+at the beach for a given day and gastrointestinal illness
+among non-swimmers who visited the same day (who did
+not contact water, and were unlikely to be exposed to
+waterborne pathogens). In comparison with the indicatorillness associations seen among swimmers (Tables 4 and 5)
+there appear to be no patterns in the associations between
+FIB concentrations and gastrointestinal outcomes among
+non-swimmers (see Supplemental Material, Table 16). This
+suggests that health associations with FIB concentrations
+(both traditional and rapid) observed among swimmers are
+unlikely to be an artifact of unmeasured confounding, or our
+estimation approach.
+
+3.8.
+
+Daily incidence of diarrhea
+
+Swimmers reported a markedly different pattern of diarrhea
+incidence than non-swimmers following their beach visit
+(see Supplemental Material, Figure 3). Among swimmers,
+
+diarrhea rates were strongly elevated two days postexposure relative to non-swimmers. Furthermore, these
+increases among swimmers were consistent with a doseeresponse relationship; the greatest elevation seen among
+swimmers who swallowed water, followed by swimmers
+with head immersion, and finally swimmers with body
+immersion.
+
+3.9.
+
+Morning vs. afternoon sampling
+
+As described in Methods (Section 2.7), we assigned indicator
+values to swimmers using the site-specific daily average of all
+morning and afternoon sample-values for the site nearest to
+the swimmer’s area of immersion. To evaluate the impact of
+the timing of water sampling on indicator-health relationships, we analyzed the morning and afternoon samples
+separately (see Supplemental Material, Tables 17e20). Across
+all point estimates for the indicators, there appeared to be
+a stronger relationship to health when analyzing the morning
+rather than the afternoon samples.
+
+
+
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+2183
+
+3.10. Associations of indicators with other (nongastrointestinal) symptoms
+
+through sand, and the potential cause of the breakdown of FIB
+density-illness relationships.
+
+Although the principal goal of our study was to measure
+associations between FIB concentrations and gastrointestinal
+illnesses, we also measured associations between FIB
+concentrations and non-gastrointestinal health outcomes,
+including respiratory, eye, ear, and skin complaints. Because
+these outcomes were less frequently reported, we show only
+the data for swimmers who placed their heads under water
+(see Supplemental Material, Tables 21e27). Unlike associations seen for the indicators with diarrhea and highly credible
+gastrointestinal illness, there were no clear patterns of
+indicator-illness associations.
+
+4.3.
+
+4.
+
+Discussion
+
+4.1.
+
+Summary
+
+The associations we observed were similar between the
+culture-based and qPCR methods, but this is based on analyses assessing health relationships with samples collected on
+the same day that swimmers were in the water. We found that
+the indicator-health associations for the culture-based
+methods were no longer significant (nor was there a pattern
+of increasing odds ratios with increasing swimmer exposure)
+when the results were lagged by one day, typical of current
+beach monitoring practice. Thus, while these methods theoretically provide comparable levels of health protection, qPCR
+could provide a substantial advantage in practical application
+if rapid results were used to make decisions about health-risk
+management on the same day.
+
+4.4.
+We found that swimmers at Doheny Beach in the summers of
+2007 and 2008 experienced diarrhea at a significantly
+increased rate compared to non-swimmers. Additionally,
+although it was not a primary focus of our study, we found
+increased rates of eye infections and earaches among swimmers. We found strong associations between several FIB
+quantification approaches and diarrhea, with evidence that
+these associations differed by berm status. Additionally, the
+data suggest an increasing doseeresponse relationship; the
+strongest associations were seen for those who reported
+swallowing water, especially on berm-open days. The associations of the FIB concentrations, using rapid molecular
+assays, with gastrointestinal health outcomes were similar to
+those of the traditional culture-based assays when examined
+under the same berm conditions. The pattern of time to
+diarrhea onset among swimmers (strong peak at 2 days)
+appears to be different from that seen among non-swimmers.
+Using non-swimmers as “negative controls” we saw no relationship between FIB and diarrhea among individuals with no
+water contact, further strengthening the suggestion that the
+associations observed between traditional and rapid indicators and illness among swimmers were not spurious findings
+related to our observational design.
+
+4.2.
+
+Berm status: open, closed and all days combined
+
+Our observation of a large difference in the associations
+between measures of Enterococcus and illness when the berm
+was open compared to berm-closed days, and all days
+combined could indicate a different FIB source between the
+different conditions. Boehm et al. (2004) suggested that FIB can
+transport through sand, but the transport of contaminated
+material to the beach is more rapid when the berm is open,
+reducing time for degradation and inactivation of FIB and
+pathogens alike. Additionally when the berm is closed, sand
+can filter out pathogens and Enterococcus, and appears to be
+impacting the association between Enterococcus densities and
+adverse health effects often seen among swimmers proximate
+to direct, flowing sources. More research is needed on the
+differential fate and transport impacts of pathogens and FIB
+
+Lagged analyses
+
+Morning vs. afternoon results
+
+The processing lag for qPCR is less than for culture-based
+methods, but there is still about six hours from morning
+sample collection to when warnings are issued in the afternoon. Our results suggest that the effect of this 6-hr lag would
+be minimal, though, as we found that the odds ratios for
+samples collected in the morning were more likely to be
+statistically significant than those for samples collected in the
+afternoon (see Supplemental Material, Tables 17e20). This is
+in apparent contrast with rapid changes in bacterial concentrations that have been observed at some beaches (Boehm
+et al., 2002). A likely explanation is that the morning
+samples better represent the average swimmer’s exposure
+compared to afternoon samples. This may be due to solar
+inactivation, which alters the relationship between FIB and
+the pathogens with which they co-occur (Davies-Colley et al.,
+1994; Noble et al., 2004; Sinton et al., 2007). This is consistent
+with our observation of consistently lower Enterococcus
+concentrations in the afternoon samples compared to
+morning samples (data not shown).
+
+4.5.
+
+Differences in rapid indicators
+
+We evaluated three qPCR assays that utilize primer-probe sets
+specific for Enterococcus and found little difference in their
+associations with illness. Two (TaqMan and Scorpion-1) used
+primer-probe sets targeting a gene sequence similar to that of
+Ludwig and Schleifer (2000) and are intended to quantify the
+broad range of Enterococcus species enumerated by EPA 1600
+(Moore et al., 2008). The similarity in odds ratios between these
+two methods is consistent with several studies finding they
+yield similar Enterococcus concentrations (Griffith et al., 2009;
+Noble et al., 2010). The third primer-probe set (Scorpion-2)
+was a modified design intended to more specifically amplify E.
+facaelis and E. faecium, species thought to be important in
+human fecal contamination. The lack of difference in health
+relationships for this third method may result from the fecal
+sources at the site already having high concentrations of these
+species. Alternatively, it may result from the Scorpion-2
+primer-probe design not being exclusionary and still
+
+
+
+2184
+
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+amplifying a wide array of species, as suggested by the
+concentration correlations with the other two methods
+observed over a range of sample types (Noble et al., 2010).
+
+4.6.
+
+Previous studies
+
+Most bathing water epidemiology studies investigating municipal wastewater effluent-impacted waters, and studies examining the health risks from exposure to land-based runoff are
+equivocal. Schoen and Ashbolt (2010) used quantitative microbial risk assessment to show that non-point source runoffaffected beaches present considerably less health risk than
+those affected by wastewater, which is consistent with several
+studies that found no relationship between GI illness and
+increasing levels of Enterococci at beaches without known
+sources of sewage (Calderon et al., 1991; Coford et al., 2007;
+Fleisher et al., 2010). In contrast, McBride et al. (1998) found
+health risk from human and animal fecal material were not
+substantially different. Similarly, Haile et al. (1999) found
+increased health risk for several health outcomes (including
+fever, chills, cough, ear discharge and respiratory disease
+although not for HCGI-1 and HCGI-2) from swimming in proximity to urban runoff sources; these runoff source were known
+to contain human sources of fecal contamination based on the
+presence of human enteric viruses. Despite the separation of
+sanitary from storm-water runoff pipes and conduits in
+southern California, our study also provides an equivocal
+answer. When the berm was open, we observed associations
+between Enterococcus and health outcomes that were consistent
+with those seen in studies conducted near wastewater effluent
+(Wade et al., 2010). In contrast, these associations were weak
+when the berm status was not taken into account. The United
+States Environmental Protection Agency has committed to
+a new water quality standard by October 2012. Boehm et al.
+(2009) noted that some have suggested the potential establishment of different standards for beaches without direct impact
+from human fecal sources. Findings from our study suggest that
+while this option may be possible, the contamination source
+and delivery must be well understood, as FIB-illness relationships can vary between conditions even within a beach.
+
+4.7.
+
+Limitations
+
+There are potential limitations when evaluating our results.
+Although multiple attempts were made to contact all participants, 22% of participants could not be reached. We have no
+data to suggest that this introduced a systematic bias into our
+findings as the baseline enrollment characteristics of those who
+completed the study and those who did not are similar. The
+final number of participants completing the study (9525) was
+less than the 12,230 we had initially hoped to enroll. Enrollment
+was impacted by weather conditions that reduced beach usage
+during the months of our study and conceivably could have
+limited our ability to detect indicator-health associations for
+less frequently observed outcomes. We assigned exposure to
+each participant based on the FIB concentrations collected at
+the site closest to where that participant swam. Although this
+may not represent each individual’s actual exposure, the
+internal consistency of the results (increased illness when
+water quality was poor during open-berm conditions, markedly
+
+different daily incidence pattern for swimmers and nonswimmers, increasing illness with increasing exposure) does
+not suggest a systematic bias. Although indicator exposure was
+not randomly assigned in our study, neither participants nor
+investigators had knowledge of water quality results during
+water exposure. Finally, our results must be interpreted with
+the understanding that we estimated and report numerous
+(indicator and health outcome) associations.
+
+5.
+
+Conclusions
+
+Our data suggest an increased risk of swimming-associated
+gastrointestinal illness at this urban runoff contaminated
+beach. When the source of FIB consistently exceeded water
+quality standards (berm-open), traditional and rapid methods
+for Enterococcus were both strongly related to illness. When the
+source of FIB was diffuse (berm status not adjusted for), fewer
+significant associations were measured. These differences in
+relationships between FIB and illness, even at a single beach,
+demonstrate that it can be difficult to consistently predict FIBhealth associations at urban runoff impacted beaches using
+currently available indicators.
+
+Role of funder
+Partial funding was provided by the National Institute of
+Health (R01-ES013515), the California State Water Resources
+Control Board, the US Environmental Protection Agency, and
+the City of Dana Point.
+The funders played no role in the collection, analysis or
+interpretation of the data, nor in the writing of this report and
+the decision to submit the paper for publication. The views
+expressed in this article are those of the authors and do not
+necessarily reflect the views or policies of the U.S. Environmental Protection Agency.
+
+Acknowledgements
+The authors are grateful to the following individuals for their
+assistance with this study: Donna Ferguson, Melissa Madison,
+Darcy Ebentier, Ann Harley, David Pryor and Ali Boehm. A
+special note of thanks to Jed Fuhrman, John Witte, Hildy
+Meyers, and David Kay for technical review.
+
+Appendix. Supplementary material
+Supplementary material associated with this article can be
+found, in the online version, at doi:10.1016/j.watres.2012.01.033.
+
+references
+
+APHA, 2009. Standard Methods for the Examination of Water and
+Wastewater. American Public Health Association,
+Washington, DC.
+
+
+
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+Baqui, A.H., Black, R.E., Yunus, M., Hoque, A.R.A.,
+Chowdhury, H.R., Sack, R.B., 1991. Methodological issues in
+diarrhoeal diseases epidemiology: definition of diarrhoeal
+episodes. International Journal of Epidemiology 20 (4),
+1057e1063.
+Boehm, A., Grant, S., Kim, J., Mowbray, S., McGee, C., Clark, C.,
+et al., 2002. Decadal and shorter period variability of surf zone
+water quality at Huntington Beach, California. Environmental
+Science & Technology 36 (18), 3885e3892.
+Boehm, A.B., Ashbolt, N.J., Colford Jr., J.M., Dunbar, L.E.,
+Fleming, L.E., Gold, M.A., et al., 2009. A sea change ahead for
+recreational water quality criteria. Journal of Water and
+Health 7 (1), 9e20.
+Boehm, A.B., Shellenbarger, G.G., Paytan, A., 2004. Groundwater
+discharge: potential association with fecal indicator bacteria
+in the surf zone. Environmental Science & Technology 38 (13),
+3558e3566.
+Bushon, R., Brady, A., Likirdopulos, C., Cireddu, J., 2009. Rapid
+detection of Escherichia coli and Enterococci in recreational
+water using an immunomagnetic separation/adenosine
+triphosphate technique. Journal of Applied Microbiology 106
+(2), 432e441.
+Calderon, R.L., Mood, E.W., Dufour, A.P., 1991. Health effects of
+swimmers and nonpoint sources of contaminated water.
+International Journal of Environmental Health Research 1 (1),
+21e31.
+Coford, J.M., Wade, T.J., Schiff, K.C., Wright, C.C., Griffith, J.F.,
+Sandhu, S.K., et al., 2007. Water quality indicators and the risk
+of illness at beaches with nonpoint sources of fecal
+contamination. Epidemiology 18 (1), 27.
+Davies-Colley, R.J., Bell, R.G., Donnison, A.M., 1994. Sunlight
+inactivation of Enterococci and fecal coliforms in sewage
+effluent diluted in seawater. Applied and Environmental
+Microbiology 60 (6), 2049.
+Fleisher, J.M., Fleming, L.E., Solo-Gabriele, H.M., Kish, J.K.,
+Sinigalliano, C.D., Plano, L., et al., 2010. The BEACHES Study:
+health effects and exposures from non-point source microbial
+contaminants in subtropical recreational marine waters.
+International Journal of Epidemiology 39 (5), 1291.
+Freedman, D.A., 2010. Statistical Models and Causal Inference.
+Cambridge University Press.
+Griffith, J.F., Cao, Y., McGee, C.D., Weisberg, S.B., 2009. Evaluation
+of rapid methods and novel indicators for assessing
+microbiological beach water quality. Water Research 43 (19),
+4900e4907.
+Griffith, J.F., Weisberg, S.B., 2011. Challenges in implementing
+new technology for beach water quality monitoring: lessons
+from a California demonstration project. Marine Technology
+Society Journal 45 (2), 65e73.
+Haile, R.W., Witte, J.S., Gold, M., Cressey, R., McGee, C.,
+Millikan, R.C., et al., 1999. The health effects of swimming in
+ocean water contaminated by storm drain runoff.
+Epidemiology 10 (4), 355.
+Haugland, R.A., Siefring, S.C., Wymer, L.J., Brenner, K.P.,
+Dufour, A.P., 2005. Comparison of Enterococcus
+measurements in freshwater at two recreational beaches by
+quantitative polymerase chain reaction and membrane filter
+culture analysis. Water Research 39 (4), 559e568.
+Jones, B., 2009. Report to SOCWA on Results of Glider Deployment
+from JulyeSeptember 2008 to Map and Monitor the Effluent
+Plume from the San Juan Creek Ocean Outfall. Submitted by
+the University of Southern California to the South Orange
+County Wastewater Authority.
+Lavender, J.S., Kinzelman, J.L., 2009. A cross comparison of QPCR
+to agar-based or defined substrate test methods for the
+determination of Escherichia coli and Enterococci in
+municipal water quality monitoring programs. Water
+Research 43 (19), 4967e4979.
+
+2185
+
+Layton, B.A., Walters, S.P., Lam, L.H., A.B. B., 2010. Enterococcus
+species distribution among human and animal hosts using
+multiplex PCR. 109, 539-547.
+Leecaster, M.K., Weisberg, S.B., 2001. Effect of sampling frequency
+on shoreline microbiology assessments. Marine Pollution
+Bulletin 42 (11), 1150e1154.
+Lipsitch, M., Tchetgen, E.T., Cohen, T., 2010. Negative controls:
+a tool for detecting confounding and bias in observational
+studies. Epidemiology 21, 383e388.
+Ludwig, W., Schleifer, K.H., 2000. How quantitative is quantitative
+PCR with respect to cell counts? Systematic and Applied
+Microbiology 23 (4), 556.
+McBride, G., Salmond, C., Bandaranayake, D., Turner, S., Lewis, G.,
+Till, D., 1998. Health effects of marine bathing in New Zealand.
+International Journal of Environmental Health Research 8 (3),
+173e189.
+Moore, D., Guzman, J., McGee, C., 2008. Species distribution and
+antimicrobial resistance of Enterococci isolated from surface
+and ocean water. Journal of Applied Microbiology 105 (4),
+1017e1025.
+Noble, R., Lee, I., Schiff, K., 2004. Inactivation of indicator
+microorganisms from various sources of faecal contamination
+in seawater and freshwater. Journal of Applied Microbiology
+96 (3), 464e472.
+Noble, R.T., Blackwood, A.D., Griffith, J.F., McGee, C.D.,
+Weisberg, S.B., 2010. Comparison of rapid QPCR-based and
+conventional culture-based methods for enumeration of
+Enterococcus sp. and Escherichia coli in recreational
+waters. Applied and Environmental Microbiology 76,
+7437e7443.
+Noble, R.T., Weisberg, S.B., 2005. A review of technologies for
+rapid detection of bacteria in recreational waters. Journal of
+Water and Health 3 (4), 381e392.
+Pfaffl, M.W., 2001. A new mathematical model for relative
+quantification in real-time RT-PCR. Nucleic Acids Research 29 (9),
+e45.
+Rothman, K., Greenland, S.,, 1998. Modern Epidemiology, second
+ed. Lippincott-Raven Publishers, Philadelphia.
+Scallan, E., Majowicz, S.E., Hall, G., Banerjee, A.,
+Bowman, C.L., Daly, L., et al., 2005. Prevalence of diarrhoea
+in the community in Australia, Canada, Ireland, and the
+United States. International Journal of Epidemiology 34,
+454e460.
+Schoen, M.E., Ashbolt, N.J., 2010. Assessing pathogen risk to
+swimmers at non-sewage impacted recreational beaches.
+Environmental Science & Technology 44 (7), 2286e2291.
+Sinigalliano, C.D., Fleisher, J.M., Gidley, M.L., Solo-Gabriele, H.M.,
+Shibata, T., Plano, L.R.W., et al., 2010. Traditional and
+molecular analyses for fecal indicator bacteria in non-point
+source subtropical recreational marine waters. Water
+Research 44 (13), 3763e3772.
+Sinton, L., Hall, C., Braithwaite, R., 2007. Sunlight inactivation of
+Campylobacter jejuni and Salmonella enterica, compared
+with Escherichia coli, in seawater and river water. Journal of
+Water and Health 5 (3), 357e365.
+USEPA, 2006. Method 1600: Enterococci in Water by Membrane
+Filtration Using membrane-Enterococcus Indoxyl-beta-DGlucoside Agar (mEI). USEPA Office of Water.
+Wade, T.J., Calderon, R.L., Brenner, K.P., Sams, E., Beach, M.,
+Haugland, R., et al., 2008. High sensitivity of children to
+swimming-associated gastrointestinal illness: results using
+a rapid assay of recreational water quality. Epidemiology 19
+(3), 375.
+Wade, T.J., Calderon, R.L., Sams, E., Beach, M., Brenner, K.P.,
+Williams, A.H., et al., 2006. Rapidly measured indicators of
+recreational water quality are predictive of swimmingassociated gastrointestinal illness. Environmental Health
+Perspectives 114 (1), 24.
+
+
+
+2186
+
+w a t e r r e s e a r c h 4 6 ( 2 0 1 2 ) 2 1 7 6 e2 1 8 6
+
+Wade, T.J., Pai, N., Eisenberg, J.N.S., Colford Jr., J.M., 2003. Do US
+Environmental Protection Agency water quality guidelines for
+recreational waters prevent gastrointestinal illness? A
+systematic review and meta-analysis. Environmental Health
+Perspectives 111 (8), 1102.
+Wade, T.J., Sams, E., Brenner, K.P., Haugland, R., Chern, E.,
+Beach, M., et al., 2010. Rapidly measured indicators of
+recreational water quality and swimming-associated illness at
+
+marine beaches: a prospective cohort study. Environmental
+Health 9 (1), 66.
+Zmirou, D., Pena, L., Ledrans, M., Letertre, A., 2003. Risks
+associated with the microbiological quality of bodies of fresh
+and marine water used for recreational purposes: summary
+estimates based on published epidemiological studies.
+Archives of Environmental Health: An International Journal 58
+(11), 703e711.
+
+

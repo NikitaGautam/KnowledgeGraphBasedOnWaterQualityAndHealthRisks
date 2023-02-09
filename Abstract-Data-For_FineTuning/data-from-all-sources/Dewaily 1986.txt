@@ -1,0 +1,295 @@
+H e a l t h Briefs
+Health Hazards Associated with Windsurfing on Poliuted Water
+ERIC DEWAILLY, MD, CLAUDE POIRIER, MD, FRANCOIS M . MEYER, MD,
+Abstract: We documented the risks associated with windsurfing
+on sewage polluted water. Seventy-nine windsurfers and 41 controls
+were studied over a nine-day period for occurrence of symptoms of
+gastroenteritis, otitis, conjunctivitis, and skin infection. Relative
+risks were 2.9 for occurrence of one or more of these symptoms and
+5.5 for symptoms of gastroenteritis. Relative risk increased with the
+reported number of falls into the water. {Am J Public Health 1986;
+76:690-^91.)
+
+Introduction
+Windsurfing is an increasingly popular sport. It is tolerated on waters judged unsafe for swimming because of
+pollution. For swimmers, gastroenteritis, otitis, conjunctivitis, infectious and allergic skin symptoms can be related to
+fecal pollution of water,'~^ In August 1984, the Windsurfer
+Western Hemisphere Championship was held in Quebec
+City, on the St. Lawrence River in the baie de Beauport,
+where water is contaminated by sewage. This event
+prompted us to assess the health hazards associated with
+windsurfing on polluted water.
+Methods
+In the baie de Beauport, concentrations of fecal
+coliforms and enterococci are frequently above acceptable
+limits.* On August 22nd, water samples were taken at eight
+different sites within the competition area. Four were above
+250 coliforms/100 ml (acceptable limit: 200/100 ml). Based on
+hydrodynamic simulation fecal coliform density at high tide,
+when most of the races were held, was estimated to be
+1,000/100 ml.'
+One hundred and sixty-four windsurfers took part in
+various events during the nine days of the championship.
+The exposed population consisted ofthe 84 competitors who
+participated in the final windsurfing races on August 23rd,
+and were thus exposed to polluted water for nine days. The
+reference population consisted ofthe 41 employees scheduled to work at the racing site on August 23rd. During the
+championship, the same single menu meals were served to
+both competitors and employees.
+On August 23rd, information about exposure to polluted
+water and occurrence of health symptoms was obtained by
+questionnaire from competitors and employees. Five comFrom the D6partement de M^decine sociaie et preventive. Faculty de
+M^decine, University Laval, Quebec (Dewaiily and Meyer), tiie D^partement
+de Sante Communautaire, Centre Hospitalier de I'Universit^ Laval, Quebec
+(Dewailly) and Hopital Saint-Francois d'Assise, Quebec (Poirier). Address
+reprint requests to Dr. Francois M. Meyer, D^partement de M^decine sociaie
+et preventive. Faculty de Medecine, University Laval, Cite universitaire,
+Quebec, Qc. GIK 7P4, Canada. This paper, submitted to the Journal June 24,
+1985, was revised and accepted for publication November 8, 1985.
+© 1986 American Journal of Public Health 0090-(X)36/86$1.50
+
+690
+
+DSc
+
+petitors did not complete the questionnaire. Occurrence of
+symptoms was ascertained for two time periods: the two
+months preceding the competitions, and the nine-day period
+ofthe championship.
+Cumulative incidence over the nine-day period was
+measured among the 79 competitors and the 41 employees
+respectively, for individual symptoms, all gastrointestinal
+disorders, and overall symptomatology related to polluted
+water exposure. Relative risk (RR) for each health outcome
+was measured as the ratio of cumulative incidence among
+windsurfers to that among employees.**' As adjustment for
+age and sex did not change the risk estimates, only the crude
+analysis is presented. Dose response was assessed by the
+Mantel extension test for trend.'"
+Results
+Age and sex distributions were similar among competitors and employees. On average, competitors participated in
+seven three-hour races and reported falling 18 times into the
+water. Relative risks for polluted-water exposure-related
+symptoms are presented in Table 1. Forty-five competitors
+and eight employees reported at least one symptom associated with exposure to polluted water. The overall RR was
+2.9 (95% confidence limits: 1.3-6,6). RR for gastrointestinal
+symptoms (nausea, vomiting, diarrhea, or abdominal pain)
+was 5.5 (95% CL: 1.4-21.4). RRs for symptoms of skin
+infection, otitis, and conjunctivitis were also elevated. There
+was a regular trend in increase of risk with the number of
+falls into the water (Table 2), Symptoms occurred in all the
+10 competitors who fell more than 30 times. In contrast, only
+44 per cent of those who fell 10 times or less were affected.
+Four of the 10 employees who windsurfed occasionally on
+TABLE 1—Distribution of Cases among 79 Competitors and 41
+Employees* and Relative Risk (RR) for Polluted Water Exposure Symptoms Developed Over a Nine-day Period
+Number of Cases
+among:
+Symptoms
+
+Competitors
+
+Employees
+
+RR
+
+95% Confidence
+Limits
+
+Diarrhea
+Abdominai pain
+Ali digestive symptoms
+Wound infection
+Localized erythema
+Ail skin symptoms'*
+Otitis
+Conjunctivitis*
+All symptoms
+
+13
+10
+21
+18
+10
+25
+7
+15
+45
+
+1
+1
+2
+4
+1
+5
+2
+4
+8
+
+6.7
+5.2
+5.5
+2.3
+5.2
+2.6
+1.8
+1.9
+2.9
+
+1.1-41.7
+0.8-34.7
+1.4-21.4
+0.8- 7.2
+0.8-34.4
+0.9- 7.1
+0.4- 9.0
+0.6- 6.2
+1.3- 6.6
+
+•Reference group.
+"Including one competitor who reported occurrence ol skin rash on the lirst day.
+^Including three competitors who reported occurrence of conjunctivitis in the first two
+days of the competition.
+
+AJPH June 1986, Vol. 76, No. 6
+
+
+
+PUBLIC HEALTH BRIEFS
+TABLE 2—Distribution of Subjects with Polluted-water Exposurerelated Symptoms among Competitors and Employees* and
+Relative RIsic (RR) According to Number of Falls In the Water
+
+Groups of Subjects
+Employees
+Competitors**
+0-10 fails*
+11-20falis
+21-30 faiis
+>30 falls
+
+Number of subjects
+with symptoms
+
+Totai number
+of subjects
+
+RR
+
+8
+
+41
+
+1.0
+
+15
+9
+10
+10
+
+34
+20
+14
+10
+
+2.3
+3.5
+3.7
+5.1++
+
+•Relerence group.
+"Excluding one competitor for whom the number of falls was unknown.
+* Including one competitor who reported no falls.
+*+Chi-square for trend = 25.3, p = 10""^.
+
+the baie de Beauport developed symptoms during the study
+period. The RR for polluted-water exposure-related symptoms, calculated by comparing these 10 employees to the 31
+unexposed employees, was 3.1 (95% CL: 0,7-14.3), Thirtysix competitors and 18 employees presented at least one
+symptom unrelated to water pollution (RR = 1.0, 95% CL:
+0,5-2.1).
+Discussion
+This study documented the increased risk for infectious
+manifestations in subjects exposed to sewage-polluted water
+while windsurfing. The risk was particularly high for symptoms of gastroenteritis and was above that documented
+previously among swimmers."'^ This could be explained by
+the high level of water pollution and repetitive contacts with
+water during the nine days of the championship.
+Eighty competitors did not participate in the final
+events. No withdrawal was made for health reasons. Some
+competitors were eliminated because they performed
+poorly, which could have been a consequence of illness thus
+underestimating the occurrence of infectious symptoms. The
+RRs associated with polluted water exposure were furthermore underestimated as some employees were also exposed,
+although to a lesser degree than competitors.
+As competitors were not informed of the quality of the
+water, information bias on adverse health effects was minimized. The health outcomes assessed in this study were not
+clinically or microbiologically diagnosed. The induction time
+for most symptoms is considered to be short (less than 48
+hours). Of the 45 competitors who reported at least one
+symptom related to polluted-water exposure, 17 did not
+specify date of occurrence. Ofthe 28 who did, four reported
+occurrence of symptoms during the first two days
+(conjunctivitis three, skin rash one). We did not assess
+occurrence of symptoms during the two days following the
+
+AJPH June 1986, Vol. 76, No. 6
+
+end ofthe competition. Thus, our risk estimates may be too
+low. In addition, occurrence of water-borne infectious diseases with longer incubation periods, especially hepatitis,'^
+was not investigated.
+The observed association between exposure to polluted
+water and symptoms of gastroenteritis could refiect the
+infiuence of diet or stress. The effect of diet was controlled in
+part since all subjects ate the same meals most of the time
+throughout the study period and no difference was observed
+in the frequency of digestive symptoms among windsurfers
+coming from different areas. Windsurfers were more likely
+than employees to experience stress, although, as experienced athletes, they would be familiar with the emotional
+tension of competition.
+We reported that water pollution exposes windsurfers
+and swimmers to similar health hazards. Recreational
+windsurfers are at even higher risk as they fall more often
+than professionals. The same water quality criteria should
+therefore be applied to all recreational activities in which
+there is intentional, probable, or accidental direct contact
+with water.
+ACKNOWLEDGMENTS
+The authors are grateful to Pierre Lavall^e of the Quebec ministry of the
+Environment for measuring the level of water pollution.
+REFERENCES
+1. Cabelli VJ: Health effects criteria for marine recreational waters. Washington DC: US Environmental Protection Agency, EPA 600/1-80-031,
+1983.
+2. Health and Welfare Canada: A study of disease incidence and recreational
+water quality in the Great Lakes. Phase 1. 81 DMH 67. Ottawa: Health
+and Welfare Canada, 1980.
+3. Cabelli VJ, Dufour AP, McCabe LJ, Levin MA: Swimming associated
+gastroenteritis and water quality. Am J Epidemioi 1982; 115:606-616.
+4. Stevenson AH: Studies on bathing water quality and health. Am J Public
+Health 1953: 43:529-538.
+5. Seyfried PL, Cook RJ: Otitis externa infections related to Pseudomonas
+Aeruginosa levels in five Ontario lakes. Can J Public Health 1984;
+75:83-91.
+6. Health and Welfare Canada: Guidelines for Canadian recreational water
+quality. H46-20. Ottawa: Health and Welfare Canada, 1983.
+7. Lavali^e P: Les n^cessitSs de disinfection des eaux usies de la Communautfi Urbaine de Quebec. Quebec: Minist^re de ['Environment, 1984.
+8. Kleinbaum DG, Kupper LL, Morgenstern H: Epidemiologic Research.
+Belmont, CA: Lifetime Learning Publications, 1982.
+9. Rothman KJ, Boice JD Jr: Epidemiologic analysis with a programmable
+calculator. Washington DC: Govt Printing Office, 1979.
+10. Mantel N: Chi-square tests with one degree of freedom: extension of the
+Mantel-Haenszel procedure. Am Stat Assoc J 1963; 59:690-700.
+11. Haberman PW: Epidemiological study of health effects among swimmers
+at New York recreational beach 1, 1974. Report to US Environmental
+Protection Agency, on grants No. 802240 and No. 803254.
+12. Ktsanes VK, Anderson AC, Diem JH: Epidemiological-microbiological
+study of health effects among swimmers at Lake Pontchartrain in New
+Orleans: 1977-1978. Report to United States Environmental Protection
+Agency, on grant No. 805341.
+13. Bryan JA, Lehmann JD, Setiady IF, Hatch MH: An outbreak of hepatitis
+A assoeiated with recreational lake water. Am J Epidemiol 1974;
+99:145-154.
+
+691
+
+
+
+

@@ -1,0 +1,1506 @@
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/copyright
+
+
+
+Author's personal copy
+w a t e r r e s e a r c h 4 5 ( 2 0 1 1 ) 2 0 2 0 e2 0 2 8
+
+Available at www.sciencedirect.com
+
+journal homepage: www.elsevier.com/locate/watres
+
+Water ingestion during water recreation5
+Samuel Dorevitch a,b,*, Suraj Panthi a, Yue Huang c, Hong Li b, Angela M. Michalek d,
+Preethi Pratap a, Meredith Wroblewski a, Li Liu b, Peter A. Scheff a, An Li a
+a
+
+University of Illinois at Chicago School of Public Health, Division of Environmental and Occupational Health Sciences,
+2121 W. Taylor, M/C 922, Chicago, IL 60612, USA
+b
+University of Illinois at Chicago School of Public Health, Division of Epidemiology and Biostatistics, USA
+c
+University of Illinois at Chicago College of Pharmacy, USA
+d
+University of Michigan School of Natural Resources & Environment, USA
+
+article info
+
+abstract
+
+Article history:
+
+Quantitative risk assessments have estimated health risks of water recreation. One input to
+
+Received 12 October 2010
+
+risk assessment models is the rate of water ingestion. One published study estimated rates of
+
+Received in revised form
+
+water ingestion during swimming, but estimates of water ingestion are not available for
+
+26 November 2010
+
+common limited contact water recreation activities such as canoeing, fishing, kayaking,
+
+Accepted 6 December 2010
+
+motor boating, and rowing. In the summer of 2009 two related studies were conducted to
+
+Available online 13 December 2010
+
+estimate water ingestion during these activities. First, at Chicago area surface waters, survey
+research methods were utilized to characterize self-reported estimates of water ingestion
+
+Keywords:
+
+during canoeing, kayaking, and fishing among 2705 people. Second, at outdoor swimming
+
+Risk assessment
+
+pools, survey research methods and the analysis of cyanuric acid, a tracer of swimming pool
+
+Water ingestion
+
+water, were used to characterize water ingestion among 662 people who engaged in a variety
+
+Water recreation
+
+of full-contact and limited-contact recreational activities. Data from the swimming study
+
+Gastrointestinal illness
+
+was used to derive translation factors that quantify the volume of self-reported estimates. At
+surface waters, less than 2% of canoers and kayakers reported swallowing a teaspoon or
+more and 0.5% reported swallowing a mouthful or more. Swimmers in a pool were about
+25e50 times more likely to report swallowing a teaspoon of water compared to those who
+participate in limited-contact recreational activities on surface waters. Mean and upper
+confidence estimates of water ingestion during limited-contact recreation on surface waters
+are about 3e4 mL and 10e15 mL, respectively. These estimates of water ingestion rates may
+be useful in modeling the health risks of water recreation.
+ª 2010 Elsevier Ltd. All rights reserved.
+
+1.
+
+Introduction
+
+Water recreation has been associated with outbreaks of acute
+gastrointestinal illness caused by viruses, bacteria, and
+protozoa (Dziuban et al., 2006; Yoder et al., 2004). Higher rates
+of acute gastrointestinal illness (AGI) have been reported
+
+5
+
+among swimmers compared to non-swimmers (USEPA, 1983,
+1984; Seyfried et al., 1985; McBride et al., 1998; Wade et al.,
+2008; Colford et al., 2007). Controlled immersion trials have
+demonstrated higher rates of AGI among those randomized to
+perform head immersion compared to a non-immersion group
+(Kay et al., 1994; Wiedenmann et al., 2006; Fleisher et al., 2010).
+
+The Metropolitan Water Reclamation District of Greater Chicago, The Water Environment Research Foundation.
+* Corresponding author. University of Illinois at Chicago School of Public Health, Division of Environmental and Occupational Health
+Sciences, 2121 W. Taylor, M/C 922, Chicago, IL 60612, USA. Tel.: þ1 312355 3629; fax: þ1 312413 9898.
+E-mail address: sdorevit@uic.edu (S. Dorevitch).
+0043-1354/$ e see front matter ª 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.watres.2010.12.006
+
+
+
+Author's personal copy
+w a t e r r e s e a r c h 4 5 ( 2 0 1 1 ) 2 0 2 0 e2 0 2 8
+
+Epidemiologic studies require substantial resources and time,
+and may generate results that have limited generalizability to
+settings with different types of recreational use or pollutant
+sources. Quantitative microbial risk assessment (QMRA) offers
+an alternative method for evaluating health risks for a particular water quality measure or for a range of water quality
+measures (Wong et al., 2009; Ashbolt et al., 2010). Conversely,
+reverse QMRA has can performed to identify an acceptable
+level of water quality for a given targeted risk level and has
+recently been utilized to estimate the contribution of specific
+pathogens to known rates of recreational waterborne illness
+(Soller et al., 2010).
+Limited-contact recreation activities are popular, particularly at inland waters. The number of people who engage in
+limited-contact activities per year in the US (in millions) are:
+fishing (71), motor boating (52), canoeing (20.7), rowing (9.4),
+and kayaking per year (6.4) (Cordell et al., 2004). Despite the
+large number of people exposed through limited-contact
+recreation, very little is known about the health risks of these
+activities. Recently site-specific standards for limited (or
+“secondary”) contact recreation have been explored in the
+United States for waters that do not support full-contact
+recreation. These include efforts in Idaho (Idaho Department
+of Environmental Quality, 2004), Illinois (Illinois Pollution
+Control Board, 2010), Kansas (USEPA, 2003), Missouri
+(Missouri Coalition for the Environment, 2010), Texas (Texas
+Commission on Environmental Quality, 2009) and Utah (Utah
+Department of Environmental Quality, 2008). Estimated rates
+of water ingestion could serve as inputs in risk assessments
+that model the health risks of limited contact water recreation.
+The most recent version of USEPA’s Exposure Factor Handbook (USEPA, 2009), available in draft form, does not address
+the volume of water ingested during recreational activities
+other than swimming. The ingestion rate during swimming
+was estimated by Dufour et al. (2006), who utilized cyanuric
+acid (CYA), routinely added to outdoor swimming pools to
+stabilize chlorine, as a tracer of swimming pool water. In this
+work we report the volume of water ingested during a variety
+of water recreational activities using survey research methods
+and through the measurement of CYA.
+
+2.
+
+Materials and methods
+
+2.1.
+
+Overview
+
+Two groups of participants were enrolled in the spring and
+summer of 2009. The first group of surface water participants
+was enrolled in a prospective cohort study of limited contact
+water recreation, the Chicago Health, Environmental Exposure, and Recreation Study (CHEERS). Participants in the
+surface water study were recruited at Chicago area locations
+including piers, harbors, and beaches of Lake Michigan; the
+Chicago area waterways system (CAWS); several inland lakes;
+and rivers (excluding the CAWS). Most of the flow in the CAWS
+is wastewater effluent that has undergone secondary treatment (activated sludge with aeration) but has not been disinfected. A second study group of participants was enrolled
+into the swimming pool study at participating outdoor public
+pools. Participants in both studies (surface water and
+
+2021
+
+swimming pool) completed post-recreation interviews that
+addressed water ingestion during recreation. Those in the
+swimming pool study collected urine samples for 24 h
+following recreation, to be analyzed for CYA. The surface
+water study was an observational design; the swimming pool
+study was a controlled exposure design.
+
+2.2.
+
+Participants
+
+Data analysis was limited to those age six years or greater. In
+the swimming pool study, people who had used a swimming
+pool in the prior four days were excluded, as were those with
+underlying renal disease, which may influence the elimination half-life of CYA.
+
+2.3.
+
+Recreational activities
+
+Surface water study participants engaged in one of five
+activities: canoeing, fishing, kayaking, motor boating, or
+rowing. There were no constraints on the duration of recreation for the surface waters group. Swimming pool participants engaged in canoeing, kayaking, simulated fishing,
+wading/splashing, head immersion, or swimming. Head
+immersion involved standing in the water and immersing
+one’s head three times over a 10 min interval. The duration of
+all other swimming pool activities was 60 min. Canoes and
+kayaks were placed in a large swimming pool, and participants were asked to paddle around the pool. During specific
+study sessions, canoe and kayak instructors were present so
+that interested participants could practice “rolling” to recover
+from capsize. Additionally, capsize occurred accidentally
+and, at times, teenagers and young adults intentionally
+capsized each other’s kayaks. Simulated fishing involved
+casting a fishing rod with a toy fish on a plastic hook, reeling
+in the toy fish, removing it from the hook, replacing it, and
+repeating the procedure every 5 min. Wading/splashing took
+place in shallow swimming pools (“splash pools”), some of
+which had fountains. Participants were instructed to walk
+around, play, or splash in the water, but not to swim.
+Swimming took place in large swimming pools and, like the
+study by Dufour et al. (2006), was limited to lap swimming. In
+the surface waters study, participants were recruited at boat
+launches, piers, harbors and, in the case of sea kayakers, at
+beaches. Neither the choice of recreational activity nor the
+duration of recreation was assigned to surface waters
+participants.
+
+2.4.
+
+Data collection
+
+Following recreational activity, participants in the surface
+water and swimming pool studies were interviewed about
+water ingestion. Those who reported water ingestion were
+asked whether they swallowed “a drop or two”, “a teaspoon”,
+or “one or more mouthfuls”. All interviews were conducted
+using computer-assisted personal interview methods on
+laptop computers running BLAISE software (Westat, Inc). The
+programming of the questionnaires and the consolidation of
+survey datasets were performed by the UIC Survey Research
+Laboratory. Following their field interview, participants were
+given 2 L amber bottles and instructed to collect their urine for
+
+
+
+Author's personal copy
+2022
+
+w a t e r r e s e a r c h 4 5 ( 2 0 1 1 ) 2 0 2 0 e2 0 2 8
+
+the next 24 h. Upon completion of urine collection, urine
+samples were transferred from participants’ homes to the UIC
+laboratory by a courier service.
+
+2.5.
+
+Measurement of CYA
+
+Previously described methods for measuring CYA in swimming pool water by Cantu et al. (2001a, 2001b) and in urine by
+Patel and Jones (2007) were the basis for a series of method
+optimization studies. The method optimization studies and
+a detailed description of the CYA analysis methods are
+provided in the Supplementary material. Briefly, Chem-Elut
+cartridges and the solvent MTBE were used in urine sample
+preparation. The major analytical instrument was an Agilent
+Model 1100 HPLC system equipped with a vacuum degasser,
+a quaternary pump, a thermostated column compartment
+and a diode-array UV detector. A porous graphite carbon (PGC)
+column, 110 mm  3.0 mm, 5 mm particle size (Hypercarb,
+Thermo-Fisher) was used. The HPLC was operated in an isocratic mode with a flow rate of 0.8 mL/min. The wavelength of
+the UV detector was set at 213 nm.
+A subset of urine samples were analyzed by liquid chromatography tandem mass spectrometry (LC/MS/MS), with
+the intention of confirming the results obtained using the
+HPLC/DAD method. The procedure of urine sample pretreatment for LC/MS/MS analysis is similar to that described above
+for HPLC/DAD, except that 100 ng/mL 13C3 15N3 labeled CYA
+was spiked in each urine sample as the first step. The Waters
+MicroMass Quattro LCZ LC/MS/MS system equipped with
+a SeQuant ZIC HILIC column (2.1  150 mm PEEK, 5 micron)
+was used. The operational conditions were developed based
+on those previously reported by Smoker and Krynitsky (2008).
+For each sample, a 20 mL full-loop injection was made at 8 mL/
+min. The electron spray ionization MS was operated in negative mode with multiple reaction mechanism (MRM). The
+native CYA was monitored with primary transition m/z
+128/42 and secondary transition m/z 128/85. The labeled
+CYA was monitored with transition m/z 134/44. Quantitation
+of CYA was based on integrated peak area of the primary
+transition.
+
+2.6.
+
+Data analysis
+
+2.6.1. Water ingestion estimated from tracer chemical
+methods
+Estimated water volumes were calculated using the following
+mass-balance approach, as described by Dufour et al. (2006):
+
+Volume ingestedðmLÞ ¼
+
+2.6.2.
+
+Statistical methods
+
+Individuals were permitted to participate in the study more
+than once, but not within four days of prior participation. For
+those who participated more than once it was necessary to
+determine whether each round of participation could be
+considered an independent event. If repeat participation
+events were independent, relatively simple statistical methods
+such as logistic regression would be used. If, on the other hand,
+repeat participation events were not independent, mixedeffects regression models would be necessary to account for
+correlations between repeated events of individuals.
+The SAS NLMIXED procedure (SAS Institute, Cary, NC) was
+used to evaluate the independence of repeated measurements
+within individuals. In this analysis we employed logistic (for
+dichotomous and ordinal outcomes) and linear regression
+models with a random individual effect. A variance parameter
+for the random individual effect was estimated to account for
+the covariance between repeated measurements from the
+same individual. A likelihood ratio test on the significance of
+this individual variation parameter reveals whether repeated
+events from the same participant can be assumed to be
+independent. The outcomes of interest included (1) any selfreported water ingestion (vs. none), (2) the estimated volume
+of water ingested reported (four ordinal categories), and (3) the
+calculated volume of ingestion based on results of CYA
+measurement. Age, gender, recreational activity, and the time
+of enrollment were included as fixed-effect covariates for all
+models. For the dichotomous outcome (any water ingestion),
+model selection was performed using likelihood ratio tests to
+compare between a random-intercept logistic model and
+random-trend logistic model. For ordinal outcomes (estimated
+volume of water ingested), the proportional odds assumption
+was checked by the likelihood ratio test. If the proportional
+odds assumption was shown to be violated, non-proportional
+odds ordinal logistic model would be compared to nonproportional odds ordinal logistic model with random intercepts to check whether significant correlations existed
+between repeated measurements. For the continuous
+outcome, volume of water ingested, log transformation was
+performed first to normalize the data. Likelihood ratio tests
+were employed to choose between mixed-effects regression
+models with different random effects covariates (random
+intercept vs. random-trend), as well as appropriate error
+variance-covariance structures. Model fits were evaluated
+using Akaike’s information criterion (AIC) and Bayesian information criterion (BIC). Using the selected model with best fit,
+Wald tests of the random-effect parameters were performed to
+evaluate independence of the repeated measurements.
+
+Urine CYA conc:ðmg=mLÞ  Urine VolumeðmLÞ
+Pool CYA conc:ðmg=mLÞ
+
+If less than 20% of the expected 24-urine output was
+provided, the urine sample volume was considered insufficient. These thresholds for sufficient volume were 150 mL for
+those age 10 and younger, 200 mL for those age 11e16, and
+300 mL for those age 17 and older based on estimates of urine
+volume being 60% of daily weight-based fluid requirements
+(Greenbaum, 2007).
+
+Translation factors: As described in the “Results” section,
+reliable measures of cyanuric acid were only available for
+a subset of urine samples. Using the calculated ingestion
+volumes from those samples, as well as the self-reported
+ingestion estimates from the participants who provided those
+samples, translation factors were calculated. Two types of
+translation factors were calculated. The mean estimate was
+
+
+
+Author's personal copy
+2023
+
+w a t e r r e s e a r c h 4 5 ( 2 0 1 1 ) 2 0 2 0 e2 0 2 8
+
+the mean calculated volume of water ingested for a given level
+of self-reported ingestion. For each level of self-reported
+ingestion an upper confidence estimate was calculated as:
+Upper confidence estimate ¼ Mean estimate
+þ ð1:96Þðstandard deviationÞ:
+Logistic regression models were used to evaluate variables
+associated with dichotomous categories of water ingestion.
+The three outcomes (evaluated in three separate models)
+were (1) any water ingestion (vs. none), (2) a teaspoon or
+more ingested (vs. none or a drop), and (3) a mouthful or
+more ingested (vs. none, a drop, or a teaspoon). Multivariate
+models included gender and age category (less than age 18
+years vs. 18 years or more) as predictor variables. For
+recreational activities that took place in both the swimming
+pool study and the surface water study, models included
+a variable to evaluate whether estimates of ingestion were
+different in the pool than in the surface water study. For
+surface water study participants, water ingestion was also
+evaluated as a function of whether recreation took place in
+the CAWS vs. other area waters. All data analyses were
+conducted using SAS version 9.1 (SAS Institute, Cary, NC).
+
+2.7.
+
+Human subject research
+
+This research was approved by the Institutional Review
+Board of the University of Illinois at Chicago. Adult participants provided written documentation of informed consent.
+Parents or guardians provided written documentation of
+informed consent for participation of their children. Children above the age 8 years provided written assent to
+participate.
+
+3.
+
+Results
+
+3.1.
+
+Study participants
+
+Of the 662 swimming pool study participants, 410 (62%)
+participated more than once; 9% participated four or more
+times. An analysis of random effects in models of survey and
+CYA-based estimates of water ingestion determined that the
+covariance of observations from same individual are not
+significant, and hence, each repeated event from the same
+participant can be considered independent. Only 6% of
+participants in the surface water study enrolled more than
+once, too infrequent for within-individual covariance to be
+a concern. Therefore the 3367 sets of water ingestion data
+were treated as though they came from 3367 different individuals. Subject demographics and recreational activities are
+summarized in Table 1. A comparable proportion of participants were children in the surface water and swimming pool
+studies.
+
+3.2.
+
+Self-reported water ingestion
+
+Self-reported water ingestion is summarized in Table 2, by
+recreational activity and study setting, as frequencies, and as
+relative frequencies. Pool study fishers and participants who
+walked around the swimming pool reported no water ingestion. No more than 5% of participants in any given activity on
+surface waters reported ingesting water. Those who canoed
+and kayaked in swimming pools tended to report water
+ingestion more frequently than those who engaged in these
+same activities in surface waters. Swimmers more frequently
+reported water ingestion than those who performed head
+immersion.
+
+Table 1 e Recreational activities and demographics of study participants.
+Surface waters
+Adult
+M
+
+Swimming Pool
+
+Child
+F
+
+M
+
+Total
+F
+
+Comparison activity
+Walking
+Limited contact
+Canoeing
+Boating
+Fishing
+Kayaking
+Rowing
+Wade/splash
+Full contact
+Immersion
+Swimming
+Total
+Percent
+Grand total
+M: male; F: female.
+
+243
+129
+190
+346
+75
+
+983
+36.3
+3367
+
+410
+140
+236
+372
+101
+
+1259
+46.5
+
+51
+26
+87
+31
+23
+
+218
+8.1
+
+62
+21
+87
+52
+23
+
+245
+9.1
+
+766
+316
+600
+801
+222
+
+2705
+100.0
+
+Adult
+
+Child
+M
+
+Total
+
+M
+
+F
+
+F
+
+12
+
+11
+
+29
+
+37
+
+3
+
+7
+
+78
+31
+
+26
+47
+
+6
+4
+
+11
+22
+
+59
+
+35
+
+6
+
+12
+
+76
+0
+121
+104
+0
+112
+
+52
+49
+310
+46.8
+
+45
+46
+247
+37.3
+
+9
+11
+39
+5.9
+
+6
+8
+66
+10.0
+
+112
+114
+662
+100.0
+
+23
+
+
+
+Author's personal copy
+2024
+
+w a t e r r e s e a r c h 4 5 ( 2 0 1 1 ) 2 0 2 0 e2 0 2 8
+
+Table 2 e Self-reported water ingestion of 3,367 recreators, by activity, and study setting.
+Surface water study
+Activity
+Canoeing
+Fishing
+Immersion
+Kayaking
+Motor boating
+Rowing
+Swimming
+Wade/splash
+Walking
+
+Pool study
+
+n
+
+Drop
+
+Tsp
+
+Mouthful
+
+Relative ingestion
+
+n
+
+Drop
+
+Tsp
+
+Mouthful
+
+Relative ingestion
+
+766
+600
+
+5
+0.3
+
+1.4
+0.3
+
+0.5
+0.3
+
+1.5
+0.4
+
+801
+316
+222
+
+4.2
+2.2
+4.5
+
+1.1
+0.9
+1.8
+
+0.2
+0.3
+0.5
+
+1.2
+1.0
+1.9
+
+76
+121
+112
+104
+
+7.9
+0
+20.5
+15.4
+
+6.6
+0
+9.8
+11.5
+
+3.9
+0
+0.9
+6.7
+
+6.9
+0
+10.3
+12.1
+
+114
+112
+23
+
+53.5
+2.7
+0
+
+50.9
+2.7
+0
+
+27.2
+0
+0
+
+53.6
+2.8
+0
+
+Numbers in the "Drop" "Tsp" and "Mouthful" columns refer to the percent of participants reporting that volume of ingestion. Relative refers to
+the proportion of participants in study-activity category, who ingested at least a teaspoon, relative to motor boaters.
+
+3.3.
+
+Predictors of self-reported water ingestion
+
+Multivariate logistic regression models were used to identify
+and evaluate predictors of ingesting a teaspoon or more of
+water, by self-report among surface water recreators (Table 3).
+After adjusting for activity and age category, males tended to
+report water ingestion more frequently than females. Age
+category was not associated with self-reported water ingestion. The odds of ingesting a teaspoon or more of water were
+substantially higher among swimmers than among those who
+performed head immersion (in the pool study) or limitedcontact activities on surface waters. Odds ratios and confidence intervals similar to those reported in Table 3 were noted
+for swallowing any water and for swallowing at least
+a mouthful of water (data not presented).
+Capsizing occurred among 41/766 (5.4%) surface water and
+21/76 (27.6%) of swimming pool canoers. Capsizing occurred
+among 27/801 (3.4%) surface water and 40/104 (38.5%) swimming pool kayakers. One of 222 surface water rowers (0.5%)
+reported capsizing as well. Swallowing water among canoers,
+kayakers, and rowers was evaluated using a multivariate
+logistic model with capsizing, age category, gender, activity,
+and study setting (CAWS vs. other surface waters). The only
+significant predictor of water ingestion was capsizing.
+Compared to those who did not capsize, the odds (95% CI) of
+ingesting any, a teaspoon or more, or a mouthful or more
+among those who did capsize were 4.83 (2.42, 9.64), 24.57 (9.32,
+64.75), and 247.22 (17.45, 3501.85), respectively.
+
+Table 3 e Multivariate odds ratios for ingesting at
+a teaspoon or more of water, by self-report.
+Variable
+Child
+Male
+Swimming
+Swimming
+Swimming
+Swimming
+Swimming
+Swimming
+Swimming
+
+Reference
+category
+
+Odds ratio (95% CI),
+swallowed  teaspoon
+
+Adult
+Female
+Motor boating
+Canoeing
+Fishing
+Immersion
+Kayaking
+Rowing
+Wade/splashing
+
+0.81(0.43, 1.50)
+2.0 (1.3, 3.2)
+125.0 (35.7, 333.3)
+62.5 (33.3, 125.0)
+333.3 (90.9, 1000.0)
+10.0 (4.8, 20.8)
+50.0 (27.0, 90.9)
+62.5 (21.7, 200.0)
+38.5 (11.5, 125.0)
+
+Given the strong association between capsizing and
+ingesting water, a logistic regression model was run to identify predictors of capsizing. The only significant predicator
+was that capsizing was much more likely to occur on general
+use waters compared to CAWS, as presented in Table 4.
+
+3.4.
+
+CYA in pool water and urine samples
+
+A total of 130 pool water samples were analyzed using the
+HPLC/DAD method. As detailed in the Supplementary
+material, quality-monitoring data indicate excellent performance of the method for pool samples. Urine samples were
+collected from 665 of the 685 study participants (97.1%).
+Excellent agreement between self-reported water ingestion
+and the estimates obtained from CYA measurement using
+LC/MS/MS was observed for the subset (N ¼ 27) of the urine
+samples collected from participants who enrolled in the study
+on four dates in July, 2009. These participants used a total of
+four pools, and represented five of the six recreational activities (none fished). The mean age of these participants was
+comparable to those whose samples were not analyzed by MS
+(34.8 vs. 34.3 years, p ¼ 0.85). The means  standard deviations
+are 1.4  0.8, 9.4  11.0, and 26  37 mL for the participant
+groups with self-reported injection volumes of none, drop to
+teaspoon, and mouthful, respectively, showing strong agreement between the self-reported results and those based on
+CYA measurement using LC/MS/MS. However, quality control
+data for HPLC/DAD analysis indicated a strong matrix effect,
+particularly when the CYA concentration level in the swimming pool water was low. The correlation between CYA
+concentrations measured by the two instrument systems was
+very poor (r2 ¼ 0.1). In addition, the estimates of ingestion
+
+Table 4 e Multivariate predictors of capsize in surface
+waters.
+Variable
+
+Reference
+category
+
+Male
+Child
+Kayaking
+Rowing
+Other surface
+waters
+
+Female
+Adult
+Canoeing
+Canoeing
+CAWS
+
+Odds ratio
+
+95% confidence
+interval
+
+1.34
+0.64
+0.75
+0.20
+9.26
+
+(0.80,2.25)
+(0.29,1.43)
+(0.45,1.24)
+(0.03,1.50)
+(3.32, 25.64)
+
+
+
+Author's personal copy
+2025
+
+w a t e r r e s e a r c h 4 5 ( 2 0 1 1 ) 2 0 2 0 e2 0 2 8
+
+Table 5 e Translation factors for self-reported ingestion (mL) based on LC/MS/MS measures of CYA.
+
+None
+Drop/teaspoon
+Mouthful
+
+n
+
+Mean
+
+Standard deviation
+
+Median
+
+Minimum
+
+Maximum
+
+UCL
+
+15
+6
+6
+
+3.5
+10.8
+20.3
+
+3.6
+10.5
+30.1
+
+2.0
+7.9
+11.1
+
+0.3
+0.7
+1.2
+
+12.7
+27.6
+80.9
+
+10.6
+31.4
+79.3
+
+UCL: 95% confidence limit.
+
+from measured CYA in urine using HPLC/DAD were inconsistent with the self-reported information (refer to the online
+Supplement for details). Therefore, the results of HPLC/DAD
+analysis were not explored further.
+
+3.5.
+
+Translation factors for self-reported water ingestion
+
+Among participants whose urine samples were analyzed by
+LC/MS/MS, because few reported swallowing a drop or
+a teaspoon of water, these two categories were collapsed into
+a single category. Log10-transformed values of MS-based
+calculations of ingestion were associated with the ordinal
+levels of self-reported ingestion (none, drop-teaspoon,
+mouthful), with an r2 of 0.24, p ¼ 0.009. Table 5 summarizes
+the values of calculated ingestion for each level of selfreported ingestion.
+The translation factors (Table 5) were used to estimate the
+volume of water ingested for recreational activities. The
+absolute estimated ingestion volumes for the mean and upper
+confidence level by activity are summarized in Table 6. The
+table also summarizes the mean ingestion volume relative to
+that observed during surface water fishing and rowing.
+Generally, the mean estimates are about 50% greater than the
+median estimates. This occurs because the distribution of
+mean ingestion volumes is skewed in a positive direction,
+with most of the values found near the minimum value
+(0.3 mL, corresponding to “no water ingestion” in Table 5),
+consistent with a lognormal distribution. Three categories of
+recreational activities are apparent based on ingestion
+
+estimates for the 95th percentile (the upper confidence limit).
+The low ingestion category is comprised of rowing, motor
+boating, fishing, wading/splashing, and non-capsizing
+kayaking and canoeing. These activities have an upper confidence estimate of about 10e12 mL/h. Those who capsized
+during canoeing or kayaking comprise a middle ingestion
+category, with an upper confidence limit estimate of about
+17e20 mL/h. Swimmers were the high ingestion category,
+with an estimated upper confidence estimate of ingesting
+about 35 mL/h.
+
+4.
+
+Discussion
+
+In this first study designed to evaluate water ingestion during
+limited-contact recreational activities, less than 5% of limitedcontact recreators on surface waters reported swallowing any
+water, compared to more than 50% of swimmers in a pool.
+Compared to those who canoed or kayaked in a swimming
+pool, swimmers in a pool were about four to seven times more
+likely to report swallowing at least a teaspoon of water.
+Compared to those who canoed or kayaked on surface waters,
+swimmers in a pool were more than 50 times as likely to
+report swallowing a teaspoon of water. Because the vast
+majority of limited-contact recreators on surface waters
+denied swallowing any water, less dramatic differences were
+observed in the estimated mean volume of water ingested:
+canoeing, 3.9 mL; fishing 3.6 mL; kayaking, 3.8 mL; motor
+boating, 3.7 mL; and rowing 3.9 mL. These are all about
+
+Table 6 e Estimated water ingestion in mL, by activity, study, and capsize status.
+Activity
+
+Boating
+Canoeing
+Canoeing
+Canoeing
+Fishing
+Immersion
+Kayaking
+Kayaking
+Kayaking
+Rowing
+Rowing
+Rowing
+Swimming
+Wading/
+splashing
+Walking
+
+Capsize
+
+No
+No
+Yes
+All
+No
+NA
+No
+Yes
+All
+No
+Yes
+All
+NA
+NA
+NA
+
+Surface water study
+
+Swimming pool study
+
+Median
+
+Mean
+
+UCL
+
+Relative to surface water
+fishing and rowing mean
+
+2.1
+2.2
+3.6
+2.3
+2.0
+
+3.7
+3.8
+6
+3.9
+3.6
+
+11.2
+11.4
+19.9
+11.8
+10.8
+
+1.0
+1.1
+1.7
+1.1
+1.0
+
+2.2
+2.9
+2.3
+2.3
+2.0
+2.3
+
+3.8
+5
+3.8
+3.9
+3.5
+3.9
+
+11.4
+16.5
+11.6
+11.8
+10.6
+11.8
+
+1.1
+1.4
+1.1
+1.1
+1.0
+1.1
+
+Median
+
+Mean
+
+UCL
+
+Relative to surface water
+fishing and rowing mean
+
+2.1
+3.9
+2.6
+2.0
+3.2
+2.1
+4.8
+3.1
+
+3.6
+6.6
+4.4
+3.5
+5.1
+3.6
+7.9
+5.2
+
+11
+22.4
+14.1
+10.6
+15.3
+10.9
+26.8
+17
+
+1.0
+1.8
+1.2
+1.0
+1.4
+1.0
+2.2
+1.4
+
+6.0
+2.2
+
+10
+3.7
+
+34.8
+11.2
+
+2.8
+1.0
+
+3.5
+
+10.6
+
+1
+
+2
+
+
+
+Author's personal copy
+2026
+
+w a t e r r e s e a r c h 4 5 ( 2 0 1 1 ) 2 0 2 0 e2 0 2 8
+
+35e40% of the 10.0 mL estimated to occur during swimming in
+a pool. The mean volume of water ingested during canoeing or
+kayaking among those who capsized was about 60% higher
+than among those who did not capsize. Canoers and kayakers
+were about 5e10 times more likely to capsize in a swimming
+pool than on surface waters. These observations may have
+been due to a perception of safety in a pool with lifeguards and
+kayaking instructors in attendance. Among surface waters,
+study participants, capsizing was nine times more common
+on general use waters than on the CAWS. Again, this may
+have been due to the recognition of unique physical hazards
+and the presence of wastewater at the CAWS, which are
+communicated to the public at CAWS boat launches via posted signs. The fact that capsizing is less common on the CAWS
+suggests that efforts to communicate health and safety
+hazards to the public have resulted in risk reduction. Work by
+Fleisher and Kay (2006) suggests that risk perception influences the occurrence of self-reported gastrointestinal illness;
+our findings suggest that this may occur despite the ingestion
+of smaller volumes of water. The LC/MS/MS method resulted
+in calculated volumes of ingestion that were consistent with
+self-reported data, supporting the validity of the survey
+instrument for evaluating water ingestion.
+
+4.1.
+
+Significance of the results
+
+QMRA analyses are probabilistic, utilizing a distribution of
+values for each of the following key inputs: (1) the volume of
+water ingested during recreation, (2) the density of microbes
+in the water, (3) the relationship between the dose of microbes
+ingested and probability of illness. The volume of water
+ingested can be calculated as a function of the rate of ingestion (volume per unit time) and the duration of recreation. As
+a consequence of this research, estimates of water ingestion
+during a variety of water recreational activities are now
+available, which should reduce the uncertainty in quantitative
+estimates of health risk due to water recreation. The
+measurement of CYA in urine (but not in swimming pool
+water) was problematic using HPLC/DAD, and future efforts to
+quantify CYA in urine should rely on LC/MS/MS.
+Several epidemiologic studies have identified associations
+between self-reported water exposure during full-contact
+water recreation and the development of illness. Exposure has
+previously been categorized based on the occurrence of head
+immersion (Seyfried et al., 1985; McBride et al., 1998; Wade
+et al., 2006) or body immersion (Wade et al., 2008). A study of
+windsurfers evaluated the influence of the number of times
+participants fell into the water (Dewailly et al., 1986). Other
+studies analyzed the occurrence of illness as function of selfreported
+water
+ingestion
+for
+controlled
+exposure
+(Wiedenmann et al., 2006) and for observational studies of
+limited-contact (Fewtrell et al., 1994; Lee et al., 1997) and fullcontact (Colford et al., 2007) recreation. In general, health risks
+are higher in association with increased exposure, though not
+for all outcomes and not for all definitions of exposure.
+Two broad categories of study designs - randomized trials
+of controlled exposure and observational studies - have been
+employed to evaluate the health risks of water recreation. It
+has not been possible to directly compare results of the two
+approaches because of differences in the definition of
+
+exposure used in each of the approaches. In the randomized
+trials exposure has been defined as three head immersions
+during a 10-min interval (Kay et al., 1994; Wiedenmann et al.,
+2006; Fleisher et al., 2010). In the observational studies (USEPA,
+1983, 1984; Wade et al., 2006, 2008) exposure was not determined by the investigators, but rather, participants swam or
+played in the water for as long and in whatever ways they
+chose. We found that head immersion results in about half the
+mean volume of ingestion and about 1/5th the likelihood of
+swallowing at least a teaspoon of water compared to swimming. This information should be useful in synthesizing the
+findings generated by the two study designs. It should be
+noted, however, that we evaluated head immersion in
+a swimming pool while the other studies evaluated immersion in surface water. It is possible that those in swimming
+pool may have perceived a lesser risk of ingesting pool water
+and may not have avoided water ingestion as they may have
+in surface waters, particularly in marine waters.
+Our findings of relative rates of water ingestion (as mL/
+hour or percent that swallow a teaspoon or more) are likely
+more meaningful than the absolute estimates of ingestion.
+The mean estimate of water ingestion during limited-contact
+recreation is about one third of that during swimming (in
+a pool). Given the mean volume ingestion during swimming
+relative to limited-contact recreation, rates of illness attributable to limited-contact activities should be about one third
+of that reported during swimming on the same water,
+assuming a linear relationship between ingested pathogen
+dose and illness risk. The fact that self-reported ingestion of
+a teaspoon or more of water is relatively uncommon (less than
+5% of surface water limited-contact recreators) suggests that
+a small percentage of recreators constitute an at-risk group.
+We found that capsizing is a strong determinant of ingestion,
+and should be discouraged in water where water quality is
+relatively poor. While studies of water recreation have
+generally focused on infectious hazards, health risk assessments for chemical exposure during water recreation have
+also been reported (Hussain et al., 1998; Dor et al., 2003). The
+findings of the present study may also be useful in risk
+assessments of recreational exposure to mercury, polychlorinated biphenyls, and of recent interest, oil dispersants.
+
+4.2.
+
+Our findings in context
+
+Two prior studies have attempted to quantify the volume of
+water ingested during water recreation. Water ingestion
+among surfers on the Oregon coast was investigated by Stone
+et al. (2008). In that study participants were also asked to
+estimate the volume of water swallowed while surfing with
+response options of a few drops, 1e3 teaspoons, the amount in
+a shot glass (2 ounces), or the amount in a small juice glass
+(4 ounces). Based on the self-reported estimates of ingestion
+volume and ingestion frequency, the authors estimated
+a median daily ingestion of 34.4 mL, and an arithmetic mean
+of 170.6 mL. Water ingestion among swimmers was estimated
+by Dufour and colleagues Dufour et al. (2006) at USEPA using
+CYA as a tracer of swimming pool water. Over the course of
+a 45-min swim, the 12 adults in the study swallowed an estimated 16 mL of pool water while the 41 children swallowed an
+average of 37 mL. The authors followed up with a larger scale
+
+
+
+Author's personal copy
+w a t e r r e s e a r c h 4 5 ( 2 0 1 1 ) 2 0 2 0 e2 0 2 8
+
+study with involving 549 swimmers, the results of which have
+been presented at a conference by Evans et al. (2006). In that
+study children were found to swallow more water than adults
+(47 mL vs. 24 mL), and males swallowed more than females
+(37 mL vs. 27 mL), differences that were highly significant
+statistically. Twenty-five percent of the swimmers swallowed
+85 mL or more, and some swallowed up to 280 mL. The Dufour
+estimate of 16 mL/45 min (or 21 mL/h) is intermediate between
+our mean estimate of 10 mL and the upper confidence estimate of 35 mL.
+
+Appendix. Supplementary material
+
+4.3.
+
+references
+
+Limitations
+
+As originally designed, this research sought to generate
+a calculated volume of water ingestion for each participant,
+using HPLC measures of CYA in pool water and urine samples.
+We did not rely on the HPLC measures of CYA in urine because
+of their limited precision and the frequency of false positives
+and false negatives. We based our estimates of ingestion
+volume on the 27 (5%) of participants who provided selfreported estimates of ingestion, as well as urine samples
+measured by LC/MS. Because that subset of participants
+was relatively small, the point estimates of the translation
+factors (Table 5) are limited in their precision. Additionally,
+because of the small number of participants whose urine
+samples were analyzed with the gold standard method, we
+were unable to generate adult-specific and child-specific
+volumes of ingestion (based on CYA measures) for each level
+of self-reported ingestion. Another limitation is that the
+highest category of self-reported water ingestion was “a
+mouthful or more”. Some participants who reported this level
+of ingestion may have ingested “a mouthful” while others
+ingested more than that. The collection of more detailed data
+about the number of mouthfuls ingested may have generated
+better agreement between self-reported and CYA-based estimates of ingestion. Because <1% of surface water participants
+reported ingesting “a mouthful or more” any improvement in
+categorizing ingestion among that small subset would have
+minimal impact on the overall findings. Again, because of the
+relatively small number of participants for whom high quality
+urine CYA data was available, we were unable to compare the
+volume of water ingested by adults and by children. Future
+research could focus on this question. Although it is not
+known how representative study participants were of surface
+water recreators in general, there is no reason to believe that
+participants systematically over- or under-estimated the
+volume of water that they ingested.
+
+5.
+
+Conclusions
+
+The mean volume of water ingested during limited-contact
+recreation activities, about 3.5e4 mL is about 35e40% of that
+observed during swimming (about 10 mL). The frequency of
+swallowing at least teaspoon of water during limited-contact
+recreation (about 1% of study participants) is about 1/50th the
+frequency observed during swimming in a pool (51% of
+participants). In surface waters with high concentrations of
+chemical or microbial hazards, avoiding capsizing should
+significantly reduce the percentage of paddlers who swallow
+
+2027
+
+a teaspoon or more of water. LC/MS/MS is preferred over HPLC
+for analyzing CYA in urine samples.
+
+Supplementary data related to this article can be found online
+at doi:10.1016/j.watres.2010.12.006.
+
+Ashbolt, N.J., Schoen, M.E., Soller, J.A., Roser, D.J., 2010. Predicting
+pathogen risks to aid beach management: the real value of
+quantitative microbial risk assessment (QMRA). Water Res. 44
+(16), 4692e4703.
+Cantu, R., Evans, O., Kawahara, F.K., Wymer, L.J., Dufour, A.P.,
+2001a. HPLC determination of cyanuric acid in swimming pool
+waters using phenyl and confirmatory porous graphitic
+carbon columns. Anal. Chem. 73 (14), 3358e3364.
+Cantu, R., Evans, O., Magnuson, M.L., 2001b. Rapid analysis of
+cyanuric acid in swimming pool water by high performance
+liquid chromatography using porous graphite carbon.
+Chromatographia 53, 454e456.
+Colford Jr., J.M., Wade, T.J., Schiff, K.C., Wright, C.C., Griffith, J.F.,
+Sandhu, S.K., Burns, S., Sobsey, M., Lovelace, G., Weisberg, S.B.,
+2007. Water quality indicators and the risk of illness at beaches
+with nonpoint sources of fecal contamination. Epidemiology 18
+(1), 27e35.
+Cordell, H.K., Betz, C.J., Green, G.T., Mou, S., Leeworthy, V.R.,
+Wiley, P.C., Barry, J.J., Hellerstein, D., 2004. Outdoor Recreation
+for 21st Century America: A Report to the Nation: The National
+Survey on Recreation and the Environment. Venture
+Publishing, Inc., State College, PA.
+Dewailly, E., Poirier, C., Meyer, F.M., 1986. Health hazards
+associated with windsurfing on polluted water. Am. J. Public
+Health 76 (6), 690e691.
+Dor, F., Bonnard, R., Gourier-Frery, C., Cicolella, A., Dujardin, R.,
+Zmirou, D., 2003. Health risk assessment after
+decontamination of the beaches polluted by the wrecked
+ERIKA tanker. Risk Anal. Int. J. 23 (6), 1199e1208.
+Dufour, A.P., Evans, O., Behymer, T.D., Cantu, R., 2006. Water
+ingestion during swimming activities in a pool: a pilot study.
+J. Water Health 4 (4), 425e430.
+Dziuban, E.J., Liang, J.L., Craun, G.F., Hill, V., Yu, P.A., Painter, J.,
+Moore, M.R., Calderon, R.L., Roy, S.L., Beach, M.J., 2006.
+Surveillance for waterborne disease and outbreaks associated
+with recreational watereUnited States, 2003e2004. MMWR
+Surveill. Summ. 55 (12), 1e30.
+Evans, O.M., Wymer, L.J., Behymer, T.D., Dufour, A.P., 2006. An
+Observational Study Determination of the Volume of Water
+Ingested During Recreational Swimming Activities. National
+Beaches Conference, Niagra Falls, NY.
+Fewtrell, L., Kay, D., Salmon, R.L., Wyer, M., Newman, G.,
+Bowering, G., 1994. The Health Effects of Low-contact Water
+Activities in Fresh and Estuarine Waters. IWEM, pp. 97e101.
+Fleisher, J.M., Kay, D., 2006. Risk perception bias, self-reporting of
+illness, and the validity of reported results in an epidemiologic
+study of recreational water associated illnesses. Mar. Pollut.
+Bull. 52 (3), 264e268.
+Fleisher, J.M., Fleming, L.E., Solo-Gabriele, H.M., Kish, J.K.,
+Sinigalliano, C.D., Plano, L., Elmir, S.M., Wang, J.D., Withum, K.,
+Shibata, T., Gidley, M.L., Abdelzaher, A., He, G., Ortega, C.,
+Zhu, X., Wright, M., Hollenbeck, J., Backer, L.C., 2010. The
+BEACHES study: health effects and exposures from non-point
+
+
+
+Author's personal copy
+2028
+
+w a t e r r e s e a r c h 4 5 ( 2 0 1 1 ) 2 0 2 0 e2 0 2 8
+
+source microbial contaminants in subtropical recreational
+marine waters. Int. J. Epidemiol. 64 (1), 16e21.
+Greenbaum, L., 2007. In: Kliegman, R.M., Behrman, R.E., Jenson, H.
+B., Stanton, B. (Eds.), Nelson Textbook of Pediatrics. Saunders,
+An Imprint of Elsivier.
+Hussain, M., Rae, J., Gilman, A., Kauss, P., 1998. Lifetime health
+risk assessment from exposure of recreational users to
+polycyclic aromatic hydrocarbons. Arch. Environ. Contam.
+Toxicol. 35 (3), 527e531.
+Idaho Department of Environmental Quality, 2004. Regional and
+National Overview of Use Attainability Analysis. http://www.
+deq.idaho.gov/water/assist_business/workshops/uaa_
+regional_national_overview_uaa_workshop_handout.pdf
+(Accessed 24.11.10).
+Illinois Pollution Control Board, 2010. In the Matter Of: Water
+Quality Standards and Effluent Limitations for the Chicago
+Area Waterway System (CAWS) and the Lower Des Plaines
+River: Proposed Amendments to 35 Ill. Adm. Code 301, 302, 303
+and 304. http://www.ipcb.state.il.us/COOL/External/CaseView.
+aspx?case¼13363 (Accessed 24.11.10).
+Kay, D., Fleisher, J.M., Salmon, R.L., Jones, F., Wyer, M.D.,
+Godfree, A.F., Zelenauch-Jacquotte, Z., Shore, R., 1994.
+Predicting likelihood of gastroenteritis from sea bathing:
+results from randomised exposure. Lancet 344 (8927), 905e909.
+Lee, J.V., Dawson, S.R., Ward, S., Surman, S.B., Neal, K.R., 1997.
+Bacteriophages are a better indicator of illness rates than
+bacteria amongst users of a white water course fed by
+a lowland river. Water Sci. Technol. 35 (11e12), 165e170.
+McBride, G.B., Salmond, C.E., Bandaranayake, D.R., Turner, S.J.,
+Lewis, G.D., Till, D.G., 1998. Health effects of marine bathing in
+New Zealand. Int. J. Environ. Health Res. 8, 173e189.
+Missouri Coalition for the Environment, 2010. Issues and Actions:
+UAAs. http://www.moenviron.org/uaa.asp (Accessed 24.11.10).
+Patel, K., Jones, K., 2007. Analytical method for the quantitative
+determination of cyanuric acid as the degradation product of
+sodium dichloroisocyanurate in urine by liquid
+chromatography mass spectrometry. J. Chromatogr. B. Analyt.
+Technol. Biomed. Life Sci. 853 (1e2), 360e363.
+Seyfried, P.L., Tobin, R.S., Brown, N.E., Ness, P.F., 1985. A
+prospective study of swimming-related illness. I. Swimmingassociated health risk. Am. J. Public Health 75 (9), 1068e1070.
+Smoker, M., Krynitsky, A.J., 2008. Interim Method for
+Determination of Melamine and Cyanuric Acid Residues in
+Foods Using LC-MS/MS: Version 1.0.
+Soller, J.A., Bartrand, T., Ashbolt, N.J., Ravenscroft, J., Wade, T.J.,
+2010. Estimating the primary etiologic agents in recreational
+freshwaters impacted by human sources of faecal
+contamination. Water Res. 44 (16), 4736e4747.
+
+Stone, D.L., Harding, A.K., Hope, B.K., Slaughter-Mason, S., 2008.
+Exposure assessment and risk of gastrointestinal illness
+among surfers. J. Toxicol. Environ. Health A 71 (24), 1603e1615.
+Texas Commission on Environmental Quality, 2009. Overview of
+Proposed Standards Revisions. http://www.tceq.state.tx.us/
+assets/public/permitting/waterquality/attachments/
+stakeholders/overstand_jan09.pdf (Accessed 24.11.10).
+USEPA, 1983. Health Effects Criteria for Marine Recreational Waters.
+http://www.epa.gov/microbes/mrcprt1.pdf (Accessed 24.11.10).
+USEPA, 1984. Health Effects Criteria for Fresh Recreational Waters.
+http://www.epa.gov/nerlcwww/frc.pdf (Accessed 24.11.10).
+USEPA, 2003. Water Quality Standards for Kansas, Federal Register.
+http://www.federalregister.gov/articles/2003/07/07/03-16924/
+water-quality-standards-for-kansas (Accessed 24.11.10).
+USEPA, 2009. Exposure Factor Handbook (External Review). http://
+cfpub.epa.gov/ncea/cfm/recordisplay.cfm?deid¼209866
+(Accessed 23.09.10).
+Utah Department of Environmental Quality, 2008. Use
+Attainability Analysis: Great Salt Lake. http://www.
+waterquality.utah.gov/WQS/20080715_UAA_GSL.pdf
+(Accessed 24.11.10).
+Wade, T.J., Calderon, R.L., Sams, E., Beach, M., Brenner, K.P.,
+Williams, A.H., Dufour, A.P., 2006. Rapidly measured
+indicators of recreational water quality are predictive of
+swimming-associated gastrointestinal illness. Environ. Health
+Perspect. 114 (1), 24e28.
+Wade, T.J., Calderon, R.L., Brenner, K.P., Sams, E., Beach, M.,
+Haugland, R., Wymer, L., Dufour, A.P., 2008. High sensitivity of
+children to swimming-associated gastrointestinal illness:
+results using a rapid assay of recreational water quality.
+Epidemiology 19 (3), 375e383.
+Wiedenmann, A., Kruger, P., Dietz, K., Lopez-Pila, J.M.,
+Szewzyk, R., Botzenhart, K., 2006. A randomized controlled
+trial assessing infectious disease risks from bathing in fresh
+recreational waters in relation to the concentration of
+Escherichia coli, intestinal enterococci, Clostridium
+perfringens, and somatic coliphages. Environ. Health Perspect.
+114 (2), 228e236.
+Wong, M., Kumar, L., Jenkins, T.M., Xagoraraki, I., Phanikumar,
+M.S., Rose, J.B., 2009. Evaluation of public health risks at
+recreational beaches in Lake Michigan via detection of enteric
+viruses and a human-specific bacteriological marker. Water
+Res. 43 (4), 1137e1149.
+Yoder, J.S., Blackburn, B.G., Craun, G.F., Hill, V., Levy, D.A.,
+Chen, N., Lee, S.H., Calderon, R.L., Beach, M.J., 2004.
+Surveillance for waterborne-disease outbreaks associated
+with recreational watereUnited States, 2001e2002. MMWR
+Surveill. Summ. 53 (8), 1e22.
+
+

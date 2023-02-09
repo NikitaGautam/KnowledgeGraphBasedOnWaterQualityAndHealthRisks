@@ -1,0 +1,1283 @@
+Eur J Clin Microbiol Infect Dis (2009) 28:935–943
+DOI 10.1007/s10096-009-0729-1
+
+ARTICLE
+
+Incidence and risk factors for community-acquired acute
+gastroenteritis in north-west Germany in 2004
+C. Karsten & S. Baumgarte & A. W. Friedrich &
+C. von Eiff & K. Becker & W. Wosniok & A. Ammon &
+J. Bockemühl & H. Karch & H.-I. Huppertz
+
+Received: 19 November 2008 / Accepted: 5 March 2009 / Published online: 25 March 2009
+# The Author(s) 2009. This article is published with open access at Springerlink.com
+
+Abstract In developed countries, acute gastroenteritis
+(AGE) is a major source of morbidity. However, only a
+few studies have estimated its incidence and the
+associated medical burden. This population-based study
+determined the incidence of community-acquired AGE
+patients seeking medical care and the relative role of
+various pathogens. Stool samples from patients with
+AGE presenting to a general practitioner (GP), pediatrician, or specialist in internal medicine for that reason
+were screened for various bacterial and viral enteropathC. Karsten : H.-I. Huppertz (*)
+Children’s Hospital Prof. Hess, Klinikum-Bremen-Mitte,
+Sankt-Jürgen-Straße,
+28177 Bremen, Germany
+e-mail: hans-iko.huppertz@klinikum-bremen-mitte.de
+S. Baumgarte : J. Bockemühl
+Institute for Hygiene and Environment,
+Hamburg, Germany
+A. W. Friedrich : H. Karch
+Institute for Hygiene, University of Münster,
+Münster, Germany
+C. von Eiff : K. Becker
+Institute of Medical Microbiology, University of Münster,
+Münster, Germany
+W. Wosniok
+Institute for Statistics, University of Bremen,
+Bremen, Germany
+A. Ammon
+Robert Koch Institute,
+Berlin, Germany
+H.-I. Huppertz
+University of Göttingen,
+Göttingen, Germany
+
+ogens. A control group was established as well.
+Incidences were calculated by the number of positive
+patients divided by the general population. The study
+was performed in north-west Germany in 2004. The
+incidence of AGE patients requiring medical consultation
+was 4,020/100,000 inhabitants. Children (<5 years of
+age) were at the highest risk (13,810/100,000 inhabitants). Of the patients, 6.6% were tested positive for an
+enteropathogenic bacteria and 17.7% for a viral agent.
+The predominant pathogens were norovirus (626/100,000)
+and rotavirus (270/100,000). Salmonella was the most
+frequently detected bacteria (162/100,000). The results
+presented confirm AGE and, specifically, AGE of viral
+origin as a major public health burden in developed
+countries.
+
+Introduction
+Acute gastroenteritis (AGE) characterized by vomiting,
+diarrhea, and dehydration is prevalent worldwide and is
+associated with high rates of mortality in developing
+countries [1, 2]. In more developed regions, AGE is a
+frequent cause of hospitalization, especially in young
+children [3].
+Epidemiological studies from several European
+countries provide data on the incidence of AGE, risk
+factors, and the associated health burden [4–12]. German
+studies focused on young children [13, 14], while data on
+primary care consultations across all ages is lacking..
+Findings are likely to differ between European countries
+due to nutritional habits, health behavior of the population, and differently set up health services [4, 7, 8]. The
+incidence of AGE cases presenting to general practice was
+reported to be 800/100,000 inhabitants per year in The
+
+
+
+936
+
+Netherlands and 3,300/100,000 inhabitants per year in
+England [4, 7]..
+To reduce the incidence of AGE on a national and
+European level, changes were made to cattle and poultry
+breeding practices and the population was informed about
+hygienic measures over the last two decades. These
+measures significantly reduced the incidence of salmonellosis [15, 16] and most likely contributed to a shift in the
+relative contribution of pathogens that are currently causing
+AGE. Therefore, data demonstrating the relative importance
+of different viral, bacterial, and parasitic agents in causing
+AGE does need continuous updates since the distribution
+and relative importance of pathogens are likely to change
+over time. Moreover, the relevance of risk factors may be
+subject to change as well.
+Nowadays, viral AGE is more frequently acknowledged,
+due partly to improved diagnostic methods and new virus
+variants, e.g., norovirus subtypes showing epidemic spread,
+as well as an increase in the number of outbreaks [17–19].
+It has been acknowledged that persons may continue to
+excrete an enteropathogen after an episode of AGE or may
+even be an asymptomatic shedder without previous disease
+[20, 21]. Asymptomatic carriers of viral or bacterial
+pathogens may have epidemiological importance due to
+their potency as a source of infection.
+Various bacterial and viral enteropathogens are enclosed
+in the German surveillance system. However, studies from
+England and Ireland showed a systematic underreporting of
+AGE in national surveillance systems [4, 10]. Incidences
+derived from surveillance systems are likely to be smaller
+than the incidences found in population-based studies.
+The aims of the present study were to determine the
+incidence of community-acquired AGE cases presenting to
+general practice and to investigate the relative role of
+various bacterial and viral pathogens. Secondary aims were
+to identify risk factors for microorganism-specific AGE and
+determine the occurrence of asymptomatic carriers of viral
+or bacterial pathogens and multiple infections .
+
+Methods
+Study population
+Between 1 January and 31 December 2004, all general
+practitioners (GPs) and specialists in pediatrics and internal
+medicine in an urban (suburbs of Bremen; 40,268 inhabitants) and rural area (Wesermarsch; 20,402 inhabitants) of
+Germany were asked to send stool samples from all patients
+presenting with AGE for laboratory investigation. In
+Germany, patients have free choice as to whether they
+consult a GP, pediatrician, or specialist in internal medicine.
+Forty-seven out of 67 physicians (70%) registered in the
+
+Eur J Clin Microbiol Infect Dis (2009) 28:935–943
+
+study area participated actively and continuously in the
+study. The geographical and social conditions of these areas
+were considered to be particularly suitable for an epidemiological study: the urban area is separated from the rest of
+the city by the Weser River, while the rural area is limited
+by the North Sea and the broadening Weser River on three
+sides. It was expected that only very few patients would
+consult a physician outside of these study areas due to the
+special geographical conditions and accessibility of health
+care services.
+Diarrhea was defined as the excretion of at least two
+loose and malodorous stools in breastfed infants and at least
+two loose stools in a 24-h period for all other patients [22].
+Patients diagnosed with inflammatory bowel disease, celiac
+disease, cystic fibrosis, food intolerance, and malignancy
+were excluded from participation, in addition to patients on
+antibiotics or chemotherapy at the time of presentation.
+To establish a control group, physicians were asked to
+send stool specimens from patients living in the same study
+areas who presented with symptoms other than diarrhea and
+vomiting. Patients and controls were asked to complete a
+questionnaire about their recent exposure to other people
+with diarrhea or about the consumption of food including
+poultry, unpasteurized milk, or other. In addition, we asked
+for symptoms and the course of their illness.
+Case data was de-duplicated to ensure that one individual case was not included twice after presentation to
+different doctors.
+All patients and controls or their parents or guardians
+gave written informed consent for participation in this
+study. The study protocol and data handling were approved
+by the local ethics committee.
+Microbiological methods
+Stool specimens were analyzed for Campylobacter spp.,
+Salmonella enterica serovars, Yersinia spp., Shigella spp.,
+enterotoxin-producing Staphylococcus aureus (detection of
+the marker genes sea, seb, sec, sed, see, seg, seh, sei, sej
+[23, 24]), Clostridium difficile, Aeromonas spp., and
+Plesiomonas spp. All specimens were analyzed as follows:
+1 g of stool was plated on a combination of Columbia
+blood agar, Endo agar, and selective agars (CIN agar for
+Yersinia spp., Önöz and Leifson agar for Salmonella and
+Shigella spp., Sorbitol-MacConkey [SMAC] and CTSMAC agar for Shiga toxin-producing E. coli, and
+Charcoal Cefoperazon Deoxycholate agar [CCDA] and
+selenite broth for the detection of Campylobacter spp.).
+The CCDA and selenite broth were incubated in microaerophilic conditions and bacterial growth was detected as
+described previously [25].
+The detection of marker genes for enteropathogenic E.
+coli (EPEC), enteroinvasive E. coli (EIEC), enterotoxic E.
+
+
+
+Eur J Clin Microbiol Infect Dis (2009) 28:935–943
+
+coli (ETEC) [26], enteroaggregative E. coli (EaggEC) [27],
+and enterohaemorrhagic E. coli (EHEC) was performed as
+described previously [28].
+Virus detection
+Enzyme immunoassay (EIA) was used for the detection
+of rotavirus, astrovirus, and adenovirus. A total of 100 μl of
+stool specimen was diluted in appropriate amounts of
+sample buffer included in the commercial kit (DakoCytomation Ltd., Cambridgeshire, UK). The IDEIA™ kit
+detects group A rotaviruses, while the adenovirus EIA
+detects all human adenovirus serotypes. The astrovirus EIA
+works with a genus-specific combination of monoclonal
+and polyclonal antibodies and a special amplification
+system.
+Nested polymerase chain reaction (PCR) was used for
+the detection of noroviruses. A total of 50 μl of stool
+specimen was diluted in 200 μl of phosphate buffered
+saline (PBS). Viral RNA was extracted by the Purescript
+Total RNA Isolation (Gentra Systems, Minneapolis, MN,
+USA) and GI and GII norovirus was detected by nested RTPCR, as previously reported [29].
+Statistics
+Laboratory findings and responses from questionnaires
+were entered into a Microsoft Access™ database. The data
+were analyzed in Microsoft Excel™, where incidences,
+95% confidence intervals (CI95), and odds ratios (OR) were
+calculated. Pathogen-specific incidences were calculated by
+the number of positive patients divided by the general
+population. For the calculation of incidences, data were
+taken from population census in Bremen and Lower
+Saxony (http://www.nls.niedersachsen.de and Statistisches
+Landesamt Bremen, data on file). The total population of
+the catchment areas was diminished by that part of the
+population served by the non-participating physicians.
+Incidences were adjusted for age using direct standardization based on the German age distribution data for 2003
+(http://www.destatis.de); for patients who lived in the study
+area but consulted a physician elsewhere; and for patients
+who refused to participate in this study. These data were
+obtained from the local public health authorities (LPHA)
+(Gesundheitsamt Bremen and Gesundheitsamt Wesermarsch, Brake, data on file). For the calculation of
+rotavirus, adenovirus, and astrovirus incidences, it was
+assumed that insufficient stool quantity with subsequent
+non-examination of these viruses was independent of the
+presence of these viruses. Hence, the expected number of
+infections among the non-examined stool samples was
+derived from the percentage of positive stool samples found
+in the group of examined patients.
+
+937
+
+Logistic regression analysis was performed using SAS
+System, Release 9.1 (SAS Institute Inc., Cary, NC, USA) to
+determine the variables that were independently associated
+with the risk of AGE. Variables were selected in a stepwise
+backward manner (maximum likelihood), in which the least
+significant variable was excluded at each step. The agentspecific morbidity was calculated as the percentage of
+symptomatic patients out of the total number of study
+participants positive for that agent.
+Qualitative variables were compared by the χ2 test or
+Fisher’s exact test, as appropriate. Significance was defined
+as P<0.05 and high significance as P<0.001. The LPHA
+also supplied data on the occurrence of clusters (i.e., two or
+more cases of AGE caused by the same microbiological
+agents), which were identified by telephone investigation—
+laboratory tests were not requested. These additional cases
+identified by the LPHA were not included in the calculation
+of incidences and the analysis of risk factors.
+
+Results
+In total, 1,630 patients and controls were included in the
+analyses. Of these, 1,463 (90%) returned a completed
+questionnaire. A total of 1,086 specimens were collected
+from patients with diarrhea, 639 in the urban area and 447
+in the rural area. From the controls, 544 specimens were
+collected, 338 specimens in the urban area and 206
+specimens in the rural area. The sex and age distribution
+of the study population is shown in Table 1.
+Due to insufficient stool quantities, some samples could
+not be tested for all viruses and bacteria. Out of 1,630 stool
+specimens, 1,580 (96.9%) were tested for enteropathogenic
+bacteria, 1,585 (97.2%) were tested for norovirus, and
+1,338 (82.1%) were tested for all four viral agents (Table 2).
+
+Incidence of gastroenteritis
+The overall incidence of AGE requiring medical consultation was 4,020/100,000 inhabitants (CI95 [1,879; 6,687]),
+with no significant difference between the urban and rural
+areas.
+Children younger than five years of age had the
+highest incidence of AGE requiring medical consultation
+(13,810/100,000; CI95 [6,819; 21,601]), which was significantly different from the rest of the population (P<
+0.001, OR=3.88; CI95 [3.3; 4.6]). In this age group, one
+out of six children consulted a physician due to AGE in
+the urban area (15,967/100,000; CI95 [7,979; 24,691]), in
+contrast to one out of ten children in the rural area
+(10,791/100,000; CI95 [5,230; 17,368]). This difference
+was significant (P=0.008, OR=1.57; CI95 [1.1; 2.2]).
+
+
+
+938
+
+Eur J Clin Microbiol Infect Dis (2009) 28:935–943
+
+Table 1 Demographic structure
+of patients and controls, shown
+as number of probands (percent)
+
+Urban area
+
+Total
+Male
+Female
+Age <5 years
+5–14 years
+15–59 years
+>59 years
+
+Rural area
+
+Patients with diarrhea
+
+Controls
+
+Patients with diarrhea
+
+Controls
+
+639 (100%)
+308 (48.2%)
+331 (51.8%)
+76 (11.9%)
+80 (12.5%)
+362 (56.7%)
+121 (18.9%)
+
+338 (100%)
+154 (45.6%)
+184 (54.4%)
+17 (5.0%)
+58 (17.2%)
+196 (58.0%)
+67 (19.8%)
+
+447 (100%)
+242 (54.1%)
+205 (45.9%)
+50 (11.2%)
+98 (21.9%)
+238 (53.2%)
+61 (13.6%)
+
+206 (100%)
+88 (42.7%)
+118 (57.3%)
+8 (3.9%)
+39 (18.9%)
+83 (40.3%)
+76 (36.9%)
+
+Similarly, in people aged 60 years or older, there was a
+highly significant difference in incidences between the
+rural and urban areas (P<0.001, OR=2.41; CI95 [1.8; 3.2])
+(Table 3).
+In the urban area, the highest incidences of medical
+consultations due to AGE were from October through to
+December, whereas in the rural area, the highest incidences
+were found in January, March, and April, which is
+coincident with the different pathogen patterns between
+the two areas
+Incidence of specific viral and bacterial pathogens
+A total of 80 out of 1,580 specimens tested positive for
+enteropathogenic bacteria (72 patients, 6.6%, and eight
+controls, 1.5%), while 320 out of 1,585 specimens tested
+positive for a viral agent (280 patients, 17.7%, and 40
+controls, 2.5%). Overall, viral and bacterial pathogens were
+identified in 35% of specimens from patients with AGE
+(Table 2). Months with high incidences of viral pathogens
+revealed a higher portion of positive stool specimens than
+
+months that showed lower incidences of viral pathogens
+(Fig. 1).
+Norovirus and rotavirus were the most frequently
+detected pathogens. Norovirus was found in 16% of all
+cases with AGE (Table 2). The incidence was 626/100,000
+inhabitants (CI95 [287; 1,071]). Norovirus was detected
+all-year-round, with two peaks. The months with the
+highest incidences of norovirus infection were March and
+December in the rural area and November and December
+in the urban area. Morbidity for norovirus-related AGE
+was 89.2%.
+Rotavirus was responsible for 270 episodes/100,000
+inhabitants (CI95 [124; 467]). The incidence of rotavirusrelated AGE in children younger than five years of age
+(2,574/100,000, CI95 [1,193; 4,455]) was higher than that
+for noroviruses in this age group (2,302/100,000, CI95
+[1,065; 4,006]), thus, confirming that rotavirus is the most
+important pathogen causing AGE in young children.
+Rotavirus-related AGE occurred all-year-round, with a
+distinctive seasonal peak in March and April. Morbidity
+for rotavirus-related AGE was 84.1%.
+
+Table 2 Detected microorganisms
+Patients (n=1,086)
+
+Controls (n=544)
+
+Number tested % positive Incidence/100,000 inhabitants, [confidence interval] Number tested % positive
+Norovirus
+
+1,053
+
+16
+
+626 [287; 1,071]
+
+532
+
+3.4
+
+Rotavirus
+Astrovirus
+Adenovirus
+Salmonella
+Campylobacter spp.
+Yersinia enterocolitica
+Plesiomonas
+Aeromonas spp.
+EPEC
+Enterotoxin-encoding S. aureus
+No enteropathogen found
+
+875
+875
+875
+1,046
+1,046
+1,046
+1,046
+1,046
+1,046
+1,046
+709 (65%)
+
+7
+3
+2.9
+2
+1.2
+0.9
+0.1
+0.7
+0.3
+1.7
+
+270 [124; 467]
+111 [51; 196]
+113 [52; 199]
+162 [74; 290]
+55 [25; 101]
+34 [16; 65]
+Not calculated
+31 [14; 58]
+Not calculated
+67 [31; 120]
+
+464
+464
+464
+534
+534
+534
+534
+534
+534
+534
+484 (89%)
+
+2.8
+1.7
+0.2
+0
+0
+0
+0
+0.4
+0.6
+0.6
+
+
+
+Eur J Clin Microbiol Infect Dis (2009) 28:935–943
+Table 3 Incidence of AGE per
+100,000 inhabitants in different
+age groups in the study areas
+
+939
+
+Age groups
+
+Rural area
+
+Urban area
+
+P-value, OR, CI95
+
+<5 years
+5–19 years
+20–59 years
+>60 years
+
+10,791 [5,230; 17,368]
+4,177 [1,953; 7,010]
+4,070 [1,902; 6,789]
+2,421 [1,121; 4,131]
+
+15,967 [7,979; 24,691]
+5,178 [2,435; 8,611]
+2,806 [1,303; 4,718]
+5,321 [2,504; 8,813]
+
+0.008, 1.57 [1.1; 2.2]
+0.15, 1.24 [0.9; 1.6]
+0.001, 0.76 [0.6; 0.9]
+<0.001, 2.41 [1.8; 3.2]
+
+Incidences of AGE due to astroviruses and adenoviruses
+are shown in Table 2. Children younger than five years
+were at the highest risk, but astroviruses were an important
+agent for viral AGE in all age groups. Adenoviruses were
+rarely detected in patients aged five years or older.
+Salmonella was the most frequently detected bacteria
+found in patients with AGE (162/100,000, CI95 [74; 290]),
+followed by enterotoxin gene-carrying S. aureus (67/100,000,
+CI95 [31; 120]) and Campylobacter spp. (55/100,000, CI95
+[25; 101]). The age groups with the highest incidences of all
+of these bacterial agents were children aged 0–14 years.
+Salmonella infections showed a typical seasonal distribution,
+prevailing between May and October. Salmonella and
+Campylobacter spp. showed 100% morbidity.
+Aeromonas spp. and Y. enterocolitica had comparable
+incidences. Plesiomonas spp. and EPEC were found in one
+and three cases, respectively (Table 2). EaggEC, EHEC,
+EIEC, ETEC, or Shigella spp. were not isolated.
+A total of 34 positive stool specimens from patients were
+carrying two or more infectious agents (Table 4). In
+controls, no co-infections were detected.
+Table 5 shows the typical symptoms of AGE caused by
+the various viral (frequently vomiting) and bacterial
+(frequently fever) enteropathogens. Table 6 shows the risk
+factors for acquiring AGE.
+
+Discussion
+
+500
+
+Table 4 Co-infections
+
+400
+
+Combination of infectious agents
+
+No.
+
+300
+
+Norovirus and rotavirus
+Norovirus and enterotoxin-encoding S. aureus
+Norovirus and astrovirus
+Norovirus and Salmonella
+Rotavirus and adenovirus
+Astrovirus and rotavirus, norovirus and Campylobacter coli,
+astrovirus and S. aureus, rotavirus and S. aureus, rotavirus and
+Aeromonas spp., norovirus and Aeromonas spp., rotavirus and
+Salmonella, Y. enterocolitica and Salmonella, Y. enterocolitica
+and enteropathogenic Escherichia coli
+Norovirus, astrovirus and S. aureus
+
+10
+5
+4
+3
+2
+1
+
+200
+100
+
+r
+m y
+ar
+ch
+ap
+ril
+m
+ay
+ju
+ne
+ju
+ly
+au
+gu
+se
+pt st
+em
+b
+oc er
+to
+no be
+ve r
+m
+de be
+ce r
+m
+be
+r
+
+br
+fe
+
+ja
+
+nu
+
+ar
+y
+
+0
+ua
+
+incidence of gastroenteritis
+per 100000 inhabitants
+
+This is the first population-based study presenting the
+incidence of community-acquired AGE requiring medical
+
+consultation across all age groups within defined areas over
+a complete year. This study shows that AGE is a very
+frequent disease, with children aged 0–4 years particularly
+at risk. Viral and/or bacterial pathogens were detected in
+35% of specimens from patients with AGE. Viral pathogens
+were detected far more often than bacterial pathogens.
+We believe that these results might be representative for
+most of Germany and even other European countries.
+Four percent of the study population consulted a
+physician due to diarrhea in 2004 (4,020/100,000). This
+incidence is higher than that reported by Wheeler et al. in
+England (3,300/100,000 inhabitants) [4]. Furthermore, it is
+almost five times higher than the incidence reported by de
+Wit et al. in The Netherlands (800/100,000) [7]. It is
+possible that the guidelines of the Dutch College of General
+Practitioners (NHG)—which state that patients with an
+uncomplicated case of AGE can be dealt with by phone
+consultation (http://nhg.artsennet.nl)—may dissuade
+patients from seeking medical assistance and, thus, explain
+the low incidence of AGE found in The Netherlands.
+Slightly different case definitions between the studies may
+be another explanation for the varying incidences.
+The incidence of AGE reported in this study proves it to
+be a major public health burden and suggests that AGE
+may have important cost implications for the healthcare
+system. Information about the magnitude of the public
+health burden of AGE is urgently needed in Germany.
+Tam et al. [30] described risk factors associated with
+presentation to a GP in patients with infectious intestinal
+diseases. They suggest how these risk factors may introduce
+selection bias when performing a case–control study using
+
+viral pathogen
+
+bacterial pathogen no proof of pathogen
+
+Fig. 1 Monthly distribution of pathogens
+
+1
+
+
+
+940
+
+Eur J Clin Microbiol Infect Dis (2009) 28:935–943
+
+Table 5 Self-reported symptoms of patients
+Self-reported symptoms
+
+Norovirus
+(n=168)
+
+Rotavirus
+(n=61)
+
+Astrovirus
+(n=26)
+
+Adenovirus
+(n=25)
+
+Salmonella
+(n=21)
+
+Campylobacter
+spp. (n=13)
+
+%
+
+%
+
+%
+
+%
+
+%
+
+Watery stool
+Loose stool
+Bloody stool
+Abdominal pain
+Loss of body weight
+
+75.4
+43.7
+0.7
+37.7
+37.7
+
+65.6
+54.6
+0
+32.8
+41.9
+
+47.0
+42.7
+0
+51.3
+51.3
+
+42.1
+38.3
+3.8
+30.7
+88.1
+
+Fever
+Fatigue
+Vomiting
+
+15.2
+25.2
+60.8
+Median
+5
+
+36.4
+21.9
+56.5
+Median
+5
+
+8.5
+17.0
+34.2
+Median
+8
+
+1–10
+
+2–5; 7–10
+
+2; 3; 5–7
+
+Max. no. of bowel
+evacuations per 24 h
+Additional symptomsa
+
+%
+
+Yersinia
+enterocolitica
+(n=9)
+%
+
+S. aureus
+(n=28)
+%
+
+68.8
+31.7
+5.3
+10.6
+5.3
+
+63.4
+17.1
+8.5
+17.1
+59.8
+
+37.0
+61.7
+12.3
+49.4
+12.3
+
+55.6
+61.7
+18.5
+55.6
+30.9
+
+7.7
+3.8
+30.7
+Median
+6
+
+26.5
+0
+31.8
+Median
+14.5
+
+42.7
+8.5
+17.1
+Median
+11
+
+61.7
+24.7
+0
+Median
+6
+
+24.7
+18.5
+37.0
+Median
+6
+
+3; 10
+
+2
+
+none
+
+1–3
+
+1–3; 6; 8
+
+a
+
+Additional symptoms: 1=arthralgia, 2=headache, 3=nausea, 4=vertigo, 5=dorsalgia, 6=heartburn, 7=meteorism, 8=fever chills, 9=limb pain,
+10=lack of appetite
+
+Table 6 Factors associated with a higher risk for acquiring AGE based on multiple logistic regression (P-value, OR)
+Age (years)
+
+Rural
+area
+
+<5
+
+5–15
+
+>59
+
+0.02
+1.6
+n.s.
+
+0.009
+0.6
+n.s.
+n.s.
+
+Astrovirus
+
+<0.001
+4.4
+n.s.
+
+0.01
+0.7
+0.03
+1.6
+n.s.
+
+n.s.
+
+n.s.
+
+Campylobacter spp.
+
+n.s.
+
+n.s.
+
+Salmonella
+
+<0.001
+8.8
+n.s.
+
+0.03
+4.2
+<0.001
+16.3
+0.01
+
+Diarrhea
+Norovirus
+Rotavirus
+
+Enterotoxin geneencoding S.
+aureus
+
+n.s.
+n.s.
+0.04
+1.8
+n.s.
+
+n.s.
+
+0.02
+4.9
+n.s.
+
+n.s.
+
+n.s.
+
+Contact within the last ten days
+
+Consumption of …
+within the last ten
+days
+
+With persons
+with diarrhea
+
+With
+animals
+
+With
+cattle
+
+Poultry
+
+Other
+foods
+
+<0.001
+1.9
+<0.001
+2.7
+0.01
+2.1
+0.04
+2.3
+n.s.
+
+n.s.
+
+n.s.
+
+0.03
+0.7
+n.s.
+
+n.s.
+
+0.04
+1.3
+n.s.
+
+<0.001
+5.2
+n.s.
+
+0.01
+1.8
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+n.s.
+
+0.006*
+3.2
+<0.001**
+11.4
+<0.001***
+7.8
+n.s.
+
+Journey abroad
+within the last two
+months
+
+n.s.
+n.s.
+n.s.
+
+2.8
+The following variables were tested but not determined as significantly associated with the risk of infectious gastroenteritis due to any of the tested
+agents: gender, pets in the household, contact with poultry within the last ten days, contact with other domestic animals within the last ten days,
+consumption of unpasteurized milk within the last ten days
+n.s.: not significant
+*Fish, beef, pork, milk products, vegetables, fruit
+**Milk products, beef, vegetables, fruit
+***Eggs, egg products, milk
+
+
+
+Eur J Clin Microbiol Infect Dis (2009) 28:935–943
+
+this sub-set of patients only. GP presentation is associated
+with biological factors, such as disease severity, and social
+factors, such as educational level [30]. Some patients may
+not have seen a physician in spite of severe AGE, and some
+patients may have seen a physician in the presence of mild
+AGE. Wheeler et al. described that the ratio of community
+incidence to GP presentation incidence differs depending on
+the pathogen. Patients infected by Salmonella spp. were
+more likely to present to their GP than patients infected by
+rota- or norovirus [4]. Therefore, it is likely that the relative
+frequency of pathogens in patients may differ from the
+relative frequency of pathogens in the community.
+Viral and bacterial pathogens were identified in about
+one third of the specimens. The proportion of positive
+samples is in agreement with the findings of Sinclair et al.
+and de Wit et al. [7, 8, 31]. There are several factors which
+might explain why no causative agent was detected in the
+remaining specimens. Organisms may have escaped detection due to the low numbers present in specimens, the delay
+between the onset of symptoms and collection of specimens, transport loss due to overgrowth by physiological
+stool flora, or better laboratory assays. In some cases,
+patients may have been infected by enteropathogens that
+were not included in the diagnostic scope—for instance, by
+parasites or rare viruses. Finally, diarrhea may occur as a
+symptom in non-infectious illnesses, although the majority
+of which were excluded by the study design. Further
+research is urgently needed to refine the methods used for
+the efficient detection of known causative agents of AGE
+and to discover as yet unknown pathogens.
+Viral pathogens were detected more frequently than
+bacterial pathogens. This finding was independent from
+age, suggesting that viruses are the leading cause of AGE in
+all age groups. This finding suggests that it is not
+appropriate to perform diagnostic procedures on apparently
+sporadic cases of AGE for bacterial pathogens only. Of
+note, 34 stool specimens were tested positive for two or
+more viral and/or bacterial pathogens. Based on the clinical
+information available, it was not possible to determine if
+one of the pathogens or a combination were responsible for
+the diarrheal symptoms.
+Rotavirus infections occurred significantly more often in
+children aged five years or younger than in adults, while
+norovirus infections occurred significantly more often in
+people aged 60 years or older. These findings are most
+likely explained by the fact that primary infection with
+rotavirus confers protective immunity against symptomatic
+rotavirus infection, with subsequent infections later in life
+remaining asymptomatic or associated with milder symptoms [32]. Knowledge on immunity to norovirus is
+incomplete [33, 34]. No vaccines against norovirus are
+available yet, while two vaccines against rotavirus are
+currently licensed in Europe [35–37]. Introducing a safe
+
+941
+
+and effective vaccine against rotavirus will most likely
+reduce the morbidity and mortality of AGE considerably,
+especially in young children.
+A pathogen was detected in 48 samples from controls. In
+these cases, viral pathogens were found more frequently
+than bacterial pathogens. After an episode of AGE, patients
+may continue to excrete the pathogen for variable periods.
+Patients may even be asymptomatic shedders without
+previous disease [20, 21]. de Wit et al. described asymptomatic carriers of rotavirus, norovirus, adenovirus, and
+astrovirus in healthy controls [7]. This can have epidemiological importance due to their capacity to act as a source
+of infection, which is especially relevant for viral pathogens
+with high tenacity, low infective dose, and predominant
+person-to-person transmission. Asymptomatic shedders
+may be important vectors of these viruses into healthcare
+institutions, where the burden of outbreaks has risen over
+recent years [38].
+In this study, close contact with persons who experienced diarrhea within the previous ten days was an
+important risk factor for acquiring viral AGE. This suggests
+that many cases were not sporadic but were part of
+outbreaks. For AGE, due to Salmonella and Campylobacter
+spp. a significant risk factor was the consumption of certain
+foods implicated by the patients.
+Incidences of AGE caused by various viral and bacterial
+pathogens found in this study were 2.5–10 times higher
+than incidences based on reported cases within the German
+surveillance system (http://www.rki.de). The reported incidence of norovirus in 2004 was 77.1/100,000 inhabitants
+compared with 626/100,000 inhabitants in this study.
+Findings for rotavirus (45.5 versus 270/100,000 inhabitants) and Salmonella (68.7 versus 162/100,000 inhabitants) confirmed the systematic underreporting in the
+surveillance system. Reasons for this are summarized in
+the concept of the AGE disease pyramid: only a fraction of
+community cases of AGE seek medical care and only a
+fraction of those will be requested to or will submit a stool
+sample for testing. Furthermore, only a fraction of stool
+samples will be tested positive for a causative agent, as has
+been reported in other countries with national surveillance
+systems [4, 10, 30, 39].
+In conclusion, this population-based study on the
+incidence of community-acquired AGE showed a high
+disease burden and a marked underreporting of the disease
+and demonstrated a significant predominance of viral AGE
+throughout the year. This study leads the way for investigations to assess the full extent of AGE. Additional
+studies on the disease burden should follow.
+Acknowledgments Dr. C. Karsten is a resident in pediatrics at the
+Children’s Hospital Prof. Hess, Bremen, Germany. Her research
+interests include infectious diseases and public health.
+
+
+
+942
+This study is supported by the Federal Ministry of Education and
+Research (Research Fund 01KI0205).
+No author has any conflict of interest.
+Aspects of this study have been presented at the 25th Annual
+Meeting of the European Society of Pediatric Infectious Diseases,
+Porto, Portugal, May 2007.
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any
+medium, provided the original author(s) and source are credited.
+
+References
+1. O’Ryan M, Prado V, Pickering LK (2005) A millennium update
+on pediatric diarrheal illness in the developing world. Semin
+Pediatr Infect Dis 16:125–136. doi:10.1053/j.spid.2005.12.008
+2. Parashar UD, Bresee JS, Glass RI (2003) The global burden of
+diarrhoeal disease in children. Bull World Health Organ 81:236
+3. Lugauer S, Überall MA, Schmitt-Grohé S et al (2000) Inzidenz
+und Symptomatik von hospitalisierten Gastroenteritiden in einer
+Kohorte von 10.271 Säuglingen und Kleinkindern. Monatsschr
+Kinderheilkd 148:119–122. doi:10.1007/s001120050021
+4. Wheeler JG, Sethi D, Cowden JM et al (1999) Study of infectious
+intestinal disease in England: rates in the community, presenting to
+general practice, and reported to national surveillance. The Infectious
+Intestinal Disease Study Executive. BMJ 318:1046–1050
+5. van den Brandhof WE, De Wit GA, de Wit MA et al (2004) Costs
+of gastroenteritis in The Netherlands. Epidemiol Infect 132:211–
+221. doi:10.1017/S0950268803001559
+6. Roberts JA, Cumberland P, Sockett PN et al (2003) The study of
+infectious intestinal disease in England: socio-economic impact.
+Epidemiol Infect 130:1–11. doi:10.1017/S0950268802007690
+7. de Wit MA, Koopmans MP, Kortbeek LM et al (2001)
+Gastroenteritis in sentinel general practices, The Netherlands.
+Emerg Infect Dis 7:82–91
+8. de Wit MA, Koopmans MP, Kortbeek LM et al (2001) Sensor, a
+population-based cohort study on gastroenteritis in the Netherlands: incidence and etiology. Am J Epidemiol 154:666–674.
+doi:10.1093/aje/154.7.666
+9. Tompkins DS, Hudson MJ, Smith HR et al (1999) A study of
+infectious intestinal disease in England: microbiological findings
+in cases and controls. Commun Dis Public Health 2:108–113
+10. Scallan E, Fitzgerald M, Collins C et al (2004) Acute gastroenteritis in northern Ireland and the Republic of Ireland: a telephone
+survey. Commun Dis Public Health 7(1):61–67
+11. Kuusi M, Aavitsland P, Gondrosen B et al (2003) Incidence of
+gastroenteritis in Norway—a population-based survey. Epidemiol
+Infect 131(1):591–597. doi:10.1017/S0950268803008744
+12. Gauci C, Gilles H, O’Brien S et al (2007) The magnitude and
+distribution of infectious intestinal disease in Malta: a populationbased study. Epidemiol Infect 135(8):1282–1289
+13. Ehlken B, Laubereau B, Karmaus W et al (2002) Prospective
+population-based study on rotavirus disease in Germany. Acta
+Paediatr 91:769–775. doi:10.1080/08035250213227
+14. van Damme P, Giaquinto C, Huet F et al (2007) Multicenter
+prospective study of the burden of rotavirus acute gastroenteritis
+in Europe, 2004–2005: the REVEAL study. J Infect Dis 195
+(Suppl 1):4–16. doi:10.1086/516714
+15. Ethelberg S, Olsen KE, Gerner-Smidt P et al (2004) Household
+outbreaks among culture-confirmed cases of bacterial gastrointestinal disease. Am J Epidemiol 159:406–412. doi:10.1093/aje/
+kwh049
+
+Eur J Clin Microbiol Infect Dis (2009) 28:935–943
+16. van Pelt W, de Wit MA, Wannet WJ et al (2003) Laboratory
+surveillance of bacterial gastroenteric pathogens in The Netherlands, 1991–2001. Epidemiol Infect 130:431–441
+17. Lopman BA, Reacher M, Gallimore C et al (2003) A summertime
+peak of “winter vomiting disease”: surveillance of noroviruses in
+England and Wales, 1995 to 2002. BMC Public Health 3:13.
+doi:10.1186/1471-2458-3-13
+18. Lopman B, Vennema H, Kohli E et al (2004) Increase in viral
+gastroenteritis outbreaks in Europe and epidemic spread of new
+norovirus variant. Lancet 363:682–688. doi:10.1016/S0140-6736
+(04)15641-9
+19. van Duynhoven YT, de Jager CM, Kortbeek LM et al (2005) A
+one-year intensified study of outbreaks of gastroenteritis in The
+Netherlands. Epidemiol Infect 133:9–21. doi:10.1017/
+S0950268804002936
+20. Moore JE, Corcoran D, Dooley JS et al (2005) Campylobacter.
+Vet Res 36:351–382. doi:10.1051/vetres:2005012
+21. Amieva MR (2005) Important bacterial gastrointestinal pathogens
+in children: a pathogenesis perspective. Pediatr Clin North Am
+52:749–777. doi:10.1016/j.pcl.2005.03.002
+22. Huppertz H-I, Busch D, Schmidt H et al (1996) Diarrhea in young
+children associated with Escherichia coli non-O157 organisms
+that produce Shiga-like toxin. J Pediatr 128:341–346.
+doi:10.1016/S0022-3476(96)70278-0
+23. Becker K, Friedrich AW, Lubritz G et al (2003) Prevalence of
+genes encoding pyrogenic toxin superantigens and exfoliative
+toxins among strains of Staphylococcus aureus isolated from
+blood and nasal specimens. J Clin Microbiol 41:1434–1439.
+doi:10.1128/JCM.41.4.1434-1439.2003
+24. Becker K, Roth R, Peters G (1998) Rapid and specific detection of
+toxigenic Staphylococcus aureus: use of two multiplex PCR
+enzyme immunoassays for amplification and hybridization of
+staphylococcal enterotoxin genes, exfoliative toxin genes, and
+toxic shock syndrome toxin 1 gene. J Clin Microbiol 36(9):2548–
+2553
+25. Endtz HP, Ruijs GJ, Zwinderman AH et al (1991) Comparison of
+six media, including a semisolid agar, for the isolation of various
+Campylobacter species from stool specimens. J Clin Microbiol
+29:1007–1010
+26. Nataro JP, Kaper JB (1998) Diarrheagenic Escherichia coli. Clin
+Microbiol Rev 11:142–201
+27. Huppertz HI, Rutkowski S, Aleksic S et al (1997) Acute and
+chronic diarrhoea and abdominal colic associated with enteroaggregative Escherichia coli in young children living in western
+Europe. Lancet 349:1660–1662. doi:10.1016/S0140-6736(96)
+12485-5
+28. Friedrich AW, Bielaszewska M, Zhang WL et al (2002)
+Escherichia coli harboring Shiga toxin 2 gene variants: frequency
+and association with clinical symptoms. J Infect Dis 185:74–84.
+doi:10.1086/338115
+29. Oh DY, Gaedicke G, Schreier E (2003) Viral agents of acute
+gastroenteritis in German children: prevalence and molecular
+diversity. J Med Virol 71:82–93. doi:10.1002/jmv.10449
+30. Tam CC, Rodrigues LC, O’Brien SJ (2003) The study of
+infectious intestinal disease in England: what risk factors for
+presentation to general practice tell us about potential for selection
+bias in case-control studies of reported cases of diarrhoea. Int J
+Epidemiol 32:99–105. doi:10.1093/ije/dyg007
+31. Sinclair MI, Hellard ME, Wolfe R et al (2005) Pathogens causing
+community gastroenteritis in Australia. J Gastroenterol Hepatol
+20:1685–1690. doi:10.1111/j.1440-1746.2005.04047.x
+32. Anderson EJ, Weber SG (2004) Rotavirus infection in adults.
+Lancet Infect Dis 4:91–99. doi:10.1016/S1473-3099(04)00928-4
+33. Wyatt RG, Dolin R, Blacklow NR et al (1974) Comparison of
+three agents of acute infectious nonbacterial gastroenteritis by
+cross-challenge in volunteers. J Infect Dis 129:709–714
+
+
+
+Eur J Clin Microbiol Infect Dis (2009) 28:935–943
+34. Parrino TA, Schreiber DS, Trier JS et al (1977) Clinical immunity
+in acute gastroenteritis caused by Norwalk agent. N Engl J Med
+297:86–89
+35. De Vos B, Vesikari T, Linhares AC et al (2004) A rotavirus vaccine for
+prophylaxis of infants against rotavirus gastroenteritis. Pediatr Infect
+Dis J 23:S179–S182. doi:10.1097/01.inf.0000142370.16514.4a
+36. Dennehy PH (2005) Rotavirus vaccines: an update. Curr
+Opin Pediatr 17:88–92. doi:10.1097/01.mop.0000147907.
+30720.04
+
+943
+37. de Quadros CA, Santos JI (2004) Rotavirus: the search for the
+next generation vaccine. Pediatr Infect Dis J 23:S147–S148.
+doi:10.1097/01.inf.0000142520.93839.97
+38. Lopman BA, Reacher MH, Vipond IB et al (2004) Epidemiology
+and cost of nosocomial gastroenteritis, Avon, England, 2002–
+2003. Emerg Infect Dis 10:1827–1834
+39. Gauci C, Gilles H, O’Brien S et al (2007) General practitioners
+role in the notification of communicable diseases—study in Malta.
+Euro Surveill 12(11):E5–E6
+
+

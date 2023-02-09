@@ -1,0 +1,4765 @@
+REVIEW ATRICLE
+
+Microbial source tracking markers for detection of fecal
+contamination in environmental waters: relationships between
+pathogens and human health outcomes
+Valerie J. Harwood1, Christopher Staley1,2, Brian D. Badgley3, Kim Borges4 & Asja Korajkic5
+1
+Department of Integrative Biology, University of South Florida, Tampa, FL, USA; 2University of Minnesota BioTechnology Institute, St. Paul, MN,
+USA; 3Department of Crop and Soil Environmental Science, Virgina Tech, Blacksburg, VA, USA; 4University of Maine Fort Kent, Fort Kent, ME,
+USA; and 5National Exposure Research Laboratory, U.S. Environmental Protection Agency, Cincinnati, OH, USA
+
+Received 30 September 2012; revised 8 May
+2013; accepted 25 June 2013. Final version
+published online 7 August 2013.
+DOI: 10.1111/1574-6976.12031
+
+MICROBIOLOGY REVIEWS
+
+Editor: Colin Berry
+Keywords
+water quality; recreational water; MST; fecal
+indicator bacteria; qPCR; epidemiology.
+
+Abstract
+Microbial source tracking (MST) describes a suite of methods and an investigative strategy for determination of fecal pollution sources in environmental
+waters that rely on the association of certain fecal microorganisms with a particular host. MST is used to assess recreational water quality and associated
+human health risk, and total maximum daily load allocations. Many methods
+rely on signature molecules (markers) such as DNA sequences of host-associated microorganisms. Human sewage pollution is among the greatest concerns
+for human health due to (1) the known risk of exposure to human waste and
+(2) the public and regulatory will to reduce sewage pollution; however, methods to identify animal sources are receiving increasing attention as our understanding of zoonotic disease potential improves. Here, we review the
+performance of MST methods in initial reports and field studies, with particular emphasis on quantitative PCR (qPCR). Relationships among human-associated MST markers, fecal indicator bacteria, pathogens, and human health
+outcomes are presented along with recommendations for future research. An
+integrated understanding of the advantages and drawbacks of the many MST
+methods targeting human sources advanced over the past several decades will
+benefit managers, regulators, researchers, and other users of this rapidly growing area of environmental microbiology.
+
+Introduction
+Establishing the need for microbial source
+tracking (MST)
+
+Limitations of fecal indicator bacteria (FIB)
+Sewage contamination of water bodies poses a definite risk
+to human health via waterborne pathogens (Cabelli et al.,
+1982; Cheung et al., 1990; Wade et al., 2003). Monitoring
+for all waterborne pathogens in environmental waters is
+currently unrealistic due to the great diversity of pathogens that are known to be present in sewage (including
+viruses, bacteria, and protozoa), and the disparate methods required for concentrating and analyzing them, yet
+FEMS Microbiol Rev 38 (2014) 1–40
+
+monitoring for only one or a handful of pathogens may
+give a false impression of safety if pathogens other than
+those tested are present. Furthermore, many pathogens are
+difficult and costly to culture, are difficult to identify, and
+have patchy distributions or low concentrations in environmental waters (Field & Samadpour, 2007; Stoeckel &
+Harwood, 2007). For over a century, the approach to this
+problem has been to monitor for FIB, which have been
+selected due to low pathogenic potential, high levels in
+sewage and feces, and relationship to pathogen presence.
+The major FIB used worldwide include fecal coliforms,
+Escherichia coli, and enterococci (see (Leclerc et al., 2001;
+Tallon et al., 2005; Griffith et al., 2009) for reviews).
+The use of FIB as surrogates for human health risk is
+replete with assumptions, one of the most important of
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Correspondence: Valerie J. Harwood,
+Department of Integrative Biology, University
+of South Florida, 4202 E Fowler Ave SCA
+110, Tampa, FL 33620 USA.
+Tel.: (813) 974 1524; fax: (813) 974 3263;
+e-mail:vharwood@usf.edu
+
+
+
+2
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+MST and applications
+MST emerged at the end of the 20th century (Wiggins,
+1996; Parveen et al., 1997; Hagedorn et al., 1999; Bernhard & Field, 2000a; Harwood et al., 2000) as an attempt
+to determine the dominant sources of fecal contamination
+in environmental waters (Scott et al., 2005; Field & Samadpour, 2007; Stoeckel & Harwood, 2007; Harwood
+et al., 2009). The impetus for emergence of this research
+area derives from (1) the effort to determine the extent
+to which fecal source (e.g. human, dog, cattle) influences
+human health risk from contact with water and (2) the
+desire to attribute FIB loading in water bodies to the
+correct fecal sources. The basic premise of MST is that
+certain fecal microorganisms are strongly associated with
+particular hosts and that identified attributes of these
+host-associated microorganisms can be used as markers
+for fecal contamination from the host. The utility of two
+basic strategies have been tested (1) library-dependent
+analyses that required the collection and typing of many
+FIB isolates for some identifying attribute, including antibiotic resistance (Parveen et al., 1997; Harwood et al.,
+2000), carbon source utilization (Hagedorn et al., 1999),
+or genetic type (Parveen et al., 1999; Moore et al., 2005)
+and (2) library-independent analyses that target a particular feature of a specific bacterial species or type, for
+example, a variable region of the 16S rRNA gene of
+Bacteroidales (Bernhard & Field, 2000b).
+The number and range of potential host sources
+included in MST studies must be deliberately chosen to
+suit the water body and particular questions associated
+with it (Harwood & Stoeckel, 2011). In the case of
+library-dependent methods, known fecal sources sampled
+determine the host range of library-dependent methods,
+that is, one would isolate and type FIB from the feces of
+the animals judged most likely to contaminate the area.
+Library-independent methods must rely upon a separate
+analytical method for each host source to be investigated.
+The most broadly useful methods employ host-specific
+markers that can be applied in diverse geographic settings. These methods usually omit a culture step, and so
+they yield same-day results that can allow timely management decisions for applications such as beach closures
+(Wade et al., 2006; Field & Samadpour, 2007).
+MST applications are diverse, ranging from assessment
+of beach water quality (Brownell et al., 2007; Abdelzaher
+et al., 2010; Korajkic et al., 2011) to source allocations
+for total maximum daily load plans (Simpson et al., 2002;
+Arnone & Walling, 2007), the legal arena (Weidhaas
+et al., 2010; Teaf et al., 2011), and food safety (Santo
+Domingo & Sadowsky, 2007; Graves, 2011). Likewise, the
+host species implicated as potential pollution sources in
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+which is that FIB consistently covary with pathogen
+presence; however, FIB concentrations have not been
+well correlated with pathogens in many studies (Lund,
+1996; Bonadonna et al., 2002; Lemarchand & Lebaron,
+2003; Anderson et al., 2005; Harwood et al., 2005). This
+lack of correlation is generally attributed to the widely
+differing physiology and phylogeny of FIB and pathogens (comprised of bacteria, enteric viruses, and protozoans such as Cryptosporidium spp. and Giardia spp.).
+Furthermore, many epidemiology studies have failed to
+find a correlation between human health outcomes and
+FIB levels, particularly when the pollution is not from a
+known point source such as a wastewater treatment
+plant (WWTP) (Prieto et al., 2001; Dwight et al., 2004;
+Colford et al., 2007). The disconnect can be attributed,
+at least in part, to the fact that E. coli, enterococci, and
+other FIB are shed in the feces of many different animals (Harwood et al., 1999; Souza et al., 1999; Leclerc
+et al., 2001). Due to sometimes limited cohort sizes and
+FIB levels, some epidemiological studies simply lack the
+sensitivity to determine significant relationships between
+health risk and FIB concentration (McBride et al., 1993;
+Boehm & Soller, 2012). Many waterborne pathogens,
+particularly viruses, infect only humans. Much of the
+waterborne disease burden in developed countries is
+attributed to viral infections (Hopkins et al., 1984;
+Bosch et al., 1991; Reynolds et al., 2008); therefore,
+human sewage contamination is considered very risky
+(Bosch, 1998; Lodder et al., 1999; Field & Samadpour,
+2007). Elevated FIB concentrations resulting from input
+from comingled sources where human sewage is a minimal factor, such as stormwater, generally have relatively
+lower human health risks than sewage-impacted waters
+(Ferguson et al., 1996; Wade et al., 2008). The FIB paradigm does not allow one to determine or account for
+differential human health risk from various fecal
+sources, as most animals shed these bacteria in their
+feces.
+Added to the issue of differential risk from various
+contamination sources is the capability of naturalized or
+environmentally adapted strains of FIB to persist in many
+habitats, including terrestrial soils, aquatic sediments, and
+aquatic vegetation (Byappanahalli & Fujioka, 1998; SoloGabriele et al., 2000; Byappanahalli et al., 2003; Topp
+et al., 2003; Whitman et al., 2003; Jeng et al., 2005; Ishii
+et al., 2006; Ksoll et al., 2007; Badgley et al., 2011). FIB
+persistence, and possibly growth, in these environmental
+habitats widens the disconnect between FIB and pathogens. Furthermore, the near-ubiquitous distribution of
+FIB among host species prohibits the identification of
+sources of contamination, which in turn interferes with
+remediation of polluted waters.
+
+V.J. Harwood et al.
+
+
+
+Molecular methods for fecal source determination
+
+Performance criteria for method validation
+
+Throughout this review, the terminology used will be consistent with that in Stoeckel and Harwood (Stoeckel & Harwood, 2007). The validation of MST markers (see Fig. 1) is
+accomplished by assessing certain performance criteria,
+including sensitivity and specificity (Bernhard & Field,
+2000b; Scott et al., 2005; McQuaig et al., 2006; Ufnar et al.,
+2006; Stoeckel & Harwood, 2007). Sensitivity refers to the
+proportion of known positive samples (e.g. positive controls) that are correctly identified as positive (true-positive
+rate). Sensitivity of a method may be influenced by physical
+or chemical properties of the matrix or sample type (e.g.
+particulate matter, inhibitors such as humic acids)
+(Haugland et al., 2005; Siefring et al., 2008); therefore, the
+intrinsic sensitivity of a method (distribution of the marker
+in the population) is most accurately assessed in a neutral
+matrix, that is, by adding feces or sewage to a buffer solution (Harwood et al., 2009). Sensitivity should also be measured in a variety of water types found in the study region
+in order to determine whether the method is subject to
+inhibition from constituents of the water (Harwood et al.,
+2011). Because sensitivity may vary due to geographic
+variability of the distribution of the marker in the human
+FEMS Microbiol Rev 38 (2014) 1–40
+
+population, sensitivity is often determined across a geographic range, and should always be verified in a new geographic region (Bernhard & Field, 2000b; Scott et al., 2005;
+McQuaig et al., 2006; Ufnar et al., 2006; Stoeckel &
+Harwood, 2007; Harwood et al., 2009).
+The limit of detection (LOD) is a quantitative or semiquantitative expression of the lowest amount of target
+that can be detected. A useful MST method must not
+only be sensitive to low target numbers in the analytical
+stage, but it must also have a target that is at high
+enough levels in feces or waste so that it can be diluted
+and still be detected (Stoeckel & Harwood, 2007;
+Harwood & Stoeckel, 2011). LOD of the analytical stage
+is frequently calculated as the minimum number of gene
+copies as per PCR that can be reliably detected (Bernhard
+& Field, 2000b; McQuaig et al., 2006, 2009; Kildare et al.,
+2007; Kirs & Smith, 2007; Okabe et al., 2007; Reischer
+et al., 2007; Wolf et al., 2008); however, this method has
+little relevance to the performance of the method in the
+field. It can also be calculated as the amount of source
+material (typically sewage or feces) required to reliably
+obtain a positive result (Seurinck et al., 2005; Betancourt
+& Fujioka, 2006; Layton et al., 2006; McQuaig et al.,
+2006; Harwood et al., 2009), or as the maximum dilution
+factor at which the target can be reliably detected
+(Harwood et al., 2009), both of which provide better
+insight into the methods’ potential for performance in
+the field. Similarly, the limit of quantification (LOQ) is
+fewest gene copies or the least amount of fecal material
+that can be accurately quantified, which is frequently an
+order of magnitude greater (less sensitive) than the LOD.
+The literature is confusing with respect to the methodological limits, as some are expressed as per assay (how
+little can be in the tube and still be detected or quantified), while others are expressed as protocol limits of
+detection, which include loss through processing steps.
+Another issue is the fact that some markers, like the 16S
+rRNA gene, are present in multiple copies as per genome,
+while others are single-copy genes. These differences must
+be taken into account when converting from gene copies
+to genome equivalents; the latter is the most direct comparison to the number of microorganisms present. Yet
+another potential point of confusion is how quantitative
+results are normalized, that is, one may express results as
+gene copies (or genome equivalents) per ng DNA, or one
+may normalize to a more familiar unit in environmental
+microbiology such as gene copies in 100 mL water. Normalizing the results from fecal matter is also an issue; in
+some instances, LOD or LOQ is normalized to ng DNA,
+to dry weight of feces, to wet weight of feces, or to
+dilution factor. Clearly, some agreement among MST
+researchers is needed on this issue to be able to compare
+method performance.
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+various water bodies range from human (Bernhard &
+Field, 2000b; McQuaig et al., 2006) to agricultural
+animals (Bernhard & Field, 2000b; Shanks et al., 2008;
+Weidhaas et al., 2010) to pets (Kildare et al., 2007) and
+wild animals such as gulls (Sinigalliano et al., 2010; Lu
+et al., 2011). Many MST publications have focused solely
+or in part on human source contamination, as this issue
+tends to be the greatest concern for managers and regulators, resulting in a confusing proliferation of MST methods for markers designed to detect human waste.
+This review focuses on library-independent methods
+for human source contamination and includes a brief
+overview of methods for identifying fecal contamination
+from other animals. The review emphasizes qPCR methods with the rationale that the movement in the research
+area is toward these quantitative methods; the consequences of which are that (1) the more promising endpoint PCR methods have been adapted as qPCR methods
+and (2) much of the new method development in the last
+several years has been for qPCR methods; however,
+important studies using end-point PCR are included. This
+review substantially expands the ground covered by others
+(Bernhard & Field, 2000b; Scott et al., 2005; McQuaig
+et al., 2006, 2009; Ufnar et al., 2006; Field & Samadpour,
+2007; Shanks et al., 2010a) by focusing on a critical
+review of the performance of the methods and the correlation between MST markers and pathogen detection or
+human health risk.
+
+3
+
+
+
+4
+
+V.J. Harwood et al.
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Fig. 1. Diagram of the process of developing and validating a new MST marker. Suggested sample size for Level 2 sensitivity testing is a
+minimum, based on the authors’ experience and values in the literature, and may be considerably larger depending upon the desired geographic
+coverage and confidence in method performance. aThe threshold for rejecting a candidate human-associated marker (HAM) HAM based on falsenegative (Level 1 sensitivity) or false-positive (Level 2 specifity) results also depends upon the desired confidence in the method; in practice, many
+methods with c. 90% specificity and even lower sensitivity have proven useful for MST.
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+
+
+5
+
+Molecular methods for fecal source determination
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+vides a visual overview of the phylotype/gene target of
+various methods for detection of human waste. The section ‘Further evaluation of methods’ describes studies that
+further test method performance, including comparative
+studies. Some of the studies included in this section
+incorporated substantial field validation, which is
+reported under ‘Selected Field Studies’ and captured for
+human-associated methods in Fig. 2. Note that in some
+cases, initial studies showed highly promising results for
+new methods, only to reveal important flaws with further
+testing (Further evaluation of methods). Throughout the
+Evaluation sections, correlations with FIB are noted when
+applicable. The penultimate section, ‘Correlation with
+pathogens and risks of waterborne illness’ focuses on correlation of MST marker detection with pathogens and/or
+human health risk, and the final section provides a brief
+synopsis of MST methods for animal fecal sources.
+
+Initial evaluation of methods
+Human-associated Bacteroidales
+
+One of the first library-independent methods developed
+for the detection of human fecal contamination was based
+on end-point PCR detection of the 16S rRNA gene of
+human-associated Bacteroidales (Bernhard & Field,
+2000b). Some detail is devoted to this method because it
+served as a precursor to many of the human-associated
+methods discussed below and in Table 1. The obligate
+anaerobic Bacteroides-Prevotella taxon was targeted due to
+high concentrations in feces and tendency to coevolve
+with the host (Bernhard & Field, 2000b). A forward primer targeting apparently human-specific members of the
+Bacteroidales was paired with a general reverse primer
+(Bac708R) targeting a much broader phylogenetic group.
+Two ‘human-specific’ forward primers HF134F and
+HF183F were designed, the most useful of which was
+HF183F due to its sensitivity and specificity. The HF183F
+PCR product was amplified by a second round of PCR to
+increase sensitivity, which was over 84% (n = 13) in
+human fecal samples and 100% (n = 3) in sewage. Specificity, determined by testing negative control fecal samples
+from domestic and wild animals (n = 46), was 100%.
+The LOD was 10 12 g DNA or 105 gene copies. Sewage
+could be detected at a concentration as low as
+1.4 9 10 6 g L 1 (dry weight/volume), which was one
+order of magnitude higher (less sensitive) than the LOD
+for fecal coliforms. This marker, which is frequently
+termed HF183 in the literature and whose sequence has
+been found in the 16S rRNA gene of the cultured Bacteroides dorei (Haugland et al., 2010), has since been used
+in many field tests. It has also been extensively compared
+with other human markers described below.
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Method specificity is defined as the proportion of fecal/
+waste samples from nontarget hosts (species other than
+those whose waste the method is designed to detect) that
+produce negative test results, or 1 minus the false-positive
+rate (Stoeckel & Harwood, 2007). Fecal and/or sewage
+samples are the reference material generally used for negative controls for specificity testing. No standards regarding the number of reference samples or host types used
+for specificity testing have been established, and a wide
+range of these parameters has been employed in various
+studies, (Bernhard & Field, 2000b; Scott et al., 2005;
+Ufnar et al., 2006; Stoeckel & Harwood, 2007; Griffith
+et al., 2009; Harwood et al., 2009; McQuaig et al., 2009;
+Mieszkin et al., 2009; Shanks et al., 2010a), thus the
+appropriate procedure for measuring this important criterion remains undefined. Certainly, analyzing as many
+nontarget fecal samples as possible for specificity is desirable, as it provides more confidence that limitations to
+method specificity are understood (Harwood & Stoeckel,
+2011). Some of the MST methods discussed below
+showed enviable specificity in initial testing; however,
+when more fecal samples were tested, the presence of the
+marker in other animal feces was determined.
+A recent trend has been to adapt end-point (presence/
+absence) PCR methods to the quantitative PCR (qPCR,
+also called real-time PCR) format, or to develop new
+qPCR methods (Dick & Field, 2004; Seurinck et al., 2005;
+Kildare et al., 2007; McQuaig et al., 2009). qPCR is rapid,
+does not require gel electrophoresis of PCR amplicons,
+and measures fluorescence with each PCR cycle to quantify the specific DNA sequence targeted by the method
+(Walker, 2002). If a probe is used in addition to primers,
+for example, TaqMan© chemistry, additional specificity
+can be gained. An important performance characteristic
+of qPCR is amplification efficiency, which is measured
+from the standard curve and estimates the multiplication
+factor of the DNA sequence with each qPCR cycle. Ideally, amplification efficiency is 1.0 (gene copies doubled
+with each round of qPCR, also expressed as 100%); however, this parameter may be affected by factors such as
+reagent concentrations, PCR cycling conditions, primer
+design, and amplicon size (Heid et al., 1996). Amplification efficiency (Ex) can be estimated from the slope of
+the standard curve by the equation Ex = (10 1/slope) 1
+(Deprez et al., 2002). We are unaware of any guidance on
+acceptable ranges for amplification efficiency; however,
+values closer to 1.0 indicate greater efficiency.
+The section entitled ‘Initial evaluation of methods’
+describes the performance characteristics observed in initial publications of methods for human-associated markers (HAM). Table 1 provides specifics on sensitivity,
+specificity, LOD, and LOQ, as well as a notation on
+whether a field study was performed, while Fig. 2 pro-
+
+
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+16S rRNA gene
+BacH
+
+16S rRNA gene
+HumanBac1
+
+16S rRNA gene
+BacHum-UCD
+
+Reischer
+et al. (2007)
+
+Okabe
+et al. (2007)
+
+Silkie &
+Nelson
+(2009)
+16S rRNA gene
+HF183
+BacHum-UCD
+HuBac
+BacH
+Human-Bac
+
+16S rRNA gene
+BacHum-UCD
+
+Kildare
+et al. (2007)
+
+Ahmed
+et al. (2009a)
+
+16S rRNA gene
+HuBac
+
+HF183
+
+16S rRNA gene
+
+Layton
+et al. (2006)
+
+Seurinck
+et al. (2005)
+
+Gene target
+
+TaqMan
+HuBac566f
+HuBac692r
+HuBac594Bhqf
+probe
+TaqMan
+BacHum-160f
+BacHum-241r
+BacHum-193p
+probe
+TaqMan
+BacH_f
+BacH_r
+BacH_pC
+probe
+BacH_pT
+probe
+TaqMan
+qHS601f
+qBac725r
+qHS624MGB
+probe
+BacHum-160f
+BacHum-241r
+BacHum-193p
+probe
+SYBR Green
+TaqMan
+
+SYBR Green
+HF183
+SSHBac-R
+
+All assays:
+100% (50)
+
+100% (12)
+
+100% (3)
+
+95% feces
+(21); 100%
+wastewater (20)
+
+67% feces
+(18); 100%
+SEW (14)
+
+100% (3)
+
+86% feces (7);
+100% SEW (4)
+
+Sensitivity* (n)
+
+HF183: 99%
+BacHum: 96%
+HuBac: 63%
+BacH: 94%
+Human-Bac:
+79%
+(146)
+
+70% (41)
+
+SEW, dog, cow,
+Hr, Canada
+geese (pooled
+samples)
+SEW; Feces:
+HUM, cow, pig,
+Hr, Sh, goat, Ch,
+dog, 2 bird,
+kangaroo
+
+SEW; Feces:
+HUM, cow,
+pig, Hr, Sh,
+goat, Ch, Tu,
+dog, cat, 3
+bird species,
+fox, 3 ruminants
+Feces: HUM,
+cow, pig
+
+> 99% (302)
+
+10% (10)
+
+SEW;
+Feces: HUM,
+cow, Hr, dog,
+cat, gull
+
+Feces: HUM,
+cow, pig,
+Hr, dog
+
+SEW; Feces:
+HUM, cow,
+Hr, dog, Ch
+
+97% (41)
+
+68% (18)
+
+95% (19)
+
+Specificity† (n)
+
+Reference
+sample
+types
+
+Copies:
+HF183: 1
+BacHum: 1
+HuBac: 7
+BacH: 5
+Human-Bac: 3
+
+ND
+
+4.3 copies
+
+6 copies
+
+3.5 copies**
+
+ND
+
+No
+
+No
+
+Yes
+
+4.3–4.3 9 105
+copies
+
+ND
+
+Yes
+
+Yes
+
+30–107 copies
+
+30 copies
+
+Yes
+
+No
+
+102–107
+copies lL 1
+(feces); 4.7
+9 105 copies
+L 1 (freshwater)
+ND¶
+
+≥ 1 ng wet
+feces L 1 in
+freshwater
+
+0.3 mg
+feces L 1
+
+Field
+testing
+
+Limit or range of
+quantification§
+
+Limit of
+detection‡
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Bacteroidales
+
+Citation
+
+Primers and
+probes
+
+Table 1. Performance of studies employing qPCR methods for the detection of human-associated MST markers
+
+6
+V.J. Harwood et al.
+
+
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+TaqMan
+HF183
+BuniF2
+BfragF1
+BvulgF1
+PcopriF1
+BsteriF1
+BthetaF2
+BFDrev
+BFDFAM
+probe
+HF183
+TaqMan
+HuBac
+HumM2F
+HumM3F
+HF183-1
+BuniF2AB
+BfragilF1
+BvulgF1AB
+PcopriF1CDE
+BsteriF1DE
+BthetaF2B
+BthetR1
+BthetP1 probe
+
+16S rRNA gene
+
+16S rRNA gene
+BacHuman
+
+16S rRNA gene
+HF183
+BuniF2
+BfragF1
+BvulgF1
+PcopriF1
+BsteriF1
+BthetaF2
+
+16S rRNA gene
+16S rRNA gene
+HuBac
+HumM2
+HumM3
+HF183
+BuniF2
+BfragF1
+BvulgF1
+PcopriF1
+BsteriF1
+BthetaF2
+
+Jenkins
+et al .(2009)
+
+Lee
+et al. (2010)
+
+Haugland
+et al. (2010)
+
+Ahmed
+et al. (2010)
+Shanks
+et al. (2010a)
+
+TaqMan
+BacHuman-F
+BacHuman-R
+BacHum-TP
+probe
+
+TaqMan
+BacHum-UCD
+HF183
+
+Gene target
+
+Citation
+
+Primers and
+probes
+
+SEW (54);
+HUM (16)
+100%
+100%
+100%
+100%
+100%
+98.7%
+100%
+100%
+100%
+100%
+
+87% (15)
+
+All assays: 100%
+(1 feces composite,
+14 SEW)
+
+BacHum-UCD:
+25% human
+feces (12),
+0% SEW (5)
+HF183: 58.3%
+feces (12),
+80% SEW (5)
+100% (16)
+
+Sensitivity* (n)
+
+(22 composite)††
+22.7
+90.9
+95.5
+90.9
+81.8
+72.7
+72.7
+77.3
+90.9
+31.8
+
+93% (30)
+
+81.5% (54);
+1.9% of true
+positives if
+quantified
+relative to
+Bact spp.
+marker
+60%
+60%
+60%
+40%
+20%
+60%
+20%
+(5 nonhuman
+feces composites)
+
+Both assays:
+100% (25)
+
+Specificity† (n)
+
+HUM, cow, dog,
+cat, Ch
+SEW; Feces: HUM
+cow, pig, Sh,
+goat, Ch, Tu,
+dog, cat, 4 bird,
+5 ruminant,
+3 marine
+mammals
+
+SEW; Feces
+composites:
+HUM, cow, pig,
+Ch, dog, cat
+
+SEW; Feces: cow,
+pig, Hr, dog,
+cat, deer, goose,
+gull, racoon
+
+SEW;
+Feces: HUM cow,
+donkey
+
+Reference
+sample
+types
+
+No
+
+10–4 9 104
+10–1 9 106
+10–1 9 106
+10 to 4 9 104
+10–4 9 104
+10–4 9 104
+10–4 9 104
+10–4 9 104
+10–4 9 104
+10–4 9 104
+ND
+
+No
+
+10–1 9 104
+copies
+
+Yes
+
+Yes
+
+to 107 copies
+
+ND
+
+Yes
+
+Field
+testing
+
+ND
+
+Limit or range of
+quantification§
+
+ND
+
+ND
+
+6.5 copies
+
+ND
+
+Limit of
+detection‡
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Table 1. Continued
+
+Molecular methods for fecal source determination
+
+7
+
+
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Replicase and
+coat protein
+
+Viral genome
+
+Wolf
+et al. (2010)
+
+nifH
+
+Enterococcal
+surface
+protein
+(esp-1)
+
+Kirs &
+Smith (2007)
+
+Johnston
+et al. (2010)
+
+Methanobrevibacter
+smithii
+
+F+ RNA Coliphages
+
+Ahmed
+et al. (2008)
+
+Enterococcus
+
+B. fragilis gyrB
+
+Lee &
+Lee (2010)
+
+16S rRNA gene
+
+Hypothetical
+protein HumM2
+Putative RNA
+polymerase sigma
+factor HumM3
+
+Shanks
+et al. (2009)
+
+Gourmelon
+et al. (2010b)
+
+B. thetaiotomicron
+a-mannanase
+B. theta a
+
+Yampara-Iquise
+et al. (2008)
+
+Bifidobacterium
+
+Gene target
+
+Citation
+
+TaqMan
+Mnif 202F
+Mnif 353R
+Mnif probe
+Molecular
+Beacon
+Subgroup I-IV
+F, R, and
+beacons
+TaqMan
+VTB4-Fph
+GI-GIV primer/
+probe series
+
+TaqMan
+BtH-F
+BtH-R
+BtH-P probe
+TaqMan
+Hum2F
+Hum2R
+HumM2P probe
+Hum3F
+Hum3R
+HumM3P probe
+TaqMan
+Bf904F
+Bf958R
+Bf923MGB
+probe
+Human-Bac1
+TaqMan
+W257F
+W255R
+W256P probe
+SYBR Green
+EspF
+Esp-p2
+
+Primers and
+probes
+
+ND
+
+100% (16)
+
+67% septic (12);
+100% SEW (30)
+
+90% feces (10);
+100% WWTP
+effluent (8)
+
+Both assays
+100% (10)
+
+Both assays:
+100%, (16
+feces, 20 SEW)
+
+100% feces (10);
+100% SEW (20)
+
+Sensitivity* (n)
+
+100% (23)
+methanogens;
+50% (4) bird
+guano
+ND
+
+100% (155)
+
+94.5% (73)
+
+gyrB: 97% (30)
+Human-Bac
+1: 57%
+
+HumM2: 99.2%
+HumM3:
+97.2% (265)
+
+100% (160)
+
+Specificity† (n)
+
+SEW; Feces: HUM
+cow, pig, Sh,
+deer, 3 bird
+
+SEW, Ch
+
+WWTP effluent;
+Feces: cow, pig,
+Hr, Sh, Ch,
+wild bird
+SEW; Feces: cow,
+pig, Hr, Sh, goat,
+Ch, dog, deer,
+duck, pelican,
+wild bird,
+kangaroo
+
+Feces: HUM cow,
+pig, dog
+
+SEW; Feces: HUM
+cow, pig, Hr, Sh,
+Ch, Tu, 7
+ruminant, dog,
+cat, 4 bird, sea
+lion, dolphin
+
+SEW; Feces: HUM,
+cow, pig, Hr, Ch,
+Tu, dog, goose
+
+Reference
+sample
+types
+
+Yes
+
+to 107 copies
+
+ND
+
+ND
+
+< 10 copies
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+103 copies
+per 100 mL
+
+5 genome
+equivalents
+
+No
+
+Yes
+
+10–1 9 106
+copies
+
+ND
+
+Yes
+
+Field
+testing
+
+ND
+
+Limit or range of
+quantification§
+
+10 copies;
+50 copies
+multiplex
+
+2.5 genome
+equivalents
+
+10 copies
+
+ND
+
+110 CFU per
+reaction
+
+ND
+
+9.3 copies
+
+Limit of
+detection‡
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Table 1. Continued
+
+8
+V.J. Harwood et al.
+
+
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Rosario
+et al. (2009)
+
+McQuaig
+et al. (2009)
+
+Albinana-Gimenez
+et al. (2009)
+
+Wolf
+et al. (2010)
+
+Polyomaviruses
+JC and BK
+
+Polyomavirus JC
+
+Pathogenic
+Viruses
+
+Citation
+
+7% (15)
+20% (5)
+60% (5)
+
+VTB-2:
+HAdV-C
+AtAdV
+PAdV-5
+
+VTB-4:
+F+ RNA
+bacteriophage
+genogroups
+
+VTB-3:
+Norovirus GI
+Norovirus GII
+Norovirus GIII
+
+60% (5)§§
+50% (4)
+0% (15)
+
+Viral genomes
+
+40% (15)
+50% (20)
+75% (4)
+GI 9% (56)
+GII 0% (15)
+GIII 0% (15)
+GIV 9% (56)
+
+ND
+
+TaqMan
+JE3F
+JE3R
+JE3P
+VTB-1‡‡:
+PAdV-3
+OAdV
+HAdV-F
+
+T antigen
+
+100% septic (14);
+100% SEW (41);
+23% urine (26)
+
+100% SEW (12
+raw, 12 treated)
+
+TaqMan
+SM2
+P6
+KGJ3 probe
+
+TaqMan
+PMMV-FP
+PMMV-RP
+PMMV-Probe
+
+Sensitivity* (n)
+
+T antigen
+
+Viral genome
+
+Gene target
+
+Primers and
+probes
+
+GI 93% (15)
+GII 87.5% (56)
+GIII 100% (56)
+GIV 100% (15)
+
+100% (56)
+100% (51)
+100% (67)
+
+100% (66)
+100% (66)
+
+100% (56)
+100% (67)
+100% (56)
+100% (56)
+
+ND
+
+100% (117) feces;
+100% (10) urine
+
+90% pooled (20)
+92% indidual (24)
+
+Specificity† (n)
+
+Feces: HUM, Pig,
+Sh, deer, cow,
+Canada goose,
+black swan,
+duck
+
+SEW; Feces: Ch,
+cow, dog, Hr,
+gull, sheep, pig,
+feral pig, coyote,
+raccoon; Intestine:
+Ch, Tu
+SEW; Feces: cow,
+pig, Hr, Ch, dog,
+cat, deer, 4 bird,
+fox, raccoon;
+Urine: dog, cat
+viral particles,
+river water
+
+Reference
+sample
+types
+
+10 copies
+
+ND
+
+ND
+
+ND
+
+ND
+
+ND
+
+102 copies
+
+10 copies
+
+Limit or range of
+quantification§
+
+Limit of
+detection‡
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Pepper Mild
+Mottle Virus
+
+Table 1. Continued
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Field
+testing
+
+Molecular methods for fecal source determination
+
+9
+
+
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+NADH
+dehydrogenase
+subunit 5
+(ND5)
+
+Cytochrome b
+(mtCytb)
+
+Schill & Mathes
+(2008)
+
+Gene target
+
+Caldwell
+et al. (2007)
+
+Citation
+TaqMan
+Human
+forward
+Human
+reverse
+Human probe
+SYBR Green
+Human
+forward
+Human
+reverse
+Human probe
+
+Primers and
+probes
+
+100% (2 feces,
+10 SEW)
+
+100% feces (16);
+60% wastewater
+(5)
+
+Sensitivity* (n)
+
+100% (18)
+
+100% (≥ 16)
+
+Specificity† (n)
+
+SEW; Feces: HUM
+cow, pig, Hr, Sh,
+Ch, goose,
+dog, deer
+
+SEW; Feces: HUM
+Hr, Sh, goat, Ch,
+Tu, goose, dog,
+cat, tilapia
+
+Reference
+sample
+types
+
+1.8 mg feces/
+100 mL
+
+0.2 g feces/
+100 mL
+
+Limit of
+detection‡
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Field
+testing
+No
+
+No
+
+Limit or range of
+quantification§
+101–107 copies
+lL 1 (single);
+102–107
+copies lL 1
+(multiplex)
+101–108
+copies lL 1
+
+SEW, human sewage; HUM, human; Hr, horse; Ch, chicken; Tu, turkey; Sh, sheep.
+*Sensitivity is reported as the percentage of human waste samples returning positive results (true positives). Sample types are separated to reflect resulting variation in sensitivities.
+†
+Specificity is reported as the percentage of negative results for animal waste samples (true negatives).
+‡
+Limit of detection is reported as the lowest concentration or target copy number at which a positive result was obtained.
+§
+Where applicable, the range at which the assay was tested and returned results corresponding to the estimated known quantities of target. Single values indicate the lower limit of quantification.
+¶
+Validation statistic was not calculated.
+**’Copies’ designates gene copies/reaction
+††
+qPCR methods were tested for specificity against 22 composite fecal samples.
+‡‡
+All targets specified were amplified using unique forward and reverse primers and probes.
+§§
+Sensitivity and specificity were tested against individual target and nontarget fecal samples, respectively.
+
+Mitochondria
+
+Table 1. Continued
+
+10
+V.J. Harwood et al.
+
+
+
+11
+
+Molecular methods for fecal source determination
+
+16
+
+12
+10
+8
+
+1–5 *
+1, 3
+
+6
+4
+2
+17 *
+
+18 *
+
+19 *
+
+21 *
+
+Ba
+ct
+er
+oi
+Bi
+da
+fid
+le
+s
+ob
+ac
+te
+M
+riu
+et
+En
+ha
+m
+no
+te
+ro
+br
+c
+ev
+oc
+ib
+cu
+ac
+s
+te
+rs
+Fm
+RN
+Pe
+ith
+pp
+A
+ii
+er
+c
+ol
+M
+ip
+ild
+ha
+M
+ge
+ot
+tle
+V
+iru
+s
+
+16 *
+
+22 *
+
+24
+23
+
+Fig. 2. Meta-analysis showing the number of different existing assays
+for human-associated MST markers by target species and gene, as
+well as whether the assays have been used in field studies (*) or are
+correlated with pathogen presence (▲). Stacked bars represent
+different gene targets. 1–11 represents Bacteroidales 16S rRNA gene
+targets (HF183, HuBac, BacHum-UCD, BacH, HumanBacI, BuniF2,
+BfragF1, BvulgF1, PcopriF1, BsteriF1, and BthetaF2), 12–15 denotes
+Bacteroidales non-16S rRNA gene targets (HumM2, HumM3, B. theta
+a-1,6-mannanase, gyrB), 16- Bifidobacterium 16S rRNA gene,
+17- Enterococcus faecium esp, 18- Methanobrevibacter smithii nifH,
+19- F-RNA coliphage genome, 20- F-RNA replicase coat protein,
+21- Pepper mild mottle virus genome, 22- Human polyomavirus
+t antigen, 23- mitochondrial NADH dehydrogenase subunit 5, and
+24- mitochondrial cytochrome b.
+
+Methods targeting the 16S rRNA gene of
+Bacteroidales
+Many qPCR methods targeting the 16S rRNA gene of
+human-associated Bacteroidales have been developed
+(Seurinck et al., 2005; Layton et al., 2006; Kildare et al.,
+2007; Okabe et al., 2007; Reischer et al., 2007; Lee et al.,
+2010; Shanks et al., 2010a) (Figs 2 and 3). Several of
+these primers overlap in the short 600-bp region targeted
+by most assays, and most of the primers and probes
+described show 100% identity to portions of the 16S
+rRNA gene of B. dorei (Fig. 3). In this review, we will
+refer to methods that target this sequence and closely
+related ones as ‘human-associated Bacteroides.’ Less closely related or well-defined groups will be referred to by
+the designation of the Order Bacteroidales. Differences in
+sensitivity or specificity among assays may result from the
+location of primers and probes at positions that are
+heterogeneous among other members of this genus.
+The characteristics and performance of these methods
+FEMS Microbiol Rev 38 (2014) 1–40
+
+are summarized in Table 1, including performance
+measurements of sensitivity, specificity, LOD, and LOQ.
+Seurinck et al. developed a qPCR method based on
+SYBR Green chemistry using the HF183 primer and a
+new reverse primer that specifically targeted the humanassociated sequence (Seurinck et al., 2005). The authors
+did not name the new reverse primer; here, we designate
+it SSHBac-R. The method was highly sensitive and specific (Table 1); however, one false-positive result was generated by a chicken fecal sample. As is frequently the case
+with HAM, the distribution in individual fecal samples
+was not ubiquitous (6 of 7 samples positive). Table 1
+shows the LOD and LOQ of the qPCR method. Endpoint PCR using the same primer set was unexpectedly
+two orders of magnitude less sensitive than the qPCR
+method, that is, c. 107 vs. 105 gene copies L 1, respectively.
+Another method targeting human-associated Bacteroides proved to be less specific. A TaqMan© qPCR method
+(designated HuBac) showed 100% sensitivity for human
+fecal samples (Layton et al., 2006), but specificity was
+only 68% when tested against domestic animal fecal samples, showing cross-reactivity with all species (Table 1).
+Further studies of the performance of this marker (see
+‘Further evaluation of methods’) have confirmed the
+imperfect specificity of this method.
+The TaqMan qPCR method designated BacHum-UCD
+(Kildare et al., 2007) was much more specific than the HuBac method (Table 1). Although its sensitivity toward
+human fecal samples was imperfect at 67%, it was 100%
+sensitive to raw sewage samples. This work also compared
+the new BacHum-UCD method with existing qPCR methods, finding that the LOQ for the SYBR Green HF183
+qPCR method described above (Seurinck et al., 2005) was
+about 10-fold more sensitive than BacHum-UCD (3 copies
+compared to 30). HF183 specificity was slightly inferior to
+that of BacHum-UCD, showing cross-reactivity to 25%
+and 14% of dog and cat fecal samples; however, HF183
+specificity among all samples tested was 95%. The low
+specificity of the HuBac TaqMan method (Layton et al.,
+2006) was also confirmed in this study (61%).
+Yet another method that targets the 16S rRNA gene of
+human-associated Bacteroides is BacH (Reischer et al.,
+2007). The sensitivity of the method was nearly 100%
+(Table 1) with a specificity of over 99% (one false-positive cat sample), and LOD and LOQ were comparable to
+other methods. Field testing was included in this study
+(see ‘Selected Field Studies’). The Human-Bac1 qPCR
+method (Okabe et al., 2007) showed 100% sensitivity
+toward a limited number of human fecal samples; specificity, however, was only 10%, although the marker concentration was several orders of magnitude less for
+animal samples compared with human samples.
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+0
+
+20
+1–11
+
+H
+Py
+M
+V
+ito
+ch
+on
+dr
+ia
+
+Number of assays
+
+14
+
+15
+14 *
+13 *
+12 *
+
+
+
+12
+
+V.J. Harwood et al.
+
+The BacHuman qPCR method targets similar 16S
+rRNA gene sequences (Lee et al., 2010). It was found to
+be 100% sensitive to sewage, but it was not tested on
+individual human fecal samples and was only 81.5% specific (Table 1). As an alternate measurement of specificity,
+Lee et al. determined the percentage of BacHuman copies
+relative to general Bacteroides marker (BacGeneral) copies
+in each fecal sample. In false-positive analyses, the relative
+quantity of the BacHuman target represented c. 1.8% of
+the general Bacteroides target detected in a fecal sample,
+while the relative proportion of BacHuman detections in
+human samples (true-positive analyses) was nearly 50
+times larger. Field testing showed weak correlation of
+total Bacteroidales with E. coli (Supporting Information,
+Table S1), and the BacHuman marker comprised a
+greater percentage of the overall Bacteroidales signal in a
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+stream contaminated with human sewage as opposed to a
+stream contaminated with cattle feces in which the BacHuman marker represented < 1% of the total Bacteroidales signal.
+The alternative approach chosen by Haugland, et al.
+(Haugland et al., 2010) relied on cultured members of
+the Bacteroidales rather than gene sequences from uncultured bacteria. This work developed several more TaqMan qPCR methods targeting the hypervariable V2
+region of the 16S rRNA gene (Haugland et al., 2010).
+The authors reasoned that methods targeting cultured
+species may be valuable in MST because calibration can
+then be accomplished using genomic DNA rather than a
+plasmid, and the qPCR results can then be compared
+against culture-dependent methods. Primer sets were
+developed to target six different Bacteroides species,
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Fig. 3. Alignment of primers and probes for assays targeting the 16S rRNA gene of human-associated Bacteroidales. Sequences were aligned to
+the partial 16S rRNA gene sequence of Bacteroides dorei (accession number AB242143). Forward primers are shown as blue arrows, reverse
+primers as green arrows, and TaqMan probes as red bars. Letters in parentheses cite the work in which the oligonucleotide was first published. A
+(Shanks et al., 2010a), B (Harwood et al., 2011), C (Converse et al., 2009), D (Seurinck et al., 2005), E (Haugland et al., 2010), F (Kildare et al.,
+2007), G (Lee et al., 2010), H (Layton et al., 2006), and I (Okabe et al., 2007). All primers and probes were 100% identical to the B. dorei
+sequence used for alignment except HuBac566f (95%), BacH_r (68%), and BFDFor (55%). Only the portion of the oligonucleotide sequence that
+is identical to that of B. dorei is shown in the figure in the case of nonidentical sequences.
+
+
+
+13
+
+Molecular methods for fecal source determination
+
+Other Bacteroidales gene targets
+Bacteroides genes other than 16S rRNA gene have been
+incorporated into MST methods, for example, a TaqMan
+qPCR assay targeting the single-copy a-1,6-mannanase
+gene of B. thetaiotaomicron (BT) (Yampara-Iquise et al.,
+2008). The sensitivity of the method was 100% among
+human fecal samples and sewage, and it was 100% specific against composite fecal samples from domestic animals and wildlife collected from across Missouri.
+Srinivasan et al. recently evaluated this marker relative to
+E. coli and enterococci levels by qPCR through wastewater and septage treatment (Srinivasan et al., 2011), finding
+that its removal through wastewater treatment was similar
+to that of E. coli and enterococci.
+Shanks et al. developed two TaqMan qPCR methods
+for the detection of human-associated Bacteroidales that
+targeted a hypothetical protein (HumM2) and a putative
+RNA polymerase sigma factor (HumM3) (Shanks et al.,
+2009). Both assays showed 100% sensitivity when tested
+against feces and wastewater sampled throughout the U.S.
+HumM2 had slightly higher specificity (99.2%, crossreacting with sheep and elk) compared to HumM3
+(97.2%, cross-reacting with chickens). Reactions included
+an internal amplification control to test for inhibition.
+The authors found that primary-treated wastewater effluent contained higher concentrations of the human markers than Enterococcus 16S rRNA genes.
+A different gene, gyrB of B. fragilis, was the target of a
+TaqMan qPCR (Lee & Lee, 2010). End-point PCR
+showed 100% sensitivity among human fecal samples
+with a specificity of 97% (false positive for one pig sample). The qPCR results showed levels of the marker in
+negative control fecal samples (cow, dog, and pig) that
+were c. 100-fold lower than levels in human feces. Comparison with the Human-Bac1 method (Okabe et al.,
+2007) again confirmed the low specificity of HumanBac1, as cross-reaction occurred in samples from 70% of
+FEMS Microbiol Rev 38 (2014) 1–40
+
+pigs, 40% of cows, and 30% of dogs for overall specificity
+of only 57%.
+Bifidobacterium
+
+Members of the genus Bifidobacterium are anaerobic,
+gram-positive rods that are abundant in intestinal microbial communities of humans and some animals (Bonjoch
+et al., 2004; King et al., 2007). Several end-point PCR
+methods targeting the 16S rRNA gene have been developed for use in human MST studies (Bonjoch et al.,
+2004; King et al., 2007; Lamendella et al., 2008), but subsequent research has demonstrated that B. adolescentis is
+not confined to the human gastrointestinal tract. An evaluation of end-point PCR methods targeting Bifidobacterium showed that a set of B. adolescentis primers amplified
+fecal DNA from cows, as well as from pigs, sheep, a
+chicken, a coyote, a deer, and an alpaca (Lamendella
+et al., 2008). Another study found that the same primers
+amplified DNA from cows, pigs, and a sheep (Dorai-Raj
+et al., 2009).
+A TaqMan qPCR assay targeting Bifidobacterium adolescentis (ADO) (Gourmelon et al., 2010b) showed high
+sensitivity in human fecal samples and WWTP effluent
+from France (Table 1). Specificity was nearly 95%,
+although some false positives were obtained from some
+cow and bird samples. A comparison of the B. adolescentis qPCR method to the Bacteroides HF183 qPCR assay
+(Seurinck et al., 2005) showed that HF183 was more specific (100%) than the B. adolescentis method and was not
+detected in the river samples with known fecal contamination from cattle. F+ RNA coliphage subgroups were
+also evaluated in this study, but the human-associated
+groups II and III were found in runoff contaminated with
+cow feces as well as in sewage, and animal-associated
+group I coliphages were found in effluent from both
+humans and nonhumans.
+Enterococcus faecium esp gene
+
+An end-point PCR method targeting the enterococcal surface protein (esp) gene of E. faecium was developed to
+identify human fecal contamination (Scott et al., 2005;
+Ahmed et al., 2008). This method utilized a culture step
+to increase target cell numbers. Although the method was
+97% sensitive and 100% specific in this study, other studies have detected some level of Ent. faecium esp in the
+feces of animals (Harada et al., 2004; Whitman et al.,
+2007; Layton et al., 2009).
+A SYBR green qPCR method targeting the esp gene
+that does not require a culture step was developed and
+tested in Australia (Ahmed et al., 2008). The method
+employed the previously utilized forward primer specific
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+including B. dorei and one Prevotella species. Forward
+primers were HF183, BsteriF1, BuniF2, BfragF1, BthetaF2,
+BvulgF1, and PcopriF1 markers. When the methods were
+tested using sewage and composited fecal samples from
+humans and domestic animals, all species markers were
+present in human waste in high abundance (3.17–4.3
+log10 copy number ng 1 total DNA). None of the markers were completely specific to humans, and the presence
+and abundance of each marker varied among different
+animals (Table 1). Performance of the HF183 marker was
+superior in that it was abundant in human feces, was
+detected in low quantity in chicken and dog feces (0.35
+and 0.36 log10 copy number per 1 ng total DNA, respectively), and was absent from cow, pig, and cat waste.
+
+
+
+14
+
+Methanobrevibacter smithii
+
+Methanobrevibacter smithii, a methanogenic archaeon specific to the human large intestine and vaginal tract, was
+found in 96% of 700 individual fecal specimens (Ufnar
+et al., 2006; Dridi et al., 2009). An end-point PCR
+method targeting the nifH gene was only 29% sensitive
+among individual human fecal samples but showed 93%
+sensitivity among sewage samples and 100% specificity
+(Ufnar et al., 2006). The prevalence of M. smithii by this
+method has been further compared against other HAM
+including human polyomaviruses (HPyVs) and human
+Bacteroides as well as the presence of adenovirus (see
+‘Further evaluation of methods’).
+A TaqMan qPCR method was subsequently developed
+that targets a shorter fragment of the nifH gene (Johnston
+et al., 2010) (Table 1). The method utilized a competitive
+internal control DNA fragment to detect and allow
+adjustment for PCR inhibition. The method was tested
+using 23 nontarget methanogenic species, all of which
+were negative. The qPCR method showed 100% sensitivity in blind-tested marine and freshwater samples containing known sewage or a sewage spike, and it was able
+to detect the marker at 100-fold lower concentrations
+than the end-point method; however, cross-reactivity with
+bird feces was observed (Table 1).
+A subsequent study conducted in Australia evaluated
+the host specificity and sensitivity of the nifH gene marker by testing it against fecal and wastewater samples
+from 11 animal species, including humans (n = 272)
+(Ahmed et al., 2012). The host specificity reported in this
+particular study was 96%, while sensitivity of the marker
+to human sewage was 81%. This study also tested prevalence of the marker in environmental water samples and
+found it to be relatively low compared with other markers tested (esp, HF183, HPyVs, and Adenoviruses). The
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+authors concluded that the nifH marker alone may not be
+sensitive enough to detect fecal pollution in environmental waters but that relatively high host-specificity merits
+its use in conjunction with other human markers.
+Lachnospiraceae
+
+Newton et al. developed a TaqMan qPCR assay targeting
+the V6 region of the 16S rRNA gene of members of the
+family Lachnospiraceae that are closely related to Blautia
+spp. (Lachno2) (Newton et al., 2011). This taxon is the
+second most abundant bacterial group in human fecal
+samples, making up 0.3–0.9% of the population in wastewater samples. Although no sensitivity or specificity testing was performed against sewage or feces, the
+concentration of the Lachno2 target was compared with
+HF183 by qPCR (Bernhard & Field, 2000b; Kildare et al.,
+2007), culturable E. coli and enterococci concentrations,
+enterococci concentrations enumerated by qPCR, and
+presence of adenovirus at sites in Milwaukee’s harbor. A
+strong correlation was observed between concentrations
+of Lachno2 and HF183 (r = 0.86) and Lachno2 and
+enterococci enumerated by qPCR (r = 0.91). Furthermore, logistic regression showed a strong correlation
+between human marker concentration (Lachno2 plus
+HF183) and the detection frequency of adenovirus, indicating a link between these markers and human pathogen
+presence.
+Escherichia coli
+
+Although E. coli has been used and studied extensively as
+an indicator bacterium, less success has been achieved
+using this organism for MST applications. Substantial
+efforts were made with earlier library-based techniques
+such as antibiotic resistance, ribotyping, or DNA fingerprinting (Dombek et al., 2000; Harwood et al., 2000;
+Carson et al., 2001; Stoeckel & Harwood, 2007), but we
+know of no library-independent assays in use that are
+based on host-specific E. coli markers. It is worth mentioning, though, that this may change in the near future,
+as molecular techniques provide increasing power to
+examine genetic differences in bacterial groups, and
+recent studies have shown promise in this regard. One
+study found evidence of a potentially human-specific
+strain of E. coli that belongs to the B2 clonal subgroup
+VIII with an O81 serotype (Clermont et al., 2008). This
+clone represented c. 4% of the E. coli isolates recovered
+from human fecal samples from four continents and was
+not identified from any animal fecal isolates in the study.
+More recently, full genome sequencing was used to identify several candidate genes that may be specific to E. coli
+strains of either environmental or enteric origin (Luo
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+to esp of Ent. faecium (Scott et al., 2005) and a reverse
+primer containing a sequence shared by Ent. faecium and
+Ent. faecalis (Hammerum & Jensen, 2002). Sensitivity was
+high, particularly in domestic sewage, while septic system
+samples, which represent a smaller population, were not
+as frequently positive (Table 1). Specificity was 100%
+when tested against twelve types of fecal samples from
+domestic animals and wildlife in Australia. Sewage dilutions were detectable at dilutions as great as 10 4, which
+corresponded to 48  7 CFU cultured enterococci, and
+esp gene concentrations were generally one to two orders
+of magnitude lower than cultured enterococci. However,
+a qPCR method targeting the Bacteroides HF183 marker
+(Bernhard et al., 2003; Seurinck et al., 2005) allowed
+detection of sewage at much greater dilutions (five orders
+of magnitude) than the Ent. faecium esp method.
+
+V.J. Harwood et al.
+
+
+
+15
+
+Molecular methods for fecal source determination
+
+et al., 2011). Further work must be carried out to determine the host specificity of these markers.
+F+ RNA coliphage genotyping
+
+Pepper mild mottle virus
+
+The plant pathogen pepper mild mottle virus (PMMoV)
+is an RNA virus that is a major component of the viral
+FEMS Microbiol Rev 38 (2014) 1–40
+
+HPyVs
+
+HPyVs are highly specific to humans with a high prevalence in human populations (Taguchi et al., 1982;
+McQuaig et al., 2009). The viruses are shed primarily in
+urine, but also in feces, and high titers have been
+reported in municipal sewage (Bofill-Mas et al., 2000;
+McQuaig, 2009). An end-point PCR method was developed for the detection of HPyVs (including BK virus and
+JC virus) in environmental waters (McQuaig et al., 2006).
+The method showed 100% sensitivity and specificity. The
+HPyVs method was adapted to a TaqMan qPCR assay
+following the modification of one of the original primers
+(McQuaig et al., 2009). The TaqMan qPCR method for
+HPyVs was evaluated against end-point PCR assays for
+human Bacteroides HF183 (Bernhard & Field, 2000b),
+M. smithii (Ufnar et al., 2006), and adenovirus (Pina
+et al., 1998). The HPyVs qPCR method was 100% specific
+(Table 1) when tested against fecal and urine samples.
+HPyVs were detected in 23% of human urine samples
+and in 100% of sewage and septic system samples. All
+other markers were also 100% sensitive in sewage but
+were less sensitive among septic samples. A qPCR assay
+that targets only polyomavirus JC has been developed;
+however, sensitivity and specificity were not tested for this
+method (Albinana-Gimenez et al., 2009).
+Pathogenic viruses
+
+qPCR assays targeting a variety of viral pathogens (e.g.
+adenovirus and norovirus) have also been explored as a
+means of determining sources of fecal contamination
+(Wolf et al., 2010); however, these pathogens are more
+commonly targeted as representatives of human health
+risk rather than source-specific markers (see ‘Correlation
+with Pathogens’). Four multiplex qPCRs were developed
+targeting norovirus, adenovirus, atadenovirus, and F+
+RNA bacteriophage to distinguish among human and animal sources (Table 1). Each assay was able to detect as
+few as 10 gene copies, and all assays were reported to
+show amplification of the specific viral target but not
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Genotyping of F+ (F-specific) RNA coliphages has been
+suggested as a possible tool for discriminating between
+human and animal sources of fecal contamination (Havelaar et al., 1990; Hsu et al., 1995; Stewart-Pullaro et al.,
+2006; Gourmelon et al., 2007; Kirs & Smith, 2007; Wolf
+et al., 2008). The differential host distribution of these
+coliphages was first demonstrated by serotyping (Havelaar
+et al., 1990). Among the four subtypes, groups II and III
+are more prevalent in human sewage, while groups I and
+IV are generally associated with animal feces (Hsu et al.,
+1995; Beekwilder et al., 1996; Stewart-Pullaro et al.,
+2006). A multiplex qPCR for simultaneously typing and
+quantifying F+ RNA coliphages was developed and compared to methods relying on culture of coliphages (Kirs
+& Smith, 2007) (Table 1). In seeded samples of sewage
+and chicken slurry, the percentage of each group of coliphage corresponded to the makeup of the sample.
+Another multiplex qPCR method was developed to
+detect and genotype F+ RNA coliphages in New Zealand
+(Wolf et al., 2008); however, no formal sensitivity or
+specificity testing was conducted. A subsequent study utilized modified primers and probe, and the method was
+used in a ‘viral toolbox’ approach that included multiplex
+qPCR assays for noroviruses, adenoviruses, and atadenovirus (Wolf et al., 2010). F+ RNA coliphages were rarely
+detected in human feces, but were much more prevalent
+in pig, deer, and cattle feces. In particular, the humanassociated group II F+ RNA coliphages were prevalent in
+pig and cattle feces (80% and 50%, respectively). Environmental samples including wastewater influent, shellfish, abbatoir (slaughterhouse) effluent, biosolids, and
+river water were analyzed. Although the human-associated
+groups II and III were the most prevalent and at the
+highest concentration in sewage influent samples, animalassociated group I coliphages were detected in 55% of
+sewage samples at c. 105 gene copies. Only groups II and
+III were detected in biosolids. Animal-associated, group
+IV F+ RNA coliphages were only found in sewage (18%
+of samples); however, abbatoir effluent contained only
+group I coliphages. The imperfect specificity of the F+
+RNA coliphage groups toward human or animal fecal
+waste merits host-associated, rather than host-specific
+designation for these markers.
+
+metagenome in human feces (Zhang et al., 2006; Rosario
+et al., 2009). The TaqMan qPCR method (Zhang et al.,
+2006) showed 100% sensitivity toward raw and treated
+wastewater collected across the U.S. (Table 1); however,
+specificity was around 70% due to cross-reactivity with
+chicken and gull feces or intestinal homogenates (Rosario
+et al., 2009). This virus shows great persistence through
+wastewater treatment, although it does decay in environmental waters, with a half-life of about 1.5 days in seawater. PMMoV may therefore be useful as a conservative
+tracer of sewage contamination.
+
+
+
+16
+
+Human mitochondrial DNA (mtDNA)
+
+The first ‘fecal source tracking’ method based on a
+eukaryotic genetic marker was the end-point PCR assay
+targeting the human mitochondrial NADH dehydrogenase
+subunit (Martellini et al., 2005). mtDNA was proposed as
+a marker based upon the premise that it should be abundant in feces (Caldwell et al., 2007). The PCR method
+was initially developed in both single and multiplex formats with primers specific to humans, cows, sheep, and
+pigs. Sensitivity and specificity were not explicitly
+reported; however, the human mtDNA marker was
+detected in human feces, treated wastewater, and ultraviolet disinfected effluent, but not in swinery effluent.
+Human, cattle, and pig markers were detected in sewage.
+Several groups have adapted human mtDNA PCR
+methods to qPCR formats (Table 1) (Caldwell et al.,
+2007; Schill & Mathes, 2008; Caldwell & Levine, 2009). A
+multiplex qPCR method targeting the mitochondrial
+NADH dehydrogenase subunit 5 (ND5) gene from
+humans, cattle, and pigs was developed (Caldwell et al.,
+2007). Amplification efficiency for the human marker was
+92% for a single qPCR and 107% for the triplex reaction.
+The multiplex assay detected human mtDNA from individual human fecal samples and sewage samples with
+100% and 60% sensitivity, respectively. Specificity of the
+human marker was 100% when tested against cow
+(n = 4) and pig (n = 3) farm samples and also 100%
+against an unreported number of fecal samples from nine
+other animals. Due to some false-negative results in samples from mixed sources, the authors noted that adequate
+DNA concentration was clearly a concern for detecting
+mtDNA markers. Some false-positive results for the cattle
+marker were also noted when testing human feces, which
+the authors hypothesized could be caused by beef consumption. A later study by the same group confirmed the
+sensitivity of the human marker: it was detected in 100%
+of sewage samples from two WWTP by multiplex qPCR
+(Caldwell & Levine, 2009).
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+qPCR methods targeting the cytochrome b gene in
+mtDNA from humans and eight other vertebrates were
+developed (Schill & Mathes, 2008). Average amplification
+efficiency for all markers was 97.6%. The human mtDNA
+method detected individual human fecal samples and
+sewage samples with 100% sensitivity. Specificity of the
+human marker was 100% when tested against fecal samples from domestic animals and wildlife as well as cloned
+genes from other hosts. The authors also analyzed sewage
+samples by qPCR for the Bacteroidales microbial markers,
+that is, AllBac for general fecal contamination (Layton
+et al., 2006) and both HF183 (Seurinck et al., 2005) and
+BT (Carson et al., 2005) as HAM, finding all to be 100%
+sensitive. The LOD for the human mtDNA marker was
+reported as 1.8 mg human feces per 100 mL, which is
+more than 100 times lower than the LOD for the multiplex qPCR method (Caldwell & Levine, 2009). The more
+extensive DNA extraction and concentration method of
+Schill et al. may account for this variation (Schill &
+Mathes, 2008). Although no field testing was performed
+in this study, sixteen freshwater surface samples and
+groundwater samples were used to test for matrix interference, and no matrix inhibition was detected.
+
+Further evaluation of methods
+Many studies have confirmed the high sensitivity and
+limited specificity of HF183 and related Bacteroides-like
+markers, such as the previously mentioned study by Kildare et al. (Kildare et al., 2007). In Canada, the HF183
+method was 100% specific and 87% sensitive against
+effluent from a local wastewater treatment facility (Edge
+et al., 2010). A study using the BacHum-UCD (Kildare
+et al., 2007) qPCR method confirmed the method’s utility, but also found some limited cross-reactivity with
+cow, dog, and horse fecal samples (Table 1) (Silkie &
+Nelson, 2009). Twenty-five percent of dog fecal samples
+and 20% of cat fecal samples were positive for the HF183
+marker by end-point PCR; however, qPCR was not performed in this study (McQuaig et al., 2009). The HF183
+qPCR method (Seurinck et al., 2005) was used in freshwater to quantify sewage contamination in urban lake in
+Dhaka, Bangladesh (Ahmed et al., 2010). Sensitivity of
+the marker was 87% and specificity was 93% (detected in
+one dog and one cat) against samples from cows, dogs,
+cats, and chickens.
+Comparative studies of human-associated
+Bacteroidales markers
+
+Several studies have compared PCR methods for humanassociated Bacteroidales markers. A comparison of qPCR
+assays using the HF183 and BacHum-UCD markers was
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+nontarget viruses. When tested against fecal samples from
+humans and animals, only host-specific viruses were
+amplified (e.g. only human-specific viruses were detected
+in human fecal samples). The assays were also tested
+against environmental samples as well as sewage influent
+and abattoir effluent, and while some animal viruses were
+detected in sewage and biosolid samples, human-specific
+viral targets were detected at higher concentrations. While
+the assays were shown to have a high level of sensitivity,
+variable rates of virus shedding, uncertain incidences of
+viral infection, and survival of viral particles in the environment impair the ability of these methods to accurately
+reflect source contributions to environmental waters.
+
+V.J. Harwood et al.
+
+
+
+17
+
+Molecular methods for fecal source determination
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+2006), and fish DNA amplified with a similar efficiency
+to human fecal DNA; however, it is important to note
+that the HuBac qPCR method is among the least specific
+of the human-associated Bacteroides methods.
+Single laboratory studies evaluating
+multiple HAM
+
+The performance of human-associated MST markers
+other than Bacteroidales has been compared in several
+studies. F+ RNA coliphage typing using oligonucleotide
+probes (Beekwilder et al., 1996) and species-specific Bacteroidales detection by end-point PCR were evaluated in
+environmental water samples, sewage, and fecal samples
+in France (Gourmelon et al., 2007). F+ RNA coliphages
+were detected in relatively few fecal samples (21%) and
+were therefore not tested for specificity, but were more
+frequently detected in the pig manure slurry (60%) and
+sewage (100%; groups II and III). Both the HF183 and
+HF134 markers for human-associated Bacteroidales (Bernhard & Field, 2000b) were highly sensitive and specific,
+although both cross-reacted with one chicken fecal sample. Fourteen of 28 environmental water samples contained no F+ coliphage, but all of them contained the
+general Bacteroidales marker (Bac 32F/708R) (Bernhard &
+Field, 2000a). Furthermore, the probability of detecting at
+least one human marker was significantly correlated with
+E. coli concentrations (P < 0.001), and the same was true
+of human-associated F+ coliphage groups II and III
+(P = 0.015).
+End-point PCR methods using the HPyVs marker,
+human-associated Bacteroides HF183 (Bernhard & Field,
+2000b) and the esp gene of Ent. faecium (Scott et al.,
+2005), were compared with concentrations of cultured
+FIB (E. coli, enterococci, Clostridium perfringens) as well
+as human pathogens [adenoviruses, enteroviruses, sapoviruses, and torque teno viruses (TTC)] in Australia (Ahmed et al., 2009b). Sensitivity and specificity for each
+method were determined using sewage samples and individual fecal samples from cattle, pigs, sheep, dogs, and
+ducks. All three methods showed 100% sensitivity to sewage samples. HF183 showed cross-reactivity with one dog
+sample and had a specificity of 98% while esp and HPyVs
+had specificities of 100%. The LOD was ten gene copies
+for esp and HPyVs, and one gene copy for HF183.
+These markers (HF183, esp, and HPyVs) were further
+validated against sewage that was serially diluted in several water types (Ahmed et al., 2009b). HF183 could be
+detected in freshwater, seawater, and distilled water in
+more dilute samples than culturable FIB (E. coli, enterococci, and C. perfringens), that is, at dilutions of 10 7 and
+10 8. The esp marker was detected in all waters at a 10 4
+dilution, corresponding to FIB concentrations of
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+performed on DNA extracts from fecal and environmental water samples from Kenya (Jenkins et al., 2009)
+(Table 1). While both methods were 100% specific to
+human sources, the BacHum-UCD (Kildare et al., 2007)
+method was less sensitive toward human fecal samples
+and sewage than the HF183 method. Five human-associated Bacteroides PCR methods [HF183 (Bernhard & Field,
+2000b), BacHum-UCD (Kildare et al., 2007), HuBac
+(Layton et al., 2006), BacH (Reischer et al., 2007), and
+Human-Bac (Okabe et al., 2007)], were tested against
+sewage and fecal samples in Australia (Ahmed et al.,
+2009a). All methods were 100% sensitive, but specificity
+ranged from 99% (HF183) to 63% for HuBac (Table 1).
+A comparison of assays for human-associated Bacteroidales evaluated the performance of ten qPCR methods
+and five end-point PCR methods against sewage and fecal
+samples from 22 different animal species (Shanks et al.,
+2010a). The end-point methods tested were for the
+HF183 and HF134 markers (Bernhard & Field, 2000b),
+BT (Carson et al., 2005), HumM19, and HumM22
+(Shanks et al., 2007). The qPCR methods targeted HuBac,
+HF183, BsteriF1, BuniF2, BfragF1, BthetaF2, BvulgF1,
+HumM2, HumM3, and PcopriF1 (Shanks et al., 2010a)
+(Table 1). HF183 and HumM19 markers showed the best
+performance among end-point methods, with 100% sensitivity toward sewage samples, more than 10% sensitivity
+at the lowest total DNA concentration, and 95% specificity. All methods had amplification efficiencies between
+89% and 99.5%, R2 values > 0.96, range of quantification
+(ROQ) of 10 to at least 4 9 104 gene copies, CT precision
+of < 3.0% mean coefficient of variation across the ROQ,
+and over 98% sensitivity toward sewage. However, only
+the HF183, HumM2, and BsteriF1 assays also showed
+> 99% sensitivity, high abundance in human waste, and
+high specificity toward nontarget hosts (91%). HuBac
+showed the greatest abundance in nonhuman waste samples and was detected in 77% of animal fecal samples.
+A comparative study by McLain, et al. of five humanassociated Bacteroidales PCR assays found cross-amplification with fish feces (McLain et al., 2009). End-point PCR
+assays for HuBac (Layton et al., 2006), BacHum-UCD
+(Kildare et al., 2007), BacH (Reischer et al., 2007), HF183
+(Seurinck et al., 2005), and HF134 (Bernhard & Field,
+2000b) were used to amplify fecal DNA from humans,
+Nile tilapia, channel catfish, rainbow trout, and Atlantic
+salmon. The HuBac method produced a PCR product
+with all four types of fish feces, the BacH method gave a
+positive result with all fish except Atlantic salmon, and
+the BacHum-UCD and HF183 methods generated PCR
+products only with rainbow trout. The HF134 method
+did not amplify DNA from any of the fish feces. Crossamplification of fish fecal DNA was further evaluated
+using the HuBac TaqMan qPCR method (Layton et al.,
+
+
+
+18
+
+Inter-laboratory comparisons
+
+Due to the paucity of data available on interlaboratory
+comparison of qPCR methods for MST, studies employing end-point PCR are included in this review. Where
+qPCR was used, it is specified in the text. A multilaboraª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+tory comparison was performed to evaluate the success of
+F+ coliphage typing (Hsu et al., 1995) as well as host-specific Bacteroides markers including the HF183 human
+marker (Bernhard & Field, 2000b) at determining the
+source of fecal contamination in blind samples spiked
+with fecal material (Field et al., 2003; Griffith et al.,
+2003). Methods targeting adenoviruses and enteroviruses
+(Noble et al., 2003) were also evaluated as well as several
+genotypic and phenotypic library-dependent methods
+(Harwood et al., 2003; Myoda et al., 2003). The HF183
+method correctly identified 100% of samples containing
+human fecal material, while the F+ coliphage method correctly identified only 10% of samples containing individual human feces but 90% of samples containing sewage
+spikes (Griffith et al., 2003). The enterovirus and adenovirus assays also suffered high false-negative rates for
+individual fecal samples, but were detected in 60% and
+40% of sewage-spiked samples, respectively.
+Human sewage and cow, poultry, and pig slaughterhouse effluent and farm samples were tested from Spain
+(n = 132), France (n = 3), Sweden (n = 2), the UK
+(n = 2), and Cyprus (n = 5) using six human-associated
+markers including HF134 and HF 183 (Bernhard & Field,
+2000b), esp (Scott et al., 2005), ADO and B. dentium
+(DEN) (Walters & Field, 2009), and human mtDNA (Humito) (Martellini et al., 2005; Balleste et al., 2010). None
+of the methods showed 100% sensitivity: ADO was most
+sensitive (96%), followed by Humito (84%), DEN (64%),
+HF183 (50%), HF134 (30%), and esp (4%). When an
+enrichment culture step was used for esp analysis [as
+specified in the original protocol of Scott, et al. (Scott
+et al., 2005)], sensitivity increased to 77%. The most specific assay was DEN (92%), followed by HF134 (81%),
+ADO (74%), HF183 (71%), Humito (41%), and esp (6%
+and 68% with enrichment). The fact that the HF183 marker showed lower sensitivity and specificity in this study
+compared to others described in this review reinforces the
+need to evaluate markers using both sewage and individual fecal samples from different geographic areas. Indeed,
+the original authors pointed out that HF183 has shown
+variable performance depending on geographic location.
+Three markers [HF183 (Bernhard & Field, 2000b),
+M. smithii (Ufnar et al., 2006), and HPyVs (McQuaig
+et al., 2006)] were evaluated using end-point PCR (Harwood et al., 2009). Each method was tested against more
+than 40 human fecal samples representing individual
+feces, sewage influent, and septic system samples as well
+as over 300 animal fecal samples (dogs, cats, cows, birds,
+and wild animals) collected from three geographic areas
+surrounding the Gulf of Mexico. All assays were 100%
+sensitive when tested against 53, 44, and 41 samples,
+respectively. The HPyVs method was the most specific
+(100%), followed by M. smithii at 98%, and HF183 at
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+102 CFU 9 100 mL 1 E. coli and 101 CFU 9 100 mL 1
+enterococci, while LOD for HPyVs was about 10-fold less
+sensitive. Human pathogenic viruses (enteroviruses, sapoviruses, TTV, and adenoviruses) were detected at dilutions as low as c. 10 4. The authors suggested that the
+use of pathogenic viruses (enterovirus, sapovirus, and
+TTV) as indicators of fecal pollution may be problematic
+in the field due to dilution in environmental waters that
+might limit the ability to detect these markers (Ahmed
+et al., 2009b).
+End-point PCR methods targeting presumably humanassociated Bacteroides spp. BT (Walters et al., 2007),
+B. vulgatus (BV) (Wang et al., 1994), HF183 (Bernhard &
+Field, 2000b), Bifidobacterium adolescentis (biADO) (Matsuki et al., 1998), and Bifidobacterium catenulatum/pseudocantenulatum (biCATg) (Matsuki et al., 1998)] were
+tested against human, ruminant, and nonruminant animals (horse, donkey, dog, chicken, goose, and pig fecal
+samples) in Ireland (Dorai-Raj et al., 2009). Sensitivity
+was evaluated against both individual human fecal samples and sewage. The BV assay showed the greatest sensitivity toward fecal samples (88%) compared with other
+assays [BT (65%), HF183 (12%), biADO (85%), and biCATg (46%)]. BV and both Bifidobacterium methods
+showed 100% sensitivity to sewage, while BT (39%) and
+HF183 (70%) did not perform as well. HF183 was 100%
+specific, while the performance of other methods was
+adequate, but not as strong (86% for BV, 84% for biADO, 87% for biCATg; BT not being tested).
+End-point PCR assays using human-associated Bacteroidales HF134 and HF183 (Bernhard & Field, 2000b), the
+esp gene of Ent. faecium (Scott et al., 2005), ADO and
+Bifidobacterium dentium (DEN) (Bonjoch et al., 2004),
+and human mtDNA (Humito) (Martellini et al., 2005), as
+well as animal-specific markers, were evaluated singly and
+in combination with their ability to distinguish between
+human and nonhuman fecal samples (Balleste et al.,
+2010). Human sewage and cow, poultry, and pig slaughterhouse effluent and farm samples were tested from
+Spain, France, Sweden, the UK, and Cyprus. Predictive
+models identified combinations of methods that showed
+improved source identification of fecal samples compared
+with individual markers. The best predictive model gave
+90.1% correct classification of fecal samples using five
+markers: ADO, DEN, HF134, Pomito, and Bomito (a pigand bovine-specific mtDNA marker, respectively).
+
+V.J. Harwood et al.
+
+
+
+Molecular methods for fecal source determination
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+ferent types of ambient water affected method sensitivity
+in some cases.
+A multilaboratory method evaluation study called the
+‘Source Identification Protocol Project’ (SIPP) was carried
+out in 2011 in which sample source was blinded to participating laboratories (Boehm et al., 2013). Results were
+published in a series of articles (Stewart et al., 2012; Harwood et al., 2013) that focused on various aspects of the
+study, with an overview article that captured the major
+findings of the study (Boehm et al., 2013). Forty-one
+MST methods were tested for performance criteria such
+as sensitivity, specificity, and LOD by 27 laboratories.
+Methods evaluated included those targeting human waste
+and that of a number of other host species or groups
+including cows, dogs, gulls, pigs, horse, and sheep. Participating laboratories chose the methods that each evaluated and used in-house protocols (i.e. they were not
+provided standard operating procedures). Each laboratory
+received 64 blind ‘challenge’ samples that contained either
+a single fecal source or mixture of two sources (1 : 10
+ratio by volume) suspended in artificial freshwater (Boehm et al., 2013). Some of the challenge samples were
+prepared as 10-fold more dilute suspensions to test
+method sensitivity. Dilutions of fecal material were chosen with the goal of creating challenge samples containing
+c. 2000 CFU 9 100 mL 1 enterococci; however, in practice, enterococci concentrations varied from 4.3 9 102 to
+1.7 9 106 CFU 9 100 mL 1. For most assays, laboratories received membrane filters through which 50 mL of
+each challenge sample had been passed. Specificity testing
+was carried out against human feces, septage and sewage,
+and animal fecal samples (cow, dog, deer, pig, chicken,
+pigeon, gull, horse, and goose). The results discussed in
+this review include assays (e.g. HF183, BacH, BacHum,
+BsteriF1, Btheta, gyrB, HumM2, nifH, BacCow, CowM2,
+CowM3, BacCan-UCD, Gull-2, and Pig-2-Bac) that have
+been described in earlier sections or in ‘Animal markers’.
+The data from the SIPP study were evaluated in both
+binary (i.e. all assays were treated as presence/absence)
+and quantitative format. All qPCR results were normalized to enterococci CFU, and the method was considered
+sensitive if it provided a median of 50 gene copies as per
+enterococci CFU (Boehm et al., 2013). Alternative normalization schemes (i.e. DNA mass or copy number of
+the general marker of fecal pollution, GenBac3) were also
+considered. A limited number of assays met the minimum specificity and sensitivity requirements of 80% that
+were arbitrarily set forth by the investigators. When data
+were treated in binary fashion, these assays included
+HF183 (end-point assay, SYBR Green), CowM2 and
+CowM3, BacCan-UCD, and Gull-2 (SYBR Green). When
+concentration of a given marker in target and nontarget
+hosts was considered, the number of assays meeting the
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+96%. Each method detected < 20 gene copies as per PCR.
+Sewage was spiked in environmental water and diluted to
+determine LOD in an environmental matrix. The HF183
+method could detect the target in dilutions as low as
+10 6, corresponding to 33 CFU 9 100 mL 1 enterococci.
+The M. smithii and HPyVs methods were generally two
+orders of magnitude less sensitive, losing their ability to
+detect the target at dilutions of 10 3–10 4.
+A comparative interlaboratory study was conducted by
+the Southern California Coastal Water Research Project
+(SCCWRP) using 17 methods to assess the presence of
+human fecal contamination in waters spiked with known
+concentrations of sewage or gull guano (Griffith et al.,
+2009). End-point PCR assays were performed for four
+human-associated targets including HF183 (Bernhard &
+Field, 2000b), esp (Scott et al., 2005), M. smithii (Ufnar
+et al., 2006), and HPyVs (McQuaig et al., 2006) while
+qPCR assays were performed for two human-associated
+Bacteroidales markers (Bernhard & Field, 2000b; Kildare
+et al., 2007), and human-associated M. smithii using previously published primers (Ufnar et al., 2006). Several
+human pathogenic viruses were also tested, including
+adenoviruses, enteroviruses, Hepatitis A, and noroviruses.
+Marker performance was evaluated in blind duplicate
+environmental water samples that included samples
+spiked with sewage, gull guano, or nothing (control).
+Sewage was diluted to give ranges from 50 to
+104 CFU 9 100 mL 1 for E. coli and enterococci, while
+gull guano was diluted to give average FIB concentrations between > 2 9 103 and > 2 9 105 CFU 9
+100 mL 1.
+Among the methods based on bacteria, the Ent. faecium esp assay (Scott et al., 2005) was highly sensitive
+and specific; however, this method requires a 24-h culture
+step that is not conducive to rapid target detection. PCR
+and qPCR methods targeting HF183 were adequately sensitive (90% and 65%, respectively) and 100% specific;
+however, the qPCR method of Kildare, et al. (Kildare
+et al., 2007) had a high false-positive rate. End-point
+PCR for M. smithii (Ufnar et al., 2006) had a high falsenegative rate (failed to identify sewage-spiked samples)
+while the qPCR method for this marker had a high falsepositive rate (produced positive results for unspiked control samples). The HPyVs end-point assay (McQuaig
+et al., 2006) was the most accurate among the human
+viral methods (65% sensitivity and 100% specificity).
+Reproducibility of results for duplicate samples was
+also assessed in the SCCWRP study. The end-point
+M. smithii method was 100% reproducible, and the
+HPyVs method was also highly reproducible (94%).
+Other methods, such as qPCR for M. smithii, were much
+less reproducible (67%). This study highlights the need to
+evaluate methods in different matrices, as spiking in dif-
+
+19
+
+
+
+20
+
+Survival and persistence studies
+
+The data on survival and persistence of various markers
+of human fecal contamination have been predominantly
+generated through mesocosm studies utilizing surface
+waters (freshwater and marine) inoculated with sewage,
+human feces, or pure cultures of organisms of interest
+(Kreader, 1998; Seurinck et al., 2005; Okabe et al., 2007;
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Bae & Wuertz, 2009; Walters & Field, 2009; Balleste et al.,
+2010; Dick et al., 2010; Green et al., 2011a, b; Sokolova
+et al., 2012). The majority of the existing literature has
+focused on MST methods targeting Bacteroidales and the
+effect of selected environmental parameters (e.g. sunlight
+exposure, temperature, salinity, protozoa predation) on
+their decay.
+One of the first such studies investigated persistence of
+the end-point PCR signal from Bacteroides distasonis at
+different temperatures and in the presence/absence of
+eukaryotic predators indigenous to Ohio River water
+(Kreader, 1998). Persistence in unfiltered river water was
+inversely related to temperature, where B. distasonis DNA
+was detectable for up to 14, 5, and 2 days at 4, 14, and
+24 °C, respectively (Kreader, 1998). Absence of eukaryotic
+predators extended persistence at 24 °C by at least a
+week, indicating that grazing by bacterivorous protozoa is
+also an important mechanism influencing survival
+(Kreader, 1998).
+Balleste, et al. investigated the effect of environmental
+parameters on survival of B. fragilis, BT, and environmental Bacteroides spp. via culture and molecular techniques (Balleste et al., 2010). The decay of culturable
+B. fragilis was strongly influenced by the combined effect
+of elevated temperatures and grazing predators, while culturable BT and environmental Bacteroides spp. were more
+affected by dissolved oxygen concentrations (Balleste
+et al., 2010). In general, culturable environmental strains
+persisted longer than either B. fragilis or BT, but less than
+culturable fecal coliforms and enterococci (Balleste et al.,
+2010). At elevated temperatures representative of summer,
+persistence of qPCR and culturable cells of both B. fragilis
+and BT was comparable; however, at lower, winter temperatures DNA persisted for significantly longer than the
+culturable subset of the population (Balleste et al., 2010).
+A strong effect of temperature was also noted by Seurinck, et al., who found that the HF183 marker persisted
+for up to 24 days at 4 and 12 °C and for up to 8 days at
+28 °C in fresh river water when measured by qPCR
+(Seurinck et al., 2005).
+The persistence of the qPCR signal of four different,
+feces-derived Bacteroides MST markers (total, human,
+cow and pig) was investigated at varying temperatures (4,
+10, 20, and 30 °C) and salinities (0, 10, 20, and 30 ppt)
+(Okabe et al., 2007). The response of different markers to
+changing conditions was similar; persistence was the longest at lower temperatures and higher salinities. This
+observation was attributed to the lack of or decreased
+activity of eukaryotic grazers under the less favorable conditions (Okabe et al., 2007). Decay of total and fecal coliforms in the same study differed considerably;
+concentrations of both groups of organisms remained largely unchanged for the first 4 days in the temperature
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+criteria was reduced to HF183 (TaqMan), BacH, and Pig2-Bac.
+When data were considered in binary fashion, reported
+sensitivity for the HF183 end-point assay was generally
+higher than 80%, with specificity ranging from 92 to
+100%. The SYBR Green version of the HF183 assay had
+even higher sensitivity (> 87%), but specificity was lower
+(> 85%; one of the participating laboratories detected the
+marker in all types of nontarget host feces) (Boehm et al.,
+2013). Other human-associated assays (BacHum, BsteriF1,
+HF183-TaqMan, Btheta, BacH, and HumM2) exhibited
+high sensitivities, but showed lower specificity (e.g. below
+80%). The gyrB marker met the specificity criteria, but
+had lower sensitivity (not detected in some sewage and
+septage samples) while nifH did not meet either criterion.
+Among the animal MST markers, CowM2, CowM3, Gull2
+(SYBR format), and BacCan, all had sensitivity and specificity in excess of 80%, while Pig-2-Bac showed sufficient
+sensitivity but inadequate specificity (cross-reacted with
+dog and human sources).
+When data were considered in a quantitative format,
+among HAM BacH, Btheta, gyrB, HF183 (TaqMan), and
+HumM2 showed 100% specificity, while BacHum,
+BsteriF1, HF183 (SYBR Green), and nifH cross-reacted
+with 7–19% of samples containing feces from nontarget
+hosts (Boehm et al., 2013). In addition, nifH, Btheta,
+gyrB, and HumM2 had imperfect sensitivity (i.e. < 80%),
+while BacH, BacHum, BsteriF1, and HF183 (SYBR Green
+and TaqMan) all passed sensitivity criteria. Overall, the
+only two HAM that met both specificity and sensitivity
+criteria were BacH and HF183 (TaqMan). Among animal
+MST markers, CowM2, CowM3, and Gull2 (both SYBR
+and TaqMan) failed to satisfy both sensitivity and specificity requirements. The BacCan assay was deemed sensitive, but it cross-reacted with samples from septage,
+goose, and cow feces. Pig-2-Bac was the only animal MST
+marker that satisfied both requirements. Alternative normalization schemes did not change specificity of the
+assays with the exception of BacCan, which passed the
+criteria when results were normalized to DNA mass (Boehm et al., 2013). While virus markers tended to be
+highly specific, they were not sensitive enough under the
+study conditions to detect fecal contamination in most
+samples (Harwood et al., 2013).
+
+V.J. Harwood et al.
+
+
+
+21
+
+Molecular methods for fecal source determination
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Comparisons between decay rates of Bacteroidales DNA
+(qPCR) and intact cells (assessed by binding of propidium monoazide) in marine waters indicate that sunlight
+exposure has a significant effect on persistence of cells
+(i.e. extended in dark compared to light-exposed treatments), but not on the persistence of DNA (Bae &
+Wuertz, 2009, 2012).
+The decay of qPCR signal for three Bacteroidales markers (AllBac, HF183 and BacHum) was investigated in
+freshwater mesocosms inoculated with sewage (Dick
+et al., 2010). The treatment variables in this particular
+study included exposure to artificial sunlight, temperature
+(15 and 25 °C), and predation. Reduced temperature and
+predation resulted in longer persistence of targets, while
+exposure to sunlight had no significant effect, which is
+consistent with findings from many other studies (Kreader,
+1998; Seurinck et al., 2005; Bae & Wuertz, 2009; Walters
+et al., 2009; Green et al., 2011a, b; Sokolova et al., 2012).
+In general, the AllBac marker persisted longer than other
+targets, indicating the presence of a persistent subpopulation (Dick et al., 2010).
+Other studies
+
+The persistence of the B. thetaiotaomicron a-1,6-mannanase marker (B. theta a) through wastewater and septage
+treatment (Yampara-Iquise et al., 2008) was compared to
+that of E. coli and enterococci (Srinivasan et al., 2011).
+BT cell equivalents were greater in sewage compared to
+E. coli or enterococci, and all microorganisms were found
+at similar levels in septage. All three microorganisms
+showed significant differences in concentrations before
+and after disinfection by chlorine (P < 0.05). However,
+cultivable E. coli and enterococci showed marked reduction after disinfection, while qPCR signals from all markers exhibited much lower declines in concentration. In
+sewage, regression analysis of pooled data from untreated
+and treated samples showed strong correlations between
+E. coli and B. theta a qPCR markers (r2 = 0.87), as well
+as between enterococci and B. theta a qPCR markers
+(r2 = 0.79). Similarly, septage samples showed strong correlations between B. theta a and E. coli (r2 = 0.91) and
+enterococci qPCR markers (r2 = 0.92).
+McQuaig, et al. tested persistence of several FIB (fecal
+coliforms, E. coli, and enterococci), human-associated
+MST markers (HPyV-qPCR, HF183, and M. smithii –
+end-point PCR) and pathogens (Adenoviruses-end-point
+PCR) over 28 days by incubating sewage at two temperatures (25 and 35 °C). Fecal coliforms, E. coli, and enterococci persisted at significantly higher concentrations at
+25 °C as compared to 35 °C, while HPyV concentrations
+showed no significant decrease at either temperature until
+day 21 (McQuaig et al., 2009). Adenovirus and M. smithii
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+trial experiments (Okabe et al., 2007). However, decay of
+total coliforms, but not fecal coliforms, was considerably
+enhanced at higher salinities indicating existence of a
+more resistant subpopulation (Okabe et al., 2007).
+Greater persistence in marine waters compared to freshwaters was noted for several Bacteroides markers (BsteriF1, BuniF2, GenBac3, HF183, HF134, and HumM2) by
+qPCR (Green et al., 2011a, b). Interestingly, the general
+fecal pollution marker (GenBac3) persisted longer than
+the host-associated fraction indicating differential decay
+profiles between the two groups (Green et al., 2011a, b).
+Decay of both culturable and qPCR signals of enterococci
+was assessed in the same study. While there was no
+appreciable difference in enterococci decay between the
+two methods, enterococci in general persisted longer than
+any Bacteroides qPCR signal (Green et al., 2011a, b).
+Walters et al., measured persistence of two human
+(HF183, HF 184) and two ruminant (CF128 and CF193)
+Bacteroidales markers by end-point PCR in freshwater
+mesocosms inoculated with fresh human or cattle feces
+and incubated at 13 °C (Walters & Field, 2009). In general, cow-associated markers persisted significantly longer
+than their human counterparts (Walters & Field, 2009).
+Exposure to light did not affect the decay of human-associated MST markers or CF193, but did increase the decay
+rate of CF128 (Walters & Field, 2009). Another study also
+found that sunlight exposure in freshwater matrices had
+no appreciable effect on decay of human- and ruminantassociated Bacteroides markers [BacH and BacR assessed
+by qPCR (Reischer et al., 2006, 2007)] (Sokolova et al.,
+2012).
+A similar experimental design was used to compare the
+effect of light exposure on BacUni-UCD, BacHum-UCD,
+BacCow-UCD, and BacCan-UCD (qPCR) markers and
+enterococci (culturable and qPCR) in seawater mesocosms (Bae & Wuertz, 2009). Decay rates of host-associated Bacteroidales markers were remarkably similar,
+irrespective of the marker type (i.e. target host species) or
+treatment conditions (i.e. sunlight exposed vs dark), while
+culturable enterococci decayed significantly more rapidly
+than the corresponding qPCR signal (Bae & Wuertz,
+2009). The general trend of similar persistence in light
+exposed and dark mesocosms was observed for other
+human-associated Bacteroides qPCR markers (Green
+et al., 2011a, b). Dissenting results were reported by
+Walters et al. (2009) who noted that the time required
+for 90% decrease in HF183 and BacHum qPCR marker
+concentrations was almost five times faster in lightexposed treatments compared to dark controls (Walters
+et al., 2009). Decay of enterococci (culturable and qPCR
+signal) was assessed in the same study; in general, culturable concentrations decreased significantly faster than
+the corresponding qPCR signal (Walters et al., 2009).
+
+
+
+22
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+to be the optimal sample volume, and the authors
+suggest that using larger volumes also concentrates PCR
+inhibitors, negating any benefit from larger sample volumes.
+
+Selected field studies
+Field studies were included in this section if they measured FIB levels or pathogens in conjunction with MST
+analysis by end-point PCR or qPCR. Studies that only
+include MST marker detection or quantification were
+omitted with the rationale that information about correlation with regulatory parameters and/or pathogens
+advances our understanding of the ultimate usefulness of
+MST much more than stand-alone measurements of MST
+markers.
+Human-associated Bacteroidales
+
+End-point PCR methods for human-associated Bacteroidales have been widely field tested in different matrices
+and in a variety of geographic regions, for example, endpoint PCR assays for Bacteroidales including the humanassociated HF134 marker and a general Bacteroidales marker (Bernhard & Field, 2000b) were employed in a study
+in British Columbia (Jokinen et al., 2010). Water samples
+were analyzed for fecal coliforms and the bacterial pathogens Salmonella, Campylobacter, and E. coli 0157:H7. The
+HF134 and general Bacteroidales targets were found at all
+four sites, although the general marker was more prevalent. Correlations between the HAM and the concentration of each pathogen were not evaluated; however, the
+frequency of Campylobacter detection was negatively correlated with the presence of the general Bacteroidales marker as well as with fecal coliform concentrations.
+Salmonella and E. coli 0157:H7 detection rates were more
+strongly correlated with fecal coliform levels than with
+detection of the general Bacteroidales marker.
+The human-associated Bacteroides marker HF183
+(Bernhard & Field, 2000b) was used in an end-point PCR
+assay to assess the presence of human fecal contamination
+in Lake Michigan (Bower et al., 2005). The marker was
+detected in all WWTP samples collected over a 9-month
+period from both urban and rural facilities, and the marker was detected in samples with E. coli concentrations
+ranging from 0.2 to 82 CFU 9 100 mL 1. The marker
+was detected in Lake Michigan up to 9 days following a
+combined sewer overflow and was consistently detected at
+sites impacted by a sanitary sewer overflow when E. coli
+concentrations were > 200 CFU 9 100 mL 1. Furthermore, the marker was detected during ten sampling
+events when E. coli concentrations were less than the regulatory level of 235 CFU 9 100 mL 1.
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+PCR signals were detected for the duration of the study
+at both temperatures, while the HF183 marker persisted
+for 14 and 28 days at 25 and 35 °C, respectively
+(McQuaig et al., 2009).
+Leskinen, et al. evaluated whether concentration of
+10 liter surface water samples by hollow-fiber ultrafiltration (HFUF) would improve sensitivity of detection of
+three MST markers in samples from an estuarine beach
+and a stream contaminated by a recent sewage main
+break in Florida (Leskinen et al., 2010). HPyVs (McQuaig
+et al., 2009), HF183 (Bernhard & Field, 2000b), and the
+nifH gene of M. smithii (Ufnar et al., 2006; Harwood
+et al., 2009) were measured by end-point PCR in concentrated samples and 500 mL of surface water (Leskinen
+et al., 2010). All three markers were detected following
+HFUF in a sample from the stream collected 5 days after
+the sewage spill, even though the M. smithii marker was
+not detected using the standard filtration procedure.
+Forty-5 days after the sewage spill, the HFUF treatment,
+but not the standard filtration, allowed detection of the
+M. smithii and HPyVs markers. Similar results were
+reported in another study, where the M. smithii marker
+was detectable for 24 days in surface waters following a
+sewage leak (Ufnar et al., 2006).
+Hamza, et al. investigated stability of HPyV, human
+adenoviruses (HAdV), pepper mild mottle virus
+(PMMoV) and TTV spiked into river water at two different temperatures (4 and 25 °C) over 21 days by quantitative reverse-transcriptase PCR. Overall, all targets
+persisted longer at lower temperature, while PMMoV
+decreased the least at 25 °C over 21 days (1.1 log10), followed by TTV (3.0 log10), HAdV (3.7 log10), and HPyV
+(4.2 log10) (Hamza et al., 2011).
+To determine the best methods by which to concentrate viruses (JC polyomaviruses, adenoviruses, and noroviruses), (Albinana-Gimenez et al., 2009) evaluated five
+concentration methods using river water and spiked tap
+water. Methods included filtration through glass wool
+with and without prior acidification to a pH of 3.5,
+ultrafiltration, electropositive filtration, and centrifugation to concentrate viral particles from 10 to 50 L of tap
+water or volumes of river water ranging from 42 mL to
+50 L. Glass wool filtration with preacidification and
+ultrafiltration showed similar recovery efficiencies for JC
+polyomavirus and adenovirus, but only the glass wool
+method allowed for detection of noroviruses in tap water
+samples (10 L). The glass wool concentration method
+(without acidification, which was reportedly impossible
+for large sample volumes) was determined to be the
+most effective at concentrating viruses from larger volumes (50 L). Recovery efficiencies for all methods and
+viral targets were low (< 33% recovery). When comparing different volumes of river water, 1 L was determined
+
+V.J. Harwood et al.
+
+
+
+Molecular methods for fecal source determination
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+The same HF183 qPCR method (Seurinck et al., 2005)
+was used to assess the source of fecal contamination in
+the Santa Ana River, CA (Litton et al., 2010), which is
+heavily influenced by disinfected, tertiary-treated effluent
+from twelve WWTPs. Total coliform, E. coli and enterococci levels were low within the WWTP and at its discharge site and increased significantly with distance from
+the discharge. By comparison, sediment concentrations of
+cultured FIB were relatively constant over the sampling
+sites. The HF183 marker was detected only in the Santa
+Ana River, in 60% and 25% of samples from two sites.
+Based on several lines of evidence, including Enterococcus
+speciation, the authors concluded that enterococci were
+naturalized and growing in the river sediment.
+The previously mentioned study in Bangladesh (Ahmed
+et al., 2010) used qPCR for HF183 to analyze water samples from 20 locations along a polluted urban lake. The
+CF128 ruminant-associated marker and culturable enterococci were also measured. HF183 was found in 70% of
+lake samples, generally at concentrations only 1–2 orders
+of magnitude lower than raw sewage or feces, while the
+ruminant marker was found in 35% of samples, including
+three of the six samples that did not contain HF183. The
+very high concentrations of enterococci (1.1 9 104–
+1.9 9 105 CFU 9 100 mL 1) combined with a high
+detection rate for the HF183 marker indicate that the lake
+suffers from high levels of human fecal pollution.
+The HF183 qPCR assay (Seurinck et al., 2005) was
+used to investigate fecal pollution sources in a coastal
+shellfish harvesting area of France that experienced high
+E. coli concentrations (Gourmelon et al., 2010a). Samples
+from stream and storm drain sites in urban areas and a
+cattle farming area were evaluated for the HF183 marker,
+general and ruminant-specific Bacteroidales markers, F+
+RNA coliphage, and cultured E. coli. Positive correlations
+were found between the general Bacteroidales marker and
+F+ coliphage, between the general Bacteroidales marker
+and E. coli, and between E. coli and F+ coliphage. HF183
+was detected in all water samples from four urban sites,
+and most of these samples also contained a high percentage (57–100%) of group II F+ RNA coliphage. Two other
+urban sites showed lower frequency of detection of both
+of these two HAM s. The ruminant-associated marker
+was only detected at two urban sites:at low frequency and
+concentration, but it was detected in 17% of samples
+taken adjacent to the cattle farming area, while HF183
+was not detected in any samples from this location.
+A qPCR method for human-associated Bacteroides was
+used to investigate the source of fecal pollution in streams
+draining to a recreational beach in Wales (Wyer et al.,
+2010). Several methods were used to evaluate changes in
+water quality during a rainfall event, including hydrology
+tools, a microbial tracer experiment using a specific
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+The end-point HF183 assay (Bernhard & Field, 2000b)
+was also used to characterize fecal pollution reaching an
+urban freshwater beach on Lake Ontario in Canada (Edge
+et al., 2010). Suspected impacts included combined sewer
+outfalls, as well as abundant gulls and Canada geese. The
+most probable source of fecal contamination, which was
+based on E. coli levels, the frequency of HF183 detections,
+and library-dependent MST methods, varied from human
+sewage near the river to bird droppings at the other end
+of the beach. HF183 detection was not positively correlated with E. coli levels, but in certain cases was negatively
+correlated.
+Parker, et al. also used end-point PCR for the HF183
+marker to assess beach contamination, but this study
+focused on stormwater runoff impacting a marine beach
+in North Carolina (Parker et al., 2010). Coastal sites
+affected by stormwater runoff outfalls were evaluated for
+HF183, a BT-like marker termed ‘fecal Bacteroides’ (Converse et al., 2009), E. coli, Enterococcus spp., and total coliforms under various flow conditions. The authors
+proposed an ‘action threshold’ for fecal Bacteroides of
+5000 cells X100 mL 1 that would trigger further MST
+analysis. One site of three tested was frequently positive
+for HF183 (44%), and these positive results were always
+accompanied by high levels of fecal Bacteroides. No correlation analysis was shown.
+A study conducted in the Great Lakes (Lake Michigan)
+utilized end-point PCR for HF183 and measurements of
+E. coli to determine pollution sources to a popular recreational beach (Kinzelman & McLellan, 2009). A stormwater outfall and other runoff were identified as the
+major contributors of E. coli to the beach. Three of five
+storm event samples from the outfall contained HF183;
+however, the authors noted that E. coli levels in excess of
+104 MPN∙100 mL 1 were associated with detection of
+HF183. A bovine marker was not detected in any sample.
+Several improvements were made to the beach including
+retrofitting of the storm drain. E. coli concentrations in
+nearshore waters of the beach decreased from a mean of
+232 MPN∙100 mL 1 (2000–2004) to 76 MPN∙100 mL 1
+following the remediation actions.
+Human-associated Bacteroidales qPCR methods also
+have been widely field-tested in different geographic areas
+and matrices. In Japan, the Human-Bac1 qPCR results
+showed no correlation with FIB in water samples (Okabe
+et al., 2007). The HF183 qPCR method (Seurinck et al.,
+2005) was field tested in Hawaii in streams and marine
+waters with varying levels of sewage impact (Betancourt
+& Fujioka, 2006). The marker was detected in environmental waters with enterococci and E. coli concentrations
+of < 1 and 15 CFU 9 100 mL 1, respectively. HF183 was
+detectable for up to 6 days by qPCR following a sewage
+spill.
+
+23
+
+
+
+24
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+sites with likely human fecal contamination, though a
+connection was not made between the human marker
+and pathogen detection.
+The HF183 marker was also used to determine the
+presence of human fecal contamination at 45 stormwater
+outfalls over a 4-year period (Sauer et al., 2011). Samples
+positive for HF183 by end-point PCR were further analyzed by qPCR using the BacHum-UCD assay. The frequency of detection of HF183 at various stormwater
+outfalls ranged from 11 to 100%. Human-associated Bacteroides gene concentrations (BacHum-UCD) were not
+correlated with E. coli concentrations or with enterococci
+measured by culture or qPCR, but were correlated with
+E. coli measured by qPCR. High levels of enteric viruses
+were measured at an outfall that also had high concentrations of the BacHum-UCD target.
+Multiple targets for markers of human
+fecal sources
+
+Several MST field studies have utilized multiple assays
+directed at HAMs to evaluate fecal pollution sources.
+Abdelzaher, et al. explored the relationships among the
+HAMs HPyVs and Ent. faecium esp gene, FIB, and several
+viral, bacterial, and protozoan pathogens at a beach in
+South Florida (Abdelzaher et al., 2010). FIB levels
+exceeded recreational water-quality criteria in only one
+instance in which HPyVs, Giardia, and Cryptosporidium
+were also detected.
+Korajkic, et al. used end-point PCR methods for HPyVs
+(McQuaig et al., 2006) and the Ent. faecium esp gene
+(Scott et al., 2005) to evaluate the impact of remediation
+at a Florida beach (Korajkic et al., 2011). Prior to remediation, fecal coliforms and enterococci exceeded state standards in 58% and 50% of samples, respectively. The
+HPyVs marker was detected in 17% of impacted beach
+samples, and the esp marker was detected in 42% of samples. After sewer main repairs and removal and relocation
+of beach restrooms, a significant reduction in FIB
+occurred: only 7% of fecal coliforms and 11% of enterococci samples exceeded standards. The frequency of detection of the esp marker also declined to 18% of samples;
+however, the HPyVs frequency of detection remained the
+same. Fecal coliform levels and esp marker detection were
+correlated, but no correlation was observed between FIB
+and HPyVs. Salmonella spp. and enteroviruses were measured after remediation, and Coxsackie B4 virus was
+detected at one site on one date. HPyVs were codetected at
+this site/date, which coincided with a nearby sewage spill.
+The differences in relationship between FIB and MST
+markers and the codetection of an enterovirus with
+HPyVs, but not esp marker, suggest that use of multiple
+MST markers are helpful in interpreting field studies.
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+microorganism in each of four streams, several FIB, qPCR
+for HF183 following the method of Stapleton et al.
+(Stapleton et al., 2009), as well as general and ruminantassociated Bacteroidales qPCR assays (Layton et al., 2006;
+Reischer et al., 2007). Tracer microorganism levels
+released at the start of a rainfall event showed that two
+streams contributed freshwater rapidly (in < 40 min) to
+this location. FIB levels were highest (including fecal coliform levels above the European Directive 76/160/EEC
+imperative level of 2000 CFU 9 100 mL 1) when the
+microbial tracers from these two streams were most
+abundant. The relative frequency of detection and concentration of general and ruminant MST markers compared to human markers led the authors to conclude that
+the primary source of beach fecal pollution was cattle
+from dairy farms.
+Another coastal study (Boehm et al., 2009) evaluated
+water quality and FIB contamination using qPCR for the
+Bacteroides MST marker BacHum-UCD (Kildare et al.,
+2007). F+ and somatic coliphages, enteroviruses, and
+adenoviruses, and several FIB were also measured over a
+72-h period in seawater at Avalon Beach in California
+(Boehm et al., 2009). Adenoviruses were not detected
+during the study. Coliphages were correlated with FIB,
+but not with enteroviruses; however, the occurrence of
+the BacHum-UCD marker was positively correlated with
+enteroviruses, was negatively correlated with F+ coliphages, and was more frequently detected than F+ coliphages
+or enteroviruses. The concentration of the BacHum-UCD
+marker was negatively correlated with E. coli and enterococci concentrations.
+Schriewer, et al. utilized the BacHum-UCD qPCR assay
+(Kildare et al., 2007) to investigate the relationships
+among Bacteroidales markers (human, general, dog, and
+cow), FIB, and pathogens in rivers and estuaries of the
+Monterey Bay region of California (Schriewer et al.,
+2010). In general, the strongest correlations were found
+between FIB (e.g. total coliforms and fecal coliforms);
+however, human Bacteroides concentrations correlated
+with total coliform, fecal coliform, and enterococci concentrations. Only one significant relationship was found
+between Bacteroidales markers and pathogens. Specifically,
+the general Bacteroidales marker correlated with Cryptosporidium spp. using a predictive qualifier (PQ) parameter,
+a weighted measure that predicts pathogen detection
+relative to threshold cutoff levels of FIB or markers.
+BacHum-UCD did not predict pathogen occurrence, but
+general Bacteroidales and FIB showed similar PQ performance when compared for their ability to predict Vibrio
+cholerae, Cryptosporidium spp., and Giardia spp. This field
+test illustrated a relationship between general Bacteroidales
+marker detection and certain pathogens at this study
+location and showed that the HAM was able to identify
+
+V.J. Harwood et al.
+
+
+
+Molecular methods for fecal source determination
+
+Correlation with pathogens and risks of
+waterborne illness
+Epidemiology
+
+In addition to establishing the performance of MST
+methods in terms of specificity, sensitivity, and limit of
+detection in ambient waters, an important next step is to
+conduct epidemiological studies to determine their ability
+to predict human health risks due to waterborne pathogens. Numerous epidemiological studies have assessed the
+relationships among point source or nonpoint source pollution, FIB levels, and human health outcomes, and
+FEMS Microbiol Rev 38 (2014) 1–40
+
+recent meta-analyses provide extensive reviews of this
+topic [e.g. (Wade et al., 2003; Zmirou et al., 2003)], and
+more recent studies have focused on the effect of nonpoint source contamination on human health (Colford
+et al., 2007; Fleisher et al., 2010; Soller et al., 2010a;
+Wade et al., 2010). However, because many of the MST
+methods previously described have been developed
+recently, few studies to date have investigated the ability
+of these methods to predict the risk of illness. Table 2
+summarizes four epidemiological studies published to
+date that include MST methods.
+The first study was conducted at two freshwater beaches in the U.S. Great Lakes that were impacted by
+WWTP effluent and combined sewer overflows (CSOs)
+(Wade et al., 2006). A cohort of beachgoers were surveyed on the sampling day and in follow-up interviews
+(n = 5667) to determine how rates of gastrointestinal
+(GI) illness correlated with water-quality analyses, including qPCR for Enterococcus (Haugland et al., 2005) and
+human Bacteroides (HF183) (Dick & Field, 2004). Results
+were reported as adjusted odds ratios (aOR), which represent the increase in risk of illness for each log unit
+increase of FIB concentration. Enterococcus copy numbers
+were significantly associated with GI illness, and the
+authors also noted that the association between Enterococcus and GI illness strengthened with increased exposure
+time. In contrast, no overall trend was observed with
+human Bacteroides, although a nearly significant positive
+association was detected at the Lake Erie beach.
+A second epidemiological study took place at multiple
+beaches within Mission Bay in coastal California (Colford
+et al., 2007). This study attempted to determine correlations between indicators of water quality and rates of
+swimming-related illnesses at a site thought to be
+impacted by primarily nonhuman and nonpoint sources
+of pollution. A cohort of beachgoers was surveyed on the
+day of sampling and c.2 weeks later (n = 8797) to determine
+rates of a number of illnesses by tracking GI, respiratory,
+dermatological, and other symptoms. Human-associated
+Bacteroides (HF183) was quantified via qPCR (Bernhard &
+Field, 2000b; Bernhard et al., 2003), somatic and F+ coliphages were quantified, and MPN estimates of adenovirus
+and norovirus concentrations were determined via reversetranscriptase PCR (Colford et al., 2005). However, of all the
+measured health outcomes, only skin rash and diarrhea were
+significantly more frequent in swimmers compared with
+nonswimmers. For these two symptoms, there were no
+correlations between rates of illness and FIB levels or rates
+of detection of human Bacteroides or somatic coliphage.
+Viruses were not detected often enough to determine any
+relationship.
+A third study was conducted (Wade et al., 2008) as a
+follow-up to previous work (Wade et al., 2006) and was
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Relationships among HPyVs, HF183, the nifH gene of
+M. smithii, and human adenoviruses were examined at
+Doheny State Beach and Avalon Beach in California
+(McQuaig et al., 2012). Although the locations differ in
+hydrology and potential fecal inputs, enterococci levels
+exceeded regulatory standards in c. 30% of samples at
+both sites. The human-associated Bacteroides HF183 marker was detected most frequently, and the M. smithii
+marker was detected with low frequency at both locations. The concentration (by qPCR) and frequency (by
+end-point PCR) of HPyVs were significantly higher at
+Avalon Beach, while adenovirus was detected only at
+Doheny Beach. The presence of adenovirus correlated
+with both HPyVs concentration and HF183 detection at
+Doheny Beach, which supports the utility of these markers in identifying water that poses a human health risk.
+HF183 correlated weakly with FIB at both beaches, while
+M. smithii correlated only with FIB at Doheny Beach.
+Human MST markers and adenovirus were detected routinely in samples that met FIB regulatory standards. The
+complexity of relationships among the human markers
+and FIB underscores the importance of using multiple
+human markers in MST field studies.
+Water quality at a Florida marine beach impacted by
+nonpoint source pollution was studied using several
+methods for quantification of enterococci and MST
+markers directed toward human, dog, and gull sources
+(Shibata et al., 2010). The two human source markers
+used were BacHum-UCD (Kildare et al., 2007) and
+HF183 (Bernhard & Field, 2000b). Little correlation was
+noted among the FIB and MST markers with the exception of a weak relationship between BacHum-UCD and
+qPCR for enterococci.
+Coastal and tidally influenced creek waters in Mississippi were collected over a 2-year period and assessed for
+the presence of HF183 and the M. smithii nifH gene by
+end-point PCR, as well as enterococci concentrations by
+membrane filtration (Flood et al., 2011). Neither HAM
+correlated with enterococci concentrations.
+
+25
+
+
+
+26
+
+V.J. Harwood et al.
+
+Table 2. Correlations observed in studies between MST markers and risks for various types of waterborne illnesses
+GI illness
+
+Respiratory illness
+
+Skin infections
+
+Eye infections
+
+Ear infections
+
+Adenovirus*
+Bacteroidales
+Human CE
+(qPCR)
+
+n.d.1
+( )1
+( )2
+( )3
+n.d.4
+(+)2
+(+)4
+( )1
+( )3
+(+)1
+n.d.1
+( )1
+( )3
+
+n.d.1
+( )1
+( )3
+n.d.2
+n.d.4
+( )1
+( )4
+( )3
+n.d.2
+(+)1
+n.d.1
+( )1
+( )3
+
+n.d.1
+( )1
+( )3
+n.d.2
+n.d.4
+(+)4
+( )1
+( )3
+n.d.2
+( )1
+n.d.1
+( )1
+( )3
+
+n.d.1
+( )1
+n.d.2
+n.d.4
+
+n.d.1
+( )1
+n.d.2
+n.d.4
+
+( )1
+( )4
+n.d.2
+
+( )1
+( )4
+n.d.2
+
+( )1
+n.d.1
+( )1
+
+( )1
+n.d.1
+( )1
+
+Enterococcus
+CE (qPCR)
+
+F+ coliphage*
+Norovirus*
+Somatic coliphage *
+Staphylococcus aureus
+
+A plus (+) sign indicates that a significant correlation was found; a ( ) sign indicates that it was tested, but no significant correlation was found;
+(n.d.) = no data, which indicates that data were collected, but the results were not published due to methodological difficulties or sampling
+limitations. References are given for each case.
+*Indicates presence/absence test.
+1
+Colford et al. (2007).
+2
+Wade et al. (2006).
+3
+Sinigalliano et al. (2010).
+4
+Wade et al. (2008).
+
+designed to include nonenteric illnesses as well as analysis
+by age group. This study was also conducted in the Great
+Lakes region of the United States at beaches that were
+impacted by effluent from WWTPs and CSOs. Beachgoers
+were surveyed on the sampling day and in follow-up
+interviews (total n = 21 015) to determine rates of illness.
+Enterococcus spp. and human-associated Bacteroides
+HF183 concentrations were measured via qPCR (Dick &
+Field, 2004), but low sensitivity associated with the Bacteroides assay prohibited the use of these data. The incidence of GI illness was consistently correlated with
+Enterococcus concentrations by qPCR, and the risk was
+significantly higher among children below the age of ten.
+The fourth study was conducted at a subtropical marine beach in Florida that is affected by nonpoint sources
+of pollution (Sinigalliano et al., 2010). This study utilized
+a prospective randomized exposure design. Adult participants were randomly grouped into bathers and nonbathers (n = 1303) and were surveyed on the day of sampling
+and 7 days later to track rates of GI tract illnesses, upper
+respiratory ailments, and skin illnesses. Six qPCR MST
+methods were employed: two human-associated Bacteroides methods (HF183 and BacHum-UCD), two methods
+to detect Enterococcus spp. (Haugland et al., 2005; Siefring
+et al., 2008), one dog-associated Bacteroidales method,
+and one gull-associated method to detect Catellicoccus
+marimallium (Lu et al., 2008). Enterococci levels determined by membrane filtration were positively associated
+with skin illness and 24 h of antecedent rainfall;
+however, no other correlations were noted. According to
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+a separately published epidemiological report for this
+same study [the BEACHES Study, (Fleisher et al.,
+2010)], GI illness, skin rash, and respiratory illness
+were significantly more frequent in bathers compared to
+nonbathers.
+Correlation with pathogens
+
+Some studies have offered additional insight into MST
+marker effectiveness for water-quality and human health
+risk assessment by correlating markers and human pathogens (see Table 3 for summary of studies in surface
+waters). For example, in separate studies conducted in
+California, two groups (Boehm et al., 2003; Noble et al.,
+2006) analyzed the presence of human-associated Bacteroides HF183 by end-point PCR (Bernhard & Field, 2000b)
+and the presence of enteroviruses via quantitative reversetranscriptase PCR in surface water samples. The study
+sites were vastly different: Boehm, et al. analyzed marine
+samples from Catalina Island, where flushing and dilution
+of pollutants is relatively great, while Noble et al. worked
+in the urban, highly impacted Ballona Creek watershed.
+Boehm, et al. found relatively poor agreement between
+the detection of HF183 and enteroviruses; in contrast,
+Noble et al. were able to detect HF183 in nearly every
+sample in which enteroviruses were detected. HF183 was
+also frequently detected in the absence of enteroviruses in
+many of the Ballona Creek samples (Noble et al., 2006).
+In a more recent study at Avalon Beach, however, Boehm,
+et al.observed a correlation between human-associated
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+MST marker
+
+
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+(+)1
+( )2
+
+( )1
+( )2
+( )6
+(+)7
+
+Bacteroidales
+Huma n (+/ )*
+
+Bacteroidales
+Ruminant (+/ )
+Bacteroidales
+Human (qPCR)
+n.d9
+
+( )6
+n.d.9
+
+Cryptosporidium
+
+( )6
+
+Giardia
+
+( )4
+
+( )12
+
+(+)10
+(+; negative)7
+
+(+)3
+(+)4
+( )5
+( )4
+
+Enteric viruses†
+
+( )1
+( )2
+(+)8
+( )6
+
+( )1
+( )2
+
+E. coli
+(pathogenic)
+
+(+)11
+
+Leptospira
+
+( )1
+( )2
+(+)8
+( )6
+( )7
+
+( )1
+( )2
+
+Salmonella
+
+( )8
+
+Shigella
+
+A plus (+) sign indicates a significant correlation (designated ‘negative’ for a negative correlation); a ( ) sign indicates that no significant correlation was found.
+*(+/ ) indicates conventional (end-point) PCR.
+†
+Includes adenoviruses.
+1
+Walters et al. (2007).
+2
+Fremaux et al. (2009).
+3
+Noble et al. (2006).
+4
+McQuaig et al. (2012).
+5
+Boehm et al. (2003).
+6
+Schriewer et al. (2010).
+7
+Viau et al. (2011).
+8
+Savichtcheva et al. (2007).
+9
+Jenkins et al. (2009).
+10
+Boehm et al. (2009).
+11
+Viau & Boehm (2011).
+12
+Wong et al. (2009).
+
+( )8
+( )7
+
+Clostridium
+perfringens
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Bacteroidales
+Ruminant (qPCR)
+Ent. faecium esp
+gene (+/ )
+Human polyomavirus
+(qPCR)
+
+Campylobacter
+
+MST marker
+
+Table 3. Correlations between detection or concentration of MST markers and the detection of various waterborne pathogens in surface waters
+
+( )8
+
+Staphylococcus
+aureus
+
+( )8
+( )6
+
+Vibrio
+cholerae
+
+Molecular methods for fecal source determination
+
+27
+
+
+
+28
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+used that included pretreatment with propidium monoazide prior to DNA extraction to limit detection to only
+viable organisms (Varma et al., 2009). In this case, reductions in both of these markers were tracked through a
+WWTP and found to correlate well with reductions in
+infectious viruses, suggesting their utility as indicators of
+pathogen presence.
+Walters, et al. used seawater microcosms seeded with
+sewage to further explore the relationship between persistence of MST markers and persistence of pathogens
+(Walters et al., 2009). They measured persistence of the
+human-associated Bacteroides markers HF183 by endpoint PCR (Bernhard & Field, 2000b) and Bac-Hum by
+qPCR (Kildare et al., 2007), Enterococcus spp. via culturable and qPCR methods (Haugland et al., 2005), and
+infectious enteroviruses using plaque assays and RT-PCR.
+They found differential survival of Enterococcus spp., the
+Bacteroidales marker, and enterovirus genetic markers,
+with Bacteroidales persisting for less time than the other
+two. However, in the mesocosms exposed to sunlight (as
+is the case in recreational waters), the Bacteroidales markers had the most similar persistence dynamics to infectious enteroviruses (as determined by the plaque assays),
+suggesting that Bacteroidales may be the best indicator of
+health risks associated with enteroviruses, at least under
+the conditions of their study.
+The presence of human polyomaviruses (HPyVs) has
+also been found to correlate with human pathogens.
+McQuaig, et al. examined correlations between HPyVs,
+human-associated Bacteroides HF183 (Bernhard & Field,
+2000b), and adenoviruses in marine water at two beaches
+in California, USA (McQuaig et al., 2012). HF183 detection and HPyVs concentration were significantly correlated with adenovirus detection at Doheny Beach, but not
+at Avalon Beach. In previous work, McQuaig, et al.
+analyzed correlations between concentrations of HPyVs
+via qPCR and the presence of human-associated Bacteroides HF183 and human adenoviruses in a variety of samples from the human waste stream, including individual
+septic tanks, septic tank pump trucks, lift stations,
+WWTP influent, and WWTP effluent (McQuaig et al.,
+2009). They found strong correlations between both MST
+markers and the detection of adenoviruses in all samples
+except for the septic tanks. In the individual septic tank
+samples, both human-associated Bacteroides and HPyVs
+were detected in the majority of samples, but adenoviruses were never detected. Furthermore, in 28-day laboratory
+microcosms, the authors concluded that the persistence
+of adenoviruses in the water was better mimicked by
+HPyVs than by culture-based bacterial indicators such as
+E. coli and Enterococcus spp., which both declined rapidly
+even though adenoviruses were detectable for much
+longer periods of time.
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Bacteroides BacHum-UCD (Kildare et al., 2007) measured
+by qPCR and enteroviruses (Boehm et al., 2009).
+More recently, qPCR methods have been used to correlate pathogens and MST markers more precisely. In a
+large study encompassing 22 tropical streams on O’ahu,
+Hawai’i, Viau, et al. (Viau et al., 2011) analyzed water
+samples collected during dry weather for four types of
+enteric viruses (adenovirus, enterovirus, norovirus GI,
+and GII) and the human Bacteroides marker BacHumUCD (Kildare et al., 2007). In addition, they obtained
+historical data from the same samples that were analyzed
+for C. perfringens, Campylobacter, and Salmonella to
+include additional pathogen data. BacHum-UCD was
+positively correlated with the presence of Campylobacter
+(P = 0.02), but, interestingly, a negative correlation was
+found between BacHum-UCD and two of the viruses,
+adenovirus and norovirus GI (P = 0.02 for each). No
+other significant correlations were found. In a companion
+study, a positive correlation was found between BacHumUCD and Leptospira (P = 0.004) in the same samples
+(Viau & Boehm, 2011).
+Savichtcheva, et al. sampled freshwater and WWTPs in
+Hokkaido, Japan to determine whether the concentration
+of Bacteroidales, as determined by qPCR (Okabe et al.,
+2007), correlated with the presence or absence of a variety
+of human pathogens, including pathogenic strains of
+E. coli, Salmonella spp., Shigella spp., Clostridium perfringens, Staphylococcus aureus, and V. cholerae (Savichtcheva
+et al., 2007). In this case, human-associated Bacteroidales
+markers showed significant correlations with E. coli O157:
+H7, Salmonella, and enterotoxigenic E. coli. They also
+concluded that culture-dependent methods for FIB enumeration were inferior predictors of pathogen presence
+when compared with the MST markers.
+Similarly, Walters, et al. analyzed the ability of the general Bacteroidales marker Bac32F (Bernhard & Field,
+2000a), ruminant-specific markers CF128 and CF193
+(Bernhard & Field, 2000b), human-specific markers
+HF134 and HF183 (Bernhard & Field, 2000b), and the
+pig-specific marker PF163 (Dick et al., 2005) to detect
+the presence of E. coli O157:H7, Salmonella spp., and
+Campylobacter spp. in water samples from the Oldman
+River Basin in Canada (Walters et al., 2007). The ruminant-specific markers were particularly good predictors of
+E. coli O157:H7 presence, and, to a lesser extent, Salmonella. The HAMs showed a strong association with the
+presence of Campylobacter (OR = 10). These results suggest not only that the markers for Bacteroidales can be
+successful predictors of the presence of pathogens but
+that host-specific markers may give insight into which
+host-specific pathogens are most likely to be present.
+In a different approach, a modification of the standard
+qPCR methods for Enterococcus and Bacteroidales was
+
+V.J. Harwood et al.
+
+
+
+29
+
+Molecular methods for fecal source determination
+
+Animal markers
+Human health risk from animal fecal contamination is
+generally assumed to be less severe than from human
+sources, in part because of the host-specific nature of
+viruses; however, waterborne zoonotic infections caused
+by pathogens shed in domestic/agricultural animal feces,
+such as Salmonella, E. coli O157:H7, Campylobacter jejuni,
+Giardia spp., Cryptosporidium spp., and hepatitis E virus
+still pose a definite health risk (Field & Samadpour, 2007;
+Soller et al., 2010b). Recently, a quantitative microbial
+FEMS Microbiol Rev 38 (2014) 1–40
+
+risk assessment (QMRA) study estimated that under some
+scenarios, cattle feces represent as great a risk to human
+health as human sewage (Soller et al., 2010b). Although a
+review of all MST methods directed toward animal
+sources is beyond the scope of this work, here, studies
+employing rapid MST methods for animal sources are
+briefly reviewed and evaluated based on their sensitivity
+to target fecal contamination, specificity against nontarget
+contamination, limits of detection and quantification, and
+field-testing results (Table S2).
+Pig markers
+
+Two TaqMan methods for pig feces (Pig-1-Bac and Pig2-Bac) target the 16S rRNA gene of porcine-associated
+Bacteroidales (Mieszkin et al., 2009). Pig-1-Bac and Pig-2Bac were highly sensitive (98 and 100%, respectively) and
+specific (100%). Field testing was performed using river
+water samples (n = 24) from 14 sites, and markers were
+detected in 25% (Pig-1-Bac) and 62.5% (Pig-2-Bac) of
+samples collected around pig farms, but not in areas
+influenced by cattle grazing or human fecal contamination. Concentrations of these markers ranged from 3.6 to
+4.1 log10 target copies 9100 mL 1. The persistence of the
+Pig-2 marker was subsequently evaluated in seawater and
+freshwater microcosms (Solecki et al., 2011) in which the
+marker persisted between 20 and 27 days, respectively.
+Meanwhile concentrations of E. coli and enterococci
+remained detectable by culture-based methods for 55 days
+in both water types.
+A TaqMan method targeting porcine adenovirus
+(PAdV) was evaluated using pig slurries, urban and
+slaughterhouse sewage, and river water (Hundesa et al.,
+2009). The method showed 87% sensitivity to pooled pig
+fecal samples and 100% sensitivity to slaughterhouse sewage. One hundred percent specificity was observed when
+the PAdV assay was tested against both human- and
+bovine-specific adenovirus serotypes. In addition, urban
+sewage samples tested negative for this marker. Six river
+water samples collected downstream of a pig-rearing area
+were positive, suggesting that this marker may be useful
+in identification of fecal contamination from swine in
+environmental waters.
+Dog markers
+
+A dog marker (BacCan-UCD) and TaqMan qPCR
+method were developed targeting the 16S rRNA gene
+from host-associated Bacteroidales (Kildare et al., 2007).
+This method was 100% sensitive toward dog fecal material and 86% specific, cross-reacting with human feces,
+WWTP influent, and cat feces. In a field-validation study
+in which contamination sources were blinded to the
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+It is important to note, however, that correlations
+between MST markers and pathogens have not been
+found universally. Fremaux, et al. found no correlations
+between the detection of Bacteroides marker HF183 by
+end-point PCR and the presence of pathogens including
+Campylobacter, Salmonella, and Shiga toxin-producing
+E. coli in Saskatchewan, Canada, using odds ratio analyses
+(Fremaux et al., 2009). They did, however, find the presence of ruminant-associated Bacteroidales marker (CF128)
+to be a significant predictor of the presence of Salmonella
+(OR = 12.2). Similarly, the Ent. faecium esp marker (Scott
+et al., 2005) was evaluated as a marker for adenovirus,
+enterovirus, and rotavirus at two Great Lakes beaches
+(Wong et al., 2009), but no significant correlations were
+found. Interestingly, however, physical data (wind speed,
+temperature, pH, turbidity, etc.) were shown to be good
+predictors of pathogen presence.
+As part of a method validation study, Jenkins, et al.
+compared the presence of Cryptosporidium spp. to detection of the human-associated Bacteroides HF183 and
+BacHum-UCD markers by qPCR in river samples from
+Kenya (Jenkins et al., 2009) (see ‘Further evaluation of
+methods’). Cryptosporidium was detected in 78% of water
+samples, and only three of these were also positive for
+human Bacteroides by either assay (two with BacHumUCD and one with HF183). A ruminant-specific marker
+BacCow-UCD was codetected with Cryptosporidium spp.
+in 10 of 19 samples. Ruminant and HAMs were codetected with Cryptosporidium spp. in two samples. Overall, the
+ruminant-associated marker was more closely associated
+with Cryptosporidium presence than the HAMs.
+A recent study by Schriewer, et al. in Monterey Bay,
+California also found no correlations between detection
+of the BacHum-UCD Bacteroides marker (Kildare et al.,
+2007) and the presence of pathogens including Campylobacter spp., Salmonella spp., E. coli 0157:H7, Vibrio spp.,
+Cryptosporidium spp., or Giardia spp (Schriewer et al.,
+2010). They did, however, find that a general Bacteroidales marker had a comparable or better ability to predict
+pathogens compared with FIB using a weighted measure
+called a PQ (see ‘Selected Field Studies’ and Table S1).
+
+
+
+30
+
+Cow markers
+
+Using the previously developed CF128 forward primer
+(Bernhard & Field, 2000b), a TaqMan qPCR method specific for cow feces was developed (BacCow-UCD) (Kildare et al., 2007). This assay was 100% sensitive to cow
+fecal material and showed 95% specificity, cross-reacting
+with horse fecal samples. A field study in which ten water
+samples were amended with varying concentrations of
+target and nontarget sewage found that the concentration
+of BacCow-UCD marker detected was proportional to the
+amount of cow feces added. BacCow-UCD was also
+detected in samples amended with horse feces, confirming
+the cross-reactivity of the assay.
+The BoBac TaqMan qPCR assay also targeted the 16S
+rRNA gene of cattle-associated Bacteroidales (Layton
+et al., 2006). This assay showed 100% sensitivity to a
+small number of bovine fecal samples and cross-reacted
+with only one dog fecal sample (overall specificity of
+93%). Field testing was performed in rural and resort
+areas that were expected to be impacted by cattle and
+humans, respectively, and the BoBac assay showed that a
+high proportion of fecal contamination in the rural
+watershed was attributable to cattle. This assay was also
+evaluated by Kildare, et al. in conjunction with the
+BacCow-UCD assay (Kildare et al., 2007) where it performed comparably, showing 100% sensitivity and 97%
+specificity but cross-reacted with two (25%) human fecal
+samples.
+Two other bovine-specific TaqMan methods were
+developed based on sequences identified by metagenomic
+analysis of the bacterial assemblage in cattle feces (Shanks
+et al., 2006, 2008). CowM2 and CowM3 assays target
+genes encoding proteins involved in energy metabolism
+and a secretory protein, respectively. Both CowM2 and
+CowM3 were ≥ 98% sensitive and 100% specific (Shanks
+et al., 2008). The performance of these methods was subª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+sequently compared with that of the BoBac qPCR method
+(Shanks et al., 2010b). The CowM2 assay was detected in
+seven of the eleven cattle populations tested, CowM3 was
+detected in nine, and BoBac was present in every population. Both CowM2 and CowM3 showed 100% specificity
+to cattle waste, while BoBac was only 47% specific.
+Gull and other bird markers
+
+The Gull-2 marker, which targets the 16S rRNA gene of
+Catellicoccous marimammalium, found in gull feces, was
+developed in an end-point PCR and a SYBR Green qPCR
+format (Lu et al., 2008). These assays showed 71% and
+74% sensitivity, respectively, to gull feces collected from
+around the United States and 100% host specificity when
+tested against a wide variety of individual and composite
+nontarget DNA samples (Table S2). Seventy-two water
+samples were collected from Canada, Ohio, and the Great
+Lakes, and amplification via the Gull-2 assays was only
+observed in waters expected to be impacted by gull fecal
+contamination (Lu et al., 2008). No amplification was
+observed in waters impacted by other species of waterfowl
+or other animal sources. The Gull-2 assay was adapted to
+a TaqMan format, and the marker was evaluated to determine if its presence could predict illness following exposure to subtropical, marine recreational waters; however,
+no significant relationship was found between marker
+concentration and human illness (Sinigalliano et al.,
+2010).
+SYBR Green, Gull-3, and TaqMan, Gull-4, assays targeting 16S rRNA gene sequences from Streptococcus spp.
+and C. marimammalium, respectively, were developed
+and tested against the Gull-2 assay (Ryu et al., 2012b).
+The presence of each marker was evaluated in gull feces
+(n = 255), feces from six nonavian species (n = 180), 15
+other non-gull avian species, and in environmental water
+samples (gull-impacted and non-gull-impacted). More
+than 86% of gull feces tested positive for the Gull-2 and
+Gull-4, while fewer than 30% of samples gave positive
+results for Gull-3. All three assays showed low crossreactivity with nonavian feces (0.6–15%) and low to
+moderate cross-reactivity with other, non-gull avian feces
+(13–31%). In waters presumed to be impacted by gull
+feces (n = 349), 86%, 59%, and 91% of samples were
+positive for Gull-2, Gull-3, and Gull-4, respectively. In
+contrast, c. 5% (Gull-2 and Gull-4) and 21% (Gull-3) of
+non-gull-impacted water samples (n = 239) tested positive for these markers. Results from this study indicate
+that Gull-2 and Gull-4 markers may be more conservative
+indicators of gull fecal pollution (Ryu et al., 2012b).
+Subtractive hybridization of gull 16S rRNA genes was
+used to identify other potentially gull- or avian-specific
+targets, and two SYBR green qPCR assays were developed
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+researchers, ten samples spiked with varying amounts of
+target and nontarget fecal material were tested. Only samples amended with dog feces showed amplification with
+this marker (Kildare et al., 2007). A subsequent field
+study in California (Schriewer et al., 2010) suggested that
+fecal contamination from dogs made up < 1% of the
+total Bacteroidales load in coastal waters.
+A second dog marker was developed targeting mtDNA
+(NADH dehydrogenase subunit 5, ND5) that was
+reported to be 100% specific against individual fecal samples (Caldwell & Levine, 2009). Sensitivity was not
+directly assessed, although amplicons were reported to
+have 100% identity to canine ND5 sequences via NCBI
+BLAST. The marker was further tested against 24 sewage
+samples, all of which were positive.
+
+V.J. Harwood et al.
+
+
+
+31
+
+Molecular methods for fecal source determination
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+95% specific, yielding false-positive results with goose and
+sewage samples. LOD was 30 gene copies per reaction.
+The LA35 assay was further tested via blind sampling at a
+second laboratory, which tested target (n = 13) and nontarget (n = 32) fecal DNA as well as environmental samples. The second laboratory confirmed 100% sensitivity
+and specificity and saw amplification from environmental
+samples only when samples were collected from waters
+expected to be impacted by poultry litter.
+Most recently, a marker to identify fecal pollution from
+sandhill cranes (Crane1) was developed targeting the 16S
+rRNA gene of unclassified Lactobacillales (Ryu et al.,
+2012a). The marker showed 63% sensitivity to individual
+sandhill crane samples and 95% specificity but did not
+cross-react with nontarget avian samples. Field testing
+was conducted at sites along the Platte River in the
+Southwestern United States believed to be impacted by
+crane fecal contamination, and 88% of 16 samples were
+positive for the Crane1 marker. No samples collected in
+the absence of abundant crane populations tested positive. The marker was further tested against 138 tropical
+water samples not expected to be impacted by cranes,
+and none of these samples tested positive.
+Other animal markers
+
+To assess the contribution of fecal contamination from
+muskrats in Eastern Ontario Canada, a TaqMan qPCR
+assay specific for this species (MuBa01) was developed
+targeting the 16S rRNA gene of Bacteroidales (Marti et al.,
+2011). The marker was evaluated against a set of fecal
+samples collected from wildlife, livestock, and human
+sources as well as 22 water samples collected from two
+sites where muskrats were observed. The marker was 66%
+sensitive toward muskrat fecal samples that tested positive
+for general (‘universal’) Bacteroidales by the BacUni assay
+(Kildare et al., 2007) (n = 9). No cross-reactivity (100%
+specificity) was observed toward all nontarget samples
+tested, and all nontarget samples tested positive via the
+BacUni assay. MuBa01 was detected in 2/11 water samples from one site and 1/11 from the other suggesting an
+ability to detect muskrat fecal contamination in environmental waters.
+mtDNA qPCR assays targeting NADH dehydrogenase
+subunit 5 (ND5) and cytochrome b of cat and whitetailed deer, respectively, were developed to characterize
+domestic and light industrial wastewater influents from
+two municipal treatment plants in Southwestern North
+Carolina (Caldwell & Levine, 2009). Markers were tested
+for cross-reactivity against avian, mammalian, and piscine
+feces and found to be specific; however, percent specificity and number of nontarget fecal samples were not
+reported. Each marker was detected in one of 24 sewage
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+targeting C. marimammalium and unclassified Helicobacter spp. (GFC and GFD, respectively) (Green et al.,
+2011a, b). Assays were evaluated against DNA from 635
+fecal samples representing 31 host species to determine
+sensitivity and specificity toward avian species and gulls,
+specifically. GFC showed greater sensitivity and specificity
+to gulls while GFD broadly targeted bird fecal samples.
+Assays were further evaluated against environmental water
+samples, and markers were detected in all waters expected
+to be impacted by gulls (GFC) or birds (GFD).
+Two TaqMan PCR assays targeting the 16S rRNA gene
+of Bacteroidales specific to Canada goose feces have also
+been developed (CGOF1-Bac and CGOF2-Bac) (Fremaux
+et al., 2010). Sensitivity and specificity were evaluated
+using raw sewage samples and fecal samples representing
+17 species. Ninety-four percent of Canada goose fecal
+samples tested positive for the All-Bac maker for detection of general Bacteroidales (Layton et al., 2006). Sensitivity of the markers toward individual Canada goose
+fecal samples positive for All-Bac was 61% and 54% for
+CGOF1-Bac and CGOF2-Bac, respectively, and 57% and
+50% when all samples (including those negative for AllBac) were considered. CGOF1-Bac cross-reacted with only
+one nontarget sample (pigeon) among nontarget samples
+positive for All-Bac while CGOF2-Bac showed no crossreactivity toward nontarget fecal DNA giving both a specificity of > 99%. LOD for both assays was determined to
+be < 10 target copies per reaction. These markers were
+further field tested on freshwater samples collected from
+eight sites during 3 months. CGOF1-Bac was detected in
+87% of samples and CGOF2-Bac was detected in 79%.
+The highest mean concentrations for both markers were
+observed at sites known to be frequented by Canada
+geese, suggesting the effectiveness of these markers at
+identifying Canada goose fecal contamination in freshwater environments.
+A Canada goose marker targeting mtDNA (NADH
+dehydrogenase subunit 2, ND2) was also developed and
+showed 100% specificity (Caldwell & Levine, 2009). Similar to the dog marker developed in the same study (see
+above), sensitivity was evaluated by NCBI BLAST analysis
+and amplicons showed 100% identity to Canada goose
+ND2 sequences. This marker was also detected in 29%
+(n = 7) wastewater samples.
+In addition to wild bird assays, a SYBR Green qPCR
+assay for poultry feces and litter (LA35) has also been
+developed targeting the 16S rRNA gene of Brevibacterium
+avium (Weidhaas et al., 2010). The marker was validated
+using fecal DNA from poultry litter samples, individual
+chickens, and nontarget species including cattle, swine,
+ducks, geese, and humans. The marker was detected in all
+soiled poultry soils and litter and showed a sensitivity of
+61% toward individual chickens. The qPCR assay was
+
+
+
+32
+
+Conclusions
+A plethora of new MST assays targeting human sewage
+and other animal fecal sources has been developed in
+recent years, largely because of several challenges that
+make finding the ‘perfect’ method elusive. These challenges may be roughly divided into the areas encompassing (1) intrinsic method performance, for example,
+sensitivity and specificity toward sewage and fecal samples, including geographic range, (2) method performance
+in the field (sensitivity toward dilute samples, effects of
+PCR inhibition, and the efficiency of DNA recovery from
+environmental matrices), and (3) knowledge about ecology of the organisms and persistence of the markers in
+the environment, and correlation with FIB and pathogens
+in environmental waters.
+In our view, the use of multiple methods to identify
+any one source is valuable because while most of the PCR
+methods in use have a sensitive analytical limit of detection for the PCR itself, ranging from 1 to 10 gene copies,
+each one has particular strengths and weaknesses with
+regard to other issues that can limit the usefulness of
+MST. For example, the most thoroughly vetted marker,
+Bacteroides HF183, is not completely specific for human
+waste; however, it has the advantages of being broadly
+distributed among human populations and of a relatively
+high concentration in sewage. The more strongly humanassociated microorganisms, such as HPyVs and pathogenic viruses, are less concentrated in sewage and are
+therefore difficult to detect in dilute samples, even at levels where pathogens may be present; however, their specificity engenders great confidence in the finding of human
+sewage pollution when they are detected. Better concentration methods that allow high-throughput sampling of
+large volumes with quantitative recovery need to be
+developed for these viral targets and others with lower
+concentrations in fecal matter.
+While markers exist for domestic animals such as
+cattle, poultry, horses, pigs, and dogs, because of the
+focus on human sources, the distribution and perforª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+mance of animal markers are not as well understood.
+In particular, markers have not been developed for
+many domestic animals that are thought to be important contributors to fecal loading in surface waters.
+Even fewer markers for wild animals have been developed, in spite of the fact that many are implicated as
+significant sources of fecal pollution to environmental
+waters.
+In addition to developing new markers and better concentration methods for diluted samples, the challenges of
+implementing PCR and qPCR methods in environmental
+waters are common to all the methods. Inhibition of the
+PCR must be routinely assessed, and DNA purification
+methods that allow quantitative recovery of DNA and
+relief from inhibition must be developed. Within a geographic area and on a given day, the extent to which
+PCR inhibition creates methodological problems can be
+highly variable (Harwood et al., 2011), and this variability
+is magnified many times over across wider geographic
+ranges and different water types.
+Standardization of methods and units will be important, particularly as certain methods move toward acceptance in the regulatory realm. Relatively few studies have
+attempted interlaboratory studies of a given method, but
+those that have (Harwood et al., 2009; Shanks et al.,
+2012) emphasized the importance of standard operating
+procedures and training of personnel. Details as basic as
+how limits of detection and units are expressed make
+comparison of method performance difficult among studies. Furthermore, the strategy for normalizing reported
+gene copy numbers is not standardized and can lead to
+confusion when comparing among studies, that is,
+‘Should one normalize to sample volume, to DNA recovered, to some microbial value such as enterococci concentration?’
+The promise of MST should not be underestimated,
+even in light of the challenges outlined above. The process associated with vetting and optimizing MST methods
+is common to all developing areas of scientific endeavor,
+that is, one anticipates as many issues as possible and
+devises strategies to circumvent them, but inevitably,
+unanticipated hurdles arise that must be overcome to
+move the field forward. This review has summarized the
+current state of the science; however, we anticipate that
+the field will rapidly evolve to surpass the capabilities presented here.
+
+Acknowledgements
+The funding for this work was provided by the Water
+Environment Research Foundation (PATH3C09), the
+Florida Stormwater Association, and the Florida Department of Environmental Protection.
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+influent samples, at 7.9 9 102 copies mL 1 (deer) and
+1.3 9 103 copies (cat) (Caldwell & Levine, 2009).
+Schill, et al. developed mtDNA qPCR assays targeting
+cytB from several vertebrate species, including white-tailed
+deer and sheep (Schill & Mathes, 2008). The markers
+were evaluated against a set of fecal samples, as well as a
+mixture of cloned cytB targets from eight nontarget animal species (Schill & Mathes, 2008). In both instances,
+markers exhibited 100% specificity and they correctly
+identified source based on two challenge samples of fecal
+matter from each animal (i.e. two white-tailed deer and
+two sheep samples).
+
+V.J. Harwood et al.
+
+
+
+Molecular methods for fecal source determination
+
+Disclaimer
+The United States Environmental Protection Agency
+through its Office of Research and Development partially
+funded and collaborated in the research described here.
+It has been subjected to Agency review and approved
+for publication. Mention of trade names or commercial
+products does not constitute endorsement or recommendation for use.
+
+Abdelzaher AM, Wright ME, Ortega C et al. (2010) Presence
+of pathogens and indicator microbes at a non-point source
+subtropical recreational marine beach. Appl Environ
+Microbiol 76: 724–732.
+Ahmed W, Stewart J, Gardner T & Powell D (2008) A
+real-time polymerase chain reaction assay for quantitative
+detection of the human-specific enterococci surface protein
+marker in sewage and environmental waters. Environ
+Microbiol 10: 3255–3264.
+Ahmed W, Goonetilleke A, Powell D & Gardner T (2009a)
+Evaluation of multiple sewage-associated Bacteroides PCR
+markers for sewage pollution tracking. Water Res 43:
+4872–4877.
+Ahmed W, Goonetilleke A, Powell D, Chauhan K & Gardner T
+(2009b) Comparison of molecular markers to detect fresh
+sewage in environmental waters. Water Res 43: 4908–4917.
+Ahmed W, Yusuf R, Hasan I, Goonetilleke A & Gardner T
+(2010) Quantitative PCR assay of sewage-associated
+Bacteroides markers to assess sewage pollution in an urban
+lake in Dhaka, Bangladesh. Can J Microbiol 56: 838–845.
+Ahmed W, Sidhu JP & Toze S (2012) Evaluation of the nifH
+gene marker of Methanobrevibacter smithii for the
+detection of sewage pollution in environmental waters in
+Southeast Queensland, Australia. Environ Sci Technol 46:
+543–550.
+Albinana-Gimenez N, Clemente-Casares P, Calgua B, Huguet
+JM, Courtois S & Girones R (2009) Comparison of methods
+for concentrating human adenoviruses, polyomavirus JC
+and noroviruses in source waters and drinking water using
+quantitative PCR. J Virol Methods 158: 104–109.
+Anderson KL, Whitlock JE, Harwood VJ & K, (2005)
+Persistence and differential survival of indicator bacteria in
+subtropical waters and sediments. Appl Environ Microbiol
+71: 3041–3048.
+Arnone RD & Walling JP (2007) Waterborne pathogens in
+urban watersheds. J Water Health 5: 149–162.
+Badgley BD, Thomas FI & Harwood VJ (2011) Quantifying
+environmental reservoirs of fecal indicator bacteria
+associated with sediment and submerged aquatic vegetation.
+Environ Microbiol 13: 932–942.
+Bae S & Wuertz S (2009) Rapid decay of host-specific fecal
+Bacteroidales cells in seawater as measured by quantitative
+PCR with propidium monoazide. Water Res 43: 4850–4859.
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Bae S & Wuertz S (2012) Survival of host-associated
+Bacteroidales cells and their relationship with Enterococcus
+spp., Campylobacter jejuni, Salmonella enterica serovar
+Typhimurium, and adenovirus in freshwater microcosms as
+measured by propidium monoazide-quantitative PCR. Appl
+Environ Microbiol 78: 922–932.
+Balleste E, Bonjoch X, Belanche LA & Blanch AR (2010)
+Molecular indicators used in the development of predictive
+models for microbial source tracking. Appl Environ
+Microbiol 76: 1789–1795.
+Beekwilder J, Nieuwenhuizen R, Havelaar AH & van Duin J
+(1996) An oligonucleotide hybridization assay for the
+identification and enumeration of F-specific RNA phages in
+surface water. J Appl Bacteriol 80: 179–186.
+Bernhard AE & Field KG (2000a) Identification of nonpoint
+sources of fecal pollution in coastal waters by using
+host-specific 16S ribosomal DNA genetic markers from fecal
+anaerobes. Appl Environ Microbiol 66: 1587–1594.
+Bernhard AE & Field KG (2000b) A PCR assay to discriminate
+human and ruminant feces on the basis of host differences
+in Bacteroides-Prevotella genes encoding 16S rRNA. Appl
+Environ Microbiol 66: 4571–4574.
+Bernhard AE, Goyard T, Simonich MT & Field KG (2003)
+Application of a rapid method for identifying fecal pollution
+sources in a multi-use estuary. Water Res 37: 909–913.
+Betancourt WQ & Fujioka RS (2006) Bacteroides spp. as
+reliable marker of sewage contamination in Hawaii’s
+environmental waters using molecular techniques. Water Sci
+Technol 54: 101–107.
+Boehm AB & Soller JA (2012) Recreational water risk:
+pathogens and fecal indicators. Encyclopedia of
+Sustainability, Science and Technology,(Meyers RA Ed),
+Chapter 16, pp. 441–459. Springer, New York, NY.
+Boehm AB, Fuhrman JA, Mrse RD & Grant SB (2003) Tiered
+approach for identification of a human fecal pollution
+source at a recreational beach: Case study at Avalon Cay,
+Catalina Island, California. Environ Sci Technol 37: 673–680.
+Boehm AB, Yamahara KM, Love DC, Peterson BM, McNeill K
+& Nelson KL (2009) Covariation and photoinactivation of
+traditional and novel indicator organisms and human
+viruses at a sewage-impacted marine beach. Environ Sci
+Technol 43: 8046–8052.
+Boehm AB, Van De Werfhorst L, Griffith JF et al. (2013)
+Performance of forty-one microbial source tracking
+methods: a twenty-seven lab evaluation study. Water Res 47,
+in press.
+Bofill-Mas S, Pina S & Girones R (2000) Documenting the
+epidemiologic patterns of polyomaviruses in human
+populations by studying their presence in urban sewage.
+Appl Environ Microbiol 66: 238–245.
+Bonadonna L, Briancesco R, Ottaviani M & Veschetti E (2002)
+Occurrence of Cryptosporidium oocysts in sewage effluents
+and correlation with microbial, chemical and physical water
+variables. Environ Monit Assess 75: 241–252.
+Bonjoch X, Balleste E & Blanch AR (2004) Multiplex PCR
+with 16S rRNA gene-targeted primers of Bifidobacterium
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+References
+
+33
+
+
+
+34
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Converse RR, Blackwood AD, Kirs M, Griffith JF & Noble RT
+(2009) Rapid QPCR-based assay for fecal Bacteroides spp. as
+a tool for assessing fecal contamination in recreational
+waters. Water Res 43: 4828–4837.
+Deprez RHL, Fijnvandraat AC, Ruijter JM & Moorman AFM
+(2002) Sensitivity and accuracy of quantitative real-time
+polymerase chain reaction using SYBR green I depends on
+cDNA synthesis conditions. Anal Biochem 307: 63–69.
+Dick LK & Field KG (2004) Rapid estimation of numbers of
+fecal Bacteroidetes by use of a quantitative PCR assay for
+16S rRNA genes. Appl Environ Microbiol 70: 5695–5697.
+Dick LK, Bernhard AE, Brodeur TJ, Santo Domingo JW,
+Simpson JM, Walters SP & Field KG (2005) Host
+distributions of uncultivated fecal Bacteroidales bacteria
+reveal genetic markers for fecal source identification. Appl
+Environ Microbiol 71: 3184–3191.
+Dick LK, Stelzer EA, Bertke EE, Fong DL & Stoeckel DM
+(2010) Relative decay of Bacteroidales microbial source
+tracking markers and cultivated Escherichia coli in freshwater
+microcosms. Appl Environ Microbiol 76: 3255–3262.
+Dombek PE, Johnson LK, Zimmerley ST & Sadowsky MJ
+(2000) Use of repetitive DNA sequences and the PCR to
+differentiate Escherichia coli isolates from human and animal
+sources. Appl Environ Microbiol 66: 2572–2577.
+Dorai-Raj S, O’Grady J & Colleran E (2009) Specificity and
+sensitivity evaluation of novel and existing Bacteroidales and
+Bifidobacteria-specific PCR assays on feces and sewage
+samples and their application for microbial source tracking
+in Ireland. Water Res 43: 4980–4988.
+Dridi B, Henry M, El Khechine A, Raoult D & Drancourt M
+(2009) High prevalence of Methanobrevibacter smithii and
+Methanosphaera stadtmanae detected in the human gut
+using an improved DNA detection protocol. PLoS ONE 4:
+e7063.
+Dwight RH, Baker DB, Semenza JC & Olson BH (2004)
+Health effects associated with recreational coastal water use:
+urban versus rural California. Am J Public Health 94: 565–
+567.
+Edge TA, Hill S, Seto P & Marsalek J (2010)
+Library-dependent and library-independent microbial source
+tracking to identify spatial variation in faecal contamination
+sources along a Lake Ontario beach (Ontario, Canada).
+Water Sci Technol 62: 719–727.
+Ferguson CM, Coote BG, Ashbolt NJ & Stevenson IM (1996)
+Relationships between indicators, pathogens and water
+quality in an estuarine system. Water Res 30: 2045–2054.
+Field KG & Samadpour M (2007) Fecal source tracking, the
+indicator paradigm, and managing water quality. Water Res
+41: 3517–3538.
+Field KG, Chern EC, Dick LK et al. (2003) A comparative
+study of culture-independent, library-independent genotypic
+methods of fecal source tracking. J Water Health 1: 181–194.
+Fleisher JM, Fleming LE, Solo-Gabriele HM et al. (2010) The
+BEACHES Study: health effects and exposures from
+non-point source microbial contaminants in subtropical
+recreational marine waters. Int J Epidemiol 39: 1291–1298.
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+spp. to identify sources of fecal pollution. Appl Environ
+Microbiol 70: 3171–3175.
+Bosch A (1998) Human enteric viruses in the water
+environment: a minireview. Int Microbiol 1: 191–196.
+Bosch A, Lucena F, Diez JM, Gajardo R, Blasi M & Jofre J
+(1991) Waterborne viruses associated with hepatitis
+outbreak. J Am Water Works Assoc 83: 80–83.
+Bower PA, Scopel CO, Jensen ET, Depas MM & McLellan SL
+(2005) Detection of genetic markers of fecal indicator bacteria
+in Lake Michigan and determination of their relationship to
+Escherichia coli densities using standard microbiological
+methods. Appl Environ Microbiol 71: 8305–8313.
+Brownell MJ, Harwood VJ, Kurz RC, McQuaig SM, Lukasik J
+& Scott TM (2007) Confirmation of putative stormwater
+impact on water quality at a Florida beach by microbial
+source tracking methods and structure of indicator
+organism populations. Water Res 41: 3747–3757.
+Byappanahalli MN & Fujioka RS (1998) Evidence that tropical
+soil environment can support the growth of Escherichia coli.
+Water Sci Technol 38: 171–174.
+Byappanahalli MN, Shively DA, Nevers MB, Sadowsky MJ &
+Whitman RL (2003) Growth and survival of Escherichia coli
+and enterococci populations in the macro-alga Cladophora
+(Chlorophyta). FEMS Microbiol Ecol 46: 203–211.
+Cabelli VJ, Dufour AP, McCabe LJ & Levin MA (1982)
+Swimming-associated gastroenteritis and water quality. Am J
+Epidemiol 115: 606–616.
+Caldwell JM & Levine JF (2009) Domestic wastewater influent
+profiling using mitochondrial real-time PCR for source
+tracking animal contamination. J Microbiol Methods 77:
+17–22.
+Caldwell JM, Raley ME & Levine JF (2007) Mitochondrial
+multiplex real-time PCR as a source tracking method in
+fecal-contaminated effluents. Environ Sci Technol 41: 3277–
+3283.
+Carson CA, Shear BL, Ellersieck MR & Asfaw A (2001)
+Identification of fecal Escherichia coli from humans and
+animals by ribotyping. Appl Environ Microbiol 67: 1503–
+1507.
+Carson CA, Christiansen JM, Yampara-Iquise H et al. (2005)
+Specificity of a Bacteroides thetaiotaomicron marker for
+human feces. Appl Environ Microbiol 71: 4945–4949.
+Cheung WH, Chang KC, Hung RP & Kleevens JW (1990)
+Health effects of beach water pollution in Hong Kong.
+Epidemiol Infect 105: 139–162.
+Clermont O, Lescat M, O’Brien CL, Gordon DM, Tenaillon O
+& Denamur E (2008) Evidence for a human-specific
+Escherichia coli clone. Environ Microbiol 10: 1000–1006.
+Colford JM, Wade TJ, Schiff KC, Wright C, Griffith JF,
+Sukhminder KS & Weisberg SB (2005) Recreational Water
+Contact and Illness in Mission Bay, California. pp. 430.
+Southern California Coastal Water Research Project,
+Westminster, CA.
+Colford JM, Wade TJ, Schiff KC et al. (2007) Water quality
+indicators and the risk of illness at beaches with nonpoint
+sources of fecal contamination. Epidemiology 18: 27–35.
+
+V.J. Harwood et al.
+
+
+
+Molecular methods for fecal source determination
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Hamza IA, Jurzik L, Uberla K & Wilhelm M (2011) Evaluation
+of pepper mild mottle virus, human picobirnavirus and
+Torque teno virus as indicators of fecal contamination in
+river water. Water Res 45: 1358–1368.
+Harada T, Mito Y, Otsuki K & Murase T (2004) Resistance to
+gentamicin and vancomycin in enterococcal strains isolated
+from retail broiler chickens in Japan. J Food Prot 67: 2292–
+2295.
+Harwood VJ & Stoeckel DM (2011) Performance criteria.
+Microbial Source Tracking: Methods, Applications, and Case
+Studies, (Hagedorn C, Blanch AR & Harwood VJ, eds), pp.
+7–30. Springer, New York, NY.
+Harwood VJ, Butler J, Parrish D & Wagner V (1999) Isolation
+of fecal coliform bacteria from the diamondback terrapin
+(Malaclemys terrapin centrata). Appl Environ Microbiol 65:
+865–867.
+Harwood VJ, Whitlock J & Withington V (2000) Classification
+of antibiotic resistance patterns of indicator bacteria by
+discriminant analysis: use in predicting the source of fecal
+contamination in subtropical waters. Appl Environ Microbiol
+66: 3698–3704.
+Harwood VJ, Wiggins B, Hagedorn C et al. (2003) Phenotypic
+library-based microbial source tracking methods: efficacy in
+the California collaborative study. J Water Health 1: 153–166.
+Harwood VJ, Levine AD, Scott TM, Chivukula V, Lukasik J,
+Farrah SR & Rose JB (2005) Validity of the indicator
+organism paradigm for pathogen reduction in reclaimed
+water and public health protection. Appl Environ Microbiol
+71: 3163–3170.
+Harwood VJ, Brownell M, Wang S et al. (2009) Validation
+and field testing of library-independent microbial source
+tracking methods in the Gulf of Mexico. Water Res 43:
+4812–4819.
+Harwood VJ, Gordon KV & Staley C (2011) Validation of
+Rapid Methods for Enumeration of Markers for Human
+Sewage Contamination in Recreational Water. Water
+Environment Research Foundation, Alexandria, VA.
+PATH3C09.
+Harwood VJ, Boehm AB, Sassoubre LM et al. (2013)
+Performance of viruses and bacteriophages for fecal source
+determination in a Multi-laboratory, comparative Study.
+Water Res, 47, in press.
+Haugland RA, Siefring SC, Wymer LJ, Brenner KP & Dufour
+AP (2005) Comparison of Enterococcus measurements in
+freshwater at two recreational beaches by quantitative
+polymerase chain reaction and membrane filter culture
+analysis. Water Res 39: 559–568.
+Haugland RA, Varma M, Sivaganesan M, Kelty C, Peed L &
+Shanks OC (2010) Evaluation of genetic markers from the
+16S rRNA gene V2 region for use in quantitative detection
+of selected Bacteroidales species and human fecal waste by
+qPCR. Syst Appl Microbiol 33: 348–357.
+Havelaar AH, Pot-Hogeboom WM, Furuse K, Pot R &
+Hormann MP (1990) F-specific RNA bacteriophages and
+sensitive host strains in faeces and wastewater of human and
+animal origin. J Appl Bacteriol 69: 30–37.
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Flood C, Ufnar J, Wang S, Johnson J, Carr M & Ellender R
+(2011) Lack of correlation between enterococcal counts and
+the presence of human specific fecal markers in Mississippi
+creek and coastal waters. Water Res 45: 872–878.
+Fremaux B, Gritzfeld J, Boa T & Yost CK (2009) Evaluation of
+host-specific Bacteroidales 16S rRNA gene markers as a
+complementary tool for detecting fecal pollution in a prairie
+watershed. Water Res 43: 4838–4849.
+Fremaux B, Boa T & Yost CK (2010) Quantitative real-time
+PCR assays for sensitive detection of Canada goose-specific
+fecal pollution in water sources. Appl Environ Microbiol 76:
+4886–4889.
+Gourmelon M, Caprais MP, Segura R, Le Mennec C, Lozach S,
+Piriou JY & Rince A (2007) Evaluation of two
+library-independent microbial source tracking methods to
+identify sources of fecal contamination in French estuaries.
+Appl Environ Microbiol 73: 4857–4866.
+Gourmelon M, Caprais MP, Le Mennec C, Mieszkin S,
+Ponthoreau C & Gendronneau M (2010a) Application of
+library-independent microbial source tracking methods for
+identifying the sources of faecal contamination in coastal
+areas. Water Sci Technol 61: 1401–1409.
+Gourmelon M, Caprais MP, Mieszkin S et al. (2010b)
+Development of microbial and chemical MST tools to
+identify the origin of the faecal pollution in bathing and
+shellfish harvesting waters in France. Water Res 44: 4812–
+4824.
+Graves AK (2011) Food safety and implications for microbial
+source tracking. Microbial Source Tracking: Methods,
+Applications, and Case Studies (Hagedorn C, Blanch AR &
+Harwood VJ, eds), pp. 585–607. Springer, New York, NY.
+Green HC, Dick LK, Gilpin B, Samadpour M & Field KG
+(2011a) Genetic markers for rapid PCR-based identification
+of gull, Canada goose, duck, and chicken fecal
+contamination in water. Appl Environ Microbiol 78: 503–
+510.
+Green HC, Shanks OC, Sivaganesan M, Haugland RA & Field
+KG (2011b) Differential decay of human fecal Bacteroides in
+marine and freshwater. Environ Microbiol 13: 3235–3249.
+Griffith JF, Weisberg SB & McGee CD (2003) Evaluation of
+microbial source tracking methods using mixed fecal
+sources in aqueous test samples. J Water Health 1: 141–151.
+Griffith JF, Cao YP, McGee CD & Weisberg SB (2009)
+Evaluation of rapid methods and novel indicators for
+assessing microbiological beach water quality. Water Res 43:
+4900–4907.
+Hagedorn C, Robinson SL, Filtz JR, Grubbs SM, Angier TA &
+Reneau RB Jr (1999) Determining sources of fecal pollution
+in a rural Virginia watershed with antibiotic resistance
+patterns in fecal streptococci. Appl Environ Microbiol 65:
+5522–5531.
+Hammerum AM & Jensen LB (2002) Prevalence of esp,
+encoding the enterococcal surface protein, in Enterococcus
+faecalis and Enterococcus faecium isolates from hospital
+patients, poultry, and pigs in Denmark. J Clin Microbiol 40:
+4396.
+
+35
+
+
+
+36
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Kreader CA (1998) Persistence of PCR-detectable Bacteroides
+distasonis from human feces in river water. Appl Environ
+Microbiol 64: 4103–4105.
+Ksoll WB, Ishii S, Sadowsky MJ & Hicks RE (2007) Presence
+and sources of fecal coliform bacteria in epilithic periphyton
+communities of lake superior. Appl Environ Microbiol 73:
+3771–3778.
+Lamendella R, Santo Domingo JW, Kelty C & Oerther DB
+(2008) Bifidobacteria in feces and environmental waters.
+Appl Environ Microbiol 74: 575–584.
+Layton A, McKay L, Williams D, Garrett V, Gentry R & Sayler
+G (2006) Development of Bacteroides 16S rRNA gene
+TaqMan-based real-time PCR assays for estimation of total,
+human, and bovine fecal pollution in water. Appl Environ
+Microbiol 72: 4214–4224.
+Layton BA, Walters SP & Boehm AB (2009) Distribution and
+diversity of the enterococcal surface protein (esp) gene in
+animal hosts and the Pacific coast environment. J Appl
+Microbiol 106: 1521–1531.
+Leclerc H, Mossel DAA, Edberg SC & Struijk CB (2001)
+Advances in the bacteriology of the Coliform Group: their
+suitability as markers of microbial water safety. Annu Rev
+Microbiol 55: 201–234.
+Lee CS & Lee J (2010) Evaluation of new gyrB-based real-time
+PCR system for the detection of B. fragilis as an indicator of
+human-specific fecal contamination. J Microbiol Methods 82:
+311–318.
+Lee DY, Weir SC, Lee H & Trevors JT (2010) Quantitative
+identification of fecal water pollution sources by TaqMan
+real-time PCR assays using Bacteroidales 16S rRNA genetic
+markers. Appl Microbiol Biotechnol 88: 1373–1383.
+Lemarchand K & Lebaron P (2003) Occurrence of Salmonella
+spp. and Cryptosporidium spp. in a French coastal
+watershed: relationship with fecal indicators. FEMS
+Microbiol Lett 218: 203–209.
+Leskinen SD, Brownell M, Lim DV & Harwood VJ (2010)
+Hollow-fiber ultrafiltration and PCR detection of
+human-associated genetic markers from various types of
+surface water in Florida. Appl Environ Microbiol 76: 4116–4117.
+Litton RM, Ahn JH, Sercu B, Holden PA, Sedlak DL & Grant
+SB (2010) Evaluation of chemical, molecular, and traditional
+markers of fecal contamination in an effluent dominated
+urban stream. Environ Sci Technol 44: 7369–7375.
+Lodder WJ, Vinje J, van de Heide R, Husman AMD, Leenen
+EJTM & Koopmans MPG (1999) Molecular detection of
+Norwalk-like caliciviruses in sewage. Appl Environ Microbiol
+65: 5624–5627.
+Lu JR, Santo Domingo JW, Lamendella R, Edge T & Hill S
+(2008) Phylogenetic diversity and molecular detection of
+bacteria in gull feces. Appl Environ Microbiol 74: 3969–3976.
+Lu J, Ryu H, Hill S, Schoen M, Ashbolt N, Edge TA &
+Domingo JS (2011) Distribution and potential significance
+of a gull fecal marker in urban coastal and riverine areas of
+southern Ontario, Canada. Water Res 45: 3960–3968.
+Lund V (1996) Evaluation of E. coli as an indicator for the
+presence of Campylobacter jejuni and Yersinia enterocolitica
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+Heid CA, Stevens J, Livak KJ & Williams PM (1996) Real time
+quantitative PCR. Genome Res 6: 986–994.
+Hopkins RS, Gaspard GB, Williams FP, Karlin RJ, Cukor G &
+Blacklow NR (1984) A community waterborne
+gastroenteritis outbreak – evidence for rotavirus as the
+agent. Am J Public Health 74: 263–265.
+Hsu FC, Shieh YS, van Duin J, Beekwilder MJ & Sobsey MD
+(1995) Genotyping male-specific RNA coliphages by
+hybridization with oligonucleotide probes. Appl Environ
+Microbiol 61: 3960–3966.
+Hundesa A, de Motes CM, Albinana-Gimenez N,
+Rodriguez-Manzano J, Bofill-Mas S, Sunen E & Girones RR
+(2009) Development of a qPCR assay for the quantification
+of porcine adenoviruses as an MST tool for swine fecal
+contamination in the environment. J Virol Methods 158:
+130–135.
+Ishii S, Ksoll WB, Hicks RE & Sadowsky MJ (2006) Presence
+and growth of naturalized Escherichia coli in temperate soils
+from lake superior watersheds. Appl Environ Microbiol 72:
+612–621.
+Jeng HWC, England AJ & Bradford HB (2005) Indicator
+organisms associated with stormwater suspended particles
+and estuarine sediment. J Environ Sci Health A Tox Hazard
+Subst Environ Eng 40: 779–791.
+Jenkins MW, Tiwari S, Lorente M, Gichaba CM & Wuertz S
+(2009) Identifying human and livestock sources of fecal
+contamination in Kenya with host-specific Bacteroidales
+assays. Water Res 43: 4956–4966.
+Johnston C, Ufnar JA, Griffith JF, Gooch JA & Stewart JR
+(2010) A real-time qPCR assay for the detection of the nifH
+gene of Methanobrevibacter smithii, a potential indicator of
+sewage pollution. J Appl Microbiol 109: 1946–1956.
+Jokinen CC, Schreier H, Mauro W et al. (2010) The
+occurrence and sources of Campylobacter spp., Salmonella
+enterica and Escherichia coli O157:H7 in the Salmon River,
+British Columbia, Canada. J Water Health 8: 374–386.
+Kildare BJ, Leutenegger CM, McSwain BS, Bambic DG, Rajal
+VB & Wuertz S (2007) 16S rRNA-based assays for
+quantitative detection of universal, human-, cow-, and
+dog-specific fecal Bacteroidales: a Bayesian approach. Water
+Res 41: 3701–3715.
+King EL, Bachoon DS & Gates KW (2007) Rapid detection of
+human fecal contamination in estuarine environments by
+PCR targeting of Bifidobacterium adolescentis. J Microbiol
+Methods 68: 76–81.
+Kinzelman JL & McLellan SL (2009) Success of science-based
+best management practices in reducing swimming bans – a
+case study from Racine, Wisconsin, USA. Aquat Ecosyst
+Health Manage 12: 187–196.
+Kirs M & Smith DC (2007) Multiplex quantitative real-time
+reverse transcriptase PCR for F+-specific RNA coliphages: a
+method for use in microbial source tracking. Appl Environ
+Microbiol 73: 808–814.
+Korajkic A, Brownell MJ & Harwood VJ (2011) Investigation
+of human sewage pollution and pathogen analysis at Florida
+Gulf coast beaches. J Appl Microbiol 110: 174–183.
+
+V.J. Harwood et al.
+
+
+
+Molecular methods for fecal source determination
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Newton RJ, Vandewalle J, Borchardt MA, Gorelick MH &
+McLellan SL (2011) Lachnospiraceae and Bacteroidales
+alternative fecal indicators reveal chronic human sewage
+contamination in an urban harbor. Appl Environ Microbiol
+77: 6972–6981.
+Noble RT, Allen SM, Blackwood AD et al. (2003) Use of viral
+pathogens and indicators to differentiate between human
+and non-human fecal contamination in a microbial source
+tracking comparison study. J Water Health 1: 195–207.
+Noble RT, Griffith JF, Blackwood AD et al. (2006) Multitiered
+approach using quantitative PCR to track sources of fecal
+pollution affecting Santa Monica Bay, California. Appl
+Environ Microbiol 72: 1604–1612.
+Okabe S, Okayama N, Savichtcheva O & Ito T (2007)
+Quantification of host-specific Bacteroides-Prevotella 16S
+rRNA genetic markers for assessment of fecal pollution in
+freshwater. Appl Microbiol Biotechnol 74: 890–901.
+Parker JK, McIntyre D & Noble RT (2010) Characterizing fecal
+contamination in stormwater runoff in coastal North
+Carolina, USA. Water Res 44: 4186–4194.
+Parveen S, Murphree RL, Edmiston L, Kaspar CW, Portier KM
+& Tamplin ML (1997) Association of
+multiple-antibiotic-resistance profiles with point and
+nonpoint sources of Escherichia coli in Apalachicola Bay.
+Appl Environ Microbiol 63: 2607–2612.
+Parveen S, Portier KM, Robinson K, Edmiston L & Tamplin
+ML (1999) Discriminant analysis of ribotype profiles of
+Escherichia coli for differentiating human and nonhuman
+sources of fecal pollution. Appl Environ Microbiol 65: 3142–
+3147.
+Pina S, Puig M, Lucena F, Jofre J & Girones R (1998) Viral
+pollution in the environment and in shellfish: human
+adenovirus detection by PCR as an index of human viruses.
+Appl Environ Microbiol 64: 3376–3382.
+Prieto MD, Lopez B, Juanes JA, Revilla JA, Llorca J &
+Delgado-Rodriguez M (2001) Recreation in coastal waters:
+health risks associated with bathing in sea water. J Epidemiol
+Community Health 55: 442–447.
+Reischer GH, Kasper DC, Steinborn R, Mach RL & Farnleitner
+AH (2006) Quantitative PCR method for sensitive detection
+of ruminant fecal pollution in freshwater and evaluation of
+this method in alpine karstic regions. Appl Environ Microbiol
+72: 5610–5614.
+Reischer GH, Kasper DC, Steinborn R, Farnleitner AH &
+Mach RL (2007) A quantitative real-time PCR assay for the
+highly sensitive and specific detection of human faecal
+influence in spring water from a large alpine catchment
+area. Lett Appl Microbiol 44: 351–356.
+Reynolds KA, Mena KD & Gerba CP (2008) Risk of
+waterborne illness via drinking water in the United States.
+Rev Environ Contam Toxicol 192: 117–158.
+Rosario K, Symonds EM, Sinigalliano C, Stewart J & Breitbart
+M (2009) Pepper mild mottle virus as an indicator of fecal
+pollution. Appl Environ Microbiol 75: 7261–7267.
+Ryu H, Lu JR, Vogel J, Elk M, Chavez-Ramirez F, Ashbolt N
+& Domingo JS (2012a) Development and evaluation of a
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+in chlorinated and untreated oligotrophic lake water. Water
+Res 30: 1528–1534.
+Luo C, Walk ST, Gordon DM, Feldgarden M, Tiedje JM &
+Konstantinidis KT (2011) Genome sequencing of
+environmental Escherichia coli expands understanding of the
+ecology and speciation of the model bacterial species. P Natl
+Acad Sci USA 108: 7200–7205.
+Martellini A, Payment P & Villemur R (2005) Use of
+eukaryotic mitochondrial DNA to differentiate human,
+bovine, porcine and ovine sources in fecally contaminated
+surface water. Water Res 39: 541–548.
+Marti R, Zhang Y, Lapen DR & Topp E (2011) Development
+and validation of a microbial source tracking marker for the
+detection of fecal pollution by muskrats. J Microbiol
+Methods 87: 82–88.
+Matsuki T, Watanabe K, Tanaka R & Oyaizu H (1998) Rapid
+identification of human intestinal bifidobacteria by 16S
+rRNA-targeted species- and group-specific primers. FEMS
+Microbiol Lett 167: 113–121.
+McBride GB, Loftis JC & Adkins NC (1993) What do
+significance tests really tell us about the environment.
+Environ Manage 17: 423–432.
+McLain JE, Ryu H, Kabiri-Badr L, Rock CM & Abbaszadegan
+M (2009) Lack of specificity for PCR assays targeting
+human Bacteroides 16S rRNA gene: cross-amplification with
+fish feces. FEMS Microbiol Lett 299: 38–43.
+McQuaig SM (2009) The development of a human
+polyomavirus quantitative PCR assay to assess viral
+persistence, water quality, and human health risks Thesis.
+University of South Florida, Tampa, FL, USA.
+McQuaig SM, Scott TM, Harwood VJ, Farrah SR & Lukasik
+JO (2006) Detection of human-derived fecal pollution in
+environmental waters by use of a PCR-based human
+polyomavirus assay. Appl Environ Microbiol 72: 7567–7574.
+McQuaig SM, Scott TM, Lukasik JO, Paul JH & Harwood VJ
+(2009) Quantification of human polyomaviruses JC Virus
+and BK Virus by TaqMan quantitative PCR and comparison
+to other water quality indicators in water and fecal samples.
+Appl Environ Microbiol 75: 3379–3388.
+McQuaig S, Griffith J & Harwood VJ (2012) The association
+of fecal indicator bacteria with human viruses and microbial
+source tracking markers at coastal beaches impacted by
+nonpoint source pollution. Appl Environ Microbiol 78:
+6423–6432.
+Mieszkin S, Furet JP, Corthier G & Gourmelon M (2009)
+Estimation of pig fecal contamination in a river catchment by
+real-time PCR using two pig-specific Bacteroidales 16S rRNA
+genetic markers. Appl Environ Microbiol 75: 3045–3054.
+Moore DF, Harwood VJ, Ferguson DM, Lukasik J, Hannah P,
+Getrich M & Brownell M (2005) Evaluation of antibiotic
+resistance analysis and ribotyping for identification of faecal
+pollution sources in an urban watershed. J Appl Microbiol
+99: 618–628.
+Myoda SP, Carson CA, Fuhrmann JJ et al. (2003) Comparison
+of genotypic-based microbial source tracking methods
+requiring a host origin database. J Water Health 1: 167–180.
+
+37
+
+
+
+38
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Shanks OC, White K, Kelty CA et al. (2010b) Performance
+assessment PCR-based assays targeting Bacteroidales genetic
+markers of bovine fecal pollution. Appl Environ Microbiol
+76: 1359–1366.
+Shanks OC, Sivaganesan M, Peed L et al. (2012)
+Interlaboratory comparison of real-time PCR protocols for
+quantification of general fecal indicator bacteria. Environ Sci
+Technol 46: 945–953.
+Shibata T, Solo-Gabriele HM, Sinigalliano CD et al. (2010)
+Evaluation of conventional and alternative monitoring
+methods for a recreational marine beach with nonpoint
+source of fecal contamination. Environ Sci Technol 44: 8175–
+8181.
+Siefring S, Varma M, Atikovic E, Wymer L & Haugland RA
+(2008) Improved real-time PCR assays for the detection
+of fecal indicator bacteria in surface waters with
+different instrument and reagent systems. J Water Health 6:
+225–237.
+Silkie SS & Nelson KL (2009) Concentrations of host-specific
+and generic fecal markers measured by quantitative PCR in
+raw sewage and fresh animal feces. Water Res 43: 4860–
+4871.
+Simpson JM, Santo Domingo JW & Reasoner DJ (2002)
+Microbial source tracking: state of the science. Environ Sci
+Technol 36: 5279–5288.
+Sinigalliano CD, Fleisher JM, Gidley ML et al. (2010)
+Traditional and molecular analyses for fecal indicator
+bacteria in non-point source subtropical recreational marine
+waters. Water Res 44: 3763–3772.
+Sokolova E, Astrom J, Pettersson TJ, Bergstedt O &
+Hermansson M (2012) Decay of Bacteroidales genetic
+markers in relation to traditional fecal indicators for water
+quality modeling of drinking water sources. Environ Sci
+Technol 46: 892–900.
+Solecki O, Jeanneau L, Jarde E, Gourmelon M, Marin C &
+Pourcher AM (2011) Persistence of microbial and chemical
+pig manure markers as compared to faecal indicator
+bacteria survival in freshwater and seawater microcosms.
+Water Res 45: 4623–4633.
+Soller JA, Bartrand T, Ashbolt NJ, Ravenscroft J & Wade TJ
+(2010a) Estimating the primary etiologic agents in
+recreational freshwaters impacted by human sources of
+faecal contamination. Water Res 44: 4736–4747.
+Soller JA, Schoen ME, Bartrand T, Ravenscroft JE & Ashbolt
+NJ (2010b) Estimated human health risks from exposure to
+recreational waters impacted by human and non-human
+sources of faecal contamination. Water Res 44: 4674–4691.
+Solo-Gabriele HM, Wolfert MA, Desmarais TR & Palmer CJ
+(2000) Sources of Escherichia coli in a coastal subtropical
+environment. Appl Environ Microbiol 66: 230–237.
+Souza V, Rocha M, Valera A & Eguiarte LE (1999) Genetic
+structure of natural populations of Escherichia coli in wild
+hosts on different continents. Appl Environ Microbiol 65:
+3373–3385.
+Srinivasan S, Aslan A, Xagoraraki I, Alocilja E & Rose JB
+(2011) Escherichia coli, enterococci, and Bacteroides
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+quantitative PCR assay targeting sandhill crane (Grus
+canadensis) fecal pollution. Appl Environ Microbiol 78: 4338–
+4345.
+Ryu H, Griffith JF, Khan IU et al. (2012b) Comparison of gull
+feces-specific assays targeting the 16S rRNA genes of
+Catellicoccus marimammalium and Streptococcus spp. Appl
+Environ Microbiol 78: 1909–1916.
+Santo Domingo JW & Sadowsky MJ (2007) Microbial Source
+Tracking. ASM Press, Washington, D.C.
+Sauer EP, VandeWalle JL, Bootsma MJ & McLellan SL (2011)
+Detection of the human specific Bacteroides genetic marker
+provides evidence of widespread sewage contamination of
+stormwater in the urban environment. Water Res 45: 4081–
+4091.
+Savichtcheva O, Okayama N & Okabe S (2007) Relationships
+between Bacteroides 16S rRNA genetic markers and presence
+of bacterial enteric pathogens and conventional fecal
+indicators. Water Res 41: 3615–3628.
+Schill WB & Mathes MV (2008) Real-time PCR detection and
+quantification of nine potential sources of fecal
+contamination by analysis of mitochondrial cytochrome b
+targets. Environ Sci Technol 42: 5229–5234.
+Schriewer A, Miller WA, Byrne BA et al. (2010) Presence of
+Bacteroidales as a predictor of pathogens in surface waters of
+the central California coast. Appl Environ Microbiol 76:
+5802–5814.
+Scott TM, Jenkins TM, Lukasik J & Rose JB (2005) Potential
+use of a host associated molecular marker in Enterococcus
+faecium as an index of human fecal pollution. Environ Sci
+Technol 39: 283–287.
+Seurinck S, Defoirdt T, Verstraete W & Siciliano SD (2005)
+Detection and quantification of the human-specific HF183
+Bacteroides 16S rRNA genetic marker with real-time PCR
+for assessment of human faecal pollution in freshwater.
+Environ Microbiol 7: 249–259.
+Shanks OC, Santo Domingo JW, Lamendella R, Kelty CA &
+Graham JE (2006) Competitive metagenomic DNA
+hybridization identifies host-specific microbial genetic
+markers in cow fecal samples. Appl Environ Microbiol 72:
+4054–4060.
+Shanks OC, Domingo JW, Lu J, Kelty CA & Graham JE
+(2007) Identification of bacterial DNA markers for the
+detection of human fecal pollution in water. Appl Environ
+Microbiol 73: 2416–2422.
+Shanks OC, Atikovic E, Blackwood AD et al. (2008)
+Quantitative PCR for detection and enumeration of genetic
+markers of bovine fecal pollution. Appl Environ Microbiol
+74: 745–752.
+Shanks OC, Kelty CA, Sivaganesan M, Varma M &
+Haugland RA (2009) Quantitative PCR for genetic markers
+of human fecal pollution. Appl Environ Microbiol 75:
+5507–5513.
+Shanks OC, White K, Kelty CA et al. (2010a) Performance of
+PCR-based assays targeting Bacteroidales genetic markers of
+human fecal pollution in sewage and fecal samples. Environ
+Sci Technol 44: 6281–6288.
+
+V.J. Harwood et al.
+
+
+
+Molecular methods for fecal source determination
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+swimming-associated gastrointestinal illness. Environ Health
+Perspect 114: 24–28.
+Wade TJ, Calderon RL, Brenner KP et al. (2008) High
+sensitivity of children to swimming-associated
+gastrointestinal illness: results using a rapid assay of
+recreational water quality. Epidemiology 19: 375–383.
+Wade TJ, Sams E, Brenner KP et al. (2010) Rapidly measured
+indicators of recreational water quality and
+swimming-associated illness at marine beaches: a
+prospective cohort study. Environ Health 9: 66.
+Walker NJ (2002) A technique whose time has come. Science
+296: 557–559.
+Walters SP & Field KG (2009) Survival and persistence of
+human and ruminant-specific faecal Bacteroidales in
+freshwater microcosms. Environ Microbiol 11: 1410–1421.
+Walters SP, Gannon VPJ & Field KG (2007) Detection of
+Bacteroidales fecal indicators and the zoonotic pathogens
+E. coli 0157:H7, Salmonella, and Campylobacter in river
+water. Environ Sci Technol 41: 1856–1862.
+Walters SP, Yamahara KM & Boehm AB (2009) Persistence of
+nucleic acid markers of health-relevant organisms in
+seawater microcosms: implications for their use in assessing
+risk in recreational waters. Water Res 43: 4929–4939.
+Wang RF, Cao WW, Campbell WL, Hairston L, Franklin W &
+Cerniglia CE (1994) The use of PCR to monitor the
+population abundance of 6 human intestinal bacterial
+species in an in-vitro semicontinuous culture system. FEMS
+Microbiol Lett 124: 229–237.
+Weidhaas JL, Macbeth TW, Olsen RL, Sadowsky MJ, Norat D
+& Harwood VJ (2010) Identification of a Brevibacterium
+marker gene specific to poultry litter and development of a
+quantitative PCR assay. J Appl Microbiol 109: 334–347.
+Whitman RL, Shively DA, Pawlik H, Nevers MB &
+Byappanahalli MN (2003) Occurrence of Escherichia coli and
+enterococci in Cladophora (Chlorophyta) in nearshore water
+and beach sand of Lake Michigan. Appl Environ Microbiol
+69: 4714–4719.
+Whitman RL, Przybyla-Kelly K, Shively DA & Byappanahalli
+MN (2007) Incidence of the enterococcal surface protein
+(esp) gene in human and animal fecal sources. Environ Sci
+Technol 41: 6090–6095.
+Wiggins BA (1996) Discriminant analysis of antibiotic
+resistance patterns in fecal streptococci, a method to
+differentiate human and animal sources of fecal
+pollution in natural waters. Appl Environ Microbiol 62:
+3997–4002.
+Wolf S, Hewitt J, Rivera-Aban M & Greening GE (2008)
+Detection and characterization of F+ RNA bacteriophages in
+water and shellfish: application of a multiplex real-time
+reverse transcription PCR. J Virol Methods 149: 123–128.
+Wolf S, Hewitt J & Greening GE (2010) Viral multiplex
+quantitative PCR assays for tracking sources of fecal
+contamination. Appl Environ Microbiol 76: 1388–1394.
+Wong M, Kumar L, Jenkins TM, Xagoraraki I, Phanikumar
+MS & Rose JB (2009) Evaluation of public health risks at
+recreational beaches in Lake Michigan via detection of
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+thetaiotaomicron qPCR signals through wastewater and
+septage treatment. Water Res 45: 2561–2572.
+Stapleton CM, Kay D, Wyer MD et al. (2009) Evaluating the
+operational utility of a Bacteroidales quantitative PCR-based
+MST approach in determining the source of faecal indicator
+organisms at a UK bathing water. Water Res 43: 4888–4899.
+Stewart JR, Boehm AB, Dubinsky EA et al. (2012)
+Recommendations following a multi-laboratory comparison
+of microbial source tracking methods. Water Res, 47,
+in press.
+Stewart-Pullaro J, Daugomah JW, Chestnut DE, Graves DA,
+Sobsey MD & Scott GI (2006) F+ RNA coliphage typing for
+microbial source tracking in surface waters. J Appl Microbiol
+101: 1015–1026.
+Stoeckel DM & Harwood VJ (2007) Performance, design, and
+analysis in microbial source tracking studies. Appl Environ
+Microbiol 73: 2405–2415.
+Taguchi F, Kajioka J & Miyamura T (1982) Prevalence rate
+and age of acquisition of antibodies against JC virus and BK
+virus in human sera. Microbiol Immunol 26: 1057–1064.
+Tallon P, Magajna B, Lofranco C & Leung KT (2005)
+Microbial indicators of faecal contamination in water: a
+current perspective. Water Air Soil Pollut 166: 139–166.
+Teaf CM, Garber MM & Harwood VJ(2011) Use of microbial
+source tracking in the legal arena: benefits and challenges.
+Microbial Source Tracking: Methods, Applications, and Case
+Studies (Hagedorn C, Blanch AR & Harwood VJ, eds), pp.
+301–312. Springer, New York, NY.
+Topp E, Welsh M, Tien YC, Dang A, Lazarovits G, Conn K &
+Zhu H (2003) Strain-dependent variability in growth and
+survival of Escherichia coli in agricultural soil. FEMS
+Microbiol Ecol 44: 303–308.
+Ufnar JA, Wang SY, Christiansen JM, Yampara-Iquise H,
+Carson CA & Ellender RD (2006) Detection of the nifH
+gene of Methanobrevibacter smithii: a potential tool to
+identify sewage pollution in recreational waters. J Appl
+Microbiol 101: 44–52.
+Varma M, Field R, Stinson M, Rukovets B, Wymer L &
+Haugland R (2009) Quantitative real-time PCR analysis of
+total and propidium monoazide-resistant fecal indicator
+bacteria in wastewater. Water Res 43: 4790–4801.
+Viau EJ & Boehm AB (2011) Quantitative PCR-based
+detection of pathogenic Leptospira in Hawai’ian coastal
+streams. J Water Health 9: 637–646.
+Viau EJ, Lee D & Boehm AB (2011) Swimmer risk of
+gastrointestinal illness from exposure to tropical coastal
+waters impacted by terrestrial dry-weather runoff. Environ
+Sci Technol 45: 7158–7165.
+Wade TJ, Pai N, Eisenberg JNS & Colford JM (2003) Do U.S.
+Environmental Protection Agency water quality guidelines
+for recreational waters prevent gastrointestinal illness? A
+systematic review and meta-analysis. Environ Health Perspect
+111: 1102–1109.
+Wade TJ, Calderon RL, Sams E, Beach M, Brenner KP,
+Williams AH & Dufour AP (2006) Rapidly measured
+indicators of recreational water quality are predictive of
+
+39
+
+
+
+40
+
+ª 2013 Federation of European Microbiological Societies
+Published by John Wiley & Sons Ltd. All rights reserved
+
+and marine water used for recreational purposes: summary
+estimates based on published epidemiological studies. Arch
+Environ Health 58: 703–711.
+
+Supporting Information
+Additional Supporting Information may be found in the
+online version of this article:
+Table S1. Selected field studies employing PCR methods
+to detect human-associated MST markers and correlation
+of MST markers with FIB levels.
+Table S2. Studies employing qPCR methods for the
+detection of animal-associated fecal source tracking
+markers.
+
+FEMS Microbiol Rev 38 (2014) 1–40
+
+Downloaded from https://academic.oup.com/femsre/article/38/1/1/509509 by guest on 25 February 2022
+
+enteric viruses and a human-specific bacteriological marker.
+Water Res 43: 1137–1149.
+Wyer MD, Kay D, Watkins J et al. (2010) Evaluating
+short-term changes in recreational water quality during a
+hydrograph event using a combination of microbial tracers,
+environmental microbiology, microbial source tracking and
+hydrological techniques: a case study in Southwest Wales,
+UK. Water Res 44: 4783–4795.
+Yampara-Iquise H, Zheng G, Jones JE & Carson CA (2008)
+Use of a Bacteroides thetaiotaomicron-specific alpha-1-6,
+mannanase quantitative PCR to detect human faecal
+pollution in water. J Appl Microbiol 105: 1686–1693.
+Zhang T, Breitbart M, Lee WH et al. (2006) RNA viral
+community in human feces: prevalence of plant pathogenic
+viruses. PLoS Biol 4: 108–118.
+Zmirou D, Pena L, Ledrans M & Letertre A (2003) Risks
+associated with the microbiological quality of bodies of fresh
+
+V.J. Harwood et al.
+
+

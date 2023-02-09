@@ -1,0 +1,460 @@
+Risk factors for waterborne enteric infections
+John M. Balbus, MD, MPH, and Martha A. Embrey, MPH
+
+Risk factors for waterborne enteric infections are deduced
+primarily from outbreak surveillance data; however, in the
+United States, only a fraction of the estimated water-related
+outbreaks are reported through passive surveillance. In the
+past several years, advances in molecular detection
+techniques have furthered our knowledge about foodborne
+and waterborne causes of gastroenteritis, allowing the
+association of certain pathogens with biologic and
+exposure-related susceptibilities in their hosts. This article
+summarizes some of the recent data characterizing
+susceptibility to three common waterborne pathogens:
+Cryptosporidium, a protozoan; Norwalk-like virus; and the
+bacterium Escherichia coli O157:H7. The infectious dose of
+Cryptosporidium varies by several orders of magnitude by
+strain, and repeated low-level exposure in drinking water may
+be protective. Some people may be innately immune to
+Norwalk-like virus, despite multiple exposures. A major risk
+factor for E. coli O157:H7 infection is exposure to shallow
+groundwater sources contaminated with animal waste. Curr Opin
+Gastroenterol 2002, 18:46–50 © 2002 Lippincott Williams & Wilkins, Inc.
+
+Center for Risk Science and Public Health, The George Washington University
+School of Public Health and Health Services, Washington, DC, USA.
+Correspondence to John M. Balbus, MD, MPH, Center for Risk Science and Public
+Health, The George Washington University School of Public Health and Health
+Services, 2300 K Street, NW, Suite 201, Washington, DC 20037, USA; e-mail:
+eohjmb@gwumc.edu
+Current Opinion in Gastroenterology 2002, 18:46–50
+Abbreviations
+CDC
+
+Centers for Disease Control and Prevention
+
+ISSN 0267–1379 © 2002 Lippincott Williams & Wilkins, Inc.
+
+Recent outbreaks in the United States and Canada have
+revived the public’s interest in waterborne diseases. In
+addition, the 1996 amendments to the Safe Drinking
+Water Act mandate that all customers of public water
+systems receive a Consumer Confidence Report that details the sources of their water and the results of required
+testing. Customers are urged to consult their physicians
+for specific counseling about their risks from waterborne
+exposures, both chemical and microbial. Physicians may
+not be prepared to answer patients’ questions about waterborne risks. Clinical decision-making in diarrheal
+diseases depends more on signs and symptoms than
+on sources and transmission routes. Physician education tends to focus on diagnosis and treatment, with indepth consideration of cause left to the world of public
+health.
+But there are reasons for physicians to consider sources
+of infection beyond becoming better patient information
+resources. Although it may be impossible to tell the route
+of transmission of a case of diarrhea from its symptoms,
+the specific organisms causing waterborne, foodborne, or
+directly transmitted illness differ qualitatively and quantitatively. For example, in the most recently reported
+surveillance, 86% of cases of foodborne illness were
+caused by bacteria, whereas 8% were caused by viruses
+and 5% by parasites [1]. Conversely, of 10 waterborne
+outbreaks of known infectious etiology reported in 1997
+and 1998, 60% were caused by parasites and 40% by
+bacteria [2]. At least four of the five outbreaks of unknown etiology were suspected to be viral in origin. Recognizing the situations in which patients are at risk for
+specific types of organisms may lead to more effective
+treatment, counseling, and prevention. For example, patients consuming water from an unfiltered surface water
+source would be more likely to encounter a protozoan
+such as Cryptosporidium, whereas patients using an unchlorinated, shallow well may be at risk from bacteria
+such as Escherichia coli O157:H7.
+Individual patients differ in their risks of becoming ill
+because of waterborne (or foodborne) exposures. These
+differences may be related to differences in patients’
+probability of exposure, or they may be related to physiologic or immune factors that alter the probability of
+infection or more severe clinical disease. Elucidating and
+characterizing these differences have become a priority
+for the federal regulatory agencies, which have been
+charged by Congress with ensuring that their standards
+protect the most vulnerable within the population. A
+
+46
+
+
+
+Risk factors for waterborne enteric infections Balbus and Embrey 47
+
+more thorough understanding of these differences has
+clear clinical utility as well.
+For pathogens transmitted through environmental media, there is a dynamic interaction among the pathogen,
+host, and environment that determines whether the host
+will become infected or develop symptoms. Variation in
+pathogen phenotypes, host physiology, and environmental factors can all lead to increases or decreases in the risk
+of infection. In addition to understanding differences
+among people in their intrinsic risk of infection, it is
+useful for clinicians to appreciate the differences in infection risk caused by variation among strains of pathogens. Although it is not possible to control the pathogen
+phenotypes in most cases, understanding the role phenotypic variation plays in disease risk is crucial to interpreting data on the incidence and prevalence of enteric
+infections.
+This article summarizes recent advances in the conceptualization and understanding of susceptibility to waterborne pathogens. A series of studies has provided new
+insights into the mechanisms by which waterborne microbial pathogens cause disease and the host responses to
+infection. Although the focus of this article is waterborne
+pathogens, both the conceptual framework and the clinical information on susceptibility are relevant to other
+transmission routes.
+Much of what is known about the risk factors in populations comes from outbreak data. In the United States,
+waterborne disease outbreaks are tracked using voluntary passive surveillance techniques by the Centers for
+Disease Control and Prevention (CDC) in collaboration
+with the Environmental Protection Agency. State and
+local health departments may report the epidemiologic
+data from an outbreak to CDC, but reporting varies by
+the type of outbreak, state, infectious agent, and time
+period. Such data often do not include the demographic
+or other characteristics essential for assessing interindividual differences in susceptibility. Exposure analysis is
+also very limited, and water quality parameters are not
+always included in the analysis.
+The likelihood that individual cases of illness will be
+detected, epidemiologically linked, and associated with
+water is slim. For an outbreak to be detected, a series of
+events must happen. First, people who are ill must consult a health care provider, and generally, at least two
+patients must consult the same provider for an association to be made. Next, the health care provider must
+recognize the possibility of an outbreak and perform appropriate laboratory testing or report the cases to a local
+or state health department. The availability and patterns
+of use of laboratory testing, the requirements for laboratories or physicians to report results to local or state
+
+health departments, and the activities of state and local
+health and environmental agencies all affect the likelihood that an outbreak will be recognized and reported.
+Often, pathogens are not identified because the appropriate tests are not ordered. For example, most laboratories do not test for Cryptosporidium parvum on a routine
+ova and parasites examination, and E. coli O157:H7 will
+not be detected from a routine stool culture.
+The most frequently identified etiologic agents traced to
+both drinking water and recreational water outbreaks
+representing the three pathogen classifications, protozoa,
+viruses, and bacteria, are Giardia and Cryptosporidium,
+Norwalk-like viruses, and E. coli O157:H7.
+
+Cryptosporidium: immunity
+and susceptibility
+New insights have been gained into the role of humoral
+immunity in cryptosporidiosis. Studies of the seroprevalence of Cryptosporidium IgG antibody show that exposure is more common than previously thought, is particularly high for people using surface water sources, and is
+highest for those with unfiltered surface water sources.
+One study by Frost et al. [3•] comparing antibody responses to Cryptosporidium between residents of Albuquerque, New Mexico, and Las Vegas, Nevada, found
+associations between higher titers and increasing age,
+residence in Las Vegas (which has a filtered surface water source, compared with Albuquerque’s ground water
+source), and washing of produce with bottled water.
+There was no association between antibody titers and
+self-reported cryptosporidiosis-like illness. A second
+study by Frost et al. [4•] examined longitudinal data on
+Cryptosporidium antibody after installation of filtration in
+the community water supply. Although no decline was
+found in antibody levels 5 months after the switch, the
+
+Table 1. Infectious doses for select waterborne
+enteric pathogens
+Study
+
+Enteric pathogen
+
+Okhuysen et al.
+[8]
+
+Protozoa
+Cryptosporidium
+parvum
+
+Rendtorff [17]
+Morgan et al.
+[18]
+Tilden et al.
+[19]
+†
+
+Giardia lamblia
+Bacteria
+Aeromonas hydrophila
+Escherichia coli
+O157:H7
+Virus
+Norwalk-like virus
+
+Minimum infectious
+dose
+101–103 oocysts
+(depending on
+strain)
+101 cysts
+107–109 CFU
+<50 CFU*
+101 PCR-detectible
+units
+
+*Estimated from outbreak data, not volunteer challenge studies.
+†
+Data from Moe Paper presented at Health Effects Stakeholder
+Meeting for the Stage 2 DBPR and LT2ESWTR, US Environmental
+Protection Agency, Washington, DC, 1999. CFU, colony-forming unit.
+PCR, polymerase chain reaction.
+
+
+
+48 Gastrointestinal infections
+
+study did show associations between recreational water
+use and consumption of lake water with increased titers
+of anti-Cryptosporidium IgG. A third study, also by Frost
+et al. [5], investigated a cryptosporidiosis outbreak in Collingwood, Ontario. This outbreak was unusual in that it
+affected the very young and visitors to Collingwood
+much more than the adult residents of the town. In fact,
+the low level of disease among adult residents led officials to question the existence of the outbreak. Serologic
+study revealed higher baseline and postoutbreak antibody titers among Collingwood adults, suggesting that
+reinfection did indeed occur. Another outbreak that has
+revealed the role of previous exposure in lessening risks
+from outbreaks occurred in Talent, Oregon, in 1992
+[6••]. High rates of laboratory confirmed cryptosporidiosis in Jackson County, Oregon, suggested an outbreak;
+however, illness in the town of Talent was not being
+reported, so it was assumed that Talent’s water supply
+must be free of pathogens. Two studies were performed:
+one of employees of a long-term care facility in Medford
+who had been given Talent water as a safeguard, and a
+second of Talent and non-Talent residents who were
+guests at a wedding. These two studies showed that
+drinking Talent water was associated with illness primarily in nonresidents. The authors concluded that Talent
+residents may have been exposed to low levels of Cryptosporidium over time, and that this exposure resulted in
+their immunity when oocyst levels increased in an outbreak situation. Serology studies comparing Talent residents and nonresidents supported this hypothesis.
+Several tentative conclusions can be drawn from these
+studies regarding immunity, susceptibility, and cryptosporidiosis. First, exposure appears to be quite common
+for users of surface waters for consumption or recreation.
+Second, repeated exposure appears to produce both
+long-lasting IgG titers and relative resistance to illness
+after new exposure.
+These conclusions are strengthened by data from human
+volunteer dosing studies. A 1999 study by Chappell et al.
+[7] demonstrated a 20-fold increase in ID50 among adults
+with pre-existing anti-Cryptosporidium IgG compared
+with seronegative adults. Of note, adults with the highest
+levels of pre-existing IgG had the least increase in titer
+after exposure, whereas adults with lower levels of preexisting IgG had significant increases in titers. Only approximately 54% of infected volunteers shed detectable
+levels of oocysts, indicating a role of humoral immunity
+in decreasing shedding. A more recent study by Okhuysen et al. [8] compared infectivity for different strains of
+Cryptosporidia. All strains in this study were genotype C
+strains obtained by passage through animal hosts. The
+strains used in the study were TAMU (horse), UCP
+(calf), and Iowa (calf). The variation in infectivity among
+strains was great: the ID50 for the TAMU strain was nine
+
+oocysts, whereas for UCP it was 1,024. The Iowa strain
+ID50 was intermediate at 87 oocysts.
+The role of immunity in altering susceptibility to C. parvum
+is substantial, because pre-existing IgG raises the number of oocysts required to establish infection and cause
+illness. Yet the studies discussed also indicate that variability among strains in infectivity is even greater, with
+ID50 levels varying more than 100-fold. Thus, interpreting epidemiologic results that compare population rates
+of cryptosporidiosis requires an understanding of the potential confounding by different strains among studies.
+
+Norwalk-like virus: immunity
+and susceptibility
+The Caliciviridae family has two genera that include human pathogens: the Norwalk-like viruses and the Sapporo-like viruses. Both cause gastroenteritis, and Norwalk-like viruses are the most common cause of
+nonbacterial gastroenteritis in the United States [9••].
+Breakthroughs in the development of molecular detection assays (such as reverse transcription polymerase
+chain reaction) have allowed for much greater knowledge
+of the role Norwalk-like viruses play in gastroenteritis
+outbreaks. The CDC [9••] estimates that Norwalk-like
+viruses caused 96% of 90 outbreaks of nonbacterial gastroenteritis in 1996 and 1997. Norwalk-like viruses have
+a low infectious dose, allowing easy transmission through
+aerosol droplets, food, water, and fomites, and person-toperson. Outbreaks are associated with a high rate of secondary and tertiary spread because viral shedding can
+occur after symptoms have abated. Consequently, outbreaks commonly occur in institutional settings, with
+30% of the 348 outbreaks between 1996 and 2000 associated with nursing homes. Restaurants, schools, day care
+centers, and cruise ships were also common outbreak
+sources.
+Because the immunity for Norwalk-like virus is shortlived, and because there is such diversity in strains,
+people of all ages are susceptible. Also, studies have
+shown that people with the greatest level of Norwalklike virus antibodies are most likely to become sick given
+infection [10], and that some people without antibodies
+never become infected, even after multiple challenges
+[11]. These data support the hypothesis that certain
+people are genetically susceptible to becoming infected
+and developing illness when exposed to Norwalk-like
+viruses. Less is known about the Sapporo-like viruses,
+but because they are seen primarily in young children, it
+is believed that infection results in long-term immunity.
+
+Escherichia coli O157:H7: exposure
+and susceptibility
+E. coli O157:H7 infection has been most commonly associated with the consumption of undercooked hamburger, but a number of waterborne gastroenteritis out-
+
+
+
+Risk factors for waterborne enteric infections Balbus and Embrey 49
+
+breaks have been traced to the bacterium, including the
+Walkerton, Ontario, outbreak in May 2000 that infected
+more than 2,300 people and killed six [12]. In that outbreak, the well supplying the municipal water was most
+likely contaminated with cattle manure from a nearby
+dairy farm, and faulty chlorination allowed the contamination to spread through the water system. Common factors of other E. coli-related waterborne outbreaks have
+included lack of chlorination combined with animal feces
+contamination in ground water [13,14•,15]. Ground water supplies approximately half the US population with
+drinking water, yet only 55% of ground water systems
+receive any sort of disinfection [16]. Three of four bacterial drinking water outbreaks reported to the CDC in
+1997 and 1998 were caused by E. coli O157:H7 [2]. One
+was associated with a community water system supplied
+by untreated ground water that may have been contaminated by wildlife feces; one involved people who drank
+untreated well water near a cattle pasture; and one occurred in a chlorinated groundwater supply that was operating out of compliance. Interestingly, as with the cryptosporidiosis outbreak in Talent, Oregon [6••], an E. coli
+outbreak in Scotland included only visitors who drank
+from the contaminated water supply; permanent residents who regularly drank from the untreated private
+source were unaffected [14•]. Clearly, groundwater or
+untreated surface water that is in danger of contact with
+animal—especially cattle—waste and is not adequately
+chlorinated is a major risk factor in waterborne enterotoxigenic E. coli infections; furthermore, it is possible
+that people exposed to low levels of the pathogen in
+their normal drinking water are immune from illness in
+an outbreak situation.
+
+Conclusions
+The picture that emerges from these studies is complex.
+The role of various components of the immune system in
+responding to enteric pathogens varies from pathogen to
+pathogen. For Cryptosporidium, exposure seems to result
+in partial immunity, with longer lasting and more effective immunity resulting from repeated exposure. For
+Norwalk-like viruses, exposure does not convey immunity; in fact, immune markers of exposure may indicate
+greater susceptibility to infection, rather than the opposite. Clinically, this information may have several applications. The studies of Cryptosporidium and E. coli suggest that even within the United States, there is
+considerable regional variation in strains and species of
+waterborne pathogens. Patients at risk for more severe
+outcomes if infected, such as immunosuppressed patients or those with poor overall health, may encounter
+new pathogens with travel or changes in residence, and
+should be advised accordingly. The studies of Norwalklike viruses that suggest a portion of the population has
+innate resistance to infection may lead to new approaches for treatment or vaccination. For now, clinicians
+can use this information to more accurately assess water-
+
+borne risks to their patients. Accurate and full reporting
+by clinicians will improve the database and allow public
+health researchers to characterize more fully the risk factors for waterborne infections.
+
+References and recommended reading
+Papers of particular interest, published within the annual period of review,
+have been highlighted as:
+•
+Of special interest
+••
+Of outstanding interest
+1
+
+Olsen SJ, MacKinon LC, Goulding JS, et al.: Surveillance for foodborne disease outbreaks: United States, 1993–1997. MMWR CDC Surveill Summ
+2000, 49(SS01):1–51.
+
+2
+
+Barwick, RS, Levy DA, Craun, GF, et al.: Surveillance for waterborne-disease
+outbreaks: United States, 1997–1998. MMWR CDC Surveill Summ 2000,
+49(SS 04):1–35.
+
+3
+Frost FJ, Muller T, Craun GF, et al.: Paired city Cryptosporidium serosurvey in
+the southwest USA. Epidemiol Infect 2001, 126:301–307.
+•
+Researchers used blood donors to compare the serologic response to Cryptosporidium antigen. One group of donors came from a community that used chlorinated
+surface water as drinking water (Las Vegas), and the other used chlorinated
+groundwater (Albuquerque). Although Las Vegas residents had a significantly
+higher serologic response than Albuquerque residents, comparisons of other obvious risk factors were not conclusive.
+4
+•
+
+Frost FJ, Muller T, Calderon RL, et al.: A serological survey of college students
+for antibody to Cryptosporidium before and after the introduction of a new
+water filtration plant. Epidemiol Infect 2000, 125:87–92.
+This article reports a serologic survey of college students comparing their responses to Cryptosporidium antigens before and after a change in municipal water
+treatment practices. The results did not suggest a decrease in infection after filtration was instituted; however, swimming in and drinking untreated stream water
+were predictive of a stronger response. The results may have been biased by a
+seasonal trend in infection.
+5
+
+Frost FJ, Muller T, Craun GF, et al.: Serological analysis of a cryptosporidiosis
+epidemic. Int J Epidemiol 2000, 29:376–379.
+
+6
+••
+
+McAnulty JM, Keene WE, Leland D, et al.: Contaminated drinking water in one
+town manifesting as an outbreak of cryptosporidiosis in another. Epidemiol
+Infect 2000, 125:79–86.
+An outbreak investigation of cryptosporidiosis included a case-control study of
+nursing-home employees matched to the general community, a cohort study of
+wedding guests, and a cross-sectional survey of the general community. The resulting data from these divergent sources suggested that residents of a community
+with contaminated drinking water had developed some protective immunity to
+Cryptosporidium, but when visitors to the community or the immunocompromised
+were exposed to the drinking water, an actual outbreak was identified.
+7
+
+Chappell CL, Okhuysen PC, Sterling CR, et al.: Infectivity of Cryptosporidium
+parvum in healthy adults with pre-existing anti-C. parvum serum immunoglobulin G. Am J Trop Med Hyg 1999, 60:157–164.
+
+8
+
+Okhuysen PC, Chappell CL, Crabb JH, et al.: Virulence of three distinct Cryptosporidium parvum isolates for healthy adults. J Infect Dis 1999, 180:1275–
+1281.
+
+9
+CDC: Norwalk-like viruses: public health consequences and outbreak management. MMWR Morb Mortal Wkly Rep 2001, 50(RR-9):1–17.
+••
+This report reviews the state of the science on Norwalk-like viruses, which, through
+molecular detection techniques, have been identified as a primary cause of viral
+gastroenteritis in outbreaks. Updated information on taxonomy and diagnostic
+methods is included.
+10
+
+Johnson PC, Mathewson JJ, DuPont HL, et al.: Multiple-challenge study of
+host susceptibility to Norwalk gastroenteritis in US adults. J Infect Dis 1990,
+161:18–21.
+
+11
+
+Moe CL, Stewart P, Frelinger JA, et al.: 2000 progress report: studies of the
+infectivity of Norwalk and Norwalk-like viruses [National Center for Environmental Research, Office of Research and Development, U.S. Environmental
+Protection Agency Web site]. May 17, 2001. Available at: http://es.epa.
+gov/ncer/progress/grants/97/dwater/moe00.html. Accessed August 10,
+2001.
+
+12
+
+Health Canada: Waterborne outbreak of gastroenteritis associated with contaminated municipal water supply, Walkerton, Ontario, May–June 2000. Can
+Commun Dis Rep 2000, 26:170–173.
+
+13
+
+CDC: Public health dispatch: outbreak of Escherichia coli O157:H7 and
+Campylobacter among attendees of the Washington County Fair: New York,
+1999. MMWR 1999, 48:803
+
+14
+•
+
+Licence K, Oates KR, Synge BA, et al.: An outbreak of E. coli O157 infection
+with evidence of spread from animals to man through contamination of a private water supply. Epidemiol Infect 2001, 126:135–138.
+
+
+
+50 Gastrointestinal infections
+An outbreak of E. coli O157 was traced to animal contamination when pulsed field
+gel electrophoresis methodology determined that isolates from patients’ stool
+samples, sheep feces, and an unprotected water source were indistinguishable.
+15
+
+Swerdlow DL, Woodruff BA, Brady RC, et al.: A waterborne outbreak in Missouri of Escherichia coli O157:H7 associated with bloody diarrhea and
+death. Ann Intern Med 1992, 117:812–819.
+
+16
+
+Fujioka RS, Yoneyama BS: Assessing the vulnerability of groundwater
+sources to fecal contamination. J Am Water Works Assoc 2001, 93:62–71.
+
+17
+
+Rendtorff RC: The experimental transmission of human intestinal protozoan
+parasites II: Giardia lamblia cysts given in capsules. Am J Hygiene 1954,
+59:209–220.
+
+18
+
+Morgan DR, Johnson PC, DuPont HL, et al.: Lack of correlation between
+known virulence properties of Aeromonas hydrophila and enteropathogenicity for humans. Infect Immun 1985, 50:62–65.
+
+19
+
+Tilden J Jr, Young W, McNamara AM, et al.: A new route of transmission for
+Escherichia coli: infection from dry fermented salami. Am J Public Health
+1996, 86:1142–1145.
+
+

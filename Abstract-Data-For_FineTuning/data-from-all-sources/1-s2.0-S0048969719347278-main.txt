@@ -1,0 +1,1969 @@
+Science of the Total Environment 701 (2020) 134736
+
+Contents lists available at ScienceDirect
+
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+Review
+
+Comprehensive evaluation of substrate materials for contaminants
+removal in constructed wetlands
+Yanting Wang a, Zhengqing Cai a, Sheng Sheng b, Fei Pan c, Fenfei Chen b, Jie Fu a,d,⇑
+a
+
+Department of Environmental Science and Engineering, Fudan University, Shanghai 200433, China
+Huadong Engineering Corporation Limited, Hangzhou 311122, China
+c
+School of Environmental Engineering, Wuhan Textile University, Wuhan 430073, China
+d
+School of Environmental Science and Engineering, Huazhong University of Science and Technology, Wuhan 430074, China
+b
+
+h i g h l i g h t s
+
+g r a p h i c a l a b s t r a c t
+
+ Different kinds of substrate materials
+
+available in the literatures are
+summarized.
+ Source/property and contaminant
+removal capacity of substrates were
+described.
+ A scoring model for the substrate
+evaluation was constructed.
+ This review is helpful for substrates
+selection for constructed wetlands
+design.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 28 July 2019
+Received in revised form 12 September
+2019
+Accepted 28 September 2019
+Available online 31 October 2019
+Editor: Paola Verlicchi
+Keywords:
+Constructed wetlands
+Substrates
+Water contaminants
+Removal capacity
+Scoring model
+
+a b s t r a c t
+Considerable number of studies have been carried out to develop and apply various substrate materials
+for constructed wetlands (CWs), however, there is a lack of method and model for comprehensive
+evaluation of different types of CWs substrates. To this end, this article summarized nearly all the substrate materials of CWs available in the literatures, including natural materials, agricultural/industrial
+wastes and artificial materials. The sources and physicochemical properties of various substrate materials, as well as their removal capacities for main water contaminants including nutrients, heavy metals,
+surfactants, pesticides/herbicides, emerging contaminants and fecal indicator bacteria (FIB) were comprehensively described. Further, a scoring model for the substrate evaluation was constructed based
+on likely cost, availability, permeability, reuse and contaminant removal capacities, which can be used
+to select the most suitable substrate material for different considerations. The provided information
+and constructed model contribute to better understanding of CWs substrate for readers, and help solve
+practical problems on substrates selection and CWs construction.
+Ó 2019 Elsevier B.V. All rights reserved.
+
+⇑ Corresponding author at: Department of Environmental Science and Engineering, Fudan University, Shanghai 200433, China.
+E-mail address: jiefu@fudan.edu.cn (J. Fu).
+https://doi.org/10.1016/j.scitotenv.2019.134736
+0048-9697/Ó 2019 Elsevier B.V. All rights reserved.
+
+
+
+2
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+Contents
+1.
+2.
+
+3.
+4.
+
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Substrate materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.1.
+Natural materials. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.1.1.
+Gravel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.1.2.
+Sand. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.1.3.
+Shale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.1.4.
+Soil/sediment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.1.5.
+Zeolite . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.1.6.
+Limestone . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.1.7.
+Volcanics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.1.8.
+Minerals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+2.2.
+Agricultural/industrial wastes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2.2.1.
+Alum sludge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2.2.2.
+Oyster shell . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2.2.3.
+Woodchip . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2.2.4.
+Plant waste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+2.2.5.
+Fly ash . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.2.6.
+Slag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.2.7.
+Construction waste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.3.
+Artificial materials. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.3.1.
+Ceramsite . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.3.2.
+Activated carbon. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.3.3.
+Synthetic fiber. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+2.3.4.
+Cement clinker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.3.5.
+Recycled concrete . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.3.6.
+Modified clays. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+2.4.
+Interaction with plant/microorganism . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Evaluation and recommendation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Conclusions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+1. Introduction
+Constructed wetlands (CWs) are green and engineered wastewater treatment systems, which are designed and constructed to utilize the natural purification processes involving wetland plants,
+substrates and the associated microbes (Cheng et al., 2018). In
+1953, Dr. Käthe Seidel from the Max-Planck Institute of Germany
+reported the ability of aquatic plants in artificial wetlands to
+absorb and decompose chemical contaminants, which is the starting point for CWs research (Vymazal, 2011). Since 1990s, a significant progress has been made on the CWs technology by scientists
+and researchers, and CWs have become international and been
+widely adopted around the world (Vymazal, 2011). Nowadays,
+the United States has built more than 10,000 CWs sewage treatment systems, Europe has built more than 8000 CWs, and China
+has built 425 CWs (Zhang et al., 2012). In addition to the initial
+application in treatments of domestic wastewater (Kivaisi, 2001)
+and acid mine wastewater (Wieder, 1989), CWs have extended to
+be used in purifications of agricultural effluents (Wood et al.,
+2007), tile drainage waters (Kynkäänniemi et al., 2013), and industrial effluents (Mbuligwe, 2005).
+According to the wetland hydrology, CWs are typically classified into three types: surface flow (SF) CWs, subsurface flow
+(SSF) CWs and hybrid systems (Tilley et al., 2014). SF CWs are
+similar to natural wetlands, with shallow flow of wastewater over
+substrates (Fig. 1a). In SSF systems, wastewater flows through the
+substrates, and based on the flow direction, SSF CWs could be
+further divided into horizontal flow (HF) and vertical flow (VF)
+CWs (Wu et al., 2015). In HF CWs, the wastewater flows horizontally through the substrates under the surface of the bed planted
+with macrophytes (e.g., Common reed) (Fig. 1b). The lack of oxygen
+in HF CWs facilitates the bacterial decomposition of organics in
+
+anaerobic conditions (Brix, 1990) and denitrification process
+(Kröpfelová, 2008), but suppresses the oxidation of ammonia
+and hence nitrification process (Vymazal, 2011). In VF CWs,
+wastewater flows longitudinally from the surface into the bottom
+of the bed planted with macrophytes (Fig. 1c). The intermittent
+bed draining allows air to refill the bed and provides greater oxygen transfer into the bed, thus producing a strong ability of nitrification (Cooper et al., 1996). However, the denitrification is
+relativley limited in VF CWs process. To achieve a higher removal
+efficiency of contaminants, especially for nitrogen, various types
+of CWs may be combined to form hybrid systems (Hoffmann
+et al., 2011).
+Substrates are indispensable parts of CWs, and most of the
+physical, chemical and biological reactions are carried out in substrates (Yang et al., 2018a). The substrates not only support the
+growth of wetland plants and provide attachments for biofilms,
+but also play a significant role in contaminant removal (Wu
+et al., 2015). The substrate purification mechanisms include physical sedimentation and filtration (Wood, 1995), sorption and burial
+in substrate matrix (Daneshvar et al., 2017), complexation and precipitation by colloid composition (Kröpfelová et al., 2009), ion
+exchange (Matagi et al., 1998), gas diffusion in the substrate gap
+(Vymazal et al., 1998), microbial degradation, transformation and
+bio-immobilization in the substrate (Stottmeister et al., 2003),
+and uptake and metabolism by plant root in the substrate (Brix,
+1997).
+A variety of materials could be used as substrates for CWs,
+including natural materials (e.g., gravel and sand), agricultural/
+industrial wastes (e.g., oyster shell and fly ash) and artificial materials (e.g., activate carbon and ceramsite) (Cheng et al., 2018), and
+different materials possess different characteristics. Natural
+materials are materials in nature that can be directly used without
+
+
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+3
+
+Fig. 1. Diagrammatic sketches of three types of CWs: (a) surface flow CWs, (b) horizontal flow CWs and vertical flow CWs. This figure is modified from literature (Tilley et al.,
+2014).
+
+processing or basically without processing. Agricultural waste
+refers to the waste discharged from agricultural production, processing of agricultural products, rural residents’ lives and animal
+husbandry. Industrial waste refers to solid, semi-solid, liquid and
+gaseous particles and substances that are released in the industrial
+production activities or that have been discarded or abandoned.
+
+Artificial materials are made from natural and/or waste materials
+and usually have the characteristic of recyclability.
+Substrate selection is one of the key issues in CWs wastewater
+treatment (Yang et al., 2018a), and suitable substrates can effectively remove various pollutants, and avoid clogging and improve
+operation cycle. Problems to be considered for the selection of sub-
+
+
+
+4
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+Fig. 2. Issues needed to be considered for the selection of substrate materials.
+
+strate materials include their source and cost, hydraulic and engineering feasibility, ability to remove contaminants, support for
+plant growth and microbial adhesion, safety (secondary pollution),
+substrate plugging, substrate life, and recovery and disposal issues
+of exhaustion substrate, etc. (Fig. 2). Just because of so many problems to consider, the choice of substrate has become a confusing
+issue for scientists and engineers.
+In response to the above problems, it is necessary to find a good
+method of substrate selection. Therefore, this article reviewed the
+sources and physicochemical properties of various substrate materials, as well as their removal capacities for main water contaminants including nutrients, heavy metals, surfactants, pesticides/
+herbicides, emerging contaminants and fecal indicator bacteria
+(FIB). Further, a scoring model for the substrate evaluation was
+constructed based on likely cost, availability, reuse and contaminant removal capacities, which can be used to select the most suitable substrate for different considerations. The overall goal of this
+work was to provide a simpler, faster, scientific and reliable reference for the selection of substrates in CWs with different purposes.
+2. Substrate materials
+2.1. Natural materials
+2.1.1. Gravel
+Gravel is a rock fragment whose particle size is larger than
+2 mm and smaller than a single soil, and the main chemical compositions are SiO2 and Al2O3. A large number of studies have shown
+that the existence of gravel in the soil will not only affect the surface roughness and soil physical properties (soil bulk density, soil
+porosity, soil water conductivity, soil moisture content), but also
+affect the soil infiltration characteristics. Gravelly soils are widely
+distributed in the world, and they are relatively easy to obtain, safe
+and non-polluting. In addition, gravel possesses high permeability
+with permeability coefficient of 3  10 4–3  10 2 m/s.
+Many studies suggested that gravel had worse P adsorption
+capacity than other materials. For example, Ge et al. (2015) found
+a higher adsorption capacity of slag (3.15 g/kg) than gravel (0.81 g/
+kg) in batch tests, and the removal of total phosphorus by slag was
+about 20% higher than that of gravel in horizontal subsurface flow
+(HSSF). However, Chen et al. (2013) observed that pot gravel had a
+high total P removal efficiency for 65% in vertical flow stormwater
+wetland. The feasibility of P adsorption by gravel was also demonstrated in a large-scale CWs system with the removal efficiency
+ranging from 40% to 40% (Mann and Bavor, 1993). The adsorption isotherm of P onto gravel fitted well with Freundlich model
+(Tang et al., 2010), indicating a heterogeneous surface of gravel
+with nonuniform distribution of the adsorption sites. Several laboratory researches have been conducted to determine the N adsorption capacity of gravel, and researchers have concluded that the
+
+effect of gravel on N adsorption is not very prominent. For example, Zhu et al. (2011) estimated the maximum N adsorption capacities of gravel to be 769.23 mg/kg using the Langmuir isotherm.
+However, the field tests have achieved more positive results. During the 2-year monitoring, Ge et al. (2015) observed comparable N
+removal rates in large-scale horizontal subsurface flow CWs with
+either gravel or slag as substrate, providing a possible solution
+for polluted urban river remediation in northern China.
+There are numerous examples that gravel as CWs substrate has
+excellent heavy metals removal capacity. Buddhawong et al.
+(2010) found that in the CWs with gravel as the substrate could
+completely remove As and Zn. The Cr and Ni removal abilities of
+gravel-bed CWs were studied by Yadav et al. (2010), and results
+showed that the maximum removal of Cr and Ni reached 98.3%
+and 96.2%, respectively. Some studies indicated gravel had the
+potential for water decolorization. Bulc and Ojstršek (2008) tried
+to use CWs to treat dye-rich textile wastewater, and results
+showed that CWs packed with gravel, sand, and zeolitic could
+reduce colour by up to 70%. Manios et al. (2002) found CWs with
+gravel reed beds achieved a high reduction of E. coli, and could
+remove above 3.3 log for E. coli.
+2.1.2. Sand
+Sand is a kind of granular material with a grain size <2 mm,
+which is rolled by rain or rolled by rock after weathering. It is usually divided into coarse sand (permeability coefficient: 9  10 7 6  10 3 m/s), medium sand (permeability coefficient:
+9  10 7 5  10 4 m/s) and fine sand (permeability coefficient:
+2  10 7 2  10 4 m/s). The main component of sand is SiO2
+with a density of 2.65 g/cm3 (Zuhailawati et al., 2007).
+The P removal by sand-filled CWs have been widely studied.
+Greenway (2016) compared the P removal efficiency of various
+CW substrate materials, and found sand was the best (94–99%), followed by brickies loam (92%), and then red mud modified sand
+(86–89%). A long-term full-scale study indicated the subsurface
+flow CWs with sand substrate could remove 99% of dissolved P
+within three years (Shannon et al., 2001). Based on the budget
+analysis on sand-bed CWs (Mander et al., 2003), 88.1% of P was
+removed by sand adsorption, which far outweighed the contributions of plant accumulation and microbial immobilization. However, some type of sand is unsuitable for long-term P retention in
+CWs. For example, a pilot study reported masonry sand substrate
+retained insignificant quantity of P (11.9 ± 21.8 mg/kg) after one
+year of CWs operation (Forbes et al., 2005). In recent years, several
+studies about N removal by sand-filled CWs was carried out. A fullscale study on the sand-bed CWs showed that total N removal
+increased from 60.1% to 93.4% in the first three years of operation
+(Shannon et al., 2001). Eturki et al. (2012) studied the wastewater
+purification capacity of sand-clays fortified by pebbles, and this
+reconstituted sand filter gave a N reduction of 65%.
+
+
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+Scholz (2003) indicated sand substrate could effectively remove
+the heavy metals and play the dominant role for the removal of
+heavy metals in CWs. Wu et al. (2014) studied the potential of
+manganese sand as CW substrate for removal of As(V), and the
+results showed manganese sand had an As(V) adsorption capacity
+of 42.37 lg/g. Quiñónez-Díaz et al. (2001) investigated the removal
+of FIB by a sand-filled CW, and found that >90% of FIB were
+removed.
+2.1.3. Shale
+Shale is a rock formed by dehydration and cementation of clay.
+According to different composition, shale is divided into carbonaceous shale, calcareous shale, sandy shale and siliceous shale. The
+compressive strength of rock mass is 19.61–68.65 MPa or lower,
+and the permeability coefficient is 1  10 13 2  10 9 m/s.
+Many studies have shown that shale has very excellent P
+adsorption effect. Drizo et al. (1999) compared the P adsorption
+effects of seven substrates, and results showed that the fly ash
+and shale had the best P adsorption capacity, followed by bauxite,
+limestone and light expanded clay aggregates. Long term experiments showed that shale and bauxite gave the maximum P adsorption capacity of 730 and 355 mg/kg. A one-year pilot study
+indicated expanded shale can greatly improve the retention of P
+in CWs, and for a substrate depth of 0.9 m, aerial P retention by
+shale was 201 ± 98.6 g/m2 y (Forbes et al., 2005). Daothaisong
+and Yimrattanabovorn (2009) indicated that shale was a potential
+substrate in CWs for N removal. The adsorption efficiencies of shale
+for NH4-N and NO3-N were 52.9–69.0% and 57.0–72.0%,
+respectively.
+2.1.4. Soil/sediment
+Soil is a major component of the Earth’s ecosystem, and forms
+pedosphere. Soil particles comprise of minerals (clay, silt and sand)
+with a density of 2.6–2.7 g/cm3. The permeability coefficient of
+soil/sediment is 6.0  10 7–6.0  10 6 m/s. When the soil is broken down by processes of weathering and erosion, the soil particles
+will be washed away by the water, flow into the river, lake and
+ocean, and form the sediments by sedimentation (Fernandez
+et al., 2003).
+Numerous researches have been conducted in recent years, and
+demonstrated that soil/sediment in CWs exhibited excellent P
+sorption capacity. Farahbakhshazad et al. (2000) found that vertical upflow wetland system in Piracicaba, Brazil could removal
+93% P and the effective P removal was observed in the top soil layer
+which had a high surface adsorption area. The ability of peat soil to
+retain PO4-P was determined by adsorption isotherms in both laboratory and field tests (Heikkinen et al., 1995; Walbridge and
+Struthers, 1993), and the contents of oxalate-extractable Fe and
+Al in peat soil could positively influence the ability of peat to retain
+P. Litaor et al. (2003) found that a relatively low degree of P saturation (DPS < 15%) was observed in histosols, while a high DPS
+(>30%) was observed in many of the hydromorphic organomineral soils. D’Angelo (2005) observed that late successional
+(LS) soils had three times greater capacity to remove and retain
+soluble inorganic P than early successional (ES) soils, which was
+mostly due to higher amounts of amorphous Al oxides (oxalateextractable) in LS soils. Reddy et al. (1998) indicated the P retention by stream sediments and Wetland soils was strongly correlated with contents of amorphous and poorly crystalline forms of
+Fe and Al, which explained 87% of the variability in P retention.
+Besides of the mineral compositions, the organic matter in soil/
+sediment also play an important role for the P removal (Gilbin
+et al., 2000).
+Different results were achieved by researchers about N removal
+capacities of soil/sediment. Zhu et al. (2011) reported the maximum NH4-N adsorption capacities of paddy soil and red soil were
+
+5
+
+588.2 and 555.6 mg/kg, respectively. Zhang et al. (2017) indicated
+that 98.8% of NH4-N and 88.3% of total N (248.6 mg/L) were
+removed from low-strength swine wastewater by a pilot-scale SF
+CW using sediment as the substrate, and vegetation of the macrophytes (e.g., Myriophyllum aquaticum) would increase the N
+removal of CWs by enhancing the sediment microorganisms
+responsible for N cyclings. Llorens et al. (2015) reported a mean
+removal efficiency of 52% for total N could be achieved using a
+hybrid constructed soil filter. For the N removal mechanism in
+soil-filled CWs, studies indicated microbial nitrification/denitrification played the dominant role, and adsorption onto soil and plant
+uptake played the secondary role (Abe et al., 2014). Therefore, promoting the microbial activity in soils is an effective way to enhance
+the N removal in CWs, such as modulating the favorable pH for
+microbial growth (Yin et al., 2016).
+Many studies indicated soil substrate in CWs can effectively
+adsorb heavy metals, which played the most important role for
+the removal of heavy metals. For example, Mohammed and
+Babatunde (2017) indicated that up to 91%, 91% and 89% of Cr,
+Cd and Pd respectively could be removed by soil adsorption process in VF CWs. Palmer et al. (2015) measured the retention efficiencies based on monitoring of peatland inflow and outflow
+waters and the results indicated that retention of As, Sb and Ni
+was generally good (up to 95%) but temporarily variable. Adsorption experiments indicated the high potential of peat soils to
+adsorb As, Ni and especially Sb. Ncibi et al. (2017) indicated that
+soil-filled CWs were suitable for removal of surfactants, and the
+removal efficiency of nonionic surfactants was higher than that
+of anionic surfactants.
+Nowadays, removal of pesticides/herbicides from water by soil/
+sediment based CWs has become a hot topic, and many studies on
+this have been carried out. Passeport et al. (2011) indicated wetland sediment and forest soil had the most important potential
+for pesticides adsorption. Vallée et al. (2014) found that the presence of plants in CWs could increase soil/sediment sorption capacity for pesticides, which probably because the presence of plants
+increases water retention time and pesticide residues, then prolongs the contact time between soil/sediment and pesticides.
+Besides of the soil sorption and plant accumulation, microbial
+degradation was demonstrated to play an important role for the
+removal of herbicides in SF CWs with soil (Chen et al., 2017). For
+the removal process of pesticides across soil/sediment-filled CWs,
+retention time is a critical factor influencing the final removal efficiency (Gregoire et al., 2009).
+Studies demonstrated CWs with soil/sediment substrate could
+effectively remove pharmaceuticals (Hussain et al., 2012), dyes
+(Davies et al., 2006), halogenated flame retardants (HFRs) (Chow
+et al., 2017), and many other organic contaminants. Hussain
+et al. (2012) studied the removal efficiency of three antibiotics of
+ionophore group in two SF CWs with different substrates: one with
+a sandy clay loam soil and another with a sandy soil. Sandy soil
+condition showed higher removal efficiency in comparison to
+sandy clay loam soil. More water could immerse in sandy soil than
+in clay soil, which provides more interaction between pharmaceuticals and substrate, resulting in greater pharmaceuticals sorption
+onto sandy soil than clay soils.
+Numerous studies have shown that CWs can effectively remove
+FIB from wastewater (Dorsey et al., 2010; Morató et al., 2014), and
+SSF CWs have a better removal capacity than SF CWs (Wu et al.,
+2016b). Hydrology and wetland studies generally assume the
+removal mechanism of FIB in CWs is binding to soil particles in
+the water and immobilizing as soil particles sedimentation
+(Waller and Bruland, 2016). Predation by copepods (Song et al.,
+2008) and zooplankton (Chudoba et al., 2013) is an another important mechanism for the removal of bacteria in CWs. In addition,
+root exudates/rhizosphere microbes may also adversely impact
+
+
+
+6
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+the survival of fecal microorganisms (Chandrasena et al., 2017). A
+lot of studies have been conducted and recommended soil or sediment as a good substrate for FIB removal in CWs. For example,
+Thurston et al. (2001) reported that in the CWs with soil substrate
+receiving secondary sewage effluent, total coliforms were reduced
+by an average of 98.8%, FIB by 98.2%, and coliphage by 95.2%.
+2.1.5. Zeolite
+Zeolite is formed from the reactions between volcanic rocks and
+ash layers with alkaline groundwater, and it is also crystallized in
+post-depositional environments in shallow marine basins. The
+skeleton structure of the zeolite is relatively porous with a specific
+gravity of 2.0–2.2, and the dehydrated cavity can be as large as 47–
+50%. Rich micropore and macropore of zeolite determines its high
+sorption capacity (sum of absorption and adsorption) for contaminants. Besides, it has good characteristics of ion exchange, catalysis, stability, chemical reactivity, reversible dehydration, and
+conductivity. Zeolite has been widely used in the treatment of
+wastewater and landfill leachate because of its low price, easy to
+obtain, large specific surface area, well-developed pore channel,
+good ion exchange capacity, and good removal capacity on heavy
+metals, ammonia and other contaminants (Wen et al., 2018).
+Zeolite is well-known as a substrate used in CWs, while various
+studies have proved that its P adsorption capacity is low. For example, Zhang et al. (2006) demonstrated that the removal efficiency of
+phosphate and hydrogen ions of shale was better than that of zeolite, which was due to the main component of shale was CaCO3. Dai
+and Hu (2017) studied the P adsorption capacities of four substrate
+materials and revealed zeolite had a moderate adsorption capacity.
+Stefanakis et al. (2009) used fine- and coarse-grained clinoptilolite
+in CWs. The average removal rate of total P by the two kinds of zeolites was 56.8% and 40.5%, respectively. The mechanistic study carried out by Cheng et al. (2013) indicated the adsorption of P onto
+zeolite was more apt to electrostatic attraction or ion-exchange,
+while other active adsorption materials (e.g., sponge iron) was
+more apt to chemical combination. The ability to adsorb P could
+be improved by modifying zeolite or combining with other substrates (Zhang et al., 2014).
+Zeolite is rich in micropores and mesopores and therefore has
+strong N adsorption capacity especially ammonia. In recent years,
+many researches investigated the N adsorption onto zeolite and
+recommended zeolite as an ideal CWs substrate to enhance the N
+removal in CWs (Cyrus and Reddy, 2011; Zou et al., 2012).
+Pucher et al. (2017) investigated the effect of zeolite layer with different depths on removal of NH4-N. Results indicated that the
+increase of zeolite layer in CWs could significantly reduce the
+amount of NH4-N in wastewater. Laboratory-scale experiment carried out by Liu et al. (2014) showed that the N removal efficiency of
+zeolite-based CWs was better than that of other substrates filled
+CWs, which was because of the competitive properties of zeolite
+(micropore volume: 61.2 mm3/g, specific surface area: 16.6 m2/g,
+and cation exchange capacity: 4.3 cmol/kg). Peng et al. (2012) indicated zeolite substrate adsorption played a dominant role for the
+removal of NH4-N in CWs in low temperature (3–7.5 °C), while
+both nitrification and zeolite adsorption made contribution in high
+temperature (20–25 °C). A lot of mixed substrates of zeolite and
+other materials showed high N sorption capacities (Fang et al.,
+2016; Mojiri et al., 2016). For example, Singh et al. (2014) found
+the mixture of natural zeolite and gravel as the CWs substrate
+showed a high removal efficiency of NH4-N (78%). Pálfy et al.
+(2017) reported a sand-zeolite mixture filter could removal 52%
+of N. Research conducted by Shi et al. (2017) showed that the combination of steel slag and zeolite was better than two separate substrates for N removal.
+Zeolite has shown a high potential for removal of heavy metals
+as CWs substrate. A laboratory-scale study investigated by Allende
+
+et al. (2011) indicated that zeolite could significantly remove As,
+Fe, Mn, Cu and Zn.
+2.1.6. Limestone
+Limestone is a sedimentary rock which is often composed of the
+skeletal fragments of marine organisms such as coral, foraminifera
+and molluscs. The main component of limestone is calcium carbonate, and its density is about 2.65–2.80 g/cm3. The permeability
+coefficient of limestone is 1  10 9–6  10 6 m/s. Limestone are
+widely used as raw materials for building, as white pigment in
+paints, as a chemical feedstock for the production of lime, and as
+a soil conditioner (Flores et al., 2018).
+Li et al. (2012) investigated the influencing factors of limestone
+adsorption with a series of batch experiments including temperature, pH, limestone size, background electrolyte and organic acids.
+Based on the results, they concluded that limestone was suitable
+for P removal as CWs substrate in wastewater advanced treatment.
+However, Drizo et al. (1999) showed that the P adsorption capacity
+of limestone was moderate, and suggested mixing limestone with
+other materials (e.g., zeolite) to improve the P removal efficiency.
+There are relatively limited studies for the application of limestone
+substrate in CWs for N removal. Srinivasan et al. (2008) used a
+combined adsorbent of limestone and zeolite and achieved a
+removal rate of 70% for NH4-N. The heavy metal removal capacities
+of gravel, cocopeat, zeolite and limestone were investigated by
+Allende et al. (2012), and limestone showed the best removal
+capacity.
+2.1.7. Volcanics
+Volcanics belongs to magmatic rock (igneous rock). It is a extrusive rock formed from magma condensed from the crater to the
+Earth’s surface. Volcanics is among the most common rock types
+on Earth’s surface, and it has been estimated that volcanics covers
+about 8% of the land surface. Volcanics is porous and has a good
+hydraulic conductivity (Liu et al., 2013a). The permeability coefficient of limestone is 8  10 9–3  10 4 m/s. It is composed mainly
+of SiO2, Al2O3, Fe2O3, MnO, MgO, Na2O, K2O, and CaO (Ramos et al.,
+2015).
+The P adsorption capacity of volcanics was very poor, and sometimes, volcanics could be used as an ingredient of substrate mixture to enhance treatment performance of CWs (Zhao et al.,
+2016). Liu et al. (2014) demonstrated that the N adsorption capacity of volcanics was low. However, as mentioned above, the mixture of zeolite, expanded vermiculite, and volcanics showed good
+N adsorption efficiencies (Zhao et al., 2016).
+2.1.8. Minerals
+Minerals are the elements and their chemical compounds that
+are produced and developed in a variety of geological processes,
+and are relatively stable under certain geological and physicochemical conditions. A mineral has a relatively fixed chemical composition and a definite internal structure, which is the basic unit for
+the composition of rocks and ores. The widely used minerals in
+CWs include calcite (CaCO3), dolomite (CaMg(CO3)2), hornblende
+((Ca,Na)2-3(Mg,Fe,Al)5(Al,Si)8O22(OH,F)2), hematite (Fe2O3), apatite
+(Ca10(PO4)6(OH,F,Cl)2), wollastonite (CaSiO3), vermiculite (Mg0.7(Mg,Fe,Al)6(Si,Al)8O20(OH)48H2O) and pyrite (FeS2).
+Calcite was demonstrated by Dong et al. (2008) to be the best
+adsorption substrate for P at various temperatures and pH. They
+reported the removal of total P in the effluent was 94.3% in hybrid
+CWs with calcite substrate. Phosphorus uptake by calcite was also
+studied in both batch and continuous systems by Molle et al.
+(2003). In batch tests, calcite showed attractive sorption capacity,
+however, some limitation in retention capacity and effluent quality
+were pointed out in open reactor experiments. CWs with river sand
+and dolomite (10:1, w/w) as substrate were studied on phosphate
+
+
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+removal by Prochaska and Zouboulis (2006), and results indicated
+that CWs could remove more than 45% of initially applied phosphate. Tang et al. (2010) indicated the maximum P adsorption
+capacity of hornblende was 153.1 mg/kg with the particle size in
+the range of 0.5–1.0 mm, and the adsorption data could be well
+explained by Langmuir isotherm model. Grüneberg and Kern
+(2001) reported the P adsorption capacity of hematite was
+140 lg/g, and the adsorption of P was mainly dependent on the
+formation of amorphous ferrous hydroxides under anaerobic condition. Apatite is an effective and sustainable substrate for P
+removal from wastewater. Dong et al. (2008) indicated calcite
+was the best adsorption substrate for N compared with other substrate materials, and the removal efficiency reached to 68.4% in the
+CWs using calcite as the substrate. However, the other minerals
+including dolomite showed modest N removal capacity.
+Some researches were conducted to determine if minerals could
+be used in heavy metal removal. Chowdhury (2017) found that
+pyrite was the main adsorbent for As in microbe-mediated adsorption process in CWs. Kaplan and Knox (2004) found that apatite
+addition to sediment resulted in the significant reduction of Cd,
+Co, Hg, Pb, and U concentrations in porewater.
+2.2. Agricultural/industrial wastes
+2.2.1. Alum sludge
+Alum sludge is a waste product from the drinking water treatment plant when aluminium salts are employed as the coagulants.
+The content of aluminium in alum sludge is 30% based on dry
+weight (Babatunde and Zhao, 2007). Although the most prevalent
+final disposal of the dewatered alum sludge is landfill, the reuse
+of the alum sludge is attracting more and more attention (Zhao
+et al., 2009a). The idea of reuse alum sludge as CWs substrate lies
+in its characteristics of abundant Al content and easy, local and
+huge availability. Aluminium sludge itself can form a precipitation
+of aluminium hydroxide, which was used to adsorb and precipitate
+phosphorus and nitrogen. At the same time, colloidal precipitation
+of aluminium hydroxide also increases the porosity of alum sludge,
+and provides sufficient and persistent permeability.
+In recent years, several researches have been carried out and
+demonstrated the high nutrients adsorption capacity of alum
+sludge as CWs substrate. For example, Zhao et al. (2009b) conducted a batch test of P adsorption onto alum sludge. Result
+showed that alum sludge (dry solid) had excellent P adsorption
+capacity of 14.3 mg/g at pH 7.0, and lower pH was more conducive
+to adsorption. The column test with alum sludge media achieved P
+removal efficiency of 91.9% under the hydraulic loading of 0.36 m3/
+m2d. Zhao et al. (2011) also conducted a pilot test on CW system
+with alum sludge as the main substrate, and results showed that
+the average removal rates of total P and inorganic P per month
+were 75–94% and 73–97%, respectively. In a column test with alum
+sludge media, Zhao et al. reported a high removal efficiency of
+76.5% for total N (Zhao et al., 2009b). In another pilot test on
+CWs with alum sludge as substrate, Zhao et al. (2011) found the
+average removal rates of total N and NH4-N per month were 11–
+78% and 49–93%, respectively, indicating that NH4-N could be
+effectively reduced by alum sludge.
+2.2.2. Oyster shell
+Oysters are salt-water bivalve molluscs that live in marine or
+brackish habitats. Oysters have many uses: some kinds of oyesters
+can be consumed by humans, some oysters produce pearls within
+the mantle, and translucent shells of some windowpane oysters
+can be for decorative objects. Oyster shell contains high concentration of CaCO3 (>95% by weight) (Cheng et al., 2018).
+Many studies have shown that oyster shell has excellent effect
+on P adsorption. During the adsorption test carried out by Wang
+
+7
+
+et al. (2013a), oyster shell showed the best phosphate removal efficiency. The authors furtherly carried out a pilot test to treat the
+wastewater by a VF CW using oyster shell as the substrate and
+achieved a very significant removal of P. For the P removal mechanism, adsorption and precipitation played the greatest role, and
+speciation analysis indicated adsorption of P onto oyster shell
+was dominated by active Ca (Liu et al., 2013a). Yam et al. (2013)
+indicated that oyster shell was an effective N adsorbent in CWs.
+In Park and Polprasert’ work (2008), the integrated CW system
+packed with oyster shells as filtration media showed a high efficiency in removing N.
+2.2.3. Woodchip
+Woodchip is sawdust and shavings powder left in wood processing. It is mainly used to make paper, fuel, lightweight filling
+material, or wood based panel. As reported, wood chips would
+leach out organic compounds and provide increased organic concentration in the wastewater. Besides, wood chips would have
+short system life, rapidly losing their permeability. Recently, some
+researchers indicated applying woodchip to CWs as substrate
+could enhance operation performance (Robertson, 2010).
+Chen et al. (2013) constructed woodchip-based VF CWs and
+achieved a high total N removal efficiency (40%). Fatehi-Pouladi
+and co-workers designed woodchip bioreactors based on the
+CWs principle and conducted a long term study to treat greenhouse effluent (Fatehi-Pouladi et al., 2019). The bioreactors exhibited excellent N removal capacity, and planting with Typha
+angustifolia could increase the denitrification rate. Gottschall
+et al. (2016) applied woodchip bioreactors to treat drainage from
+agricultural production systems, and evaluated the removal efficiencies for a suite of veterinary antibiotics. Results showed woodchip bioreactors had a very high removal efficiency for all the
+antibiotics.
+2.2.4. Plant waste
+Plant waste refers to the by-product generated during the plant
+processing, such as coconut dust, coconut shell, cocopeat, cattails
+leaves, oil palm shell, reed leaves, sedge shoots, bark mulch, rice
+husk, and straw. Due to rich organic carbon, porous structure
+and light weight, many plant wastes can be applied to CWs as
+the substrate to enhance the treatment performance.
+Karunarathna et al. (2007) indicated that the P removal rate of
+CWs with coconut dust as the substrate was 98%. Chen et al. (2010)
+investigated the P removal efficiency by the dried straw of water
+hyacinth. The straw showed a rapid reduction of total P, and the
+adsorption efficiency at saturation was about 36%. Karunarathna
+et al. (2007) demonstrated that the removal efficiency of total N
+and NO3-N by CWs with coconut powder as substrate was significantly higher than that of sand-based CWs.
+Allende et al. (2011) conducted a lab-scale study and indicated
+that cocopeat could significantly remove As, Fe, Mn, Cu and Zn.
+Sharainliew et al. (2011) found cattails (Typha angustifolia) leaves
+was a feasible, cheap and environmentally friendly substrate for
+Pb(II) adsorption. Batch adsorption test showed that cattails leaves
+with the optimized dosage of 0.6 g could effectively remove 86.04%
+of Pb(II) at equilibrium from a 100 mL Pb(II) solution of 25 mg/L.
+Chong et al. (2013) found that oil palm shell had the adsorption
+capacity of 1.756 and 3.390 mg/g for Cu(II) and Pb(II), respectively.
+Parallel batch experiments conducted by Camilo et al. (2013) indicated bark mulch bioreactors were capable of retaining the herbicides atrazine or bentazone, and the removal of herbicides were
+based on adsorption to bark mulch and degradation processes.
+Saba et al. (2015) studied the decolorization in CWs, and adsorption process could remove 50% dye with rice husk as substrate.
+Weragoda et al. (2010) indicated applying coconut shell as substrate in CW system could increase E. coli removal.
+
+
+
+8
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+2.2.5. Fly ash
+Fly ash is a fine ash captured from the flue gas after coal combustion, and is the main solid waste discharged from coal-fired
+power plants. Its main oxide compositions include SiO2, Al2O3,
+FeO, Fe2O3, CaO, and TiO2. Fly ash particles are porous and honeycomb, with large specific surface area and high adsorption capacity. The particle size ranges from 0.5 to 300 lm.
+Guo et al. (2014) used the mixture of fly ash and soil in CWs as
+substrate to remove P from wastewater. The results showed that
+when the mass ratio of fly ash and soil was 3:7, the treatment
+effect was the best, and the removal rate of total P was 97.58%.
+Removal of different forms of P was investigated by Liu et al.
+(2013b) using fly ash brickbat in CWs. Results revealed that the
+removal of soluble active P was accomplished by adsorption onto
+the substrate with a removal rate of over 97%. Wendling et al.
+(2013) demonstrated that fly ash could effectively remove organic
+and inorganic N. The potential neoformation of Al, Fe and Mn
+oxide/hydroxide minerals, such as Fe(OH)3, a-FeOOH, a-Fe2O3, Fe8O8(OH)6(SO4)nH2O, in fly ash promotes the sorption of nutrients
+and DOC. Guo et al. (2014) found the removal rate of total N and
+NH4-N were 57.52% and 93.78%, respectively across the CWs using
+the mixture of fly ash and soil as the substrate.
+2.2.6. Slag
+Slag includes blast furnace (BF) slag and steel slag. BF slag is a
+by-product of blast furnace ironmaking process, which contains
+Si (30–40%), CaO (30–40%), Al2O3 (5–15%), and Fe2O3 (0.02–
+0.45%) (Haynes et al., 2011). BF slag is a hard crystalline material
+and its mineralogy is dominated by calcium aluminosilicate mellilite group including akermanite (Ca2MgSi2O7) and gehlenite (Ca2Al
+(AlSiO7)). Steel slag the by-product of steel-making process, which
+contains Fe2O3 (42–84%), CaO (25–55%), SiO2 (9–18%), Al2O3 (0–
+3%), and MnO (1–6%) (Geiseler, 1996). Steel slag has a crystalline
+structure with the main mineral phase being wustite (FeO), and
+the other phases include dicalcium silicate, tricalcium silicate,
+and dicalcium ferrite.
+BF slag and steel slag have been demonstrated to be an excellent adsorbent for P by numerous researches. Mann (1997)
+observed that steelworks by-products (i.e., BF slag, steel slag and
+fly ash) exhibited high P adsorption capacities (>380 mg/kg), and
+the P adsorption capacities of slags were closely related to the
+active Ca and Mg. In batch experiments conducted by Korkusuz
+et al. (2007), BF granulated slag showed the highest P adsorption
+capacity than other filter materials due to its higher content of
+Ca and porous structure. Paul and Anderson (2011) evaluated the
+P removal efficiencies of BF slag and cement clinker in long-term
+flow cell experiments, with gravel as a control medium. As a result,
+BF slag and cement clinker showed nearly 100% P removal efficiency, while the control substrate gravel only achieved 50%
+removal efficiency. Blanco et al. (2016) studied the P removal by
+basic oxygen furnace (BOF) steel slag. In column experiments,
+BOF steel slag achieved the P removal efficiency of higher than
+99%, and P removal capacity of 3.1 mg/g. The P removal mechanism
+was mainly calcium phosphate precipitation, which depended on
+the release of Ca2+ and OH from the BOF steel slag. Zhu et al.
+(2011) compared several substrates for N adsorption capacity,
+and
+BF
+slag
+exhibited
+medium adsorption
+capacity.
+Andreomartínez et al. (2017) found applying BF slag to CWs as
+adsorption substrate would be beneficial for total N removal.
+Andreomartínez et al. (2017) found that HF CWs filled with BF
+slag could effectively remove E. coli with a removal of 96.9 ± 1.7%.
+2.2.7. Construction waste
+Construction waste refers to the dregs, residual materials, abandoned bricks, silt, and other wastes produced in the process of construction, laying, demolition and repair of various buildings,
+
+structures and pipelines. Utilization of construction waste is a
+promising way to reduce its disposal cost.
+Wang et al. (2013a) screened P-removing substrates for use in
+CWs treating swine wastewater, and indicated broken bricks were
+suitable substrates for P removal. Zhou et al. (2010) studied the
+nutrients removal from secondary effluent across the CWs with
+foamed insulation bricks as the substrate. Results showed that
+the removal rate of total P reached 75%, while the removal rate
+of total N was only 30%.
+2.3. Artificial materials
+2.3.1. Ceramsite
+Ceramsite is a round, oval or irregular ceramic particle, with the
+bulk density of 300–900 kg/m3, and particle size of 5–25 mm. Ceramsite is produced by ceramic production of raw materials by high
+temperature calcination. Ceramsite can be used in wastewater
+treatment and CWs due to its high adsorption capacity, stability
+and affinity to microbial biofilm biomass (Wu et al., 2016a).
+He et al. (2010) compared several substrates for nutrients
+adsorption in CWs, and fly ash ceramsite showed the largest
+adsorption amount of P, but a medium capacity for N. The P
+adsorption onto ceramic sands were studied by Wang et al.
+(2013b), and the Langmuir equation could well describe the experimental data of adsorption isotherm. Cheng and co-workers prepared a sustainable and efficient ceramsite substrate for P
+immobilization in CWs by adopting coal fly ash and waterworks
+sludge as the main materials, and oyster shell as the additive
+(Cheng et al., 2018). Static adsorption experiments indicated the
+theoretical maximum P adsorption capacity of as prepared ceramsite reached up to 4.51 mg/g, and the dynamic column experiments
+filled with ceramsite medium achieved as much as 90% of the P
+removal with an HRT of 12 h. Yuan et al. (2015) used bentonite,
+metallic iron, and activated carbon to prepare ceramisite, and the
+as-prepared ceramisite achieved a high Pb removal efficiency
+(>99%).
+2.3.2. Activated carbon
+Activated carbon is an amorphous carbon obtained by processing. It has a large specific surface area, and has a good adsorption
+capacity for gas, inorganic or organic matter and colloid particles
+in the solution. The properties of activated carbon are stable, high
+mechanical strength, acid resistance, alkali resistance, heat resistance, insoluble in water and organic solvents, and reusable. It
+has been widely used in various fields, such as chemical industry,
+environmental protection, food processing, metallurgy, pharmaceutical refining and so on (Dias et al., 2007). At present, modified
+activated carbon materials have been widely used in the fields of
+sewage treatment and air pollution prevention and control, and
+become more and more attractive in the field of environmental
+pollution control (Kyzas et al., 2015).
+Dai and Hu (2017) evaluated the P adsorption of several CWs
+substrates, and indicated the P adsorption efficiency of activated
+carbon was not very good. A pilot investigation indicated the
+biologically-active granular activated carbon was an effective
+method to remove NH4-N with an average removal of
+60.87 ± 29.69% (Fu et al., 2017).
+2.3.3. Synthetic fiber
+Synthetic fiber is made by chemical processes, as opposed to
+natural fiber. Synthetic fiber is made from synthesized polymers
+of small molecules. Synthetic fiber has advantages of high strength,
+light quality, good elasticity, water resistant and stain resistant.
+Chen et al. (2013) found synthetic fiber had a relatively good P
+removal rate of 75%. However, synthetic fiber was poor in ammonia removal (Chen et al., 2012).
+
+
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+2.3.4. Cement clinker
+Cement clinker is a semi-finished product obtained by using
+limestone and clays as main raw materials in an appropriate ratio,
+buring to partial or full melting, and then cooling. Cement clinker is
+usually of diameter 3–25 mm and dark grey in color. The main
+components of cement clinker are alite, belite, aluminate, and ferrite. Cement clinker is primarily used to produce cement.
+Cement clinker has been studied and showed excellent P
+removal capacity. For example, Calder et al. (2006) investigated
+capacity of cement clinker to remove P in a SF CWs posttreatment filter, and cement clinker showed a good P removal
+capacity, keeping an outflow dissolved P concentration of
+0.72 ± 0.20 mg/L. Paul and Anderson (2011) found the P removal
+efficiency of BF slag and cement clinker in long-term flow cell
+experiments could reach up to nearly 100%.
+
+2.3.5. Recycled concrete
+Recycled concrete refers to the new concrete which is made up of
+waste concrete blocks, mixing with cement and water. Recycled
+concrete can partially or totally replace natural aggregates such as
+sand and stone. Recycled aggregate are already used in all
+countries in various applications of civil engineering works, as
+road pavement materials, subbasements, soil stabilization,
+improvement of subground, production of concrete of many
+categories.
+Molle et al. (2003) investigated the P uptake of recycled
+concrete in both batch and continuous systems. Recycled concrete showed excellent P sorption capacity. However, recycled concrete was sensitive to strong dissolution, leading to rapid
+precipitation of P, but led to high conductivity and pH values in
+treated water.
+
+2.3.6. Modified clays
+Various modified clay products develop including expanded
+clay, calcined clay, Filtralite PÒ and so on. Filtralite PÒ is high
+quality filter media, manufactured from expanded clay material,
+and used for filtration and purification of waste and effluent
+water for dispersed settlements. The material is a commercially
+available product with a high pH (>10) and a high Ca and Mg content. It has a grain size in the range 0.5–4 mm, effective porosity of
+40%, particle porosity of 68%, and bulk density of 0.55 g/cm3 (Ádám
+et al., 2007).
+Drizo et al. (1999) determined the P adsorption capacity of
+seven substrates, and concluded that the adsorption effect of light
+expanded clay on P was not very good. However, other studies
+demonstrated the good performance of expanded clay and calcined
+clay on P adsorption. White et al. (2011) observed that the average
+P adsorption capacity of crude calcined clay reached up to 497 mg/
+kg. Jesus et al. (2014) found that expanded clay showed excellent N
+adsorption capacity, and could adsorbed 0.31 mg/kg of NH4-N after
+7 days of contact. The P adsorption capacity of Filtralite PÒ was
+evaluated by Ádám et al. (2007) in both batch and column experiments. In column tests, the removal rate of P in primary wastewater was 91%, and in secondary wastewater was 54%. Jenssen et al.
+(2010) investigated the removal of FIB by saturated filters containing Filtralite PÒ, and found FIB in effluent met the European bathing water quality criteria.
+Ferreira et al. (2017) evaluated the capacity of CWs to remove
+three emerging organic contaminants. The presence of light
+expanded clay aggregates showed higher removal (around 61–
+97%) of lipophilic compounds (oxybenzone and triclosan) than
+the hydrophilic compound (caffeine; around 19–85%).
+
+9
+
+2.4. Interaction with plant/microorganism
+Many studies showed that the presence of plant could effectively improve adsorption of contaminants onto substrate materials in CWs, especially for nutrients and pesticides/herbicides. This
+probably because the presence of plants increases water retention
+time, which prolongs the contact time between substrate materials
+and contaminants, then the adsorption of contaminants onto substrate materials in CWs are improved. In addition, the presence of
+plants changes the pH of the system, which is possibly more conducive to adsorption of contaminants onto substrates. For example,
+Wu et al. (2014) conducted batch tests, and demonstrated the
+planted units exhibited better performance in P-sorption capacity
+compared to the unplanted ones. Mbuligwe (2005) found that
+the overall treatment efficiency of the vegetated CW units was
+more than twice as high as that of the unplanted bed. On average,
+the bed vegetated with coco yam plants performed better (7.6%)
+than the one planted with cattail plants. Drizo et al. (2000) found
+that the presence of plants can increase the adsorption capacity
+of shale for P and N. Martín et al. (2013) noted that a VF CW could
+remove more P and N when planted with reeds. Yang et al. (2002)
+noted that the effect of plant litter was also a significant mechanism affecting nutrient removal in the SF pattern soil-bed wetland
+systems without harvest. Abe et al. (2014) indicated that N was
+removed mainly by denitrification and secondarily by adsorption
+to soil and by plant uptake. Shannon et al. (2001) also found that
+N removal in the wetland treatment cells might continue to
+improve as the density of wetland vegetation increased.
+Papaevangelou et al. (2016) noted that planted CW units showed
+better performance for Cr removal than the unplanted ones. D
+et al. (2017) indicated that the emergent plants would be helpful
+for decreasing the dredging soil depth for the final removal of
+heavy metals. Vallée et al. (2014) demonstrated that the presence
+of plants could increase sorption capacity of soil-sediment substrate for pesticides. Chen et al. (2017) reported that plants could
+enhance the removal of chloroacetanilide herbicides in CWs, especially the floating hydroponic root mat. Rogers and Stringfellow
+(2009) found that sorption for pesticides to whole plant stems
+(Kd = 570–1300 L/kg) was more than 10 times higher than to soil
+(Kd = 40–71 L/kg). Chen et al. (2017) demonstrated that all three
+planted systems were effective in removing herbicides with
+removal efficiency being >92% after operating for 9 days. Tee
+et al. (2009) indicated that planted wetland units performed better
+than the unplanted ones in the removal and mineralization of phenol. Thomas (2003) noted that in CW system, planted with Phragmites australis in gravel media, greater linear alkylbenzene
+sulphonate (LAS) removal was observed in the spring coinciding
+with the plant growth season. Studies conducted by Sehar et al.
+(2016) highlighted the presence of vegetation/plants in CWs could
+achieve better FIB removal.
+Microorganisms in substrate have also been found to improve
+the contaminants removal in CWs. For example, Chowdhury
+(2017) demonstrated that microbes could promote the adsorption
+of As by iron sulfide. Saba et al. (2015) noted that augmentation of
+microorganisms in CW systems had improved dye removal efficiency to 90%.
+
+3. Evaluation and recommendation
+The theme of this article is to review the removal capacity
+of various substrates for contaminants, and to compare their cost,
+availability, permeability, reuse and safety to provide reference for
+future research and application on CWs. Here a scoring model is set
+up based on various properties and characteristics, to score the
+
+
+
+Substrate
+
+Gavel
+Sand
+Shale
+Soil/
+sediment
+Zeolite
+Limestone
+
+Mineral
+
+Natural
+material
+Natural
+material
+Natural
+material
+Natural
+material
+Natural
+material
+Natural
+material
+Natural
+material
+Natural
+material
+
+Likely
+cost
+
+Availability
+
+Permeability
+
+Medium
+
+High
+
+High
+
+Low
+
+High
+
+Low
+
+Reusability
+
+Contaminant removal capacity
+Pesticide/
+herbicide
+
+Score
+
+Remark
+
+Adv.: easy to obtain, high permeability, safe
+and non-polluting
+Adv.: aboundant; cheap
+Disad.: low P sorption capacity
+Disad.: low compressive strength; weak
+ability to resist weathering
+Adv.: low cost; easy to obtain
+Disad.: potential secondary pollution
+Adv.: beneficial for microbes growth; higher
+N removal rate
+Adv.: moderate P removal in lab tests
+Disad.: needing tests in field conditions
+
+P
+
+N
+
+Heavy
+metal
+
+Surfactant
+
+Emerging
+contaminant
+
+Fecal
+indicator
+
+Beneficial
+
+High
+
+Medium
+
+High
+
+High
+
+High
+
+High
+
+19
+
+Medium
+
+Neutral
+
+Low
+
+Medium
+
+High
+
+High
+
+12
+
+Low
+
+Low
+
+Beneficial
+
+High
+
+Medium
+
+Low
+
+High
+
+Medium
+
+Difficult
+
+High
+
+High
+
+High
+
+Medium
+
+Medium
+
+Medium
+
+Beneficial
+
+Medium
+
+High
+
+High
+
+11
+
+Low
+
+High
+
+Medium
+
+Beneficial
+
+Medium
+
+Medium
+
+High
+
+12
+
+Medium
+
+High
+
+Medium
+
+Beneficial
+
+Low
+
+Medium
+
+High
+
+Medium
+
+High
+
+Beneficial
+
+High
+
+Medium
+
+8
+High
+
+Medium
+
+High
+
+High
+
+19
+
+8
+Low
+
+9
+
+Alum sludge
+
+Industrial
+waste
+
+Low
+
+High
+
+Low
+
+Beneficial
+
+High
+
+High
+
+11
+
+Oyster shell
+
+Agricultural
+waste
+
+Low
+
+High
+
+Medium
+
+Beneficial
+
+High
+
+High
+
+12
+
+Woodchip
+
+Agricultural
+waste
+
+Low
+
+High
+
+High
+
+Beneficial
+
+Plant waste
+
+Agricultural
+waste
+Industrial
+waste
+Industrial
+waste
+
+Low
+
+High
+
+High
+
+Difficult
+
+High
+
+Medium
+
+Low
+
+Medium
+
+High
+
+Difficult
+
+High
+
+High
+
+Medium
+
+Medium
+
+High
+
+Beneficial
+
+High
+
+Medium
+
+Construction
+waste
+
+Industrial
+waste
+
+Low
+
+High
+
+Medium
+
+Neutral
+
+High
+
+Medium
+
+Ceramsite
+
+Artificial
+material
+
+Medium
+
+Medium
+
+High
+
+Beneficial
+
+High
+
+Medium
+
+Activated
+carbon
+
+Artificial
+material
+
+Medium
+
+Medium
+
+High
+
+Beneficial
+
+Low
+
+Medium
+
+Fly ash
+Slag
+
+High
+
+High
+
+Medium
+
+High
+
+High
+
+13
+
+Medium
+
+16
+10
+
+High
+
+12
+
+10
+
+High
+
+12
+
+8
+
+Adv.: good sorption capability for P, N, and
+heavy metals
+Disad.: high cost
+Adv.: abundant; waste utilization; high P
+removal capacity
+Disad.: expensive for transport; potential
+leakage of toxic metals; low N removal
+capacity; very sensitive to pH
+Adv.: excellent P removal capacity; enhanced
+organic matter removal; promotion on plant
+propagation
+Disad.: variable adsorption capacity
+depending on oyster types; possible
+conservation issue
+Adv.: high N and organics removal;
+abundant; organic carbon source for
+heterotrophic denitrification process
+Disad.: only testing in lab-scale CWs
+Adv.: easy to obtain; waste utilization
+Adv.: high P removal capacity
+Disad.: high content of heavy metals
+Adv.: high P removal capacity; potential
+rejuvenation when saturated
+Disad.: high content of heavy metals; hard to
+dispose; expensive to transport
+Adv.: high P adsorption capacity; supporting
+microorganism and plant growth
+Disad.: changeable contents
+Adv.: high P and N removal capacity; waste
+utilization; improved mechanical strength,
+safety, and microporous structures
+Disad.: complex preparation process; energy
+consumption
+Adv.: stable; high mechanical strength; acid/
+alkali/heat resistance; good adsorption
+capacity
+Disad.: high cost
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+Volcanics
+
+Category
+
+10
+
+Table 1
+Scores of substrate materials for application in CWs based on the likely cost, availability, reusability and contaminant removal capacity.
+
+
+
+Score derived by addition as follows: Contaminant removal capacity: low = 0, medium = 1, high = 2; Availability: low = 1, medium = 2, high = 3; Likely cost: low = 3, medium = 2, high = 1; Permeability: low = 0, medium = 1,
+high = 2; Reusability: difficult = -1, neutral = 0, beneficial = 1.
+
+11
+Medium
+Beneficial
+Medium
+Medium
+Artificial
+material
+Modified clay
+
+High
+
+High
+Neutral
+High
+Low
+
+High
+
+High
+Beneficial
+Medium
+High
+
+Artificial
+material
+Artificial
+material
+Cement
+clinker
+Recycled
+concrete
+
+Low
+
+Artificial
+material
+Synthetic
+fiber
+
+Medium
+
+Medium
+
+High
+
+Beneficial
+
+High
+
+Low
+
+High
+
+High
+
+Medium
+
+10
+
+10
+
+9
+
+Adv.: high strength; light quality; good
+elasticity
+Disad.: high cost
+Adv.: high P adsorption capacity
+Disad.: unstability
+Adv.: rapid precipitation of P
+Disad.: high conductivity and pH values in
+treated water
+Adv.: high N adsorption capacity
+Disad.: expensive for transport
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+11
+
+substrates. Then the score is used to evaluate the quality of
+substrate, and high score indicates an excellent substrate. In the
+model, the score comes from the sum of the scores of each
+parameter. The scoring indicators are as follows: Contaminant
+removal capacity: low = 0, medium = 1, high = 2; Availability:
+low = 1, medium = 2, high = 3; Likely cost: low = 3, medium = 2,
+high = 1; Permeability: low = 0, medium = 1, high = 2; Reusability:
+difficult = -1, neutral = 0, beneficial = 1. The results are shown in
+Table 1. Generally, the natural materials (mean score = 12.25)
+and agricultural/industrial wastes (mean score = 12) got higher
+scores than artificial materials (mean score = 10). This suggests
+natural materials and agricultural/industrial wastes have
+advantages in cost and effectiveness compared with artificial
+materials. Both soil/sediment and gravel got the highest score of
+19. However, the composition of soil/sediment varies greatly due
+to the complex sources. In addition, there may be secondary pollution issue to use contaminated soil/sediment. Thus, when they are
+used as substrate, multiple factors should also be considered.
+Gravel is one of the most used traditional substrates in CWs due
+to its abundance, low-cost, and retention for various contaminants
+(Yang et al., 2018a). Moreover, gravel has the high potential of
+permeability and reusability, which provides it more advantages
+over soil/sediment as CWs substrate. The recommended gravel
+sizes for CWs is 8–16 mm (IWA, 2001). The other substrate
+materials with high scores include plant waste (score = 16),
+woodchip (score = 13), sand (score = 12), limestone (score = 12),
+oyster shell (score = 12), slag (score = 12) and ceramsite
+(score = 12).
+Because different substrates have different contaminants
+removal capacities, specific substrates should be selected considering the contaminants types. For example, for sewage with high
+E. coli and suspended particles, peat soil may be used as the CWs
+substrate. For wastewater with high content of heavy metals, limestone and zeolite are preferred as the substrate. For eutrophic
+waters with high P content, slag or shale is suitable as the
+substrate.
+The choice of substrates should follow the principles of easy
+access, high efficiency, low cost, safety and innocuity. When designing CWs, designers should first screen local materials with high contaminants removal capacities, which could not only improve the
+ability of CWs to purify the sewage and reduce the cost, but also
+extend the service life of ecological projects. In addition, because
+of the great differences in permeability coefficient of different materials, substrates should be chosen according to the wetland designs.
+For example, SF CWs can select soil as the substrate. Sand, slag or
+their mixture with soil could be used in SSF CWs, because the wetlands need substrate with high permeability coefficient.
+Due to complementary effects between various substrates, the
+combination of different materials could greatly improve the treatment performance of CWs. For example, the zeolite-gravel mixture
+substrate could simultaneously remove both P and N (Singh et al.,
+2014). Moreover, there are also synergistic effects between some
+substrates, and combining them together will achieve better
+removal effect than a single application. The research on the decontamination effect and influencing factors of the combined substrate
+will be an important direction for the future research on CWs.
+Furthermore, the research and development of new substrate
+materials with good retention capacity, long-lasting performance
+and cheap cost will also be the focus of CWs substrate research
+in the future.
+
+4. Conclusions
+Yang et al. reviewed the research progress of some emerging
+substrates in CWs (Yang et al., 2018b). Other two papers reviewed
+
+
+
+12
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+the phosphorus removal capacity of various substrates (Ballantine
+and Tanner, 2010; Vohla et al., 2011). So far, there is no comprehensive review on all kinds of substrate materials and especially
+evaluation on the removal capacities for various contaminants.
+This review has documented various properties, e.g., cost, availability, permeability, reuse, safety and removal capacity for contaminants, of 22 substrate materials in CWs. Their removal
+capacities for main water contaminants including nutrients, heavy
+metals, surfactants, pesticides/herbicides, emerging contaminants
+and FIB were comprehensively described. This paper summarizes
+more literature and content, especially more comprehensive
+understanding of various substrates than the previous literature
+on a single pollutant removal capacity. In addition, a scoring model
+for substrate evaluation based on cost, availability, reuse and contaminant removal capacities was established to provide important
+reference for the selection of substrates in CWs under different
+conditions, which was not available in previous literature. Further,
+this model not only advances the value of previous research, but
+also provides an important reference method for such research.
+Generally, natural materials and agricultural/industrial wastes
+got higher scores than artificial materials, which demonstrated
+that natural materials and agricultural/industrial wastes had
+advantages in cost and effectiveness compared with artificial
+materials. Overall, this review provided important reference and
+guidance for the selection of CWs substrates, which could improve
+the construction and operation of CWs for wastewater treatment.
+Further, to a certain extent, the results are only directions for
+future work due to the wide variety of methods applied in CWs
+and substrates research.
+Acknowledgements
+This work was supported by POWERCHINA HUADONG Science
+and Technology Project (KY2018-01-05, KY2016-02-04), National
+Water Pollution Control and Treatment Science and Technology
+Major Project (2017ZX07602-002), China Postdoctoral Science
+Foundation
+(2018M641927),
+Shanghai
+Pujiang
+Program
+(17PJ1400900), and National Natural Science Foundation of China
+(41701541, 91851110).
+References
+A, D., Oka, M., Fujii, Y., Soda, S., Ishigaki, T., Machimura, T., et al., 2017. Removal of
+heavy metals from synthetic landfill leachate in lab-scale vertical flow
+constructed wetlands. Sci. Total Environ. 584–585, 742–750.
+Abe, K., Komada, M., Ookuma, A., Itahashi, S., Banzai, K., 2014. Purification
+performance of a shallow free-water-surface constructed wetland receiving
+secondary effluent for about 5 years. Ecol. Eng. 69, 126–133.
+Ádám, K., Krogstad, T., Vråle, L., Søvik, A.K., Jenssen, P.D., 2007. Phosphorus
+retention in the filter materials shellsand and Filtralite P—batch and column
+experiment with synthetic P solution and secondary wastewater. Ecol. Eng. 29,
+200–208.
+Allende, K.L., Fletcher, T.D., Sun, G., 2011. Enhancing the removal of arsenic, boron
+and heavy metals in subsurface flow constructed wetlands using different
+supporting media. Water Sci. Technol. 63, 2612–2618.
+Allende, K.L., Fletcher, T.D., Sun, G., 2012. The effect of substrate media on the
+removal of arsenic, boron and iron from an acidic wastewater in planted
+column reactors. Chem. Eng. J. 179, 119–130.
+Andreomartínez, P., Garcíamartínez, N., Quesadamedina, J., Almela, L., 2017.
+Domestic wastewaters reuse reclaimed by an improved horizontal
+subsurface-flow constructed wetland: a case study in the southeast of Spain.
+Bioresour. Technol. 233, 236.
+Babatunde, A.O., Zhao, Y.Q., 2007. Constructive approaches toward water treatment
+works sludge management: an international review of beneficial reuses. Crit.
+Rev. Environ. Sci. Technol. 37, 129–164.
+Ballantine, D.J., Tanner, C.C., 2010. Substrate and filter materials to enhance
+phosphorus removal in constructed wetlands treating diffuse farm runoff: a
+review. N. Zeal. J. Agric. Res. 53, 71–95.
+Blanco, I., Molle, P., Miera, L.E.S.D., Ansola, G., 2016. Basic Oxygen Furnace steel slag
+aggregates for phosphorus treatment. Evaluation of its potential use as a
+substrate in constructed wetlands. Water Res. 89, 355–365.
+
+Brix, H., 1990. Gas exchange through the soil-atmosphere interphase and through
+dead culms of phragmites australis in a constructed reed bed receiving
+domestic sewage. Water Res. 24, 259–266.
+Brix, H., 1997. Do macrophytes play a role in constructed treatment wetlands?
+Water Sci. Technol. 35, 11–17.
+Buddhawong, S., Kuschk, P., Mattusch, J., Wiessner, A., Stottmeister, U., 2010.
+Removal of arsenic and zinc using different laboratory model wetland systems.
+Eng. Life Sci. 5, 247–252.
+Bulc, T.G., Ojstršek, A., 2008. The use of constructed wetland for dye-rich textile
+wastewater treatment. J. Hazard. Mater. 155, 76–82.
+Calder, N., Anderson, B.C., Martin, D.G., 2006. Field investigation of advanced
+filtration for phosphorus removal from constructed treatment wetland
+effluents. Environ. Technol. 27, 1063–1071.
+Camilo, B.K., Matzinger, A., Litz, N., Tedesco, L.P., Wessolek, G., 2013. Concurrent
+nitrate and atrazine retention in bioreactors of straw and bark mulch at short
+hydraulic residence times. Ecol. Eng. 55, 101–113.
+Chandrasena, G.I., Shirdashtzadeh, M., Li, Y.L., Deletic, A., Hathaway, J.M., Mccarthy,
+D.T., 2017. Retention and survival of E. coli in stormwater biofilters: Role of
+vegetation, rhizosphere microorganisms and antimicrobial filter media. Ecol.
+Eng. 102, 166–177.
+Chen, X., Chen, X., Wan, X., Weng, B., Huang, Q., 2010. Water hyacinth (Eichhornia
+crassipes) waste as an adsorbent for phosphorus removal from swine
+wastewater. Bioresour. Technol. 101, 9025–9030.
+Chen, Y., Cheng, J., Niu, S., Kim, Y., 2013. Evaluation of the different filter media in
+vertical flow stormwater wetland. Desalin. Water Treat. 51, 4097–4106.
+Chen, Y., Guerra, H.B., Min, K.S., Kim, Y., 2012. Operation of the vertical subsurface
+flow and partly submersed stormwater wetland with an intermittent recycle.
+Desalin. Water Treat. 38, 349–359.
+Chen, Z., Chen, Y., Vymazal, J., Kule, L., Koželuh, M., 2017. Dynamics of
+chloroacetanilide herbicides in various types of mesocosm wetlands. Sci. Total
+Environ. 577, 386–394.
+Cheng, G., Li, Q., Su, Z., Sheng, S., Fu, J., 2018. Preparation, optimization, and
+application of sustainable ceramsite substrate from coal fly ash/waterworks
+sludge/oyster shell for phosphorus immobilization in constructed wetlands. J.
+Clean. Prod. 175, 572–581.
+Cheng, J., Jia, L., He, Y., Bo, Z., Kirumba, G., Jie, X., 2013. Adsorptive removal of
+phosphorus from aqueous solution using sponge iron and zeolite. J. Colloid
+Interfaces Sci. 402, 246–252.
+Chong, H.L.H., Chia, P.S., Ahmad, M.N., 2013. The adsorption of heavy metal by
+Bornean oil palm shell and its potential application as constructed wetland
+media. Bioresour. Technol. 130, 181–186.
+Chow, K.L., Man, Y.B., Tam, N.F., Liang, Y., Wong, M.H., 2017. Removal of
+decabromodiphenyl ether (BDE-209) using a combined system involving TiO2
+photocatalysis and wetland plants. J. Hazard. Mater. 322, 263–269.
+Chowdhury, R., 2017. Using adsorption and sulphide precipitation as the principal
+removal mechanisms of arsenic from a constructed wetland – a critical review.
+Chem. Ecol., 1–12
+Chudoba, E.A., Mallin, M.A., Cahoon, L.B., Skrabal, S.A., 2013. Stimulation of fecal
+bacteria in ambient waters by experimental inputs of organic and inorganic
+phosphorus. Water Res. 47, 3455–3466.
+Cooper, P.F., Job, G.D., Green, M.B., Shutes, R.B.E., 1996. Reed Beds and Constructed
+Wetlands for Wastewater Treatment. WRc Publications, Medmenham, Marlow,
+UK.
+Cyrus, J.S., Reddy, G.B., 2011. Sorption and desorption of ammonium by zeolite:
+batch and column studies. Environ. Lett. 46, 408–414.
+D’Angelo, E.M., 2005. Phosphorus sorption capacity and exchange by soils from
+mitigated and late successional bottomland forest wetlands. Wetlands 25, 297–
+305.
+Dai, H., Hu, F., 2017. Phosphorus adsorption capacity evaluation for the substrates
+used in constructed wetland systems: a comparative study. Pol. J. Environ. Stud.
+26, 1003–1010.
+Daneshvar, F., Nejadhashemi, A.P., Adhikari, U., Elahi, B., Abouali, M., Herman, M.R.,
+et al., 2017. Evaluating the significance of wetland restoration scenarios on
+phosphorus removal. J. Environ. Manage. 192, 184–196.
+Daothaisong, A., Yimrattanabovorn, J., 2009. Nitrogen adsorption of shale for use as
+media in constructed wetland. Environ. Eng. Manage. J. 8, 1073–1079.
+Davies, L.C., Pedro, I.S., Novais, J.M., Martins-Dias, S., 2006. Aerobic degradation of
+acid orange 7 in a vertical-flow constructed wetland. Water Res. 40, 2055–2063.
+Dias, J.M., Alvim-Ferraz, M.C.M., Almeida, M.F., Rivera-Utrilla, J., Sánchez-Polo, M.,
+2007. Waste materials for activated carbon preparation and its use in aqueousphase treatment: a review. J. Environ. Manage. 85, 833–846.
+Dong, C.S., Hwang, S.H., Kim, H.J., Ju, S.C., Hong, J.L., Delaune, R.D., et al., 2008.
+Evaluation of 2- and 3-stage combinations of vertical and horizontal flow
+constructed wetlands for treating greenhouse wastewater. Ecol. Eng. 32, 121–
+132.
+Dorsey, J.H., Carter, P.M., Bergquist, S., Sagarin, R., 2010. Reduction of fecal indicator
+bacteria (FIB) in the Ballona Wetlands saltwater marsh (Los Angeles County,
+California, USA) with implications for restoration actions. Water Res. 44, 4630–
+4642.
+Drizo, A., Frost, C.A., Grace, J., Smith, K.A., 1999. Physico-chemical screening of
+phosphate-removing substrates for use in constructed wetland systems. Water
+Res. 33, 3595–3602.
+Drizo, A., Frost, C.A., Grace, J., Smith, K.A., 2000. Phosphate and ammonium
+distribution in a pilot-scale constructed wetland with horizontal subsurface
+flow using shale as a substrate. Water Res. 34, 2483–2490.
+
+
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+Eturki, S., Ayari, F., Kallali, H., Jedidi, N., Dhia, H.B., 2012. Treatment of rural
+wastewater by infiltration percolation process using sand-clay fortified by
+pebbles. Desalin. Water Treat. 49, 65–73.
+Fang, Y., Liu, L., Wu, L., 2016. Adsorption of nutrients by substrates for constructed
+wetland. In: International Conference on Machinery, Materials Engineering,
+Chemical Engineering and Biotechnology.
+Farahbakhshazad, N., Morrison, G.M., Filho, E.S., 2000. Nutrient removal in a vertical
+upflow wetland in Piracicaba, Brazil. Ambio 29, 74–77.
+Fatehi-Pouladi, S., Anderson, B.C., Wootton, B., Button, M., Bissegger, S., Rozema, L.,
+et al., 2019. Interstitial water microbial communities as an indicator of
+microbial denitrifying capacity in wood-chip bioreactors. Sci. Total Environ.
+655, 720–729.
+Fernandez, C., Wu, J.Q., McCool, D.K., Stöckle, C.O., 2003. Estimating water erosion and
+sediment yield with GIS, RUSLE, and SEDD. J. Soil Water Conserv. 58, 128–136.
+Ferreira, A.R., Guedes, P., Mateus, E.P., Ribeiro, A.B., Couto, N., 2017. Comparative
+assessment of LECA and Spartina maritima to remove emerging organic
+contaminants from wastewater. Environ. Sci. Pollut. R 24, 7208–7215.
+Flores, R.A., de Mello Prado, R., Natale, W., Rozane, D.E., Vale, D.W.d., 2018. Using
+limestone to improve soil fertility and growth of mango (Mangifera Indica L.)
+AU – Correia, Marcus André Ribeiro. Commun. Soil Sci. Plan 49, 903–912.
+Forbes, M.G., Dickson, K.L., Saleh, F., Waller, W.T., Doyle, R.D., Hudak, P., 2005.
+Recovery and fractionation of phosphorus retained by lightweight expanded
+shale and masonry sand used as media in subsurface flow treatment wetlands.
+Environ. Sci. Technol. 39, 4621–4627.
+Fu, J., Lee, W.-N., Coleman, C., Meyer, M., Carter, J., Nowack, K., et al., 2017. Pilot
+investigation of two-stage biofiltration for removal of natural organic matter in
+drinking water treatment. Chemosphere 166, 311–322.
+Ge, Y., Wang, X., Zheng, Y., Dzakpasu, M., Zhao, Y., Xiong, J., 2015. Functions of slags
+and gravels as substrates in large-scale demonstration constructed wetland
+systems for polluted river water treatment. Environ. Sci. Pollut. R 22, 12982–
+12991.
+Geiseler, J., 1996. Use of steelworks slag in Europe. Waste Manage. 16, 59–63.
+Gilbin, R., Gomez, E., Picot, B., 2000. Phosphorus and organic matter in wetland
+sediments: analysis through gel permeation chromatography (GPC). Agronomie
+20, 567–576.
+Gottschall, N., Edwards, M., Craiovan, E., Frey, S.K., Sunohara, M., Ball, B., et al., 2016.
+Amending woodchip bioreactors with water treatment plant residuals to treat
+nitrogen, phosphorus, and veterinary antibiotic compounds in tile drainage.
+Ecol. Eng. 95, 852–864.
+Grüneberg, B., Kern, J., 2001. Phosphorus retention capacity of iron-ore and blast
+furnace slag in subsurface flow constructed wetlands. Water Sci. Technol. 44,
+69.
+Greenway, M., 2016. Media for enhanced phosphorus removal from secondary
+wastewater effluent. In: World Environmental and Water Resources Congress,
+pp. 408–418.
+Gregoire, C., Elsaesser, D., Huguenot, D., Lange, J., Lebeau, T., Merli, A., et al., 2009.
+Mitigation of agricultural nonpoint-source pesticide pollution in artificial
+wetland ecosystems. Environ. Chem. Lett. 7, 205–231.
+Guo, M.F., Xian, P., Liu, X., Yang, L.H., Zhan, L.H., Bu, G.H., 2014. Experimental study
+on modified fly ash as a substrate of constructed wetland. Appl. Mech. Mater.
+675–677, 524–529.
+Haynes, R.J., Zhou, Y.F., Naidu, R., 2011. Recycling and use of wastes/co-products
+from the iron/steel and alumina industries. Int. J. Environ. Waste Manage. 8,
+174–211.
+He, X., Wang, H., Lin, H., Chai, Z., Zhang, Y., Liu, L., et al., 2010. Performance of
+Different Constructed Wetland Substrates on Nitrogen and Phosphorous
+Adsorption.
+Heikkinen, K., Ihme, R., Osma, A.M., Hartikainen, H., 1995. Phosphate removal by
+peat from peat mining drainage water during overland flow wetland treatment.
+J. Environ. Qual. 24, 597–602.
+Hoffmann, H., Platzer, C., Winker, M., Münch, E.V., 2011. Technology Review of
+Constructed Wetlands. German Technical Cooperation.
+Hussain, S.A., Prasher, S.O., Patel, R.M., 2012. Removal of ionophoric antibiotics in
+free water surface constructed wetlands. Ecol. Eng. 41, 13–21.
+IWA, 2001. Constructed Wetlands for Pollution Control: Processes, Performance,
+Design and Operation. IWA Publishing, London, UK.
+Jenssen, P.D., Krogstad, T., Paruch, A.M., Mæhlum, T., Adam, K., Arias, C.A., et al.,
+2010. Filter bed systems treating domestic wastewater in the Nordic countries –
+performance and reuse of filter media. Ecol. Eng. 36, 1651–1659.
+Jesus, J.M., Calheiros, C.S., Castro, P.M., Borges, M.T., 2014. Feasibility of Typha
+latifolia for high salinity effluent treatment in constructed wetlands for
+integration in resource management systems. Int. J. Phytoremediat. 16, 334–
+346.
+Kivaisi, K.A., 2001. The potential for constructed wetlands for wastewater treament
+and reuse in developing countries:a review. Ecol. Eng. 16, 545–560.
+Kaplan, D.I., Knox, A.S., 2004. Enhanced contaminant desorption induced by
+phosphate mineral additions to sediment. Environ. Sci. Technol. 38, 3153–
+3160.
+Karunarathna, A.K., Tanaka, N., Jinadasa, K.B., 2007. Effect of external organic
+matter on nutrient removal and growth of Phragmites australis in a laboratoryscale subsurface-flow treatment wetland. Water Sci. Technol. 55, 121–128.
+Korkusuz, E.A., Beklioğlu, M., Demirer, G.N., 2007. Use of blast furnace granulated
+slag as a substrate in vertical flow reed beds: field application. Bioresour.
+Technol. 98, 2089–2101.
+Kröpfelová, L., 2008. Wastewater Treatment in Constructed Wetlands with
+Horizontal Sub-Surface Flow. Springer, Dordrecht, the Netherlands.
+
+13
+
+Kröpfelová, L., Vymazal, J., Švehla, J., Štíchová, J., 2009. Removal of trace elements in
+three horizontal sub-surface flow constructed wetlands in the Czech Republic.
+Environ. Pollut. 157, 1186–1194.
+Kynkäänniemi, P., Ulén, B., Torstensson, G., Tonderski, K.S., 2013. Phosphorus
+retention in a newly constructed wetland receiving agricultural tile drainage
+water. J. Environ. Qual. 42, 596.
+Kyzas, G.Z., Fu, J., Lazaridis, N.K., Bikiaris, D.N., Matis, K.A., 2015. New approaches on
+the removal of pharmaceuticals from wastewaters with adsorbent materials. J.
+Mol. Liq. 209, 87–93.
+Li, L., Zhang, H., Dunqiu Wang, D., 2012. Influencing factors of limestone sorption
+and its usage in advanced wastewater treatment for phosphorus removal. Int. J.
+Nanosci. 11, 1240028–1240036.
+Litaor, M.I., Reichmann, O., Belzer, M., Auerswald, K., Nishri, A., Shenker, M., 2003.
+Spatial analysis of phosphorus sorption capacity in a semiarid altered wetland.
+J. Environ. Qual. 32, 335.
+Liu, C., Gao, C., Wang, Z., Zhu, G., Liu, L., Lin, G., 2013a. Comparison of nutrient
+removal and bacterial communities between natural zeolite-based and volcanic
+rock-based vertical flow constructed wetlands treating piggery wastewater AU
+– Huang Xu. Desalin. Water Treat. 51, 4379–4389.
+Liu, J.-X., Dong, B.-Z., Singh, R.P., Jiang, Y.-H., Wu, Y.-T., 2013b. Phosphorus (different
+forms) removal from domestic sewage using fly ash brickbat in constructed
+wetlands. Fresen. Environ. Bull. 2, 2991–2996.
+Liu, M., Wu, S., Chen, L., Dong, R., 2014. How substrate influences nitrogen
+transformations in tidal flow constructed wetlands treating high ammonium
+wastewater? Ecol. Eng. 73, 478–486.
+Llorens, M., Pérezmarín, A.B., Sáez, J., Aguilar, M.I., Ortuño, J.F., Meseguer, V.F., et al.,
+2015. Sewage treatment with a hybrid constructed soil filter. Int. J. Chem. React.
+Eng. 13.
+Mander, Ü., Teiter, S., Kuusemets, V., Lõhmus, K., Öövel, M., Nurk, K., et al., 2003.
+Nitrogen and phosphorus budgets in a subsurface flow wastewater treatment
+wetland. Water Resour. Manage. 8, 135–148.
+Manios, T., Stentiford, E.I., Millner, P.A., 2002. The removal of indicator
+microorganisms from primary treated wastewater in subsurface reed beds
+using different substrates. Environ. Technol. 23, 297–308.
+Mann, R.A., 1997. Phosphorus adsorption and desorption characteristics of
+constructed wetland gravels and steelworks by-products. Aust. J. Soil Res. 35,
+375–384.
+Mann, R.A., Bavor, H.J., 1993. Phosphorus removal in constructed wetlands using
+gravel and industrial waste substrata. Water Sci. Technol. 27, 107–113.
+Martín, M., Gargallo, S., Hernández-Crespo, C., Oliver, N., 2013. Phosphorus and
+nitrogen removal from tertiary treated urban wastewaters by a vertical flow
+constructed wetland. Ecol. Eng. 61, 34–42.
+Matagi, S.V., Swai, D., Mugabe, R., 1998. A review of Heavy Metal Removal
+Mechanisms in wetlands. Afr. J. Trop. Hydrobiol Fish 8.
+Mbuligwe, S.E., 2005. Comparative treatment of dye-rich wastewater in engineered
+wetland systems (EWSs) vegetated with different plants. Water Res. 39, 271–
+280.
+Mohammed, A., Babatunde, A.O., 2017. Modelling heavy metals transformation in
+vertical flow constructed wetlands. Ecol. Model. 354, 62–71.
+Mojiri, A., Lou, Z., Tajuddin, R.M., Farraji, H., Alifar, N., 2016. Co-treatment of landfill
+leachate and municipal wastewater using the ZELIAC/zeolite constructed
+wetland system. J. Environ. Manage. 166, 124–130.
+Molle, P., Liénard, A., Grasmick, A., Iwema, A., 2003. Phosphorus retention in
+subsurface constructed wetlands: investigations focused on calcareous
+materials and their chemical reactions. Water Sci. Technol. 48, 75.
+Morató, J., Codony, F., Sánchez, O., Pérez, L.M., García, J., Mas, J., 2014. Key design
+factors affecting microbial community composition and pathogenic organism
+removal in horizontal subsurface flow constructed wetlands. Sci. Total Environ.
+481, 81–89.
+Ncibi, M.C., Mahjoub, B., Mahjoub, O., Sillanpää, M., 2017. Remediation of emerging
+pollutants in contaminated wastewater and aquatic environments: biomassbased technologies. CLEAN-Soil Air Water 45, 1700101.
+Pálfy, T.G., Gourdon, R., Meyer, D., Troesch, S., Olivier, L., Molle, P., 2017. Filling
+hydraulics and nitrogen dynamics in constructed wetlands treating combined
+sewer overflows. Ecol. Eng. 101, 137–144.
+Palmer, K., Ronkanen, A.K., Kløve, B., 2015. Efficient removal of arsenic, antimony
+and nickel from mine wastewaters in Northern treatment peatlands and
+potential risks in their long-term use. Ecol. Eng. 75, 350–364.
+Papaevangelou, V.A., Gikas, G.D., Tsihrintzis, V.A., 2016. Chromium removal from
+wastewater using HSF and VF pilot-scale constructed wetlands: Overall
+performance, and fate and distribution of this element within the wetland
+environment. Chemosphere 168.
+Park, W.H., Polprasert, C., 2008. Roles of oyster shells in an integrated constructed
+wetland system designed for P removal. Ecol. Eng. 34, 50–56.
+Passeport, E., Benoit, P., Bergheaud, V., Coquet, Y., Tournebize, J., 2011. Selected
+pesticides adsorption and desorption in substrates from artificial wetland and
+forest buffer. Environ. Toxicol. Chem. 30, 1669–1676.
+Paul, A.S., Anderson, B., 2011. Phosphorus removal by blast furnace slag and cement
+clinker – flow cell studies for estimation of sorptive capacity for use with
+constructed treatment wetlands. Water Qual. Res. J. Can. 46, 300.
+Peng, J., Song, Y., Liu, Z., Gao, H., Yu, H., 2012. Performance of a novel Circular-Flow
+Corridor wetland toward the treatment of simulated high-strength swine
+wastewater. Ecol. Eng. 49, 1–9.
+Prochaska, C.A., Zouboulis, A.I., 2006. Removal of phosphates by pilot vertical-flow
+constructed wetlands using a mixture of sand and dolomite as substrate. Ecol.
+Eng. 26, 293–303.
+
+
+
+14
+
+Y. Wang et al. / Science of the Total Environment 701 (2020) 134736
+
+Pucher, B., Ruiz, H., Paing, J., Chazarenc, F., Molle, P., Langergraber, G., 2017. Using
+numerical simulation of a one stage vertical flow wetland to optimize the depth
+of a zeolite layer. Water Sci. Technol. 75, 650–658.
+Quiñónez-Díaz, M., Karpiscak, M., Ellman, E., Gerba, C., 2001. Removal of pathogenic
+and indicator microorganisms by a constructed wetland receiving untreated
+domestic wastewater. J. Environ. Sci. Health A 36, 1311–1320.
+Ramos, C.G., Querol, X., Oliveira, M.L.S., Pires, K., Kautzmann, R.M., Oliveira, L.F.S.,
+2015. A preliminary evaluation of volcanic rock powder for application in
+agriculture as soil a remineralizer. Sci. Total Environ. 512–513, 371–380.
+Reddy, K.R., Connor, G.A.O., Gale, P.M., 1998. Phosphorus sorption capacities of
+wetland soils and stream sediments impacted by dairy effluent. J. Environ. Qual.
+27, 438–447.
+Robertson, W.D., 2010. Nitrate removal rates in woodchip media of varying age.
+Ecol. Eng. 36, 1581–1587.
+Rogers, M.R., Stringfellow, W.T., 2009. Partitioning of chlorpyrifos to soil and plants
+in vegetated agricultural drainage ditches. Chemosphere 75, 109–114.
+Saba, B., Jabeen, M., Khalid, A., Aziz, I., Christy, A.D., 2015. Effectiveness of rice
+agricultural waste, microbes and wetland plants in the removal of reactive
+Black-5 Azo dye in microcosm constructed wetlands. Int. J. Phytoremediat. 17,
+1060–1067.
+Scholz, M., 2003. Performance predictions of mature experimental constructed
+wetlands which treat urban water receiving high loads of lead and copper.
+Water Res. 37, 1270–1277.
+Sehar, S., Naz, I., Khan, S., Naeem, S., Perveen, I., Ali, N., et al., 2016. Performance
+evaluation of integrated constructed wetland for domestic wastewater
+treatment. Water Environ. Res. 88, 280.
+Shannon, R.D., Kirk, B.A., Flite, O.P., Iii, Hunter, M.S., Mancl, K., 2001. Constructed
+wetland nitrogen and phosphorus removal at a rural campground and
+conference center. On-site wastewater treatment. In: Proceedings of the
+Ninth National Symposium on Individual and Small Community Sewage
+Systems, The Radisson Plaza, Fort Worth, Texas, USA, 11–14 March, 2001.
+Sharainliew, Y.L., Joseph, C.G., How, S., 2011. Biosorption of lead contaminated
+wastewater using cattails (Typha angustifolia) leaves: kinetic studies. J. Serb.
+Chem. Soc. 76, 1037–1047.
+Shi, P., Jiang, Y., Zhu, H., Sun, D., 2017. Impact of steel slag on the ammonium
+adsorption by zeolite and a new configuration of zeolite-steel slag substrate for
+constructed wetlands. Water Sci. Technol., wst2017232
+Singh, R.P., Fu, D.F., Fu, D.N., Huang, J., 2014. Pollutant removal efficiency of vertical
+sub-surface upward flow constructed wetlands for highway runoff treatment.
+Arab. J. Sci. Eng. 39, 3571–3578.
+Song, Z.W., Wu, L., Yang, G., Xu, M., Wen, S.P., 2008. Indicator microorganisms and
+pathogens removal function performed by copepods in constructed wetlands.
+Bull. Environ. Contam. Toxicol. 81, 459–463.
+Srinivasan, R., Hoffman, D.W., Rd, W.J., Prcin, L.J., 2008. Evaluation of removal of
+orthophosphate and ammonia from rainfall runoff using aboveground
+permeable reactive barrier composed of limestone and zeolite. Environ. Lett.
+43, 1441–1450.
+Stefanakis, A.I., Akratos, C.S., Gikas, G.D., Tsihrintzis, V.A., 2009. Effluent quality
+improvement of two pilot-scale, horizontal subsurface flow constructed
+wetlands using natural zeolite (clinoptilolite). Microporous Mesoporous
+Mater. 124, 131–143.
+Stottmeister, U., Wießner, A., Kuschk, P., Kappelmeyer, U., Kästner, M., Bederski, O.,
+et al., 2003. Effects of plants and microorganisms in constructed wetlands for
+wastewater treatment. Biotechnol. Adv. 22, 93–117.
+Tang, X.Q., Huang, S.L., Scholz, M., 2010. Comparison of phosphorus removal
+between vertical subsurface flow constructed wetlands with different
+substrates. Water Environ. J. 23, 180–188.
+Tee, H.C., Seng, C.E., Noor, A.M., Lim, P.E., 2009. Performance comparison of
+constructed wetlands with gravel- and rice husk-based media for phenol and
+nitrogen removal. Sci. Total Environ. 407, 3563–3571.
+Thomas, R., 2003. The removal of Linear Alkylbenzene Sulphonate in Constructed
+Wetlands: Counterpoint.
+Thurston, J.A., Foster, K.E., Karpiscak, M.M., Gerba, C.P., 2001. Fate of indicator
+microorganisms, giardia and cryptosporidium in subsurface flow constructed
+wetlands. Water Res. 35, 1547–1551.
+Tilley, E., Ulrich, L., Lüthi, C., Reymond, P., Zurbrügg, C., 2014. Compendium of
+Sanitation Systems and Technologies – (2nd Revised Edition). Swiss Federal
+Institute of Aquatic Science and Technology (Eawag), Duebendorf, Switzerland.
+Vallée, R., Dousset, S., Billet, D., Benoit, M., 2014. Sorption of selected pesticides on
+soils, sediment and straw from a constructed agricultural drainage ditch or
+pond. Environ. Sci. Pollut. R 21, 4895–4905.
+Vohla, C., Kõiv, M., Bavor, H.J., Chazarenc, F., Mander, Ü., 2011. Filter materials for
+phosphorus removal from wastewater in treatment wetlands—a review. Ecol.
+Eng. 37, 70–89.
+Vymazal, J., 2011. Constructed wetlands for wastewater treatment: five decades of
+experience. Environ. Sci. Technol. 45, 61–69.
+Vymazal, J., Brix, H., F. Cooper, P., Haberl, R., Perfler, R., Laber, J., 1998. Removal
+Mechanisms and Types of Constructed Wetlands.
+Walbridge, M.R., Struthers, J.P., 1993. Phosphorus retention in non-tidal palustrine
+forssted wetlands of the mid-atlantic region. Wetlands 13, 84–94.
+Waller, V.L., Bruland, G.L., 2016. Fecal indicator bacteria dynamics in a surface flow
+constructed wetland in Southwestern Illinois, USA. Wetlands 36, 539–546.
+Wang, Z., Dong, J., Liu, L., Zhu, G., Liu, C., 2013a. Screening of phosphate-removing
+substrates for use in constructed wetlands treating swine wastewater. Ecol.
+Eng. 54, 57–65.
+
+Wang, Z., Shi, M., Li, J., Zhou, L., Wang, Z., Zheng, Z., 2013b. Sorption of dissolved
+inorganic and organic phosphorus compounds onto iron-doped ceramic sand.
+Ecol. Eng. 58, 286–295.
+Wen, J., Dong, H., Zeng, G., 2018. Application of zeolite in removing salinity/sodicity
+from wastewater: a review of mechanisms, challenges and opportunities. J.
+Clean. Prod. 197, 1435–1446.
+Wendling, L.A., Douglas, G.B., Coleman, S., Yuan, Z., 2013. Nutrient and dissolved
+organic carbon removal from natural waters using industrial by-products. Sci.
+Total Environ. 442, 63–72.
+Weragoda, S.K., Tanaka, N., Sewwandi, B.G.N., Mowjood, M.I.M., 2010. Efficiency of
+coconut coir-pith as an alternative substrate in the treatment of submerged
+macrophyte wetland systems in tropical conditions. Chem. Ecol. 26, 445–452.
+White, S.A., Taylor, M.D., Albano, J.P., Whitwell, T., Klaine, S.J., 2011. Phosphorus
+retention in lab and field-scale subsurface-flow wetlands treating plant nursery
+runoff. Ecol. Eng. 37, 1968–1976.
+Wieder, R.K., 1989. A survey of constructed wetlands for acid coal mine drainage
+treatment in the Eastern United States. Wetlands 9, 299–315.
+Wood, A., 1995. Constructed wetlands in water pollution control: fundamentals to
+their understanding. Water Sci. Technol. 32, 21–29.
+Wood, J., Fernandez, G., Barker, A., Gregory, J., Cumby, T., 2007. Efficiency of reed
+beds in treating dairy wastewater. Biosyst. Eng. 98, 455–469.
+Wu, H., Fan, J., Zhang, J., Ngo, H.H., Guo, W., Liang, S., et al., 2016a. Intensified
+organics and nitrogen removal in the intermittent-aerated constructed wetland
+using a novel sludge-ceramsite as substrate. Bioresour. Technol. 210, 101–107.
+Wu, H., Zhang, J., Ngo, H.H., Guo, W., Hu, Z., Liang, S., et al., 2015. A review on the
+sustainability of constructed wetlands for wastewater treatment: design and
+operation. Bioresour. Technol. 175, 594–601.
+Wu, M., Li, Q., Tang, X., Huang, Z., Lin, L., Scholz, M., 2014. Arsenic(V) removal in
+wetland filters treating drinking water with different substrates and plants. Int.
+J. Environ. Anal. Chem. 94, 618–638.
+Wu, S., Carvalho, P.N., Müller, J.A., Manoj, V.R., Dong, R., 2016b. Sanitation in
+constructed wetlands: a review on the removal of human pathogens and fecal
+indicators. Sci. Total Environ. 541, 8–22.
+Yadav, A.K., Kumar, N., Sreekrishnan, T.R., Satya, S., Bishnoi, N.R., 2010. Removal of
+chromium and nickel from aqueous solution in constructed wetland: mass
+balance, adsorption-desorption and FTIR study. Chem. Eng. J. 160, 122–128.
+Yam, R.S.W., Hsu, C.C., Chang, T.J., Chang, W.L., 2013. A preliminary investigation of
+wastewater treatment efficiency and economic cost of subsurface flow oystershell-bedded constructed wetland systems. Water 5, 893–916.
+Yang, L., Chang, H.T., Huang, M.N.L., 2002. Nutrient removal in gravel- and soilbased wetland microcosms with and without vegetation. Ecol. Eng. 18, 91–105.
+Yang, Y., Zhao, Y., Liu, R., Morgan, D., 2018a. Global development of various emerged
+substrates utilized in constructed wetlands. Bioresour. Technol. 261, 441–452.
+Yang, Y., Zhao, Y., Liu, R., Morgan, D., 2018b. Global development of various emerged
+substrates utilized in constructed wetlands. Bioresour. Technol. 261.
+S0960852418304474.
+Yin, X., Jian, Z., Zhen, H., Xie, H., Guo, W., Wang, Q., et al., 2016. Effect of
+photosynthetically elevated pH on performance of surface flow-constructed
+wetland planted with Phragmites australis. Environ. Sci. Pollut. R 23, 15524–
+15531.
+Yuan, L., Zhi, W., Xie, Q., Chen, X., Liu, Y., 2015. Lead removal from solution by
+porous ceramisite made by bentonite, metallic iron, and activated carbon.
+Environ. Sci. Water Res. Technol. 1, 814–822.
+Zhang, J., Zhang, X., Li, G.H., Zhang, H.T., 2006. Physical and chemical effects and
+plant growth suitability of substrates in subsurface flow wetland. Environ. Sci.
+27, 874.
+Zhang, S., Liu, F., Xiao, R., He, Y., Wu, J., 2017. Nitrogen removal in Myriophyllum
+aquaticum wetland microcosms for swine wastewater treatment: 15 N-labelled
+nitrogen mass balance analysis. J. Sci. Food Agric. 97, 1511–1520.
+Zhang, T., Xu, D., He, F., Zhang, Y., Wu, Z., 2012. Application of constructed wetland
+for water pollution control in China during 1990–2010. Ecol. Eng. 47, 189–197.
+Zhang, X.L., Chen, J.J., Guo, L., Chen, Q.Z., Wang, X.X., 2014. Analysis on the removal
+efficiency and mechanisms of phosphorus by modified zeolites substrates
+coated with LDHs reacted by different metal compounds in laboratory-scale
+vertical-flow constructed wetlands. Environ. Sci. 35, 4553.
+Zhao, J., Zhao, Y., Xu, Z., Doherty, L., Liu, R., 2016. Highway runoff treatment by
+hybrid adsorptive media-baffled subsurface flow constructed wetland. Ecol.
+Eng. 91, 231–239.
+Zhao, Y.Q., Babatunde, A.O., Hu, Y.S., Kumar, J.L.G., Zhao, X.H., 2011. Pilot field-scale
+demonstration of a novel alum sludge-based constructed wetland system for
+enhanced wastewater treatment. Process Biochem. 46, 278–283.
+Zhao, Y.Q., Babatunde, A.O., Zhao, X.H., Li, W.C., 2009. Development of alum sludgebased constructed wetland: An innovative and cost effective system for
+wastewater treatment. J. Environ. Sci. Heal. A 44, 827–832.
+Zhou, L., Huang, Z.J., Li, T., 2010. The Application of Wasted Architecture
+Walling Materials Used as a Constructed Wetland Media. Iwa Publishing, London.
+Zhu, W.L., Cui, L.H., Ying, O., Long, C.F., Tang, X.D., 2011. Kinetic adsorption of
+ammonium nitrogen by substrate materials for constructed wetlands.
+Pedosphere 21, 454–463.
+Zou, J., Guo, X., Han, Y., Liu, J., Liang, H., 2012. Study of a novel vertical flow
+constructed wetland system with drop aeration for rural wastewater treatment.
+Water Air Soil Pollut. 223, 889–900.
+Zuhailawati, H., Samayamutthirian, P., Mohd Haizu, C.H., 2007. Fabrication of low
+cost of aluminium, matrix composite reinforced with silica sand. J. Phys. Sci. 18,
+47–55.
+
+

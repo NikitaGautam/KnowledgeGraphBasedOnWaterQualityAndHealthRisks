@@ -1,0 +1,1150 @@
+Journal of Applied Microbiology ISSN 1364-5072
+
+REVIEW ARTICLE
+
+Environmental Escherichia coli: ecology and public health
+implications—a review
+J. Jang1, H.-G. Hur2, M.J. Sadowsky1,3, M.N. Byappanahalli4, T. Yan5 and S. Ishii1,3
+1 BioTechnology Institute, University of Minnesota, St. Paul, MN, USA
+2 School of Environmental Science and Engineering, Gwangju Institute of Science and Technology, Gwangju, Korea
+3 Department of Soil, Water, and Climate, University of Minnesota, St. Paul, MN, USA
+4 Lake Michigan Ecological Research Station, Great Lakes Science Center, U.S. Geological Survey, Chesterton, IN, USA
+5 Department of Civil and Environmental Engineering, University of Hawai’i at Manoa, Honolulu, HI, USA
+
+Keywords
+ecology, Escherichia coli, fecal indicator
+bacteria, public health, water quality.
+Correspondence
+Satoshi Ishii, BioTechnology Institute, University of Minnesota, 1479 Gortner Ave., 140
+Gortner Labs, St. Paul, MN, USA.
+E-mail: ishi0040@umn.edu
+2017/0075: received 13 January 2017, revised
+29 March 2017 and accepted 31 March 2017
+doi:10.1111/jam.13468
+
+Summary
+Escherichia coli is classified as a rod-shaped, Gram-negative bacterium in the
+family Enterobacteriaceae. The bacterium mainly inhabits the lower intestinal
+tract of warm-blooded animals, including humans, and is often discharged into
+the environment through faeces or wastewater effluent. The presence of E. coli
+in environmental waters has long been considered as an indicator of recent
+faecal pollution. However, numerous recent studies have reported that some
+specific strains of E. coli can survive for long periods of time, and potentially
+reproduce, in extraintestinal environments. This indicates that E. coli can be
+integrated into indigenous microbial communities in the environment. This
+naturalization phenomenon calls into question the reliability of E. coli as a
+faecal indicator bacterium (FIB). Recently, many studies reported that E. coli
+populations in the environment are affected by ambient environmental
+conditions affecting their long-term survival. Large-scale studies of population
+genetics revealed the diversity and complexity of E. coli strains in various
+environments, which are affected by multiple environmental factors. This
+review examines the current knowledge on the ecology of E. coli strains in
+various environments with regard to its role as a FIB and as a naturalized
+member of indigenous microbial communities. Special emphasis is given on
+the growth of pathogenic E. coli in the environment, and the population
+genetics of environmental members of the genus Escherichia. The impact of
+environmental E. coli on water quality and public health is also discussed.
+
+Introduction
+Escherichia coli is a rod-shaped, Gram-negative bacterium, and classified as a member of the family Enterobacteriaceae within the Gammaproteobacteria class.
+Escherichia coli is among one of the well-studied bacteria. Escherichia coli can grow rapidly under optimal
+growth conditions, replicating in ~20 min. Many gene
+manipulation systems have been developed using E. coli
+as the host bacterium, producing countless enzymes and
+other industrial products. Genome sequence analysis of
+E. coli was first reported in 1997. Since then, more than
+4800 E. coli genomes have been sequenced. The fastgrowth characteristics of E. coli make it suitable to study
+570
+
+the evolution of micro-organisms and a long-term
+experimental evolution study of E. coli involving more
+than 50 000 generations is ongoing (Tenaillon et al.
+2016).
+While we know many things about E. coli under laboratory conditions, relatively little is known about the
+ecology of this bacterium in the environment. Because
+E. coli is frequently used as a faecal indicator bacterium
+(FIB) for assessing water quality, the survival and
+growth of E. coli in the environment raises concerns
+regarding the use of this bacterium for indicating faecal
+contamination. In addition, since some E. coli strains
+and serotypes can cause human diseases, understanding
+the ecology of this bacterium is important to prevent
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+
+
+Environmental E. coli
+
+J. Jang et al.
+
+infection and spread of this pathogen to food, soil, and
+water.
+There are several review articles regarding the ecology
+of E. coli in the environment (Ishii and Sadowsky 2008;
+van Elsas et al. 2011). In this review, we update our current knowledge regarding the survival and growth of
+E. coli in the natural environment, with special emphasis
+on the growth of pathogenic E. coli in the environment,
+and the population genetics of environmental member of
+the genus Escherichia. We also discuss the impact of environmental E. coli on water quality and public health.
+
+commercially available kits (e.g. Colilert-18 and QuantiTray/2000 system, IDEXX Laboratories, Westbrook, MA)
+for the quantitative determination of E. coli from water
+samples have been developed to reduce the time required
+for analyses. While this technique has made the analytical
+procedures of E. coli detection straightforward, and timeand cost-effective, some E. coli strains (e.g. O157:H7 serotype strains) cannot be detected because they lack b-glucuronidase activity (Rump et al. 2012).
+
+Escherichia coli as a faecal indicator bacterium to
+evaluate water quality
+
+Escherichia coli includes not only commensal strains but
+also pathogenic ones that cause a variety of human diseases—resulting in more than 2 million deaths each year
+(Kaper et al. 2004). There are six well-studied intestinal
+pathotypes of E. coli, including Shiga toxin-producing
+E. coli (STEC), enteropathogenic E. coli (EPEC), enterotoxigenic E. coli (ETEC), enteroaggregative E. coli
+(EAEC), diffusely adherent E. coli and enteroinvasive
+E. coli, including Shigella strains. These strains are classified by virulence properties and pathogenicity mechanisms causing gastrointestinal diseases such as diarrhoea
+(Nataro and Kaper 1998; Kaper et al. 2004). Enterohaemorrhagic E. coli (EHEC) is one type of STEC that
+can cause severe enteric diseases, such as haemolytic
+uraemic syndrome and haemorrhagic colitis (Kaper et al.
+2004) leading to acute renal failure and often death.
+Escherichia coli O157:H7, the most well-known serotype
+of EHEC, has caused many outbreaks of water- and
+food-borne diseases in many countries. The incidence of
+non-O157 STEC has been increasing in recent years,
+including those caused by serotypes O26, O45, O103,
+O111, O121 and O145 (Farrokh et al. 2013). Some
+E. coli strains can also cause extraintestinal diseases, and
+are called extraintestinal pathogenic E. coli (ExPEC). The
+ExPEC, which were defined by disease association,
+include uropathogenic E. coli, neonatal meningitis-associated E. coli and sepsis-causing E. coli (Dale and Woodford 2015).
+Pathogenic E. coli strains are implicated in many waterborne outbreaks, and STEC and EPEC have been frequently reported to be responsible for waterborne
+outbreaks worldwide (Chandran and Mazumder 2015).
+Pathogenic E. coli contamination of the environment may
+occur through manure and other animal wastes, wastewaters from slaughterhouses and effluent from wastewater
+treatment plants (Baliere et al. 2015). Although extensive
+studies have been done on the clinical aspects of the pathogenic E. coli strains, including mode of pathogenesis, diagnosis and sources (Kaper et al. 2004; Croxen et al. 2013),
+their prevalence in the environment has not been extensively examined in greater detail. This emphasizes the need
+
+Escherichia coli was initially believed to mainly inhabit the
+lower intestinal tract of warm-blooded animals, including
+humans, and be discharged to the environment through
+faeces and wastewater treatment plants (Berthe et al.
+2013). The concentration of E. coli per gram of faeces
+varies among host species, typically reaching 107–109 in
+human and 104–106 in domestic animals (Tenaillon et al.
+2010). Escherichia coli is one of the predominant facultative aerobic bacterium in the intestinal tract, even though
+the anaerobic bacteria outnumber E. coli by many orders
+of magnitude (Berg 1996).
+Based on the epidemiological studies done in the 1980s,
+levels of E. coli in recreational water impacted by known
+contaminant sources (e.g. sewage) was shown to correlate
+with incidences of gastrointestinal illnesses (USEPA 1986;
+Edberg et al. 2000). This led to the use of E. coli as an indicator of faecal contamination in recreational water samples
+(USEPA 1986). Based on the U. S. Environmental Protection Agency (USEPA)’s Ambient Water Quality Criteria
+for Bacteria (USEPA 1986), water contact is not recommended in freshwater beaches when E. coli levels are: (i)
+over 235 colony-forming units (CFU) per 100 ml from a
+single water sample, or when the geometric mean exceeds
+126 CFU per 100 ml from at least five water samples collected over a 30-day period.
+Historically, culture-based methods (e.g. the membrane
+filtration technique with selective growth media, defined
+substrate technology and the most probable number
+[MPN] technique) (Rice and Bridgewater 2012) have
+been used to enumerate E. coli from recreational waters
+and other water bodies. Defined substrate technology,
+which uses an enzyme–substrate complex principle, has
+been used to enumerate E. coli in environmental samples
+(Edberg et al. 1990). The technique is based on the
+E. coli-specific enzyme, b-glucuronidase. For example,
+modified mTEC agar medium contains a substrate to
+detect b-glucuronidase activity and allows for rapid and
+specific E. coli detection (USEPA 2006). Furthermore,
+
+Escherichia coli as a human pathogen
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+571
+
+
+
+Environmental E. coli
+
+J. Jang et al.
+
+for additional studies to understand the ecology of these
+bacteria in extraintestinal environments.
+Escherichia coli as an antibiotic resistant
+bacterium
+Since E. coli commonly resides in the intestines of warmblooded animals, it is subjected to frequent encounters
+with antibiotics, providing it with high selection pressure
+leading to resistance against antibiotics consumed by its
+host (Looft et al. 2012). This led to the hypothesis that
+the antibiotic resistance patterns of E. coli strains from
+different hosts could be used to track host origin (Harwood et al. 2014). While this method was subsequently
+shown not to be useful for its intended purpose, specific
+E. coli phylogenetic groups were shown to exhibit different resistance levels to antibiotics, regardless of the acquisition of resistance, indicating that the genetic
+background of E. coli also affects its antibiotic resistance
+pattern (Tenaillon et al. 2010; Brisse et al. 2012).
+Natural environments, such as water, soils and wastewater treatment plants, have been considered to be bacterial genetic reactors, in which active genetic exchanges
+routinely occur among different bacteria, similar to that
+which occur in the host intestine (Baquero et al. 2008).
+Genes encoding antibiotic resistance are frequently associated with mobile genetic elements, such as plasmids and
+transposons, which can be exchanged between bacteria
+belonging to different phylogenetic lineages (Wellington
+et al. 2013). Many previous studies have reported multidrug-resistant E. coli strains found in the environment,
+indicating possible public health risks derived from
+human activities (Dhanji et al. 2011; Walsh et al. 2011;
+Jang et al. 2013).
+Diversity of Escherichia coli
+Commensal and pathogenic E. coli strains display diverse
+phenotypic and genotypic variants. E. coli has been traditionally serotyped based on three types of somatic (O),
+capsular (K) and flagellar (H) antigens, and more than
+700 E. coli serotypes have been identified based on the
+combination of O and H antigens (Nataro and Kaper
+1998). Escherichia coli strains can be also classified into
+several phylogenetic groups: A, B1, B2 and D (Clermont
+et al. 2000). Recently, the E. coli phylogenetic grouping
+has been revised based on multilocus sequence typing
+(MLST) and genome sequence data to include the new
+groups C, E, F and Escherichia clade I, which are comparatively rare to the major phylogenetic groups (i.e. A, B1,
+B2 and D) (Clermont et al. 2013). Clermont et al. (2013)
+developed a multiplex PCR system to rapidly classify
+E. coli strains into one of the seven phylogenetic groups
+572
+
+(A, B1, B2, C, D, E, F and Escherichia clade I) without
+performing MLST, sequencing and other time-consuming
+approaches. In general, strains belonging to different phylogenetic group show different phenotypic and genotypic
+traits (Gordon 2004; Meric et al. 2013); thus, phylogenetic group identification of unknown E. coli strains may
+provide important information regarding their physiological and ecological properties.
+Escherichia coli strains vary in other phenotypic characteristics, such as ability to form biofilms and utilization
+of carbon sources (Cooper and Lenski 2000). This diversity of E. coli has been explained by the impact of the
+genomic makeup of the organism adapting to the host
+intestinal or the extraintestinal natural environments (van
+Elsas et al. 2011). Horizontal gene transfer plays an
+important role in the acquisition of new genes in E. coli
+(Doi et al. 2012), while genetic mutations can also contribute to the E. coli phenotypic diversity such as carbon
+metabolism (Cooper and Lenski 2000). While about 2000
+genes commonly appear in multiple E. coli genomes (i.e.
+core genes), there are many strain- or group-specific
+genes, increasing the size of the E. coli pan-genome to
+>18 000 genes. This suggests the great impact of horizontal gene transfer for genomic plasticity of the E. coli
+(Touchon et al. 2009). It has been suggested that E. coli
+strains adapted to specific hosts would lose fitness in
+other environments (Franz and van Bruggen 2008), suggesting that phenotypic variation in E. coli may be due to
+ecological adaptation.
+Escherichia coli is highly diverse at the genotypic level
+as well. High genotypic diversity has been identified in
+E. coli based on the repetitive extragenic palindromic
+PCR (rep-PCR) DNA fingerprinting (Jang et al. 2011,
+2013, 2015; Byappanahalli et al. 2012) and pulsed field
+gel electrophoresis (Johnson et al. 2013). Such genotypic
+diversity appears to be common among environmental
+strains (Byappanahalli et al. 2007; Ishii and Sadowsky
+2008). Whole-genome typing methods such as the repPCR DNA fingerprinting technique can reveal the alteration of microbial genome structures, which allows these
+techniques to be used in studying plasticity, molecular
+phylogeny, and evolution of microbial genomes (Ishii
+and Sadowsky 2009).
+Escherichia coli in intestinal tracts of warmblooded animals
+Escherichia coli may have evolved to grow in the intestinal
+tract of warm-blooded animals where carbon/energy
+sources are abundantly present with high moisture and
+moderate pH and temperature. Many E. coli strains are
+acid-resistant because they need to pass through the lowpH environment in the animal/human stomach to arrive
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+
+
+Environmental E. coli
+
+J. Jang et al.
+
+in the intestinal tract. Host intestinal conditions can
+affect the E. coli population structure. Relative abundance
+of E. coli phylogenetic groups depends on the host-animal
+and diet (Gordon 2013). In addition, DNA fingerprinting
+patterns of E. coli strains can be differentiated by their
+host animals (Ishii and Sadowsky 2009; Gomi et al.
+2014). Antibiotic resistance and nutrient utilization patterns of E. coli may also contain host-specific phenotypic
+traits, subjected to antimicrobial agents and diets consumed by different hosts (Hagedorn et al. 2003; Sayah
+et al. 2005). However, these characteristics are not as
+stable as genotypic ones.
+Since E. coli has been used as a faecal indicator in
+waterways, host-specific traits of E. coli strains have been
+used with some success to identify potential sources of
+the faecal pollution (i.e. microbial source tracking; MST)
+(Ishii et al. 2007; Wang et al. 2013). Potential sources of
+E. coli can be identified either by (i) comparing host-specific characteristics (e.g. DNA fingerprinting patterns) of
+E. coli strains isolated from environment with those isolated from known sources (i.e. library-dependent MST)
+or by (ii) using host-specific marker genes of E. coli
+which can be detected by PCR or via DNA probes (i.e.
+library-independent MST) (Harwood et al. 2014). However, because of the large diversity within E. coli strains,
+sources of the majority (>60%) of E. coli strains isolated
+from beach environment may not be identified by
+library-dependent method (Ishii et al. 2007). Increasing
+the number of strains in a known source library may
+improve MST results, but E. coli from nonanimal sources
+also need to be included. In addition, it has been speculated that E. coli does not have enough host specificity to
+discriminate among its sources (Gordon 2001). This
+could influence false-positive and -negative results of
+host-specific markers when taking a library-independent
+approach (Hamilton et al. 2010).
+
+Survival and growth of Escherichia coli in natural
+environment
+Until relatively recently, E. coli was thought not to survive well outside of the host, as it was unable to replicate
+in the environments (Winfield and Groisman 2003).
+However, recent studies have shown that this bacterium
+can survive for long periods of time outside of the
+intestinal tract and reproduce in soil, sand and sediment
+in tropical, subtropical and temperate climates (Ishii and
+Sadowsky 2008). Some E. coli can become naturalized
+(i.e. become part of indigenous microflora) in these environments (Ishii et al. 2006). Naturalized E. coli genotypes
+were distinct from animal-host origin E. coli genotypes
+when repeatedly observed from the environment over
+months or years (Ishii et al. 2006; Tymensen et al. 2015).
+These populations have been reported in sand, soil and
+sediments as well as in association with macrophytic
+algae and periphyton (Ishii and Sadowsky 2008; Sadowsky and Whitman 2011).
+Potentially pathogenic E. coli strains can also survive
+and grow in natural environments. Byappanahalli et al.
+(2015) detected high levels of eaeA, which encodes intimin of EPEC, in Cladophora mats. eaeA is one of the
+most frequently detected pathogen genes in the environment (Hamilton et al. 2010; Ishii et al. 2014; Zhang et al.
+2016). The concentrations of eaeA, as well as ftsZ and
+uidA (genes used for E. coli-specific qPCR), increased in
+the beach environments when conditions became favourable (Fig. 1), suggesting that eaeA-positive E. coli (i.e.
+potential EPEC) can grow in these environments and
+potentially influence water quality. Escherichia coli O157:
+H7 and other pathogenic E. coli are also known to persist
+in manure and on the surface of leafy green vegetables
+(e.g. lettuce and spinach) and can cause food poisoning
+outbreaks (Delaquis et al. 2007). Well-known examples
+6
+
+Bacteria density
+(log copies per g algae)
+
+7
+(a)
+
+(b)
+
+5
+
+6
+
+4
+
+5
+
+3
+4
+
+2
+
+3
+2
+
+1
+0
+
+2
+
+4
+6
+Time (day)
+
+8
+
+10
+
+0
+
+0
+
+5
+
+10
+
+15
+20
+Time (h)
+
+25
+
+30
+
+35
+
+Figure 1 Growth of indigenous Escherichia coli populations in (a) Cladophora mat under laboratory incubation conditions at 27°C and (b) Cladophora mat left at a field conditions. Density of both total E. coli (as measured by qPCR targeting ftsZ and uidA) and potential EPEC (as measured
+by qPCR targeting eaeA) increased in the algae mat. Incubation and qPCR conditions are described in Whitman et al. (2014) and Byappanahalli
+et al. (2015) respectively.
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+573
+
+
+
+Environmental E. coli
+
+J. Jang et al.
+
+include a spinach-associated outbreak of E. coli O157:H7
+in 2006 (Jay et al. 2007) and a sprout-associated outbreak
+of STEC O104 in 2011 (Frank et al. 2011). The persistence of pathogenic E. coli is affected by several factors,
+such as plant genotype, bacterial ability for plant colonization and interactions with indigenous phytobacteria
+(Martınez-Vaz et al. 2014). Interestingly, cellular
+responses of enteric pathogens exposed to the vegetable
+environment have been observed to include similar gene
+expressions required to colonize the host intestine, indicating that enteric bacteria may have the ability to colonize vegetables by using similar mechanisms as are
+required for animal cells (Goudeau et al. 2013). Various
+antibiotic resistance genes have been also detected in
+E. coli strains from the environment. Several E. coli
+strains containing both extended-spectrum beta-lactamase
+genes and virulence factors for intestinal and extraintestinal pathotypes have been isolated from river water environments (Jang et al. 2013). This is in contrast to studies
+suggesting a trade-off between resistance and virulence of
+E. coli (Johnson et al. 1991; Vila et al. 2002). The role of
+environmental E. coli strains with respect to the dissemination of antibiotic resistance and virulence in natural
+environments is currently not well understood and therefore needs to be clarified in the future.
+Environmental factors influencing the growth
+and survival of Escherichia coli
+The growth and survival of E. coli in natural environments can be influenced by both biotic and abiotic factors (Rochelle-Newall et al. 2015). Abiotic factors include
+temperature, water and nutrient availability, pH, and
+solar radiation. Biotic factors include the presence of
+other micro-organisms, and the ability of E. coli to
+acquire nutrients, compete with other micro-organisms
+and form biofilms in natural environments. These factors
+are discussed in detail below:
+Temperature
+Temperature is probably the most important factor influencing E. coli survival and growth in the environment.
+While temperature is stable and optimal for E. coli growth
+(36–40°C) in the intestinal tract of warm-blooded animals,
+temperature in natural environment is generally low
+(<30°C). Escherichia coli can grow in soil at temperatures
+>30°C, although their death rate is faster in warm (>30°C)
+than cold (<15°C) temperatures (Ishii et al. 2006, 2010).
+For example, E. coli survived for over 6 months in sundried algal mats stored in airtight plastic bags at 4°C
+(Whitman et al. 2003), indicating that E. coli have the ability to survive long term under temperature conditions
+574
+
+lower than that in host bodies. Fluctuating temperature
+conditions can also influence E. coli survival and growth.
+Soil-borne E. coli grow and maintain their populations better in temperature-fluctuating conditions than under constant warm temperature conditions (Ishii et al. 2010).
+However, survival and growth ability of E. coli in temperature-fluctuating conditions may vary by genotype. Lower
+survival rates of E. coli O157:H7 in manure were observed
+under fluctuating temperature conditions as compared to
+constant temperatures, and a larger amplitude of temperature fluctuation reduced E. coli growth more than smaller
+amplitudes (Semenov et al. 2007).
+Water availability
+Natural or substrate-induced (salt or sugar) low water
+activity (or potential) controls what microbes have the
+potential to grow given that all other factors are in
+acceptable tolerance ranges. Desiccation is one of the
+common stresses to bacteria in natural environments
+(Evans and Wallenstein 2012). Rehydration can cause an
+anoxic environment around the cells (van Elsas et al.
+2011); therefore, E. coli and other bacteria need to adjust
+their membranes and gene regulation to adapt to the desiccation and rehydration cycles (Evans and Wallenstein
+2012). Growth of E. coli in the soil environment was negatively influenced by soil desiccation; while E. coli survival
+rates were not different between dried and wet soils (Ishii
+et al. 2010). Upon rehydration, E. coli that survived in
+desiccated soil showed growth, indicating that water
+availability is critical for E. coli to grow.
+Nutrient availability
+The availability of nutrients such as carbon, nitrogen and
+phosphorus is also an important factor influencing E. coli
+survival and growth in the environment. Natural environments are generally low in readily available nutrients
+compared with the intestinal tract of warm-blooded animals. Escherichia coli is versatile in energy acquisition and
+can degrade various kinds of carbon substrates, including
+aromatic compounds (Dı́ az et al. 2001). In addition,
+E. coli showed a catabolic flexibility under glucose-limited
+conditions, resulting in the efficient uptake of diverse carbon sources (Franchini and Egli 2006). Such versatility
+and flexibility in energy and carbon acquisition should
+help E. coli survive and grow in the environment (Ishii
+and Sadowsky 2008; Brennan et al. 2013).
+pH
+Environmental pH can also influence the survival and
+growth of E. coli in soil, and the level of pH resistance
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+
+
+Environmental E. coli
+
+J. Jang et al.
+
+varies by strains (van Elsas et al. 2011). Escherichia coli
+serotype O157:H7 strains showed superior survival at low
+pH, as compared to non-O157 E. coli strains (Lin et al.
+1996). Similar to acidophiles, some E. coli O157:H7
+strains can survive better at low pH than at relatively
+high pH (van Elsas et al. 2011). Therefore, specific E. coli
+strains could survive selectively, influenced by local pH of
+the environment. Escherichia coli uses several well-studied
+mechanisms, such as the decarboxylase/antiporter-dependent acid resistance systems, to resist low pH (Foster
+2004).
+Solar radiation
+Solar radiation is the most effective abiotic factor causing
+death of FIB in environmental waters. The inactivation
+process of FIB by sunlight involves three major mechanisms utilizing photobiological, photooxidative and photochemical pathways. Solar radiation, especially those in
+the lower wavelengths (i.e. ultraviolet (UV) light) can
+directly cause DNA damage (photobiological mechanism)
+and oxidation of cellular contents (photooxidative mechanism), but these mechanisms are effective only at depths
+to which sunlight reaches (e.g. upper surface water)
+(Whitman et al. 2004). Since water is an effective filter of
+light, this mostly occurs in the upper water column
+(<22 cm depth) or on the soil surface. In the photochemical inactivation process, oxygen-free radicals (O) and
+hydrogen peroxides (H2O2) are produced when oxygen
+(O2) and organic matter are exposed to sunlight. These
+destructive chemicals can be delivered to the deeper areas
+(90 cm depth) of the water environment (Whitman et al.
+2004). The effect of sunlight on the E. coli survival may
+vary by insolation time or turbidity of the water environment. In soil and sediment, E. coli may receive less
+impact from sunlight than in the water environment.
+Presence of other micro-organisms
+Escherichia coli interacts with other micro-organisms in
+all natural habitats. Escherichia coli can be predated by
+protozoa and lysed by phages. These two biological
+mechanisms have been reported to be responsible for up
+to 70% of the FIB removal over 120 h in river water
+(Korajkic et al. 2014). Escherichia coli also needs to compete with indigenous micro-organisms for limited nutrient sources, and defend themselves from antagonism in
+the environment. Escherichia coli populations grew much
+better in sterile vs nonsterile soils, indicating that microbiota has a crucial effect on E. coli survival (Unc et al.
+2006; Ishii et al. 2010). The survival of E. coli populations
+recently introduced into the environment is also affected
+by the diversity of the indigenous microbial community.
+
+For example, the survival of an introduced E. coli O157:
+H7 strain and the diversity of the indigenous microbial
+community were observed to be in inverse proportion
+(van Elsas et al. 2011), suggesting that the ecological
+niches fully filled with highly complex microbiota may be
+difficult to invade.
+Ability to form biofilms
+Biofilms formed by E. coli on surfaces in aquatic environments, such as sediments, is a well-known factor contributing to the persistence of E. coli in natural environments
+(Lee et al. 2006). Biofilms protect the bacteria from hostile
+environmental conditions such as UV radiation, desiccation, protozoan predators, and chemicals including antibiotics and disinfectants (McDougald et al. 2012). They also
+may provide bacteria with a source of nutrients. Bacterial
+cells detached from mature biofilms can be transported to
+other locations by increased flow rates in aquatic environments and result in the building of new biofilms (McDougald et al. 2012), indicating that biofilm-borne E. coli can
+be transported to alternate sites and observed without evidence of faecal contamination in the environment.
+Differential survival/growth ability among Escherichia
+coli strains
+The ability of E. coli strain to acquire nutrients, compete
+with other micro-organisms, survive and grow in the
+environment is likely to vary by strains and genotype.
+Thus, differential survival/growth ability among E. coli
+strains could cause a shift in E. coli populations in
+wastewater or faecal-impacted sediments (Anderson et al.
+2005) and in manure-amended soil (Topp et al. 2003).
+Population genetics of environmental E. coli strains is discussed in further detail below.
+Population genetics of environmental Escherichia
+coli strains
+The environmental conditions within which E. coli resides
+has been suggested to influence the genomic traits of the
+bacterium (Tenaillon et al. 2010). In the host-animal
+intestine, E. coli population structure is determined by
+the conditions of the gastrointestinal tract, which in turn,
+is influenced by host physiology and diet. Similarly, the
+genetic structures of E. coli populations in the natural
+environment are shaped by abiotic and biotic environmental factors (van Elsas et al. 2011). Multiple studies
+have reported unique E. coli genotypes representative of
+environmentally adapted strains (Anderson et al. 2005;
+Ishii et al. 2006; Ishii and Sadowsky 2008; Byappanahalli
+et al. 2012).
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+575
+
+
+
+Environmental E. coli
+
+Number of genes
+
+J. Jang et al.
+
+100
+
+Environmental
+
+50
+
+Salmonella typhi
+
+C-IV
+
+C-V
+
+C-III
+
+1
+
+C-I
+
+E. albertii
+E. fergusonii
+E
+
+E. fergusonii
+ATCC 35469
+
+B1
+A
+
+B2
+
+Enteric
+
+TW08933
+TW15818 E. albertii
+B156
+
+C-I
+TW15838 TW10509
+(A)
+Commensal MG1655
+(B1)
+shigella
+(E)
+
+TW09308
+C-V
+E1118
+
+EHEC
+UTI89
+APEC UPEC
+(B2)
+E. coli
+
+TW09276
+TW09231
+C-III
+TW14182 TW11588
+H605
+C-IV
+
+0·01
+
+Figure 2 Phylogenic relationships of commensal and environmental Escherichia strains. The phylogenetic network was constructed based on the
+1910 core gene sequences. Phylogenetic grouping of Escherichia strains (A, B1, B2, C (subgroups I, III, IV and V) and E) is shown in parenthesis.
+The circular tree shows the amount of recent horizontal transfer of core genes between the genomes of the clades. The thickness of the line is
+proportional to the number of genes transferred (scale at upper left in figure). Adapted from Luo et al. (2011) with permission from the
+publisher. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+Comparative genomic analysis between environmentally adapted E. coli strains and other enteric E. coli
+strains have expanded the understanding of the evolutionary lineage of this bacterium. Whole-genome phylogenetic analysis was performed using nine environmental
+E. coli strains, which survived better in the external environment than in the human intestine (Walk et al. 2009;
+Ingle et al. 2011). These studies showed that these environmental strains belonged to clades distantly divergent
+from enteric E. coli and other Escherichia strains (Luo
+et al. 2011) (Fig. 2). Therefore, strains in the environmental Escherichia clade may represent novel species even
+though they are indistinguishable from E. coli based on
+traditional phenotypic tests (Luo et al. 2011), as well as
+the 16S rRNA gene-based phylogenetic analysis. While
+members of the environmental Escherichia clade generally
+576
+
+did not contain nine genes (malX, eaaG, sfa-focDE, sat,
+stx1, hlyD, papA, pic and espC) among 27 genes of the
+E. coli pan-genome, three genes (uidA, gadAB and fimH)
+were frequently present (Walk et al. 2009), which support
+the usefulness of uidA as a marker gene for E. coli and
+environmental Escherichia clades. Genetic exchange of
+core genes was detected, but only within the environmental clade or within enteric E. coli strains and not between
+environmental clades and enteric E coli strains (Luo et al.
+2011) (Fig. 2). This indicates that there could be possible
+ecological barriers to gene flow between environmental
+and enteric Escherichia strains. Genome sequencing of
+additional environmental Escherichia strains is needed to
+confirm this initial observation.
+Environmental and commensal Escherichia strains may
+differ in terms of growth and survival mechanisms.
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+
+
+Environmental E. coli
+
+J. Jang et al.
+
+Comparative transcriptome analysis suggests that environmental Escherichia strains are likely better adapted to
+low-nutrient conditions (Vital et al. 2015). Compared
+with commensal strains, environmental Escherichia strains
+showed higher levels of transcription for stress defence
+genes under carbon-limited growth conditions. They also
+showed survival-like phenotype, that is, not investing
+energy to stay alert for nutrient scavenging/assimilation
+under low-nutrient conditions.
+Implication for water quality and public health
+We now know that some Escherichia populations can survive and grow in environmental conditions for prolonged
+periods (Ishii and Sadowsky 2008; van Elsas et al. 2011).
+Environmentally adapted Escherichia strains are indistinguishable from faecally derived strains based on current
+water quality testing methods and may not indicate the
+occurrences of recent faecal contamination. Therefore,
+the presence of environmental Escherichia populations
+severely confounds the use of this bacterium as a FIB. In
+a study by Byappanahalli et al. (2015), high levels of
+E. coli in water most likely originated from algae or beach
+sand, not from faecal droppings. In addition, poor correlations between concentrations of E. coli and those of
+enteric pathogens (e.g. Wu et al. 2011; Ishii et al. 2014)
+may be due, in part, to the occurrences of environmental
+Escherichia populations. FIB-based methods need to be
+improved to specifically quantify only E. coli of faecal origin (e.g. source-specific qPCR). Alternatively, FIB-independent water quality monitoring, such as direct
+multipathogen quantification (Ishii et al. 2014; Byappanahalli et al. 2015) may be a better predictor of human
+health risks.
+The long-term survival and growth of E. coli in the
+environment is also of concern if they carry virulence factor or antibiotic resistance genes. Because intimin,
+encoded by eaeA, is the most important virulence factor
+for EPEC (Kaper et al. 2004), eaeA-positive E. coli may
+cause human diseases. Therefore, environmental survival
+and growth of eaeA-positive E. coli should be considered
+as a potential human health hazard. The gene eaeA is
+located on a pathogenicity island, known as locus of
+enterocyte effacement (LEE), which can be horizontally
+transferred (Kaper et al. 2004; Hazen et al. 2013). The
+LEE pathogenicity island was distributed to phylogenetically diverse groups of EPEC (Hazen et al. 2013),
+although environmental eaeA-positive E. coli strains were
+not included in their study. In addition to the virulence
+factor genes, antibiotic resistance genes can be also transferred among E. coli, including environmental strains,
+which is also of great concern for public health (Touchon
+et al. 2009; Wellington et al. 2013).
+
+Conclusions and future perspectives
+Based on studies done in the past few decades, the presence of environmental Escherichia is now well recognized.
+These environmental E. coli may be of animal-origin and
+have become adapted to their surrounding environments;
+or may retain the characteristics of their ancestral linage,
+which was environmental bacteria using soil and sediment as their primary habitat. More data are needed,
+especially genomic information of environmental Escherichia strains, to clarify the evolutionary history of environmental E. coli. There are many questions still remaining,
+including: (i) can environmental Escherichia still colonize
+the intestinal tract of warm-blooded animals? (ii) how do
+these bacteria influence current water quality monitoring?; and (iii) are these bacteria potentially pathogenic to
+humans? Further research is needed to answer these
+questions.
+
+Acknowledgements
+This work was supported, in part, by the University of
+Minnesota’s Discovery, Research and InnoVation Economy (MnDRIVE) initiative. Any use of trade, firm, and
+product names is for descriptive purposes only and does
+not imply endorsement by the US Government.
+Conflict of Interest
+The authors have no conflict of interest to declare.
+References
+Anderson, K.L., Whitlock, J.E. and Harwood, V.J. (2005)
+Persistence and differential survival of fecal indicator
+bacteria in subtropical waters and sediments. Appl Environ
+Microbiol 71, 3041–3048.
+Baliere, C., Rince, A., Blanco, J., Dahbi, G., Harel, J., Vogeleer,
+P., Giard, J.-C., Mariani-Kurkdjian, P. et al. (2015)
+Prevalence and characterization of Shiga toxin-producing
+and enteropathogenic Escherichia coli in shellfishharvesting areas and their watersheds. Front Microbiol 6,
+1356.
+Baquero, F., Martınez, J.-L. and Cant
+on, R. (2008) Antibiotics
+and antibiotic resistance in water environments. Curr
+Opin Biotechnol 19, 260–265.
+Berg, R.D. (1996) The indigenous gastrointestinal microflora.
+Trends Microbiol 4, 430–435.
+Berthe, T., Ratajczak, M., Clermont, O., Denamur, E. and
+Petit, F. (2013) Evidence for coexistence of distinct
+Escherichia coli populations in various aquatic
+environments and their survival in estuary water. Appl
+Environ Microbiol 79, 4684–4693.
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+577
+
+
+
+Environmental E. coli
+
+J. Jang et al.
+
+Brennan, F.P., Grant, J., Botting, C.H., O’Flaherty, V.,
+Richards, K.G. and Abram, F. (2013) Insights into the
+low-temperature adaptation and nutritional flexibility of a
+soil-persistent Escherichia coli. FEMS Microbiol Ecol 84,
+75–85.
+Brisse, S., Diancourt, L., Laouenan, C., Vigan, M., Caro, V.,
+Arlet, G., Drieux, L., Leflon-Guibout, V. et al. (2012)
+Phylogenetic distribution of CTX-M- and nonextended-spectrum-b-lactamase-producing Escherichia coli
+isolates: group B2 isolates, except clone ST131, rarely
+produce CTX-M enzymes. J Clin Microbiol 50, 2974–
+2981.
+Byappanahalli, M.N., Whitman, R.L., Shively, D.A., Ferguson,
+J., Ishii, S. and Sadowsky, M.J. (2007) Population
+structure of Cladophora-borne Escherichia coli in nearshore
+water of Lake Michigan. Water Res 41, 3649–3654.
+Byappanahalli, M.N., Yan, T., Hamilton, M.J., Ishii, S.,
+Fujioka, R.S., Whitman, R.L. and Sadowsky, M.J. (2012)
+The population structure of Escherichia coli isolated from
+subtropical and temperate soils. Sci Total Environ 417–
+418, 273–279.
+Byappanahalli, M.N., Nevers, M.B., Whitman, R.L. and Ishii,
+S. (2015) Application of a microfluidic quantitative
+polymerase chain reaction technique to monitor bacterial
+pathogens in beach water and complex environmental
+matrices. Environ Sci Technol Lett 2, 347–351.
+Chandran, A. and Mazumder, A. (2015) Pathogenic potential,
+genetic diversity, and population structure of Escherichia
+coli strains isolated from a forest-dominated watershed
+(Comox Lake) in British Columbia, Canada. Appl Environ
+Microbiol 81, 1788–1798.
+Clermont, O., Bonacorsi, S. and Bingen, E. (2000) Rapid and
+simple determination of the Escherichia coli phylogenetic
+group. Appl Environ Microbiol 66, 4555–4558.
+Clermont, O., Christenson, J.K., Denamur, E. and Gordon,
+D.M. (2013) The Clermont Escherichia coli phylo-typing
+method revisited: improvement of specificity and
+detection of new phylo-groups. Environ Microbiol Rep 5,
+58–65.
+Cooper, V.S. and Lenski, R.E. (2000) The population genetics
+of ecological specialization in evolving Escherichia coli
+populations. Nature 407, 736–739.
+Croxen, M.A., Law, R.J., Scholz, R., Keeney, K.M., Wlodarska,
+M. and Finlay, B.B. (2013) Recent advances in
+understanding enteric pathogenic Escherichia coli. Clin
+Microbiol Rev 26, 822–880.
+Dale, A.P. and Woodford, N. (2015) Extra-intestinal
+pathogenic Escherichia coli (ExPEC): disease, carriage and
+clones. J Infect 71, 615–626.
+Delaquis, P., Bach, S. and Dinu, L.-D. (2007) Behavior of
+Escherichia coli O157:H7 in leafy vegetables. J Food Protect
+70, 1966–1974.
+Dhanji, H., Murphy, N.M., Akhigbe, C., Doumith, M., Hope,
+R., Livermore, D.M. and Woodford, N. (2011) Isolation of
+fluoroquinolone-resistant O25b:H4-ST131 Escherichia coli
+
+578
+
+with CTX-M-14 extended-spectrum b-lactamase from UK
+river water. J Antimicrob Chemother 66, 512–516.
+Dı́ az, E., Ferrandez, A., Prieto, M.A. and Garcı́ a, J.L. (2001)
+Biodegradation of aromatic compounds by Escherichia coli.
+Microbiol Mol Biol Rev 65, 523–569.
+Doi, Y., Adams-Haduch, J.M., Peleg, A.Y. and D’Agata, E.M.C.
+(2012) The role of horizontal gene transfer in the
+dissemination of extended-spectrum beta-lactamase–
+producing Escherichia coli and Klebsiella pneumoniae
+isolates in an endemic setting. Diagn Micr Infec Dis 74,
+34–38.
+Edberg, S.C., Allen, M.J., Smith, D.B. and Kriz, N.J. (1990)
+Enumeration of total coliforms and Escherichia coli from
+source water by the defined substrate technology. Appl
+Environ Microbiol 56, 366–369.
+Edberg, S.C., Rice, E.W., Karlin, R.J. and Allen, M.J. (2000)
+Escherichia coli: the best biological drinking water
+indicator for public health protection. J Appl Microbiol 88,
+106S–116S.
+van Elsas, J.D., Semenov, A.V., Costa, R. and Trevors, J.T.
+(2011) Survival of Escherichia coli in the environment:
+fundamental and public health aspects. ISME J 5, 173–183.
+Evans, S.E. and Wallenstein, M.D. (2012) Soil microbial
+community response to drying and rewetting stress: does
+historical precipitation regime matter? Biogeochemistry
+109, 101–116.
+Farrokh, C., Jordan, K., Auvray, F., Glass, K., Oppegaard, H.,
+Raynaud, S., Thevenot, D., Condron, R. et al. (2013)
+Review of Shiga-toxin-producing Escherichia coli (STEC)
+and their significance in dairy production. Int J Food
+Microbiol 162, 190–212.
+Foster, J.W. (2004) Escherichia coli acid resistance: tales of an
+amateur acidophile. Nat Rev Micro 2, 898–907.
+Franchini, A.G. and Egli, T. (2006) Global gene expression in
+Escherichia coli K-12 during short-term and long-term
+adaptation to glucose-limited continuous culture
+conditions. Microbiology 152, 2111–2127.
+Frank, C., Werber, D., Cramer, J.P., Askar, M., Faber, M.,
+deran Heiden, M., Bernard, H., Fruth, A. et al. (2011)
+Epidemic profile of Shiga-toxin–producing Escherichia coli
+O104:H4 outbreak in Germany. N Engl J Med 365,
+1771–1780.
+Franz, E. and van Bruggen, A.H.C. (2008) Ecology of E. coli
+O157:H7 and Salmonella enterica in the primary vegetable
+production chain. Crit Rev Microbiol 34, 143–161.
+Gomi, R., Matsuda, T., Matsui, Y. and Yoneda, M. (2014)
+Fecal source tracking in water by next-generation
+sequencing technologies using host-specific Escherichia coli
+genetic markers. Environ Sci Technol 48, 9616–9623.
+Gordon, D.M. (2001) Geographical structure and host
+specificity in bacteria and the implications for tracing the
+source of coliform contamination. Microbiology 147,
+1079–1085.
+Gordon, D. (2004) The influence of ecological factors on
+the distribution and the genetic structure of Escherichia
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+
+
+Environmental E. coli
+
+J. Jang et al.
+
+coli. EcoSal Plus 2013, https://doi.org/10.1128/ecosalplus.6.
+4.1.
+Gordon, D.M. (2013) Chapter 1 – The ecology of Escherichia
+coli A2 - Donnenberg, Michael S. In Escherichia coli
+(Second Edition). pp. 3–20. Boston, MA: Academic Press.
+Goudeau, D.M., Parker, C.T., Zhou, Y., Sela, S., Kroupitski, Y.
+and Brandl, M.T. (2013) The Salmonella transcriptome in
+lettuce and cilantro soft rot reveals a niche overlap with
+the animal host intestine. Appl Environ Microbiol 79,
+250–262.
+Hagedorn, C., Crozier, J.B., Mentz, K.A., Booth, A.M., Graves,
+A.K., Nelson, N.J. and Reneau, R.B. (2003) Carbon source
+utilization profiles as a method to identify sources of
+faecal pollution in water. J Appl Microbiol 94, 792–799.
+Hamilton, M.J., Hadi, A.Z., Griffith, J.F., Ishii, S. and
+Sadowsky, M.J. (2010) Large scale analysis of virulence
+genes in Escherichia coli strains isolated from Avalon Bay,
+CA. Water Res 44, 5463–5473.
+Harwood, V.J., Staley, C., Badgley, B.D., Borges, K. and
+Korajkic, A. (2014) Microbial source tracking markers for
+detection of fecal contamination in environmental waters:
+relationships between pathogens and human health
+outcomes. FEMS Microbiol Rev 38, 1–40.
+Hazen, T.H., Sahl, J.W., Fraser, C.M., Donnenberg, M.S.,
+Scheutz, F. and Rasko, D.A. (2013) Refining the pathovar
+paradigm via phylogenomics of the attaching and effacing
+Escherichia coli. Proc Natl Acad Sci USA 110, 12810–12815.
+Ingle, D.J., Clermont, O., Skurnik, D., Denamur, E., Walk,
+S.T. and Gordon, D.M. (2011) Biofilm formation by and
+thermal niche and virulence characteristics of Escherichia
+spp. Appl Environ Microbiol 77, 2695–2700.
+Ishii, S. and Sadowsky, M.J. (2008) Escherichia coli in the
+environment: implications for water quality and human
+health. Microbes Environ 23, 101–108.
+Ishii, S. and Sadowsky, M.J. (2009) Applications of the repPCR DNA fingerprinting technique to study microbial
+diversity, ecology and evolution. Environ Microbiol 11,
+733–740.
+Ishii, S., Ksoll, W.B., Hicks, R.E. and Sadowsky, M.J. (2006)
+Presence and growth of naturalized Escherichia coli in
+temperate soils from Lake Superior watersheds. Appl
+Environ Microbiol 72, 612–621.
+Ishii, S., Hansen, D.L., Hicks, R.E. and Sadowsky, M.J. (2007)
+Beach sand and sediments are temporal sinks and sources
+of Escherichia coli in Lake Superior. Environ Sci Technol
+41, 2203–2209.
+Ishii, S., Yan, T., Vu, H., Hansen, D.L., Hicks, R.E. and
+Sadowsky, M.J. (2010) Factors controlling long-term
+survival and growth of naturalized Escherichia coli
+populations in temperate field soils. Microbes Environ 25,
+8–14.
+Ishii, S., Nakamura, T., Ozawa, S., Kobayashi, A., Sano, D.
+and Okabe, S. (2014) Water quality monitoring and risk
+assessment by simultaneous multipathogen quantification.
+Environ Sci Technol 48, 4744–4749.
+
+Jang, J., Unno, T., Lee, S.W., Cho, K.H., Sadowsky, M.J., Ko,
+G., Kim, J.H. and Hur, H.-G. (2011) Prevalence of seasonspecific Escherichia coli strains in the Yeongsan River basin
+of South Korea. Environ Microbiol 13, 3103–3113.
+Jang, J., Suh, Y.-S., Di, D.Y.W., Unno, T., Sadowsky, M.J. and
+Hur, H.-G. (2013) Pathogenic Escherichia coli strains
+producing extended-spectrum b-lactamases in the
+Yeongsan River basin of South Korea. Environ Sci Technol
+47, 1128–1136.
+Jang, J., Di, D.Y.W., Han, D., Unno, T., Lee, J.-H., Sadowsky,
+M.J. and Hur, H.-G. (2015) Dynamic changes in the
+population structure of Escherichia coli in the Yeongsan
+River basin of South Korea. FEMS Microbiol Ecol, 91,
+fiv127.
+Jay, M.T., Cooley, M., Carychao, D., Wiscomb, G.W.,
+Sweitzer, R.A., Crawford-Miksza, L., Farrar, J.A., Lau, D.K.
+et al. (2007) Escherichia coli O157:H7 in feral swine near
+spinach fields and cattle, central California coast. Emerg
+Infect Dis 13, 1908–1911.
+Johnson, J.R., Goullet, P., Picard, B., Moseley, S.L., Roberts,
+P.L. and Stamm, W.E. (1991) Association of
+carboxylesterase B electrophoretic pattern with presence
+and expression of urovirulence factor determinants and
+antimicrobial resistance among strains of Escherichia coli
+that cause urosepsis. Infect Immun 59, 2311–2315.
+Johnson, J.R., Tchesnokova, V., Johnston, B., Clabots, C.,
+Roberts, P.L., Billig, M., Riddell, K., Rogers, P. et al.
+(2013) Abrupt emergence of a single dominant multidrugresistant strain of Escherichia coli. J Infect Dis 207,
+919–928.
+Kaper, J.B., Nataro, J.P. and Mobley, H.L.T. (2004) Pathogenic
+Escherichia coli. Nat Rev Microbiol 2, 123–140.
+Korajkic, A., McMinn, B.R., Shanks, O.C., Sivaganesan, M.,
+Fout, G.S. and Ashbolt, N.J. (2014) Biotic interactions and
+sunlight affect persistence of fecal indicator bacteria and
+microbial source tracking genetic markers in the upper
+Mississippi River. Appl Environ Microbiol 80, 3952–3961.
+Lee, C.M., Lin, T.Y., Lin, C.-C., Kohbodi, G.A., Bhatt, A., Lee,
+R. and Jay, J.A. (2006) Persistence of fecal indicator
+bacteria in Santa Monica Bay beach sediments. Water Res
+40, 2593–2602.
+Lin, J., Smith, M.P., Chapin, K.C., Baik, H.S., Bennett, G.N.
+and Foster, J.W. (1996) Mechanisms of acid resistance in
+enterohemorrhagic Escherichia coli. Appl Environ Microbiol
+62, 3094–3100.
+Looft, T., Johnson, T.A., Allen, H.K., Bayles, D.O., Alt, D.P.,
+Stedtfeld, R.D., Sul, W.J., Stedtfeld, T.M. et al. (2012) Infeed antibiotic effects on the swine intestinal microbiome.
+Proc Natl Acad Sci USA 109, 1691–1696.
+Luo, C., Walk, S.T., Gordon, D.M., Feldgarden, M., Tiedje,
+J.M. and Konstantinidis, K.T. (2011) Genome
+sequencing of environmental Escherichia coli expands
+understanding of the ecology and speciation of the
+model bacterial species. Proc Natl Acad Sci USA 108,
+7200–7205.
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+579
+
+
+
+Environmental E. coli
+
+J. Jang et al.
+
+Martınez-Vaz, B.M., Fink, R.C., Diez-Gonzalez, F. and
+Sadowsky, M.J. (2014) Enteric pathogen-plant interactions:
+molecular connections leading to colonization and growth
+and implications for food safety. Microbes Environ 29,
+123–135.
+McDougald, D., Rice, S.A., Barraud, N., Steinberg, P.D. and
+Kjelleberg, S. (2012) Should we stay or should we go:
+mechanisms and ecological consequences for biofilm
+dispersal. Nat Rev Microbiol 10, 39–50.
+Meric, G., Kemsley, E.K., Falush, D., Saggers, E.J. and
+Lucchini, S. (2013) Phylogenetic distribution of traits
+associated with plant colonization in Escherichia coli.
+Environ Microbiol 15, 487–501.
+Nataro, J.P. and Kaper, J.B. (1998) Diarrheagenic Escherichia
+coli. Clin Microbiol Rev 11, 142–201.
+Rice, E.W. and Bridgewater, L., A.P.H. Association, A.W.W
+Association and W.E. Federation (2012) Standard Methods
+for the Examination of Water and Wastewater. Washington,
+DC: American Public Health Association.
+Rochelle-Newall, E., Nguyen, T.M.H., Le, T.P.Q.,
+Sengtaheuanghoung, O. and Ribolzi, O. (2015) A short
+review of fecal indicator bacteria in tropical aquatic
+ecosystems: knowledge gaps and future directions. Front
+Microbiol 6, 308.
+Rump, L.V., Meng, J., Strain, E.A., Cao, G., Allard, M.W. and
+Gonzalez-Escalona, N. (2012) Complete DNA sequence
+analysis of enterohemorrhagic Escherichia coli plasmid
+pO157_2 in b-glucuronidase-positive E. coli O157:H7
+reveals a novel evolutionary path. J Bacteriol 194,
+3457–3463.
+Sadowsky, M.J. and Whitman, R.L. (2011) The Fecal Bacteria.
+Washington, DC: ASM Press.
+Sayah, R.S., Kaneene, J.B., Johnson, Y. and Miller, R. (2005)
+Patterns of antimicrobial resistance observed in Escherichia
+coli isolates obtained from domestic- and wild-animal
+fecal samples, human septage, and surface water. Appl
+Environ Microbiol 71, 1394–1404.
+Semenov, A.V., van Bruggen, A.H.C., van Overbeek, L.,
+Termorshuizen, A.J. and Semenov, A.M. (2007) Influence
+of temperature fluctuations on Escherichia coli O157:H7
+and Salmonella enterica serovar Typhimurium in cow
+manure. FEMS Microbiol Ecol 60, 419–428.
+Tenaillon, O., Skurnik, D., Picard, B. and Denamur, E. (2010)
+The population genetics of commensal Escherichia coli.
+Nat Rev Microbiol 8, 207–217.
+Tenaillon, O., Barrick, J.E., Ribeck, N., Deatherage, D.E.,
+Blanchard, J.L., Dasgupta, A., Wu, G.C., Wielgoss, S.
+et al. (2016) Tempo and mode of genome evolution
+in a 50,000-generation experiment. Nature 536,
+165–170.
+Topp, E., Welsh, M., Tien, Y.-C., Dang, A., Lazarovits, G.,
+Conn, K. and Zhu, H. (2003) Strain-dependent variability
+in growth and survival of Escherichia coli in agricultural
+soil. FEMS Microbiol Ecol 44, 303–308.
+
+580
+
+Touchon, M., Hoede, C., Tenaillon, O., Barbe, V., Baeriswyl,
+S., Bidet, P., Bingen, E., Bonacorsi, S. et al. (2009)
+Organised genome dynamics in the Escherichia coli species
+results in highly diverse adaptive paths. PLoS Genet 5,
+e1000344.
+Tymensen, L.D., Pyrdok, F., Coles, D., Koning, W.,
+McAllister, T.A., Jokinen, C.C., Dowd, S.E. and
+Neumann, N.F. (2015) Comparative accessory gene
+fingerprinting of surface water Escherichia coli reveals
+genetically diverse naturalized population. J Appl
+Microbiol 119, 263–277.
+Unc, A., Gardner, J. and Springthorpe, S. (2006) Recovery of
+Escherichia coli from soil after addition of sterile organic
+wastes. Appl Environ Microbiol 72, 2287–2289.
+USEPA (1986) Ambient Water Quality Criteria for Bacteria.
+Washington, DC: USEPA.
+USEPA (2006) Method 1603: Escherichia coli (E. coli) in Water
+by Membrane Filtration using Modified MembraneThermotolerant Escherichia coli Agar. Washington, DC:
+USEPA.
+Vila, J., Simon, K., Ruiz, J., Horcajada, J.P., Velasco, M.,
+Barranco, M., Moreno, A. and Mensa, J. (2002) Are
+quinolone-resistant uropathogenic Escherichia coli less
+virulent? J Infect Dis 186, 1039–1042.
+Vital, M., Chai, B., Ostman, B., Cole, J., Konstantinidis, K.T.
+and Tiedje, J.M. (2015) Gene expression analysis of E. coli
+strains provides insights into the role of gene regulation in
+diversification. ISME J 9, 1130–1140.
+Walk, S.T., Alm, E.W., Gordon, D.M., Ram, J.L., Toranzos,
+G.A., Tiedje, J.M. and Whittam, T.S. (2009) Cryptic
+lineages of the genus Escherichia. Appl Environ Microbiol
+75, 6534–6544.
+Walsh, T.R., Weeks, J., Livermore, D.M. and Toleman, M.A.
+(2011) Dissemination of NDM-1 positive bacteria in the
+New Delhi environment and its implications for human
+health: an environmental point prevalence study. Lancet
+Infect Dis 11, 355–362.
+Wang, D., Farnleitner, A.H., Field, K.G., Green, H.C., Shanks,
+O.C. and Boehm, A.B. (2013) Enterococcus and
+Escherichia coli fecal source apportionment with microbial
+source tracking genetic markers – is it feasible? Water Res
+47, 6849–6861.
+Wellington, E.M.H., Boxall, A.B.A., Cross, P., Feil, E.J., Gaze,
+W.H., Hawkey, P.M., Johnson-Rollings, A.S., Jones, D.L.
+et al. (2013) The role of the natural environment in the
+emergence of antibiotic resistance in Gram-negative
+bacteria. Lancet Infect Dis 13, 155–165.
+Whitman, R.L., Shively, D.A., Pawlik, H., Nevers, M.B. and
+Byappanahalli, M.N. (2003) Occurrence of Escherichia coli
+and enterococci in Cladophora (Chlorophyta) in nearshore water and beach sand of Lake Michigan. Appl
+Environ Microbiol 69, 4714–4719.
+Whitman, R.L., Nevers, M.B., Korinek, G.C. and
+Byappanahalli, M.N. (2004) Solar and temporal effects on
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+
+
+Environmental E. coli
+
+J. Jang et al.
+
+Escherichia coli concentration at a Lake Michigan
+swimming beach. Appl Environ Microbiol 70, 4276–4285.
+Whitman, R.L., Byappanahalli, M.N., Spoljaric, A.M., PrzybylaKelly, K., Shively, D.A. and Nevers, M.B. (2014) Evidence
+for free-living Bacteroides in Cladophora along the shores
+of the Great Lakes. Aquat Microb Ecol 72, 117–126.
+Winfield, M.D. and Groisman, E.A. (2003) Role of nonhost
+environments in the lifestyles of Salmonella and
+Escherichia coli. Appl Environ Microbiol 69, 3687–3694.
+
+Wu, J., Long, S.C., Das, D. and Dorner, S.M. (2011) Are
+microbial indicators and pathogens correlated? A statistical
+analysis of 40 years of research. J Water Health 9,
+265–278.
+Zhang, Q., Eichmiller, J.J., Staley, C., Sadowsky, M.J. and Ishii,
+S. (2016) Correlations between pathogen concentration
+and fecal indicator marker genes in beach environments.
+Sci Total Environ 573, 826–830.
+
+Journal of Applied Microbiology 123, 570--581 © 2017 The Society for Applied Microbiology
+
+581
+
+

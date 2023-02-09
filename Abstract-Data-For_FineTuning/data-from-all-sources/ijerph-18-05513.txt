@@ -1,0 +1,1436 @@
+International Journal of
+
+Environmental Research
+and Public Health
+
+Review
+
+Bathing Water Quality Monitoring Practices in Europe and the
+United States
+Ananda Tiwari 1, *, David M. Oliver 2 , Aaron Bivins 3 , Samendra P. Sherchan 4 and Tarja Pitkänen 1,5
+1
+
+2
+3
+
+4
+
+5
+
+*
+
+
+
+Citation: Tiwari, A.; Oliver, D.M.;
+Bivins, A.; Sherchan, S.P.; Pitkänen, T.
+Bathing Water Quality Monitoring
+Practices in Europe and the United
+States. Int. J. Environ. Res. Public
+Health 2021, 18, 5513. https://
+doi.org/10.3390/ijerph18115513
+Academic Editors: Elisabetta Carraro
+
+Expert Microbiology Unit, Finnish Institute for Health and Welfare, P.O. Box 95, FI-70701 Kuopio, Finland;
+tarja.pitkanen@thl.fi
+Biological and Environmental Sciences, University of Stirling, Stirling FK9 4LA, UK; david.oliver@stir.ac.uk
+Department of Civil & Environmental Engineering & Earth Science, University of Notre Dame,
+156 Fitzpatrick Hall, Notre Dame, IN 46556, USA; abivins@nd.edu
+Department of Environmental Health Sciences, Tulane University, 1440 Canal Street,
+New Orleans, LA 70112, USA; sshercha@tulane.edu
+Department of Food Hygiene and Environmental Health, Faculty of Veterinary Medicine,
+University of Helsinki, FI-00014 Helsinki, Finland
+Correspondence: ananda.tiwari@thl.fi; Tel.: +358-442535468
+
+Abstract: Many countries including EU Member States (EUMS) and the United States (U.S.) regularly
+monitor the microbial quality of bathing water to protect public health. This study comprehensively
+evaluates the EU bathing water directive (BWD) and the U.S. recreational water quality criteria
+(RWQC) as regulatory frameworks for monitoring microbial quality of bathing water. The major
+differences between these two regulatory frameworks are the provision of bathing water profiles,
+classification of bathing sites based on the pollution level, variations in the sampling frequency, accepted probable illness risk, epidemiological studies conducted during the development of guideline
+values, and monitoring methods. There are also similarities between the two approaches given
+that both enumerate viable fecal indicator bacteria (FIB) as an index of the potential risk to human
+health in bathing water and accept such risk up to a certain level. However, enumeration of FIB
+using methods outlined within these current regulatory frameworks does not consider the source of
+contamination nor variation in inactivation rates of enteric microbes in different ecological contexts,
+which is dependent on factors such as temperature, solar radiation, and salinity in various climatic
+regions within their geographical areas. A comprehensive “tool-box approach”, i.e., coupling of FIB
+and viral pathogen indicators with microbial source tracking for regulatory purposes, offers potential
+for delivering improved understanding to better protect the health of bathers.
+
+and Silvia Bonetta
+Received: 23 April 2021
+Accepted: 16 May 2021
+
+Keywords: bathing and recreational water; microbial quality; tool-box-approach; bathing water
+directive; recreational water quality criteria
+
+Published: 21 May 2021
+
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+1. Introduction
+Visiting bathing sites located around lakes, rivers, estuaries, and coastal areas are major summertime recreational activities and provide a range of physical and psychological
+health benefits [1]. Further, such activities make a large contribution to revenue collection
+and employment generation through coastal tourism. For example, such tourism represents ~80% of all tourism and ~50% of international tourism [2]. However, the microbial
+contamination of bathing sites from various sources such as sewage effluents, agricultural
+runoff, and accidental releases from municipal sewage sources poses a serious public health
+risk and jeopardizes the health and economic benefits associated with bathing [3,4].
+Many countries such as European Union Member States (EUMS), other European countries e.g., the United Kingdom (U.K.), the United States (U.S.), Australia, and Canada are
+regulating the microbial contamination of recreational and bathing waters. These counties
+regularly monitor bathing sites to protect public health by ensuring safe water quality [5,6].
+This study compares the bathing water quality management and monitoring practices
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513. https://doi.org/10.3390/ijerph18115513
+
+https://www.mdpi.com/journal/ijerph
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+2 of 15
+
+associated with the EU bathing water directive (BWD) and the U.S. recreational water
+quality criteria (RWQC). This study considers the strengths and limitations of currently
+used European and U.S. regulatory frameworks and raises awareness of best practices.
+Further, this study presents future perspectives of bathing water quality management
+based on existing scientific evidence and knowledge.
+1.1. Public Health Risks and Etiological Agents
+Recreational exposure to contaminated water increases the risk of waterborne illnesses
+such as diarrhea, respiratory illness, skin rashes, fever, ear, and eye infection [7–15]. The
+possible types of illness are primarily determined by the etiological agents and their mode
+of exposure (Table 1). The majority of etiological agents for bathing-related illnesses, such
+as Campylobacter spp., Salmonella spp., E. coli O157: H7 and E. coli O111, Shigella spp.,
+adenovirus, norovirus, poliovirus, coxsackievirus, echovirus, Giardia lamblia, and Cryptosporidium parvum originate from human and animal fecal sources [7,11,16–20]. Among
+them, human infecting viruses are mostly host-specific and originate from human fecal
+contamination [16,21], and some other bacterial pathogens and protozoan parasites such
+as C. jejuni, E. coli O157: H7, Salmonella spp., Giardia lamblia, and Cryptosporidium parvum
+originate from both animal and human fecal sources [3,7,22]. Naturally occurring aquatic
+microbes, such as toxin-producing Cyanobacteria spp. and pathogenic Vibrio spp. are also a
+major cause of bathing-related illnesses [20,23,24].
+Table 1. Etiological agents of bathing illness, probable sources and transmission pathways. GI = gastrointestinal [7,19].
+Agent
+
+Illness
+
+Probable Source
+
+Transmission Pathway
+
+Campylobacter spp.
+Enteropathogenic E. coli
+Helicobacter pylori
+Legionella spp.
+Leptospira spp.
+Salmonella spp.
+Mycobacterium avium
+Vibrio vulnificus
+Shigella spp.
+Adenovirus
+Noroviruses
+Rotaviruses
+Coxsackievirus
+
+Gastroenteritis, fever
+Bloody diarrhea, abdominal cramp
+Gastritis, abdominal pain
+Pneumonia, gastroenteritis
+Fever, headache, vomiting, jaundice
+Gastroenteritis, fever, pain
+Respiratory disease
+Infection in pre-existed open wound
+Bacillary dysentery, abdominal pain
+Gastroenteritis, respiratory disease
+Gastroenteritis
+Gastroenteritis
+Mild febrile illness to myocarditis
+Central nervous system, ocular and
+respiratory infections
+Diarrhea, secretions from the eyes or throat
+Liver disease
+Liver disease
+Diarrhea, abdominal pain, fever
+Diarrhea, abdominal cramp
+GI illness, diarrhea
+Meningoencephalitis
+GI illness, haematuria
+Amoebic dysentery
+
+Human and animals
+Human and animals
+Human and animals
+Natural
+Natural and animals
+Human and animals
+Natural
+Natural
+Human
+Human
+Human
+Human
+Human
+
+Ingestion
+Ingestion
+Ingestion
+Inhalation
+Ingestion
+Ingestion
+Inhalation/contact
+Wound infection
+Ingestion
+Ingestion, inhalation
+Ingestion
+Ingestion
+Ingestion
+
+Human
+
+Ingestion
+
+Human
+Human
+Human and animals
+Human and animals
+Human and animals
+Human and animals
+Natural
+Human
+Human
+
+Ingestion
+Ingestion
+Ingestion
+Ingestion
+Ingestion
+Ingestion
+Contact
+Ingestion, Contact
+Ingestion
+
+Enteroviruses
+Echovirus
+Hepatitis A virus
+Hepatitis E virus
+Cryptosporidium
+Giardia
+Microsporidia
+Naegeria fowleri
+Schistosoma spp.
+Entamoeba histolytica
+
+1.2. Faecal Indicator Bacteria
+The direct enumeration of enteric pathogens within bathing waters provides the most
+specific evidence of their presence at bathing sites. However, doing so consistently for
+regulatory purposes is not practically or economically feasible with currently available
+methodologies due to the diversity of enteric pathogens in bathing water and their associated enumeration protocols [21,25]. Therefore, fecal indicator bacteria (FIB), a set of
+commensal gut microbes from warm-blooded animals, have been enumerated for decades,
+as indicators of feces and subsequently enteric pathogens. FIB are present in high numbers
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+3 of 15
+
+in the gut of warm-blooded mammals and pass through the same transmission route as
+enteric pathogens [18]. Enumeration of FIB is currently the most widely accepted approach
+for monitoring the microbial quality of bathing water [5–7,15,25–28].
+The positive relationship between bathing illness episodes and viable counts of FIB,
+i.e., E. coli, mainly in freshwater, and enterococci (ENT), in both fresh and marine water, has
+been reported [10,29,30]. However, such a positive relationship was not found in bathing
+sites with non-point sources of contamination [9,31]. The variable relationship between FIB
+counts and bathing illness episodes may reduce the reliability of FIB and may complicate
+the interpretation of FIB counts for assessing human health risk [9].
+There can be many reasons for a weak relationship between FIB and bathing-related illness episodes. FIB are common in the gut of all warm-blooded animals, whereas pathogens
+are common only in infected hosts. Further, even if the FIB and enteric pathogens originate from the same host, their decay rates are different in the environment [32–36]. The
+wide taxonomic ranges of enteric microbes have different cell structures, morphology,
+and physiology. Thus, each of them responds differently to environmental stress factors
+such as pH, solar radiation, salinity, predation, temperature, and nutrients [11,24,32,37].
+Therefore, successful FIB detection and enumeration (E. coli and intestinal enterococci) does
+not necessarily imply the presence of pathogens from wide taxonomic ranges of bacteria,
+protozoa, and viruses [18,25,38]. For example, a laboratory study [of seeded coastal water]
+demonstrated a strong positive correlation between MS2 coliphage and Enterococcus faecalis
+only during the first few days of the experiment [36]. Other studies detected enteric viruses
+in surface water even when the FIB numbers were below the safe limit according to current
+monitoring protocols [16,39]. Other epidemiological studies have demonstrated stronger
+relationships between gastrointestinal (GI) illness and F+ RNA coliphages and somatic
+coliphages than with FIB [30,38].
+Growth or persistence of enteric microbes and FIB in environmental habitats like soil,
+sediments, vegetation, and fecal matrices have been reported [37,40–44]. The contamination
+of bathing water from such environmental sources could also weaken the relationships
+between FIB and enteric pathogens and bathing water-related illness episodes. Further,
+the illnesses due to autochthonous microbes like Vibrio spp. and Cyanobacteria toxins have
+almost no relationship with FIB counts [20,23,24].
+1.3. Monitoring of FIB
+For regulatory purposes, culture-based methods are almost unanimously used as the
+method for enumerating FIB in bathing water [5,6]. Culture-based methods are affordable,
+highly standardized, and easy to operate [45–47]. These methods enumerate the viable and
+culturable cells of FIB; thus, these may relate well with viable pathogens that are a concern
+of human health risk [47–49]. However, these methods are criticized as being unable
+to enumerate viable but non-culturable cells and injured cells, which may recover their
+viability under favorable conditions [50]. Culture-based methods are time-consuming and
+require additional time (~24–48 h) to produce results due to the need for incubation and
+growth of the target microbes [51,52]. Further, the identification criteria of these methods
+are based on phenotypic characteristics such as colony morphology and color. Sometimes,
+identifications based on the phenotypic character are subject to user bias [45,48,49].
+As a limitation, the FIB enumerated with culture-based methods cannot differentiate
+between sources of contamination, and subsequently, an equal level of human health
+risk is inferred from all contamination source types [21,53,54]. Although, the fecal source
+constrains the possible presence of etiological agents (Table 1), and subsequently the level of
+human health risk. For example, human-infecting viruses are mostly found in human fecal
+contamination [3,9,21,55], and zoonotic pathogens like Salmonella spp., Campylobacter spp.,
+pathogenic E. coli, Cryptosporidium, Giardia, Leptospira, and Brucella spp. are common in
+infected hosts, in both animal and human fecal materials [3,22,56].
+Culture-independent methods such as real-time polymerase chain reaction (qPCR) and
+quantitative reverse transcription-polymerase chain reaction (RT-qPCR) overcome some of
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+4 of 15
+
+the limitations of culture-based methods [57]. The qPCR methods have higher specificity
+than the culture-based methods [33]. Sources of contamination can be differentiated by
+using qPCR primers developed from host-specific bacteria such as Bacteroides, Catellicoccus,
+and Brevibacterium, in the microbial source tracking (MST) process [21,53,54,58–61]. The
+combination of MST with the current FIB monitoring process can make it easier and
+simpler for interpreting colony counts and microbial risk assessment by predicting potential
+pathogens [21,54].
+The qPCR-based methods enumerate target microbes more rapidly than culture-based
+methods [62–64]. The U.S. Environmental Protection Agency (USEPA) has allowed the use
+of qPCR methods as a rapid method since 2012 for monitoring bathing water for regulatory
+purposes [6]. However, these methods also have important limitations. For example, the
+most frequently used taxonomic genes, 16S rRNA, may not be able to distinguish closely
+related species in some genera where the genes are highly conserved [46,65]. Further, gene
+copies enumerated with this method can be affected by the PCR amplification efficiency,
+the detection limit of the assay, volume of the water sample, and the efficiency of the
+pre-processing steps such as filtration and nucleic acid extraction [50,62,63,65]. The qPCR
+method can also greatly overestimate the viable microbial counts compared to the culturebased methods as the molecular method may enumerate the total DNA copies from viable,
+viable but non-culturable, dead cells, and even extracellular nucleic acids [50,62].
+1.4. Bathing Water Guidelines and Regulations
+The bathing water management guideline of the World Health Organization (WHO),
+the BWD and the RWQC are three major global guidelines and regulations for monitoring
+bathing water quality [5–7,15]. All three guidelines and regulations aim to protect the
+health of bathers by assessing the microbial quality of bathing sites. Besides human health,
+the latter two also aim to preserve, protect, and improve the quality of the aquatic environment. All three utilize culture-based FIB enumerations (E. coli or enterococci, or both) with
+counts of FIB above a certain benchmark value signaling increased risk to human health.
+Such benchmark values are set without regard for the sources of microbial contamination,
+including sites located in all climatic regions within their political jurisdiction, and in some
+cases use the same values for determining inland and coastal water quality standards [7].
+The approach of using the same indicator for all contamination source scenarios, geographical regions, and bathing site types was defined as a “One-Size-Fits-All” approach by USEPA
+(2007) [66]. However, the BWD has set different benchmark values for FIB enumerated at
+inland and coastal bathing sites [5].
+The WHO guideline asserts that public health risk due to contaminated bathing sites
+can be best assessed by combining a qualitative sanitary survey and quantitative FIB data. It
+recommends grading bathing sites on five categories (very good, good, fair, poor, and very
+poor) based on the sanitary survey and FIB counts (Figure 1). The sanitary survey collects
+information about sewerage and stormwater pipe networks, possible microbial contamination sources, information on historical contamination, and comparisons to detected FIB
+counts. It assigns the highest health risk levels for contamination from human fecal sources.
+It recommends analyzing at least 20 water samples during each bathing season of the year
+for FIB counts and calculating the percentile value of FIB data for reporting and making
+design about bathing water quality (Table 2). The WHO guidelines [7,15] recommends
+intestinal enterococci (iENT) for both inland and coastal water with the same guideline
+value of 500 colony-forming unit (CFU) or most probable number (MPN)/100 mL (Table 2),
+with a maximum of 1/10 beachgoers experiencing bathing-associated waterborne infection
+at least once per year, as estimated in earlier studies [67–69]. However, the understating
+regarding microbes in bathing water has been improved continuously over the last twenty
+years; and guidelines are updated based on the new information [28,70].
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, x FOR PEER REVIEW
+
+6 of 15
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+5 of 15
+
+Figure 1. Bathing water health risk classification matrix based on FIB enumeration and sanitary
+inspection
+[7]. health risk classification matrix based on FIB enumeration and sanitary
+Figure 1.
+Bathing water
+inspection [7].
+Table 2. Bathing and recreational water standards, regulations, guidelines, and indicators on freshwater and marine
+bathing sites. INT Ent = intestinal
+ENT = enterococci,
+GC = genebathing
+copies, STV
+= statistical
+threshold
+value,
+The BWDenterococci,
+is a legal instrument
+for monitoring
+water
+quality within
+EUMS
+CCE = calibrator cell[5]
+equivalents,
+per = percentile,
+= geometric
+AFRI as
+= acute
+respiratory
+illness,
+and
+and is adopted
+by some GM
+other
+Europeanmean,
+countries
+well.febrile
+Monitoring
+bathing
+sites
+GI = gastroenteritis [5–7].
+generates information about the general status of bathing water and allows reporting to
+Regulation or
+Guideline
+[7]
+
+[5]
+
+[5]
+
+[5]
+
+[5]
+
+[6]
+[6]
+[6]
+[6]
+[6]
+
+the EU regulatory body
+[5]. (CFU
+The or
+EU approach
+by the WHO perspective,
+Sampling
+FIB Value
+Reporting is underpinned
+Illness Rate for
+Symptoms
+Water Type
+Frequency
+MPN/100
+mL)on the Metric
+Swimmersstudies [67–69]. As recomas both approaches were
+based
+same epidemiological
+mended by the WHO approach, the EU approach provides classificationsAFRI,
+(excellent,
+good,
+GI
+~20/per
+Ent
+Fresh/Marine
+500
+95 per
+10% GI illness risk
+illness
+bathing
+sufficient, and poor) of bathing sites based on FIB counts determined from the last four-season
+AFRI: Excellent 1%,
+200 * (Excellent),
+year seasons of monitoring.
+The excellent
+AFRI,upon
+GI the 95th
+>4/per
+* 95and
+per, good class is classified based
+Good 2.5%, GI:
+INT Ent
+Fresh
+400 * (Good),
+percentile
+value and the
+sufficient and poor
+class is classified
+based uponillness
+the 90th percenbathing season
+** 90 per
+Excellent 3%, Good 5%
+330 ** (Sufficient)
+tile value (Table 2). Further, the EU approach has a provision for making profiles of each
+100 * (Excellent),
+AFRI: Excellent 1%,
+per,
+AFRI,
+GI
+>4/per
+site separately,
+upon the* 95
+possible
+source
+contamination,
+locations,
+and
+Goodof
+2.5%,
+GI:
+INT Entbathing Marine
+200based
+* (Good),
+illness
+bathing season
+** 90 per
+land-use pattern in 185
+the**watershed
+allows3%,
+E. Good
+coli as
+5% a FIB for monitoring
+(Sufficient) [5]. The BWDExcellent
+inland sites [5]. As of500
+April
+2021, the European Commission
+has 1%,
+initiated an evaluation of
+AFRI: Excellent
+* (Excellent),
+AFRI, GI
+>4/per
+* 95 per,
+Good 2.5%, GI:
+E. coli the BWD,
+Fresh
+1000 * (Good),
+with completion
+of this review
+illness
+bathing season
+** 90due
+per by 2023 [70].
+900 ** (Sufficient)
+Excellent 3%, Good 5%
+The RWQC (2012) is the guiding document for monitoring the microbial quality of
+250 *water
+(Excellent),
+AFRI:
+Excellent
+1%,
+designated recreational
+in the U.S.
+located in
+marine,
+estuarine,
+the Great
+Lakes,
+* 95 per,
+AFRI,
+GI
+>4/per
+E. coli
+Marine
+500 * (Good),
+Good 2.5%, GI:
+**
+90
+per
+illness
+bathing season
+and inland areas [6].500
+It aims
+to protect public health
+during
+** (Sufficient)
+Excellent
+3%, primary
+Good 5% contact (swimming,
+bathing, surfing, water skiing, tubing, and skin diving) with recreational water by~5/30
+com-days in
+ENT
+Fresh
+30/110 STV
+GM/STV
+32/1000
+GI illness
+plementing
+the Clean Water
+Act. The RWQC
+(2012) prescribes
+counts of
+E. coli and
+ENTseason
+bathing
+in freshwater and ENT in marine water as FIB (Table 2), with culture-based methods
+[6].days in
+~5/30
+E. coli
+Fresh
+100/320
+GM/STV
+32/1000
+GI illness
+bathing
+Early studies reported ENT are a good predictor of GI illness in fresh and marine bathingseason
+sites andMarine
+E. coli are a good
+predictor ofGM/STV
+GI illness in freshwater
+bathingGIsites
+[29,71].
+Ad-days in
+~5/30
+ENT
+35/130 STV
+36/1000
+illness
+bathing season
+ditional studies[10,14], further verified the use of E. coli and ENT for monitoring microbial
+ENT qPCR
+~5/30 days in
+quality
+of bathing water.
+Fresh/Marine
+470 CCE/2000 CCE
+GM/STV
+GI illness
+Indicator
+
+(GC)
+
+bathing season
+
+ENT qPCR
+1.5. Differences
+between the
+Current
+European
+and U.S. Practices
+Fresh/Marine
+1000
+CCE
+75 per
+(GC)
+
+GI illness
+
+~5/30 days in
+bathing season
+
+Although there are parallels in terms of laboratory methods and deployment of regulatory sampling and reporting between the BWD and RWQC, there are some clear differences in these two regulatory frameworks. The major dissimilarities are explained here:
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+6 of 15
+
+The BWD is a legal instrument for monitoring bathing water quality within EUMS [5]
+and is adopted by some other European countries as well. Monitoring bathing sites
+generates information about the general status of bathing water and allows reporting to the
+EU regulatory body [5]. The EU approach is underpinned by the WHO perspective, as both
+approaches were based on the same epidemiological studies [67–69]. As recommended by
+the WHO approach, the EU approach provides classifications (excellent, good, sufficient,
+and poor) of bathing sites based on FIB counts determined from the last four-year seasons
+of monitoring. The excellent and good class is classified based upon the 95th percentile
+value and the sufficient and poor class is classified based upon the 90th percentile value
+(Table 2). Further, the EU approach has a provision for making profiles of each bathing
+site separately, based upon the possible source of contamination, locations, and land-use
+pattern in the watershed [5]. The BWD allows E. coli as a FIB for monitoring inland sites [5].
+As of April 2021, the European Commission has initiated an evaluation of the BWD, with
+completion of this review due by 2023 [70].
+The RWQC (2012) is the guiding document for monitoring the microbial quality of
+designated recreational water in the U.S. located in marine, estuarine, the Great Lakes, and
+inland areas [6]. It aims to protect public health during primary contact (swimming, bathing,
+surfing, water skiing, tubing, and skin diving) with recreational water by complementing
+the Clean Water Act. The RWQC (2012) prescribes counts of E. coli and ENT in freshwater
+and ENT in marine water as FIB (Table 2), with culture-based methods [6]. Early studies
+reported ENT are a good predictor of GI illness in fresh and marine bathing sites and
+E. coli are a good predictor of GI illness in freshwater bathing sites [29,71]. Additional
+studies [10,14], further verified the use of E. coli and ENT for monitoring microbial quality
+of bathing water.
+1.5. Differences between the Current European and U.S. Practices
+Although there are parallels in terms of laboratory methods and deployment of regulatory sampling and reporting between the BWD and RWQC, there are some clear differences
+in these two regulatory frameworks. The major dissimilarities are explained here:
+I.
+
+Enumeration Methods and Indicators
+
+The principal difference between BWD and the RWQC is the selection of reference
+methods for the enumeration of FIB. The BWD relies on the international standards (ISO)
+adopted by the European countries for standardization of approach and the U.S. regulations refer to the methods published by the USAEPA. Further, The RWQC uses the term
+Enterococci (ENT) and the BWD uses the term intestinal enterococci (iENT), and these two
+terms are considered equivalent and have been used interchangeably [37], but there are
+some differences to note.
+a.
+
+Enterococci or Intestinal Enterococci
+
+The BWD prescribes two reference methods ISO 7899-1 (MPN-based) and ISO 78992 (membrane-filtration-based) for selective isolation and enumeration of iENT [5]. The
+ISO 7899-1 method uses the miniaturized 96-well system premised on iENT capacity to
+hydrolyze 4-methylumbelliferyl-b-D-glucoside in the presence of thallium acetate, nalidixic
+acid, and 2,3,5-triphenyltetrazolium chloride, in the liquid medium [51]. The presence
+of iENT is visualized by the emission of fluorescence in 36–72 h. The second method
+(ISO 7899-2) is based on membrane filtration and confirms iENT in two steps [52]. First,
+the bacteria retained on the membrane filter are incubated on Slanetz and Bartley (S&B)
+medium. The triphenyltrazolium chloride (TTC) in S&B medium is reduced to formazan
+and forms red colonies. In the second step, the membrane filter is transferred to bile
+esculin azide (BEA) agar and presumptive colonies are confirmed as iENT. The iENT
+is confirmed based on dark brown to black colonies produced on BEA agar medium.
+The taxonomic distribution of iENT with EU methods (ISO 7899-1, ISO 7899-2) includes
+primarily four species: Enterococcus faecalis, Enterococcus faecium, Enterococcus durans, and
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+7 of 15
+
+Enterococcus hirae. Tiwari et al. (2018) observed that 90% of iENT isolated with ISO 7899-2
+method were E. faecalis and E. faecium [46].
+The RWQC (2012) recommends EPA Method 1600 (mEI agar method) for enumeration
+of ENT [6]. This method is based on a membrane filtration approach, with a single confirmation step using Enterococcus indoxyl-β-D-glucoside (mEI) agar as the culture media.
+ENT are confirmed as blue halo colonies on the media. This method enumerates a broader
+taxonomic group than EU reference methods, including E. faecalis, E. faecium, Enterococcus casseliflavus, and Enterococcus mundtii [72,73]. Two species, E. faecium and E. faecalis are
+considered the most prevalent Enterococcus species in human feces [74,75]. Enterococcus
+is a large genus-group and some species, such as E. mundtii, E. casseliflavus, Enterococcus aquimarinus, and Enterococcus sulfureus, are often associated with vegetation [37,74].
+Further, the RWQC allows local authorities to use alternative methods that give
+equivalent FIB counts when compared with the reference method [6]. An earlier study
+demonstrated that ENT enumerated with EPA Method 1600 method was equivalent with
+the Enterolert method as an alternative for ENT enumeration at U.S. bathing sites [73]. In
+addition to culture-based FIB counts, RWQC (2012) also allows the use of gene copies of
+the 23S rRNA gene of Enterococcus spp. as a rapid enumeration method [6,62].
+b.
+
+Escherichia coli
+
+The BWD prescribes two reference methods ISO 9308-1 2000 (membrane filtration
+based) and ISO 9308-3 1998 (based on miniaturized most probable number) for selective
+isolation and enumeration of E. coli [5,76,77]. Previously, the ISO 9308-1 method operated
+on two steps using TTC Tergitol® 7 agar and rapid test using TSA/TBA agar [76]. The ISO
+9308-1 method has been modified to ISO 9308-1 2014 based on the chromogenic definition
+of E. coli with Chromogenic Coliform Agar (CCA) media [78]. Both versions ISO 9308-1
+(2000, 2014) have been criticized as being unsuitable for monitoring environmental waters
+containing high levels of background bacterial flora [28,45,79]. The ISO 9308-3 method
+detects E. coli based on a fluorogenic reaction (positive for β-glucuronidase) [47,80]. ISO
+9308-3 is a robust and reliable method for use with surface and wastewater samples. It
+uses a 10 mL sample volume which can be too small for bathing water samples when
+E. coli counts are lower [77]. This method can have a higher false-positive rate than ISO
+9308-1 [45].
+EUMS are permitted to use an alternate method for enumeration of FIB that gives
+equivalent counts with reference methods based on the ISO 17994 criteria [45,47,81]. The
+ISO 9308-2 2012 (Colilert-18 Quanti-Tray) method has produced equivalent E. coli counts
+with the reference methods and this method can be used for enumeration of E. coli for
+regulatory purposes in many EUMS [45,47,80]. This method detects E. coli based on a
+fluorogenic reaction (positive for β-glucuronidase) [82]. This method returns results more
+rapidly (18 h) than the reference methods (48–72 h).
+The RWQC (2012) recommends using EPA Method 1603 for enumerating E. coli
+during bathing water quality monitoring in the U.S. [6]. This method is based upon a
+membrane filtration approach, with a single confirmation step using modified mTEC
+agar [72,73]. E. coli is confirmed as red or magenta color colonies. Similar to the EU method,
+the defined substrate method (Colilert-18) produces equivalent E. coli counts with U.S.
+reference methods. Therefore Colilert-18 also can be used as an alternative method for
+E. coli enumeration in water sampled at U.S. bathing sites [73].
+II.
+
+Epidemiological Studies
+
+When deriving the guideline value of FIB, the EU regulation was based on a randomized control study [8,67–69]; whereas, the U.S. standard was based on a prospective
+cohort study [10,13,14]. In the randomized control study, bathing volunteers were randomly selected and preassigned as either swimmers or non-swimmers. The selection of
+healthy adult volunteers during such an epidemiological study systematically ignored the
+heterogeneity of bathers likely present at real bathing sites (e.g., children, old and immunocompromised people). Ethical constraints also need considering with respect to levels of
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+8 of 15
+
+contamination those swimmers are exposed to, e.g., exposure to bathing waters meeting
+mandatory standards rather than falling below this threshold. During the prospective
+cohort studies, bathing volunteers were randomly selected on beaches and their bathing
+activities were followed.
+Epidemiological studies may differ with respect to microbial monitoring methods,
+settings, definitions of illness, follow-up duration, and sources of contamination at studied
+bathing sites [8,10,13,14,67–69]. Such heterogeneity between and within studies greatly
+complicates the comparability of findings.
+III.
+
+Acceptable risk
+
+The BWD proposes different indicator values for inland or coastal bathing water
+sites based on earlier reports [67–69]. In comparison to indicator bacteria, enteric viruses
+are suspected to be more resistant to salinity [7,69,71]. Therefore, even with comparable
+FIB levels, coastal water is likely to have double the likelihood of enteric viruses being
+present and thus risk of illness [69,71]. For example, the BWD equally accepts bathing
+water-related infection risk of GI illness and acute febrile respiratory illness (AFRI) for
+both freshwater and marine water, so the indicator values were varied according to water
+types. The European criterion accepts 2.5% AFRI and 5% GI illness anually (Table 2). The
+BWD considers the risk of both acute febrile respiratory illness (acute febrile respiratory
+illness; fever accompanied by headache body ache usually fatigue or anorexia, sore throat,
+runny nose or cough) and GI illness (vomiting, diarrhea, nausea, or indigestion). However,
+the RWQC uses comparable indicator values for both inland and coastal bathing sites and
+accepts higher risk in coastal bathing sites than inland sites [6]. The maximum acceptable
+risk of RWQC (2012) for GI illness (vomiting or diarrhea, nausea with a stomachache,
+nausea, or stomachache) in freshwater is 3.2% and marine is 3.6% per year. The RWQC
+does not account for respiratory illness.
+IV.
+
+Reporting metrics
+
+The BWD and the RWQC use different reporting metrics for the estimation of FIB
+counts [5,6]. The BWD uses the 95th and 90th percentile of samples collected across four
+consecutive bathing seasons (i.e., a four-year dataset). The BWD recommends collecting at
+least four water samples during each bathing season and calculating percentile values of the
+data from the last four years for the classification of a bathing site. There is much variation
+in the reporting of samples per bathing season, ranging from 4 to about 20 samples,
+per bathing season. Greater numbers of samples are analyzed from the bathing sites
+located nearby larger cities, where more visitors go for bathing each day during the
+bathing season. The BWD can have a risk of misclassification of the bathing sites when the
+minimum number of sample numbers, i.e., ~16 samples of the last four years are included
+for analysis [28]. The maximum acceptable 90th percentile count of E. coli is 500 in coastal
+waters and 900 CFU or MPN/100 in inland bathing waters; for iENT those counts are 185
+and 330 MPN/100 mL in coastal and inland bathing waters, respectively [5].
+The RWQC requires geometric mean (GM) or statistical threshold value (STV), which
+is nearly equivalent with 90th percentile, to be met more frequently than the BWD requirement (every 30 days) [6]. In freshwater, the maximum acceptable E. coli counts are
+100 CFU or MPN/100 mL GM, or 320 CFU or MPN/100 mL STV [6]. While the maximum
+acceptable ENT counts are 30 CFU or MPN/100 mL GM, or 110 CFU or MPN/100 mL
+STV, in freshwater, and 35 CFU or MPN/100 mL GM, or 130 CFU or MPN/100 mL STV, in
+coastal water [6]. The STV value should not be exceeded by more than 10% of the samples
+used to calculate the GM for informing the public about the microbial quality of bathing
+water [6].
+The GM approach stabilizes the data because it is not as sensitive to extreme observations. In contrast, the 95th or 90th percentile approaches account for the extreme
+observations and give increased weighting to the variance of the observed data. Sometimes,
+high 95th or 90th percentile values may result despite lower FIB central tendency due to
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+9 of 15
+
+large variance. Nonetheless, a large variance in FIB counts indicates an increased likelihood
+of high FIB counts than data with a lower variance.
+V.
+
+Profiling and classification
+
+The BWD has a provision of profiling each bathing site based on the source of pollution
+and information from a sanitary survey. Further, the BWD classifies bathing sites based on
+the pollution level assessed with FIB counts; excellent, good, sufficient, or poor [5]. The
+requirement to classify bathing sites means that beach users can access water quality information to help decide which beach to visit. This in turn may incentivize local authorities to
+do more regarding their management of bathing water environments [41,63,83,84]. The
+U.S., in contrast, does not have a provision for classifying and profiling bathing sites.
+2. Limitations of Current Approach and Future Directions
+A major limitation with the currently used regulatory frameworks (both the BWD
+and RWQC) is that enumerating FIB cannot determine fecal contamination sources. The
+approaches also weigh equally the FIB counts from all possible sources and assign equal risk
+to human health from all sources. At bathing sites, there can be a wide variety of pathogens
+from different sources responsible for a single type of illness. Viruses, bacteria, and
+protozoan parasites are capable of causing GI illness. However, the source of contamination
+for these three groups of pathogens can be different. For example, human pathogenic
+viruses causing GI illnesses mostly originate from human fecal sources, while bacteria and
+protozoa can originate from zoonotic sources in addition to human sources. Neglecting
+the source of fecal contamination by only using FIB counts may be insufficient to protect
+human health.
+The current approach also does not consider the different inactivation rates that are
+likely for different enteric microbes (belonging to virus, bacteria, and protozoa) in different
+climatic regions and also in inland versus coastal waters. Environmental factors are one of
+the major determinants of the fate and decay of FIB and enteric pathogens [34–36]. Such
+environmental factors can vary regionally and globally in different climatic zones.
+Additionally, the current regulatory practices do not consider the microbiological
+quality of beach substrates like coastal sand and vegetation. The microbial quality of
+such substrates can have important public health implications [36,40,85,86], as can beach
+debris such as marine plastics [87]. Consideration of the microbial quality of coastal sand
+and vegetation (and associated management) in addition to measuring water quality can
+further protect public health [44,86].
+Lastly, the FIB currently used may not be specific to the presence of viruses and protozoa in bathing water, as currently there is no provision for enumerating viral and protozoan
+indicators. However, these two groups of microbes are also major causes of bathing-related
+illnesses [20,88]. Quantitative microbial risk assessment can be a cost-effective approach
+for developing regional or site-specific recreational water quality criteria [89]. The use of
+the high-throughput sequencing of taxonomic and functional genes provides insight into
+the taxonomic and functional profile of the microbial community, potential pathogens, and
+microbial diversity [57,90]. Further, real-time prediction of FIB concentrations through
+process-based modelling or the use of statistical modelling to inform management at
+bathing sites offers potential for complementing future regulatory approaches and can
+capitalize on nationally available datasets such as rainfall, temperature, catchment characteristics, river discharge, and wave characteristics. [91–93]. However, significant within-day
+variation in FIB concentrations, especially at coastal sites, means that intensive sampling of
+bathing waters for FIB is a prerequisite for building and testing models [94]. Numerous
+other potential approaches have been proposed for regulatory monitoring purposes such as
+measuring chromophoric dissolved organic matter with a spectrophotometer [95,96], and
+considering the distribution of living and dormant FIB abundance and their residence time
+in coastal water [97]. However, adopting new monitoring procedures for bathing water
+quality regulation is challenging. For example, new procedures affect the required number
+of samples, incur laboratory installation and staff training costs for a new method, and
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+10 of 15
+
+will likely result in an increase in cost per sample [3,66,89]. Thus, applying and combining
+up-to-date and emerging scientific knowledge on bathing water quality monitoring may
+protect public health better than with the currently used approach. Further, setting a
+common global standard operating protocol, i.e., uniform definition of GI illness, microbial enumeration methodologies, and follow-up time, may make it easier for sharing and
+comparing research findings at the international level.
+3. Conclusions
+No single microbial indicator can predict infectious disease risk consistently in all
+environments at all times. The best fecal indicator for one bathing site might be not equally
+good for the next bathing site [38]. Therefore, a comprehensive way of monitoring bathing
+water quality is likely to offer a better approach. The USEPA (2007) describes a “Tool-BoxApproach” for bathing water quality monitoring [66]. This approach keeps all possible
+materials and methods as tools (i.e., FIB, MST tools, viral indicators, protozoan indicators,
+and pathogen indicators) in a virtual box and uses the most appropriate material and
+methods for a specific bathing site at a particular time. Using this approach, monitoring of
+bathing water quality can begin by characterizing the FIB counts with the current approach
+and source of contamination with MST markers [21,60]. After that, based on the source of
+contamination and FIB status, an additional more specific indicator can be selected from
+the toolbox. For example, viral pathogens and indicators can be scrutinized when human
+fecal contamination is suspected via MST, as human pathogenic viruses are solely found in
+human fecal material. Similarly, protozoan indicators can be scrutinized if zoonotic bacteria
+or protozoan parasites are suspected due to cattle markers. Coliphage and enterococci
+can be predictive of GI illness if the dominant source is human [98]. However, spores of
+C. perfringens, male-specific (F+) coliphages, or molecular markers of Bacteroides bacteria
+can be more reliable than FIB if fecal contamination is suspected to have originated from
+an environmental source [33].
+Profiling the microbial quality of bathing water of each bathing site based on historic
+pollution levels and sources of contamination may help inform such a toolbox for that
+bathing site. While the BWD requires a profile of each bathing site [5], the use of a
+comprehensive tool-box approach, i.e., coupling of FIB and viral pathogen indicators with
+MST for targeting different fecal sources, may further strengthen such profiling of bathing
+waters and deliver better understanding to protect the health of bathers.
+Author Contributions: Conceptualization—A.T. and T.P.; writing—original draft preparation, A.T.;
+writing—review and editing, D.M.O., A.B., S.P.S. and T.P. All authors have read and agreed to the
+published version of the manuscript.
+Funding: This research received no external funding.
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: The study did not report any data.
+Acknowledgments: Authors would like to thank Eila Torvinen, Jukka Pumpanen, Outi Zacheus,
+and Muruleedhara Byappanahalli for their comments during the project.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.
+2.
+
+3.
+
+Tanaka, H. Swimming exercise: Impact of aquatic exercise on cardiovascular health. Sports Med. 2009, 39, 377–387. [CrossRef]
+United Nations. Factsheet: People and Oceans. In Proceedings of the Ocean Conference, New York, NY, USA, 5–9 June 2017.
+Available online: https://www.un.org/sustainabledevelopment/wp-content/uploads/2017/05/Ocean-fact-sheet-package.pdf
+(accessed on 23 April 2021).
+USEPA. Review of Zoonotic pathogens in Ambient Waters; USEPA Office of Water, Health and Ecological Criteria Division: Washington, DC, USA, 2009.
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+4.
+5.
+6.
+7.
+8.
+
+9.
+
+10.
+11.
+12.
+
+13.
+
+14.
+
+15.
+16.
+17.
+
+18.
+19.
+20.
+21.
+
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+
+11 of 15
+
+Fewtrell, L.; Kay, D. Recreational water and infection: A review of recent findings. Curr. Envir. Health Rep. 2015, 2, 85–94.
+[CrossRef] [PubMed]
+EC, European Commission. Directive 2006/7/EC of the European Parliament and of the Council of 15 February 2006 concerning
+the management of bathing water quality and repealing Directive 76/160/EEC. Off. J. Eur. Union. 2006, 64, 37–51.
+EPA. Recreational Water Quality Criteria; U S Environmental Protection Agency: Washington, DC, USA, 2012.
+WHO. Volume 1, Coastal and fresh waters. Chapter 4: Faecal Pollution and Water Quality 51–101. In Guidelines for Safe Recreational
+Water Environments; World Health Organization: Geneva, Switzerland, 2003.
+Wiedenmann, A.; Krüger, P.; Dietz, K.; López-Pila, J.M.; Szewzyk, R.; Botzenhart, K. A Randomized Controlled Trial Assessing
+Infectious Disease Risks from Bathing in Fresh Recreational Waters in Relation to the Concentration of Escherichia coli, Intestinal
+Enterococci, Clostridium perfringens, and Somatic Coliphages. Environ. Health Perspect. 2006, 114, 228–236. [CrossRef] [PubMed]
+Colford, J.M.; Wade, T.J.; Schiff, K.C.; Wright, C.C.; Griffith, J.F.; Sandhu, S.K.; Burns, S.; Sobsey, M.; Lovelace, G.; Weisberg, S.B.
+Water Quality Indicators and the Risk of Illness at Beaches With Nonpoint Sources of Fecal Contamination. Epidemiology 2007, 18,
+27–35. [CrossRef]
+Wade, T.J.; Calderon, R.L.; Brenner, K.P.; Sams, E.; Beach, M.; Haugland, R.; Wymer, L.; Dufour, A.P. High Sensitivity of Children
+to Swimming-Associated Gastrointestinal Illness. Epidemiology 2008, 19, 375–383. [CrossRef]
+Collier, S.A.; Wade, T.J.; Sams, E.A.; Hlavsa, M.C.; Dufour, A.P.; Beach, M.J. Swimming in the USA: Beachgoer characteristics and
+health outcomes at US marine and freshwater beaches. J. Water Health 2014, 13, 531–543. [CrossRef]
+Leonard, A.F.C.; Singer, A.; Ukoumunne, O.C.; Gaze, W.H.; Garside, R. Is it safe to go back into the water? A systematic review
+and meta-analysis of the risk of acquiring infections from recreational exposure to seawater. Int. J. Epidemiol. 2018, 47, 572–586.
+[CrossRef]
+Wade, T.J.; Calderon, R.L.; Sams, E.; Beach, M.; Brenner, K.P.; Williams, A.H.; Dufour, A.P. Rapidly Measured Indicators of
+Recreational Water Quality Are Predictive of Swimming-Associated Gastrointestinal Illness. Environ. Health Perspect. 2006, 114,
+24–28. [CrossRef]
+Wade, T.J.; Sams, E.; Brenner, K.P.; Haugland, R.; Chern, E.; Beach, M.; Wymer, L.; Rankin, C.C.; Love, D.; Li, Q.; et al. Rapidly
+measured indicators of recreational water quality and swimming-associated illness at marine beaches: A prospective cohort
+study. Environ. Health 2010, 9, 66. [CrossRef]
+WHO. Volume 1, coastal and fresh waters: List of agreed updates. In Addendum to the Who Guidelines for Safe Recreational Water
+Environments; World Health Organization: Geneva, Switzerland, 2009.
+Sinclair, R.; Jones, E.; Gerba, C. Viruses in recreational water-borne disease outbreaks: A review. J. Appl. Microbiol. 2009, 107,
+1769–1780. [CrossRef]
+Hokajärvi, A.-M.; Pitkänen, T.; Siljanen, H.M.P.; Nakari, U.-M.; Torvinen, E.; Siitonen, A.; Miettinen, I.T. Occurrence of thermotolerant Campylobacter spp. and adenoviruses in Finnish bathing waters and purified sewage effluents. J. Water Health 2012, 11,
+120–134. [CrossRef] [PubMed]
+Korajkic, A.; McMinn, B.R.; Harwood, V.J. Relationships between Microbial Indicators and Pathogens in Recreational Water
+Settings. Int. J. Environ. Res. Public Health 2018, 15, 2842. [CrossRef] [PubMed]
+Pond, K. Water recreation and disease. In Plausibility of Associated Infections: Acute Effects. Chapter 2: Hazard Identification and
+Factors Related to Infection and Disease; World Health Organization/IWA Publishing UK: London, UK, 2005; pp. 21–34.
+Hlavsa, M.C.; Roberts, V.A.; Kahler, A.M.; Hilborn, E.D.; Wade, T.J.; Backer, L.C.; Yoder, J.S. Recreational water-associated disease
+outbreaks—United States, 2009–2010. Morb. Mortal. Wkly. Rep. 2014, 63, 6–10.
+Harwood, V.J.; Staley, C.; Badgley, B.D.; Borges, K.; Korajkic, A. Microbial source tracking markers for detection of fecal
+contamination in environmental waters: Relationships between pathogens and human health outcomes. FEMS Microbiol. Rev.
+2014, 38, 1–40. [CrossRef]
+Pitkänen, T. Review of Campylobacter spp. in drinking and environmental waters. J. Microbiol. Methods 2013, 95, 39–47. [CrossRef]
+Baker-Austin, C.; Trinanes, J.A.; Salmenlinna, S.; Lofdahl, M.; Siitonen, A.; Taylor, N.G.H.; Martinez-Urtaza, J. Heatwaveassociated Vibriosis, Sweden and Finland, 2014. Emerg. Infect Dis. 2016, 22, 1216–1220. [CrossRef] [PubMed]
+Lutz, C.; Erken, M.; Noorian, P.; Sun, S.; McDougald, D. Environmental reservoirs and mechanisms of persistence of Vibrio
+cholerae. Front. Microbiol. 2013, 4, 375. [CrossRef]
+Field, K.G.; Samadpour, M. Fecal source tracking, the indicator paradigm, and managing water quality. Water Res. 2007, 41,
+3517–3538. [CrossRef] [PubMed]
+Xue, J.; Lin, S.; Lamar, F.G.; LaMori, J.G.; Sherchan, S. Assessment of fecal pollution in Lake Pontchartrain, Louisiana. Mar. Pollut.
+Bull. 2018, 129, 655–663. [CrossRef]
+Markand, S.; Bachoon, D.; Gentit, L.; Sherchan, S.; Gates, K. Evaluation of fecal contamination in Harris Neck Estuarine Marshes
+along the Georgia Coast. Mar. Pollut. Bull. 2011, 62, 178–181. [CrossRef] [PubMed]
+WHO. WHO Recommendations on Scientific, Analytical and Epidemiological Developments Relevant to the Parameters for Bathing Water
+Quality in the Bathing Water Directive (2006/7/EC); World Health Organization: Geneva, Switzerland, 2018.
+Cabelli, V.J.; Dufour, A.P.; McCabe, L.J.; Levin, M.A. Swimming-Associated Gastroenteritis and Water Quality. Am. J. Epidemiol.
+1982, 115, 606–616. [CrossRef] [PubMed]
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+30.
+
+31.
+32.
+33.
+
+34.
+35.
+36.
+37.
+38.
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+44.
+
+45.
+
+46.
+
+47.
+48.
+
+49.
+50.
+
+51.
+52.
+53.
+
+12 of 15
+
+Wade, T.J.; Pai, N.; Eisenberg, J.N.; Colford, J.M. Do U.S. Environmental Protection Agency water quality guidelines for
+recreational waters prevent gastrointestinal illness? A systematic review and meta-analysis. Environ. Health Perspect. 2003, 111,
+1102–1109. [CrossRef]
+Cordero, L.; Norat, J.; Mattei, H.; Nazario, C.M. Seasonal variations in the risk of gastrointestinal illness on a tropical recreational
+beach. J. Water Health 2012, 10, 579–593. [CrossRef]
+Sinton, L.W.; Hall, C.H.; Lynch, P.A.; Davies-Colley, R.J. Sunlight Inactivation of Fecal Indicator Bacteria and Bacteriophages from
+Waste Stabilization Pond Effluent in Fresh and Saline Waters. Appl. Environ. Microbiol. 2002, 68, 1122–1131. [CrossRef] [PubMed]
+Savichtcheva, O.; Okabe, S. Alternative indicators of fecal pollution: Relations with pathogens and conventional indicators,
+current methodologies for direct pathogen monitoring and future application perspectives. Water Res. 2006, 40, 2463–2476.
+[CrossRef] [PubMed]
+Ahmed, W.; Gyawali, P.; Sidhu, J.; Toze, S. Relative inactivation of faecal indicator bacteria and sewage markers in freshwater and
+seawater microcosms. Lett. Appl. Microbiol. 2014, 59, 348–354. [CrossRef]
+Ahmed, W.; Zhang, Q.; Kozak, S.; Beale, D.; Gyawali, P.; Sadowsky, M.J.; Simpson, S. Comparative decay of sewage-associated
+marker genes in beach water and sediment in a subtropical region. Water Res. 2019, 149, 511–521. [CrossRef]
+Tiwari, A.; Kauppinen, A.; Pitkänen, T. Decay of Enterococcus faecalis, Vibrio cholerae and MS2 coliphage in a laboratory mesocosm
+under brackish beach conditions. Front. Public Health 2019, 7, 269. [CrossRef] [PubMed]
+Byappanahalli, M.N.; Nevers, M.B.; Korajkic, A.; Staley, Z.R.; Harwood, V.J. Enterococci in the Environment. Microbiol. Mol. Biol.
+Rev. 2012, 76, 685–706. [CrossRef] [PubMed]
+Griffith, J.F.; Weisberg, S.B.; Arnold, B.F.; Cao, Y.; Shiff, K.C.; Coldord, J.M. Epidemiologic evaluation of multiple alternate
+microbial water quality monitoring indicators at three California beaches. Water Res. 2016, 94, 371–381. [CrossRef]
+Kauppinen, A.; Al-Hello, H.; Zacheus, O.; Kilponen, J.; Maunula, L.; Huusko, S.; Lappalainen, M.; Miettinen, I.; Blomqvist, S.;
+Rimhanen-Finne, R. Increase in outbreaks of gastroenteritis linked to bathing water in Finland in summer 2014. Eurosurveillance
+2017, 22, 1–8. [CrossRef]
+Whitman, R.L.; Harwood, V.J.; Edge, T.A.; Nevers, M.B.; Byappanahalli, M.N.; Vijayavel, K.; Brandão, J.; Sadowsky, M.J.; Alm,
+E.W.; Crowe, A.; et al. Microbes in beach sands: Integrating environment, ecology and public health. Rev. Environ. Sci. Bio/Technol.
+2014, 13, 329–368. [CrossRef] [PubMed]
+Oliver, D.M.; Hanley, N.D.; Van Niekerk, M.; Kay, D.; Heathwaite, A.L.; Rabinovici, S.J.M.; Kinzelman, J.L.; Fleming, L.E.; Porter,
+J.; Shaikh, S.; et al. Molecular tools for bathing water assessment in Europe: Balancing social science research with a rapidly
+developing environmental science evidence-base. AMBIO 2015, 45, 52–62. [CrossRef] [PubMed]
+Hodgson, C.J.; Oliver, D.M.; Fish, R.D.; Bulmer, N.M.; Heathwaite, A.L.; Winter, M.; Chadwick, D.R. Seasonal persistence of faecal
+indicator organisms in soil following dairy slurry application to land by surface broadcasting and shallow injection. J. Environ.
+Manag. 2016, 183, 325–332. [CrossRef]
+Byappanahalli, M.N.; Sawdey, R.; Ishii, S.; Shively, D.A.; Ferguson, J.A.; Whitman, R.L.; Sadowsky, M.J. Seasonal stability of
+Cladophora-Associated Salmonella in Lake Michigan watersheds. Water Res. 2009, 43, 806–814. [CrossRef]
+Weiskerger, C.J.; Brandão, J.; Ahmed, W.; Aslan, A.; Avolio, L.; Badgley, B.D.; Boehm, A.B.; Edge, T.A.; Fleisher, J.M.; Heaney,
+C.D.; et al. Impacts of a changing earth on microbial dynamics and human health risks in the continuum between beach water
+and sand. Water Res. 2019, 162, 456–470. [CrossRef] [PubMed]
+Tiwari, A.; Niemelä, S.I.; Vepsäläinen, A.; Rapala, J.; Kalso, S.; Pitkänen, T. Comparison of Colilert-18 with miniaturized most
+probable number method for monitoring of Escherichia coli in bathing water. J. Water Health 2016, 14, 121–131. [CrossRef]
+[PubMed]
+Tiwari, A.; Hokajärvi, A.-M.; Domingo, J.W.S.; Kauppinen, A.; Elk, M.; Ryu, H.; Jayaprakash, B.; Pitkänen, T. Categorical
+performance characteristics of method ISO 7899-2 and indicator value of intestinal enterococci for bathing water quality
+monitoring. J. Water Health 2018, 16, 711–723. [CrossRef]
+Valente, M.S.; Pedro, P.; Alonso, M.C.; Borrego, J.J.; Dionísio, L. Are the defined substrate-based methods adequate to determine
+the microbiological quality of natural recreational waters? J. Water Health 2009, 8, 11–19. [CrossRef]
+Niemela, S.I.; Lee, J.V.; Fricker, C.R. A comparison of the international standards organization reference method for the detection
+of coliforms and Escherichia coli in water with a defined substrate procedure. J. Appl. Microbiol. 2003, 95, 1285–1292. [CrossRef]
+[PubMed]
+Pitkänen, T.; Paakkari, P.; Miettinen, I.T.; Heinonen-Tanski, H.; Paulin, L.; Hänninen, M.-L. Comparison of media for enumeration
+of coliform bacteria and Escherichia coli in non-disinfected water. J. Microbiol. Methods 2007, 68, 522–529. [CrossRef] [PubMed]
+Pitkänen, T.; Ryu, H.; Elk, M.; Hokajärvi, A.-M.; Siponen, S.; Vepsäläinen, A.; Räsänen, P.; Santo, D.J.W. Detection of fecal bacteria
+and source tracking identifiers in environmental waters using rRNA-based RT-qPCR and rDNA-based qPCR assays. Environ. Sci.
+Technol. 2013, 47, 13611–13620. [CrossRef]
+ISO 7899-1:1998. Water Quality—Detection and Enumeration of Intestinal Enterococci—Part 1: Miniaturized Method (Most Probable
+Number) for Surface and Wastewater; International Organization for Standardization: Geneva, Switzerland, 1998.
+ISO 7899-2:2000. Water Quality-Detection and Enumeration of Intestinal Enterococci—Part 2: Membrane Filtration Method; International
+Organization for Standardization: Geneva, Switzerland, 2000.
+Stoeckel, D.M.; Harwood, V.J. Performance, design and analysis in microbial source tracking studies. Appl. Environ. Microbiol.
+2007, 73, 2405–2415. [CrossRef] [PubMed]
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+54.
+
+55.
+56.
+
+57.
+58.
+59.
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+65.
+
+66.
+67.
+
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+
+75.
+76.
+77.
+
+13 of 15
+
+Zhang, Q.; Gallard, J.; Wu, B.; Harwood, V.J.; Sadowsky, M.J.; Hamilton, K.A.; Ahmed, W. Synergy between quantitative microbial
+source tracking (qMST) and quantitative microbial risk assessment (QMRA): A review and prospectus. Environ. Int. 2019, 130,
+104703. [CrossRef]
+Soller, J.A.; Schoen, M.E.; Bartrand, T.; Ravenscroft, J.E.; Ashbolt, N. Estimated human health risks from exposure to recreational
+waters impacted by human and non-human sources of faecal contamination. Water Res. 2010, 44, 4674–4691. [CrossRef]
+Soller, J.A.; Eftim, S.; Wade, T.J.; Ichida, A.M.; Clancy, J.L.; Johnson, T.B.; Schwab, K.; Ramirez-Toro, G.; Nappier, S.; Ravenscroft,
+J.E. Use of quantitative microbial risk assessment to improve interpretation of a recreational water epidemiological study. Microb.
+Risk. Anal. 2016, 1, 2–11. [CrossRef]
+Vierheilig, J.; Savio, D.; Ley, R.E.; Mach, R.L.; Farnleitner, A.H.; Reischer, G.H. Potential applications of next generation DNA
+sequencing of 16S rRNA gene amplicons in microbial water quality monitoring. Water Sci. Technol. 2015, 72, 1962–1972. [CrossRef]
+Okabe, S.; Shimazu, Y. Persistence of host-specific Bacteroides–Prevotella 16S rRNA genetic markers in environmental waters:
+Effects of temperature and salinity. Appl. Microbiol Biotechnol. 2007, 76, 935–944. [CrossRef]
+Boehm, A.B.; Van De Werfhorst, L.C.; Griffith, J.F.; Holden, P.A.; Jay, J.A.; Shanks, O.C.; Wang, D.; Weisberg, S.B. Performance of
+forty-one microbial source tracking methods: A twenty-seven lab evaluation study. Water Res. 2013, 47, 6812–6828. [CrossRef]
+Rytkönen, A.; Tiwari, A.; Hokajärvi, A.-M.; Uusheimo, S.; Vepsäläinen, A.; Tulonen, T.; Pitkänen, T. The use of ribosomal RNA as
+a microbial source tracking target highlights the assay host-specificity requirement in water quality assessments. Front. Microbiol.
+2021, 12, 1137. [CrossRef]
+Haugland, R.A.; Varma, M.; Sivaganesan, M.; Kelty, C.; Peed, L.; Shanks, O.C. Evaluation of genetic markers from the 16S rRNA
+gene V2 region for use in quantitative detection of selected Bacteroidales species and human fecal waste by qPCR. Syst. Appl.
+Microbiol. 2010, 33, 348–357. [CrossRef]
+Haugland, R.A.; Siefring, S.C.; Wymer, L.J.; Brenner, K.P.; Dufour, A.P. Comparison of Enterococcus measurements in freshwater at
+two recreational beaches by quantitative polymerase chain reaction and membrane filter culture analysis. Water Res. 2005, 39,
+559–568. [CrossRef] [PubMed]
+Oliver, D.M.; Van Niekerk, M.; Kay, D.; Heathwaite, A.L.; Porter, J.; Fleming, L.E.; Kinzelman, J.L.; Connolly, E.; Cummins, A.;
+McPhail, C.; et al. Opportunities and limitations of molecular methods for quantifying microbial compliance parameters in EU
+bathing waters. Environ. Int. 2014, 64, 124–128. [CrossRef] [PubMed]
+Shrestha, A.; Kelty, C.A.; Sivaganesan, M.; Shanks, O.C.; Dorevitch, S. Fecal pollution source characterization at non-point source
+impacted beaches under dry and wet weather conditions. Water Res. 2020, 182, 116014. [CrossRef] [PubMed]
+Gupta, S.; Mortensen, M.S.; Schjørring, S.; Trivedi, U.; Vestergaard, G.; Stokholm, J.; Bisgaard, H.; Krogfelt, K.A.; Sørensen, S.J.
+Amplicon sequencing provides more accurate microbiome information in healthy children compared to culturing. Commun. Biol.
+2019, 2, 1–7. [CrossRef] [PubMed]
+U.S. EPA. Report of the Expert Scientific Workshop on Critical Research Needs for the Development of New or Revised Recreational Water
+Quality Criteria (Airlie Workshop); EPA823-R-07-006; U.S. EPA: Washington, DC, USA, 2007.
+Fleisher, J.M.; Jones, F.; Kay, D.; Stanwell-Smith, R.; Wyer, M.; Morano, R. Water and Non-Water-Related Risk Factors for
+Gastroenteritis among Bathers Exposed to Sewage-Contaminated Marine Waters. Int. J. Epidemiol. 1993, 22, 698–708. [CrossRef]
+[PubMed]
+Fleisher, J.M.; Kay, D.; Salmon, R.L.; Jones, F.; Wyer, M.D.; Godfree, A.F. Marine waters contaminated with domestic sewage:
+Non-enteric illnesses associated with bather exposure in the United Kingdom. Am. J. Public Health 1996, 86, 1228–1234. [CrossRef]
+Kay, D.; Jones, F.; Wyer, M.D.; Fleisher, J.M.; Salmon, R.L.; Godfree, A.F.; Zelenauch-Jacquotte, A.; Shore, R. Predicting likelihood
+of gastroenteritis from sea bathing: Results from randomized exposer. Lancet 1994, 344, 905–909. [CrossRef]
+European Union. Combined Evaluation Roadmap/Inception Impact Assessment; Reference Ares; 1628779-04/03/2021; European
+Union: Brussels, Belgium, 2021.
+Dufour, A.P. Health Effects Criteria for Fresh Recreational Waters; EPA 600/1-84-004; Environmental Protection Agency: Cincinnati,
+OH, USA, 1984.
+Ferguson, D.; Moore, D.; Getrich, M.; Zhowandai, M. Enumeration and speciation of enterococci found in marine and intertidal
+sediments and coastal water in southern California. J. Appl. Microbiol. 2005, 99, 598–608. [CrossRef]
+Ferguson, D.M.; Griffith, J.F.; McGee, C.D.; Weisberg, S.B.; Hagedorn, C. Comparison of Enterococcus Species Diversity in Marine
+Water and Wastewater Using Enterolert and EPA Method 1600. J. Environ. Public Health 2013, 2013, 1–6. [CrossRef] [PubMed]
+Moore, D.; Zhowandai, M.; Ferguson, D.; McGee, C.; Mott, J.; Stewart, J. Comparison of 16S rRNA sequencing with conventional
+and commercial phenotypic techniques for identification of enterococci from the marine environment. J. Appl. Microbiol. 2006,
+100, 1272–1281. [CrossRef] [PubMed]
+Layton, B.A.; Walters, S.P.; Lam, L.H.; Boehm, A.B. Enterococcus species distribution among human and animal hosts using
+multiplex PCR. J. Appl. Microbiol. 2010, 109, 539–547. [PubMed]
+ISO 9308-1:2000. Water Quality—Detection and Enumeration of Escherichia coli and Coliform bacteria—Part 1: Membrane Filtration
+Method; International Organization for standardization: Geneva, Switzerland, 2000.
+ISO 9308-3:1998. Water Quality—Detection and Enumeration of Escherichia coli and Coliform bacteria—Part 3: Miniaturized Method
+(Most Probable Number) for the Detection and Enumeration of E. coli in Surface and Wastewater; International Organization for
+standardization: Geneva, Switzerland, 1998.
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+78.
+79.
+
+80.
+81.
+82.
+83.
+84.
+85.
+
+86.
+
+87.
+88.
+89.
+90.
+
+91.
+92.
+
+93.
+
+94.
+
+95.
+
+96.
+
+97.
+
+98.
+
+14 of 15
+
+ISO 9308-1:2014. Water Quality—Enumeration of Escherichia coli and Coliform Bacteria—Part 1: Membrane Filtration Method for Waters
+with Low Bacterial Background Flora; International Organization for Standardization: Geneva, Switzerland, 2014.
+Jozić, S.; Lušić, D.V.; Ordulj, M.; Frlan, E.; Cenov, A.; Diković, S.; Kauzlarić, V.; Ðurković, L.F.; Totić, J.S.; Ivšinović, D.; et al.
+Performance characteristics of the temperature-modified ISO 9308-1 method for the enumeration of Escherichia coli in marine and
+inland bathing waters. Mar. Pollut. Bull. 2018, 135, 150–158. [CrossRef]
+Le Baron, P.; Henry, A.; Lepeuple, A.-S.; Pena, G.; Servais, P. An operational method for the real-time monitoring of E. coli
+numbers in bathing waters. Mar. Pollut. Bull. 2005, 50, 652–659. [CrossRef] [PubMed]
+ISO 17994:2014. Water Quality—Requirements for the Comparison of the Relative Recovery of Microorganisms by Two Quantitative
+Methods; International Organization for standardization: Geneva, Switzerland, 2014.
+ISO 9308-2:2012. Water Quality—Enumeration of Escherichia coli and Coliform Bacteria—Part 2: Most Probable Number Method;
+International Organization for Standardization: Geneva, Switzerland, 2012.
+Quilliam, R.S.; Taylor, J.; Oliver, D.M. The disparity between regulatory measurements of E. coli in public bathing waters and the
+public expectation of bathing water quality. J. Environ. Manag. 2019, 232, 868–874. [CrossRef]
+Quilliam, R.S.; Kinzelman, J.; Brunner, J.; Oliver, D.M. Resolving conflicts in public health protection and ecosystem service
+provision at designated bathing waters. J. Environ. Manag. 2015, 161, 237–242. [CrossRef]
+Whitman, R.L.; Shively, D.A.; Pawlik, H.; Nevers, M.B.; Byappanahalli, M.N. Occurrence of Escherichia coli and Enterococci in
+Cladophora (Chlorophyta) in Nearshore Water and Beach Sand of Lake Michigan. Appl. Environ. Microbiol. 2003, 69, 4714–4719.
+[CrossRef]
+Abdelzaher, A.M.; Wright, M.E.; Ortega, C.; Solo-Gabriele, H.M.; Miller, G.; Elmir, S.; Newman, X.; Shih, P.; Bonilla, J.A.; Bonilla,
+T.D.; et al. Presence of Pathogens and Indicator Microbes at a Non-Point Source Subtropical Recreational Marine Beach. Appl.
+Environ. Microbiol. 2009, 76, 724–732. [CrossRef]
+Rodrigues, A.; Oliver, D.M.; McCarron, A.; Quilliam, R.S. Colonisation of plastic pellets (nurdles) by E. coli at public bathing
+beaches. Mar. Pollut. Bull. 2019, 139, 376–380. [CrossRef]
+Hlavsa, M.C.; Roberts, V.A.; Kahler, A.M.; Hilborn, E.D.; Mecher, T.R.; Beach, M.J.; Wade, T.J.; Yoder, J.S. Outbreaks of Illness
+Associated with Recreational Water—United States, 2011–2012. MMWR. Morb. Mortal. Wkly. Rep. 2015, 64, 668–672. [PubMed]
+Fujioka, R.S.; Solo-Gabriele, H.M.; Byappanahalli, M.N.; Kirs, M.U.S. Recreational Water Quality Criteria: A Vision for the Future.
+Int. J. Environ. Res. Public Health 2015, 12, 7752–7776. [CrossRef] [PubMed]
+Tiwari, A.; Hokajärvi, A.-M.; Santo, D.J.W.; Elk, M.; Jayaprakash, B.; Ryu, H.; Siponen, S.; Vepsäläinen, A.; Kauppinen, A.;
+Puurunen, O.; et al. Bacterial diversity and predicted enzymatic function in a multipurpose surface water system—From
+wastewater effluent discharges to drinking water production. Res. Sq. 2020. [CrossRef]
+Stidson, R.T.; Gray, C.A.; McPhail, C.D. Development and use of modelling techniques for real-time bathing water quality
+predictions. Water Environ. J. 2011, 26, 7–18. [CrossRef]
+Oliver, D.M.; Porter, K.D.H.; Pachepsky, Y.; Muirhead, R.W.; Reaney, S.M.; Coffey, R.; Kay, D.; Milledge, D.G.; Hong, E.; Anthony,
+S.G.; et al. Predicting microbial water quality with models: Over-arching questions for managing risk in agricultural catchments.
+Sci. Total. Environ. 2016, 544, 39–47. [CrossRef]
+Herrig, I.; Seis, W.; Fischer, H.; Regnery, J.; Manz, W.; Reifferscheid, G.; Böer, S. Prediction of fecal indicator organism concentrations in rivers: The shifting role of environmental factors under varying flow conditions. Environ. Sci. Eur. 2019, 31, 1–16.
+[CrossRef]
+Wyer, M.D.; Kay, D.; Morgan, H.; Naylor, S.; Clark, S.; Watkins, J.; Davies, C.M.; Francis, C.; Osborn, H.; Bennett, S. Within-day
+variability in microbial concentrations at a UK designated bathing water: Implications for regulatory monitoring and the
+application of predictive modelling based on historical compliance data. Water Res. X 1 2018, 1, 100006. [CrossRef]
+Tedetti, M.; Longhitano, R.; Garcia, N.; Guigue, C.; Ferretto, N.; Goutx, M. Fluorescence properties of dissolved organic matter
+in coastal Mediterranean waters influenced by a municipal sewage effluent (Bay of Marseilles, France). Environ. Chem. 2012, 9,
+438–449. [CrossRef]
+Madonia, A.; Caruso, G.; Piazzolla, D.; Bonamano, S.; Piermattei, V.; Zappalà, G.; Marcelli, M. Chromophoric Dissolved Organic
+Matter as a Tracer of Fecal Contamination for Bathing Water Quality Monitoring in the Northern Tyrrhenian Sea (Latium, Italy). J.
+Mar. Sci. Eng. 2020, 8, 430. [CrossRef]
+Bonamano, S.; Madonia, A.; Caruso, G.; Zappalà, G.; Marcelli, M. Development of a New Predictive index (Bathing Water
+Quality Index, BWQI) Based on Escherichia coli Physiological States for Bathing Waters Monitoring. J. Mar. Sci. Eng. 2021, 9, 120.
+[CrossRef]
+Benjamin-Chung, J.; Arnold, B.F.; Wade, T.J.; Schiff, K.; Griffith, J.F.; Dufour, A.P.; Weisberg, S.B.; Colford, J.M. Coliphages and
+Gastrointestinal Illness in Recreational Waters. Epidemiology 2017, 28, 644–652. [CrossRef] [PubMed]
+
+
+
+Int. J. Environ. Res. Public Health 2021, 18, 5513
+
+15 of 15
+
+Doctor Ananda Tiwari, PhD
+Ananda Tiwari, Ph.D., is a water health microbiologist. Currently, he is working as a post-doctoral researcher
+in the Expert Microbiology Research Unit of the Finnish Institute for Health and Welfare, Kuopio Finland. He
+did his doctoral study in monitoring microbial quality of bathing water. His research interest includes indicator
+bacteria (Escherichia coli and intestinal enterococci), microbial source tracking, virus indicators, beach
+monitoring, Vibrio cholera, Cyanobacteria, microbial ecology, antibiotic-resistant bacteria/ genes,
+wastewater-based epidemiology, drinking water distribution system, and biofilm production.
+
+Short Biography of Authors
+
+Associate Professor David Oliver, PhD
+David Oliver, Ph.D., is an Associate Professor of Catchment Science based at the University of Stirling UK,
+where he has worked for the last 10 years. He completed his BSc and PhD at the University of Sheffield, UK.
+His broad research interests cover the connections between land, water and people, in particular the impact
+of the environment on people’s health. Current research focus includes fate and transfer dynamics of diffuse
+pollutants, managing competing demands on soil and water resources in catchments to benefit public health,
+healthy and resilient bathing water environments and the co-design of decision support systems to visualise
+risks to water quality across multiple scales.
+
+Doctor Aaron Bivins, PhD
+Dr. Aaron Bivins is a post-doctoral research associate in the Department of Civil and Environmental
+Engineering and Earth Sciences at the University of Notre, Notre Dame, Indiana, USA. He is a public health
+engineer interested in the transmission of human pathogens via environmental and engineered systems. His
+work includes the use of environmental microbiology techniques to detect and quantify rare pathogens,
+quantitative microbial risk assessment to estimate risks to human health, and BioRender to create
+compelling scientific illustrations.
+
+Doctor Ananda Tiwari, PhD, is a water health microbiologist. Currently, he is working as a postdoctoral researcher in the Expert Microbiology Research Unit of the Finnish Institute for Health and
+Welfare, Kuopio Finland. He did his doctoral study in monitoring microbial quality of bathing water.
+His research interest includes indicator bacteria (Escherichia coli and intestinal enterococci), microbial
+source tracking, virus indicators, beach monitoring, Vibrio cholera, Cyanobacteria, microbial ecology,
+antibiotic-resistant bacteria/genes, wastewater-based epidemiology, drinking water distribution
+system, and biofilm production.
+
+Associate Professor David Oliver, PhD, is an Associate Professor of Catchment Science based at the
+University of Stirling UK, where he has worked for the last 10 years. He completed his BSc and PhD
+at the University of Sheffield, UK. His broad research interests cover the connections between land,
+water and people, in particular the impact of the environment on people’s health. Current research
+focus includes fate and transfer dynamics of diffuse pollutants, managing competing demands on
+soil and water resources in catchments to benefit public health, healthy and resilient bathing water
+environments and the co-design of decision support systems to visualise risks to water quality across
+multiple scales.
+Doctor Aaron Bivins, PhD, is a post-doctoral research associate in the Department of Civil and
+Environmental Engineering and Earth Sciences at the University of Notre, Notre Dame, Indiana, USA.
+He is a public health engineer interested in the transmission of human pathogens via environmental
+and engineered systems. His work includes the use of environmental microbiology techniques to
+detect and quantify rare pathogens, quantitative microbial risk assessment to estimate risks to human
+health, and BioRender to create compelling scientific illustrations.
+
+Assistant Professor Samendra P. Sherchan, PhD
+Dr. Sherchan is currently an assistant professor in the department of environmental health sciences at
+Tulane University. He received his PhD from the University of Arizona under Drs. Charles Gerba, Ian Pepper
+and Shane Snyder. He began studying environmental virology in graduate school where he worked on virus
+treatment for water reuse. He has been working primarily at better understanding the survival, fate and
+transport of emerging viruses in natural and engineered water systems. His research interests include
+environmental virology, one health, diarrheal diseases, water reuse, water quality, sanitation, and hygiene in
+developing counties. He currently serves as an associate editor for the Journal of Water and Health and
+BMC Infectious Diseases. He is also on the editorial boards of ACS Water and Science of the Total
+Environment.
+
+Assistant Professor Samendra P. Sherchan, PhD, is currently an assistant professor in the department of environmental health sciences at Tulane University. He received his PhD from the University
+ofofArizona
+under Drs. Charles Gerba, Ian Pepper and Shane Snyder. He began studying environmenTarja Pitkänen has a broad expertise on detection methods and infection risk assessment
+microbes in
+water. She works as a Chief Specialist at the Water Microbiology Laboratory, Finnish Institute for Health and
+talof virology
+in graduate school where he worked on virus treatment for water reuse. He has been
+Welfare, Finland. Since 1.10.2020, she has co-affiliation as Associate Professor in the field
+Environmental
+Health at the University of Helsinki as a part of HOH Helsinki One Health Network. Tarja Pitkänen conducts
+research and expertise tasks related to waterborne outbreak preparedness for fecal contamination
+and primarily at better understanding the survival, fate and transport of emerging viruses in
+working
+microbial water safety research with her team members and PhD students. She is adjunct Professor in
+Molecular water microbiology at the University of Eastern Finland, where she gained a PhD
+on
+natural
+and engineered water systems. His research interests include environmental virology, one
+Environmental microbiology in 2010. In 2012-2013, she was a researcher at the National Risk Management
+Research Laboratory of the United States Environmental Protection Agency, USA where
+she focused her
+health,
+diarrheal diseases, water reuse, water quality, sanitation, and hygiene in developing counties.
+research on molecular detection, next-generation sequencing tools and the characterization of active
+bacterial communities in water. Currently she is involved in several research projects and
+international
+expert
+He
+currently
+serves as an associate editor for the Journal of Water and Health and BMC Infectious
+duties related to the water microbiology.
+Diseases. He is also on the editorial boards of ACS Water and Science of the Total Environment.
+Associate Professor Tarja Pitkänen, PhD, Title of Docent
+
+Associate Professor Tarja Pitkänen, PhD, has a broad expertise on detection methods and infection
+risk assessment of microbes in water. She works as a Chief Specialist at the Water Microbiology
+Laboratory, Finnish Institute for Health and Welfare, Finland. Since 1.10.2020, she has co-affiliation as
+Associate Professor in the field of Environmental Health at the University of Helsinki as a part of
+HOH Helsinki One Health Network. Tarja Pitkänen conducts research and expertise tasks related
+to waterborne outbreak preparedness for fecal contamination and microbial water safety research
+with her team members and PhD students. She is adjunct Professor in Molecular water microbiology
+at the University of Eastern Finland, where she gained a PhD on Environmental microbiology in
+2010. In 2012-2013, she was a researcher at the National Risk Management Research Laboratory of the
+United States Environmental Protection Agency, USA where she focused her research on molecular
+detection, next-generation sequencing tools and the characterization of active bacterial communities
+in water. Currently she is involved in several research projects and international expert duties related
+to the water microbiology.
+
+

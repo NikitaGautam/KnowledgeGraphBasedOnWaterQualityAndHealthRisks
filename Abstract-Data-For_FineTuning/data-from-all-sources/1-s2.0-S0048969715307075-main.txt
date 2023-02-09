@@ -1,0 +1,3517 @@
+Science of the Total Environment 541 (2016) 8–22
+
+Contents lists available at ScienceDirect
+
+Science of the Total Environment
+journal homepage: www.elsevier.com/locate/scitotenv
+
+Sanitation in constructed wetlands: A review on the removal of human
+pathogens and fecal indicators
+Shubiao Wu a,⁎, Pedro N. Carvalho b, Jochen A. Müller c, Valsa Remony Manoj d, Renjie Dong a
+a
+
+College of Engineering, China Agricultural University, Key Laboratory for Clean Renewable Energy Utilization Technology, Ministry of Agriculture, Beijing 100083, PR China
+Department of Bioscience, Aarhus University, 8000C Aarhus, Denmark
+Department of Environmental Biotechnology, Helmholtz Centre for Environmental Research — UFZ, Permoserstrasse 15, Leipzig D-04318, Germany
+d
+Department of Chemistry, Velammal Engineering College, Chennai, India
+b
+c
+
+H I G H L I G H T S
+
+G R A P H I C A L
+
+A B S T R A C T
+
+• Knowledge on fate and removal of fecal
+indicator bacteria in CWs is not sufﬁcient.
+• Three sources of pathogens in CWs
+were summarized.
+• Pathogens removal is inﬂuenced by hydraulic, vegetation, temperature and so
+on.
+• Most frequent and well-validated removal mechanisms were discussed.
+• Removal of pathogen was found to be
+exponentially related to the loading
+rate.
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 21 July 2015
+Received in revised form 10 September 2015
+Accepted 10 September 2015
+Available online 19 September 2015
+Editor: D. Barcelo
+Keywords:
+Constructed wetlands
+Waterborne pathogens
+Fecal indicators
+
+a b s t r a c t
+Removal of human pathogens from wastewater is a critical factor with linkage to human health. Constructed
+Wetlands (CWs) are environmental friendly ecosystems that are applicable not only for chemical pollution control, but also for the reduction of pathogens from wastewater. Yet the knowledge on the fate and removal of such
+indicator bacteria in CWs is still not sufﬁcient due to the complexity of removal mechanisms and inﬂuencing factors. This review serves to provide a better understanding of this state-of-the-art technology, which is necessary
+for further investigations and design development. The fecal indicator bacteria in CWs mainly come from three
+sources, namely, inﬂuent wastewaters, regrowth within the CWs, and animal activities. The properties of microbial contamination vary depending on the different sources. The removal of pathogens is a complex process that
+is inﬂuenced by operational parameters such as hydraulic regime and retention time, vegetation, seasonal ﬂuctuation, and water composition. The most frequent and well-validated removal mechanisms include natural
+die-off due to starvation or predation, sedimentation and ﬁltration, and adsorption. The concentration of the
+
+Abbreviations: CWs, constructed wetlands; VF, vertical ﬂow; HF, horizontal ﬂow; HRT, hydraulic retention time; TC, total coliforms; FC, fecal coliforms; FS, fecal streptococci; CLP,
+Clostridium perfringens; ST, staphylococci; TSS, total suspended solids; UV, ultra violet.
+⁎ Corresponding author.
+E-mail address: wushubiao@gmail.com (S. Wu).
+
+http://dx.doi.org/10.1016/j.scitotenv.2015.09.047
+0048-9697/© 2015 Elsevier B.V. All rights reserved.
+
+
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+Mechanisms removal of bacteria
+Sanitation
+Wastewater treatment performance
+
+9
+
+main fecal indicator bacteria in the efﬂuent was found to be exponentially related to the loading rate. Generally,
+horizontal subsurface ﬂow CWs have better reduction capacity than free water surface ﬂow CWs, and hybrid
+wetland systems were found to be the most efﬁcient due to a longer retention time. Further improvement of
+fecal indicator bacteria removal in CWs is needed, however, levels in CW efﬂuents are still higher than most of
+the regulation standards for reuse.
+© 2015 Elsevier B.V. All rights reserved.
+
+Contents
+1.
+2.
+3.
+
+Introduction . . . . . . . . . . . . . . . . .
+Sources of pathogens and fecal indicators in CWs
+Fate of fecal indicators and removal mechanisms
+3.1.
+Sedimentation and ﬁltration . . . . . .
+3.2.
+Adsorption . . . . . . . . . . . . . .
+3.3.
+Natural die-off . . . . . . . . . . . .
+4.
+Inﬂuencing factors on pathogens removal . . .
+4.1.
+Vegetation . . . . . . . . . . . . . .
+4.2.
+Water compositions . . . . . . . . . .
+4.3.
+Hydraulic regime . . . . . . . . . . .
+4.4.
+Hydraulic retention time . . . . . . . .
+4.5.
+Filter media . . . . . . . . . . . . . .
+4.6.
+Oxygen . . . . . . . . . . . . . . . .
+4.7.
+Solar intensity . . . . . . . . . . . .
+4.8.
+pH . . . . . . . . . . . . . . . . . .
+4.9.
+Seasonal ﬂuctuation . . . . . . . . . .
+5.
+Overall performance . . . . . . . . . . . . .
+6.
+Conclusions and perspectives . . . . . . . . .
+Acknowledgments . . . . . . . . . . . . . . . .
+References . . . . . . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+1. Introduction
+Water overexploitation and pollution as consequences of human
+population growth and economic development have caused a marked
+decrease of per capita water availability (WHO, 2006). Concomitantly
+with the rising demand for clean water, large amounts of wastewater
+are being generated. Even though various wastewater treatment technologies including centralized and decentralized systems have been developed, the overall treatment capacity is still relatively low in
+developing countries due to the economic concerns. Moreover, the standard limits for efﬂuent quality control is mainly replying on organic
+compounds (COD, BOD), nitrogen and phosphorus. The sanitation control of pathogens in the efﬂuent has not gain much attention so far.
+However, human health should not be jeopardized by residual pathogens remaining in the water after treatment (Winward et al., 2008a).
+Most efﬂuent wastewater in advanced treatment systems is
+disinfected by using chemicals such as chlorine. However, this practice
+can create further health related and ecological concerns due to the formation of disinfection by-products such as trihalomethanes, which have
+led to restrictions of chlorination for disinfecting wastewater (Toscano
+et al., 2013). Moreover, alternative forms of wastewater treatment are
+often needed, as centralized treatment is not always an economical option. This is especially the case in rural and remote regions in developing
+countries. Therefore, attention has been shifted to testing the capacity
+for human pathogen removal in eco-sustainable systems such as constructed wetlands (CWs), which are designed to reduce pollutants
+without or with less addition of disinfection chemicals (Decamp and
+Warren, 2000).
+Research on CWs started essentially in the 1950s with the work of
+Dr. Käthe Seidel in Germany (Vymazal, 2010). Since then most studies
+on CWs have focused on the removal of organic and inorganic pollutants, but an increasing number of investigations has focused on the capacity of CWs to eliminate fecal indicator bacteria, i.e. surrogates for
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+9
+9
+11
+11
+11
+11
+12
+12
+13
+13
+13
+14
+15
+15
+15
+15
+16
+18
+19
+20
+
+human pathogens (e.g. Gersberg et al., 1989; Green et al., 1997; García
+et al., 2008; Headley et al., 2013). Results from these studies suggest
+physico-chemical and biological mechanisms and factors that may contribute to fecal indicator bacteria removal in CWs such as adsorption,
+sedimentation, reactive oxygen species, starvation, and predation by
+other microbial entities (García and Bécares, 1997; Ottová et al., 1997;
+Boutilier et al., 2009). However, the complexity of abiotic and biotic relations in CWs has hampered a conceptual understanding of indicator
+bacteria removal processes in these treatment systems. In addition,
+the inherent variability between CW units even of the same type, e.g.
+difference in root density, hydraulics, and water characteristics, has impeded the systematic description and prediction of the removal processes that occur within these environments (Werker et al., 2002;
+Vymazal, 2005).
+For reasons of analytical feasibility, wastewater quality is typically
+assessed based on enumerations of fecal indicators such as generic
+Escherichia coli rather than of speciﬁc human pathogens (Dufour et al.,
+2003). In line with that approach, this review addresses the potential
+pathogens and indicators in the various inﬂuents and within the wetlands but focuses almost exclusively on fecal indicator bacteria for the
+discussion of removal mechanisms such as natural die-off, sedimentation & ﬁltration, adsorption and predation, and parameters inﬂuencing
+removal including hydraulic regime and retention time, vegetation, seasonal ﬂuctuation (variability), water compositions, media and pH. The
+performance of various types of CWs and systems integrated with
+other advanced technologies are evaluated also based on the removal
+of fecal indicators. Finally, perspectives and implications for future
+work are provided.
+2. Sources of pathogens and fecal indicators in CWs
+There are about 60 known general types of waterborne human pathogens. These include viruses such as rotavirus, bacterial pathogens such
+
+
+
+10
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+as Vibrio cholerae, protozoa such as Cryptosporidium parvum, and multicellular eukaryotic parasites such as the guinea worm, Dracunculus
+medinensis. Any potential etiological agent in the efﬂuent of a CW may
+stem from human or animal excreta and being capable to survive or
+even grow (or re-production and proliferation) in the wetland for a
+prolonged timeframe (Leclerc et al., 2002), may be a member of the autochthonous wetland community, e.g. the opportunistic pathogen
+Aeromonas hydrophila (Hazen et al., 1978), or may be ubiquitous in nature, i.e. naturally present in water bodies and the human body such as
+Klebsiella pneumoniae (Podschun et al., 2001) (Fig. 1).
+It would be too cost-intensive to survey all potentially present pathogens in a CW and its inﬂuent and efﬂuent on a regular basis. Except
+during diseases outbreaks, their abundance in wastewater is low or
+even below detection levels; and the diversity of pathogens plus the
+breadth of their environmental distribution patterns demand elaborate
+detection methodologies. Furthermore, the targeted cultivation of
+human pathogens, i.e. microbes of Biological Safety Level (BSL) ≥2, has
+to occur in designated laboratories. Comprehensive surveys of seasonal,
+out-break associated, and geographical occurrences of pathogens in
+CWs are hence not available nor unlikely to be generated in the near future. Instead, microbial indicators for fecal contamination in the wastewater sources are quantiﬁed for analytical feasibility and convenience to
+evaluate the pathogen removal performance of wastewater treatment
+and sanitation processes (Payment and Locas, 2011). These indicators
+typically include Escherichia coli (E. coli), total coliforms (TC) and fecal
+coliforms (FC), more stress-resistant fecal streptococci (FS) (=fecal enterococci), sometimes staphylococci (ST), and Clostridium perfringens
+(CLP), which spores are considered conservative surrogates for
+C. parvum and Giardia lamblia (oo)cysts. Only few studies have measured etiological agents such as the enteric bacterium Salmonella
+typhimurium and the opportunistic pathogen Pseudomonas aeruginosa
+(Karim et al., 2004; Winward et al., 2008a), Listeria spp. (Karpiscak
+et al., 2001), and Cryptosporidium oocysts and Giardia cysts. (Falabi
+et al., 2002; Karim et al., 2004; Reinoso et al., 2008). Fig. 2 provides
+quantitative information on fecal indicator concentration in the various
+wastewater sources fed into CWs, i.e. domestic sewage, tertiary efﬂuents, municipal wastewater, dairy and leachate efﬂuents.
+Some fecal indicator bacteria may grow within the bed of CWs. Rose
+et al. (1991) reported regrowth of coliforms bacteria of 10- to 100-fold
+the initial concentration in stored gray water after 48 h. Furthermore,
+Dixon et al. (2000) observed that total coliforms concentration in stored
+gray water increased by over 2 log10 units within 24 h. In contrast, studies on the enteric bacteria, Salmonella sp. and Campylobacter sp. seeded
+into gray water indicated that no regrowth occurs due to the rapid dieoff in the presence of competing microorganisms (Ottosson and
+Stenström, 2003). Therefore, regrowth of pathogens in CWs might
+occur, but the dynamics of such regrowth are complex and are highly
+dependent on factors such as temperature, water composition and
+
+Fig. 2. Indicator bacteria concentrations in various wastewaters fed into CWs (TC: total coliforms; FC: fecal coliforms; EC: Escherichia coli; FS: fecal streptococci; CLP: Clostridium
+perfringens; ST: staphylococci). The data for the indicator bacteria in domestic sewage
+was collected from Quiñónez-Díaz et al. (2001), Boutilier et al. (2010), Nokes et al.
+(2003), Abdel-Shafy and El-Khateeb (2013), Reinoso et al. (2008), Richter and Weaver
+(2003a), Ansola et al. (2003), García et al. (2008), García et al. (2013), Keffala and Ghrabi
+(2005), Horn et al. (2014), Mbuligwe (2005), Galvão et al. (2009), Barros et al. (2008). The
+data for the indicator bacteria in secondary and tertiary efﬂuents was collected from Ayaz
+(2008), Kadlec et al. (2010), Toscano et al. (2013), Tuncsiper (2007)). The data for the indicator bacteria in municipal wastewaters was collected from Ansola et al. (2003), Solano
+et al. (2004a). The data for the indicator bacteria in diary wastewaters was collected from
+Travis et al. (2012), Mantovi et al. (2003).
+
+solar intensity. Furthermore, the regrowth rate of various bacterial
+pathogens in different types of CWs is still poorly understood and
+should be further investigated.
+Animal activity may also play a role in introducing pathogens (e.g.
+some serotypes of E. coli and Salmonella) and fecal indicator bacteria
+
+Fig. 1. Three main sources of fecal indicator bacteria in free water surface ﬂow CWs.
+
+
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+into CWs, particularly into free water surface ﬂow CWs (Fig. 1). For example, large bird populations could be attracted to CWs, which could affect concentrations of fecal indicator bacteria. This is in agreement with
+studies that reported passerine populations as the major source of E. coli
+in some surface ﬂow wetlands (Orosz-Coghlan et al., 2006) and others
+that showed bird feces as a signiﬁcant source of enterococci in coastal
+wetlands (Grant et al., 2001). Thurston et al. (2001) conducted a comparative investigation using two horizontal subsurface ﬂow CWs, one
+fed with disinfected groundwater and the other fed with wastewater,
+in order to evaluate the likely impact of local wildlife on the presence
+of indicators and pathogens. No indicator bacteria, coliphage, or protozoan parasites were detected in the wetland's inﬂuent, chlorinated
+groundwater. However, an average of 1.3 × 102 CFU TC and 22.3 CFU
+FC per 100 mL were detected in the efﬂuent. Correlating total versus
+FC in the two CWs indicated animal activity as a source of potential
+fecal indicator bacteria. Graczyk et al. (2009a and 2009b) found that efﬂuents from a small-scale free water surface ﬂow constructed wetland,
+used for polishing secondary treated wastewater, contained signiﬁcantly higher concentrations of potentially viable zoonotic enteropathogens,
+including Giardia duodenalis cysts and Enterocytozoon bieneusi spores,
+than wetland inﬂuent. Even though the reason for the increase in fecal
+indicator bacteria in CWs cannot be excluded from the regrowth, the
+effect contributed by bird, dog and livestock activities may also be signiﬁcant. However, to the authors' knowledge, the information on quantitative evaluation of these sources is rarely reported and should be
+further investigated.
+3. Fate of fecal indicators and removal mechanisms
+Removal of fecal bacteria and pathogens in CWs may occur via physical, chemical, and biological factors, alone or in combination. Physical
+factors consist of mechanical ﬁltration, sedimentation, and sorption to
+organic matter and the CW's matrix. Chemical factors include oxidation
+and exposure to biocides excreted by plants. Biological factors comprise
+antimicrobial activity of root exudates (Axelrood et al., 1996), predation
+by nematodes and protists (Decamp and Warren, 1998; Decamp et al.,
+1999), activity of lytic bacteria or viruses (Axelrood et al., 1996), retention in bioﬁlms (Brix, 1997), natural die-off, and competition for
+limiting nutrients (Green et al., 1997). The most signiﬁcant removal
+mechanisms of fecal bacteria and pathogens in CWs might vary depending on the particular design type of the treatment unit, the hydraulic regime, wastewater characteristics, and even the local climate. This
+section is devoted to discussing the most frequent and certain removal
+mechanisms in CWs. It should be noted that the vast majority of studies
+has targeted bacterial pathogens, largely due to greater quantiﬁcation
+ease as compared to enumeration of viral and protozoan pathogens
+and multicellular parasites. The various inﬂuencing factors on the bacteria removal mechanisms will be examined in the subsequent section.
+3.1. Sedimentation and ﬁltration
+Sedimentation has been reported to be effective in removing
+some bacteria, such as helminth eggs, coliforms and fecal streptococci (Karathanasis et al., 2003; Vacca et al., 2005), due to their higher
+settling velocities (e.g., ~ 0.1 mm/s) (Sengupta et al., 2011). However,
+protozoan (oo)cysts and bacteria have much lower settling velocities
+[e.g., b 0.001 mm/s for Giardia cysts (Dai and Boll, 2006)] and viruses
+are stable in suspension. These pathogens can only be effectively removed by sedimentation if they are attached to larger particles, in
+which case their elimination from the wastewater correlates with
+particle removal (Jasper et al., 2013; Quiñónez-Díaz et al., 2001).
+About 10–50% of E. coli were found to be associated with particles
+N5 μm in wastewater (Boutilier et al., 2009), and are thus more amenable to sedimentation. Kansiime and van Bruggen (2001) assessed the
+role of suspended material such as peat on the settling of FC in the
+water column of Nakivubo wetland in Kampala, Uganda (Kansiime
+
+11
+
+and van Bruggen, 2001). Their results showed that addition of fresh
+peat material from Cyperus papyrus mats to wetland water resulted in
+a more rapid removal of FC, as compared to that wetland which
+contained plain water. Likewise, organic detritus derived from plants
+could contribute to the sedimentation of FC in suspension (Kansiime
+and van Bruggen, 2001).
+FC could also accumulate in the sediment of various aquatic systems
+(Lijklema et al., 1987). According to Brettar and Höﬂe (1992), survival of
+these coliforms might be prolonged due to the reduced grazing pressure
+in the sediment, and even regrowth of coliforms might occur owing to
+the availability of nutrients from settled particles.
+Mechanical ﬁltration was reported to play an important role in reduction of pathogenic microorganisms (Karim et al., 2004), particularly
+in subsurface ﬂow CWs. Redder et al. (2010) observed reduction rates of
+approximately 2 log10 CFU/100 mL for the protozoan pathogens, C. oocysts and Giardia cysts, in a pilot and a ﬁeld scale subsurface ﬂow
+CWs. Their results demonstrated that ﬁltering wastewater was the primary mechanism effectively removing the protozoans. The removal of
+C. oocysts and Giardia cysts appeared to be independent of the types
+of ﬁlter used, nevertheless, smaller particle-sized matrices seemed to
+be more effective.
+Sleytr et al. (2007) evaluated the effect of ﬁltration on fecal indicator
+bacteria removal, and reported values of 0.5–8 (log10 CFU/g dry weight)
+for coliforms (E. coli, TC) and enterococci at different depth layers of vertical ﬂow CWs. The removal of TC, FC, and FS was also examined in an
+experimental vertical ﬂow CW (Arias et al., 2003). Results from that
+study suggested that ﬁltration is a major removal mechanism for
+these indicator bacteria in such treatment systems. Recycling of treated
+efﬂuent to the sedimentation tank did not affect elimination of the indicator bacteria (Arias et al., 2003), even though it enhanced the removal
+of total nitrogen.
+3.2. Adsorption
+Adsorption of bacteria in the bed of CWs when wastewater ﬂows
+through is partially a mechanism of ﬁltration. This adsorption might
+be due to both interactions with substrates and/or plant roots, while
+the strength of this interaction depends on the respective adhesive
+properties and the ionic composition of the medium. It has been
+shown that a number of FC could be removed by their attachment to
+plant root surfaces. Considering the possible saturation of substrates
+and plant roots, however, a net removal of coliforms by adsorption
+might happen only at the beginning of CWs operational periods and
+would not be signiﬁcant in cases of long term operation (Solano et al.,
+2004a). Nevertheless, long term equilibrium between adsorption capacity and other types of removal mechanisms such as die-off should not be
+discarded.
+The attachment capacity of FC to the roots of C. papyrus and
+Miscanthidium violaceum was determined by Kansiime and van
+Bruggen (2001) in the Nakivubo wetland in Kampala, Uganda. Their results showed a high number of FC detected on the root surfaces of
+C. papyrus (18,000 ± 4000 MPN/g DW of root, DW = dry weight) compared to those of M. violaceum roots (220 ± 95 MPN/g DW) (Kansiime
+and van Bruggen, 2001). This high number of coliforms attached to papyrus roots could be attributed to the high root density and large surface
+area created by the well-developed secondary roots of C. papyrus.
+3.3. Natural die-off
+Natural die-off of indicator bacteria in CWs is a result of many inactivation processes and is inﬂuenced by various factors, such as predation
+and starvation, and the exposure to physical or chemical stressors. Yet
+the magnitude of natural die-off is difﬁcult to quantify. Boutilier et al.
+(2009) investigated its relative importance in two free water surface
+ﬂow CWs treating both domestic and agricultural wastewater. Natural
+die-off of E. coli appeared to be the most signiﬁcant contributor to the
+
+
+
+12
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+overall removal of indicator bacteria in the two types of wastewater examined in this study. However, more investigations on natural die-off
+and its effect on indicator bacteria removal are necessary for more complete understanding of this subject matter.
+Predation includes the bacteriovorous activity of nematodes, rotifers, protozoa, bacterivorous bacteria, and phages, and was cited by
+Green et al. (1997) as an important factor in the removal of bacteria
+and protozoan (oo)cysts from wastewaters in CWs, but much less is
+known about viruses (Jasper et al., 2013). Bacteriovory of protozoa, especially ciliates, has been documented for a range of environments including wastewater treatment plants (Curds, 1982; Pernthaler, 2005).
+Predation by nematodes was reported as a factor in the removal of FC
+from wastewaters in macrophyte ponds, although quantitative measurement was not performed. One study showed that ciliates were
+abundant in the CWs at Audlem, United Kingdom and in laboratory microcosms derived thereof, whereas nematodes and rotifers were rarely
+encountered (Decamp and Warren, 1998).
+The bacterivorous activity of ciliates isolated from CWs was investigated by measuring their grazing rates of ﬂuorescently labeled E. coli
+(Decamp and Warren, 1998). The grazing rates for the ciliated protozoa
+Paramecium were measured to be 111 E. coli/(ciliate-hour) and 170
+C. parvum oocysts/(ciliate-hour) in lab experiments. Hence, a population of 2 × 104 Paramecium per liter would have the potential to achieve
+greater than 6-log removal of E. coli or oocysts in 1 h, if these were the
+only particles in the water. Grazing rates in an actual wetland are expected to be signiﬁcantly lower, because pathogens would represent a
+small fraction of the total particles (Jasper et al., 2013) and some
+E. coli cells may be attached to particles large enough to offer protection
+from free-swimming protozoa (Davies and Bavor, 2000).
+Removal of indicator microorganisms and pathogens by copepod
+predation in a free water surface CW (total area of 76.7 ha and a treatment capability of 3.0 × 104 m3 day− 1) was demonstrated by Song
+et al. (Song et al., 2008). At copepods concentrations of 3.0 × 102/L,
+and 6.0 × 102/L, higher removal rates were observed for indicator and
+pathogenic microorganisms as compared to a control group without
+any copepod addition, suggesting that predation by copepods is an important mechanism for the removal of bacteria in CWs.
+Predation by protozoa and Bdellovibrio bacteriovorus was also reported to play an important role in the removal processes in vertical
+ﬂow CWs (Wand et al., 2007). Several factors are known to affect predation rates, which might be related to the prey (e.g. concentration, attached vs unattached), the predator (e.g. morphology, feeding
+strategy) or physicochemical factors (temperature, Eh, hydrodynamics
+of the microenvironment) (Decamp and Warren, 1998; Pernthaler,
+2005).
+While predation may provide an effective means for removing indicator organisms from water, the viability of the organisms after ingestion is uncertain in some cases. In general, protozoan grazing is a
+major mechanism of bacterial population control (Hahn and Höﬂe,
+2001). However, there is evidence that some pathogenic bacteria are
+not inactivated as a result of ingestion by protozoan grazers, such as ciliates and amoebas (Steinberg and Levin, 2007). Indeed, pathogenic bacteria such as Legionella actually colonize free-living amoeba to protect
+themselves from unfavorable environmental conditions (Thomas
+et al., 2010). More research is needed on inactivation of the wide
+range of pathogens of concern in wastewater by the different types of
+grazers in CWs.
+
+4. Inﬂuencing factors on pathogens removal
+Factors affecting bacterial elimination in CWs include vegetation, hydraulic regime and retention time, water composition, seasonal variations, and pH (Davies-Colley et al., 1999). For free water surface ﬂow
+CWs, sunlight intensity and exposure time are also critical inﬂuencing
+factors (Mayo, 2004) as are matrix type and size for subsurface ﬂow
+
+CWs (García et al., 2008). This section mainly discusses these inﬂuencing factors.
+
+4.1. Vegetation
+A number of investigations have been conducted to evaluate the effect of vegetation on indicator bacteria removal in CWs. Removal efﬁciency appears to be dependent on the type of CWs. In most of the
+investigations concerning horizontal subsurface ﬂow CWs, vegetation
+was demonstrated to positively promote indicator bacteria removal
+performance. However, it was unclear whether this was due to the effects of the plants on system hydraulics or to other causes, such as the
+increased surface area availability at plant roots (Kansiime and van
+Bruggen, 2001), or root exudates released by plant species that contain
+bactericidal activity (Tunçsiper et al., 2012). The release of antimicrobial
+exudates might not only be toxic to pathogenic microorganisms, but
+also alter the physical and chemical environment of the rhizosphere
+and lead to it being unsuitable for pathogen survival (Avelar et al.,
+2014).
+Avelar et al. (2014) compared the performance of horizontal ﬂow
+CWs, either cultivated with or without the species Mentha aquatica,
+when subjected to different hydraulic retention times (HRTs from 1.5
+to 6.0 d) with regard to the removal of coliform bacteria from sewage.
+They observed that the cultivation of the species M. aquatica resulted
+in a higher removal efﬁciency of TC and E. coli in the experimental
+CWs. Additionally, Decamp et al. (1999) also found greater removal of
+E. coli in CWs planted with Phragmites australis (2.6 log10 CFU/100 mL)
+than in systems without vegetation (1.4 log10 CFU/100 mL) (Decamp
+et al., 1999). Rivera et al. (1995) observed greater removal of E. coli in
+CWs planted with Typha or Phragmites than in CWs without plant cultivation. No signiﬁcant difference in removal performance between the
+various plant species was observed (Rivera et al., 1995). In contrast,
+Headley et al. (2013) found no effect of vegetation on E. coli removal
+in VF, HF and intensiﬁed CWs.
+In order to evaluate the efﬁcacy of CWs for the treatment of domestic
+wastewater in small communities located in rural areas, Hench et al.
+(2003) designed wetland mesocosms (400 L each) containing two
+types of treatment (a mixture of Typha, Scirpus, and Juncus species and
+a control without vegetation). Higher microbial reductions of FC, enterococci, Salmonella, Shigella, Yersinia, and coliphage were observed in
+the planted microcosms compared to those lacking vegetation
+(Table 1). Tanner et al. (1995) in a study performed in New Zealand obtained removals of 1.3, 1.3, 1.9 and 2.4 log10 CFU/100 mL of thermotolerant coliforms in horizontal ﬂow CWs planted with Schoenoplectus
+validus and 1.0, 1.2, 1.1 and 2.0 log10 CFU/100 mL in unplanted CW
+with HRT values of 2, 3, 5.5 and 7 days, respectively (Tanner et al.,
+1995). Jinadasa et al. (2006) also examined the effect of Scirpus grossus
+on the elimination of FC in horizontal ﬂow CWs. Under the same average inﬂuent concentration of 842 CFU/100 mL, efﬂuent FC was much
+
+Table 1
+Microbial densities (log10CFU/100 mL for bacteria and log10PFU/100 mL for coliphage) in
+primary-clariﬁed sewage inﬂuent and wetland efﬂuents over 2-year sampling period
+(Hench et al., 2003).
+Microorganisms
+
+Inﬂuent
+
+Wetland efﬂuent
+Un-vegetated
+
+Vegetated
+
+Fecal coliforms
+Enterococci
+Salmonella
+Shigella
+Yersinia
+Coliphage
+
+8.0 (0.2)
+5.8 (0.2)
+5.3 (0.3)
+5.8 (0.2)
+6.2 (0.3)
+5.2 (0.2)
+
+5.7 (0.2)
+3.9 (0.2)
+3.8 (0.2)
+4.1 (0.2)
+4.7 (0.1)
+5.2 (0.2)
+
+5.2 (0.2)
+3.5 (0.2)
+3.4 (0.2)
+3.5 (0.2)
+4.5 (0.2)
+3.5 (0.2)
+
+Geometric means (standard error in parentheses) of 24 samples (4 replicates/sample) collected monthly over a 2-year sampling period. All values for wetland efﬂuents are significantly different (p b 0.05) when compared to inﬂuent.
+
+
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+lower in the planted wetland (83 CFU/100 mL) than in the unplanted
+control (208 CFU/100 mL) (Jinadasa et al., 2006).
+However, for intermittent fed vertical ﬂow CWs, no signiﬁcant difference in the removal efﬁciency of planted and non-planted in CWs
+was observed by Torrens et al. (2009). These results indicate that the
+presence of macrophytes is of minor importance for the removal of microorganisms in vertical intermittently dosed CWs (Torrens et al.,
+2009). This might be due to the fact that planted and non-planted ﬁlters
+in vertical ﬂow CWs presented the same ﬂow patterns, with similar
+mean HRT, oxygen condition and detention time distribution as determined by tracer measurement. However, there should be more investigations to prove this conclusion.
+For free water surface ﬂow CWs, the role of wetland plants on indicator bacteria removal is different from those in other subsurface ﬂow
+CW systems. MacIntyre et al. (2006) found that the E. coli content decreased when ﬂoating plants (e.g. Lemna sp.) were removed from the
+beds. This suggested that E. coli might survive longer because these
+plants provide attachment sites, UV shading, and reduce surface oxygen
+exchange, which might decrease predator zooplankton populations
+(MacIntyre et al., 2006).
+4.2. Water compositions
+The quality of wastewater will affect their subsequent disinfection
+and the potential for bacteria survival within the CW and in following
+treatments. The regrowth of bacteria can be stimulated by an increase
+in organic concentration and nutrients. Diaz et al. (2010) and
+Gagliardi and Karns (2000) reported a positive correlation between
+indicator bacteria numbers and concentrations of ﬁxed nitrogen compounds, showing that these microbes might survive longer or replicate
+faster in the presence of available nitrogen (Diaz et al., 2010; Gagliardi
+and Karns, 2000). Reduced removal of indicator bacteria was observed
+under conditions of organic- and surfactant-rich water. These compounds are known to reduce bacterial adsorption in porous media by
+competing for adsorption sites (Stevik et al., 2004) and reducing the afﬁnity of bacterial surfaces for adsorption (Brown and Jaffé, 2001).
+Therefore, the interaction of organics and nutrients with indicator bacteria removal is not only dependent on their effect on survival, but
+also on their competition for adsorption sites on substrate surface.
+The removal of suspended solids is also an important factor as particulate matter could shield fecal indicator bacteria from disinfection
+(Winward et al., 2008b). Moreover, the size and density of the particles
+and associated bacteria in each wastewater type will also affect the
+resulting rate of removal due to settling. For example; if E. coli is
+adsorbed to small light-weight organic particles, sedimentation might
+be negligible, however, if E. coli is associated with larger, denser inorganic particles, sedimentation will likely be signiﬁcant (Boutilier et al.,
+2009).
+Experiments were conducted using two different types of wastewater to examine how efﬂuent characteristics inﬂuence speciﬁc mechanisms for E. coli removal (Boutilier et al., 2009). E. coli survived longer
+in dairy wastewater because of the higher nutrient and solids concentrations. Nutrients provide resources for microorganism metabolism
+and solids content has been shown to increase bacteria survival
+(Boutilier et al., 2009; Howell et al., 1996). The linear relationship between pollutant loading and removal rate of indicator bacteria was
+also investigated by Tunçsiper et al. (2012) in a pilot-scale combined
+CW system. Statistical analyses conﬁrmed the existence of these relationships and implied that coliforms removal rate depends on the loading rate and strength of the wastewater.
+CWs have been shown to improve the quality of treated wastewater.
+However, considering the inﬂuence of water compositions on the removal of indicator bacteria, the capacity of CWs to reduce indicator bacteria under normal operating conditions cannot be extrapolated to
+periods of incidental peak discharges. The buffering capacity of CWs
+during peak discharges is potentially a key factor affecting quality in
+
+13
+
+receiving waters. Mulling et al. (2013) investigated the removal of pathogenic organisms and the behavior of concentration-peak discharges of
+suspended particles from a wastewater treatment plant (WWTP) in a
+full-scale free water surface ﬂow CW (Mulling et al., 2013). Their results
+showed a lower buffering capacity for pathogens (40–84%) during peak
+discharges, indicating differences between the removal processes of
+suspended particles and pathogens. Suspended particles were probably
+mostly removed by sedimentation and mineralization, while pathogens
+were more likely removed by bioﬁlm detainment and mortality including predation.
+4.3. Hydraulic regime
+Wetland hydraulic regime has a direct effect on bacterial removal
+mechanisms. In free water surface ﬂow CWs, the hydraulic conductivity
+of both the gravel bed and the rhizosphere zone is negligible (García
+et al., 2008). The main role of macrophytes in free water surface ﬂow
+CWs appears to be to provide an extra surface for the development of
+bioﬁlm on the plant-submerged parts (Kadlec and Wallace, 2009).
+However, in subsurface ﬂow systems, the hydraulic conductivity of
+the substrate is an important design parameter that needs to be taken
+into account. García et al. (2008) observed relatively higher removal
+rates (5 × 108 CFU/m2/d for FC, 5 × 107 CFU/m2/d for FS, 5.7 ×
+107 CFU/m2/d for ST and 1.9 × 107 CFU/m2/d for CLP) in subsurface horizontal ﬂow CWs than in free water CWs, with the exception of TC,
+which was removed more efﬁciently by free water CWs (1.7 ×
+1010 CFU/m2/d) (García et al., 2008). No difference in removal performance was reported between vertical and horizontal ﬁlters (Ulrich
+et al., 2005).
+Alternate drying and wetting cycle subjects the wetland system to
+alternate saturated and unsaturated ﬂow regimes, which results in
+moisture variation within the system. These ﬂuctuations in moisture
+proﬁle have been shown to affect pathogen removal rates in CWs
+(Kadam et al., 2008). Moreover, rapid drainage might enhance atmospheric oxygenation of the treatment bed, creating a better condition
+for bioﬁlm development. Tunçsiper et al. (2012) determined average
+coliforms bacteria removal before and after rapid drainage, and found
+that the average FC and TC removal efﬁciencies of the bed were increased approximately between 2 to 4% after rapid drainage. This result
+suggested that the bed might be better ventilated upon rapid drainage
+(Tunçsiper et al., 2012). However, this effect of rapid drainage on pathogen removal was not statistically signiﬁcant.
+Hydraulic overloading of the treatment system could reduce the
+removal efﬁciency of FC, potentially due to decreased adsorption to
+the bioﬁlm. That could also explain that increased precipitation and
+ﬂows could hinder microorganism removal (Pundsack et al., 2001).
+Malfunctions (clogging and freezing of inlet pipes) could lead to hydraulic short circuits that bypass soil ﬁltration and consequently result
+in a reduction or even a collapse of removal performance (Ulrich et al.,
+2005).
+Although recirculation of the efﬂuent could alter the hydraulic regime, it did not appear to inﬂuence fecal indicator bacteria removal performance. The effect of recycling of ﬁnal efﬂuent to the second bed was
+also evaluated in a pilot-scale VF + HF + VF three stage combined CW
+system (Tunçsiper et al., 2012). During loadings with and without
+recycling, the average percent removals of FC and TC were approximately at the same levels at both the ﬁrst and second bed. Furthermore,
+analysis of variance showed that recycling had no effect on the elimination of coliforms bacteria. These results are in agreement with those of
+Arias et al. (2003).
+4.4. Hydraulic retention time
+The importance of hydraulic retention time (HRT) on indicator bacteria removal in CWs has been demonstrated by the fact that longer
+HRTs increase bacteria exposure to removal processes, such as
+
+
+
+14
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+sedimentation, adsorption to organic matter, predation, impact of
+toxins from microorganisms or plants, and UV radiation (Diaz et al.,
+2010). HRT depends on various factors including vegetation, texture of
+the substrate (the porous media), water depth, and ﬂow velocities in
+the CW (Kansiime and van Bruggen, 2001). It has been well recognized
+that inefﬁciencies in hydraulics are a major barrier to optimize the removal of pathogens in CWs. Short-circuiting can result in water having
+a range of residence times in wetlands and reduce their treatment efﬁciencies. This is especially detrimental for wetlands designed to remove
+waterborne pathogens, which require reduction in a concentration of
+several orders of magnitude and thus are severely compromised by
+even a modest amount of short-circuiting (Jasper et al., 2013). To demonstrate this point, consider a wetland that is designed to provide 4-log
+removal (99.99%) of an indicator microbe under ideal plug ﬂow conditions. If just 20% of the ﬂow has one-eighth of the nominal residence
+time, as observed by Lightbody et al. (2008) in a recently constructed
+wetland, the actual removal will be only about 1-log (90%) (Lightbody
+et al., 2008).
+Sawaittayothin and Polprasert (2007) reported a positive correlation
+between fecal indicator removal and HRTs in a horizontal subsurface
+ﬂow CW (Table 2). Tunçsiper et al. (2012) also found that an increase
+in HRT considerably affects the removal efﬁciency for both FC and TC.
+The relationships between HRT and average removals were shown to
+be polynomial (Tunçsiper et al., 2012). Removal performances increased during the ﬁrst three days of operation, and then started to decrease. It has been reported that microbial inactivation reaches
+saturation values when HRT is approximately three days (García et al.,
+2003). Moreover, this trend might be related to the assumption that
+ﬁrst-order microbial decay is irrelevant as HRT rises (Kadlec and
+Wallace, 2009).
+In the study by Tanner et al. (1995) already mentioned in
+Section 4.1, an HRT of 7 days was about twice as effective in coliforms
+removal as compared to an HRT of 2 days. In horizontal subsurface
+ﬂow CWs cultivated with Typha angustifolia and operating at HRT of
+1.5, 3, 5 and 6 days, removals of TC were 0.8, 1.7, 2.3 and 2.4 log10
+CFU/100 mL, respectively (Khatiwada and Polprasert, 1999). Solano
+et al. (2004a, 2004b) obtained removals of E. coli of 1.3 and 1.1 log10
+CFU/100 m, respectively, in horizontal subsurface ﬂow CWs cultivated
+with P. australis and operating at HRT of 3.0 and 1.5 days (Solano
+et al., 2004b). In addition, Diaz et al. (2010) investigated treatment of
+agricultural runoff in four surface ﬂow CWs with different HRTs and
+found a strong relationship between removal efﬁciency and HRTs. In
+contrast, the relationship between removal efﬁciency for enterococci
+and HRTs was not clear (Diaz et al., 2010).
+Solano et al. (2004a, 2004b) evaluated the treatment performance of
+a pilot-scale horizontal subsurface-ﬂow CW. Their results demonstrated
+that during the ﬁrst year, there was no signiﬁcant relationship between
+the removal of TC, FC and FS from raw municipal wastewater and hydraulic application rate. However, in the second year of wetland operation, the best removal efﬁciency was found in those beds with the
+lowest hydraulic application rate (75 mm day−1) and the longest retention times (3 days). These results also indicated that HRT is an important
+Table 2
+Removal performance of total coliforms (TC) and fecal coliforms (FC) at various hydraulic
+retention times (HRTs) in a horizontal subsurface ﬂow CW (Sawaittayothin and
+Polprasert, 2007).
+
+factor inﬂuencing bacterial inactivation, particularly in long-term
+operation (Solano et al., 2004a). Considering the better performance
+of fecal indicator bacteria removal at longer HRT, a buffered horizontal
+subsurface ﬂow CWs as shown in Fig. 3 appears to be a promising approach for bacteria removal.
+Regarding vertical ﬂow intermittently dosed CWs, Torrens et al.
+(2009) demonstrated that ﬁlters with a depth of 65 cm facilitated significantly higher removal of bacterial and viral indicators than those of
+25 cm (p b 0.05). Tracer tests showed that water ﬂowed faster through
+the ﬁlters with a depth of 25 cm than through those of 65 cm. It is remarkable that a depth increase of only 40 cm resulted in an augmentation of the mean residence times by 3 to 5 h (Torrens et al., 2009).
+Moreover, a correlation between the log removal of FC and the mean
+HRT was found. In addition, a second correlation between the removal
+rates and a minimum retention time was demonstrated (Fig. 4). Although both parameters had a signiﬁcant effect on FC removal (p b
+0.05), a better correlation was found with minimum retention time.
+The use of minimum retention time instead of mean retention time is
+more appropriate for predicting microorganism removal based on the
+breakthrough curves in unsaturated ﬁlters. The minimum retention
+time would better represent the fraction of the dose applied that spends
+the least time in the vertical ﬁlters (Torrens et al., 2009).
+
+4.5. Filter media
+Redder et al. (2010) investigated the inﬂuence of two different ﬁlter
+materials on the removal of protozoan pathogens, C. oocysts and Giardia
+cysts. In their experiment, 7 pilot scale subsurface ﬂow CWs, including
+both vertical and horizontal ﬂow types, were ﬁlled with washed sand
+(grain size, 0–2 mm), while 7 other wetlands were ﬁlled with a mixture
+of expanded clay and sand, of grain size of 2–4 mm and 0–2 mm, respectively. Their results indicated that ﬁltering of wastewater was the main
+effective mechanism of reducing protozoan parasites. The removal of C.
+oocysts and Giardia cysts, however, seemed to be independent of the ﬁlter types used. However, small particle sizes (0–2 mm sand particles)
+appeared to favor bacteria reduction. Likewise, Tanner et al. (2012) observed better elimination of E. coli in a vertical ﬂow bed ﬁlled with ﬁne
+sand as compared to a bed ﬁlled with coarser gravel (3.2 versus 1.9 log10
+CFU/100 mL removal). Therefore, physical processes like adsorption, ﬁltration and sedimentation associated with particle size are apparently
+important factors.
+The role of granular medium in removal of FC and somatic coliphages was investigated in four parallel horizontal subsurface ﬂow
+CWs, each one containing a different type of granular medium. Microbial inactivation ratio ranged between 0.1 and 2.7 log10 CFU/100 mL for FC
+and 0.5 to 1.7 log10 CFU/100 mL for somatic coliphages in beds with
+coarser granular material (5–25 mm), while it ranged between 0.7
+and 3.4 log10 units for FC and from 0.9 to 2.6 log10CFU/100 mL for somatic coliphages in beds with ﬁner material (2–13 mm) (García et al.,
+2003). Torrens et al. (2009) also found no signiﬁcant difference
+(p N 0.05) between two kinds of sand (crushed and river) in microbial
+indicator removal in vertical ﬂow intermittent dosed CWs. These results
+indicated that if the particle size distribution is suitable, the use of
+
+HRTs (d)
+Pathogens
+TC
+
+FC
+
+Inﬂow
+Outﬂow
+Removal (%)
+Inﬂow
+Outﬂow
+Removal (%)
+
+1
+
+3
+
+5
+
+8
+
+1674
+461
+72.5
+677
+247
+63.5
+
+1233
+123
+90.1
+275
+32
+88.5
+
+1330
+75
+94.3
+208
+11
+94.5
+
+19763
+68
+99.7
+241
+b2
+99.2
+
+TC and FC unit for the inﬂow and outﬂow is MPN number of 100 ml.
+
+Fig. 3. Schematic diagram of buffered horizontal subsurface ﬂow CWs for wastewater
+treatment.
+
+
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+15
+
+Fig. 4. Fecal coliforms (FC) removal (Ulog) plotted against minimum hydraulic retention time (HRT) and mean HRT (Torrens et al., 2009).
+
+alluvial material is not indispensable. Sand from quarries might also be
+used after crushing and sieving (Torrens et al., 2009).
+4.6. Oxygen
+Previous studies have correlated increased dissolved oxygen with
+bacterial die-off in aquatic environment (Fernández et al., 1992;
+Pearson et al., 1987). Fernández et al. (1992) have reported 8–10 fold increase in bacterial die-off rate constant for TC, FC, FS and CLP in response
+to short aeration treatment (2 h per day) in aquatic environment.
+Winward et al. (2008a, 2008b) observed a higher performance of bacteria removal in vertical ﬂow CWs as compare to that in horizontal ﬂow
+CWs, indicating that aerobic unsaturated removal pathways might be
+more appropriate for bacteria removal in cases of gray water treatment
+(Winward et al., 2008a). Recently, an intensive comparison of E. coli removal in different types of CWs all fed with the same inﬂuent revealed a
+remarkable performance of an aerated system (Headley et al., 2013).
+The precise effect of oxygen in such aerated systems remains to be
+elucidated.
+4.7. Solar intensity
+Sunlight-mediated inactivation is one of the most important disinfection mechanisms in pathogen removal in free water surface ﬂow
+CWs. Higher solar intensity provides higher UV radiation and thus promotes pathogen removal performance. However, for subsurface ﬂow
+CWs including horizontal subsurface ﬂow CWs and vertical subsurface
+ﬂow CWs, the effect from solar intensity is negligible, due to the unexposed wastewater under-ﬂow in the wetland beds. Mayo (2004) developed a model describing the kinetics of coliforms mortality and removal
+in free water surface CWs. Their results showed that bacterial mortality
+rate constant was largely inﬂuenced by sunlight intensity, which was
+responsible for 72.6% of removal (Mayo, 2004). The importance of
+sunlight-mediated disinfection in surface ﬂow treatment wetlands
+was also illustrated when E. coli concentrations declined signiﬁcantly
+after a thick bed of ﬂoating duckweed (Lemna sp.) had been removed
+from a newly constructed surface ﬂow wetland (MacIntyre et al.,
+2006). A better understanding of the sunlight-mediated inactivation
+mechanisms and their roles in bacteria removal is needed to optimize
+the design and to enable prediction of the fate of bacteria in surface
+ﬂow CWs (Jasper et al., 2013).
+4.8. pH
+The low pH in some CWs could also result in a faster die-off of FC.
+These microbes have been reported to survive better at pH values between 5.5 and 7.5, and survival rapidly decline at pH above and below
+this range (McFeters and Stuart, 1972; Šolić and Krstulović, 1992).
+Most pH values in wetland efﬂuents fall within this optimal range, however, CWs efﬂuent with low pH also exists due to e.g. high rates of bacterial nitriﬁcation of ammonium in the ﬁlter bed and high levels of
+natural humic and tannic acids, which are also known to process antiviral effects (Olson et al., 2004). Cases of low pH were reported by
+
+Pundsack et al. (2001), i.e. in the range of 3.9 to 6.9, and 3.7 to 4.7, respectively, due to the aforementioned rapid nitriﬁcation process and
+acids production. This low pH was shown to contribute to greater Salmonella reduction rates (Pundsack et al., 2001). Moreover, diurnal pH
+shifts induced by algal photosynthesis in lagoon and/or lakes has well
+been shown to be a major factor driving pathogen removal, but quantitative evaluation in free water surface ﬂow CWs was less reported.
+4.9. Seasonal ﬂuctuation
+With regards to seasonal ﬂuctuation, some authors have observed
+higher removal efﬁciencies of indicator bacteria in CWs during warm
+seasons (Elhamouri et al., 1994; Karathanasis et al., 2003) whereas
+others found no seasonal changes (García et al., 2008; Tunçsiper et al.,
+2012). Thus seasonal ﬂuctuation on bacteria removal in CWs might
+not only be related to temperature but also to the status of plants. Temperature is generally acknowledged to be an important factor in determining pathogens survival in the environment (Blanc and Nasser,
+1996). As temperature increases, bacterial and protozoan metabolic
+processes accelerate, predation increases, and degradative enzymes
+produced by plants, fungi or bacteria could degrade faster viral capsids
+and damage viral DNA or RNA (Olson et al., 2004). Winward et al.
+(2008a) reported that seasonal temperature changes could strongly inﬂuence the removal of indicator bacteria in horizontal ﬂow CWs, in
+which bacteria removal increased as temperature increased. However,
+temperature did not affect bacteria removal performance in vertical
+ﬂow CWs. The effect of seasonal temperature change indicates that inactivation of microorganisms in horizontal ﬂow CWs, similar to physical
+adsorption or ﬁltration, is also a key mechanism for bacteria removal.
+This inactivation of bacteria within CWs apparently occurs apparently
+through competition for nutrients and exposure to inhibitory secretions
+from other bacteria (Stevik et al., 2004), virus-induced lysis (Fischer
+et al., 2006), and predation by protozoa (Decamp and Warren, 1998).
+The ﬁrst order inactivation rate constants for E. coli within the CWs
+were calculated to be 0.09 d− 1 at 7.6 °C to 0.18 d−1 at 22.8 °C
+(Boutilier et al., 2009). The associated temperature correction coefﬁcient (q) was computed to be 1.05, which indicates strong temperature
+dependence. Ulrich et al. (2005) found that when comparing a summer
+operation vs. a winter operation CWs, higher wastewater temperatures
+could improve the removal performance by about 1 log10 CFU/100 mL,
+provided that other factors (e.g., microorganism concentrations,
+hydraulic loading/overloading) do not affect the annual variation pattern. In addition, the seasonal treatment efﬁciency of a pilot-scale CW
+system with a free water surface bed followed by a horizontal subsurface ﬂow bed, which was located outdoor in a semi-arid, temperate
+climate, was evaluated for greywater treatment in a 1-year study. The
+results showed that the wetland substantially removed more E. coli
+(1.7 log10CFU/100 mL) in fall, spring, and summer, than in winter
+(1.0 log10 CFU/100 mL) (Jokerst et al., 2011).
+Typically, the rate of E. coli inactivation increases with warmer temperatures and increased UV radiation during the summer months
+(Easton et al., 2005). However, Quiñónez-Díaz et al. (2001) indicated
+that shading provided by vegetation might reduce exposure to UV
+
+
+
+16
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+light in the warm seasons and might decrease the removal of microorganisms in free water surface ﬂow CWs (Quiñónez-Díaz et al., 2001).
+MacIntyre et al. (2006) also suggested that E. coli might survive longer
+when ﬂoating plants are present since these plants could provide
+attachment sites, UV shading, and reduce surface oxygen exchange,
+which would decrease the predatory zooplankton populations
+(MacIntyre et al., 2006). Moreover, a positive correlation between
+the incidence of total and FC versus temperature was reported by
+Thurston et al. (2001) for subsurface ﬂow systems. Their results indicated that the concentration of coliforms bacteria increased concomitantly
+with an increase in temperature. However, the increase in both TC and
+FC in the summer compared to that in the winter months might have
+occurred as a result of animal activity, seasonal variation in plant
+growth, or proliferation of coliforms within the wetland (Thurston
+et al., 2001). Notably, seasonal effects could also be related to the rainfall
+pattern and in many tropical countries this may be largely inﬂuenced by
+the monsoonal system. In summer seasons, microorganism concentrations could be strongly diluted during intense precipitation events or inﬂow of water from other sources, leading to lower removal rates and
+consequently reducing the performance of CWs.
+
+5. Overall performance
+As summarized in Table 3 and Table 4, the majority of published
+studies investigated bacteria removal in either free water surface ﬂow
+CWs or horizontal subsurface ﬂow CWs. Both types of CWs have the potential to remove substantial quantities of fecal indicator bacteria. Based
+on the data collected from Tables 3, 4 and 5, the removal of the fecal indicator bacteria such as TC, FC, E. coli, FS, C. perfringens and staphylococci
+appears to be exponentially related to the loading rate (Fig. 5). However, a single stage CW is usually not enough for reaching the standards
+recommended for wastewater reuse (Galvão et al., 2009). Therefore, it
+has been suggested that combining different wetland based systems
+might increase indicator bacteria removal rates (García et al., 2013).
+
+Table 5 summarizes the removal performance for E. coli, TC and FC in
+various reported combinations/trains of free water CWs, vertical ﬂow and
+horizontal ﬂow CWs. Based on the data collected in Tables 3, 4 and 5, the
+averages of these fecal indicator bacteria reduction after the wastewater
+ﬂow through these three type CWs were calculated and depicted in Fig.
+6. Generally, horizontal subsurface ﬂow CWs have better capacity than
+free water surface ﬂow CWs for the removal of E. coli (+1.1 log10 CFU/
+100 mL), FC (+0.2 log10 CFU/100 mL), FS (+0.9 log10 CFU/100 mL),
+C. perfringens (+0.6 log10 CFU/100 mL) and staphylococci (+0.8 log10
+CFU/100 mL), with the exception of TC (− 0.9 log10 CFU/100 mL). As
+compared to horizontal ﬂow CWs, the combined CWs could further improve the removal of E. coli, TC and FC by 1.5, 1.2, 0.3 log10 CFU/100 mL,
+respectively. Although the combination of different type of CWs in one
+train signiﬁcantly increases the reduction of pathogens, the level of
+pathogen in the efﬂuent of these CWs is still higher than acceptable
+for most reuse regulations (García et al., 2013). As shown in Table 6,
+WHO (1989) guidelines for the safe use of wastewater in agriculture
+took into account of fecal coliforms to be less than 1000 CFU/100 mL
+for food crops eaten raw. USEPA and USAID (1992) recommended
+even much stricter guidelines for wastewater reuse in the USA. For irrigation of crops likely to be eaten uncooked, no detectable FC/100 mL are
+allowed.
+Thus, for many potential application sites where no more space
+would be economically available for increasing the wetland dimensions,
+either further improvements of the wetland technology or a combination with subsequent treatment of the wetland efﬂuent are needed to
+eliminate the health risks associated with wastewater used for crop irrigation and landscaping (Richter and Weaver, 2003b). Aeration of the
+wetland bed, as one mode of treatment intensiﬁcations, appears to be
+a promising approach (Headley et al., 2013). In an aerated horizontal
+ﬂow CW a 3.3 log10 CFU reduction per 100 mL of E. coli was achieved
+whereas non-aerated horizontal ﬂow CWs had a log10 CFU reduction/
+100 mL of around 1.4.
+Alternatively, chemical or physical disinfection methods may be
+used to Polish wetland efﬂuents. The principal advantage of employing
+
+Table 3
+Performance of indicator bacteria removal in free water surface ﬂow CWs.
+Scale Area
+(m2)
+
+Plants
+
+TC
+
+Columbia
+Canada
+Turkey
+Turkey
+Spain
+
+Full
+Full
+Pilot
+Pilot
+Pilot
+
+37 ha
+100
+150
+150
+3.3
+
+FC
+
+Spain
+Spain
+USA
+
+Pilot
+Full
+Full
+
+3.3
+297.5
+5000
+
+USA
+
+Full
+
+2412
+
+Spain
+
+Pilot
+
+3.3
+
+Spain
+Spain
+Spain
+
+Pilot
+Full
+Pilot
+
+3.3
+297.5
+3.3
+
+USA
+
+Full
+
+5000
+
+ST
+
+Spain
+Spain
+
+Pilot
+Pilot
+
+3.3
+3.3
+
+CLP
+
+Spain
+Spain
+
+Pilot
+Pilot
+
+3.3
+3.3
+
+Spain
+USA
+
+Pilot
+Full
+
+3.3
+5000
+
+Typha latifolia
+Typha latifolia
+Cyperus sp.
+Cyperus sp.
+Typha sp., Iris sp., Phragmites sp.,
+Scirpus sp.
+Unplanted
+Typha latifolia; Iris pseudacorus
+Typha domingensis, Scirpus validus,
+Phragmites australis
+Sparganium americanum, Typha
+angustifolia, Typha latifolia
+Typha sp., Iris sp.,
+Phragmites sp., Scirpus sp.
+Unplanted
+Typha latifolia; Iris pseudacorus
+Typha sp., Iris sp.,
+Phragmites sp., Scirpus sp.
+Typha domingensis, Scirpus validus,
+Phragmites australis
+Unplanted
+Typha sp., Iris sp.,
+Phragmites sp., Scirpus sp.
+Unplanted
+Typha sp., Iris sp.,
+Phragmites sp., Scirpus sp.
+Unplanted
+Typha domingensis, Scirpus validus,
+Phragmites australis
+
+Pathogens Place
+
+EC
+
+FS
+
+HRT(d) Wastewaters
+
+Log10
+
+References
+
+In
+
+Out
+
+Reduction
+
+4.3
+4.9
+3.11
+3.0
+3.82
+
+2
+25
+3.8
+12
+3
+
+Efﬂuent from WWTP
+Domestic
+Tertiary
+Tertiary
+Domestic
+
+5.26
+6.6
+4.47
+4.19
+6.7
+
+0.96
+1.9
+1.36
+1.19
+4.46
+
+Kadlec et al. (2010)
+Boutilier et al. (2010)
+Ayaz (2008)
+Ayaz (2008)
+García et al. (2008)
+
+3
+1.1
+5
+
+6.7
+3.72 3.48
+7.55 6.54 1.01
+5.2
+5.15 0.05
+
+García et al. (2008)
+Ansola et al. (2003)
+Karpiscak et al. (2001)
+
+5.38 3.38 2
+
+Hill and Sobsey (2001)
+
+3
+
+Domestic
+Municipal
+Dairy water after anaerobic lagoons
+and aerobic ponds
+Swine water from anaerobic lagoon
+with 1:1 dilution
+Domestic
+
+5.8
+
+3.09 3.41
+
+García et al. (2008)
+
+3
+1.1
+3
+
+Domestic
+Municipal
+Domestic
+
+5.8
+3.65 2.46
+5.79 5.75 0.04
+4.8
+2.32 3.17
+
+García et al. (2008)
+Ansola et al. (2003)
+García et al. (2008)
+
+5
+
+4.84 4.26 0.58
+
+Karpiscak et al. (2001)
+
+3
+3
+
+Dairy water after anaerobic lagoons
+and aerobic ponds
+Domestic
+Domestic
+
+4.8
+4.9
+
+2.62 2.94
+2.66 1.15
+
+García et al. (2008)
+García et al. (2008)
+
+3
+3
+
+Domestic
+Domestic
+
+4.9
+4.7
+
+2.54 1.26
+2.36 2.63
+
+García et al. (2008)
+García et al. (2008)
+
+3
+5
+
+Domestic
+Dairy water after anaerobic lagoons
+and aerobic ponds
+
+4.7
+6.2
+
+2.26 2.33
+6.11 0.09
+
+García et al. (2008)
+Karpiscak et al. (2001)
+
+Note: TC: total coliforms; FC: fecal coliforms; EC: Escherichia coli; FS: fecal streptococci; CLP: Clostridium perfringens; ST: staphylococci.
+
+
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+17
+
+Table 4
+Performance of indicator bacteria removal in horizontal subsurface ﬂow CWs.
+Pathogens Place
+
+Scale Area
+(m2)
+
+Plants
+
+HRT(d) Wastewaters
+
+Log10
+In
+
+References
+Out
+
+Reduction
+
+EC
+
+UK
+
+Lab
+
+0.29
+
+Typha latifolia
+
+2–3
+
+Primary treated wastewater
+
+7–8
+
+Full
+Full
+Pilot
+Pilot
+Pilot
+
+75
+400
+150
+150
+24
+
+Phragmites australis
+Phragmites australis
+Cyperus sp.
+Cyperus sp.
+
+10
+
+TC
+
+Italy
+Portugal
+Turkey
+Turkey
+USA
+
+Dairy + domestic
+Domestic
+Tertiary wastewater
+Tertiary wastewater
+Domestic wastewater
+
+6.04
+6.2
+4.47
+4.19
+5.9
+
+3.48
+4.0
+3.21
+2.84
+4.3
+
+2.56
+2.2–2.5
+1.26
+1.35
+1.6
+
+USA
+
+Pilot
+
+21–30
+
+Domestic wastewater
+
+5.9
+
+5.1
+
+0.8
+
+FC
+
+FS
+
+ST
+CLP
+
+1.6
+1.6
+
+2.20–3.42
+
+Colombia Pilot
+
+6.6
+
+Eriochloa aristata
+
+3
+
+Sanitary wastewater
+
+4.97 3.18 1.79
+
+Arizona
+Arizona
+Spain
+Portugal
+Spain
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+
+Full
+Full
+Pilot
+Full
+Pilot
+Full
+Full
+Full
+Full
+Full
+Full
+Full
+Full
+Pilot
+
+5.9
+80.3
+2.2
+400
+1.1
+22.5
+37.8
+32.4
+32.4
+32.4
+32.4
+32.4
+22.5
+24
+
+Scirpus sp.
+Scirpus sp., Typha sp.
+Scirpus lacustris
+Phragmites australis
+Unplanted
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+
+5
+5
+3
+
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+
+5.6
+5.7
+6.7
+6.57
+6.7
+6.5
+6.7
+6.6
+6.1
+7.3
+6.5
+6.5
+7.1
+4.8
+
+3.9
+3.2
+4.64
+4.18
+5.19
+5.3
+5.3
+5.4
+5.6
+5.4
+5.3
+5.1
+5.1
+2.6
+
+1.7
+2.5
+2.7
+2.4
+1.68
+1.2
+1.4
+1.2
+0.5
+1.9
+1.2
+1.4
+2
+2.2
+
+USA
+
+Pilot
+
+21–30
+
+Domestic wastewater
+
+5.3
+
+3.6
+
+1.7
+
+Spain
+Arizona
+Arizona
+Colombia
+
+Full
+Full
+Full
+pilot
+
+362.5
+5.9
+80.3
+6.6
+
+Salix atrocinerea
+Scirpus sp.
+Scirpus sp., Typha sp.
+Eriochloa aristata
+
+1
+5
+5
+3
+
+Municipal wastewater
+Domestic wastewater
+Domestic wastewater
+Sanitary wastewater
+
+6.54
+5.1
+5.6
+4.94
+
+5.56
+3.5
+2.3
+3.56
+
+0.98
+1.6
+3.3
+1.38
+
+UK
+
+Lab
+
+0.29
+
+Typha latifolia
+
+3
+
+Primary treated wastewater
+
+6–7
+
+Spain
+Spain
+Portugal
+Egypt
+
+Pilot
+Pilot
+Full
+Full
+
+1.1
+1.1
+400
+200
+
+Scirpus lacustris
+Unplanted
+Phragmites australis
+Phragmites australis
+
+3
+3
+
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+
+5.8
+5.8
+6.2
+8.95
+
+3.88
+4.00
+4.08
+3.48
+
+2.88
+1.84
+2.5
+5.47
+
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+USA
+
+Full
+Full
+Full
+Full
+Full
+Full
+Full
+Full
+
+22.5
+37.8
+32.4
+32.4
+32.4
+32.4
+32.4
+22.5
+
+2
+2
+2
+2
+2
+2
+2
+2
+
+3.8
+4
+3.8
+5.1
+4.8
+5.3
+4.3
+4
+
+1.8
+1.4
+2.4
+0.4
+2
+0.8
+0.9
+2.8
+
+Full
+
+1250
+
+Australia
+Australia
+Australia
+Australia
+Spain
+Spain
+Spain
+Egypt
+
+Full
+Full
+Full
+Full
+Full
+Pilot
+Pilot
+Full
+
+362.5
+1.1
+1.1
+200
+
+3
+3
+7
+
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater after 2
+pretreatment tanks
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Municipal wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+
+5.6
+5.4
+6.2
+5.5
+6.8
+6.1
+5.2
+6.8
+
+USA
+
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Mixed ornamental plants
+Typha latifolia, Typha domingensis, Scripus
+acutus, Phragmites communis
+Phragmites australis
+Phragmites australis
+Phragmites australis
+Phragmites australis
+Salix atrocinerea
+Scirpus lacustris
+Unplanted
+Phragmites australis
+
+5.68
+5.20
+5.32
+6.15
+5.75
+4.8
+4.8
+6.78
+
+2.98
+4.32
+2.62
+4.75
+3.75
+2.27
+3.22
+2.3
+
+2.7
+0.88
+2.7
+1.4
+2.0
+3.00
+2.08
+4.48
+
+Spain
+Spain
+Spain
+Spain
+
+Pilot
+Pilot
+Pilot
+Pilot
+
+1.1
+1.1
+1.1
+1.1
+
+Scirpus lacustris
+Unplanted
+Scirpus lacustris
+Unplanted
+
+3
+3
+3
+3
+
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+Domestic wastewater
+
+4.9
+4.9
+4.7
+4.7
+
+2.93
+3.62
+1.76
+2.37
+
+2.25
+1.68
+3.42
+2.79
+
+3
+2
+2
+2
+2
+2
+2
+2
+2
+
+7
+
+6.5
+9.1
+7.1
+4.5
+5.7
+
+2.34–3.11
+
+6.18 4.28 1.9
+
+Neralla and Weaver
+(2000)
+Mantovi et al. (2003)
+Galvão et al. (2009)
+Ayaz (2008)
+Ayaz (2008)
+Richter and Weaver
+(2003a)
+Richter and Weaver
+(2003a)
+Caselles-Osorio et al.
+(2011)
+Nokes et al. (2003)
+Nokes et al. (2003)
+García et al. (2008)
+Galvão et al. (2009)
+García et al. (2008)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Richter and Weaver
+(2003a)
+Richter and Weaver
+(2003a)
+Ansola et al. (2003)
+Nokes et al. (2003)
+Nokes et al. (2003)
+Caselles-Osorio et al.
+(2011)
+Neralla and Weaver
+(2000)
+García et al. (2008)
+García et al. (2008)
+Galvão et al. (2009)
+Abdel-Shafy and
+El-Khateeb (2013)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Neralla et al. (2000))
+Neralla et al. (2000)
+Neralla et al. (2000)
+Neralla et al. (2000)
+Dahab and Surampalli
+(2001)
+Davison et al. (2001)
+Davison et al. (2001)
+Davison et al. (2001)
+Davison et al. (2001)
+Ansola et al. (2003)
+García et al. (2008)
+García et al. (2008)
+Abdel-Shafy and
+El-Khateeb (2013)
+García et al. (2008)
+García et al. (2008)
+García et al. (2008)
+García et al. (2008)
+
+Note: TC: total coliforms; FC: fecal coliforms; EC: Escherichia coli; FS: fecal streptococci; CLP: Clostridium perfringens; ST: staphylococci.
+
+those methods in combination with the CW technology rather than as
+stand-alone units is that the reduced total suspended solid (TSS) level
+in CW efﬂuent improves their operational effectiveness. Water with
+lower amounts of TSS requires lower chlorination. Indeed, investigations from Verlicchi et al. (2012) indicate that it is possible to reduce
+the dosage of NaClO in a combined disinfection system including a
+
+mild chlorination and a CW; and Azaizeh et al. (2013) also showed
+the possibility of satisfactory removal of enteric pathogens from gray
+water by an integrated system combining CW and UV disinfection system. Likewise the efﬁciency of UV light disinfection depends on the
+wastewater's transmittance. High transmittance demands low TSS concentration due to particles reﬂection of UV light that causes lower
+
+
+
+18
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+Table 5
+Performance of indicator bacteria removal in integrated CWs train.
+Pathogens
+
+EC
+
+TC
+
+FC
+
+Type
+
+VF + HF
+HF + VF
+FW + HF
+VF + HF + VF
+HF + HF
+VF + VF
+VF + HF
+VF + HF
+HF + SF
+HF + VF
+FW + HF
+VF + HF + VF
+HF + HF
+VF + VF
+VF + HF
+VF + HF
+HF + FW
+HF + 2FW
+
+Place
+
+Colombia
+Italy
+Spain
+Turkey
+Colombia
+Colombia
+Colombia
+Colombia
+Spain
+Italy
+Spain
+Turkey
+Colombia
+Colombia
+Colombia
+Colombia
+Spain
+Turkey
+
+Scale
+
+Lab
+Full
+full
+Pilot
+Lab
+Lab
+Lab
+Lab
+Full
+Full
+full
+Pilot
+Lab
+Lab
+Lab
+Lab
+Full
+Pilot
+
+Area (m2)
+
+0.24 + 0.24
+160 + 180
+44 + 585
+13.5
+0.24 + 0.24
+0.24 + 0.24
+0.24 + 0.24
+0.24 + 0.24
+36 + 36
+160 + 180
+44 + 585
+13.5
+0.24 + 0.24
+0.24 + 0.24
+0.24 + 0.24
+0.24 + 0.24
+36 + 36
+150 + 150 + 52
+
+Plants
+
+Wastewaters
+
+Cyperus sp.
+Phragmites sp.
+Typha latifolia Salix atrocinerea
+Iris sp., Phragmites sp.
+Cyperus sp.
+Cyperus sp.
+Cyperus sp.
+Cyperus sp.
+Juncus sp.
+Phragmites sp.
+Typha latifolia, Salix atrocinerea
+Iris sp., Phragmites sp.,
+Cyperus sp.
+Cyperus sp.
+Cyperus sp.
+Cyperus sp.
+Juncus sp.
+Cyperus sp., Lemna minor
+
+Domestic sewage
+Hotel wastewater
+Domestic sewage
+Septic wastewater
+Domestic sewage
+Domestic sewage
+Domestic sewage
+Domestic sewage
+Domestic sewage
+Hotel wastewater
+Domestic sewage
+Septic wastewater
+Domestic sewage
+Domestic sewage
+Domestic sewage
+Domestic sewage
+Domestic sewage
+Tertiary efﬂuent
+
+Log10
+
+References
+
+In
+
+Out
+
+Reduction
+
+6.97
+6.53
+6.35
+5.15
+7.77
+7.77
+7.77
+7.02
+7.16
+6.9
+6.75
+4.26
+6.81
+6.81
+6.81
+5.92
+6.23
+3.4
+
+2.26
+2.26
+3.23
+2.13
+6.23
+4
+3.91
+3.13
+5.25
+3.58
+4.4
+1.04
+5.41
+3.31
+3
+2.67
+4.12
+2.2
+
+4.71
+4.27
+3.12
+3.02
+1.54
+3.77
+3.86
+3.89
+1.91
+3.32
+2.35
+3.22
+1.4
+3.5
+3.81
+3.25
+2.11
+1.1
+
+García et al. (2013)
+Masi and Martinuzzi (2007)
+Reinoso et al. (2008)
+Tunçsiper et al. (2012)
+García et al. (2013)
+García et al. (2013)
+García et al. (2013)
+García et al. (2013)
+Barros et al. (2008)
+Masi and Martinuzzi (2007)
+Reinoso et al. (2008)
+Tunçsiper et al. (2012)
+García et al. (2013)
+García et al. (2013)
+García et al. (2013)
+García et al. (2013)
+Barros et al. (2008)
+Tuncsiper (2007)
+
+Note: TC: total coliforms; FC: fecal coliforms; EC: Escherichia coli; VF: vertical ﬂow constructed wetlands; HF: horizontal ﬂow constructed wetlands; FW: free water surface ﬂow constructed wetlands.
+
+transmittance (Galvão et al., 2009). Sklarz et al. (2009) reported a combination of a re-circulated vertical ﬂow CW with UV irradiation for enhancing disinfection performance. The results showed that levels of
+E. coli declined from 107 to 104 CFU/100 mL in the re-circulated vertical
+ﬂow CW prior to UV irradiation. Further reduction to level consistent
+with Israeli regulations for urban landscape irrigation of 10 CFU/
+100 mL was achieved after the water was passed through the UV irradiation unit at a minimal contact time of 1.5 min (Sklarz et al., 2009).
+Moreover, the performance of FC and E. coli removal in UV system
+coupled to CWs for gray water treatment in Israel, Jordan and the Palestinian Authority was also demonstrated by Azaizeh et al. (2013). Results
+showed that after reduction of COD load in CWs, FC and E. coli can be signiﬁcantly reduced to the level suitable for irrigation, even when UV
+transmission levels were low (∼40%). However, UV disinfection is not
+always suitable for disinfection of efﬂuent from subsurface ﬂow CWs
+due to the development of coatings like bioﬁlms on the bulbs that
+might block UV light (Richter and Weaver, 2003b). The performance
+
+of UV disinfection after CWs also depends on water quality of wetland
+efﬂuent and might only works efﬁciently when the organics and nutrients, which might limit the fast growth of bioﬁlm on the bulbs, are successfully removed.
+Combining CWs with advanced oxidation processes (AOPs), such as
+photocatalytic ozonation (UV/TiO2/O3), might be another option to disinfect and detoxify wastewaters (Antoniadis et al., 2010; Graﬁas et al.,
+2010). Arends et al. (2014) presented a new concept on a combined system, which aims to maximize the beneﬁts of both CWs and plantmicrobial fuel cell. Electrical power could be generated based on the
+subsequent action of plant photosynthesis, root exudation processes
+and oxidation of organic matters by microorganisms by electron transfer to an anode. Interestingly, the cathode reaction could be tuned towards the production of hydrogen peroxide from air-derived oxygen,
+enabling disinfectant production from wastewater (Modin and
+Fukushi, 2013). However, these combining technologies have not yet
+been demonstrated in full-scale systems.
+6. Conclusions and perspectives
+The reuse of properly treated wastewater has become more attractive due to water shortages and demands of rapidly evolving industrial
+processes in recent years. CWs as environmental friendly ecosystems
+have been widely applied not only for various water pollution controls
+but also for fecal bacteria reduction and presumably human pathogens.
+Although current literature contains a wealth of information on the
+overall removal of indicator bacteria in different types of CWs and suggestions on mechanisms for removal like adsorption, sedimentation and
+predation, the magnitude of the various processes and inﬂuencing factors is still poorly understood due to the complex micro/macro environments in the root zones within CWs. Therefore, further research and
+developments are necessary to increase the efﬁciency of bacteria removal in wastewater. In summary:
+
+Fig. 5. Correlation of main fecal indicator bacteria inﬂow loading and reduction when
+wastewater ﬂows through wetland beds. (TC: total coliforms; FC: fecal coliforms; EC:
+Escherichia coli; FS: fecal streptococci).
+
+▪ Even though some investigations explored the importance of individual sources (Ottosson and Stenström, 2003; Thurston et al.,
+2001; Graczyk et al., 2009a, 2009b), these results were hard to compare and integrate because they were obtained from different wetlands, hydraulic regimes, and environmental conditions. A
+quantitative assessment of these sources in typical CWs would not
+only facilitate better understanding of the removal mechanisms of
+indicator bacteria in CWs, but might also help with the development
+of guidelines for designing disinfection processes.
+
+
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+19
+
+Fig. 6. Average reduction of indicator bacteria in free water surface ﬂow CWs, horizontal subsurface ﬂow CWs and integrated CWs trains. (TC: total coliforms; FC: fecal coliforms; EC:
+Escherichia coli; FS: fecal streptococci; CLP: Clostridium perfringens; ST: staphylococci).
+
+▪ Difﬁculties in exploring the fate of indicator bacteria in CWs are also
+strongly related to the complex interaction networks of abiotic and
+biotic factors. For examples, hydraulic regime could be affected by
+wetland conﬁgurations, and matrix size and distribution, and vegetation density could further inﬂuence hydraulic retention time. Seasonal impact also affects growth of wetland plants and solar
+intensity. These hydraulic related and seasonal related factors
+might simultaneously inﬂuence the overall performance of pathogen and indicator bacteria removal.
+▪ Although the fact that better bacterial removal efﬁciency was observed in most traditional horizontal subsurface ﬂow planted CWs
+than in unplanted control systems, there is no clear evidence of a direct effect of the metabolic activity of macrophytes on bacteria removal and more speciﬁc studies are needed.
+▪ Besides traditional free water surface ﬂow, horizontal subsurface
+ﬂow and vertical ﬂow CWs, there are an increasing number of
+newly developed CWs with different conﬁgurations and operational
+strategies, like aerated and tidal operated CWs. The results obtained
+thus far show remarkable bacteria removal efﬁciencies. Further assessments and mechanistic interpretations of indicator bacteria removal may guide the way to signiﬁcant pathogen elimination in
+these newly developed CWs.
+▪ Given the time-consuming and often costly nature of the procedures
+for quantifying microbial pathogens, monitoring a speciﬁc range of
+indicator organisms in reclaimed efﬂuent is often performed to assess whether water poses human health risk. Yet with the rising
+
+public health concern associated with pathogen contamination of
+wastewater, standards for water quality will likely become higher.
+Therefore, detailed investigation of a wider spectrum of indicator
+bacteria might be necessary.
+▪ Activated sludge-type wastewater treatment plants are considered
+as hot spots for the dispersal of microbes carrying antibiotic resistance genes into the environment (Rizzo et al., 2013). The risk associated with that dispersal is difﬁcult to estimate (Berendonk et al.,
+2015). First investigations suggest that CWs are better in retaining
+or even eliminating antibiotic-resistant bacteria than activated
+sludge-type wastewater treatment plants (Liu et al., 2013; Nõlvak
+et al., 2013; Sidrach-Cardona and Bécares, 2013). The elimination
+mechanisms and the long-term fate of antibiotic resistant bacteria
+in CWs appears to be a rather promising ﬁeld for future investigations on and implementations of such wastewater treatment units.
+
+Geometric means (standard error in parentheses) of 24 samples (4
+replicates/sample) collected monthly over a 2-year sampling period.
+All values for wetland efﬂuents are signiﬁcantly different (p b 0.05)
+when compared to inﬂuent.
+Acknowledgments
+This work was ﬁnanced by grants from the project of “The National
+Natural Science Funds (51308536)”, “Research Fund for International
+
+Table 6
+Guidelines for the use of treated wastewater in agriculture.
+Reuse conditions
+
+Indicator bacteria control limit
+Fecal coliforms
+
+WHO (1989)
+▪ Irrigation of crops likely to be eaten uncooked, sports ﬁelds, public parks
+▪ Irrigation of cereal crops, industrial crops, fodder crops, pasture and trees
+▪ Localized irrigation of crops in category B if exposure to workers and the public does not occur
+
+≤1000 fecal coli/100 ml
+No standard recommended
+Not applicable
+
+USEPA/USAID (1992)
+▪ Agricultural Reuse —food crops not commercially processed. Surface or spray irrigation of any food crop
+▪ Agricultural Reuse — food crops not commercially processed. Surface irrigation of orchards and vineyards
+▪ Agricultural Reuse — non food crops pasture for milking animals; fodder, ﬁber and seed crops
+▪ Urban reuse all types of landscape irrigation (e.g. golf courses, parks, cemeteries).
+
+No detectableb
+=200 fecal coli/100 mlc
+=200 fecal coli/100 mld
+No detectableb
+
+a
+
+Arithmetic mean no. eggs per liter.
+Not exceed 14/100 ml in any sample.
+c
+Not exceed 800/100 ml in any sample.
+d
+Not exceed 800/100 ml in any sample.
+b
+
+Intestinal nematodea
+≤1
+≤1
+Not applicable
+
+
+
+20
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+Young Scientists (51450110434)”, “Beijing Nova program (2015B083)”,
+and the European Commission (Grant Agreement No: FP7-KBBE-20126-311933, WATER4CROPS). We greatly appreciate the critical and constructive comments from the anonymous reviewers, which have helped
+to improve this manuscript.
+References
+Abdel-Shafy, H.I., El-Khateeb, M.A., 2013. Integration of septic tank and constructed wetland for the treatment of wastewater in Egypt. Desalin. Water Treat. 51 (16–18),
+3539–3546.
+Ansola, G., González, J.M., Cortijo, R., de Luis, E., 2003. Experimental and full-scale pilot
+plant constructed wetlands for municipal wastewaters treatment. Ecol. Eng. 21 (1),
+43–52.
+Antoniadis, A., Takavakoglou, V., Zalidis, G., Darakas, E., Poulios, I., 2010. Municipal wastewater treatment by sequential combination of photocatalytic oxidation with constructed wetlands. Catal. Today 151 (1), 114–118.
+Arends, J.B.A., van Denhouwe, S., Verstraete, W., Boon, N., Rabaey, K., 2014. Enhanced disinfection of wastewater by combining wetland treatment with bioelectrochemical
+H2O2 production. Bioresour. Technol. 155, 352–358.
+Arias, C., Cabello, A., Brix, H., Johansen, N., 2003. Removal of indicator bacteria from municipal wastewater in an experimental two-stage vertical ﬂow constructed wetland
+system. Water Sci. Technol. 48 (5), 35–41.
+Avelar, F.F., de Matos, A.T., de Matos, M.P., Borges, A.C., 2014. Coliform bacteria removal
+from sewage in constructed wetlands planted with mentha aquatica. Environ.
+Technol. 35 (16), 2095–2103.
+Axelrood, P.E., Radley, R., Clarke, A.M., Zemcov, S.J.V., 1996. Douglas-ﬁr root-associated
+microorganisms with inhibitory activity towards fungal plant pathogens and
+human bacterial pathogens. Can. J. Microbiol. 42 (7), 690–700.
+Ayaz, S.C., 2008. Post-treatment and reuse of tertiary treated wastewater by constructed
+wetlands. Desalination 226 (1–3), 249–255.
+Azaizeh, H., Linden, K., Barstow, C., Kalbouneh, S., Tellawi, A., Albalawneh, A., Gerchman,
+Y., 2013. Constructed wetlands combined with UV disinfection systems for removal
+of enteric pathogens and wastewater contaminants. Water Sci. Technol. 67 (3),
+651–657.
+Barros, P., Ruiz, I., Soto, M., 2008. Performance of an anaerobic digester-constructed wetland system for a small community. Ecol. Eng. 33 (2), 142–149.
+Berendonk, T.U., Manaia, C.M., Merlin, C., Fatta-Kassinos, D., Cytryn, E., Walsh, F.,
+Bürgmann, H., Sørum, H., Norström, M., Pons, M.-N., Kreuzinger, N., Huovinen,
+P., Stefani, S., Schwartz, T., Kisand, V., Baquero, F., Martinez, J.L., 2015. Tackling antibiotic resistance: the environmental framework. Nat. Rev. Microbiol. 13 (5),
+310–317.
+Blanc, R., Nasser, A., 1996. Effect of efﬂuent quality and temperature on the persistence of
+viruses in soil. Water Sci. Technol. 33 (10–11), 237–242.
+Boutilier, L., Jamieson, R., Gordon, R., Lake, C., Hart, W., 2009. Adsorption, sedimentation,
+and inactivation of E. coli within wastewater treatment wetlands. Water Res. 43 (17),
+4370–4380.
+Boutilier, L., Jamieson, R., Gordon, R., Lake, C., Hart, W., 2010. Performance of surface-ﬂow
+domestic wastewater treatment wetlands. Wetlands 30 (4), 795–804.
+Brettar, I., Höﬂe, M., 1992. Inﬂuence of ecosystematic factors on survival of Escherichia coli
+after large-scale release into lake water mesocosms. Appl. Environ. Microbiol. 58 (7),
+2201–2210.
+Brix, H., 1997. Do macrophytes play a role in constructed treatment wetlands? Water Sci.
+Technol. 35 (5), 11–17.
+Brown, D.G., Jaffé, P.R., 2001. Effects of nonionic surfactants on bacterial transport through
+porous media. Environ. Sci. Technol. 35 (19), 3877–3883.
+Caselles-Osorio, A., Villafañe, P., Caballero, V., Manzano, Y., 2011. Efﬁciency of mesocosmscale constructed wetland systems for treatment of sanitary wastewater under tropical conditions. Water Air Soil Pollut. 220 (1–4), 161–171.
+Curds, C.R., 1982. The ecology and role of protozoa in aerobic sewage treatment processes.
+Annu. Rev. Microbiol. 36 (1), 27–28.
+Dahab, M., Surampalli, R., 2001. Subsurface-ﬂow constructed wetlands treatment in the
+plains: ﬁve years of experience. Water Sci. Technol. 44 (11–12), 375–380.
+Dai, X., Boll, J., 2006. Settling velocity of Cryptosporidium parvum and Giardia lamblia.
+Water Res. 40 (6), 1321–1325.
+Davies, C.M., Bavor, H.J., 2000. The fate of stormwater-associated bacteria in constructed
+wetland and water pollution control pond systems. J. Appl. Microbiol. 89 (2),
+349–360.
+Davies-Colley, R., Donnison, A., Speed, D., Ross, C., Nagels, J.a., 1999. Inactivation of faecal
+indicator micro-organisms in waste stabilisation ponds: interactions of environmental factors with sunlight. Water Res. 33 (5), 1220–1230.
+Davison, L., Headley, T., Edmonds, M., 2001. On-site domestic wastewater treatment by
+reed bed in the moist subtropics. Water Sci. Technol. 44 (11–12), 353–360.
+Decamp, O., Warren, A., 1998. Bacterivory in ciliates isolated from constructed wetlands
+(reed beds) used for wastewater treatment. Water Res. 32 (7), 1989–1996.
+Decamp, O., Warren, A., 2000. Investigation of Escherichia coli removal in various designs
+of subsurface ﬂow wetlands used for wastewater treatment. Ecol. Eng. 14 (3),
+293–299.
+Decamp, O., Warren, A., Sanchez, R., 1999. The role of ciliated protozoa in subsurface ﬂow
+wetlands and their potential as bioindicators. Water Sci. Technol. 40 (3), 91–98.
+Diaz, F.J., O'Geen, A.T., Dahlgren, R.A., 2010. Efﬁcacy of constructed wetlands for removal
+of bacterial contamination from agricultural return ﬂows. Agric. Water Manag. 97
+(11), 1813–1821.
+
+Dixon, A., Butler, D., Fewkes, A., Robinson, M., 2000. Measurement and modelling of quality changes in stored untreated grey water. Urban Water 1 (4), 293–306.
+Dufour, A., Snozzi, M., Koster, W., Bartram, J., Ronchi, E., Fewtrell, L., 2003. Assessing microbial safety of drinking water: improving approaches and methods. WHO drinking
+water quality series, OECD—WHO, Paris, France. IWA Publishing, London, UK.
+Easton, J.H., Gauthier, J.J., Lalor, M.M., Pitt, R.E., 2005. Die-off of pathogenic E. coli O157: H7
+in sewage contaminated waters. J. Am. Water Resour. Assoc. 41 (5), 1187–1193.
+Elhamouri, B., Khallayoune, K., Bouzoubaa, K., Rhallabi, N., Chalabi, M., 1994. High-rate
+algal pond performances in faecal-coliforms and helminth egg removals. Water Res.
+28 (1), 171–174.
+Falabi, J., Gerba, C., Karpiscak, M., 2002. Giardia and Cryptosporidium removal from wastewater by a duckweed (Lemna gibba L.) covered pond. Lett. Appl. Microbiol. 34 (5),
+384–387.
+Fernández, A., Tejedor, C., Chordi, A., 1992. Effect of different factors on the die-off of faecal bacteria in a stabilization pond puriﬁcation plant. Water Res. 26 (8), 1093–1098.
+Fischer, U.R., Wieltschnig, C., Kirschner, A.K., Velimirov, B., 2006. Contribution of virusinduced lysis and protozoan grazing to benthic bacterial mortality estimated simultaneously in microcosms. Environ. Microbiol. 8 (8), 1394–1407.
+Gagliardi, J.V., Karns, J.S., 2000. Leaching of Escherichia coli O157:H7 in diverse soils under
+various agricultural management practices. Appl. Environ. Microbiol. 66 (3),
+877–883.
+Galvão, A., Matos, J., Silva, M., Ferreira, F., 2009. Constructed wetland performance and potential for microbial removal. Desalin. Water Treat. 4 (1–3), 76–84.
+García, J.A., Paredes, D., Cubillos, J.A., 2013. Effect of plants and the combination of wetland treatment type systems on pathogen removal in tropical climate conditions.
+Ecol. Eng. 58, 57–62.
+García, M., Soto, F., González, J.M., Bécares, E., 2008. A comparison of bacterial removal efﬁciencies in constructed wetlands and algae-based systems. Ecol. Eng. 32 (3), 238–243.
+García, J., Vivar, J., Aromir, M., Mujeriego, R., 2003. Role of hydraulic retention time and
+granular medium in microbial removal in tertiary treatment reed beds. Water Res.
+37 (11), 2645–2653.
+García, M., Bécares, E., 1997. Bacterial removal in three pilot-scale wastewater treatment
+systems for rural areas. Water Sci. Technol. 35 (11), 197–200.
+Gersberg, R.M., Gearheart, R.A., Ives, M., 1989. Pathogen removal in constructed wetlands.
+In: Hammer, D.A. (Ed.), Constructed Wetlands for Wastewater Treatment: Municipal,
+Industrial and Agricultural. Lewis Publishers Inc., MI, USA, pp. 431–445.
+Graczyk, T.K., Lucy, F.E., Mashinsky, Y., Thompson, R.C.A., Koru, O., daSilva, A.J., 2009a.
+Human zoonotic enteropathogens in a constructed free-surface ﬂow wetland.
+Parasitol. Res. 105 (2), 423–428.
+Graczyk, T.K., Lucy, F.E., Tamang, L., Mashinski, Y., Broaders, M.A., Connolly, M., Cheng,
+H.W.A., 2009b. Propagation of human enteropathogens in constructed horizontal
+wetlands used for tertiary wastewater treatment. Appl. Environ. Microbiol. 75 (13),
+4531–4538.
+Graﬁas, P., Xekoukoulotakis, N.P., Mantzavinos, D., Diamadopoulos, E., 2010. Pilot treatment of olive pomace leachate by vertical-ﬂow constructed wetland and electrochemical oxidation: an efﬁcient hybrid process. Water Res. 44 (9), 2773–2780.
+Grant, S.B., Sanders, B.F., Boehm, A.B., Redman, J.A., Kim, J.H., Mrse, R.D., Chu, A.K., Gouldin,
+M., McGee, C.D., Gardiner, N.A., Jones, B.H., Svejkovsky, J., Leipzig, G.V., Brown, A.,
+2001. Generation of enterococci bacteria in a coastal saltwater marsh and its impact
+on surf zone water quality. Environ. Sci. Technol. 35 (12), 2407–2416.
+Green, M.B., Grifﬁn, P., Seabridge, J.K., Dhobie, D., 1997. Removal of bacteria in subsurface
+ﬂow wetlands. Water Sci. Technol. 35 (5), 109–116.
+Hahn, M.W., Höﬂe, M.G., 2001. Grazing of protozoa and its effect on populations of aquatic
+bacteria. FEMS Microbiol. Ecol. 35 (2), 113–121.
+Hazen, T.C., Fliermans, C.B., Hirsch, R.P., Esch, G.W., 1978. Prevalence and distribution
+of Aeromonas hydrophila in the United States. Appl. Environ. Microbiol. 36 (5),
+731–738.
+Headley, T., Nivala, J., Kassa, K., Olsson, L., Wallace, S., Brix, H., van Afferden, M., Müller, R.,
+2013. Escherichia coli removal and internal dynamics in subsurface ﬂow
+ecotechnologies: effects of design and plants. Ecol. Eng. 61, 564–574.
+Hench, K.R., Bissonnette, G.K., Sexstone, A.J., Coleman, J.G., Garbutt, K., Skousen, J.G., 2003.
+Fate of physical, chemical, and microbial contaminants in domestic wastewater following treatment by small constructed wetlands. Water Res. 37 (4), 921–927.
+Hill, V., Sobsey, M., 2001. Removal of Salmonella and microbial indicators in constructed wetlands treating swine wastewater. Water Sci. Technol. 44 (11–12),
+215–222.
+Horn, T.B., Zerwes, F.V., Kist, L.T., Machado, Ê.L., 2014. Constructed wetland and photocatalytic ozonation for university sewage treatment. Ecol. Eng. 63, 134–141.
+Howell, J., Coyne, M.S., Cornelius, P., 1996. Effect of sediment particle size and temperature on faecal bacteria mortality rates and the faecal coliform/faecal streptococci
+ratio. J. Environ. Qual. 25 (6), 1216–1220.
+Jasper, J.T., Nguyen, M.T., Jones, Z.L., Ismail, N.S., Sedlak, D.L., Sharp, J.O., Luthy, R.G., Horne,
+A.J., Nelson, K.L., 2013. Unit process wetlands for removal of trace organic contaminants and pathogens from municipal wastewater efﬂuents. Environ. Eng. Sci. 30
+(8), 421–436.
+Jinadasa, K.B.S.N., Tanaka, N., Mowjood, M.I.M., Werellagama, D.R.I.B., 2006. Effectiveness
+of Scirpus grossus in treatment of domestic wastes in a constructed wetland. J. Freshw.
+Ecol. 21 (4), 603–612.
+Jokerst, A., Sharvelle, S.E., Hollowed, M.E., Roesner, L.A., 2011. Seasonal performance of an
+outdoor constructed wetland for graywater treatment in a temperate climate. Water
+Environ. Res. 83 (12), 2187–2198.
+Kadam, A.M., Oza, G.H., Nemade, P.D., Shankar, H.S., 2008. Pathogen removal from municipal wastewater in constructed soil ﬁlter. Ecol. Eng. 33 (1), 37–44.
+Kadlec, R., Wallace, S., 2009. Treatment wetlands. 2nd ed. CRC Press, Boca Raton, Florida.
+Kadlec, R.H., Cuvellier, C., Stober, T., 2010. Performance of the columbia, Missouri, treatment wetland. Ecol. Eng. 36 (5), 672–684.
+
+
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+Kansiime, F., van Bruggen, J., 2001. Distribution and retention of faecal coliforms in
+the Nakivubo wetland in Kampala, Uganda. Water Sci. Technol. 44 (11–12),
+199–206.
+Karathanasis, A.D., Potter, C.L., Coyne, M.S., 2003. Vegetation effects on faecal bacteria,
+BOD, and suspended solid removal in constructed wetlands treating domestic wastewater. Ecol. Eng. 20 (2), 157–169.
+Karpiscak, M., Sanchez, L., Freitas, R., Gerba, C., 2001. Removal of bacterial indicators and
+pathogens from dairy wastewater by a multi-component treatment system. Water
+Sci. Technol. 44 (11–12), 183–190.
+Karim, M.R., Manshadi, F.D., Karpiscak, M.M., Gerba, C.P., 2004. The persistance and
+removal of enteric pathogens in constructed wetlands. Water Res. 38 (7),
+1831–1837.
+Keffala, C., Ghrabi, A., 2005. Nitrogen and bacterial removal in constructed wetlands
+treating domestic waste water. Desalination 185 (1), 383–389.
+Khatiwada, N.R., Polprasert, C., 1999. Kinetics of faecal coliform removal in constructed
+wetland. Water Sci. Technol. 40 (3), 109–116.
+Stevik, T.K., Aa, K., Ausland, G., Hanssen, J.F., 2004. Retention and removal of pathogenic
+bacteria in wastewater percolating through porous media: a review. Water Res. 38
+(6), 1355–1367.
+Leclerc, H., Schwartzbrod, L., Dei-Cas, E., 2002. Microbial agents associated with waterborne diseases. Crit. Rev. Microbiol. 28 (4), 371–409.
+Lijklema, L., Habekotté, B., Hooijmans, C., Aalderink, R.H., Havelaar, A.H., 1987. Survival of
+indicator organisms in a detention pond receiving combined sewer overﬂow. Water
+Sci. Technol. 19 (3–4), 547–555.
+Lightbody, A.F., Avener, M.E., Nepf, H.M., 2008. Observations of short-circuiting ﬂow paths
+within a free-surface wetland in Augusta, Georgia, USA. Limnol. Oceanogr. 53 (3),
+1040–1053.
+Liu, L., Liu, C., Zheng, J., Huang, X., Wang, Z., Liu, Y., Zhu, G., 2013. Elimination of veterinary
+antibiotics and antibiotic resistance genes from swine wastewater in the vertical ﬂow
+constructed wetlands. Chemosphere 91 (8), 1088–1093.
+MacIntyre, M., Warner, B., Slawson, R., 2006. Escherichia coli control in a surface ﬂow
+treatment wetland. J Water Health 211, 214.
+Mantovi, P., Marmiroli, M., Maestri, E., Tagliavini, S., Piccinini, S., Marmiroli, N., 2003. Application of a horizontal subsurface ﬂow constructed wetland on treatment of dairy
+parlor wastewater. Bioresour. Technol. 88 (2), 85–94.
+Masi, F., Martinuzzi, N., 2007. Constructed wetlands for the Mediterranean countries: hybrid systems for water reuse and sustainable sanitation. Desalination 215 (1), 44–55.
+Mayo, A.W., 2004. Kinetics of bacterial mortality in granular bed wetlands. Phys. Chem.
+Earth 29 (15–18), 1259–1264.
+Mbuligwe, S.E., 2005. Applicability of a septic tank/engineered wetland coupled system in
+the treatment and recycling of wastewater from a small community. Environ. Manag.
+35 (1), 99–108.
+McFeters, G.A., Stuart, D.G., 1972. Survival of coliform bacteria in natural waters — ﬁeld and
+laboratory studies with membrane-ﬁlter chambers. Appl. Microbiol. 24 (5), 805–811.
+Modin, O., Fukushi, K., 2013. Production of high concentrations of H 2 O 2 in a
+bioelectrochemical reactor fed with real municipal wastewater. Environ. Technol. 34
+(19), 2737–2742.
+Mulling, B.T.M., van den Boomen, R.M., van der Geest, H.G., Kappelhof, J.W.N.M., Admiraal,
+W., 2013. Suspended particle and pathogen peak discharge buffering by a surfaceﬂow constructed wetland. Water Res. 47 (3), 1091–1100.
+Neralla, S., Weaver, R.W., 2000. Phytoremediation of domestic wastewater for reducing
+populations of Escherichia coli and MS-2 coliphage. Environ. Technol. 21, 691–698.
+Neralla, S., Weaver, R.W., Lesikar, B.J., Persyn, R.A., 2000. Improvement of domestic wastewater quality by subsurface ﬂow constructed wetlands. Bioresour. Technol. 75 (1),
+19–25.
+Nokes, R.L., Gerba, C.P., Karpiscak, M.M., 2003. Microbial water quality improvement by
+small scale on-site subsurface wetland treatment. J. Environ. Sci. Health A-Toxic/
+Hazard. Subst. Environ. Eng. 38 (9), 1849–1855.
+Nõlvak, H., Truu, M., Tiirik, K., Oopkaup, K., Sildvee, T., Kaasik, A., Mander, Ü., Truu, J., 2013.
+Dynamics of antibiotic resistance genes and their relationships with system treatment efﬁciency in a horizontal subsurface ﬂow constructed wetland. Sci. Total Environ. 461, 636–644.
+Olson, M.R., Axler, R.P., Hicks, R.E., 2004. Effects of freezing and storage temperature on
+MS2 viability. J. Virol. Methods 122 (2), 147–152.
+Orosz-Coghlan, P.A., Rusin, P.A., Karpiscak, M.M., Gerba, C.P., 2006. Microbial source
+tracking of Escherichia coli in a constructed wetland. Water Environ. Res. 78 (3),
+227–232.
+Ottosson, J., Stenström, T., 2003. Growth and reduction of microorganisms in sediments collected from a greywater treatment system. Lett. Appl. Microbiol. 36
+(3), 168–172.
+Ottová, V., Balcarová, J., Vymazal, J., 1997. Microbial characteristics of constructed wetlands. Water Sci. Technol. 35 (5), 117–123.
+Payment, P., Locas, A., 2011. Pathogens in water: value and limits of correlation with microbial indicators. Groundwater 49 (1), 4–11.
+Pearson, H., Mara, D., Mills, S., Smallman, D., 1987. Physico-chemical parameters inﬂuencing faecal bacterial survival in waste stabilization ponds. Water Sci. Technol. 19 (12),
+145–152.
+Pernthaler, J., 2005. Predation on prokaryotes in the water column and its ecological implications. Nat. Rev. Microbiol. 3, 537–546.
+Podschun, R., Pietsch, S., Höller, C., Ullmann, U., 2001. Incidence of Klebsiella species in surface waters and their expression of virulence factors. Appl. Environ. Microbiol. 67 (7),
+3325–3327.
+Pundsack, J., Axler, R., Hicks, R., Henneck, J., Nordman, D., McCarthy, B., 2001. Seasonal
+pathogen removal by alternative on-site wastewater treatment systems. Water Environ. Res. 73 (2), 204–212.
+
+21
+
+Quiñónez-Díaz, M.d.J., Karpiscak, M.M., Ellman, E.D., Gerba, C.P., 2001. Removal of pathogenic and indicator microorganisms by a constructed wetland receiving untreated
+domestic wastewater. J. Environ. Sci. Health A-Toxic/Hazard. Subst. Environ. Eng. 36
+(7), 1311–1320.
+Redder, A., Duerr, M., Daeschlein, G., Baeder-Bederski, O., Koch, C., Mueller, R., Exner, M.,
+Borneff-Lipp, M., 2010. Constructed wetlands — are they safe in reducing protozoan
+parasites? Int. J. Hyg. Environ. Health 213 (1), 72–77.
+Reinoso, R., Torres, L.A., Becares, E., 2008. Efﬁciency of natural systems for removal
+of bacteria and pathogenic parasites from wastewater. Sci. Total Environ. 395
+(2–3), 80–86.
+Richter, A.Y., Weaver, R.W., 2003a. Treatment of domestic wastewater by subsurface ﬂow
+constructed wetlands ﬁlled with gravel and tire chip media. Environ. Technol. 24
+(12), 1561–1567.
+Richter, A.Y., Weaver, R.W., 2003b. Ultraviolet disinfection of efﬂuent from subsurface
+ﬂow constructed wetlands. Environ. Technol. 24 (9), 1175–1182.
+Rivera, F., Warren, A., Ramirez, E., Decamp, O., Bonilla, P., Gallegos, E., Calderon, A.,
+Sanchez, J.T., 1995. Removal of pathogens from wastewaters by the root zone method
+(RZM). Water Sci. Technol. 32 (3), 211–218.
+Rizzo, L., Manaia, C., Merlin, C., Schwartz, T., Dagot, C., Ploy, M.C., Fatta-Kassinos, D., 2013.
+Urban wastewater treatment plants as hotspots for antibiotic resistant bacteria and
+genes spread into the environment: a review. Sci. Total Environ. 447, 345–360.
+Rose, J.B., Sun, G.-S., Gerba, C.P., Sinclair, N.A., 1991. Microbial quality and persistence of
+enteric pathogens in graywater from various household sources. Water Res. 25 (1),
+37–42.
+Sawaittayothin, V., Polprasert, C., 2007. Nitrogen mass balance and microbial analysis of
+constructed wetlands treating municipal landﬁll leachate. Bioresour. Technol. 98
+(3), 565–570.
+Sengupta, M.E., Thamsborg, S.M., Andersen, T.J., Olsen, A., Dalsgaard, A., 2011. Sedimentation of helminth eggs in water. Water Res. 45 (15), 4651–4660.
+Sidrach-Cardona, R., Bécares, E., 2013. Faecal indicator bacteria resistance to antibiotics in
+experimental constructed wetlands. Ecol. Eng. 50, 107–111.
+Sklarz, M., Gross, A., Yakirevich, A., Soares, M., 2009. A recirculating vertical ﬂow constructed wetland for the treatment of domestic wastewater. Desalination 246 (1),
+617–624.
+Sleytr, K., Tietz, A., Langergraber, G., Haberl, R., 2007. Investigation of bacterial removal
+during the ﬁltration process in constructed wetlands. Sci. Total Environ. 380 (1–3),
+173–180.
+Solano, M., Soriano, P., Ciria, M., 2004a. Constructed wetlands as a sustainable solution for
+wastewater treatment in small villages. Biosyst. Eng. 87 (1), 109–118.
+Solano, M.L., Soriano, P., Ciria, M.P., 2004b. Constructed wetlands as a sustainable solution
+for wastewater treatment in small villages. Biosyst. Eng. 87 (1), 109–118.
+Šolić, M., Krstulović, N., 1992. Separate and combined effects of solar radiation, temperature, salinity, and pH on the survival of faecal coliforms in seawater. Mar. Pollut. Bull.
+24 (8), 411–416.
+Song, Z.W., Wu, L., Yang, G., Xu, M., Wen, S.P., 2008. Indicator microorganisms and pathogens removal function performed by copepods in constructed wetlands. Bull. Environ. Contam. Toxicol. 81 (5), 459–463.
+Steinberg, K.M., Levin, B.R., 2007. Grazing protozoa and the evolution of the Escherichia
+coli O157: H7 Shiga toxin-encoding prophage. Proc. R. Soc. Lond. B Biol. Sci. 274
+(1621), 1921–1929.
+Tanner, C.C., Clayton, J.S., Upsdell, M.P., 1995. Effect of loading rate and planting on treatment of dairy farm wastewaters — I. Removal of oxygen demand, suspended solids
+and faecal coliforms. Water Res. 29 (1), 17–26.
+Tanner, C.C., Sukias, J.P., Headley, T.R., Yates, C.R., Stott, R., 2012. Constructed wetlands and
+denitrifying bioreactors for on-site and decentralised wastewater treatment: comparison of ﬁve alternative conﬁgurations. Ecol. Eng. 42, 112–123.
+Thomas, V., McDonnell, G., Denyer, S.P., Maillard, J.-Y., 2010. Free-living amoebae and
+their intracellular pathogenic microorganisms: risks for water quality. FEMS
+Microbiol. Rev. 34 (3), 231–259.
+Thurston, J.A., Gerba, C.P., Foster, K.E., Karpiscak, M.M., 2001. Fate of indicator microorganisms, Giardia and Cryptosporidium in subsurface ﬂow constructed wetlands. Water
+Res. 35 (6), 1547–1551.
+Torrens, A., Molle, P., Boutin, C., Salgot, M., 2009. Removal of bacterial and viral indicators
+in vertical ﬂow constructed wetlands and intermittent sand ﬁlters. Desalination 246
+(1–3), 169–178.
+Toscano, A., Hellio, C., Marzo, A., Milani, M., Lebret, K., Cirelli, G.L., Langergraber, G.,
+2013. Removal efﬁciency of a constructed wetland combined with ultrasound
+and UV devices for wastewater reuse in agriculture. Environ. Technol. 34 (15),
+2327–2336.
+Travis, M.J., Weisbrod, N., Gross, A., 2012. Decentralized wetland-based treatment of oilrich farm wastewater for reuse in an arid environment. Ecol. Eng. 39, 81–89.
+Tunçsiper, B., Ayaz, S.Ç., Akça, L., 2012. Coliform bacteria removal from septic wastewater
+in a pilot-scale combined constructed wetland system. Environ. Eng. Manag. J. (EEMJ)
+11 (10), 1873–1879.
+Tuncsiper, B., 2007. Removal of nutrient and bacteria in pilot-scale constructed wetlands.
+J. Environ. Sci. Health A 42 (8), 1117–1124.
+Ulrich, H., Klaus, D., Irmgard, F., Annette, H., Juan, L.P., Regine, S., 2005. Microbiological investigations for sanitary assessment of wastewater treated in constructed wetlands.
+Water Res. 39 (20), 4849–4858.
+USEPA, USAID, 1992. Guidelines for Water Reuse. Technical Report No. EPA/625/R-92/
+004. Environmental Protection Agency (Ofﬁce of Wastewater Enforcement and Compliance), Washington, DC.
+Vacca, G., Wand, H., Nikolausz, M., Kuschk, P., Kastner, M., 2005. Effect of plants and ﬁlter
+materials on bacteria removal in pilot-scale constructed wetlands. Water Res. 39 (7),
+1361–1373.
+
+
+
+22
+
+S. Wu et al. / Science of the Total Environment 541 (2016) 8–22
+
+Verlicchi, P., Al Aukidy, M., Galletti, A., Zambello, E., Zanni, G., Masotti, L., 2012. A project of
+reuse of reclaimed wastewater in the Po valley, Italy: polishing sequence and cost
+beneﬁt analysis. J. Hydrol. 432, 127–136.
+Vymazal, J., 2005. Removal of enteric bacteria in constructed treatment wetlands with
+emergent macrophytes: a review. J. Environ. Sci. Health A-Toxic/Hazard. Subst. Environ. Eng. 40 (6–7), 1355–1367.
+Vymazal, J., 2010. Constructed wetlands for wastewater treatment: ﬁve decades of experience. Environ. Sci. Technol. 45 (1), 61–69.
+Wand, H., Vacca, G., Kuschk, P., Krueger, M., Kaestner, M., 2007. Removal of bacteria by ﬁltration in planted and non-planted sand columns. Water Res. 41 (1), 159–167.
+Werker, A., Dougherty, J., McHenry, J., Van Loon, W., 2002. Treatment variability for wetland wastewater treatment design in cold climates. Ecol. Eng. 19 (1), 1–11.
+
+WHO, 1989. Health guidelines for the use of wastewater in agriculture and aquaculture.
+Technical report series 778. World Health Organisation, Geneva.
+Winward, G.P., Avery, L.M., Frazer-Williams, R., Pidou, M., Jeffrey, P., Stephenson, T.,
+Jefferson, B., 2008a. A study of the microbial quality of grey water and an evaluation
+of treatment technologies for reuse. Ecol. Eng. 32 (2), 187–197.
+Winward, G.P., Avery, L.M., Stephenson, T., Jefferson, B., 2008b. Chlorine disinfection of
+grey water for reuse: effect of organics and particles. Water Res. 42 (1), 483–491.
+WHO, 2006. Guidelines for the safe use of wastewater, excreta and greywater. Volume 2: wastewater use in agriculture. http://www.who.int/water_sanitation_
+health/wastewater/gsuww/en/index.html.
+
+

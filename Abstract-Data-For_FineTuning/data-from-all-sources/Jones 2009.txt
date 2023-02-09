@@ -1,0 +1,853 @@
+Wilderness and Environmental Medicine, 20, 6 13 (2009)
+
+ORIGINAL RESEARCH
+
+An Analysis of Water Quality in the Colorado River,
+2003–04; An Investigation Into Recurring Outbreaks of
+Norovirus Among Rafters
+Ellen L. Jones, PhD; Marlene Gaither; Adam Kramer; Charles P. Gerba, PhD
+From the Department of Soil, Water, and Environmental Science, University of Arizona, Tucson, AZ (Ms Jones and Mr Gerba); Coconino
+County Health Department, Environmental Health Division, Flagstaff, AZ (Ms Gaither); and the Public Health Service/National Park
+Service, Intermountain Region, Flagstaff, AZ (Mr Kramer).
+
+Background.—Every year over 22 000 people raft the Colorado River through the Grand Canyon
+in Arizona. Since 1994, over 400 rafters in 6 separate outbreaks have become ill with norovirus while
+rafting this stretch of the river.
+Objectives.—To assess potential causes of these outbreaks, Colorado River water, water from nearby wastewater treatment plants, and a drinking water source were sampled and tested for norovirus
+and other water quality indicators.
+Methods.—Colorado River water was collected and sampled during the 2004 rafting season. Water from
+wastewater treatment plants near the Lee’s Ferry launch site and drinking water from the Lee’s Ferry launch
+site were also examined during the 2003 and 2004 rafting seasons. Stool samples from ill rafters and
+composite stool samples from onboard toilet-cans were tested for the presence of norovirus during the
+2003 and 2004 outbreaks. Parameters examined included the following: norovirus by reverse transcriptase–
+polymerase chain reaction, coliforms, Escherichia coli, temperature, turbidity, and pH.
+Results.—No norovirus was detected in the Colorado River during the 2004 ﬁeld sampling. Norovirus was detected in the Glen Canyon Dam Wastewater Treatment Plant on one occasion in 2004.
+Drinking water from the Lee’s Ferry launch site was negative for norovirus in 2003, and Colorado
+River water from the Lee’s Ferry launch site was negative for norovirus in 2004. In 2003, 3 of 10
+stool samples from ill rafters or onboard toilet-cans were positive for norovirus. Neither of 2 stool
+samples collected in 2004 was positive for norovirus.
+Conclusions.—Colorado River water tested during nonoutbreak periods was negative for norovirus,
+indicating that there is not an ongoing high level of norovirus contamination in the river. No source
+or sources of contamination could be identiﬁed from the testing. Potential sources of norovirus outbreaks among rafters include drinking contaminated river water, consuming contaminated foodstuff,
+rafter importation of the virus and subsequent person-to-person spread, and contaminated fomites,
+campsites, or equipment. It is likely outbreaks are the result of more than one source of norovirus,
+and the exact source remains unknown for several outbreaks.
+Key words: norovirus, river rafters, recreational water, outbreak, Colorado River
+
+Introduction
+Norovirus is the most common cause of gastroenteritis
+in the United States, accounting for an estimated
+23 000 000 cases of gastroenteritis per year.1 The virus
+The authors have no ﬁnancial interest/conﬂict of interest with regard
+to the commercially available point-of-use devices mentioned in the
+manuscript.
+Corresponding author: Ellen L. Jones, Department of Soil, Water,
+and Environmental Science, University of Arizona, Tucson, AZ 85721
+(e-mail: ellenjones@gmail.com).
+
+is spread through the fecal-oral route as well as by aerosolized vomitus and fomite contamination and can be
+transmitted by eating contaminated foods, drinking or
+accidentally swallowing contaminated water, contact
+with contaminated surfaces, or via close contact with an
+ill person. Norovirus causes the abrupt onset of nausea,
+vomiting, and diarrhea. The incubation time for the virus
+is 12 to 48 hours, and it usually lasts 1 to 3 days, though
+occasionally severe cases last longer. This virus is highly
+contagious. Outbreaks are characterized by the short incubation period, high attack rate, and projectile vomit-
+
+
+
+*PCR indicates polymerase chain reaction; WWTP, wastewater treatment plant. These previously unpublished data are the result of investigations conducted by the Coconino County Environmental Health Division in conjunction with the National Park Service and/or Centers for Disease Control and Prevention and the University of Arizona Department of Soil, Water and Environmental
+Science.
+
+9/2–10/25
+5/26–6/9
+8/19–9/23
+2003
+2004
+2005
+
+39
+8
+136
+
+16
+136
+20
+
+1
+4–7
+2
+
+Unknown
+Unknown
+Sliced deli meat
+
+1
+1
+5
+
+3
+1
+13
+
+4
+0
+2
+
+Unconﬁrmed
+PCR-positive stool samples
+PCR-positive stool samples, river water at Lee’s Ferry,
+and Glen Canyon Dam WWTP water
+PCR-positive stool samples
+Unconﬁrmed
+PCR-positive stool samples and meat
+0
+0
+0
+16
+1
+17
+15
+1
+9
+River water
+Unknown
+River water
+2–4
+1
+1
+50
+16
+⬍10
+7/29–8/12
+7/20–8/1
+5/29–6/14
+1994
+1998
+2002
+
+108
+12
+⬍130
+
+Evacuations
+No. of
+trips
+No. of
+companies
+Suspect. source
+Mile
+Day
+ﬁrst case (approx.)
+Total
+cases
+Duration
+Year
+
+Table 1. Overview of outbreaks of norovirus or suspected norovirus among river rafters on the Colorado River, AZ: 1994–2005*
+
+ing. Outbreaks among vulnerable populations such as the
+elderly or inﬁrm can have devastating consequences, including death,2 while outbreaks among other populations, such as cruise ship passengers,3 are extremely unpleasant and of economic importance to businesses. In
+addition to causing millions of cases of gastroenteritis,
+the virus is also a public health burden and the cause of
+an estimated 50 000 hospitalizations and 300 deaths per
+year in the United States.1
+Many people from all over the world travel to Arizona
+to visit the Grand Canyon National Park, and over
+22 000 people a year raft the 386-K (240-mile) stretch
+of the Colorado River that ﬂows through the Grand Canyon.4 This portion of the river is downstream of Lake
+Powell, a recreational lake, and the Glen Canyon Dam,
+which forms Lake Powell. Consequently, all ﬂow into
+the Colorado River beyond the Glen Canyon Dam is
+controlled by dam releases. Rafting is a popular activity,
+and, accordingly, reservations to raft the river can be
+difﬁcult to obtain and private rafting companies that conduct organized trips with river guides can be costly, averaging $2000 to $3000. The trips vary in length and in
+amenities, but the average trip takes about 1 week to 10
+days and is about 225 miles long. Rafters travel either
+in motorized rafts or oar-paddled rafts and camp on
+beaches along the river. During the 1972 and 1979 rafting seasons, outbreaks of gastroenteritis among rafters
+prompted investigation. An outbreak of the enteric pathogen Shigella sonnei among rafters was reported.5 As a
+result of the number of people utilizing the river, and in
+an effort to reduce the spread of disease, the National
+Park Service mandated in 1978 that all human fecal
+waste be carried out rather than buried on beaches or
+disposed of in the river. Despite this mandate, outbreaks
+of gastroenteritis still occur among rafters. Since 1994,
+over 400 rafters in 6 separate outbreaks have become ill
+with norovirus (Table 1). While there was a span of 4
+years between the 1994 outbreak and the next outbreak
+in 1998, outbreaks have occurred consecutively for the
+last 4 rafting seasons (2002–05).
+Norovirus illness among those participating in recreational activities has been previously reported. In 1994,
+7 of 11 canoeists became ill with norovirus after exposure to contaminated recreational lake water.6 Swallowing water and eating food before getting changed out of
+clothing worn while canoeing (and wetted with contaminated lake water) were associated with increased risk of
+infection (P ⬍ .02 for both exposures). In May and June
+of 1999, an outbreak of norovirus gastroenteritis occurred among long-distance hikers on the Appalachian
+Trail between Catawba and Troutville, VA.7 People who
+consumed food prepared at the general store in Catawba
+were almost twice as likely to become ill as those who
+
+7
+
+Norovirus lab conﬁrmation
+
+Water Quality in the Colorado River
+
+
+
+8
+did not. Tests of water from taps in the store revealed
+fecal contamination but were negative for norovirus.
+However, stool and serum samples from hikers were
+positive for norovirus. The authors concluded that poor
+sanitation on the trail, scarce water supplies, and crowding may have contributed to increased risk of norovirus
+among long-distance hikers. A waterborne outbreak of
+norovirus among snowmobilers occurred in Wyoming in
+2001.8 The snowmobilers were consuming well water,
+which was later conﬁrmed to contain norovirus. At least
+35 cases resulted from this outbreak. In 2002, an outbreak of norovirus occurred in primary school children
+who had played in a recreational water fountain,9 and in
+2004 a large outbreak of norovirus occurred among visitors and workers at Yellowstone National Park.10 Norovirus outbreaks have also been associated with swimming in contaminated recreational water.11,12
+Several factors exacerbate disease severity on the river. The rafters are frequently exposed to high heat during
+the rafting season, when temperatures in the canyon often exceed 100⬚F. High temperatures hasten dehydration
+as a result of vomiting and diarrhea and increase disease
+severity. At the same time, sanitation is limited on the
+river. The inability to stop the trip while ill rafters recover leads to vomiting and defecation accidents in or
+on the rafts, resulting in a presumably high level of environmental contamination. During the throes of illness,
+rafters must sometimes vomit or defecate directly into
+the river. Since the river is also the source for drinking,
+cooking, and wash water, this is problematic. As a result
+of the depth of the canyon, the rafters are geographically
+isolated, and medical care is unavailable without evacuation by helicopter. Normal outbreak control measures
+are difﬁcult or impossible to apply during an outbreak
+among river rafters. For example, those who are ill cannot be effectively isolated from those who are well.
+The present study is an investigation of the water
+quality along the Colorado River between Glen Canyon
+Dam and the convergence of the Colorado River with
+Diamond Creek, near Peach Springs, AZ; the study speciﬁcally includes testing for the presence of human norovirus by reverse transcriptase–polymerase chain reaction (RT-PCR). Additional parameters examined included coliforms and Escherichia coli most probable number
+per 100 mL, temperature, turbidity, and pH. Potential
+sources of norovirus contamination in the Colorado River were also assessed for norovirus content; these sources include the Glen Canyon Dam Wastewater Treatment
+Plant; the Page, AZ, Wastewater Treatment Plant; and
+the Wahweap Wastewater Treatment Plant. Four ﬁeld
+studies were conducted for sample collection: July 2003;
+August 2003; May 2004; and July 2004. Stool samples
+from ill patients and composite stool samples from on-
+
+Jones et al
+board toilet-cans were analyzed for the presence of human norovirus during the 2003 and 2004 outbreaks. The
+history and epidemiology of norovirus outbreaks among
+rafters on the Colorado River were reviewed.
+Methods
+Water and wastewater sample collection and analysis occurred during the summers of 2003 and 2004 as a result
+of repeated outbreaks to determine whether there was
+ongoing contamination of the river from sources such as
+wastewater treatment plants. In July 2003, 2 efﬂuent
+samples were obtained, one from the Page, AZ, Wastewater Treatment plant and one from the Glen Canyon
+Dam Wastewater Treatment Plant. Also in July 2003,
+drinking water from a spigot at the Lee’s Ferry boat
+launch was sampled. In August 2003, 1 additional efﬂuent sample was obtained from the Wahweap Wastewater
+Treatment Plant. In May 2004, Colorado River water
+samples were collected from 5 points along the river
+between Lee’s Ferry and Bright Angel Creek conﬂuence.
+In July 2004, 6 wastewater samples were taken from the
+Glen Canyon Dam Wastewater Treatment Plant. Also in
+July 2004, Colorado River water at the Lee’s Ferry boat
+launch was sampled. Stool samples from toilets and individual rafters were analyzed in September and October
+2003 and in June 2004. The methods used were the same
+for all sample dates.
+VIRUS CONCENTRATION FROM WATER
+The general procedures for the concentration of enteric
+viruses used in this study are described in Method 9510
+in Standard Methods for the Examination of Water and
+Wastewater.13 Water samples were collected by pumping
+the water through Virosorb 1-MDS Cartridge Filers
+(CUNO, Meriden, CT) in plastic ﬁlter housings. Noroviruses were concentrated by adsorption onto the positively charged ﬁlters, as previously described.14 Cartridge ﬁlters were stored in sealable plastic bags and
+transported on ice via overnight Federal Express or driven back to the laboratory on the same day. One liter of
+3% beef extract (pH 9.5) was used to elute virus from
+each ﬁlter. The pH of the eluate was then lowered to 3.5
+using 1 N HCl to ﬂocculate the beef extract, and the
+solution was stirred slowly for 30 minutes on a stir plate.
+The solution was then centrifuged and the supernatant
+discarded. The pellet was suspended in 20 mL of 0.15
+M sodium phosphate and then ﬁltered through a 0.2-␮m
+pore-sized ﬁlter to remove bacteria. Concentrated samples were stored at ⫺20⬚C for further processing. This
+method has been proven effective for the concentration
+and puriﬁcation of noroviruses.15
+
+
+
+Water Quality in the Colorado River
+
+9
+
+Table 2. Norovirus reverse transcriptase–polymerase chain reaction (RT-PCR) results from sampling of possible sources of
+norovirus contamination in the Colorado River: July and August 2003*
+Date
+
+Site
+
+7/18/03
+7/18/03
+7/18/03
+8/6/03
+
+Page, AZ, WWTP
+Glen Canyon Dam WWTP
+Lee’s Ferry
+Wahweap WWTP
+
+Sample type
+Efﬂuent
+Efﬂuent
+Drinking water tap
+Efﬂuent
+
+Disinfectant
+type
+
+pH
+
+Turbidity
+(NTU)
+
+Norovirus
+(PCR)
+
+Chemical
+UV only
+N/A
+Chemical
+
+7.2
+7.6
+7.8
+8.8
+
+2.8
+4.3
+0.7
+N/D
+
+Negative
+Negative
+Negative
+Negative
+
+*Escherichia coli not tested for on these dates. WWTP indicates wastewater treatment plant; PCR, polymerase chain reaction; NTU, nephelometric turbidity unit; and UV, ultraviolet; N/A, not applicable.
+
+VIRUS CONCENTRATION FROM STOOL
+Noroviruses were concentrated from stool by suspending
+1 g of stool in 7 mL phosphate-buffered saline. Suspensions were then vortexed for 60 seconds and centrifuged
+for 30 minutes. The supernatant was removed and aliquoted for storage at ⫺20⬚C until further processing.
+RNA EXTRACTION
+Viral RNA was puriﬁed from the samples using the
+QIAamp Viral RNA Mini Kit (QIAGEN, Valencia, CA),
+and the Mini Spin Protocol was followed with the following minor modiﬁcations: the total sample volume was doubled to 280 ␮L, and a double elution using 2 consecutive
+40-␮L volumes of Buffer AVE was performed. The puriﬁed RNA samples were stored at ⫺20⬚C.
+REVERSE TRANSCRIPTASE–POLYMERASE
+CHAIN REACTION
+Reverse transcriptase–PCR was performed on the puriﬁed RNA using the QIAGEN OneStep RT-PCR Kit
+(QIAGEN). The primers MJV12 (5⬘-TAY CAY TAT
+GAT GCH GAY TA-3⬘) and RegA (5⬘-CTC RTC ATC
+ICC ATA RAA IGA-3⬘),16 which are modiﬁed JV12/
+JV13 primers,17 that are speciﬁc for human norovirus
+genogroups I and II polymerase region A were used. A
+10-␮L volume of puriﬁed RNA template and a ﬁnal concentration of 1 ␮M of each primer were used in a total
+reaction volume of 50 ␮L. Thermal cycling conditions
+were as follows: reverse transcription of viral RNA for
+60 minutes at 42⬚C; activation of Taq polymerase for 15
+minutes at 95⬚C; 40 cycles: 30 seconds at 94⬚C, 30 seconds at 50⬚C, 30 seconds at 72⬚C; and ﬁnal extension
+for 10 minutes at 72⬚C. RNase-free water negative controls and known positive norovirus controls were run
+concurrently with the unknown samples. Reverse transcriptase–PCR product was visualized using an ethidium
+bromide–stained 2% agarose gel run in 0.5⫻ TBE buff-
+
+er. Norovirus-positive RT-PCR product was puriﬁed using the QIAquick PCR Puriﬁcation Kit (QIAGEN) and
+was then sent to the University of Arizona DNA Sequencing Laboratory. Sequences were compared to
+known sequences in the National Center for Biotechnology Information’s nucleotide-nucleotide BLAST database for conﬁrmation of positive samples as human
+norovirus, though the genogroup and strain were not determined. All amplicons reported as norovirus positive
+were conﬁrmed as human noroviruses by sequencing.
+E. COLI AND TOTAL COLIFORMS
+E. coli and total coliform bacteria were tested using a 10tube most probable number protocol and Colilert reagent
+(IDEXX, Colilert, Westbrook, ME). A portable incubator
+was set up in a local hotel room (Page, AZ) so that samples
+could be tested within 6 hours of collection. Samples were
+maintained on ice during transport to the hotel.
+ADDITIONAL ANALYTES
+In addition to testing for norovirus, the following water
+quality parameters were tested using the methods shown:
+pH (Waterproof pHTestr 3⫹ Double Junction, Oakton
+Instruments, Vernon Hills, IL), turbidity (DRT-15CE
+Portable Turbidimeter, HF Scientiﬁc Inc, Fort Myers,
+FL), and temperature (Waterproof pHTestr 3⫹ Double
+Junction 550, Oakton Instruments).
+Results
+Results from the 2003 ﬁeld sampling of possible sources
+of norovirus contamination in the Colorado River are
+shown in Table 2. Samples taken from Glen Canyon
+Dam Wastewater Treatment Plant; Page, AZ, Wastewater
+Treatment Plant; and Wahweap Wastewater Treatment
+Plant were all negative for the presence of human noroviruses by RT-PCR speciﬁc for the detection of human
+
+
+
+10
+
+Jones et al
+
+Table 3. Norovirus RT-PCR results from Colorado River water quality testing, May 2004*
+Date
+
+Site
+
+River mile
+
+Liters
+ﬁltered*
+
+Norovirus
+(PCR)
+
+Temp
+(⬚C)
+
+pH
+
+Turbidity
+(NTU)
+
+5/11/2004
+5/12/2004
+5/12/2004
+5/13/2004
+5/13/2004
+
+Lee’s Ferry
+Vasey’s Paradise
+Eminence Break
+Nankoweap Beach
+Bright Angel Creek
+
+0
+31.9
+44.0
+52.2
+87.8
+
+375.9
+422.9
+378.0
+400.0
+378.0
+
+Negative
+Negative
+Negative
+Negative
+Negative
+
+10
+16
+12
+11
+18
+
+8.2
+9.0
+8.1
+8.3
+8.8
+
+1.15
+1.64
+1.40
+1.40
+3.42
+
+*Virosorb 1-MDS cartridge ﬁlters were used for this analysis. RT-PCR indicates reverse transcriptase–polymerase chain reaction; NTU,
+nephelometric turbidity unit.
+
+norovirus. An additional sample, taken from the drinking-water tap at Lee’s Ferry boat launch, was also negative for noroviruses.
+In May 2004, samples of water were taken from 5
+locations along the Colorado River: Lee’s Ferry (mile
+0), Vasey’s Paradise (mile 31.9), Eminence Break (mile
+44.0), Nankoweap Beach (mile 52.2), and Bright Angel
+Creek (mile 87.8). All samples were negative for the
+presence of norovirus (Table 3).
+In July 2004, samples were collected from the Glen
+Canyon Wastewater Treatment Plant and from the Colorado River at Lee’s Ferry (Table 4). The sample collected from Lee’s Ferry was negative for noroviruses.
+Of 2 samples collected from the secondary clariﬁer at
+the Glen Canyon Dam Wastewater Treatment Plant, one
+was positive for human norovirus and one was negative.
+Two samples of treatment plant efﬂuent were collected
+after disinfection, and both showed the presence of E.
+coli, although levels were within regulations for recreational water (⬍200 fecal coliforms/100 mL).
+In September 2003, 6 composite stool samples from
+one trip with ill passengers were analyzed for norovirus;
+1 sample tested positive. In October 2003, stool samples
+from 3 individual ill rafters were tested for norovirus,
+
+and 2 of the 3 were positive. From the June 2004 outbreak, only 2 composite stool samples were tested, and
+both were negative.
+Discussion
+Routine testing of Colorado River water during nonoutbreak periods was negative for norovirus, indicating that
+there is not an ongoing high level of norovirus contamination in the river. Potential sources of norovirus outbreaks among rafters include drinking contaminated river water, consuming contaminated foodstuff, rafter importation of the virus and subsequent person-to-person
+spread, and contaminated fomites, campsites, or equipment. It is likely outbreaks are the result of more than
+one source of norovirus, and the exact source remains
+unknown for several outbreaks.
+Water samples from along the Colorado River indicate
+that there is not an ongoing high level of contamination
+in the river; norovirus has only been isolated directly from
+the river on one occasion, in 2002, when the Centers for
+Disease Control and Prevention isolated norovirus from
+river water sampled at Lee’s Ferry.18 Rafter importation
+of norovirus may certainly be a contributing factor in
+
+Table 4. Norovirus RT-PCR results from Glen Canyon Dam Wastewater Treatment Plant and Lee’s Ferry, July 2004*
+Date
+7/29/04
+7/29/04
+7/29/04
+7/29/04
+7/30/04
+7/30/04
+7/30/04
+
+Site
+Glen Canyon
+Glen Canyon
+Glen Canyon
+Lee’s Ferry
+Glen Canyon
+Glen Canyon
+Glen Canyon
+
+Dam WWTP
+Dam WWTP
+Dam WWTP
+Dam WWTP
+Dam WWTP
+Dam WWTP
+
+Sample type
+Aeration tank
+Secondary clariﬁer
+Post UV treatment
+Colorado River water
+Secondary clariﬁer
+During UV treatment
+Post UV treatment
+
+Escherichia coli Norovirus
+(MPN/100 mL)
+(PCR)
+⬎23
+⬎23
+⬎23
+⬍1.1
+⬎2420
+649
+14
+
+N/D
+Negative
+N/D
+Negative
+Positive
+N/D
+N/D
+
+Temp
+(⬚C)
+N/D
+N/D
+N/D
+N/D
+24
+24
+25
+
+pH
+7.3
+7.3
+7.6
+7.9
+7.5
+7.5
+7.9
+
+Turbidity
+(NTU)
+416.0
+12.2
+7.1
+0.9
+10.7
+8.3
+4.4
+
+*MPN indicates most probable number; WWTP, wastewater treatment plant; N/D, test not done; RT-PCR, reverse transcriptase–polymerase
+chain reaction; and UV, ultraviolet.
+
+
+
+Water Quality in the Colorado River
+some outbreaks, especially those in which the ﬁrst individual became ill during the ﬁrst day of the trip. Since
+the average incubation period for norovirus is 24 hours,
+when rafters become ill quickly, it is reasonable to assume
+they may have been infected prior to boarding the raft.
+Travelers are exposed to illness at airports, hotels, restaurants, etc, during long trips to Lee’s Ferry from all over
+the United States and from all over the world. They may
+arrive at the start of the trip having been exposed to the
+virus, but not yet showing symptoms. Once one person
+on a trip becomes ill, spread to trip-mates may occur readily via aerosolization of vomitus, food contamination, fomite contamination, person-to-person spread, and contamination of the river and campsites. Repeated outbreaks of
+norovirus among cruise ship passengers despite extensive
+vessel sanitization procedures illustrate how intractable
+the virus can be once it has entered a particular population
+or environment.3
+Treated wastewater is discharged into the Colorado
+River 15 miles upstream of Lee’s Ferry, where most rafting trips launch. The treatment plant is located inside of
+the Glen Canyon Dam and was implicated by the Centers for Disease Control and Prevention in the 2002 norovirus outbreak among rafters. The source of the sewage treated at the plant is the Carl B. Hayden Visitor
+Center and the facilities operation for the dam itself. The
+plant uses ultraviolet (UV) light as its means of disinfection and uses no chemical disinfection. Enteric viruses, such as adenoviruses, have been shown to be UVresistant at doses effective for meeting wastewater regulations for total coliforms,19 though such data are lacking for norovirus.
+An overview of outbreaks of norovirus or suspected
+norovirus among river rafters from 1994 to 2005 is
+shown in Table 1. Of the 6 outbreaks reported, 4 have
+occurred in the consecutive previous 4 years. Outbreaks
+have begun in May, July, August, and September and
+have lasted from just under 2 weeks to almost 2 months
+in duration. The river mile at which the ﬁrst case of each
+outbreak became ill varies from outbreak to outbreak.
+Sometimes, as in the 1998, 2002, and 2003 outbreaks,
+the ﬁrst illness occurred during the ﬁrst day of the trip,
+within 10 to 16 miles downriver, indicating that the virus
+was contracted prior to the trip. During the 1994, 2004,
+and 2005 outbreaks, the ﬁrst case was reported to have
+occurred several days into the trip and much farther
+downriver (20–136 miles), indicating that the virus may
+have been contracted on the river. In some cases, the
+source of the outbreak was speculated to be the river
+water, while some outbreaks are of unknown cause. The
+2005 outbreak was epidemiologically linked to contaminated sliced deli meat during an investigation performed
+by the National Park Service in cooperation with the
+
+11
+Coconino County Health Department and the Centers for
+Disease Control and Prevention (unpublished data).
+Some outbreaks have involved only 1 river rafting company, while others have involved several; the 1994 outbreak affected 15 companies, the 2002 affected 9, and
+the 2005 affected 13. The number of individual trips
+affected varies from 1 in 1998 and 2004 to 17 in 2002.
+During both the 2003 and 2005 outbreaks, helicopter
+evacuation of affected rafters was necessary. All outbreaks except one from 1998 to present were conﬁrmed
+via the presence of norovirus in stool samples from individual rafters or from composite stool samples taken
+from onboard toilets. Additionally, positive norovirus
+samples were obtained from the river water at Lee’s Ferry and the Glen Canyon Dam Wastewater Treatment
+Plant during the 2002 outbreak.18
+RECOMMENDATIONS
+Fomite contamination in norovirus outbreaks has been
+recognized as an important factor in the transmission of
+the disease in closed populations or conﬁned spaces.20,21
+Noroviruses are quite resistant to environmental stresses;
+they can withstand cleaning with detergent, and they are
+detectable after exposure to 5000 ppm chlorine on fomites.22 Noroviruses are also heat resistant and can survive a temperature of 37⬚C for up to 168 hours.23 Also,
+feline calicivirus, a surrogate for norovirus, has been
+shown to survive for up to 3 days on telephone buttons
+and receivers and for 1 to 2 days on a computer mouse.24
+Given the ability of this virus to survive on fomites in
+the environment, fomite contamination may play an important role in transmission of norovirus among river
+rafters, as commonly shared items such as drinking container spigots or serveware handles are handled by everyone on the trip. Cleaning items with detergent followed by disinfection with a detergent/bleach disinfectant (5000 ppm bleach) with a contact time of 1 minute
+is recommended for treating contaminated fomites.22
+Rafters are exposed to river water when it is used as
+the primary source of drinking water, but they are also
+exposed through accidental ingestion, bathing and washing activities, and sometimes through brushing their
+teeth. Water ﬁltration devices most commonly used by
+the rafters do not remove all viruses from water, so
+chemical treatment of the water after ﬁltering is necessary to ensure the water is safe for drinking. The chemical disinfection step is, however, sometimes omitted by
+those who object on principle to chemical water treatment or ingestion of chemically treated water. A 2-step
+process of ﬁltration followed by chemical treatment is
+recommended for drinking water. Point-of-use devices
+capable of reducing viral contamination are commer-
+
+
+
+12
+cially available25 and have been recently shown to reduce human noroviruses (Jones, unpublished data). The
+use of these devices could lessen the need for chemical
+treatment and increase compliance with water treatment
+goals and may help reduce the number of new outbreaks,
+or lessen the number of those who become ill in the
+advent of an outbreak.
+Ethanol solutions of 70% and 90% have been proved
+effective at killing 99% of feline calicivirus (a norovirus
+surrogate) within a contact time of 1 minute.26 The use of
+70% ethanol-based hand-sanitizing gels is advised on rafting trips to provide further sanitization of hands after washing or when clean water for hand washing is not available.
+Ill rafters and guides should avoid food handling and
+should clean and sanitize their hands before touching
+equipment. Because noroviruses can withstand cleaning
+with detergents22 and because of their potential for survival
+on fomites,24 the disinfection of rafts and equipment between trips is advised. Also, vomitus has been shown to
+contain approximately 107 viruses per vomiting incident,27
+and it should be considered infectious and should be disposed of in the same manner as fecal waste.
+Continued examination of the epidemiology of norovirus outbreaks among rafters on the Colorado River is
+needed, because the source of most outbreaks is unknown. Epidemiological investigations may result in information about the source or sources of norovirus, and
+this information would be useful in prevention or control
+of future outbreaks. Data regarding UV doses required
+for inactivation of norovirus would be useful to assess
+which levels are adequate to treat wastewater. Existing
+technologies aimed at meeting bacterial standards may
+not be enough for inactivation of enteric viruses.19 Standards relevant to enteric viruses are needed.
+LIMITATIONS
+There are several limitations inherent in this study. Testing the river for noroviruses is problematic because the
+total volume of the river is so high that the virus becomes very dilute and difﬁcult to detect. Concentration
+of the viruses in environmental samples is inefﬁcient.
+Using a reach-averaged model of diurnal discharge wave
+propagation down the Colorado River generated by the
+US Geological Survey28 and monthly stream ﬂow statistics for the Colorado River below Glen Canyon Dam,
+it can be approximated that on average there are 1.7 ⫻
+1011 L of river water between Lee’s Ferry and Diamond
+Creek, in July, at any moment in time. This is a large
+volume of recreational water. At the same time, however,
+rafter exposure to this water is quite great. The average
+rafter may consume up to 4 L of river water per day,
+and there may be 200 to 500 rafters on the river on any
+
+Jones et al
+given day. This is an overall exposure of 800 to 2000 L
+of water per day. There are between 106 and 1011 noroviruses in just 1 g of fecal matter.27,29 At an average
+of 109 viruses per gram, an inoculum of 500 g of norovirus-containing stool into 1.7 ⫻ 1011 L of water
+would result in a level of contamination of 3 viruses per
+liter, assuming even dispersion. Because of the volume
+of water consumed and the infectiousness of the virus,
+the level of contamination required to make one person
+ill on the Colorado River is small. Also, diffusion of the
+virus throughout the huge volume of moving water is
+not immediately complete, and in some locations a
+point-source, such as an index case, may provide for
+exposure to extremely high doses of virus by some rafters. At this time, no human dose-response data or human dose-response model ﬁtting have been published for
+norovirus. Consequently, extrapolations and microbial
+risk assessments are difﬁcult or impossible to perform
+for this virus. It is possible that norovirus is present in
+the Colorado River at such low levels that it is below
+the level of detection of current methodology, 3 viruses
+per 1000 L30; typical sample volumes range from 100
+to 400 L depending on the quality (organic content, turbidity) of the water being ﬁltered. However, negative test
+results from repeated testing of the river do indicate that
+there is not an ongoing high level of norovirus contamination in the river. Dose-response data are available for
+many other enteric viruses, and the concentrations of
+organisms resulting in a 10⫺4 annual risk of infection
+have been shown to be quite low: 2.2 ⫻ 10⫺7 organisms
+per liter for rotavirus, 1.5 ⫻ 10⫺5 organisms per liter for
+polio 1, and 6.8 ⫻ 10⫺5 organisms per liter for echovirus
+12.31 While multiple samples taken from one site over
+time are ideal, the high cost per sample and the remote
+location of the Colorado River sampling sites limited our
+ability to collect samples and reduced the total number
+of samples that could be practically collected for study.
+Sources of norovirus infection among Colorado River
+rafters remain unclear, but several sources are likely responsible. Cases and outbreaks of norovirus, both sporadically and among speciﬁc groups or in speciﬁc settings, continue to occur. Further investigation of these
+outbreaks and epidemiological analysis may aid in the
+understanding of noroviruses and in prevention of and
+response to norovirus outbreaks.
+Acknowledgments
+Ellen Jones is the recipient of a Board Fellowship from
+the National Swimming Pool Foundation. This work was
+supported in part by a grant from the Technology and
+Research Initiative Fund (TRIF).
+
+
+
+Water Quality in the Colorado River
+References
+1. Mead PS, Slutsker L, Dietz V, et al. Food-related illness
+and death in the United States. Emerg Infect Dis. 1999;5:
+607–625.
+2. Lopman BA, Adak GK, Reacher MH, Brown DWG. Two
+epidemiologic patterns of norovirus outbreaks: surveillance in England and Wales, 1992–2000. Emerg Infect Dis.
+2003;9:71–77.
+3. Centers for Disease Control and Prevention (CDC). Outbreaks of gastroenteritis associated with noroviruses on
+cruise ships—United States, 2002. MMWR Morb Mortal
+Wkly Rep. 2002;51:1112–1115.
+4. National Park Service. Final Environmental Impact Statement: Colorado River Management Plan. Vol 2. Grand
+Canyon National Park; 2005. Washington, DC: U.S. Department of the Interior.
+5. Merson MH, Goldman DA, Boyer KM, et al. An outbreak
+of Shigella sonnei gastroenteritis on Colorado River raft
+trips. Am J Epidemiol. 1974;100:186–196.
+6. Gray JJ, Green J, Cunliffe C, et al. Mixed genogroup
+SRSV infections among a party of canoeists exposed to
+contaminated recreational water. J Med Virol. 1997;52:
+425–429.
+7. Peipins LA, Highﬁll KA, Barrett E, et al. A Norwalk-like
+virus outbreak on the Appalachian Trail. J Environ Health.
+2002;64:18–23.
+8. Anderson AD, Heryford AG, Sarisky JP, et al. A waterborne outbreak of Norwalk-like virus among snowmobilers—Wyoming, 2001. J Infect Dis. 2003;187:303–306.
+9. Hoebe CJPA, Vennema H, de Roda Husman AM, van
+Duynhoven YTHP. Norovirus outbreak among primary
+schoolchildren who had played in a recreational water
+fountain. J Infect Dis. 2004;189:699–705.
+10. Stark M. Outbreak at Yellowstone blamed on norovirus.
+Billings Gazette. Available at: http://www.billingsgazette.
+net/articles/2004/07/09/wyoming/export163958.txt. Accessed September 23, 2004.
+11. Centers for Disease Control and Prevention (CDC). An
+outbreak of norovirus gastroenteritis at a swimming
+club—Vermont, 2004. MMWR Morb Mortal Wkly Rep.
+2004;53:793–795.
+12. Maunula L, Kalso S, Von Bonsdorff CH, Pönka A. Wading pool water contaminated with both noroviruses and
+astroviruses as the source of a gastroenteritis outbreak. Epidemiol Infect. 2004;132:737–743.
+13. Clesceri LS, Greenberg AE, Eaton AD, eds. Standard
+Methods for the Examination of Water and Wastewater.
+20th ed. Washington, DC: American Public Health Association; 1998.
+14. Sobsey MD, Glass JS. Inﬂuence of water quality on enteric virus concentration by microporous ﬁlter methods.
+Appl Environ Microbiol. 1984;47:956–960.
+15. Schwab KJ, De Leon R, Sobsey MD. Concentration and
+puriﬁcation of beef extract mock eluates from water samples for the detection of enteroviruses, hepatitis A virus,
+and Norwalk virus by reverse transcription–PCR. Appl Environ Microbiol. 1995;61:531–537.
+
+13
+16. Vinje J, Hamidjaja RA, Sobsey MD. Development and
+application of a capsid VP1 (region D) based reverse transcription PCR assay for genotyping of genogroup I and II
+noroviruses. J Virol Methods. 2004;116:109–117.
+17. Vinje J, Vennema H, Maunula L, et al. International collaborative study to compare reverse transcriptase PCR assays for detection and genotyping of noroviruses. J Clin
+Micro Biol. 2003;41:1423–1433.
+18. Higgins CL. Outbreak of Gastrointestinal Illness in Grand
+Canyon River Rafters: Preliminary Report. Washington,
+DC: U.S. Department of the Interior; 2002.
+19. Thompson SS, Jackson JL, Suva-Castillo M, et al. Detection of infectious human adenoviruses in tertiary-treated
+and ultraviolet-disinfected wastewater. Water Environ Res.
+2003;75:163–170.
+20. Cheesbrough JS, Green J, Gallimore CI, Wright PA,
+Brown DWG. Widespread environmental contamination
+with Norwalk-like viruses (NLV) detected in a prolonged
+hotel outbreak of gastroenteritis. Epidemiol Infect. 2000;
+125:93–98.
+21. Evans MR, Meldrum R, Lane W, et al. An outbreak of
+viral gastroenteritis following environmental contamination at a concert hall. Epidemiol Infect. 2002;129:355–360.
+22. Barker J, Vipond IB, Bloomﬁeld SF. Effects of cleaning
+and disinfection in reducing the spread of Norovirus contamination via environmental surfaces. J Hosp Infect.
+2004;58:42–49.
+23. Duizer E, Bijkerk P, Rockx B, de Groot A, Twisk F, Koopmans M. Inactivation of caliciviruses. Appl Environ Microbiol. 2004;70:4538–4543.
+24. Clay S, Maherchandani S, Malik YS, Goyal SM. Survival
+on uncommon fomites of feline calicivirus, a surrogate of
+noroviruses. Am J Infect Control. 2006;34:41–43.
+25. Gerba CP, Naranjo JE. Microbiological water puriﬁcation
+without the use of chemical disinfection. Wilderness Environ Med. 2000;11:12–16.
+26. Malik YS, Maherchandi S, Goyal SM. Comparative efﬁcacy
+of ethanol and isopropanol against feline calicivirus, a norovirus surrogate. Am J Infect Control. 2006;34:31–35.
+27. Lund F, Lindqvist R. Virus in food and drinking water in
+Sweden—norovirus and hepatitis A virus. Livsmedels Verket
+National Food Administration: Sweden. 2004, Rapport 22.
+28. Wiele SM, Smith JD. A reach-averaged model of diurnal
+discharge wave propagation down the Colorado River
+through the Grand Canyon. Water Resour Res. 1996;32:
+1375–1386.
+29. Pang X, Lee B, Chui L, Preiksaitis JK, Monroe SS. Evaluation and validation of real-time reverse transcription–
+PCR assay using the LightCycler system for detection and
+quantitation of norovirus. J Clin Microbiol. 2004;42:
+4679–4685.
+30. Sobsey MD, Glass JS. Poliovirus concentration from tap
+water with electropositive adsorbent ﬁlters. Appl Environ
+Microbiol. 1980;40:201–210.
+31. Regli S, Rose JB, Haas CN, Gerba CP. Modeling the risk
+from Giardia and viruses in drinking water. J Am Water
+Works Assoc. 1991;83:76–84.
+
+

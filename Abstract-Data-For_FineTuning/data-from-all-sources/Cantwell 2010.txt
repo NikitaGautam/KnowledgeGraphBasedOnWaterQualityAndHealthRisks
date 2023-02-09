@@ -1,0 +1,358 @@
+FOODBORNE PATHOGENS AND DISEASE
+Volume 7, Number 10, 2010
+ª Mary Ann Liebert, Inc.
+DOI: 10.1089/fpd.2010.0567
+
+The Effect of Different Recall Periods on Estimates
+of Acute Gastroenteritis in the United States,
+FoodNet Population Survey 2006–2007
+Laura B. Cantwell,1,2,* Olga L. Henao,1 Robert M. Hoekstra,1 and Elaine Scallan1
+
+Abstract
+
+Background: A number of countries have estimated the prevalence of acute gastroenteritis by asking survey
+respondents to recall past episodes of diarrhea; however, the recall period used varies between studies. We
+conducted a survey to examine the effects of 7-day and 1-month recall periods on the estimated annual episodes
+of acute gastroenteritis. Further, we examine whether asking first about illness in the previous 7 days affects a
+person’s response to a 1-month recall period.
+Methods: The Foodborne Diseases Active Surveillance Network (FoodNet) conducted a population-based
+telephone survey that included asking respondents about the occurrence of gastrointestinal symptoms. From
+February through April 2007, we randomly split respondents into two groups to examine effect of recall periods
+and question order. One group was first asked about symptoms in the 7 days before interview and then asked
+about symptoms in the month before interview. The other group was asked only about symptoms in the month
+before interview.
+Results: Overall, the monthly prevalence of acute diarrheal illness (3 loose stools in 24-hours, lasting >1 day,
+or restricting daily activities) was 7.7%. This proportion was consistent among the respondents who were
+first asked about a 7-day recall period (n ¼ 1436) and those asked only about symptoms in the past month
+(n ¼ 2132). Extrapolation from the reported 7-day prevalence of 3.1% to an annual rate of 1.6 episodes per
+person, however, was almost twice the rate of episodes estimated when extrapolating from the month recall
+period. Similar findings were found with acute gastroenteritis (acute diarrheal illness or vomiting without
+respiratory symptoms).
+Conclusions: First asking respondents about a 7-day recall period did not affect the prevalence of acute gastroenteritis reported for a 1-month recall period. Recall period length did, however, have a major impact on
+estimates of acute gastroenteritis. Retrospective studies using different recall periods may not be comparable.
+
+Introduction
+
+A
+
+cute gastroenteritis, caused by a variety of infectious
+agents, many of which are acquired by consumption of
+contaminated food, is a common cause of morbidity and
+mortality worldwide (WHO, 2008). Because many persons
+with acute gastroenteritis do not seek medical care or submit
+a specimen for laboratory testing, only a small proportion of
+foodborne illnesses receive a laboratory-confirmed diagnosis and are reported to public health surveillance (Scallan
+et al., 2006). To better determine the overall human health
+impact of foodborne diseases, some countries have conducted studies to estimate the prevalence and incidence of
+acute gastroenteritis (Mead et al., 1999; Flint et al., 2005;
+
+Scallan et al., 2005). These studies provide important information for prioritizing interventions aimed at preventing
+disease.
+Generally, studies of the incidence of acute gastroenteritis
+for estimating the burden of foodborne illness fall into two
+categories: prospective cohort study or retrospective crosssectional study. Cross-sectional studies are relatively less expensive and easier to implement than prospective cohort
+studies. Although it is not clear which study provides the
+most accurate estimate, prospective cohort studies consistently report a lower frequency of acute gastroenteritis than
+cross-sectional surveys (Roy et al., 2006). The case definition
+used also has been shown to have an important impact on
+disease estimates (Majowicz et al., 2008).
+
+1
+
+Centers for Disease Control and Prevention, Atlanta, Georgia.
+Atlanta Research and Education Foundation, Atlanta, Georgia.
+*Present address: University of Pennsylvania, Philadelphia, Pennsylvania.
+2
+
+1225
+
+
+
+1226
+
+CANTWELL ET AL.
+
+Evidence also exists that length of the recall period may
+impact estimates of the incidence of acute gastroenteritis, with
+a higher incidence of diarrhea being reported among both
+adults and children in developing countries when asked
+about shorter, more recent time periods (Ramakrishnan et al.,
+1999; Melo et al., 2007; Feikin et al., 2010). To examine the
+impact of recall period on estimates of the incidence of acute
+gastroenteritis in the United States, we designed the 2006–
+2007 The Foodborne Diseases Active Surveillance Network
+(FoodNet) Population Survey to address two specific questions: Would a 7-day recall period result in a higher prevalence of acute gastroenteritis than a 1-month recall period?
+If yes, would asking first about the illness in the past 7 days
+affect the respondent’s response to a 1-month recall period?
+Materials and Methods
+FoodNet is the principal foodborne disease component of
+the Centers for Disease Control and Prevention’s (CDC)
+Emerging Infections Program and is a collaborative program
+among the U.S. Department of Agriculture, the U.S. Food and
+Drug Administration, and participating state health departments. FoodNet included 10 sites (Connecticut, Georgia,
+Maryland, Minnesota, New Mexico, Oregon, Tennessee, and
+selected counties in California, Colorado, and New York),
+covering 44.9 million persons or 15% of the U.S. population
+in 2006.
+One of FoodNet’s primary objectives is to determine the
+overall burden of foodborne illness in the United States. To
+achieve this, FoodNet supplements active, population-based
+surveillance for laboratory-confirmed cases of infection with
+surveys of the general population to determine the prevalence
+of acute gastroenteritis and associated medical care-seeking
+behaviors. The FoodNet Population Survey is a telephone
+survey of residents of the FoodNet sites administered using
+methods developed by CDC’s Behavioral Risk Factor Surveillance System (CDC, 2002). Survey participants are selected through a two-stage process. First, a random household
+is selected; then, an individual from that household is selected
+at random using a computer-generated model that takes into
+account the number of males and females in a household. All
+persons residing in the FoodNet catchment are eligible with
+proxy interviews of parents or guardians used for those persons <12 years of age. A professional survey research company conducted the interviews using a computer-assisted
+telephone interviewing system, with the goal of 120 to 150
+complete interviews per site each month.
+To assess the impact of different recall periods when estimating the prevalence of acute gastroenteritis, the 2006–2007
+FoodNet Population Survey used two different recall periods
+during its fourth quarter (February to April, 2007) when
+questioning participants about their history of diarrhea. The
+survey included a 7-day and 1-month recall period, and also
+changed the sequence of questions to assess the impact of
+question order (Fig. 1). Respondents were randomly assigned
+into one of two groups. The first group was asked, ‘‘In the past
+month, did you have vomiting?’’ and ‘‘In the past month, did
+you have diarrhea?’’ The second group of respondents was
+asked, ‘‘In the past 7 days did you have vomiting?’’ and ‘‘In the
+past 7 days, did you have diarrhea?’’ followed by ‘‘In the past
+month, did you have diarrhea?’’ The survey included additional
+questions on symptoms and illness severity, such as cough and
+
+FIG. 1. Weighted prevalence of acute diarrheal illness in
+the past 7 days and past month and varied question order,
+Foodborne Disease Active Surveillance Network (FoodNet)
+Population Survey, 2006–2007.
+sore throat, number of loose stools in 24 hours, duration of illness, and number of days missed from work or school.
+We tested differences in estimates with two definitions recently used in studies of foodborne disease in the United
+States. Acute diarrheal illness (ADI) was defined as diarrhea
+(3 loose stools in a 24-hour period) lasting >1 day or with
+restriction of daily activities ( Jones et al., 2007). Acute gastrointestinal illness was defined as diarrhea (3 loose stools in
+a 24-hour period) or vomiting, lasting >1 day or resulting in
+the restriction of daily activities, and excluding those who
+reported symptoms of cough or sore throat (Scallan, unpublished data, 2009). All analyses excluded persons reporting a
+chronic illness in which diarrhea or vomiting was a major
+symptom. To compare the month and week recall periods, we
+multiplied the weekly proportion by 4 for an estimated
+monthly prevalence and calculated an annual rate from each
+recall period (number of episodes per person per year). We
+calculated frequencies, with corresponding 95% confidence
+intervals, and weighted all estimates to the FoodNet population to adjust for age, sex, and study design. SAS 9.0 survey
+procedures were used for analysis (SAS v9.0, Cary, NC).
+Results
+The FoodNet Population Survey included 3862 interviews
+in the fourth quarter when both recall periods were asked. The
+participants were 59.6% female, 85.3% white, 6.5% black or
+African American, and 6.6% Hispanic, and median age was
+51 years (range, <1–99 years). After excluding persons reporting a chronic illness with diarrhea or vomiting as a major
+symptom, further analyses included 3568 participants.
+These participants were split into two groups, and among
+the 2132 participants asked only about the past month, 7.7% of
+
+
+
+EFFECT OF RECALL PERIODS ON ILLNESS ESTIMATES
+
+1227
+
+Table 1. Estimated and Projected Prevalence of Acute Diarrheal Illness and Acute Gastrointestinal
+Illness in the United States, by Recall Period, Foodborne Diseases Active Surveillance
+Network (FoodNet) Population Survey,a 2006–2007
+Month recall period
+Actual monthly %
+(95% CI)
+Acute diarrheal illness
+7.7 (6.1–9.3)
+Acute gastrointestinal illness
+6.4 (4.8–7.9)
+
+Week recall period
+
+Estimated
+episodes/person/year
+
+Actual weekly %
+(95% CI)
+
+Estimated
+episodes/person/year
+
+Ratio of annual estimate
+(month:week)
+
+0.9
+
+3.1 (1.4–4.8)
+
+1.6
+
+1:1.8
+
+0.8
+
+5.2 (3.3–7.2)
+
+2.7
+
+1:3.4
+
+a
+Data from two independent samples are displayed for the 2006–2007 survey. One group was asked about diarrhea in the month before
+interview, and the other was asked about diarrhea in the 7 days before interview.
+CI, confidence interval.
+
+reported ADI in the past month. Of the remaining 1436 respondents in the second group, 3.1% reported having ADI in
+the past 7 days. These 1436 respondents were then asked
+about diarrhea in the past month; 7.3% reported having ADI
+during this time frame (Fig. 1). When extrapolated to estimate
+the number of episodes of ADI per person per year, there were
+1.6 episodes per year for a 7-day recall period, compared with
+0.9 episodes per year for a 1-month recall period (Table 1).
+When examining the impact of the recall periods using the
+definition of acute gastrointestinal illness, the prevalence was
+6.4% for a 1-month recall period and 5.2% for a 7-day recall
+period, resulting in annual estimates of 0.8 episodes per person per year for a 1-month recall period and 2.7 episodes
+per person per year for a 7-day recall period (Table 1). Estimates from a 7-day recall period were consistently higher
+than from a 1-month recall period when examined by sex and
+also by age groups.
+The prevalence of ADI in the past month (7.7%) among
+those asked only about a 1-month recall period was similar
+(7.3%) to that reported by the other half of participants who
+were asked first about a 7-day recall period and then about
+diarrhea in the past month (Fig. 1).
+Discussion
+Recall period length has a major impact on estimates of the
+prevalence of ADI and gastrointestinal illness, and estimates
+derived using different recall periods may not be comparable.
+Retrospectively asking respondents about illness in the past
+7 days produced higher estimates than asking respondents
+about illness in the past month, regardless of order in which
+recall periods were asked. In fact, annual rates of ADI derived
+using 7-day prevalence estimates were twice the rate estimated using monthly prevalence estimates, and annual rates
+of acute gastrointestinal illness were 1.8 to 3.4 times higher
+when using a 7-day recall period instead of a 1-month recall
+period. These findings were consistent when applying either
+the ADI definition or the acute gastrointestinal illness definition. To compare the burden of ADI or gastrointestinal illness
+among retrospective cross-sectional studies, a common recall
+period should be used. Standardizing these methodological
+choices is also important if studies are to contribute to valid
+estimates of the global burden of ADI.
+We determined that first asking respondents about a 7-day
+recall period did not affect the prevalence of acute gastroenteritis reported for a 1-month recall period. We had hypoth-
+
+esized that responding to the question about a short recall
+period (7 days) would influence the respondent’s answer to
+the long (1 month) recall period. That is, the initial question
+would have the effect of bounding the respondent’s recall,
+therefore acting as a recall aid and increasing the accuracy of
+respondent recall. For example, a study by Loftus et al. (1990)
+found that respondents reported fewer health procedures
+over a 2-month period when first asked about the number of
+health procedures undergone over a 6-month period. We did
+not find such an effect in this study. The 1-month prevalence
+of ADI in the 2006–2007 Population Survey was the same in
+the two independent groups despite one being asked first
+about a 7-day recall period.
+Without verification of the reports of illness, we are unable
+to determine which timeframe gives a more accurate estimate.
+Lee and Brown (2004) suggest that when people need to guess
+the date of an event within a given timeframe, the tendency is
+to take the midpoint. Further studies are needed to determine
+if there is a consistent ratio between a 1-week and 1-month
+estimate. This ratio could then be applied to the estimates so
+that studies that used different timeframes could be compared. In the absence of such studies, only studies using the
+same timeframe can be compared. Because we could not determine which recall period is more accurate, the FoodNet
+Population Survey and other studies should continue to ask
+about both periods. The authors recommend additional
+studies or a future FoodNet Population survey that further
+examines timeframe effects, including a 1-day recall period
+commonly used in less industrialized countries, where
+households are visited several times per week (Kosek et al.,
+2003).
+Conclusions
+The findings of this study impact the design and analyses of
+retrospective studies that aim to estimate the burden of acute
+gastroenteritis. They underscore the need to consider the
+timeframes used in studies when comparing estimates and
+suggest that a 1-month recall period underestimates the global burden of foodborne illness.
+Acknowledgments
+This study was funded by the Centers for Disease Control
+and Protection Emerging Infections Program, the U.S. Department of Agriculture Food Safety and Inspection Service,
+
+
+
+1228
+and the Food and Drug Administration Center for Food
+Safety and Applied Nutrition. The authors acknowledge the
+staff in the 10 FoodNet sites and the FoodNet working group
+for their efforts in the FoodNet Population Survey.
+Disclosure Statement
+No competing financial interests exist.
+References
+[CDC] Centers for Disease Control and Prevention. Behavioral
+Risk Factor Surveillance System Survey Data. Atlanta, Georgia:
+U.S. Department of Health and Human Services, Centers for
+Disease Control and Prevention, 2002.
+Feikin DR, Audi A, Olack B, Bigogo GM, Polyak C, Burke H,
+Williamson J, and Breiman RF. Evaluation of the optimal recall period for disease symptoms in home-based morbidity
+surveillance in rural and urban Kenya. Int J Epidemiol
+2010;39:450–458.
+Flint JA, Van Duynhoven YT, Angulo FJ, DeLong SM, Braun P,
+Kirk M, Scallan E, Fitzgerald M, Adak GK, Sockett P, Ellis A,
+Hall G, Gargouri N, Walke H, and Braam P. Estimating the
+burden of acute gastroenteritis, foodborne disease, and pathogens commonly transmitted by food: an international review.
+Clin Infect Dis 2005;41:698–704.
+Jones TF, McMillian MB, Scallan E, Frenzen PD, Cronquist AB,
+Thomas S, and Angulo FJ. A population-based estimate of the
+substantial burden of diarrhoeal disease in the United States;
+FoodNet 1996–2003. Epidemiol Infect 2007;135:293–301.
+Kosek M, Bern C, and Guerrant RL. The global burden of diarrhoeal disease, as estimated from studies published between
+1992 and 2000. Bull World Health Organ 2003;81:197–204.
+Lee PJ and Brown NR. The role of guessing and boundaries on
+date estimation biases. Psychon Bull Rev 2004;11:748–754.
+Loftus EF, Klinger MR, Smith KD, and Fiedler J. A tale of two
+questions: benefits of asking more than one question. Public
+Opin Q 1990;54:330–345.
+
+CANTWELL ET AL.
+Majowicz SE, Hall G, Scallan E, Adak GK, Gauci C, Jones TF,
+O’Brien S, Henao O, and Sockett PN. A common, symptombased case definition for gastroenteritis. Epidemiol Infect
+2008;136:886–894.
+Mead PS, Slutsker L, Dietz V, McCaig LF, Bresee JS, Shapiro C,
+Griffin PM, and Tauxe RV. Food related illness and death in
+the United States. Emerg Infect Dis 1999;5:607–625.
+Melo MC, Taddei JA, Diniz-Santos DR, May DS, Carneiro NB,
+and Silva LR. Incidence of diarrhea: poor parental recall
+ability. Braz J Infect Dis 2007;11:571–579.
+Ramakrishnan R, Venkatarao T, Koya PK, and Kamaraj P. Influence of recall period on estimates of diarrhoea morbidity in
+infants in rural Tamilnadu. Indian J Public Health 1999;43:
+136–139.
+Roy SL, Scallan E, and Beach MJ. The rate of acute gastrointestinal
+illness in developed countries. J Water Health 2006;4:31–69.
+Scallan E, Jones TF, Cronquist A, Thomas S, Frenzen P, Hoefer
+D, Medus C, and Angulo FJ; FoodNet Working Group. Factors associated with seeking medical care and submitting a
+stool sample in estimating the burden of foodborne illness.
+Foodborne Pathog Dis 2006;3:432–438.
+Scallan E, Majowicz SE, Hall G, Banerjee A, Bowman CL, Daly L,
+Jones T, Kirk MD, Fitzgerald M, and Angulo FJ. Prevalence of
+diarrhoea in the community in Australia, Canada, Ireland,
+and the United States. Int J Epidemiol 2005;34:454–460.
+[WHO] World Health Organization. World Health Statistics
+2008. 2008. Available at www.who.int/whosis/whostat/
+2008/en/index.html, accessed May 5, 2009. (Online.)
+
+Address correspondence to:
+Laura B. Cantwell, M.P.H.
+University of Pennsylvania
+608A Stellar Chance Laboratories
+422 Curie Blvd.
+Philadelphia, PA 19104-6100
+E-mail: lcant@mail.med.upenn.edu
+
+

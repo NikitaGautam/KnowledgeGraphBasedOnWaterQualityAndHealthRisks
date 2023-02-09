@@ -1,0 +1,1690 @@
+toxins
+Review
+
+Co-Occurrence of Cyanobacteria and Cyanotoxins
+with Other Environmental Health Hazards:
+Impacts and Implications
+James S. Metcalf 1, * and Geoffrey A. Codd 2,3
+1
+2
+3
+
+*
+
+Brain Chemistry Labs, Jackson, WY 83001, USA
+School of Life Sciences, University of Dundee, Dundee DD1 5EH, UK; g.a.codd@stir.ac.uk
+Biological and Environmental Sciences, University of Stirling, Stirling FK9 4LA, UK
+Correspondence: james@ethnomedicine.org; Tel.: +1-307-734-1680
+
+Received: 11 August 2020; Accepted: 15 September 2020; Published: 1 October 2020
+
+
+
+
+Abstract: Toxin-producing cyanobacteria in aquatic, terrestrial, and aerial environments can occur
+alongside a wide range of additional health hazards including biological agents and synthetic
+materials. Cases of intoxications involving cyanobacteria and cyanotoxins, with exposure to additional
+hazards, are discussed. Examples of the co-occurrence of cyanobacteria in such combinations are
+reviewed, including cyanobacteria and cyanotoxins plus algal toxins, microbial pathogens and
+fecal indicator bacteria, metals, pesticides, and microplastics. Toxicity assessments of cyanobacteria,
+cyanotoxins, and these additional agents, where investigated in bioassays and in defined combinations,
+are discussed and further research needs are identified.
+Keywords: cyanobacteria; co-occurrence; toxicity; plastics; metals; biocide
+Key Contribution: This review article examines the potential for co-occurrence of cyanobacterial
+toxins with other toxic compounds, bacteria, and chemicals. An understanding of such risks is
+essential to accurately assess the threat of these combinations to human health.
+
+1. Introduction
+Research on the production, properties, monitoring, and analysis of toxigenic cyanobacteria,
+and of particular cyanotoxins, has increased greatly over the past 40 years [1–5]. Aspects of the
+environmental occurrence, biosynthesis, properties, and health significance of the most widely
+investigated individual classes of cyanotoxins, principally the microcystins, nodularins, saxitoxins,
+cylindrospermopsins, and anatoxins have been reviewed [6–12]. On the toxicity assessment of
+cyanobacterial cultures and environmental samples containing cyanobacteria, and the involvement
+of specific cyanotoxins, the research has passed through several discernible phases. The earliest
+known experimental investigations into the suspected toxicity of cyanobacteria, which followed
+animal poisonings, were performed by George Francis [13,14]. These involved the oral dosing of
+healthy animals, of the same species which had succumbed to intoxication, with the suspected toxic
+material, in this case Nodularia scum, and the consequent replication in the dosed animals of mortalities
+and gross signs of organ damage. Bioassays, a quantitative development of this logical approach,
+but initially without the chemical identification and quantification of the toxic substances in the test
+material, were then increasingly used to test for toxic principles for several decades [1–3]. These were
+gradually complemented, and then overtaken by the emerging methods for the identification and
+quantification of specific cyanotoxins in the test material and the quantitative characterization of
+toxicity using individual purified cyanotoxins originally obtained via bioassay-guided purification
+of cyanobacterial material. The increasing availability of physico-chemical methods for analysis
+Toxins 2020, 12, 629; doi:10.3390/toxins12100629
+
+www.mdpi.com/journal/toxins
+
+
+
+Toxins 2020, 12, 629
+
+2 of 17
+
+Toxins 2020, 12, x FOR PEER REVIEW
+
+2 of 16
+
+and anatoxin-a,
+cyanotoxinand
+purification,
+especially for microcystins,
+nodularin-R,
+saxitoxins
+and anatoxin-a,
+and
+later for cylindrospermopsins
+[1–5], appears
+to have led
+to an increased
+focus on
+and
+later
+for
+cylindrospermopsins
+[1–5],
+appears
+to
+have
+led
+to
+an
+increased
+focus
+on
+use of these
+the use of these methods, with a corresponding decline in the use of the whole animalthe
+bioassays.
+The
+methods,
+with
+a corresponding
+in the
+of the
+whole
+animal bioassays.
+The move
+move
+away
+from
+whole animal decline
+bioassays
+hasuse
+been
+further
+influenced
+by increasing
+ethicalaway
+and
+from whole animal
+bioassays
+hasnon-mammalian
+been further influenced
+by biochemical,
+increasing ethical
+and humanitarian
+humanitarian
+concerns.
+Although
+in vivo and
+enzyme-based,
+and cellconcerns.
+Although
+non-mammalian
+in
+vivo
+and
+biochemical,
+enzyme-based,
+and
+in vitro
+based in vitro bioassays are available [3,15] the continuing focus on the use of cell-based
+physico-chemical
+bioassayshas
+arealso
+available
+the continuing
+focus onneed
+the use
+physico-chemical
+methods
+has also
+methods
+been [3,15]
+influenced
+by the increasing
+for of
+validated,
+quantitative
+procedures
+to
+been
+influenced
+by
+the
+increasing
+need
+for
+validated,
+quantitative
+procedures
+to
+satisfy
+statutory
+satisfy statutory regulations and guidelines [16]. In addition, genetic methods [17] may also
+regulationsto
+and
+guidelines in
+[16].
+In addition,
+genetic methods
+[17]
+may also contribute
+a reductionthe
+in
+contribute
+a reduction
+bioassay
+use through
+providing
+alternative
+testing to to
+understand
+bioassay
+use
+through
+providing
+alternative
+testing
+to
+understand
+the
+potential
+for
+toxin
+production
+potential for toxin production by cyanobacteria.
+by cyanobacteria.
+The further development and application of physico-chemical analytical methods for the
+The further
+development
+and applicationofofspecific
+physico-chemical
+analytical
+methods
+for the
+detection,
+detection,
+identification,
+and quantification
+cyanotoxins
+continues
+to support
+and
+enable
+identification,
+and
+quantification
+of
+specific
+cyanotoxins
+continues
+to
+support
+and
+enable
+the
+application
+the application of policies for the risk management of water resources affected by cyanobacterial mass
+of policies for These
+the riskinclude
+management
+of water
+resources
+affected byclasses
+cyanobacterial
+mass populations.
+populations.
+specific
+methods
+for individual
+of cyanotoxins
+[5] and,
+These
+include
+specific
+methods
+for
+individual
+classes
+of
+cyanotoxins
+[5]
+and,
+increasingly,
+methods
+for
+increasingly, methods for the multiclass analysis of the toxins in single procedures [18–21]. However,
+the
+multiclass
+analysis
+of
+the
+toxins
+in
+single
+procedures
+[18–21].
+However,
+whilst
+such
+methods
+alone
+whilst such methods alone can provide a partial indication of toxicity presented by axenic strains of
+can provide a partial
+of toxicity presented
+of cyanobacteria
+grown in the
+cyanobacteria
+grownindication
+in the laboratory,
+they may by
+notaxenic
+take strains
+into full
+account the toxicological
+laboratory,
+they
+may
+not
+take
+into
+full
+account
+the
+toxicological
+significance
+of
+mass
+populations
+of
+significance of mass populations of cyanobacteria in open environments.
+cyanobacteria
+in
+open
+environments.
+In marine and freshwater environments and in terrestrial and aerial habitats, whilst
+In marine can
+and readily
+freshwater
+environments
+and in i.e.,
+terrestrial
+and aerial
+habitats,
+whilst
+cyanobacteria
+cyanobacteria
+appear
+as “dominant”,
+to account
+for the
+majority
+of the
+microbial
+can
+readily
+appear
+as
+“dominant”,
+i.e.,
+to
+account
+for
+the
+majority
+of
+the
+microbial
+biomass,
+they can
+biomass, they can be accompanied by a wide range of other microbes including microalgae,
+be accompanied by a wide
+range
+of other
+microbes
+including
+chemoheterotrophic
+bacteria,
+chemoheterotrophic
+bacteria,
+and
+protozoa
+[22,23].
+Wheremicroalgae,
+such environments
+are subjected
+to
+and
+protozoa
+[22,23].
+Where
+such
+environments
+are
+subjected
+to
+intensive
+anthropogenic
+human
+intensive anthropogenic human pressures (e.g., wastewater and human sewage disposal and
+pressures (e.g.,
+wastewater
+and human
+sewage disposal
+and industrial
+discharges),
+the dominant
+industrial
+discharges),
+the dominant
+cyanobacteria
+can co-occur
+with additional
+biological
+toxins
+cyanobacteria
+can co-occur
+additional
+biological
+toxins (e.g.,
+[19]), [24].
+chemical
+pollutants
+(e.g.,
+[19]), chemical
+pollutantswith
+e.g., metals
+[23], and
+with pathogenic
+microbes
+Examples
+of the
+e.g.,
+metals
+[23],
+and
+with
+pathogenic
+microbes
+[24].
+Examples
+of
+the
+co-occurrence
+of
+cyanotoxins,
+co-occurrence of cyanotoxins, plus other chemical agents and microbial pathogens, and cases of coplus other are
+chemical
+agents(Figure
+and microbial
+pathogens,
+and cases
+of co-exposure
+reviewed
+(Figure of
+1).
+exposure
+reviewed
+1). Research
+to further
+understand
+the are
+health
+significance
+Research to further
+understand
+healthcontext
+significance
+of cyanotoxins
+is discussed
+in aco-exposures
+broader context
+of
+cyanotoxins
+is discussed
+in a the
+broader
+of cyanotoxin
+co-occurrence
+and
+with
+cyanotoxin
+co-occurrence
+and
+co-exposures
+with
+additional
+biological
+and
+anthropogenic
+toxic
+agents.
+additional biological and anthropogenic toxic agents.
+
+Figure1.1. Examples
+Examples of
+of interactions
+interactions of
+Figure
+of cyanobacteria
+cyanobacteria with
+withother
+otherpotentially
+potentiallytoxic
+toxiccomponents
+componentsofofwater.
+water.
+
+to to
+toxic
+compounds
+involves
+mixtures
+of two
+more
+toxic
+It is well
+wellestablished
+establishedthat
+thatwhen
+whenexposure
+exposure
+toxic
+compounds
+involves
+mixtures
+of or
+two
+or more
+substances,
+the effect
+such mixtures
+susceptible
+individuals individuals
+or populations
+be unpredictable,
+toxic
+substances,
+theofeffect
+of such on
+mixtures
+on susceptible
+or can
+populations
+can be
+but different from
+the exposures
+to each
+of the to
+toxins
+separately.
+ofExamples
+the three
+unpredictable,
+but different
+from the
+exposures
+each ifofapplied
+the toxins
+if appliedExamples
+separately.
+possible
+outcomes,
+namely
+additive,namely
+synergistic,
+and antagonistic
+are increasingly
+of
+the three
+possible
+outcomes,
+additive,
+synergistic,effects
+and [25]
+antagonistic
+effectsemerging,
+[25] are
+where bioassays
+including
+toxigenic
+cyanobacteria,
+and specifically
+when purified
+cyanotoxins
+and
+increasingly
+emerging,
+where
+bioassays
+including toxigenic
+cyanobacteria,
+and specifically
+when
+non-cyanobacterial
+are performed
+(Table
+1). are performed (Table 1).
+purified
+cyanotoxinstoxic
+andagents,
+non-cyanobacterial
+toxic
+agents,
+
+
+
+Toxins 2020, 12, 629
+
+3 of 17
+
+Table 1. Examples of toxicity assessment by bioassay of purified cyanotoxins in combinations and of
+cyanotoxins plus additional environmental toxins/pollutants.
+Toxic Agents
+
+Test Organism/Cell Line
+
+Outcome 1
+
+Ref.
+
+MC-LR plus Antx-a
+
+Mouse, intranasal bioassay
+
+SYN
+
+[26]
+
+MC-LR plus Antx-a
+
+Selenastrum capricornutum
+
+SYN
+
+[27]
+
+MC-LR plus Antx-a
+
+Cyprinus carpio, carp cells
+
+SYN (potential)
+
+[28]
+
+MC-LR plus Antx-a
+
+Vallisneria natans, and microbial biofilm
+
+ANTAG
+
+[29]
+
+MC-LR plus Microcystis LPS
+
+Artemia salina and Daphnia sp.
+
+ANTAG
+
+[30]
+
+MC-LR plus CYN
+
+Chlorella vulgaris
+
+SYN
+
+[31]
+
+MC-LR plus cyanobacterial
+λ-linolenic acid
+
+Daphnia magna
+
+ADDIT
+
+[32]
+
+MC-LR plus aflatoxin B1
+
+Human hepatic cells
+
+ANTAG
+
+[33]
+
+MC-LR plus aflatoxin B1,
+and plus fumonisin B1
+
+HepG2, Caco2, MDBK cell lines
+
+ADDIT, SYN, ANTAG
+
+[34]
+
+MC-LR and copper
+
+Danio rerio
+
+SYN
+
+[35]
+
+MC-LR plus copper
+
+Vallisneria natans
+
+SYN
+
+[36]
+
+MC-LR plus linear alkylbenzene sulphonate
+
+Lactuca sativa
+
+SYN
+
+[37]
+
+MC-LR plus phenanthrene
+
+Lemna gibba
+
+ANTAG, SYN, ADDIT
+
+[38]
+
+CYN plus chloropyrifos
+
+Human SH-SY5Y neuroblastoma cell line
+
+ANTAG
+
+[39]
+
+CYN plus bisphenols
+
+HepG2 cells
+
+SYN, ADDIT
+
+[40]
+
+1 SYN, synergistic; ADDIT, additive; ANTAG, antagonistic toxicological outcomes of applications of multiple toxic
+
+agents. MC-LR, microcystin-LR, Antx-a, anatoxin-a; CYN, cylindrospermopsin. Outcomes in several systems were
+influenced by relative concentrations, and in some cases by timing of applications of toxins/toxicants, see references.
+
+Of the classes of toxins produced by cyanobacteria, with the exception of guanitoxin (formerly
+anatoxin-a(S) [41]), all encompass multiple chemical structures, ranging from a few (e.g., anatoxin-a and
+homoanatoxin-a) to hundreds, in the case of microcystins (>240, [42]). Similarly, analyses of blooms and
+cultures of cyanobacteria have shown that multiple variants can exist in extracts of individual strains,
+such as for Microcystis PCC7820 with at least 10 microcystin variants reported [43] and a Thai strain of
+Cylindrospermopsis that has been shown to produce two additional variants of cylindrospermopsin [44].
+Therefore, when toxicity assessment is performed, then although classes of cyanotoxins may be
+identified, the differing amounts of variants, whether of e.g., microcystins or anatoxins, each with
+potentially differing toxicities when determined individually (e.g., [45]), may influence the risk
+assessment of such bloom material. On occasion, some strains have been reported to include multiple
+classes of toxins, such as microcystins and guanitoxin, as in Anabaena 525-17 [46]. In addition to these
+cyanotoxins, all cyanobacteria characteristically produce lipopolysaccharide endotoxins [47].
+Fitzgeorge et al. [26] provided early evidence of the synergistic action of two purified cyanotoxins
+(anatoxin-a and microcystin-LR) when administered intranasally to mice. In this case, the administration
+of a sublethal dose of microcystin-LR 30 min before that of anatoxin-a lowered the LD50 of the latter
+four-fold. Perhaps the most high-profile human poisoning event occurred at Caruaru, Brazil [48,49].
+Extensive investigations into the deaths of 50 people at a hemodialysis clinic identified microcystins as
+the most likely principal cause of the fatalities, although several symptoms were reported by those
+affected. Investigations continued into the intoxications and cylindrospermopsin was also implicated,
+suggesting the possibility of multiple cyanotoxin exposures [50].
+Clearly, when bioassays are performed in vivo and in vitro with an individual purified cyanotoxin
+or defined combinations of purified cyanotoxins, then the responses can be unequivocally ascribed to
+the toxin(s) administered. However, since cyanobacterial cells, whether in axenic monocyanobacterial
+
+
+
+Toxins 2020, 12, 629
+
+4 of 17
+
+culture or in environmental samples, can produce a range of cyanotoxins and other bioactive secondary
+products, then bioassays with crude extracts from such sources unavoidably involve exposures to
+mixtures of toxic agents. These may be exclusively of cyanobacterial origin when derived from
+monocyanobacterial axenic cultures, or from cyanobacterial plus a wide range of toxins/toxicants from
+additional biological and anthropogenic sources in the case of environmental samples.
+2. Environmental Intoxications Involving Toxigenic Cyanobacteria and Additional Agents
+Some indications are available of contributory exposure to environmental health hazards in
+addition to toxigenic cyanobacteria or specific cyanotoxins in wildlife poisoning episodes. Thus, whilst
+a major role for microcystins and anatoxin-a in the mass mortalities of Lesser Flamingos (Phoeniconaias
+minor) at Kenyan lakes was identified, additional contributions due to heavy metals, pesticides,
+and mycobacterial infection were likely to have occurred [51,52]. A major role of microcystins was
+similarly deduced from cyanotoxin analyses and pathology in the deaths of Mute Swans (Cygnus olor) in
+the UK, although the additional contribution of lead was inferred from the abundance of fishermen’s lead
+sinker-pellets in the birds’ stomachs [53]. Microcystin-, saxitoxin-, and cylindrospermopsin-producing
+cyanobacterial blooms were indicated to have been early contributors to an extended major fish-kill in
+the Lower St. John’s River, Florida. Later factors arising from cyanobacterial decomposition and lysis
+included lower dissolved oxygen concentrations, elevated ammonia concentrations, and hemolytic
+contribution from the dinoflagellate alga Heterosigma akashiwo [54].
+Cases of human illness associated with exposure to toxigenic cyanobacteria also indicate the
+possible contribution of additional factors. In 1979, a severe hepato-enteritis outbreak occurred among
+consumers (mainly children) of drinking water from a Palm Island reservoir in Queensland, Australia,
+containing a bloom of Cylindrospermopsis raciborskii [55]. The subsequent isolation and characterization
+of cylindrospermopsin from C. raciborskii from the reservoir provided strong evidence for a contributing
+role of the cyanotoxin in the Palm Island illnesses. However, as pointed out by Hawkins et al. the
+evidence suggested that the cylindrospermopsin-producing bloom should be considered as only one
+possible cause [55]. It is unknown whether the copper concentration in the water, arising from the
+prior treatment to kill the C. raciborskii bloom, also contributed to the illness. An episode requiring
+hospitalization of army cadets undergoing swimming and canoeing exercises at Rudyard Lake, northern
+England, occurred after the cadets ingested microcystin-containing Microcystis aeruginosa scum [56].
+Atypical pneumonia, liver damage, and blistering around the mouth were attributed to microcystin
+ingestion. However, whilst no evidence for enterovirus contamination of the water was apparent,
+Escherichia coli counts indicated that the water was unsuitable for bathing [56].
+3. Additional Health Hazards: Their Co-Occurrence and Interactions with Cyanobacteria
+and Cyanotoxins
+A wide range of microbial and chemical health hazards exists with which cyanobacteria can
+be associated. The associations range from the use of purified materials in experimental laboratory
+designs to investigate combined toxicological responses in vitro and in vivo, to the co-occurrence of
+multiple hazards in open environments.
+3.1. Fungal and Algal Toxins
+The health significance of human exposure to the fungal toxin aflatoxin B1 (via the diet),
+plus to microcystin via drinking water, was recognized almost 30 years ago in China [57–59].
+A high incidence of primary liver cancer among local populations using surface drinking water
+containing microcystin-producing cyanobacteria was associated with additional chronic exposure to
+the hepatocellular carcinoma risk factor aflatoxin B1 via food consumption, including moldy maize.
+Further risk factors were presented by Hepatitis B virus and alcohol [60]. Whilst not characterized as
+a primary carcinogen itself, the tumor-promoting action of the microcystin(s) was expressed by the
+chronic exposure of the population to the cyanotoxin, and to the primary carcinogenicity of aflatoxin
+
+
+
+Toxins 2020, 12, 629
+
+5 of 17
+
+B1 and/or the Hepatitis B virus. These milestone discoveries in the history of cyanotoxins research
+and risk management [6,8,9,57–59], not only illustrate the importance of exposure to cyanotoxins plus
+additional health hazards, but also provide an example of the hazards of such combined exposure
+via multiple exposure media: in this case, the media being water and food. Whether the timing of
+the exposure to microcystin-containing cyanobacterial blooms and to aflatoxin-B1, i.e., as co-exposure
+or sequential exposure, influenced the outcome among the human population, remains less certain.
+Trials using human hepatic cells in vitro and rats have indicated that whilst the tumor promoting
+actions of microcystin were confirmed, antagonistic action can occur when the cyanotoxin at low dose
+is co-applied together with the fungal toxin [33].
+The co-occurrence of cyanotoxins with microalgal phycotoxins has received little attention.
+Blooms and shoreline scums of several species of toxigenic marine microalgae have long been recognized
+for their roles in the mass mortalities of fish, seabirds, and sea mammals and in human intoxications,
+from mild to fatal, via shellfish consumption [2]. For reviews concerning marine microalgal phycotoxins,
+including the saxitoxins, palytoxins, ciguatoxins, brevetoxins, domoic acid, okadaic acid, pinnatoxins,
+yessotoxins, and azaspiracids, see [61–63]. No evidence for the production of most classes of cyanotoxins
+by microalgae is available, namely of microcystins, nodularins, cylindrospermopsins, anatoxin-a,
+or guanitoxin. In addition, the lipopolysaccharide (LPS) endotoxins, being structural components
+of Gram-negative prokaryotes are characteristic of cyanobacteria [47] but are apparently lacking in
+eukaryotic microalgae. Thus, for these classes of cyanotoxins to co-occur with the potent phycotoxins
+of marine waters, it is necessary (i) for toxigenic cyanobacteria to also be present and growing
+in the environment, or (ii) for the cyanotoxins to be introduced into the microalgal environment.
+Indeed, such an introduction occurred in the Monterey Bay National Marine Sanctuary, California,
+where microcystin-producing Microcystis blooms entered the Bay waters from inland freshwaters via
+river inflows. Mass deaths of sea otters (Enhydra lutris nereis) occurred due to the consumption of
+marine shellfish which had accumulated the microcystins from the river inflows [64]. In this case,
+analyses for other candidate cyanotoxins (nodularin and anatoxin-a) and for marine phycotoxins
+(okadaic acid and yessotoxin) were negative. Another area of California, namely San Fransisco Bay,
+has shown the presence of multiple toxin classes, often detected in molluscs [65]. From an analysis
+of mussels, microcystins, domoic acid, diarrhetic shellfish toxins, and paralytic shellfish toxins were
+identified with all four toxin classes detected in 37% of mussels.
+However, some classes of cyanotoxins are not exclusively the products of cyanobacteria [66].
+Saxitoxins have long been known to be produced by marine dinoflagellates, including species
+of Alexandrium, Gymnodinium, and Pyrodinium [63] and by several strains of cyanobacterial
+species, including Aphanizomenon spp., Dolichospermum circinale (formerly Anabaena circinalis),
+Cylindrospermopsis raciborskii, Raphidiopsis brookii, Lyngbya wollei [67], and Scytonema crispum [68,69].
+The neurotoxic diaminoacids, β-N-methylamino-l-alanine (BMAA), N-(2-aminoethyl)glycine (AEG),
+and 2,4-diaminobutyric acid (2,4-DAB), with LC-MS/MS used to confirm analytical specificity,
+also appear to have multiple origins, including diverse cyanobacteria, marine and freshwater diatoms,
+and a brackish coastal water dinoflagellate [70–77], and these toxins can also be present along with
+microcystins and brevetoxins [78]. Wider origins of these neurotoxins are also indicated by the presence
+of BMAA in the peptides found in chemoheterotrophic bacteria including environmentally widespread
+Paenibacillus spp. [79,80].
+3.2. Microbial Pathogens
+A close association of cyanobacteria, including toxigenic species, typically occurs with other
+microbes in aquatic and terrestrial environments [22,23]. The close proximity of the cyanobacteria
+and their non-phototrophic, mutualistic partners can enable the two-way exchange of metabolites
+and nutrients and provide a protective physical substrate for bacterial attachment and gene transfer.
+Cyanobacterial extracellular polysaccharides and glycoprotein sheath materials can provide a substrate
+for the bacterial attachment [23]. In addition to the association with a wide range of non-pathogenic
+
+
+
+Toxins 2020, 12, 629
+
+6 of 17
+
+bacteria (e.g., [81]), marine, estuarine, and freshwater cyanobacteria can form close associations with
+human pathogenic bacteria. When large blooms of cyanobacteria occur and people are exposed to such
+blooms, then health complaints and non-specific symptoms are often reported [82]. Such symptoms
+can include fever, pneumonia, and headaches as examples (reviewed in [82]). Therefore, exposure to
+cyanobacterial blooms may have the added issue of multiple insults affecting human health, especially
+in those individuals with underlying medical conditions.
+In 1884, Robert Koch, the discoverer of the cholera bacillus, suggested from field studies that
+“aquatic flora” might serve as environmental reservoirs of cholera [83]. Indeed, searches for possible
+reservoirs of survival of toxigenic Vibrio cholerae 01 in a pond in Dhaka, Bangladesh, used for bathing,
+swimming, washing, and drinking, indicated the seasonal survival of the pathogen in the extracellular
+mucilage of the cyanobacterium Anabaena variabilis [84]. Whilst the specificity of this association is not
+extended to euglenoid microalgae, it does extend to the mucilaginous masses of other cyanobacteria,
+including Microcystis colonies [85] and microcystin-producing Oscillatoria filaments [86]. Without the
+application of more effective cyanobacterial risk management measures, the role of cyanobacteria in
+providing inter-epidemic reservoirs of V. cholerae is likely to increase as compounding anthropogenic
+pressures and climate change continue to result in increases in cyanobacterial population size, seasonal
+duration, and geographical spread [4]. Populations of other potentially pathogenic Vibrio spp. have
+increased from 2000 to 2018 in the Neuse River Estuary, North Carolina, USA but no correlations
+were apparent with changes in temperature, salinity, or dissolved oxygen concentration, factors which
+have influenced Vibrio abundance elsewhere [87]. The eutrophic estuary waters contain abundant
+blooms including microalgae and cyanobacteria [88] although whether the cyanobacteria are physically
+associated with the potentially pathogenic Vibrio spp. in the Neuse water is not apparent.
+Although the waterborne human pathogenic protozoon Cyclospora was initially thought to be a
+cyanobacterium, this is not so, and the protzoon is able to cause diarrhea, sickness, and abdominal
+pain, similar to the protozoa Cryptosporidium parvum and Giardia lamblia [89]. An increased abundance
+of potential microcystin-producing cyanobacteria (Aphanocapsa and Microcystis spp.) was observed
+with Cryptosporidium and Giardia spp. in a reservoir supplying drinking water to the metropolitan
+Belo Horizonte area, southeastern Brazil [90]. It is notable that waterbody conditions which favor
+the persistence of Cryptosporidium and Giardia spp., including nutrient enrichment and high retention
+times, can also enhance cyanobacterial growth [23], increasing the potential for co-occurrence and
+co-exposure to pathogenic protozoa and cyanotoxins.
+3.3. Metals
+Relations between cyanobacteria and metals constitute a large field. Of toxicological relevance are
+(i) the chronic and acute effects of metals on the growth, metabolism, and survival of cyanobacteria
+and (ii) the ability of cyanobacteria to accumulate, detoxify, metabolize, and sequester metals [91–93].
+Depending on growth conditions, the effects of dissolved metal ions (e.g., Ca, Cu, Pb, Cd) can include
+both the inhibition and stimulation of Microcystis blooms [94], and the presence of copper may affect
+the detoxication of e.g., nodularin by disrupting microbes that may degrade this cyanotoxin [95].
+Copper is often used as a biocide to lyse cyanobacterial cells during blooms. Although successful,
+in the case of e.g., Microcystis, this has had the effect of releasing cyanotoxins from an intracellular
+pool to an extracellular pool with the result that liver damage may result after drinking water from
+which cyanobacterial cells and cell debris have been removed, but without the assured removal of
+extracellular microcystin [96]. Furthermore, if the copper used for lysis is not effectively removed
+during drinking water treatment, then this may subsequently also pose an additional toxicological
+burden on people and animals.
+Research on metals and cyanotoxins has largely focused on the effects of iron on microcystin
+production. Pioneering studies on iron limitation in axenic Microcystis aeruginosa cultures revealed
+increases in microcystin-RR and -LR (MC-RR, MC-LR) production [97]. Early sampling and analytical
+procedures in the latter study are likely to have resulted in the combined analysis of the former
+
+
+
+Toxins 2020, 12, 629
+
+7 of 17
+
+intra- and extracellular pools. Further investigations into microcystin production by M. aeruginosa,
+Microcystis novacekii, and Phormidium autumnale cultures have included increases upon iron addition
+but also increases upon iron limitation during culture. Positive effects of copper, zinc, and manganese
+ions on microcystin production under conditions of metal enrichment of, and metal limitation of,
+cyanobacterial cultures have also been observed, possibly indicating physiological and biochemical
+roles of the metals in microcystin biosynthesis, in addition to a siderophore function for microcystins
+in metal acquisition [98]. No specific differences in anatoxin-a production by P. autumnale were found
+in response to growth under an environmentally encountered, low-to-high range of iron or copper
+concentrations [99].
+Direct interaction between cyanotoxin molecules and metals has been investigated in vitro
+with two classes of cyanotoxins. The purified post-synaptic neuromuscular blocking neurotoxin,
+BMAA, is a potent chelator of divalent metal cations including copper and zinc [100]. Whether such
+chelation occurs in BMAA-producing cyanobacterial cells and, if so, if toxicity is thereby influenced,
+is not known. Divalent copper and zinc binding occur to at least three purified microcystins
+(MC-LR, MC-LW, MC-LF) with formation constants (Ki ) indicating that all three cyanotoxins are
+medium-strength metal ligands. Single amino acid substitution in the heptapeptide microcystin
+ring (arginine versus tryptophan, or versus phenylalanine) did not influence the strength of the
+metal-microcystin association [101]. Whether metal-microcystin binding influences toxicity and
+whether this binding occurs in the cyanobacterial producer-cells and/or in the surrounding water after
+microcystin release are also unknown. However, this possibility is viewed alongside the increasing
+evidence for the combined toxicity of microcystins and metals: co-exposure bioassays involving
+MC-LR and copper, at environmentally encountered concentrations, have revealed synergistic toxicity
+against the early development of the zebrafish, Danio rerio. Uptake of the toxins by the fish involved
+microcystin and copper transporters [35]. Toxicity assessment of BMAA and methylmercury to primary
+neurocortical cells show a synergistic toxicity [102] and assessment of other cyanotoxins with such
+organic forms of metals is required.
+3.4. Pesticides
+One cyanotoxin, the phosphorylated cyclic N-hydroxyguanidine, guanitoxin (anatoxin-a(S)) exerts
+toxicity via the irreversible inhibition of acetylcholinesterases in common with organophosphorus
+pesticides [6,103]. No other cyanotoxins are known to have the same modes of action as those of
+synthetic pesticides. The co-occurrence of cyanobacteria, and of pesticides, including herbicides,
+fungicides, and insecticides, is a concern in water resources with a high human usage and dependency.
+For example, in paddy fields nitrogen-fixing cyanobacteria can serve as a valuable biofertilizer and
+contribute to rice production and an aim is to reduce the negative impacts of the pesticides on
+cyanobacterial growth [104]. Nevertheless, the inadvertent entry of pesticides into waterbodies
+from human activities, especially agriculture, appears to be a ubiquitous process and numerous
+investigations into the inhibitory impacts of pesticides on aquatic biota have occurred. A wide-ranging
+survey of investigations into the effects of pesticides in aquatic microbes included the effects of
+insecticides, herbicides, and fungicides on the viability of cyanobacteria, with overall dose-dependent
+growth inhibition occurring [105]. Most of the named cyanobacteria in this survey were members
+of cyanotoxin-producing taxa. However, investigations to date do not appear to have included
+relations between pesticides and the production and impacts of cyanotoxins. In addition to the
+possible contribution of pesticides (and metals) alongside cyanotoxins to the mass mortalities of Lesser
+Flamingos in East African lakes [51,52,106], both pesticides and cyanotoxins may contribute to the
+marked decline in the American Alligator (Alligator mississippiensis) population in eutrophic Lake
+Apopka, Florida, with high egg failure and anomalous endocrine function [107].
+The adult invertebrate grazer Daphnia pulicaria was exposed to the purified pesticide carbaryl
+(1-naphthyl methylcarbamate) plus whole cells of microcystin-producing M. aeruginosa at a range
+of sublethal concentrations [108]. The actual dose of microcystin(s) assimilated per animal was
+
+
+
+Toxins 2020, 12, 629
+
+8 of 17
+
+estimated from the analysis of whole D. pulicaria by ELISA, although the immunoassay used does not
+distinguish between authentic microcystin(s) and a range of microcystin detoxification products [109].
+However, at a range of sublethal carbaryl concentrations, adverse effects on egg numbers per female,
+delayed maturation, offspring mortality, and body malformations occurred with outcomes increased
+by the addition of M. aeruginosa cells. Additive and synergistic actions between carbaryl and the
+microcystin-containing cyanobacterial cells were indicated [108]. Hinojosa et al. [39] have recently
+provided a significant example of the needed, quantitative, baseline studies on the toxicology of
+pesticides in co-occurrence with cyanotoxins. In vitro bioassays using the human neuroblastoma cell line
+SH-SY5Y evaluated the effects of individual, versus combined exposure to purified cylindrospermopsin
+and chlorpyrifos [O,O-diethyl O-(3,5,6-trichloro-2-pyridinol) phosphorothionate]. Cytotoxicity and
+mechanistic endpoint comparisons after 24 and 48 h of exposure, at environmentally relevant
+concentrations, indicated antagonistic action between the pesticide and cyanotoxin [39].
+The herbicide glyphosate has been used widely to control plants and it has been shown
+to occur in waterbodies, with toxicity demonstrated [110]. Its presence in waterways is well
+known and has been shown to have an adverse effect on the growth of cyanobacteria, including
+Microcystis [111]. Further effects of glyphosate on cyanobacteria include enhanced extracellular release
+of microcystins [112] with the potential for organisms to respond to combinations of microcystins and
+glyphosate, such as the mussel Unio pictorium [113].
+3.5. Microplastic and Nanoplastic Particles and Contaminants
+The global occurrence of microscopic plastic particles (microplastics) throughout the world’s oceans
+has been recognized for several years [114] and their further occurrence in human feces, freshwater lakes
+and rivers, groundwater, and estuaries is becoming increasingly recognized [115,116]. Cyanobacteria in
+both marine and freshwaters are among the wide range of microbes which, with mineral particles,
+attach to microplastics, forming a biofilm. The adhesion of microbes, with subsequent development
+of an extracellular polysaccharide layer, may contribute to the sinking or buoyancy properties of
+these complexes, and to the further sorption of metals, particularly, iron and manganese [117].
+Among toxicological hazards presented by the microplastics accumulating in water resources
+are the endocrine-disrupting bisphenol contaminants, including bisphenols A, S, F, and AF [118].
+Cylindrospermopsin is a strong candidate for toxicity evaluation in combination with bisphenols since
+(i) its wide geographical occurrence in freshwaters is becoming more apparent; (ii) a high percentage
+of the total cylindrospermopsin pool is extracellular when the C. raciborskii producer cells are still
+intact, and (iii) the cyanotoxin exhibits a wide range of actions, including hepatotoxicity, inhibition
+of protein synthesis, genotoxicity, and potential carcinogenicity [6,9,40]. A complex of interactions
+between purified cylindrospermopsin and bisphenols was found in in vitro bioassays using HepG2
+cells. Whilst bisphenols alone reduced cell viability or induced DNA double strand breaks, antagonistic
+activity of bisphenol against these actions by cylindrospermopsin was indicated. However, further
+possible additive or synergistic effects on HepG2 gene deregulation were also indicated by co-exposure
+to the bisphenols plus cylindrospermopsin [40]. No bioassays involving purified microcystins
+with micro- or nanoplastics are yet apparent, although toxicologically significant interactions have
+been reported between nanoplastics and Microcystis aeruginosa cells [118], and laboratory-ware
+plastics are also known to bind microcystins from solution [119,120] and plastic nanoparticles
+may also bind glyphosate [111]. Amino-modified polystyrene nanoplastics increase microcystin
+production by the cyanobacterial cells and also increase the extracellular release of the toxin(s)
+according to microcystin immunoassay. The prevalence and proximity of microplastics, nanoplastics,
+and cyanobacteria [115–117], and widespread ability of the latter to produce microcystins [5,8,9,11,12]
+require further research into the toxicological interactions of these ubiquitous synthetic and naturally
+occurring, biological health hazards.
+
+
+
+Toxins 2020, 12, 629
+
+9 of 17
+
+4. Implications for Water Safety Guidelines, Legislation, and Water Treatment
+The need to provide safe recreational and bathing waters and drinking water provides multiple
+challenges due to the potential for combinations of toxic compounds, with possible synergistic and
+additive effects, to occur at concentrations deemed unsafe for human health [121,122]. In order to
+prevent potential adverse toxicities arising from exposure to multiple toxins, to cyanotoxins plus
+microbial pathogens, and to cyanotoxins plus more recently recognized health hazards including
+microplastics, the ability of water safety guideline values (GV) and legislation to provide adequate
+safety margins in the event of potential multiple exposures need to be verified. In several cases, the same
+drinking water treatment technologies are used for the removal and/or destruction of cyanotoxins, and
+of other toxicants (Table 2).
+Table 2. Examples of water treatment processes for the removal of potentially toxic compounds.
+Toxicant
+
+Treatment Process
+
+References
+
+Fungal/microbial toxins
+Pesticides
+Microplastics
+Metals
+Microcystins
+Anatoxin-a
+Saxitoxins
+Cylindrospermopsin
+
+SF, C
+Oz, AC,
+C, U
+C, A
+AC, Ox, Oz, Cl
+Oz, Ox, Cl
+AC, Cl
+AC, Oz, Cl
+
+[123]
+[124–126]
+[127,128]
+[129,130]
+[121,131]
+[132]
+[133]
+[134,135]
+
+AC, activated carbon; Ox, oxidation; Ozonation; Cl, chlorination; C, coagulation; A, adsorption; U, ultrafiltration;
+SF, sand filtration.
+
+Consequently, in order to prevent or reduce toxicity during events when co-occurrence arises,
+then the efficacy of such multipurpose water treatment technologies needs to be verified, and increased
+where needed, with respect to each of the classes of cyanotoxins and of additional toxicants in the raw
+water. Furthermore, the development and implementation of advanced water treatment technologies
+should take into account the potential for real-world exposures to a wide range of toxicants and
+scenarios, from e.g., natural occurrence [121], to deliberate or man-made additions [136]. Such events
+can potentially occur alone or in combination and during times of high-water usage which may include
+cyanobacterial blooms in source waters, the potential for multiple exposures should be acknowledged
+and contingency plans should consider this issue. Furthermore, often contingencies may include the
+switching of source waters and if different, but potentially hazardous situations exist in these waters,
+then alternative or enhanced treatment technologies, or e.g., the temporary provision of bottled waters,
+may be required.
+Understanding of the health risks presented by cyanotoxins has progressed considerably [6–9],
+but the risk management of microcystins, and of microcystin-producing cyanobacteria has been the
+focus of guideline derivation for health protection [137]. GVs in addition to those for microcystins,
+including for cylindrospermopsin [121,134] are also being derived. Although GVs for microplastics
+do not exist, the WHO has derived GVs for six monomers which can leach from the plastics, ranging
+from 0.3 to 300 µg/L [138]. Some metals and pesticides also have GVs for drinking water and are
+also generally in the low µg/L range [139]. Whether the GV values, with in-built safety margins,
+accommodate the additive and synergistic toxicities which can arise due to cyanotoxin co-occurrences
+and to the co-occurrence of cyanotoxins with other toxicants including microplastics derivatives
+(Section 3.5) merits investigation.
+5. Concluding Remarks
+Following wildlife-, domestic animal-, and human-intoxications due to exposure to cyanobacterial
+mass populations, the volume of research over recent years into the toxicology and toxinology
+of cyanobacteria and cyanotoxins has increased greatly and such growth continues e.g., [1,5,7,8].
+
+
+
+Toxins 2020, 12, 629
+
+10 of 17
+
+In recognition of the co-occurrence of multiple variants within individual classes of cyanotoxins,
+of different cyanotoxin classes, and of cyanotoxins plus phycotoxins, it is encouraging that
+physico-chemical methods for the co-analysis of these combinations are being developed [5,19–21,140].
+However, since cyanobacterial mass populations commonly develop in waterbodies which are under
+intensive anthropogenic use (e.g., for domestic, industrial, and agricultural wastewater discharge,
+abstraction for drinking water treatment, recreation, crop irrigation, and fisheries) it should be
+anticipated that toxigenic cyanobacteria can co-occur with a wide range of additional biological and
+chemical health hazards. Indeed, sufficient examples exist, reviewed here, of animal and human
+health incidents and intoxications associated with multiple health hazards including cyanobacteria
+and cyanotoxins, and other contributory biological toxins, microbial pathogens and anthropogenic
+chemical products. Whilst further research on the toxicity of the established and emerging cyanotoxins
+via bioassays is needed, including defined cyanotoxin combinations and environmental materials [15],
+more cyanotoxin bioassays including other environmental toxins and toxicants, as exemplified in
+Table 1, are required. Data on the toxicity of cyanotoxins in combination with other biotoxins and
+chemical toxic compounds, may then contribute to the assessment of whether guideline values and
+legislation for health protection can also accommodate multiple exposure to cyanotoxins plus the
+other biological and chemical agents. The route of administration of cyanotoxins may also affect the
+toxicological outcome or the mixtures of compounds that may be present, such as lead and particular
+matter (PM2.5 and PM10 ) that can occur as airborne components [141,142], potentially in addition to
+cyanotoxins [143].
+The recognition of the multiple occurrence and combined toxicity of cyanotoxins, plus additional
+toxicants and pathogens, is a growing area of research and such co-occurrences may increase further
+with the growth of the human population, increasing demands upon water resources and climate
+change. However, such co-occurrence(s) may have already adversely affected human health in an
+earlier period. High concentrations of mercury, of phosphate consistent with eutrophic conditions, plus
+16S rRNA amplicons indicating Planktothrix and Microcystis blooms (and thus potentially microcystins),
+have been found in dated sediment profiles from former reservoirs serving the ancient former Mayan
+city of Tikal in Guatemala. This potentially toxic combination may have contributed to the demise of
+the Mayan population and of the city in the ninth Century CE [144].
+Funding: This research received no external funding.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+8.
+
+Carmichael, W.W. (Ed.) The Water Environment: Algal Toxins and Health; Plenum Press: New York, NY, USA,
+1981; p. 491.
+Falconer, I.R. (Ed.) Algal Toxins in Seafood and Drinking Water; Academic Press: London, UK, 1993; p. 224.
+Codd, G.A.; Jefferies, T.M.; Keevil, C.W.; Potter, E. (Eds.) Detection Methods for Cyanobacterial Toxins;
+Royal Society of Chemistry: Cambridge, UK, 1994; p. 191.
+Huisman, J.; Matthijs, H.C.P.; Visser, P.M. (Eds.) Harmful Cyanobacteria; Springer: Dordrecht, The Netherlands,
+2005; p. 241.
+Meriluoto, J.; Spoof, L.; Codd, G.A. (Eds.) Handbook of Cyanobacterial Monitoring and Cyanotoxin Analysis;
+Wiley: Chichester, UK, 2017; p. 548.
+Metcalf, J.S.; Codd, G.A. Cyanotoxins. In Ecology of Cyanobacteria II: Their Diversity in Space and Time;
+Whitton, B.A., Ed.; Springer: Dordrecht, The Netherlands, 2012; pp. 651–675.
+Testai, E.; Scardala, S.; Vichi, S.; Buratti, F.M.; Funari, E. Risk to human health associated with the
+environmental occurrence of cyanobacterial neurotoxic alkaloids anatoxins and saxitoxins. Crit. Rev. Toxicol.
+2016, 46, 385–418. [CrossRef] [PubMed]
+Svircĕv, Z.; Drobac, D.; Tokodi, N.; Mijović, B.; Codd, G.A.; Meriluoto, J. Toxicology of microcystins with
+reference to cases of human intoxications and epidemiological investigations of exposure to cyanobacteria
+and cyanotoxins. Arch. Toxicol. 2017, 91, 621–650. [CrossRef] [PubMed]
+
+
+
+Toxins 2020, 12, 629
+
+9.
+
+10.
+11.
+12.
+
+13.
+14.
+15.
+
+16.
+17.
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+23.
+24.
+
+25.
+26.
+27.
+
+28.
+29.
+30.
+
+11 of 17
+
+Buratti, F.M.; Manganelli, M.; Vichi, S.; Stefanelli, M.; Scardala, S.; Testai, E.; Funari, E. Cyanotoxins:
+Producing organisms, occurrence, toxicity, mechanism of action and human health toxicological risk
+evaluation. Arch. Toxicol. 2017, 91, 1049–1130. [PubMed]
+Pichardo, S.; Caméan, A.M.; Jos, A. In vitro toxicological assessment of cylindrospermopsin: A review. Toxins
+2017, 16, 402. [CrossRef]
+Metcalf, J.S.; Souza, N.R. Cyanobacteria and their toxins. Sep. Sci. Technol. 2019, 11, 125–148.
+Svircĕv, Z.; Lalić, D.; Savić, G.B.; Tokodi, N.; Backovic, D.D.; Chen, L.; Meriluoto, J.; Codd, G.A. Global
+geographical and historical overview of cyanotoxins distribution and cyanobacterial poisonings. Arch. Toxicol.
+2019, 93, 2429–2481. [CrossRef]
+Francis, G. Poisonous Australian lake. Nature 1878, 18, 11–12. [CrossRef]
+Codd, G.A.; Morton, H.; Baker, P.D. George Francis, a pioneer in the investigation of the quality of South
+Australia’s drinking water sources (1878–1883). Trans. R. Soc. S. Aust. 2015, 139, 164–170. [CrossRef]
+Blaha, L.; Camean, A.M.; Fessard, V.; Gutierrez-Praena, D.; Jos, A.; Marie, B.; Metcalf, J.S.; Pichardo, S.;
+Puerto, M.; Torokne, A.; et al. Bioassay use in the field of cyanobacteria. In Handbook of Cyanobacterial
+Monitoring and Cyanotoxin Analysis; Wiley: Chichester, UK, 2017; pp. 272–279.
+Meriluoto, J.; Metcalf, J.S.; Codd, G.A. Selection of analytical methodology for cyanotoxin analysis. In Handbook
+of Cyanobacterial Monitoring and Cyanotoxin Analysis; Wiley: Chichester, UK, 2017; pp. 308–312.
+Kurmayer, R.; Sivonen, K.; Wilmotte, A.; Salmaso, N. (Eds.) Molecular Tools for the Detection and Quantitation
+of Toxigenic Cyanobacteria; John Wiley and Sons: Chichester, UK, 2017; p. 402.
+Turner, A.D.; Waack, J.; Lewis, A.; Edwards, C.; Lawton, L. Development and single-laboratory validation of
+a UHPLC-MS/MS method for quantitation of microcystins and nodularin in natural water, cyanobacteria,
+shellfish and algal supplement tablet powders. J. Chromatogr. B 2018, 1074–1075, 111–123. [CrossRef]
+Gimenéz-Campillo, C.; Pastor-Belda, M.; Campillo, N.; Arroyo-Manzanares, N.; Hernández-Córdoba, M.;
+Viñas, P. Determination of cyanotoxins and phycotoxins in seawater and algae-based supplements using ionic
+liquids and liquid chromatography with time-of-flight mass spectrometry. Toxins 2019, 11, 610. [CrossRef]
+Roy-Lachapelle, A.; Duy, S.V.; Munoz, G.; Dinh, Q.T.; Bahl, E.; Simon, D.F.; Sauvé, S. Analysis of multiclass
+cyanotoxins (microcystins, anabaenopeptins, cylindrospermopsin and anatoxins) in lake water using on-line
+SPE liquid chromatography high-resolution Orbitrap mass spectrometry. Anal. Methods 2019, 11, 5289.
+[CrossRef]
+Di Pofi, G.; Favero, G.; di Gregorio, F.N.; Ferretti, E.; Viaggiu, E.; Lucentini, L. Multi-residue ultra performance
+liquid chromataography-high resolution mass spectrometry method for the analysis of 21 cyanotoxins in
+surface water for human consumption. Talanta 2020, 211, 120738. [CrossRef] [PubMed]
+Canter-Lund, H.; Lund, J.W.G. Freshwater Algae: Their Microscopic World Explored; Biopress Limited: Bristol,
+UK, 1995; p. 360.
+Whitton, B.A. (Ed.) Ecology of Cyanobacteria II: Their Diversity in Space and Time; Springer: Dordrecht,
+The Netherlands, 2012; p. 760.
+Islam, M.S.; Miah, M.A.; Hasan, M.K.; Sack, R.B.; Albert, M.J. Detection of non-culturable Vibrio cholera 01
+associated with a cyanobacterium from an aquatic environment in Bangladesh. Trans. R. Soc. Trop. Med. Hyg.
+1994, 88, 298–299. [CrossRef]
+Timbrell, J.A. Introduction to Toxicology; Taylor & Francis: Bristol, UK, 1995; p. 167.
+Fitzgeorge, R.B.; Clark, S.A.; Keevil, C.W. Routes of intoxication. In Detection Methods for Cyanobacterial Toxins;
+Royal Society of Chemistry: Cambridge, UK, 1994; pp. 69–74.
+Chia, M.A.; Kramer, B.J.; Jankowiak, J.G.; do Carmo Bittencourt-Oliveira, M.; Gobler, C.J. The individual and
+combined effects of the cyanotoxins, anatoxin-a and microcystin-LR, on the growth, toxin production and
+nitrogen fixation of prokaryotic and eukaryotic algae. Toxins 2019, 11, 43. [CrossRef] [PubMed]
+Rymuszka, A.; Sieroslawska, A. Cytotoxic and immunotoxic effects of the mixture containing cyanotoxins on
+carp cells following in vitro exposure. Cent. Eur. J. Immunol. 2013, 38, 159–163. [CrossRef]
+Li, Q.; Gu, P.; Zhang, C.; Luo, X.; Zhang, H.; Zhang, J.; Zheng, Z. Combined toxic effects of anatoxin-a and
+microcystin-LR on submerged macrophytes and biofilms. J. Hazard. Mater. 2020, 389, 122053. [CrossRef]
+Lindsay, J.; Metcalf, J.S.; Codd, G.A. Protection against the toxicity of microcystin-LR and cylindrospermopsin
+in Artemia salina, and Daphnia spp. by pretreatment with cyanobacterial lipopolysaccharide (LPS). Toxicon
+2006, 48, 995–1001. [CrossRef]
+
+
+
+Toxins 2020, 12, 629
+
+31.
+
+32.
+33.
+
+34.
+
+35.
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+42.
+43.
+
+44.
+
+45.
+46.
+47.
+48.
+
+49.
+
+50.
+
+12 of 17
+
+Pinheiro, C.; Azevedo, J.; Campos, A.; Vasconcelos, V.; Loureiro, S. The interactive effects of microcystin-LR
+and cylindrospermopsin on the growth rate of the freshwater alga Chlorella Vulgaris. Ecotoxicology 2016, 25,
+745–758. [CrossRef]
+Reinikainen, M.; Meriluoto, J.A.O.; Spoof, L.; Harada, K.-I. The toxicities of a polyunsaturated fatty acid and
+a microcystin to Daphnia Magna. Environ. Toxicol. 2001, 16, 444–448. [CrossRef]
+Wang, L.; He, L.; Zeng, H.; Fu, W.; Wang, J.; Tan, Y.; Zheng, C.; Qiu, Z.; Luo, J.; Lv, C.; et al. Low dose
+microcystin-LR antagonises aflatoxin B1 induced hepatocarcinogenesis through decreased cytochrome P450
+1A2 expression and aflatoxin B1-DNA adduct generation. Chemosphere 2020, 248, 126036. [CrossRef]
+Meneely, J.P.; Hašlová, J.; Krska, R.; Elliott, C.T. Assessing the combined toxicity of the natural toxins,
+aflatoxin B1 , fumonisin B1 and microcystin-LR by high content analysis. Food Chem. Toxicol. 2018, 121,
+527–540. [CrossRef] [PubMed]
+Wei, H.; Wang, S.; Xu, E.G.; Liu, J.; Li, X.; Wang, Z. Synergistic toxicity of microcystin-LR and Cu to zebrafish
+(Danio rerio). Sci. Total Environ. 2020, 713, 736393. [CrossRef] [PubMed]
+Wang, Z.; Zhang, J.; Li, E.; Zhang, L.; Wang, X.; Song, L. Combined toxic effects and mechanisms of
+microcystin-LR and copper on Vallisneria natans (Lous.) Hara seedlings. J. Hazard. Mater. 2017, 328, 108–116.
+[CrossRef] [PubMed]
+Wang, Z.; Xiao, B.; Song, L.; Wu, X.; Zhang, Y.; Wang, C. Effects of microcystin-LR, linear alkylbenzene
+sulfonate and their mixture on lettuce (Lactuca sativa L.) seeds and seedlings. Ecotoxicology 2011, 20, 803–814.
+[CrossRef] [PubMed]
+Wan, X.; Steinman, A.D.; Shu, X.; Cao, Q.; Yao, L.; Xie, L. Combined toxic effects of microcystin-LR and
+phenanthrene on growth and antioxidant system of duckweed (Lemna gibba L.). Ecotoxicol. Environ. Saf. 2019,
+185, 109668. [CrossRef] [PubMed]
+Hinojosa, M.G.; Prieto, A.I.; Gutiérrez-Praena, D.; Moreno, F.J.; Caméan, A.M.; Jos, A. In vitro assessment of
+the combination of cylindrospermopsin and the organophosphate chlorpyrifos on the human neuroblastoma
+SH-SY5Y cell line. Ecotoxicol. Environ. Saf. 2020, 191, 110222. [CrossRef]
+Hercog, C.; Štern, A.; Maisanaba, S.; Filipič, M.; Bojana, Ž. Plastics in cyanobacterial blooms—genotoxic
+effects of binary mixtures of cylindrospermopsin and bisphenols in HepG2 cells. Toxins 2020, 12, 219.
+[CrossRef]
+Fiore, S.M.F.; de Lima, S.T.; Carmichael, W.W.; McKinnie, S.M.K.; Checkan, J.R.; Moore, B.S. Guanitoxin,
+renaming a cyanobacterial organophosphate toxin. Harmful Algae 2020, 92, 101937. [CrossRef]
+Spoof, L.; Catherine, A. Appendix 3: Tables of microcystins and nodularins. In Handbook of Cyanobacterial
+Monitoring and Cyanotoxin Analysis; Wiley: Chichester, UK, 2017; pp. 526–537.
+Robillot, C.; Vinh, J.E.; Puiseux-Dao, S.; Hennion, M.-C. Hepatotoxin production kinetics of the
+cyanobacterium Microcystis aeruginosa PCC 7820, as determined by HPLC-mass spectrometry and protein
+phosphatase bioassay. Environ. Sci. Technol. 2000, 34, 3372–3378. [CrossRef]
+Wimmer, K.M.;
+Strangman, W.;
+Wright, J.L.C. 7-deoxy-desulfo-cylindrospermopsin and
+7-dexoy-desulfo-12-acetylcylindrospermopsin: Two new cylindrospermopsin analogs isolated from a Thai
+strain of Cylindrospermopsis raciborskii. Harmful Algae 2014, 37, 203–206. [CrossRef]
+Ward, C.J.; Codd, G.A. Comparative toxicity of four microcystins of different hydrophobicities to the
+protozoan, Tetrahymena Pyriformis. J. Appl. Microbiol. 1999, 86, 874–882. [CrossRef]
+Harada, K.-I.; Ogawa, K.; Kimura, Y.; Murata, H.; Suzuki, M. Microcystins from Anabaena flos-aquae NRC
+525-17. Chem. Res. Toxicol. 1991, 4, 535–540. [CrossRef]
+Monteiro, S.; Santos, R.; Bláha, L.; Codd, G.A. Lipopolysaccharide endotoxins. In Handbook of Cyanobacterial
+Monitoring and Cyanotoxin Analysis; Wiley: Chichester, UK, 2017; pp. 165–172.
+Pouria, S.; de Andrade, A.; Barbosa, J.; Cavalcanti, R.L.; Barreto, V.T.; Ward, C.J.; Preiser, W.; Poon, G.K.;
+Neild, G.H.; Codd, G.A. Fatal microcystin intoxication in haemodialysis unit in Caruaru, Brazil. Lancet 1998,
+352, 21–26. [CrossRef]
+Jochimsen, E.M.; Carmichael, W.W.; An, J.S.; Cardo, D.M.; Cookson, S.T.; Holmes, C.E.; Antunes, M.B.; de
+Melo Filho, D.A.; Lyra, T.M.; Barreto, V.S.; et al. Liver failure and death after exposure to microcystins at a
+hemodialysis center in Brazil. N. Engl. J. Med. 1998, 338, 873–878. [CrossRef] [PubMed]
+Carmichael, W.W.; Azevedo, S.M.; An, J.S.; Molica, R.J.; Jochimsen, E.M.; Lau, S.; Rinehart, K.L.; Shaw, G.R.;
+Eaglesham, G.K. Human fatalities from cyanobacteria: Chemical and biological evidence for cyanotoxins.
+Environ. Health Perspect. 2001, 109, 663–668. [CrossRef] [PubMed]
+
+
+
+Toxins 2020, 12, 629
+
+51.
+
+52.
+
+53.
+54.
+
+55.
+
+56.
+57.
+58.
+59.
+
+60.
+
+61.
+62.
+63.
+64.
+
+65.
+
+66.
+67.
+68.
+
+69.
+
+70.
+
+13 of 17
+
+Krienitz, L.; Ballot, A.; Kotut, K.; Wiegand, C.; Pütz, S.; Metcalf, J.S.; Codd, G.A.; Pflugmacher, S.
+Contribution of hot spring cyanobacteria to the mysterious deaths of Lesser Flamingos at Lake Bogoria,
+Kenya. FEMS Microbiol. Ecol. 2003, 43, 141–148. [CrossRef] [PubMed]
+Krienitz, L.; Ballot, A.; Caspar, P.; Codd, G.A.; Kotut, K.; Metcalf, J.S.; Morrison, L.F.; Pflugmacher, S.;
+Wiegand, C. Contribution of toxic cyanobacteria to massive deaths of Lesser Flamingos at saline-alkaline
+lakes. Proc. Int. Assoc. Theor. Appl. Limnol. 2005, 29, 783–786. [CrossRef]
+Pennycott, T.; Young, F.M.; Metcalf, J.S.; Codd, G.A. Necrotic enteritis in mute swans associated with
+cyanobacterial toxins. Vet. Rec. 2004, 154, 575–576.
+Landsberg, J.H.; Hendrickson, J.; Tabuchi, M.; Kiryu, Y.; Williams, B.J.; Tomlinson, M.C. A large-scale sustained
+fish kill in the St John’s River, Florida: A complex consequence of cyanobacterial blooms. Harmful Algae 2020,
+92, 101771. [CrossRef]
+Hawkins, P.R.; Runnegar, M.T.C.; Jackson, A.R.B.; Falconer, I.R. Severe hepatotoxicity caused by the tropical
+cyanobacterium (blue-green alga) Cylindrospermopsis raciborskii (Woloszynska) Seenaya and Subba Raju
+isolated from a domestic water supply. Appl. Environ. Microbiol. 1985, 50, 11292–11295. [CrossRef]
+Turner, P.C.; Gammie, A.J.; Hollinrake, K.; Codd, G.A. Pneumonia associated with contact with cyanobacteria.
+Br. Med. J. 1990, 300, 1440–1441. [CrossRef] [PubMed]
+Yu, S.-Z. Drinking water and primary liver cancer. In Primary Liver Cancer; Tang, Z.Y., Wu, M.C., Xia, S.S., Eds.;
+China Academic Publishers: New York, NY, USA, 1989; pp. 30–37.
+Yu, S.-Z. Primary prevention of hepatocellular carcinoma. J. Gastroenterol. Hepatol. 1995, 10, 674–682.
+[CrossRef]
+Ueno, Y.; Nagata, S.; Tsutsumi, T.; Hasegawa, A.; Watanabe, M.; Park, H.D.; Chen, G.-C.; Chen, G.; Yu, S.-Z.
+Detection of microcystins, a blue-green algal hepatotoxin, in drinking water sampled in Haimen and Fusui,
+endemic areas of primary liver cancer in China, by highly sensitive immunoassay. Carcinogenesis 1996, 17,
+1317–1321. [CrossRef] [PubMed]
+Zheng, C.; Zeng, H.; Lin, H.; Wang, J.; Feng, Z.; Chen, J.-A.; Luo, J.; Luo, Y.; Huang, Y.; Wang, L.; et al. Serum
+microcystin levels positively linked with risk of hepatocellular carcinoma: A case-control study in southwest
+China. Hepatology 2017, 66, 1519–1528. [CrossRef] [PubMed]
+Rasmussen, S.A.; Andersen, A.J.C.; Andersen, N.G.; Nielsen, K.F.; Hansen, P.J.; Larsen, T.O. Chemical
+diversity, origin, and analysis of phycotoxins. J. Nat. Prod. 2016, 79, 662–673. [CrossRef]
+Vilariño, N.; Louzao, M.C.; Abal, P.; Cagide, E.; Carrera, C.; Vieytes, M.R.; Botana, L.M. Human poisoning
+from marine toxins: Unknowns for optimal consumer protection. Toxins 2018, 10, 324. [CrossRef]
+Akbar, M.A.; Yusof, N.Y.M.; Tahir, N.I.; Ahmad, A.; Usup, G.; Sahrani, F.K.; Bunawan, H. Biosynthesis of
+saxitoxin in marine dinoflagellates: An omics perspective. Mar. Drugs 2020, 18, 103. [CrossRef]
+Miller, M.A.; Kudela, R.M.; Mekebri, A.; Crane, D.; Oates, S.C.; Tinker, M.T.; Staedler, M.; Miller, W.A.;
+Toy-Choutka, S.; Dominik, C.; et al. Evidence for a novel marine harmful algal bloom: Cyanotoxin
+(microcystin) transfer from land to sea otters. PLoS ONE 2010, 5, e12576. [CrossRef]
+Peacock, M.B.; Gibble, C.M.; Senn, D.B.; Cloern, J.E.; Kudela, R.M. Blurred lines: Multiple freshwater and
+marine algal toxins at the land-sea interface of San Fransisco Bay, California. Harmful Algae 2018, 73, 138–147.
+[CrossRef]
+Codd, G.A.; Nunn, P.B. Cyanotoxin production beyond the cyanobacteria. Toxicon 2019, 168, 93–94. [CrossRef]
+Ballot, A.; Bernard, C.; Fastner, J. Saxitoxin and analogues. In Handbook of Cyanobacterial Monitoring and
+Cyanotoxin Analysis; Wiley: Chichester, UK, 2017; pp. 149–154.
+Smith, F.M.J.; Wood, S.A.; Wilks, T.; Kelly, D.; Broady, P.A.; Williamson, W.; Gaw, S. Survery of Scytonema
+(Cyanobacteria) and associated saxitoxins in the littoral zone of recreational lakes in Canterbury, New Zealand.
+Phycologia 2012, 51, 542–551.
+Cullen, A.; D’Agostino, P.M.; Mazmouz, R.; Pickford, R.; Wood, S.A.; Nielan, B.A. Insertions within the
+saxitoxin biosynthetic gene cluster result in differential toxin profiles. ACS Chem. Biol. 2018, 13, 3107–3114.
+[PubMed]
+Cox, P.A.; Banack, S.A.; Murch, S.J.; Rasmussen, U.; Tien, G.; Bidigare, R.R.; Metcalf, J.S.; Morrison, L.F.;
+Codd, G.A.; Bergman, B. Diverse taxa of cyanobacteria produce β-N-methylamino-L-alanine, a neurotoxic
+amino acid. Proc. Natl. Acad. Sci. USA 2005, 102, 5074–5078. [PubMed]
+
+
+
+Toxins 2020, 12, 629
+
+71.
+
+72.
+73.
+74.
+75.
+76.
+
+77.
+78.
+79.
+
+80.
+81.
+82.
+
+83.
+84.
+85.
+86.
+87.
+
+88.
+89.
+90.
+
+91.
+92.
+93.
+94.
+
+14 of 17
+
+Metcalf, J.S.; Banack, S.A.; Lindsay, J.; Morrison, L.F.; Cox, P.A.; Codd, G.A. Co-occurrence of
+β-N-methylamino-L-alanine a neurotoxic amino acid with other cyanobacterial toxins in British waterbodies,
+1990–2004. Environ. Microbiol. 2008, 10, 702–708. [PubMed]
+Faassen, E.J.; Gillissen, F.; Lürling, M. A comparative study of three analytical methods for the determination
+of the neurotoxin BMAA in cyanobacteria. PLoS ONE 2012, 7, e36667. [PubMed]
+Jiang, L.; Eriksson, J.; Lage, S.; Jonasson, S.; Shams, S.; Mehine, M.; Ilag, L.L.; Rasmussen, U. Diatoms: A novel
+source for the neurotoxin BMAA in aquatic environments. PLoS ONE 2014, 9, e84578.
+Violi, J.P.; Facey, J.A.; Mitrovic, S.M.; Colville, A.; Rodgers, K.J. Production of β-methylamino-L-alanine
+(BMAA) and its isomers in freshwater diatoms. Toxins 2019, 11, 1109–1138.
+Jiang, L.; Ilag, L.L. Detection of endogenous BMAA in dinoflagellate (Heterocapsa triquetra) hints at evolutionary
+conservation and environmental concern. Pubraw Sci. 2014, 2, 1–8.
+Metcalf, J.S.; Banack, S.A.; Wessel, R.A.; Lester, M.; Pim, J.G.; Cassani, J.R.; Cox, P.A. Toxin analysis of
+freshwater cyanobacterial and marine harmful algal blooms on the west coast of Florida and implications for
+estuarine environments. Neurotox. Res. 2020. [CrossRef]
+O’Neal, R.M.; Chen, C.-H.; Reynolds, C.S.; Meghal, S.K.; Koeppe, R.E. The ‘neurotoxicity’ of
+L-2,4-diaminobutyric acid. Biochem. J. 1968, 106, 699–706.
+Schneider, T.; Simpson, C.; Desai, P.; Tucker, M.; Lobner, D. Neurotoxicity of isomers of the environmental
+toxin L-BMAA. Toxicon 2020, 184, 175–179. [PubMed]
+Nunn, P.B.; Codd, G.A. Metabolic solutions to the biosynthesis of some diaminomonocarboxylic acids in
+nature: Formation in cyanobacteria of the neurotoxins 3-N-methyl-2,3-diaminopropanoic acid (BMAA) and
+2,4-diaminobutanoic acid (2,4-DAB). Phytochemistry 2017, 144, 2530270. [CrossRef] [PubMed]
+Nunn, P.B.; Codd, G.A. Environmental distribution of the neurotoxin L-BMAA in Paenibacillus species.
+Toxicol. Res. 2019, 8, 781–783. [CrossRef] [PubMed]
+Tu, J.; Chen, L.; Gao, S.; Zhang, J.; Bi, C.; Lu, N.; Lu, Z. Obtaining genome sequences of mutualistic bacteria
+in single Microcystis colonies. Int. J. Mol. Sci. 2019, 20, 5047. [CrossRef] [PubMed]
+Stewart, I.; Webb, P.M.; Schluter, P.J.; Shaw, G.R. Recreational and occupational field exposure to freshwater
+cyanobacteria—A review of anecdotal and case reports, epidemiological studies and the challenges for
+epidemiologic assessment. Environ. Health 2006, 5, 6. [CrossRef] [PubMed]
+Koch, R. An address on cholera and its bacillus. Br. Med. J. 1884, 2, 453.
+Islam, M.S.; Drasar, B.S.; Sack, R.B. Probable role of blue-green algae in maintaining endemicity and
+seasonality of cholera in Bangladesh: A hypothesis. J. Diarrhoeal Dis. Res. 1994, 12, 245–256. [PubMed]
+Islam, M.S.; Zaman, M.H.; Islam, M.S.; Ahmed, M.; Clemens, J.D. Environmental reservoirs of Vibrio cholerae.
+Vaccine 2020, 38, A52–A62. [CrossRef]
+Ahmed, M.S.; Raknussaman, M.; Akther, H.; Ahmed, S. The role of cyanobacteria blooms in cholera epidemic
+in Bangladesh. J. Appl. Sci. 2007, 7, 1785–1789.
+Froehlich, B.; Gonzalez, R.; Blackwood, D.; Lauer, K.; Noble, R. Decadal monitoring reveals an increase in
+Vibrio spp. concentrations in the Neuse River Estuary, North Carolina, USA. PLoS ONE 2019, 14, e0215254.
+[CrossRef]
+Paerl, H.W.; Valdes, L.M.; Peierls, B.J.; Adolf, J.E.; Harding, L.W. Anthropogenic and climate influences on
+the eutrophication of large estuarine ecosystems. Limnol. Oceanogr. 2006, 51, 448–462. [CrossRef]
+Marshall, M.M.; Naumovitz, D.; Ortega, Y.; Sterling, C.R. Waterborne protozoan pathogens.
+Clin. Microbiol. Rev. 1997, 10, 67–85. [CrossRef]
+Lopes, A.M.M.B.; Gomes, L.N.L.; de Cerqueira, M.F.; Filho, C.R.M.; von Sperling, E.; de Pádua, V.L. Dynamic
+of pathogenic protozoa and cyanobacteria in a reservoir used for water supply in southeastern Brazil.
+Eng. Sanit. E Ambient. 2017, 22, 25–43. [CrossRef]
+Fiore, M.F.; Trevors, J.T. Cell composition and metal tolerance in cyanobacteria. BioMetals 2017, 7, 83–103.
+[CrossRef]
+Baptista, M.S.; Vasconcelos, M.T. Cyanobacteria metal interactions: Requirements, Toxicity and ecological
+implications. Crit. Rev. Microbiol. 2006, 32, 127–137. [CrossRef] [PubMed]
+Ramakrishnan, B.; Megharaj, M.; Venkateswarlu, K.; Naidu, R.; Sethunathan, N. The impacts of environmental
+pollutants on microalgae and cyanobacteria. Crit. Rev. Environ. Sci. Technol. 2010, 40, 699–821. [CrossRef]
+Gu, P.; Qi, L.; Zhang, W.; Zheng, Z.; Luo, X. Effects of different metal ions (Ca, Cu, Pb, Cd) on formation of
+cyanobacterial blooms. Ecotoxicol. Environ. Saf. 2020, 189, 109976. [CrossRef] [PubMed]
+
+
+
+Toxins 2020, 12, 629
+
+95.
+
+15 of 17
+
+Heresztyn, T.; Nicholson, B.C. Nodularin concentrations in Lake Alexandrina and Albert, South Australia,
+during a bloom of the cyanobacterium (blue-green alga) Nodularia spumigena and degradation of the toxin.
+Environ. Toxicol. Water Qual. 1997, 12, 273–282. [CrossRef]
+96. Falconer, I.R.; Beresford, A.M.; Runnegar, M.T. Evidence of liver damage by toxin from a bloom of the
+blue-green alga Microcystis aeruginosa. Med. J. Aust. 1983, 1, 511–514. [CrossRef]
+97. Utkilen, H.; Gjolme, N. Iron-stimulated toxin production in Microcystis aeruginosa. Appl. Environ. Microbiol.
+1995, 61, 797–800. [CrossRef]
+98. Facey, J.A.; Apte, S.C.; Mitrovic, S.M. A review of the effect of trace metals on freshwater cyanobacterial
+growth and toxin production. Toxins 2019, 11, 643. [CrossRef] [PubMed]
+99. Harland, F.M.J.; Wood, S.A.; Moltchanova, E.; Williams, W.M.; Gaw, S. Phormidium autumnale growth and
+anatoxin-a production under iron and copper stress. Toxins 2013, 5, 2504–2521. [CrossRef] [PubMed]
+100. Nunn, P.B.; O’Brien, P.; Pettit, L.D.; Pyburn, S.I. Complexes of zinc, copper and nickel with the non-protein
+amino acid L-α-amino-β-methylaminopropionic acid: A naturally occurring neurotoxin. J. Inorg. Biochem.
+1989, 37, 175–183. [CrossRef]
+101. Humble, A.V.; Gadd, G.M.; Codd, G.A. Binding of copper and zinc to three cyanobacterial microcystins
+quantified by differential pulse polarography. Water Res. 1997, 31, 1679–1686. [CrossRef]
+102. Rush, T.; Liu, X.; Lobner, D. Synergistic toxicity of the environmental neurotoxins methylmercury and
+β-N-methylamino-l-alanine. Neuroreport 2012, 23, 216–219. [CrossRef]
+103. Metcalf, J.S.; Bruno, M. Anatoxin-a(S). In Handbook of Cyanobacterial Monitoring and Cyanotoxin Analysis; Wiley:
+Chichester, UK, 2017; pp. 155–159.
+104. Singh, A.K.; Singh, P.P.; Tripathi, V.; Verma, H.; Singh, S.K.; Srivastarva, M.K.; Kumar, A. Distribution
+of cyanobacteria and their interactions with pesticides in paddy field: A comprehensive review.
+J. Environ. Manag. 2018, 224, 361–375. [CrossRef]
+105. Staley, Z.R.; Harwood, V.J.; Rohr, J.R. A synthesis of the effects of pesticides on microbial persistence in
+aquatic ecosystems. Crit. Rev. Toxicol. 2015, 45, 813–836. [CrossRef]
+106. Bettinetti, R.; Quadroni, S.; Crosa, G.; Harper, D.; Dickie, J.; Kyalo, M.; Mavuti, K.; Galassi, S. A preliminary
+evaluation of the DDT contamination of sediments in Lakes Natron and Bogoria (Eastern Rift Valley, Africa).
+AMBIO 2011, 40, 341–350. [CrossRef]
+107. Woodward, A.R.; Percival, H.F.; Rauschenberger, R.H.; Gross, T.S.; Rice, K.G.; Conrow, R. Abnormal alligators
+and organochlorine pesticides in Lake Apopka, Florida. In Wildlife Ecotoxicology Forensics Approached;
+Elliott, J.E., Bishop, C.A., Morrissey, C.A., Eds.; Springer: New York, NY, USA, 2011; pp. 153–187.
+108. Cerbin, S.; Kraak, M.H.S.; de Voogt, P.; Visser, P.M.; van Donk, E. Combined and single effects of pesticide
+carbaryl and toxic Microcystis aeruginosa on the life history of Daphnia pulicaria. Hydrobiologia 2010, 643,
+129–138. [CrossRef]
+109. Metcalf, J.S.; Beattie, K.A.; Ressler, J.; Gerbersdorf, S.; Pflugmacher, S.; Codd, G.A. Cross-reactivity and
+performance assessment of four microcystin immunoassays with detoxication products of the cyanotoxin,
+microcystin-LR. J. Water Supply Res. Technol. AQUA 2002, 51, 145–151. [CrossRef]
+110. Gill, J.P.K.; Sethi, N.; Mohan, A.; Datta, S.; Girdhar, M. Glyphosate toxicity for animals. Environ. Chem. Lett.
+2017. [CrossRef]
+111. Zhang, Q.; Qu, Q.; Lu, T.; Ke, M.; Zhu, Y.; Zhang, M.; Zhang, Z.; Du, B.; Pan, X.; Sun, L.; et al. The combined
+toxicity effect of nanoplastics and glyphosate on Microcystis aeruginosa growth. Environ. Pollut. 2018, 243,
+1106–1112. [CrossRef] [PubMed]
+112. Wu, L.; Qiu, Z.; Zhou, Y.; Du, Y.; Liu, C.; Ye, J.; Hu, X. Physiological effects of the herbicide glyphosate on the
+cyanobacterium Microcystis aeruginosa. Aquat. Toxicol. 2016, 178, 72–79. [CrossRef] [PubMed]
+113. Malécot, M.; Guével, B.; Pineau, C.; Holbech, B.F.; Bormans, M.; Wiegand, C. Specific proteome response of
+Unio pictorum mussel to a mixture of glyphosate and microcystin-LR. J. Proteome Res. 2013, 12, 5281–5292.
+114. Moore, C.J. Synthetic polymers in the marine environment: A rapidly increasing long-term threat. Environ. Res.
+2008, 108, 131–139. [CrossRef]
+115. Yokota, K.; Waterfield, H.; Hastings, C.; Davidson, E.; Kwietniewski, E.; Wells, B. Finding the missing
+piece of the aquatic pollution puzzle: Interaction between primary producers and microplastics.
+Limnol. Oceanogr. Lett. 2017, 2, 91–104. [CrossRef]
+116. Yao, L.; Hui, L.; Yang, Z.; Chen, X.; Xiao, A. Freshwater microplastics pollution: Detecting and visualizing
+emerging trends based on Citespace II. Chemosphere 2020, 245, 125627. [CrossRef]
+
+
+
+Toxins 2020, 12, 629
+
+16 of 17
+
+117. Leiser, R.; Wu, G.-M.; Neu, T.R.; Wendt-Potthoff, K. Biofouling, metal sorption and aggregation are related to
+sinking of microplastics in a stratified reservoir. Water Res. 2020, 176, 115748. [CrossRef]
+118. Feng, L.J.; Sun, X.-D.; Zhu, F.-P.; Feng, Y.; Duan, J.-L.; Xiao, F.; Li, X.-Y.; Shi, Y.; Wang, Q.; Sun, J.-W.;
+et al. Nanoplastics promote microcystin synthesis and release from cyanobacterial Microcystis aeruginosa.
+Environ. Sci. Technol. 2020, 54, 3386–3394. [CrossRef]
+119. Hyenstrand, P.; Metcalf, J.S.; Beattie, K.A.; Codd, G.A. Losses of the cyanobacterial toxin microcystin-LR
+from aqueous solution by adsorption during laboratory manipulations. Toxicon 2001, 39, 589–594. [CrossRef]
+120. Hyenstrand, P.; Metcalf, J.S.; Beattie, K.A.; Codd, G.A. Effects of adsorption to plastics and solvent conditions
+in the analysis of the cyanobacterial toxin microcystin-LR by high performance liquid chromatography.
+Water Res. 2001, 35, 3508–3511. [CrossRef]
+121. Hitzfeld, B.C.; Höger, S.; Dietrich, D.R. Cyanobacterial toxins: Removal during water treatment, and human
+risk assessment. Environ. Health Perspect. 2000, 108, 113–122. [PubMed]
+122. Delgado, L.F.; Charles, P.; Glucina, K.; Morlay, C. The removal of endocrine disrupting compounds,
+pharmaceutically activated compounds and cyanobacterial toxins during drinking water preparation using
+activated carbon—A review. Sci. Total Environ. 2012, 435–436, 509–525. [CrossRef] [PubMed]
+123. Hageskal, G.; Lima, N.; Skaar, I. The study of fungi in drinking water. Mycol. Res. 2009, 113, 165–172.
+[CrossRef] [PubMed]
+124. Sanches, S.; Crespo, M.T.B.; Pereira, V.J. Drinking water treatment of priority pesticides using low pressure
+UV photolysis and advanced oxidation processes. Water Res. 2010, 44, 1809–1818. [CrossRef]
+125. Griffini, O.; Bao, M.L.; Burrini, D.; Santianni, D.; Barbieri, C.; Pantani, F. Removal of pesticides during water
+treatment process at Florence water supply, Italy. J. Water Supply Res. Technol. AQUA 1999, 48, 177–185.
+[CrossRef]
+126. Ignatowicz, K. Selection of sorbent for removing pesticides during water treatment. J. Hazard. Mater. 2009,
+169, 953–957. [CrossRef]
+127. Ma, B.; Xue, W.; Hu, C.; Liu, H.; Qu, J.; Li, L. Characteristics of microplastic removal via coagulation and
+ultrafiltration during drinking water treatment. Chem. Eng. J. 2019, 359, 159–167. [CrossRef]
+128. Pivokonsky, M.; Cermakova, L.; Novotna, K.; Peer, P.; Cajthaml, T.; Janda, V. Occurrence of microplastics in
+raw and treated drinking water. Sci. Total Environ. 2018, 643, 1644–1651. [CrossRef]
+129. Elliott, H.A.; Dempsey, B.A.; Maille, P.J. Content and fractionation of heavy metals in water treatment sludges.
+J. Environ. Qual. 1990, 19, 330–334. [CrossRef]
+130. Chiang, Y.W.; Ghyselbrecht, K.; Santos, R.M.; Martens, J.A.; Swennen, R.; Cappuyns, V.; Meesschaert, B.
+Adsorption of multi-heavy metals onto water treatment residuals: Sorption capacities and applications.
+Chem. Eng. J. 2012, 200–202, 405–415. [CrossRef]
+131. Lambert, T.W.; Holmes, C.F.B.; Hrudey, S.E. Adsorption of microcystin-LR by activated carbon and removal
+in full scale water treatment. Water Res. 1996, 30, 1411–1422. [CrossRef]
+132. Vlad, S.; Anderson, W.B.; Peldszus, S.; Huck, P.M. Removal of the cyanotoxin anatoxin-a by drinking water
+treatment processes: A review. J. Water Health 2014, 12, 601–617. [CrossRef] [PubMed]
+133. Ho, L.; Tanis-Plant, P.; Kayal, N.; Slyman, N.; Newcombe, G. Optimising water treatment practices for the
+removal of Anabaena circinalis and its associated metabolites, geosmin and saxitoxins. J. Water Health 2009, 7,
+544–556. [CrossRef] [PubMed]
+134. Senogles, P.; Shaw, G.; Smith, M.; Norris, R.; Chiswell, R.; Mueller, J.; Sadler, R.; Eaglesham, G. Degradation
+of the cyanobacterial toxin cylindrospermopsin, from Cylindrospermopsis raciborskii, by chlorination. Toxicon
+2000, 38, 1203–1213. [CrossRef]
+135. Falconer, I.R.; Humpage, A.R. Cyanobacterial (blue-green algal) toxins in water supplies:
+Cylindrospermopsins. Environ. Toxicol. 2006, 21, 299–304. [CrossRef]
+136. Metcalf, J.S.; Codd, G.A. The status and potential of cyanobacteria and their toxins as agents of bioterrorism.
+In Handbook on Cyanobacteria: Biochemistry, Biotechnology and Applications; Gault, P.M., Marler, H.J., Eds.;
+Nova Science Publishers: New York, NY, USA, 2009; pp. 259–281.
+137. Chorus, I.; Bartram, J. Toxic Cyanobacteria in Water: A Guide to Their Public Health Consequences, Monitoring and
+Management; E.&F.N. Spon: London, UK, 1999.
+138. World Health Organization. Microplastics in Drinking Water; World Health Organization: Geneva,
+Switzerland, 2019.
+
+
+
+Toxins 2020, 12, 629
+
+17 of 17
+
+139. World Health Organization. Guidelines for Drinking Water Quality, 4th ed.; World Health Organization:
+Geneva, Switzerland, 2017.
+140. Merlo, F.; Maraschi, F.; Piparo, D.; Profumo, A.; Speltini, A. Simultaneous pre-concentration and HPLC-MS/MS
+quantification of phycotoxins and cyanotoxins in inland and coastal waters. Int. J. Environ. Res. Public Health
+2020, 17, 4782. [CrossRef]
+141. Manton, W.I. Total contribution of airborne lead to blood lead. Br. J. Ind. Med. 1985, 42, 168–172. [CrossRef]
+142. Querol, X.; Alastuey, A.; Moreno, T.; Viana, M.M.; Castillo, S.; Pey, J.; Rodríguez, S.; Artiñano, B.; Salvador, P.;
+Sánchez, M.; et al. Spatial and temportal variation in airborne particulate matter (PM10 and PM2.5 ) across
+Spain 1999–2005. Atmos. Environ. 2008, 42, 3964–3979. [CrossRef]
+143. Metcalf, J.S.; Richer, R.; Cox, P.A.; Codd, G.A. Cyanotoxins in desert environments may present a risk to
+human health. Sci. Total Environ. 2012, 421–422, 118–123. [CrossRef]
+144. Lentz, D.L.; Hamilton, T.L.; Dunning, N.P.; Scarborough, V.L.; Luxton, T.P.; Vonderheide, A.; Tepe, E.J.;
+Perfetta, C.J.; Brunemann, J.; Grazioso, L.; et al. Molecular genetic and geochemical assays reveal severe
+contamination of drinking water reservoirs at the ancient Maya city of Tikal. Sci. Rep. 2020, 10, 10316.
+[CrossRef]
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+

@@ -1,0 +1,781 @@
+MAJOR ARTICLE
+
+A Waterborne Outbreak of Gastroenteritis
+with Multiple Etiologies among Resort Island
+Visitors and Residents: Ohio, 2004
+Ciara E. O’Reilly,1,2 Anna B. Bowen,1,2 Nytzia E. Perez,2 John P. Sarisky,3 Craig A. Shepherd,3 Mark D. Miller,3
+Brian C. Hubbard,3 Michael Herring,3 Sharunda D. Buchanan,3 Collette C. Fitzgerald,2 Vincent Hill,4
+Michael J. Arrowood,4 Lihua X. Xiao,4 R. Michael Hoekstra,2 Eric D. Mintz,2 Michael F. Lynch,2 and the Outbreak
+Working Groupa
+1
+
+Epidemic Intelligence Service, Ofﬁce of Workforce and Career Development, 2Enteric Diseases Epidemiology Branch, Division of Foodborne,
+Bacterial and Mycotic Diseases, 3Division of Emergency and Environmental Health Services, National Center for Environmental Health,
+and 4Division of Parasitic Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia
+
+Background. The implementation of treated municipal water systems in the 20th century led to a dramatic
+decrease in waterborne disease in the United States. However, communities with deﬁcient water systems still
+experience waterborne outbreaks. In August 2004, we investigated an outbreak of gastroenteritis on South Bass
+Island, Ohio, an island of 900 residents that is visited by 1500,000 persons each year.
+Methods. To identify the source of illness, we conducted a case-control study and an environmental investigation.
+A case was deﬁned as diarrhea in a person who traveled to the island during the period from May 1 through 30
+September 2004 and became ill within 2 weeks after the visit. Healthy travel companions served as matched control
+subjects. We also performed an environmental assessment and extensive testing of island water sources.
+Results. Among the 1450 persons reporting illness, Campylobacter jejuni, norovirus, Giardia intestinalis, and
+Salmonella enterica serotype Typhimurium were identiﬁed in 16, 9, 3, and 1 persons, respectively. We interviewed
+100 case patients and 117 matched control subjects. Case patients were more likely to drink water on the island
+than control subjects (68% vs. 35%; matched odds ratio, 4.3; 95% conﬁdence interval, 2.2–9.3). Sampling of
+ground water wells indicated contamination with multiple fecal microbes, including Escherichia coli, C. jejuni,
+Salmonella species, and Giardia species. Irregularities in sewage disposal practices that could have contaminated
+the underground aquifer were noted.
+Conclusions. The combined epidemiological and environmental investigation indicated that sewage-contam­
+inated ground water was the likely source of this large outbreak. Long-term changes to the island’s water supply
+and sewage management infrastructure are needed.
+The provision of treated drinking water has led to a
+dramatic decrease in waterborne disease in many
+regions of the world [1]. However, the availability of a
+safe drinking water supply and effective sewage disposal
+cannot be taken for granted in the United States. Dur-
+
+Received 11 August 2006; accepted 2 November 2006; electronically published
+8 January 2007.
+The ﬁndings and conclusions reported in this article are those of the authors
+and do not necessarily represent the views of the Centers for Disease Control
+and Prevention.
+a
+Members of the working group are listed at the end of the text.
+Reprints or correspondence: Dr. Ciara O’Reilly, Enteric Diseases Epidemiology
+Branch, Div. of Foodborne, Bacterial, and Mycotic Diseases, Centers for Disease
+Control and Prevention, 1600 Clifton Rd. NE, MS A-38, Atlanta, GA 30333 (coreilly@
+cdc.gov).
+Clinical Infectious Diseases 2007; 44:506–12
+This article is in the public domain, and no copyright is claimed.
+1058-4838/2007/4404-0005
+
+506 • CID 2007:44 (15 February) • O’Reilly et al.
+
+ing 2001–2002, a total of 31 outbreaks of infection
+associated with drinking water were reported to the
+Centers for Disease Control and Prevention (CDC; At­
+lanta, GA) by 19 states. These outbreaks caused illness
+in an estimated 1020 persons, resulting in 51 hospi­
+talizations and 7 deaths [2].
+In many rural communities, groundwater from wells
+may be the only feasible drinking water source [3].
+Many rural waterborne disease outbreaks have been
+associated with groundwater sources [4–8]. Ensuring
+the integrity of rural drinking water supplies from
+ground water wells requires, among other things,
+proper well construction, maintenance, and manage­
+ment and consideration of the underlying hydrogeology
+[9, 10]. Certain soil and geologic conditions, such as
+karst limestone hydrogeology, signiﬁcantly increase the
+
+
+
+vulnerability of ground water resources to contamination.
+We describe the investigation of a large waterborne outbreak
+of gastroenteritis that occurred on South Bass Island, a resort
+island on Lake Erie, Ohio. We characterize the illnesses that
+occurred among island visitors and residents, describe the risk
+factors for illness, and summarize the environmental ﬁndings.
+METHODS
+Epidemiologic investigation. On 18 August 2004, the Ohio
+Department of Health (ODH; Columbus OH) and the Ottawa
+County Health Department (Port Clinton, OH) invited the
+CDC to assist with the investigation of an outbreak of gastro­
+enteritis associated with travel to South Bass Island, Ohio.
+Case-ﬁnding was enhanced by a health alert to local health
+departments and hospitals; a posting on the CDC’s Web-based
+communications network (Epi-X), CDC posting to epidemi­
+ologists in all US states (through an e-mail listserv), Canada,
+and Enter-net (international surveillance network); and regular
+press releases that encouraged persons to report illness after
+visiting South Bass Island via toll-free call-in lines.
+All persons who reported illness were interviewed by tele­
+phone using a standard questionnaire [11], modiﬁed to include
+water exposure. A suspected case was deﬁned as gastrointestinal
+illness in a resident of South Bass Island with onset of symptoms
+during the period from 30 May through 8 September 2004 or
+in a visitor to South Bass Island from 1 May to 30 September
+2004, with onset of symptoms from 30 May to 8 September
+2004 and within 2 weeks after visiting the island. A conﬁrmed
+case patient was deﬁned as a suspect case patient in whom an
+enteric pathogen was identiﬁed in the stool specimen.
+To develop hypotheses, investigators reviewed case reports
+and conducted in-depth interviews by telephone. Contami­
+nated water was strongly suspected as the vehicle of illness on
+the basis of size of the outbreak, the range of pathogens in­
+volved, information gathered on initial interviews with patients,
+and the review of recent results from water testing. To test this
+hypothesis, a matched case-control study was performed during
+the period from 30 August through 7 September 2004.
+For the case-control study, a case was deﬁned as diarrhea
+(�3 loose stools in a 24-h period) in a person who (1) traveled
+to South Bass Island during the period from 1 May to 30
+September 2004 for a single visit of 1–7 days’ duration, (2) had
+onset of symptoms during the period from 30 May to 8 Sep­
+tember 2004, (3) developed symptoms within 2 weeks after
+visiting the island, and (4) had no contact with another person
+with gastrointestinal illness in the week before the onset of
+illness.
+A control subject was deﬁned as a person who had accom­
+panied a case patient on a visit to South Bass Island during the
+period from 1 May to 30 September 2004 for a single visit of
+1–7 days duration and did not develop subsequent gastroin­
+
+testinal illness. One to 3 control subjects were enrolled per case
+patient.
+For the case-control study, we attempted to enroll all visitors
+who had laboratory-conﬁrmed illness and had no contact with
+another person with gastrointestinal illness. In addition, we
+generated a random selection of patients from a list of visitors
+to the island reporting illness to enable enrollment of 100 cases
+in the case-control study. Control subjects were healthy travel
+companions of each speciﬁc case patient with whom they had
+traveled to the island. The number of control subjects per case
+patient was dependent on how many persons who did not
+become ill had traveled to the island with each case.
+Case patients and control subjects were interviewed by tele­
+phone and asked about drinking water exposures, recreational
+water exposure, and consumption speciﬁc food items. Case
+patients were also asked about their history of illness.
+Environmental investigation. The environmental investi­
+gation involved the Ohio Environmental Protection Agency
+(Columbus and Bowling Green, OH), the ODH, the Ottawa
+County Health Department, the Ohio Department of Agricul­
+ture (Reynoldsburg, OH), and the National Center for Envi­
+ronmental Health at the CDC.
+The village of Put-In-Bay on the island was supplied with
+chlorinated surface water from Lake Erie (municipal supply).
+Businesses in the village used auxiliary ground water wells for
+geothermal heating and cooling, ﬂushing toilets, and outdoor
+cleaning. All other locations outside the village used water sup­
+plied by public (serving �25 people) or private (serving !25
+people) ground water wells. The sewage treatment facility dis­
+charges into Lake Erie. Many residents and businesses outside
+the village use septic tank systems for sewage disposal. All of
+these water and waste systems were investigated, and auxiliary
+wells were inspected for cross-connections to the municipal
+supply.
+Pre- and postchlorination ground water and municipal water,
+water from Lake Erie, and ice from 190 locations were tested.
+Samples were analyzed for total coliforms, Escherichia coli,
+Campylobacter species and Salmonella species. Processed en­
+richment broths from water sampling analyses were forwarded
+to the CDC for pathogen identiﬁcation. Suspect and conﬁrmed
+Campylobacter environmental isolates were sent to the CDC
+for conﬁrmation and further characterization, such as specia­
+tion and molecular subtyping by PFGE [12, 13].
+Fifty-liter water samples were also collected by the National
+Center for Environmental Health from randomly selected lo­
+cations. Water samples were concentrated to ∼200 mL using
+ultraﬁltration membranes with a molecular weight cut-off of
+∼30,000 daltons [14]. Samples were sent to the National Cam­
+pylobacter and Helicobacter Reference Laboratory and the Water
+and Environmental Projects Laboratories at the CDC for anal­
+ysis. Samples were analyzed for fecal coliforms, E. coli, ClosWaterborne Outbreak of Gastroenteritis • CID 2007:44 (15 February) • 507
+
+
+
+tridium perfringens, Campylobacter species, Salmonella species,
+norovirus, enterovirus, adenovirus, coliphages, Cryptospori­
+dium species, and Giardia species. Conventional culture meth­
+ods, microscopy, and molecular methods, including PCR and
+PFGE, were used for detection and subtyping of microorgan­
+isms. PCR was performed to assay samples for Salmonella spe­
+cies, G. intestinalis, Cryptosporidium species, and adenovirus.
+RT-PCR was performed to test samples for enterovirus and
+norovirus (GI and GII).
+An environmental assessment performed by the ODH in­
+cluded an evaluation of the ground water geology of the island,
+the quality of the ground water, and land use practices [15].
+Laboratory investigation of patients. Stool specimens were
+tested for norovirus, Salmonella species, Shigella species, Cam­
+pylobacter species, E. coli O157, Giardia species, and Crypto­
+sporidium species. Specimens were examined at the ODH public
+health laboratory.
+Three clinical specimens were tested at the CDC for entero­
+toxigenic E. coli and Shiga-toxin producing E. coli by PCR. The
+Campylobacter isolates were forwarded to the CDC for speci­
+ation conﬁrmation; PFGE subtyping was completed at the
+ODH public health laboratory and the CDC. Three clinical
+Campylobacter isolates were tested for antimicrobial suscepti­
+bility at the National Antimicrobial Resistance Monitoring Sys­
+tem laboratory. The Etest method (AB Biodisk) was used to
+determine the MICs for 8 antimicrobial agents (azithromycin,
+chloramphenicol, ciproﬂoxacin, clindamycin, erythromycin,
+gentamicin, nalidixic acid, and tetracycline).
+Statistical analysis. Statistical analysis was performed us­
+ing EpiInfo, version 6.04 (CDC), and SAS software, version 9.0
+(SAS Institute). ORs, matched ORs (mORs), and 95% CIs were
+computed in a bivariate analysis. We used a conditional
+(matched) logistic regression model to examine the dose-re­
+sponse relationship.
+RESULTS
+Epidemiologic and clinical information. During the period
+from 30 May through 8 September 2004, a total of 1450 res­
+idents of or visitors to South Bass Island reported a gastroin­
+testinal illness. Twenty one patients (1%) were hospitalized, and
+no deaths were reported (table 1). Most case patients had symp­
+tom onset during the ﬁrst week of August (ﬁgure 1).
+One thousand two hundred seventeen patients (84%) were
+Ohio residents; the remainder came from 25 additional US
+states, Canada, and England. Sixty-one percent were female.
+The median age was 40-years-old. Symptoms reported by pa­
+tients included diarrhea (83%), abdominal cramps (80%), nau­
+sea (77%), vomiting (50%), fever (45%), and bloody diarrhea
+(5%). The median duration of illness was 4 days (range, 1–52
+days) (table 1).
+One hundred case patients, including 8 (8%) with conﬁrmed
+508 • CID 2007:44 (15 February) • O’Reilly et al.
+
+Table 1. Demographic and clinical information for 1450 patients
+reporting gastrointestinal illness to Ottawa County Health De­
+partment, Ohio, 30 May–8 September 2004.
+
+Characteristic
+Island resident
+Ohio resident
+Female sex
+Age, median years (range)
+Age !5 years
+Duration of illness
+Median days (range)
+
+Patients reporting
+gastrointestinal illness
+(n p 1450)
+25 (2)
+1217 (84)
+884 (61)
+40 (!1 to 83)a
+a
+
+48 (3)
+
+4 (1–52)
+
+�2 days
+
+312 (27)b
+
+12 days
+
+833 (73)
+
+b
+
+Symptom
+Diarrhea
+Abdominal cramps
+Nausea
+
+1199 (83)
+1162 (80)
+1110 (77)
+
+Vomiting
+
+728 (50)
+
+Fever
+
+650 (45)
+
+Bloody diarrhea
+
+66 (5)
+
+Sought medical care
+
+114 (8)
+
+Hospitalization
+Death
+
+21 (1)
+0 (0)
+
+NOTE. Data are no. (%) of patients, unless otherwise indicated.
+a
+b
+
+For 1395 cases with age information.
+For 1145 cases with information on duration of illness.
+
+infections, and 117 control subjects were enrolled in the casecontrol study. Several water exposures were associated with
+illness (table 2). Case patients were more likely than control
+subjects to drink tap water on the island (68 [68%] vs. 41
+[35%]; mOR, 4.3; 95% CI, 2.2–9.3). The same proportion of
+case patients and control subjects (37%) drank commercially
+bottled water on the island. However, case patients were more
+likely to drink from a water bottle ﬁlled with tap water on the
+island (19 [19%] vs. 7 [6%]; mOR, 6.0; 95% CI, 1.6–30.0)
+(table 2).
+Illness was strongly associated with consuming drinks con­
+taining ice on the island (72 [73%] vs. 62 [53%]; mOR, 7.1;
+95% CI, 2.2–25.5). Fountain drinks, crushed ice drinks, and
+hot drinks prepared from either a well water source or from
+the municipal water supply were not signiﬁcantly associated
+with illness (table 2).
+Using a conditional (matched) logistic regression model, a
+signiﬁcant dose-response effect for drinking tap water on the
+island was also evident. Consumption of increased amounts of
+tap water on the island was associated with increased odds of
+becoming ill (table 3). People who drank 16 cups of tap water
+on the island were 65 times more likely to become ill than
+those who did not drink any water on the island (15 [15%]
+vs. 2 [2%]; mOR, 64.7; 95% CI, 5.4–778.0) (table 3).
+
+
+
+Figure 1. Cases of gastroenteritis, by date of illness onset, from 30 May through 8 September 2004, South Bass Island, Ohio (n p 1450)
+
+There was no single location where all the case patients drank
+tap water. Water was classiﬁed at each location as either well
+water or municipal water, depending on the source. When
+stratiﬁed by water source, both well water (34 [46%] vs. 17
+[19%]; mOR, 4.7; 95% CI, 1.9–17.6) and municipal water (49
+[53%] vs. 24 [22%]; mOR, 8.2; 95% CI, 2.9–25.3) appeared to
+be associated with illness.
+Contact with lake water, swimming in any pool, and the
+speciﬁc food items of interest were not signiﬁcantly associated
+with illness.
+Environmental investigation. The environmental investi­
+gation documented that the municipal water treatment facility
+on the island was functioning properly. Cross-connections from
+auxiliary wells to the municipal water supply were identiﬁed
+and eliminated by the Ohio Environmental Protection Agency.
+Sixty (76%) of 79 private wells on the island tested positive
+for total coliforms, and 24 (30%) of 79 tested positive for E.
+coli. Seventeen (100%) of 17 businesses with noncommunity
+public wells had water samples that tested positive for total
+coliforms, and 12 businesses had samples that tested positive
+for E. coli. Campylobacter jejuni was cultured from 1 public
+water supply well. Sixteen of these 17 businesses were issued
+no-use orders on their wells by the Ohio Environmental Pro­
+tection Agency as a consequence of sampling results. The en­
+teric viral indicators of fecal contamination, somatic coliphages,
+and F-speciﬁc coliphages were detected in well-water samples,
+as was the spore-forming bacterial indicator of fecal contam­
+ination, C. perfringens. In addition to C. jejuni, several other
+human pathogens were detected in well-water samples using
+PCR: Salmonella species, Cryptosporidium species (and, specif­
+ically, Cryptosporidium hominis), adenovirus, and enterovirus.
+A single Giardia intestinalis cyst was observed in 1 well-water
+sample but was not conﬁrmed by molecular analysis.
+The geology of the island is such that wells receive ground
+
+water from a karst aquifer, consisting of fractured limestone,
+sinkholes, and underground caves (ﬁgure 2). This type of aqui­
+fer is very vulnerable to contamination. The environmental
+assessment demonstrated that contamination of the karst aqui­
+fer beneath the island had occurred from multiple land uses
+such as onsite septic systems, land application of septage, in­
+ﬁltration of land run-off, and, possibly, a direct hydraulic con­
+nection with Lake Erie [15].
+Laboratory investigation of patients. The ODH laboratory
+tested 70 stool specimens for bacterial pathogens, 62 whole
+stool specimens for norovirus, and 67 stool specimens for par­
+asitic agents. C. jejuni was identiﬁed in stool specimens obtained
+from 16 persons experiencing illness, norovirus in 9, G. intes­
+tinalis in 3, and Salmonella enterica serotype Typhimurium in
+1. Two patients with conﬁrmed C. jejuni infection were house­
+hold contacts of other case patients infected with C. jejuni.
+The clinical specimens tested for enterotoxigenic E. coli and
+Shiga-toxin producing E. coli were all found to be negative.
+The clinical isolates sent to the CDC were identiﬁed as C. jejuni.
+Five C. jejuni isolates were subtyped by PFGE, and the resulting
+PFGE tif images were uploaded to the National Molecular Subtyping Network for Foodborne Disease Surveillance (PulseNet)
+for comparison. Four isolates were indistinguishable by SmaI
+and KpnI PFGE; 1 isolate had a different PFGE pattern. The
+PFGE pattern of the C. jejuni strain isolated from a raw wellwater sample differed from those of the clinical isolates.
+All 3 C. jejuni clinical isolates were susceptible to the 8 an­
+timicrobial agents tested, with the exception of 1 isolate that
+showed intermediate resistance to erythromycin.
+DISCUSSION
+We describe a large outbreak of gastroenteritis with multiple
+etiologies among visitors to and residents of South Bass Island,
+Waterborne Outbreak of Gastroenteritis • CID 2007:44 (15 February) • 509
+
+
+
+Table 2. Bivariate analysis of drinking water exposure among 100 case patients and 117
+matched control subjects, South Bass Island, Ohio, 2004.
+
+Exposure
+Drank tap water
+
+Case patients
+(n p 100)
+
+Control subjects
+(n p 117)
+
+mOR (95%CI)
+
+P
+
+68 (68)
+
+41 (35)
+
+4.3 (2.2–9.3)
+
+!.001
+
+Drank tap water from a well
+
+34 (46)
+
+17 (19)
+
+4.7 (1.9–17.6)
+
+!.001
+
+Drank municipal tap water
+
+49 (53)
+
+24 (22)
+
+8.2 (2.9–25.3)
+
+!.001
+
+Drank commercial bottled water
+Drank water bottle ﬁlled on island
+
+37 (37)
+19 (19)
+
+43 (37)
+7 (6)
+
+1.0 (0.5–2.3)
+6.0 (1.6–30.0)
+
+.90
+.005
+
+Drank a fountain drink
+Drank a crushed ice drink
+
+37 (37)
+20 (20)
+
+41 (35)
+16 (14)
+
+1.2 (0.6–2.6)
+1.4 (0.6–3.3)
+
+.70
+.50
+
+Drank a drink with ice
+
+72 (73)
+
+62 (53)
+
+7.1 (2.2–25.5)
+
+9 (9)
+
+10 (9)
+
+1.1 (0.3–3.3)
+
+.90
+
+72 (74)
+
+87 (76)
+
+0.9 (0.3–2.2)
+
+.90
+
+a
+
+Drank a hot drinka
+Drank other type of drinka
+
+!.001
+
+NOTE. Data are no. (%) of subjects, unless otherwise indicated. mOR; matched OR.
+a
+
+Seventy-four case patients and 90 control subjects drank water form a well, 108 control subjects drank a
+hot drink, and 98 case patients and 115 control subjects drank other types of drinks.
+
+Ohio, caused by fecal contamination of the ground water aqui­
+fer. Outbreaks that affect many people and involve multiple
+etiologies are characteristically associated with sewage contam­
+ination of water supplies [5–8, 16–18]. The ﬁndings of the
+outbreak investigation indicate that contaminated drinking wa­
+ter was the source of illness. Drinking tap water on the island
+was strongly associated with illness. Furthermore, a signiﬁcant
+dose-response effect was observed, with the association between
+becoming ill and drinking tap water increasing as the volume
+of water consumed increased. Results of the environmental
+investigation supported these ﬁndings, because many ground
+water wells were found to harbor multiple bacterial indicators
+of fecal contamination.
+In the epidemiologic investigation, both well water and mu­
+nicipal water were found to be associated with illness. However,
+the epidemiologic study design limited our ability to differ­
+entiate the association of well water versus municipal water
+sources; control subjects were travel companions who usually
+went to the same places with their matched case patient, thus
+essentially matching on water source. Furthermore, there may
+have been misclassiﬁcation of the drinking water sources, be­
+cause many businesses in the village of Put-In-Bay that had
+auxiliary wells were found to have cross-connections to the
+municipal supply. These cross-connections represented a pos­
+sible source of contamination of the municipal supply. Thus,
+the investigation could not convincingly demonstrate whether
+the risk was from well water, municipal water, or both. How­
+ever, the results of the environmental investigation consistently
+showed contamination of the ground water being supplied to
+wells on the island. Episodic contamination of the municipal
+system cannot be ruled out, particularly in light of the multiple
+cross-connections to auxiliary wells.
+The epidemiologic investigation suggests multiple ongoing
+points of exposure to contaminated water, and the environ­
+510 • CID 2007:44 (15 February) • O’Reilly et al.
+
+mental assessment found widespread contamination of the
+aquifer, because many wells from various locations on the island
+showed evidence of contamination [15, 19]. In addition, an
+illegal sewage disposal site on the center of the island was un­
+covered during the investigation, where untreated sewage from
+residential homes and businesses had for years been dumped
+into a sinkhole leading to the ground water aquifer. The sewage
+being disposed of at this site was licensed to be land applied
+and harrowed into the ground. The Board of Directors of the
+Ottawa County Health Department immediately revoked the
+hauler’s license when these ﬁndings were presented to them by
+the outbreak investigation team. The karst aquifer geology, the
+unsuitability of the soil for sewage ﬁltration, illicit sewage dis­
+posal, and inﬁltration of water from Lake Erie all may have
+contributed to widespread ground water contamination on the
+island.
+The number of new cases of illness diminished in late August
+2004. This appears to be due to several factors. The number
+of visitors to the island appeared to have decreased following
+coverage of the outbreak in the media, no-use orders were
+issued by the Ohio Environmental Protection Agency for public
+well water supplies [19], and recommendations were made dur­
+ing the outbreak, advising residents and visitors to consider
+drinking boiled or bottled water instead of tap water.
+Since the outbreak, a number of short term solutions have
+been implemented, including the use of water hauled from the
+municipal treatment plant; installation of continuous disinfec­
+tion devices, such as inline chlorination and ultraviolet systems;
+the use of bottled or boiled drinking water; extension of some
+of the municipal water lines; provision of recommendations
+for water testing and treatment of private residential systems;
+expansion of the water treatment plant capacity; and posted
+signs at the entrances to businesses to notify the public if the
+water supply is approved by the Ohio Environmental Protection
+
+
+
+Table 3. Amount of tap water consumed by case patients and matched control
+subjects during their visits to South Bass Island, Ohio, 2004.
+
+Amount of tap water consumed
+16 cups
+
+Case patients
+(n p 97)
+
+Control subjects
+(n p 115)
+
+mOR (95% CI)
+
+15 (15)
+
+2 (2)
+
+64.7 (5.4–778.0)
+
+5–6
+
+9 (9)
+
+2 (2)
+
+40.1 (2.3–687.8)
+
+3–4
+
+15 (15)
+
+10 (9)
+
+7.2 (2.1–24.7)
+
+1–2
+!1
+
+18 (19)
+8 (8)
+
+12 (10)
+13 (11)
+
+3.6 (1.4–9.5)
+1.9 (0.6–5.8)
+
+None
+
+32 (33)
+
+76 (66)
+
+…
+
+NOTE. Data are no. (%) of subjects, unless otherwise indicated. mOR, matched OR.
+
+Agency. The Ottawa County Health Department and the ODH
+have implemented more stringent construction standards for
+new wells designed to minimize exposure to contaminants, have
+improved enforcement of continuous disinfection requirements
+for contaminated wells, and have provided educational infor­
+mation to residents with recommendations for frequent bac­
+terial testing of private wells. Further large-scale improvements
+to the water and waste treatment infrastructure on the island
+are being implemented as a consequence of the outbreak.
+Water quality degradation on South Bass Island most likely
+occurred over a long period of time—possibly years. It would
+be prudent, particularly in areas with similar karst hydrogeology
+where ground water is a source of drinking water or where
+ground water is connected to surface water, to examine the
+available historical water-quality data trends to prevent such
+waterborne outbreaks of infection from occurring. Swift im­
+plementation of the Environmental Protection Agency’s pro­
+posed Ground Water Rule, which speciﬁes the appropriate use
+of disinfection in ground water, addresses other components
+
+of ground water systems, and establishes a targeted strategy to
+identify ground water systems at high risk for contamination,
+may have an impact on protecting public health [20].
+In light of this large outbreak on South Bass Island, devel­
+opment of an island-wide community public water system is
+recommended to provide safe, sufﬁcient, and sustainable drink­
+ing water for residents and visitors, and further investigation
+of the inﬂuence of sewage disposal on the underground aquifer
+is warranted. The beneﬁts of adequate infrastructure to guar­
+antee drinking water safety far outweigh its costs.
+MEMBERS OF THE OUTBREAK WORKING
+GROUP
+Tammy Bannerman, Barbara Bradley, Lynne Bratka, Jane Carmean, Rebecca Fugitt, Scott Golden, Elizabeth Koch, Maureen
+Murphy, Ellen Salehi, and Forrest Smith (Ohio Department of
+Health); Nancy C. Osborn, Jean M. Wertenbach, and Scott M.
+Young (Ottawa County Health Department); Mike Baker, Chris
+
+Figure 2. Representation of karst hydrogeology on South Bass Island, Ohio. From left to right of the schematic, ground water is replenished by
+precipitation that drains into the aquifer. This ground water can supply water to wells. Contaminants from sewage and animal reservoirs may be
+ﬂushed through the fractured rock or down sinkholes into the aquifer. The karst aquifer is hydraulically connected to Lake Erie, and thus, surface
+water from Lake Erie may inﬁltrate the ground water aquifer via fractures. Soil on the island is very thin and absent in some places, providing little
+to no natural ﬁltration of contaminants.
+Waterborne Outbreak of Gastroenteritis • CID 2007:44 (15 February) • 511
+
+
+
+Bowman, Holly Kolaz, Beth Messer, Shannon Nabors, and Dave
+White (Ohio Environmental Protection Agency); Maya Achen,
+Jim Agin, Tom Brisker, Beverly Byrum, Tiny Flynn, Terri Ger­
+hardt, Carolyn Gosnell, Tom Kallis, Chuck Kirchner, Darlene
+McDonnell, Maureta Ott, Paul Panico, and Craig Utter (Ohio
+Department of Agriculture); and Cheryl A. Bopp and Lenee H.
+Browne (Centers for Disease Control and Prevention).
+Acknowledgments
+We thank the following individuals and groups for their contribution
+to the investigation: other members of the outbreak investigative group at
+Ottawa County Health Department, Ohio Department of Health, Ohio
+Environmental Protection Agency, and Ohio Department of Agriculture;
+staff who assisted with the investigation at Canton, Cuyahoga, Elyria, Erie,
+Fulton, Hamilton, Hocking, Huron, Lake, Newark City, Ottawa, Sanduskey,
+Toledo/Lucas, and Wood County local health departments; M. Adams, M.
+Beach, J. Choudhuri, J. Pruckler, N. Puhr, K. Schlatter, S. Scott, J. Stei­
+gerwalt, M. A. Widdowson, Coordinating Center for Infectious Diseases,
+Centers for Disease Control and Prevention.
+Financial support. Federal, state, and local governments of the United
+States.
+Potential conﬂicts of interest. All authors: no conﬂicts.
+
+References
+1. World Health Organization. Safe piped water: managing microbial wa­
+ter quality in piped distribution systems. In: Ainsworth R, ed. World
+Health Organization Report, 2004:1–147.
+2. Blackburn BG, Craun GF, Yoder JS, et al. Surveillance for waterbornedisease outbreaks associated with drinking water: United States, 2001–
+2002. MMWR Surveill Summ 2004; 53:23–45.
+3. Pedley S, Howard G. The public health implications of microbiological
+contamination of groundwater. Q J Eng Geol 1997; 30:179–88.
+4. Kuusi M, Klemets P, Miettinen I, et al. An outbreak of gastroenteritis
+from a non-chlorinated community water supply. J Epidemiol Com­
+munity Health 2004; 58:273–7.
+5. Public Health Agency of Canada. Waterborne outbreak of gastroen­
+teritis associated with a contaminated municipal water supply, Walk­
+erton, Ontario, May–June 2000. Canada Communicable Disease Re­
+port 2000; 26-20:170–3.
+6. Clark CG, Price L, Ahmed R, et al. Characterization of waterborne
+outbreak-associated Campylobacter jejuni, Walkerton, Ontario. Emerg
+Infect Dis 2003; 9:1232–41.
+
+512 • CID 2007:44 (15 February) • O’Reilly et al.
+
+7. Maurer AM, Sturchler D. A waterborne outbreak of small round struc­
+tured virus, campylobacter and shigella co-infections in La Neuveville,
+Switzerland, 1998. Epidemiol Infect 2000; 125:325–32.
+8. Jones IG, Roworth M. An outbreak of Escherichia coli O157 and cam­
+pylobacteriosis associated with contamination of a drinking water sup­
+ply. Public Health 1996; 110:277–82.
+9. Simpson H. Promoting the management and protection of private
+water wells. J Toxicol Environ Health A 2004; 67:1679–704.
+10. Johnson UOP. Ground water and wells: a reference book for the waterwell industry. St. Paul, Minnesota: UOP-Johnson, 1975.
+11. Centers for Disease Control and Prevention. Standard question­
+naire for foodborne outbreaks. Available at: http://www.cdc.gov/
+foodborneoutbreaks/documents/standard_questionnaire.pdf. Accessed
+4 August 2006.
+12. Ribot EM, Fitzgerald C, Kubota K, Swaminathan B, Barrett TJ. Rapid
+pulsed-ﬁeld gel electrophoresis protocol for subtyping of Campylobacter
+jejuni. J Clin Microbiol 2001; 39:1889–94.
+13. Swaminathan B, Barrett TJ, Hunter SB, Tauxe RV. PulseNet: the mo­
+lecular subtyping network for foodborne bacterial disease surveillance,
+United States. Emerg Infect Dis 2001; 7:382–9.
+14. Hill VR, Polaczyk AL, Hahn D, et al. Development of a rapid method
+for simultaneously recovering microbes in drinking water using ultra­
+ﬁltration with sodium polyphosphate and surfactants. Appl Environ
+Microbiol 2005; 71:6878–84.
+15. Ohio Department of Health. Investigation of the ground water quality
+of South Bass Island, Ottawa County, Ohio. Bureau of Environmental
+Health Report. Available at: http://www2.odh.ohio.gov/asset/iu_ﬁles/
+sbibeh.pdf. Accessed November 2005.
+16. Meinhardt PL. Water and bioterrorism: preparing for the potential
+threat to U.S. water supplies and public health. Annu Rev Public Health
+2005;26:213–37.
+17. Mac Kenzie WR, Hoxie NJ, Proctor ME, et al. A massive outbreak in
+Milwaukee of cryptosporidium infection transmitted through the pub­
+lic water supply. N Engl J Med 1994; 331:161–7.
+18. Sacks JJ, Lieb S, Baldy LM, et al. Epidemic campylobacteriosis asso­
+ciated with a community water supply. Am J Public Health 1986; 76:
+424–8.
+19. Ohio Environmental Protection Agency. South Bass Island, Ottawa
+County gastrointestinal illness summer 2004: Ohio Environmental Pro­
+tection Agency investigation and actions. Available at: http://www.
+epa.state.oh.us/ddagw/SBIweb/Reports/SBI_EPA.pdf. Accessed Nov­
+ember 2005.
+20. Environmental Protection Agency. National primary drinking water
+regulations: ground water rule: proposed rules, 40 CFR parts 141 and
+142. Available at: http://www.epa.gov/safewater/gwr.html. Accessed 4
+August 2006.
+
+
