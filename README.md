@@ -12,4 +12,4 @@ The repository contains these scripts:
 
 4. Modified scripts from [OPEN-KE](https://github.com/thunlp/OpenKE) to test our dataset on the baseline models.
 
-All codes are tested on Python 3.5+.
+All scripts are tested on Python 3.5+.
