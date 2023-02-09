@@ -8,7 +8,7 @@ The repository contains these scripts:
 
 3. Scripts to create knowledge graph completion (KGC) tasks based triples data from SemMedDB and SemRep.
  
-3.  Modified scripts from [KG-BERT](https://github.com/yao8839836/kg-bert#readme) for fine-tuning BERT and RoBERTa models on KGC tasks
+3.  Modified scripts from [KG-BERT](https://github.com/yao8839836/kg-bert#readme) for fine-tuning BERT and RoBERTa models on KGC tasks.
 
 4. Modified scripts from [OPEN-KE](https://github.com/thunlp/OpenKE) to test our dataset on the baseline models.
 
