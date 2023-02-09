@@ -5,10 +5,10 @@
 
 ## Use Scrapper.py to scrape urls from WebOfScience and NationalLilbraryOfMedicine with specific keywords.
 
-python scrapper.py driverpath=<Path To ChromeDriver>
+python scrapper.py driverpath=PathToChromeDriver
 
 
 ## Combine the extracted abstracts using combine_data.py
-python combine_data.py rootdir=<Sourcedir> outdir=<Destinationdir>
+python combine_data.py rootdir=SourceDirectory outdir=DestinationDirectory
 
 ## Convert PDF to text files using converter.py

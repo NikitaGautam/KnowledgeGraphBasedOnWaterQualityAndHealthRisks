@@ -1,5 +1,5 @@
 
-## : Original Datasets are not included due to UMLS license agreement (distribution of datasets not permitted). However, we have included the steps using which you can extract the data from UMLS. 
+## Original Datasets are not included in this repository due to UMLS license agreement (distribution of datasets not permitted). However, we have included the steps using which you can extract the data from UMLS. 
 
 ### Steps for extracting the triples data from UMLS
 ```

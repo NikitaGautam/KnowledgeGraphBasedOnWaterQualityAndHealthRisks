@@ -58,7 +58,7 @@ python3 run_bert_relation_prediction.py --task_name kg --do_train --do_eval --do
 ```
 
 
-Other scripts are similar to the ones mentioned in the triple classification section. 
+Commands for relation prediction using fine-tuned BERT, RoBERTa and fine-tuned RoBERTa are similar to the ones mentioned in the triple classification above. 
 
 
 
