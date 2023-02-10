@@ -4,9 +4,7 @@ The repository contains these scripts:
 
 1. Webcrawler scripts to extract data from Web Of Science and National Library of Medicine. 
 
-2. Contains the crawled data using keywords as well as domain specific corpuses related to water quality and health risks.
-
-3. Scripts to create knowledge graph completion (KGC) tasks based triples data from SemMedDB and SemRep.
+2. Scripts to create knowledge graph completion (KGC) tasks based triples data from SemMedDB and SemRep.
  
 3.  Modified scripts from [KG-BERT](https://github.com/yao8839836/kg-bert#readme) for fine-tuning BERT and RoBERTa models on KGC tasks.
 
