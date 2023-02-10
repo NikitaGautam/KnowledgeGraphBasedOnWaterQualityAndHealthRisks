@@ -46,6 +46,7 @@ class GetAllUrl:
                     "Water salinity and illness",
                     "Water characteristics and illness",
                     "Tides and illness",
+                    "Harmful algal blooms"
                 ]
 
     def start_execution(self,):
